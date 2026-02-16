@@ -1,0 +1,620 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Morning Macro Brief</title>
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <style>
+    :root {
+      --bg: #f5f0e8;
+      --ink: #1f2a30;
+      --muted: #5d6a72;
+      --card: #fffdf8;
+      --line: #d7ccc0;
+      --accent: #9e5b2e;
+      --accent-soft: #f3e1d3;
+      --good: #216e39;
+      --bad: #a5282f;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Noto Serif KR", "Malgun Gothic", serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 10%, #f9efe2 0%, transparent 35%),
+        radial-gradient(circle at 90% 0%, #e8f0f5 0%, transparent 30%),
+        var(--bg);
+      line-height: 1.55;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 24px auto 40px;
+      padding: 0 16px;
+    }
+
+    h1, h2 {
+      margin: 0 0 10px;
+    }
+
+    h1 {
+      font-size: 30px;
+      letter-spacing: 0.2px;
+    }
+
+    h2 {
+      font-size: 22px;
+      border-left: 4px solid var(--accent);
+      padding-left: 10px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 16px;
+      margin-top: 14px;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 8px 6px;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    th:first-child, td:first-child {
+      text-align: left;
+    }
+
+    .up { color: var(--good); font-weight: 700; }
+    .down { color: var(--bad); font-weight: 700; }
+
+    .chart-grid {
+      margin-top: 14px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 10px;
+    }
+
+    .chart-card {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 8px;
+    }
+
+    .chart-title {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .chart {
+      width: 100%;
+      height: 120px;
+    }
+
+    .news-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    button {
+      border: 1px solid var(--accent);
+      background: var(--accent-soft);
+      color: var(--ink);
+      padding: 6px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+
+    button:hover {
+      filter: brightness(0.98);
+    }
+
+    ol {
+      margin: 8px 0 0 20px;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 6px;
+    }
+
+    .source {
+      color: var(--muted);
+      font-size: 12px;
+      margin-left: 6px;
+    }
+
+    .warning {
+      border-left: 4px solid #c47f17;
+      background: #fff7ea;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 13px;
+    }
+
+    @media (max-width: 900px) {
+      .grid-2 {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>보수 관점 데일리 브리프</h1>
+
+    <section class="card" id="section-1">
+      <h2>Section 1. 감성 인사 및 시간 정보</h2>
+      <p id="greeting"></p>
+      <p id="thai-date"></p>
+      <div class="grid-2">
+        <p id="year-progress"></p>
+        <p id="contract-progress"></p>
+      </div>
+    </section>
+
+    <section class="card" id="section-2">
+      <h2>Section 2. 시장 리포트</h2>
+      <div class="table-wrap">
+        <table id="market-table">
+          <thead>
+            <tr>
+              <th>자산</th>
+              <th>현재가</th>
+              <th>DoD</th>
+              <th>MoM</th>
+              <th>YoY</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="chart-grid" id="market-charts"></div>
+      <p class="muted" id="market-analysis"></p>
+    </section>
+
+    <section class="card" id="section-3-4">
+      <h2>Section 3 & 4. 뉴스 리포트</h2>
+      <p class="muted">각 섹션은 최근 24시간 이내 기사만 표출하며, 보수 성향/경제지 우선 소스 화이트리스트만 사용합니다.</p>
+      <div class="warning">
+        News API 키가 없거나 요금제 제한이 있으면 기사 수집이 불완전할 수 있습니다. 이 경우 항목은 <b>데이터없음</b>으로 표기됩니다.
+      </div>
+      <div id="news-sections"></div>
+    </section>
+
+    <section class="card" id="section-5">
+      <h2>Section 5. 마무리 및 격려</h2>
+      <p>
+        오늘의 리듬은 거창한 결심보다 작은 실행에서 시작됩니다. 시장의 소음이 커질수록 기준은 더 단단해집니다.
+        숫자는 흔들려도 원칙은 흔들리지 않습니다. 오늘 한 번의 집중이 내일의 선택지를 넓힙니다.
+        조급함보다 질서를, 감정보다 사실을 먼저 두십시오. 한 줄의 기록이 하루의 방향을 지켜줍니다.
+        때로는 속도보다 지속이 더 강한 성과를 만듭니다. 당신의 성실은 이미 복리로 쌓이고 있습니다.
+        오늘도 차분히, 그러나 분명하게 전진하시길 바랍니다.
+      </p>
+      <p><b>태국 속담</b></p>
+      <p>
+        <b>ช้าๆ ได้พร้าเล่มงาม</b><br>
+        발음: <i>차 차 다이 프라 렘 응암</i><br>
+        뜻풀이: 서두르지 않으면 결국 더 좋은 결과를 얻는다.<br>
+        적용 메시지: 성급한 추격보다 검증된 원칙과 꾸준한 실행이 장기 성과를 만든다는 뜻입니다.
+      </p>
+    </section>
+  </div>
+
+  <script>
+    const CONFIG = {
+      NEWS_API_KEY: "", // 필요 시 입력: https://newsapi.org
+      MARKET_TIMEZONE: "Asia/Bangkok",
+      CONTRACT_START: "2025-08-22",
+      CONTRACT_TOTAL_DAYS: 678,
+      CHART_ITEMS: ["NASDAQ", "S&P500", "KOSPI", "KOSDAQ", "SET Index", "BTC/USD"],
+      ALLOWED_SOURCES: [
+        "조선", "중앙", "동아", "문화", "한경", "매경",
+        "WSJ", "Bloomberg", "Reuters", "Fox News", "Breitbart"
+      ],
+      ALLOWED_DOMAINS: [
+        "chosun.com", "joongang.co.kr", "donga.com", "munhwa.com", "hankyung.com", "mk.co.kr",
+        "wsj.com", "bloomberg.com", "reuters.com", "foxnews.com", "breitbart.com"
+      ]
+    };
+
+    const MARKET_SYMBOLS = [
+      { key: "NASDAQ", label: "나스닥", symbol: "^IXIC" },
+      { key: "S&P500", label: "S&P500", symbol: "^GSPC" },
+      { key: "KOSPI", label: "코스피", symbol: "^KS11" },
+      { key: "KOSPI100", label: "코스피100", symbol: "^KS100" },
+      { key: "KOSDAQ", label: "코스닥", symbol: "^KQ11" },
+      { key: "SET Index", label: "SET Index", symbol: "^SET.BK" },
+      { key: "SET50", label: "SET50", symbol: "^SET50.BK" },
+      { key: "BTC/USD", label: "비트코인(BTC/USD)", symbol: "BTC-USD" },
+      { key: "BTC/KRW", label: "비트코인(BTC/KRW)", symbol: "BTC-KRW" },
+      { key: "DXY", label: "달러 인덱스", symbol: "DX-Y.NYB" },
+      { key: "USD/JPY", label: "달러-엔", symbol: "JPY=X" },
+      { key: "USD/KRW", label: "달러-원", symbol: "KRW=X" },
+      { key: "USD/THB", label: "달러-바트", symbol: "THB=X" },
+      { key: "THB/KRW", label: "바트-원", derived: true }
+    ];
+
+    const NEWS_BLOCKS = [
+      { id: "kr-econ", title: "한국 경제", query: "Korea economy OR Korea inflation OR Korea exports" },
+      { id: "th-econ", title: "태국 경제", query: "Thailand economy OR Thailand inflation OR Bank of Thailand" },
+      { id: "global-econ", title: "국제 경제", query: "global economy OR Federal Reserve OR ECB OR oil prices" },
+      { id: "kr-news", title: "한국 뉴스", query: "Korea politics OR Korea industry OR Korea policy" },
+      { id: "th-news", title: "태국 뉴스", query: "Thailand policy OR Thailand industry OR Thailand politics" },
+      { id: "global-news", title: "국제 뉴스", query: "geopolitics OR G7 OR trade policy OR security" }
+    ];
+
+    function fmtNum(v, digits = 2) {
+      if (v === null || v === undefined || Number.isNaN(v)) return "데이터없음";
+      return Number(v).toLocaleString("ko-KR", {
+        minimumFractionDigits: digits,
+        maximumFractionDigits: digits
+      });
+    }
+
+    function pct(newV, oldV) {
+      if (newV == null || oldV == null || oldV === 0) return null;
+      return ((newV - oldV) / oldV) * 100;
+    }
+
+    function pctSpan(v) {
+      if (v == null || Number.isNaN(v)) return "데이터없음";
+      const cls = v >= 0 ? "up" : "down";
+      const sign = v >= 0 ? "+" : "";
+      return `<span class="${cls}">${sign}${fmtNum(v)}%</span>`;
+    }
+
+    function dayOfYear(date) {
+      const start = new Date(date.getFullYear(), 0, 1);
+      const diff = date - start;
+      return Math.floor(diff / 86400000) + 1;
+    }
+
+    function round2(v) {
+      return Math.round(v * 100) / 100;
+    }
+
+    function thaiSeasonLine(month) {
+      if (month >= 3 && month <= 5) return "태국의 건기가 깊어지는 시기, 단정한 절제가 하루의 품격을 세웁니다.";
+      if (month >= 6 && month <= 10) return "우기의 기척이 스미는 계절, 내리는 비처럼 차분한 집중이 성과를 키웁니다.";
+      return "선선한 바람이 머무는 절기, 고요한 아침의 질서가 하루의 방향을 밝혀 줍니다.";
+    }
+
+    function getThaiNow() {
+      const now = new Date();
+      const locale = new Intl.DateTimeFormat("sv-SE", {
+        timeZone: CONFIG.MARKET_TIMEZONE,
+        year: "numeric", month: "2-digit", day: "2-digit",
+        hour: "2-digit", minute: "2-digit", second: "2-digit",
+        hour12: false
+      }).format(now);
+      return new Date(locale.replace(" ", "T"));
+    }
+
+    function isoWeek(d) {
+      const date = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+      const dayNum = date.getUTCDay() || 7;
+      date.setUTCDate(date.getUTCDate() + 4 - dayNum);
+      const yearStart = new Date(Date.UTC(date.getUTCFullYear(), 0, 1));
+      return Math.ceil((((date - yearStart) / 86400000) + 1) / 7);
+    }
+
+    function renderGreeting() {
+      const d = getThaiNow();
+      const beYear = d.getFullYear() + 543;
+      const months = d.getMonth() + 1;
+      const day = d.getDate();
+      const week = isoWeek(d);
+      const weekdayMap = ["일요일", "월요일", "화요일", "수요일", "목요일", "금요일", "토요일"];
+      const thaiWeekdayMap = ["วันอาทิตย์", "วันจันทร์", "วันอังคาร", "วันพุธ", "วันพฤหัสบดี", "วันศุกร์", "วันเสาร์"];
+      const weekday = d.getDay();
+
+      document.getElementById("greeting").innerHTML =
+        "안녕하세요.<br>" +
+        thaiSeasonLine(months) + "<br>" +
+        "오늘도 시장의 변동 너머 본질을 읽어내는 균형 잡힌 판단을 응원합니다.";
+
+      document.getElementById("thai-date").textContent =
+        `불기 ${beYear}년 ${months}월 ${day}일 (태국시간 기준) (${week}/52번째 주, ${weekdayMap[weekday]} / ${thaiWeekdayMap[weekday]})`;
+
+      const doy = dayOfYear(d);
+      const yearProgressA = (doy / 365) * 100;
+      const yearProgressB = (doy / (isLeapYear(d.getFullYear()) ? 366 : 365)) * 100;
+      const contractStart = new Date(CONFIG.CONTRACT_START + "T00:00:00");
+      const elapsed = Math.max(0, Math.floor((d - contractStart) / 86400000));
+      const contractProgress = (elapsed / CONFIG.CONTRACT_TOTAL_DAYS) * 100;
+
+      document.getElementById("year-progress").textContent =
+        `* 올해: ${doy} / 365 (진행률: ${round2(yearProgressA).toFixed(2)}%)`;
+      document.getElementById("contract-progress").textContent =
+        `계약: ${elapsed} / ${CONFIG.CONTRACT_TOTAL_DAYS} (진행률: ${round2(contractProgress).toFixed(2)}%)`;
+
+      if (Math.abs(yearProgressA - yearProgressB) > 0.3) {
+        console.warn("연 진행률 교차검증 차이 발생", yearProgressA, yearProgressB);
+      }
+    }
+
+    function isLeapYear(year) {
+      return (year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0);
+    }
+
+    async function fetchYahooSeries(symbol) {
+      const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=1y&interval=1d`;
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`${symbol} fetch failed`);
+      const data = await res.json();
+      const result = data?.chart?.result?.[0];
+      if (!result) throw new Error(`${symbol} empty`);
+      const ts = result.timestamp || [];
+      const closes = result.indicators?.quote?.[0]?.close || [];
+      const points = [];
+      for (let i = 0; i < ts.length; i++) {
+        const c = closes[i];
+        if (c == null) continue;
+        points.push({ time: ts[i], value: c });
+      }
+      return points;
+    }
+
+    function pickLookbackValue(points, days) {
+      if (!points.length) return null;
+      const latest = points[points.length - 1].time;
+      const target = latest - (days * 86400);
+      let best = null;
+      for (const p of points) {
+        if (p.time <= target) best = p.value;
+      }
+      return best ?? points[0].value;
+    }
+
+    async function loadMarket() {
+      const tbody = document.querySelector("#market-table tbody");
+      const chartWrap = document.getElementById("market-charts");
+      tbody.innerHTML = "";
+      chartWrap.innerHTML = "";
+
+      const marketData = {};
+
+      for (const item of MARKET_SYMBOLS) {
+        if (item.derived) continue;
+        try {
+          const points = await fetchYahooSeries(item.symbol);
+          if (!points.length) throw new Error("no points");
+          const last = points[points.length - 1].value;
+          const prev = points.length >= 2 ? points[points.length - 2].value : null;
+          const m1 = pickLookbackValue(points, 30);
+          const y1 = pickLookbackValue(points, 365);
+          marketData[item.key] = {
+            label: item.label,
+            price: last,
+            dod: pct(last, prev),
+            mom: pct(last, m1),
+            yoy: pct(last, y1),
+            points
+          };
+        } catch (e) {
+          marketData[item.key] = {
+            label: item.label, price: null, dod: null, mom: null, yoy: null, points: []
+          };
+        }
+      }
+
+      const usdkrw = marketData["USD/KRW"]?.price ?? null;
+      const usdthb = marketData["USD/THB"]?.price ?? null;
+      if (usdkrw && usdthb) {
+        marketData["THB/KRW"] = {
+          label: "바트-원",
+          price: usdkrw / usdthb,
+          dod: null, mom: null, yoy: null, points: []
+        };
+      } else {
+        marketData["THB/KRW"] = {
+          label: "바트-원", price: null, dod: null, mom: null, yoy: null, points: []
+        };
+      }
+
+      for (const item of MARKET_SYMBOLS) {
+        const d = marketData[item.key] || { label: item.label, price: null, dod: null, mom: null, yoy: null, points: [] };
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${d.label}</td>
+          <td>${d.price == null ? "데이터없음" : fmtNum(d.price)}</td>
+          <td>${pctSpan(d.dod)}</td>
+          <td>${pctSpan(d.mom)}</td>
+          <td>${pctSpan(d.yoy)}</td>
+        `;
+        tbody.appendChild(tr);
+
+        if (CONFIG.CHART_ITEMS.includes(item.key) && d.points && d.points.length > 10) {
+          const card = document.createElement("div");
+          card.className = "chart-card";
+          card.innerHTML = `<div class="chart-title">${d.label}</div><div class="chart" id="chart-${safeId(item.key)}"></div>`;
+          chartWrap.appendChild(card);
+          const chart = LightweightCharts.createChart(card.querySelector(".chart"), {
+            layout: { background: { color: "#ffffff" }, textColor: "#4a5560" },
+            grid: { vertLines: { color: "#eef2f6" }, horzLines: { color: "#eef2f6" } },
+            rightPriceScale: { visible: true },
+            timeScale: { visible: false },
+            crosshair: { mode: 0 }
+          });
+          const series = chart.addAreaSeries({
+            topColor: "rgba(64, 135, 193, 0.35)",
+            bottomColor: "rgba(64, 135, 193, 0.04)",
+            lineColor: "#2d6f9c",
+            lineWidth: 2
+          });
+          series.setData(d.points.map(p => ({ time: p.time, value: p.value })));
+        }
+      }
+
+      renderMarketAnalysis(marketData);
+    }
+
+    function safeId(v) {
+      return v.replace(/[^a-zA-Z0-9]/g, "-");
+    }
+
+    function renderMarketAnalysis(marketData) {
+      const keys = ["NASDAQ", "S&P500", "KOSPI", "DXY", "USD/KRW"];
+      const texts = [];
+      for (const key of keys) {
+        const d = marketData[key];
+        if (!d || d.price == null || d.dod == null) continue;
+        texts.push(`${d.label}는 전일 대비 ${fmtNum(d.dod)}% 움직였습니다.`);
+      }
+
+      const msg = [
+        texts[0] || "주요 위험자산 지표의 단기 변동 데이터가 제한적입니다.",
+        "최근 변동성은 주요국 금리 경로(연준/한은), 물가 지표, 달러 강세 여부에 민감하게 반응합니다.",
+        "주식시장은 기관/외국인 수급과 실적 가이던스 변화가 지수 방향성을 좌우하는 구간입니다.",
+        "환율은 미 국채금리와 위험선호 변화에 동행하는 경향이 커, 달러 인덱스와 함께 해석해야 합니다.",
+        "원자재 및 지정학 리스크는 인플레이션 기대와 성장 전망을 동시에 흔들 수 있어 교차 점검이 필요합니다."
+      ];
+      document.getElementById("market-analysis").textContent = msg.join(" ");
+    }
+
+    function buildNewsSections() {
+      const root = document.getElementById("news-sections");
+      root.innerHTML = "";
+      for (const block of NEWS_BLOCKS) {
+        const wrap = document.createElement("div");
+        wrap.className = "card";
+        wrap.innerHTML = `
+          <div class="news-header">
+            <h3>${block.title} (5)</h3>
+            <button data-id="${block.id}">새로고침 (24시간)</button>
+          </div>
+          <ol id="list-${block.id}"><li>로딩중...</li></ol>
+        `;
+        root.appendChild(wrap);
+      }
+      root.addEventListener("click", async (e) => {
+        const btn = e.target.closest("button[data-id]");
+        if (!btn) return;
+        await loadNewsBlock(btn.dataset.id);
+      });
+    }
+
+    function within24h(isoDate) {
+      if (!isoDate) return false;
+      const t = new Date(isoDate).getTime();
+      return (Date.now() - t) <= 24 * 3600 * 1000;
+    }
+
+    function sourceAllowed(article) {
+      const sourceName = article?.source?.name || "";
+      const url = article?.url || "";
+      const sourceMatch = CONFIG.ALLOWED_SOURCES.some(s => sourceName.toLowerCase().includes(s.toLowerCase()));
+      const domainMatch = CONFIG.ALLOWED_DOMAINS.some(d => url.toLowerCase().includes(d));
+      return sourceMatch || domainMatch;
+    }
+
+    function extractNumericHint(text) {
+      const m = (text || "").match(/(\$|₩|%|bp|억|조|\d+\.\d+|\d+)/i);
+      return m ? m[0] : "";
+    }
+
+    async function loadNewsBlock(blockId) {
+      const block = NEWS_BLOCKS.find(v => v.id === blockId);
+      const list = document.getElementById(`list-${blockId}`);
+      if (!block || !list) return;
+
+      list.innerHTML = "<li>갱신중...</li>";
+
+      if (!CONFIG.NEWS_API_KEY) {
+        list.innerHTML = "<li>데이터없음 <span class='source'>(News API 키 미설정)</span></li>";
+        return;
+      }
+
+      const from = new Date(Date.now() - 24 * 3600 * 1000).toISOString();
+      const params = new URLSearchParams({
+        q: `${block.query}`,
+        language: "en",
+        from,
+        sortBy: "publishedAt",
+        pageSize: "20",
+        apiKey: CONFIG.NEWS_API_KEY,
+        domains: CONFIG.ALLOWED_DOMAINS.join(",")
+      });
+
+      try {
+        const res = await fetch(`https://newsapi.org/v2/everything?${params.toString()}`);
+        if (!res.ok) throw new Error("news fetch failed");
+        const data = await res.json();
+        const items = (data.articles || [])
+          .filter(sourceAllowed)
+          .filter(a => within24h(a.publishedAt))
+          .slice(0, 5);
+
+        if (!items.length) {
+          list.innerHTML = "<li>데이터없음</li>";
+          return;
+        }
+
+        list.innerHTML = "";
+        for (const a of items) {
+          const numeric = extractNumericHint(`${a.title} ${a.description}`);
+          const li = document.createElement("li");
+          li.innerHTML = `
+            <a href="${a.url}" target="_blank" rel="noopener noreferrer">${a.title}</a>
+            <span class="source">(${a.source?.name || "출처미상"}, ${new Date(a.publishedAt).toLocaleString("ko-KR")})</span>
+            ${numeric ? `<span class="source">[수치 단서: ${numeric}]</span>` : "<span class='source'>[수치 단서: 데이터없음]</span>"}
+          `;
+          list.appendChild(li);
+        }
+      } catch (e) {
+        list.innerHTML = "<li>데이터없음</li>";
+      }
+    }
+
+    async function loadAllNews() {
+      for (const block of NEWS_BLOCKS) {
+        await loadNewsBlock(block.id);
+      }
+    }
+
+    async function init() {
+      renderGreeting();
+      buildNewsSections();
+      await loadMarket();
+      await loadAllNews();
+    }
+
+    init();
+  </script>
+</body>
+</html>
