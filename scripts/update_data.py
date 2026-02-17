@@ -330,7 +330,7 @@ def numeric_hint(text):
 
 def fetch_news_section(section):
     if not NEWS_API_KEY:
-        return []
+        raise RuntimeError("NEWS_API_KEY missing")
     from_ts = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
     q = urlencode(
         {
@@ -344,6 +344,8 @@ def fetch_news_section(section):
         }
     )
     data = http_json(f"https://newsapi.org/v2/everything?{q}")
+    if data.get("status") == "error":
+        raise RuntimeError(data.get("message") or data.get("code") or "newsapi error")
     out = []
     for a in data.get("articles", []):
         if not allowed_article(a):
@@ -368,13 +370,20 @@ def fetch_news_section(section):
 
 def build_news():
     sections = {}
+    errors = {}
     for section in NEWS_SECTIONS:
         try:
             sections[section["id"]] = fetch_news_section(section)
-        except Exception:
+        except Exception as e:
             sections[section["id"]] = []
+            errors[section["id"]] = str(e)
         time.sleep(0.15)
-    return {"generated_at": datetime.now(timezone.utc).isoformat(), "sections": sections}
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "sections": sections,
+        "errors": errors,
+        "key_configured": bool(NEWS_API_KEY),
+    }
 
 
 def main():
