@@ -98,7 +98,7 @@
       width: 100%;
       border-collapse: collapse;
       font-size: 0.85rem;
-      min-width: 860px;
+      min-width: 980px;
     }
 
     th,
@@ -126,7 +126,9 @@
       z-index: 10;
       font-weight: 700;
       color: white;
-      min-width: 130px;
+      min-width: 84px;
+      width: 1%;
+      white-space: nowrap;
       border-right: 1px solid var(--border);
     }
 
@@ -279,10 +281,10 @@
             <tr>
               <th>Index</th>
               <th>Price</th>
-              <th style="width:150px;">Trend (5Y)</th>
-              <th>DoD</th>
-              <th>MoM</th>
-              <th>YoY</th>
+              <th style="width:150px;">1D</th>
+              <th style="width:150px;">1M</th>
+              <th style="width:150px;">1Y</th>
+              <th style="width:150px;">5Y</th>
             </tr>
           </thead>
           <tbody></tbody>
@@ -344,10 +346,8 @@
     { key: "NASDAQ", label: "NASDAQ" },
     { key: "S&P500", label: "S&P 500" },
     { key: "KOSPI", label: "KOSPI" },
-    { key: "KOSPI100", label: "KOSPI 100" },
     { key: "KOSDAQ", label: "KOSDAQ" },
     { key: "SET Index", label: "SET Index" },
-    { key: "SET50", label: "SET50" },
     { key: "BTC/USD", label: "BTC/USD" },
     { key: "BTC/KRW", label: "BTC/KRW" },
     { key: "DXY", label: "Dollar Index" },
@@ -439,21 +439,8 @@
 
   function fmtPriceByKey(key, v) {
     if (v == null || Number.isNaN(v)) return "데이터없음";
-    if (key === "BTC/USD") return `${fmtNum(v, 2)}`;
-    if (key === "BTC/KRW") return `₩${fmtNum(v, 0)}`;
-    if (key === "USD/KRW" || key === "THB/KRW") return fmtNum(v, 2);
+    if (key === "BTC/KRW") return fmtNum(v, 0);
     return fmtNum(v, 2);
-  }
-
-  function clsByPct(v) {
-    if (v == null || Number.isNaN(v)) return "";
-    return v >= 0 ? "text-up" : "text-down";
-  }
-
-  function fmtPct(v) {
-    if (v == null || Number.isNaN(v)) return "데이터없음";
-    const sign = v >= 0 ? "+" : "";
-    return `${sign}${fmtNum(v)}%`;
   }
 
   function createSparkline(containerId, points, color) {
@@ -480,6 +467,25 @@
     container.innerHTML = `<svg viewBox="0 0 ${width} ${height}" width="100%" height="100%" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
   }
 
+  function sliceRecentPoints(points, days) {
+    if (!Array.isArray(points) || points.length < 2) return [];
+    const end = new Date(points[points.length - 1].time).getTime();
+    if (!Number.isFinite(end)) return [];
+    const start = end - (days * 86400000);
+    const sliced = points.filter(p => {
+      const t = new Date(p.time).getTime();
+      return Number.isFinite(t) && t >= start;
+    });
+    return sliced.length >= 2 ? sliced : [];
+  }
+
+  function trendColor(points) {
+    if (!Array.isArray(points) || points.length < 2) return "#64748b";
+    const first = points[0].value;
+    const last = points[points.length - 1].value;
+    return last >= first ? "#ef4444" : "#3b82f6";
+  }
+
   async function loadJson(path) {
     const url = `${path}?t=${Date.now()}`;
     const res = await fetch(url, { cache: "no-store" });
@@ -501,24 +507,33 @@
       const historySeries = history.series || {};
 
       MARKET_SYMBOLS.forEach((item, idx) => {
-        const d = byKey.get(item.key) || { label: item.label, price: null, dod: null, mom: null, yoy: null };
+        const d = byKey.get(item.key) || { label: item.label, price: null };
         const points = Array.isArray(historySeries[item.key]) ? historySeries[item.key] : [];
-        const chartId = `spark-${idx}`;
+        const p1d = sliceRecentPoints(points, 1);
+        const p1m = sliceRecentPoints(points, 30);
+        const p1y = sliceRecentPoints(points, 365);
+        const p5y = points.length >= 2 ? points : [];
+        const ids = {
+          d1: `spark-1d-${idx}`,
+          m1: `spark-1m-${idx}`,
+          y1: `spark-1y-${idx}`,
+          y5: `spark-5y-${idx}`,
+        };
         const tr = document.createElement("tr");
         tr.innerHTML = `
           <td>${d.label || item.label}</td>
           <td style="font-weight:600;">${fmtPriceByKey(item.key, d.price)}</td>
-          <td class="sparkline-cell"><div id="${chartId}" class="sparkline-container"></div></td>
-          <td class="${clsByPct(d.dod)}">${fmtPct(d.dod)}</td>
-          <td class="${clsByPct(d.mom)}">${fmtPct(d.mom)}</td>
-          <td class="${clsByPct(d.yoy)}">${fmtPct(d.yoy)}</td>
+          <td class="sparkline-cell"><div id="${ids.d1}" class="sparkline-container">${p1d.length < 2 ? "데이터없음" : ""}</div></td>
+          <td class="sparkline-cell"><div id="${ids.m1}" class="sparkline-container">${p1m.length < 2 ? "데이터없음" : ""}</div></td>
+          <td class="sparkline-cell"><div id="${ids.y1}" class="sparkline-container">${p1y.length < 2 ? "데이터없음" : ""}</div></td>
+          <td class="sparkline-cell"><div id="${ids.y5}" class="sparkline-container">${p5y.length < 2 ? "데이터없음" : ""}</div></td>
         `;
         tbody.appendChild(tr);
 
-        if (points.length > 10) {
-          const color = (d.dod ?? 0) >= 0 ? "#ef4444" : "#3b82f6";
-          createSparkline(chartId, points, color);
-        }
+        if (p1d.length >= 2) createSparkline(ids.d1, p1d, trendColor(p1d));
+        if (p1m.length >= 2) createSparkline(ids.m1, p1m, trendColor(p1m));
+        if (p1y.length >= 2) createSparkline(ids.y1, p1y, trendColor(p1y));
+        if (p5y.length >= 2) createSparkline(ids.y5, p5y, trendColor(p5y));
       });
 
       const generatedAt = data.generated_at ? new Date(data.generated_at).toLocaleString("ko-KR") : "알 수 없음";

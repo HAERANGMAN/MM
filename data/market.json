@@ -1,10 +1,7 @@
 {
-  "generated_at": "2026-02-17T06:06:02.457410+00:00",
+  "generated_at": "2026-02-17T06:13:35.943144+00:00",
   "insight": "Raw data summary: NASDAQ -0.22%, S&P 500 +0.05%, KOSPI -0.28%, USD/KRW -0.74%",
-  "errors": [
-    "KOSPI 100: insufficient raw points (1)",
-    "SET50: insufficient raw points (1)"
-  ],
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
@@ -34,15 +31,6 @@
       "raw_points": 1226
     },
     {
-      "key": "KOSPI100",
-      "label": "KOSPI 100",
-      "price": 6246.419921875,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 1
-    },
-    {
       "key": "KOSDAQ",
       "label": "KOSDAQ",
       "price": 1106.0799560546875,
@@ -61,39 +49,30 @@
       "raw_points": 1207
     },
     {
-      "key": "SET50",
-      "label": "SET50",
-      "price": 974.219970703125,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 1
-    },
-    {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 68225.9140625,
-      "dod": -0.817398245156554,
-      "mom": -27.135868408447177,
-      "yoy": -28.763178182743072,
+      "price": 68365.9140625,
+      "dod": -0.6138749294709939,
+      "mom": -26.98635075722931,
+      "yoy": -28.61699978130341,
       "raw_points": 1826
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 98636768.0,
-      "dod": -0.48405238988155197,
-      "mom": -28.515527886930936,
-      "yoy": -28.593012704489556,
+      "price": 98892744.0,
+      "dod": -0.2257947976878613,
+      "mom": -28.33001583493816,
+      "yoy": -28.407701736271747,
       "raw_points": 1826
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": 97.11100006103516,
-      "dod": 0.23844221115420977,
-      "mom": -2.292986560628394,
-      "yoy": -8.875855926504668,
+      "price": 97.08300018310547,
+      "dod": 0.209540602232354,
+      "mom": -2.3211582862563587,
+      "yoy": -8.902129622676075,
       "raw_points": 1258
     },
     {

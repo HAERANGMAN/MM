@@ -22,10 +22,8 @@ MARKET_SYMBOLS = [
     {"key": "NASDAQ", "label": "NASDAQ", "symbol": "^IXIC"},
     {"key": "S&P500", "label": "S&P 500", "symbol": "^GSPC"},
     {"key": "KOSPI", "label": "KOSPI", "symbol": "^KS11"},
-    {"key": "KOSPI100", "label": "KOSPI 100", "symbol": "KOSPI100.KS"},
     {"key": "KOSDAQ", "label": "KOSDAQ", "symbol": "^KQ11"},
     {"key": "SET Index", "label": "SET Index", "symbol": "^SET.BK"},
-    {"key": "SET50", "label": "SET50", "symbol": "^SET50.BK"},
     {"key": "BTC/USD", "label": "BTC/USD", "symbol": "BTC-USD"},
     {"key": "BTC/KRW", "label": "BTC/KRW", "symbol": "BTC-KRW"},
     {"key": "DXY", "label": "Dollar Index", "symbol": "DX-Y.NYB"},
@@ -39,10 +37,8 @@ TWELVEDATA_SYMBOLS = {
     "NASDAQ": ["IXIC", "NASDAQ", "NDX"],
     "S&P500": ["GSPC", "SPX", "SPX500"],
     "KOSPI": ["KOSPI", "KS11"],
-    "KOSPI100": ["KOSPI100", "KOSPI100:KSC", "KS100:KSC", "KS100"],
     "KOSDAQ": ["KOSDAQ", "KQ11"],
     "SET Index": ["SET", "SET.BK"],
-    "SET50": ["SET50", "SET50.BK", "SET50:SET", "SET50_SET50"],
     "BTC/USD": ["BTC/USD", "BTCUSD"],
     "BTC/KRW": ["BTC/KRW", "BTCKRW"],
     "DXY": ["DXY", "DX"],
@@ -201,7 +197,9 @@ def collapse_to_daily(points):
 def update_market_history(history, source_series, snapshot_items, now_ts):
     cutoff = now_ts - (5 * 365 * 86400)
     day_ts = int(datetime.fromtimestamp(now_ts, tz=timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
-    series_map = history.get("series", {})
+    allowed_keys = {item["key"] for item in MARKET_SYMBOLS}
+    base_series = history.get("series", {})
+    series_map = {k: v for k, v in base_series.items() if k in allowed_keys}
 
     for item in MARKET_SYMBOLS:
         key = item["key"]
