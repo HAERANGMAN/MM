@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-02-17T10:08:08.024476+00:00",
+  "generated_at": "2026-02-17T11:05:59.239518+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Taliban Says It Is Ready to 'Cooperate' with Iran if America Attacks",
+        "description": "The ruling Afghan Taliban, through top spokesman Zabihullah Mujahid, declared in an interview on Sunday it is prepared to offer its \"full support\" to Iran in the event of an American attack.\nThe post Taliban Says It Is Ready to ‘Cooperate’ with Iran if Americ…",
+        "url": "https://www.breitbart.com/asia/2026/02/16/taliban-says-it-is-ready-to-cooperate-with-iran-if-america-attacks/",
+        "publishedAt": "2026-02-16T10:52:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Brokers forced to rethink funding playbook as India curbs loans",
+        "description": "Industry watchers expect securities firms to lean more on shadow lenders and internal capital to fund their own books as well as client positions",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-16/brokers-forced-to-rethink-funding-playbook-as-india-curbs-loans",
+        "publishedAt": "2026-02-16T10:35:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India records lowest-ever price of ₹279/kg for green hydrogen in tender",
+        "description": "The bid of ₹279 per kilogram was to supply 10,000 tonnes of green hydrogen a year to Numaligarh Refinery Ltd., majority owned by state-run Oil India Ltd., in Assam",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-16/india-records-lowest-ever-price-for-green-hydrogen-in-tender",
+        "publishedAt": "2026-02-16T10:18:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "279"
+      },
+      {
+        "title": "Corporate America has decided that DEI needs to DIE",
+        "description": "Fortune 500 companies show 65% drop in their diversity commitments as mounting legal challenges force corporate retreat from controversial DEI programs.",
+        "url": "https://www.foxnews.com/opinion/corporate-america-has-decided-dei-needs-die",
+        "publishedAt": "2026-02-16T10:00:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "500"
+      },
+      {
+        "title": "India’s revamped data addresses IMF concerns, official says",
+        "description": "The statistics ministry released the first set of data with a revised 2024 base on Thursday that showed inflation remained relatively benign, bolstering the case to keep interest rates on hold",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-13/india-s-revamped-data-addresses-imf-concerns-official-says",
+        "publishedAt": "2026-02-16T09:36:52Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2024"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Brokers forced to rethink funding playbook as India curbs loans",
+        "description": "Industry watchers expect securities firms to lean more on shadow lenders and internal capital to fund their own books as well as client positions",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-16/brokers-forced-to-rethink-funding-playbook-as-india-curbs-loans",
+        "publishedAt": "2026-02-16T10:35:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Anthropic boosts India AI push via flag airline, Cognizant pacts",
+        "description": "Anthropic PBC is embedding its marquee AI coding agent within prominent Indian firms including its flag carrier and an outsourcing giant, aiming to quicken artificial intelligence adoption across the world’s most populous nation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-16/anthropic-boosts-india-ai-push-via-flag-airline-cognizant-pacts",
+        "publishedAt": "2026-02-16T10:02:52Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Saudi oil sales to China jump after prices cut to 5-year low",
+        "description": "Aramco will provide around 56-57 million barrels for loading next month to China, compared to 48 million barrels the previous month",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-16/saudi-oil-sales-to-china-jump-after-prices-cut-to-five-year-low",
+        "publishedAt": "2026-02-16T08:23:00Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Exclusive: Somaliland President Invites U.S. Security, Economic Partnership in ‘Strategically Positioned Territory’",
+        "description": "Somaliland President Abdirahman Mohamed Abdullahi said his nation is ready to enter into a full security and economic partnership with the United States, arguing that it occupies what he called “perhaps the most strategically positioned territory in the regio…",
+        "url": "https://www.breitbart.com/politics/2026/02/15/exclusive-somaliland-president-invites-u-s-security-economic-partnership-strategic-territory/",
+        "publishedAt": "2026-02-16T03:30:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Department of War transports next-generation reactor in nuclear energy milestone",
+        "description": "Department of War airlifts nuclear reactor via C-17 aircraft from California to Utah, advancing Trump's nuclear energy executive order for military use.",
+        "url": "https://www.foxnews.com/politics/department-war-transports-next-generation-reactor-nuclear-energy-milestone",
+        "publishedAt": "2026-02-15T21:36:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "17"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
