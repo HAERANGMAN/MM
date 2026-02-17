@@ -79,12 +79,48 @@ ALLOWED_DOMAINS = [
 ]
 
 NEWS_SECTIONS = [
-    {"id": "news-korea-econ", "query": "Korea economy OR Korea exports OR Korea inflation", "lang": "ko"},
-    {"id": "news-thai-econ", "query": "Thailand economy OR Bank of Thailand OR Thailand inflation", "lang": "en"},
-    {"id": "news-global-econ", "query": "global economy OR Federal Reserve OR ECB OR oil", "lang": "en"},
-    {"id": "news-korea-soc", "query": "Korea policy OR Korea politics OR Korea industry", "lang": "ko"},
-    {"id": "news-thai-soc", "query": "Thailand policy OR Thailand politics OR Thailand industry", "lang": "en"},
-    {"id": "news-global-soc", "query": "geopolitics OR G7 OR trade policy OR security", "lang": "en"},
+    {
+        "id": "news-korea-econ",
+        "query": "Korea economy OR Korea exports OR Korea inflation OR 한국 경제 OR 수출",
+        "lang": "ko",
+        "domains": ["chosun.com", "joongang.co.kr", "donga.com", "munhwa.com", "hankyung.com", "mk.co.kr"],
+        "fallback_query": "Korea economy OR Korea market OR Korea policy",
+    },
+    {
+        "id": "news-thai-econ",
+        "query": "Thailand economy OR Bank of Thailand OR Thailand inflation OR SET Index OR baht",
+        "lang": "en",
+        "domains": ["reuters.com", "bloomberg.com", "wsj.com", "bangkokpost.com", "nationthailand.com"],
+        "fallback_query": "Thailand economy OR Thailand policy OR Thailand market",
+    },
+    {
+        "id": "news-global-econ",
+        "query": "global economy OR Federal Reserve OR ECB OR oil",
+        "lang": "en",
+        "domains": ["wsj.com", "bloomberg.com", "reuters.com", "foxnews.com", "breitbart.com"],
+        "fallback_query": "economy OR market OR inflation OR rates",
+    },
+    {
+        "id": "news-korea-soc",
+        "query": "Korea policy OR Korea politics OR Korea industry OR 한국 정치",
+        "lang": "ko",
+        "domains": ["chosun.com", "joongang.co.kr", "donga.com", "munhwa.com", "hankyung.com", "mk.co.kr"],
+        "fallback_query": "Korea politics OR Korea policy OR Korea security",
+    },
+    {
+        "id": "news-thai-soc",
+        "query": "Thailand policy OR Thailand politics OR Thailand industry",
+        "lang": "en",
+        "domains": ["reuters.com", "bloomberg.com", "wsj.com", "bangkokpost.com", "nationthailand.com"],
+        "fallback_query": "Thailand politics OR Thailand policy OR Thailand security",
+    },
+    {
+        "id": "news-global-soc",
+        "query": "geopolitics OR G7 OR trade policy OR security",
+        "lang": "en",
+        "domains": ["wsj.com", "bloomberg.com", "reuters.com", "foxnews.com", "breitbart.com"],
+        "fallback_query": "global security OR geopolitics OR policy",
+    },
 ]
 
 
@@ -314,11 +350,12 @@ def build_market():
     }
 
 
-def allowed_article(a):
+def allowed_article(a, section=None):
     src = ((a.get("source") or {}).get("name") or "").lower()
     url = (a.get("url") or "").lower()
     source_match = any(x.lower() in src for x in ALLOWED_SOURCES)
-    domain_match = any(d in url for d in ALLOWED_DOMAINS)
+    section_domains = (section or {}).get("domains") or ALLOWED_DOMAINS
+    domain_match = any(d in url for d in section_domains)
     return source_match or domain_match
 
 
@@ -340,62 +377,74 @@ def fetch_news_section(section):
     from_24h = (now_utc - timedelta(hours=24)).isoformat()
     from_48h = (now_utc - timedelta(hours=48)).isoformat()
 
+    section_domains = section.get("domains") or ALLOWED_DOMAINS
+    section_query = section.get("query") or "economy OR policy OR market"
+    fallback_query = section.get("fallback_query") or "economy OR policy OR market OR trade"
+
     attempts = [
         {
-            "q": section["query"],
+            "q": section_query,
             "from": from_1h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
-            "domains": ",".join(ALLOWED_DOMAINS),
+            "domains": ",".join(section_domains),
             "apiKey": NEWS_API_KEY,
         },
         {
-            "q": section["query"],
+            "q": section_query,
             "from": from_2h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
-            "domains": ",".join(ALLOWED_DOMAINS),
+            "domains": ",".join(section_domains),
             "apiKey": NEWS_API_KEY,
         },
         {
-            "q": section["query"],
+            "q": section_query,
             "from": from_3h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
-            "domains": ",".join(ALLOWED_DOMAINS),
+            "domains": ",".join(section_domains),
             "apiKey": NEWS_API_KEY,
         },
         {
-            "q": section["query"],
+            "q": section_query,
             "from": from_6h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
-            "domains": ",".join(ALLOWED_DOMAINS),
+            "domains": ",".join(section_domains),
             "apiKey": NEWS_API_KEY,
         },
         {
-            "q": section["query"],
+            "q": section_query,
             "from": from_12h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
-            "domains": ",".join(ALLOWED_DOMAINS),
+            "domains": ",".join(section_domains),
             "apiKey": NEWS_API_KEY,
         },
         {
-            "q": section["query"],
+            "q": section_query,
             "from": from_24h,
             "sortBy": "publishedAt",
             "pageSize": 50,
-            "domains": ",".join(ALLOWED_DOMAINS),
+            "domains": ",".join(section_domains),
             "apiKey": NEWS_API_KEY,
         },
         {
-            "q": "economy OR policy OR market OR trade",
+            "q": fallback_query,
+            "from": from_48h,
+            "sortBy": "publishedAt",
+            "pageSize": 50,
+            "domains": ",".join(section_domains),
+            "apiKey": NEWS_API_KEY,
+        },
+        {
+            "q": fallback_query,
             "from": from_48h,
             "sortBy": "publishedAt",
             "pageSize": 50,
@@ -413,7 +462,7 @@ def fetch_news_section(section):
 
         out = []
         for a in data.get("articles", []):
-            if not allowed_article(a):
+            if not allowed_article(a, section):
                 continue
             pub = a.get("publishedAt")
             if not pub:

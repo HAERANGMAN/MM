@@ -470,13 +470,21 @@
       handleScroll: false,
       handleScale: false
     });
-    const lineSeries = chart.addLineSeries({
+    let lineSeries;
+    const seriesOptions = {
       color,
       lineWidth: 2,
       crosshairMarkerVisible: false,
       lastValueVisible: false,
       priceLineVisible: false
-    });
+    };
+    if (typeof chart.addLineSeries === "function") {
+      lineSeries = chart.addLineSeries(seriesOptions);
+    } else if (typeof chart.addSeries === "function" && LightweightCharts.LineSeries) {
+      lineSeries = chart.addSeries(LightweightCharts.LineSeries, seriesOptions);
+    } else {
+      throw new Error("Lightweight Charts API mismatch");
+    }
     lineSeries.setData(points.map(p => ({ time: p.time, value: p.value })));
     chart.timeScale().fitContent();
 
