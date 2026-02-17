@@ -332,7 +332,8 @@ def fetch_news_section(section):
     if not NEWS_API_KEY:
         raise RuntimeError("NEWS_API_KEY missing")
     from_ts = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
-    q = urlencode(
+
+    attempts = [
         {
             "q": section["query"],
             "from": from_ts,
@@ -341,31 +342,58 @@ def fetch_news_section(section):
             "language": section["lang"],
             "domains": ",".join(ALLOWED_DOMAINS),
             "apiKey": NEWS_API_KEY,
-        }
-    )
-    data = http_json(f"https://newsapi.org/v2/everything?{q}")
-    if data.get("status") == "error":
-        raise RuntimeError(data.get("message") or data.get("code") or "newsapi error")
-    out = []
-    for a in data.get("articles", []):
-        if not allowed_article(a):
+        },
+        {
+            "q": section["query"],
+            "from": from_ts,
+            "sortBy": "publishedAt",
+            "pageSize": 50,
+            "domains": ",".join(ALLOWED_DOMAINS),
+            "apiKey": NEWS_API_KEY,
+        },
+        {
+            "q": "economy OR policy OR market OR trade",
+            "from": from_ts,
+            "sortBy": "publishedAt",
+            "pageSize": 50,
+            "domains": ",".join(ALLOWED_DOMAINS),
+            "apiKey": NEWS_API_KEY,
+        },
+    ]
+
+    last_error = None
+    for params in attempts:
+        q = urlencode(params)
+        data = http_json(f"https://newsapi.org/v2/everything?{q}")
+        if data.get("status") == "error":
+            last_error = RuntimeError(data.get("message") or data.get("code") or "newsapi error")
             continue
-        pub = a.get("publishedAt")
-        if not pub:
-            continue
-        out.append(
-            {
-                "title": a.get("title"),
-                "description": a.get("description"),
-                "url": a.get("url"),
-                "publishedAt": pub,
-                "source": {"name": (a.get("source") or {}).get("name", "출처미상")},
-                "numericHint": numeric_hint((a.get("title") or "") + " " + (a.get("description") or "")),
-            }
-        )
-        if len(out) >= 5:
-            break
-    return out
+
+        out = []
+        for a in data.get("articles", []):
+            if not allowed_article(a):
+                continue
+            pub = a.get("publishedAt")
+            if not pub:
+                continue
+            out.append(
+                {
+                    "title": a.get("title"),
+                    "description": a.get("description"),
+                    "url": a.get("url"),
+                    "publishedAt": pub,
+                    "source": {"name": (a.get("source") or {}).get("name", "출처미상")},
+                    "numericHint": numeric_hint((a.get("title") or "") + " " + (a.get("description") or "")),
+                }
+            )
+            if len(out) >= 5:
+                break
+        if out:
+            return out
+
+    if last_error:
+        raise last_error
+    return []
 
 
 def build_news():
