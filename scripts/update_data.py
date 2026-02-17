@@ -244,6 +244,29 @@ def fetch_yahoo(symbol):
     raise RuntimeError(f"yahoo fail {symbol}: {last_err}")
 
 
+def fetch_yahoo_intraday(symbol):
+    hosts = ["query1.finance.yahoo.com", "query2.finance.yahoo.com"]
+    last_err = None
+    for host in hosts:
+        try:
+            url = f"https://{host}/v8/finance/chart/{symbol}?range=1d&interval=5m"
+            data = http_json(url)
+            result = ((data.get("chart") or {}).get("result") or [None])[0]
+            if not result:
+                raise RuntimeError(f"empty intraday chart: {host}")
+            ts = result.get("timestamp") or []
+            closes = (((result.get("indicators") or {}).get("quote") or [{}])[0]).get("close") or []
+            points = []
+            for i, t in enumerate(ts):
+                if i < len(closes) and closes[i] is not None:
+                    points.append({"time": int(t), "value": float(closes[i])})
+            if len(points) >= 2:
+                return points
+        except Exception as e:
+            last_err = e
+    raise RuntimeError(f"yahoo intraday fail {symbol}: {last_err}")
+
+
 def fetch_coingecko(vs_currency):
     url = f"https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency={vs_currency}&days=1825&interval=daily"
     data = http_json(url)
@@ -331,6 +354,20 @@ def fetch_series(item):
     return fetch_yahoo(item["symbol"])
 
 
+def fetch_live_price(item):
+    key = item["key"]
+    symbol = item.get("symbol")
+    if not symbol:
+        return None
+    if key == "THB/KRW":
+        return None
+    try:
+        intraday = fetch_yahoo_intraday(symbol)
+        return intraday[-1]["value"]
+    except Exception:
+        return None
+
+
 def build_market():
     errors = []
     by_key = {}
@@ -339,7 +376,9 @@ def build_market():
         try:
             points = fetch_series(item)
             source_series[item["key"]] = points
-            last = points[-1]["value"] if points else None
+            last_daily = points[-1]["value"] if points else None
+            last_live = fetch_live_price(item)
+            last = last_live if last_live is not None else last_daily
             prev = points[-2]["value"] if len(points) > 1 else None
             if len(points) < 2:
                 dod = None

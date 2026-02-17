@@ -460,54 +460,7 @@
     const container = document.getElementById(containerId);
     if (!container || points.length < 2) return;
     container.innerHTML = "";
-    try {
-      if (typeof LightweightCharts === "undefined") {
-        drawSvgSparkline(container, points, color);
-        return;
-      }
-      const chart = LightweightCharts.createChart(container, {
-        layout: { background: { type: "solid", color: "transparent" }, textColor: "transparent", attributionLogo: false },
-        grid: { vertLines: { visible: false }, horzLines: { visible: false } },
-        width: container.clientWidth || 140,
-        height: container.clientHeight || 46,
-        rightPriceScale: { visible: false },
-        timeScale: { visible: false },
-        crosshair: { visible: false },
-        handleScroll: false,
-        handleScale: false
-      });
-      let lineSeries = null;
-      const seriesOptions = {
-        color,
-        lineWidth: 2,
-        crosshairMarkerVisible: false,
-        lastValueVisible: false,
-        priceLineVisible: false
-      };
-      if (typeof chart.addLineSeries === "function") {
-        lineSeries = chart.addLineSeries(seriesOptions);
-      } else if (typeof chart.addAreaSeries === "function") {
-        lineSeries = chart.addAreaSeries({
-          topColor: "rgba(59,130,246,0.25)",
-          bottomColor: "rgba(59,130,246,0.02)",
-          lineColor: color,
-          lineWidth: 2,
-          crosshairMarkerVisible: false,
-          lastValueVisible: false,
-          priceLineVisible: false
-        });
-      } else if (typeof chart.addSeries === "function" && LightweightCharts.LineSeries) {
-        lineSeries = chart.addSeries(LightweightCharts.LineSeries, seriesOptions);
-      }
-      if (!lineSeries) {
-        drawSvgSparkline(container, points, color);
-        return;
-      }
-      lineSeries.setData(points.map(p => ({ time: p.time, value: p.value })));
-      chart.timeScale().fitContent();
-    } catch (_) {
-      drawSvgSparkline(container, points, color);
-    }
+    drawSvgSparkline(container, points, color);
   }
 
   function drawSvgSparkline(container, points, color) {
