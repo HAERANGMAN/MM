@@ -189,16 +189,28 @@ def normalize_points(points):
     return out
 
 
+def collapse_to_daily(points):
+    daily = {}
+    for p in points:
+        day_ts = int(datetime.fromtimestamp(p["time"], tz=timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
+        daily[day_ts] = p["value"]
+    out = [{"time": t, "value": daily[t]} for t in sorted(daily.keys())]
+    return out
+
+
 def update_market_history(history, source_series, snapshot_items, now_ts):
     cutoff = now_ts - (5 * 365 * 86400)
+    day_ts = int(datetime.fromtimestamp(now_ts, tz=timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
     series_map = history.get("series", {})
 
     for item in MARKET_SYMBOLS:
         key = item["key"]
         existing = normalize_points(series_map.get(key, []))
+        existing = collapse_to_daily(existing)
 
         # Seed with raw external history once if empty.
         seed = normalize_points(source_series.get(key, []))
+        seed = collapse_to_daily(seed)
         if not existing and seed:
             existing = seed
 
@@ -207,8 +219,12 @@ def update_market_history(history, source_series, snapshot_items, now_ts):
         if price is not None:
             try:
                 pv = float(price)
-                if math.isfinite(pv) and (not existing or existing[-1]["time"] != now_ts):
-                    existing.append({"time": now_ts, "value": pv})
+                if math.isfinite(pv):
+                    if existing and existing[-1]["time"] == day_ts:
+                        # Same UTC day: keep one daily point and refresh value.
+                        existing[-1]["value"] = pv
+                    else:
+                        existing.append({"time": day_ts, "value": pv})
             except Exception:
                 pass
 
@@ -242,29 +258,6 @@ def fetch_yahoo(symbol):
         except Exception as e:
             last_err = e
     raise RuntimeError(f"yahoo fail {symbol}: {last_err}")
-
-
-def fetch_yahoo_intraday(symbol):
-    hosts = ["query1.finance.yahoo.com", "query2.finance.yahoo.com"]
-    last_err = None
-    for host in hosts:
-        try:
-            url = f"https://{host}/v8/finance/chart/{symbol}?range=1d&interval=5m"
-            data = http_json(url)
-            result = ((data.get("chart") or {}).get("result") or [None])[0]
-            if not result:
-                raise RuntimeError(f"empty intraday chart: {host}")
-            ts = result.get("timestamp") or []
-            closes = (((result.get("indicators") or {}).get("quote") or [{}])[0]).get("close") or []
-            points = []
-            for i, t in enumerate(ts):
-                if i < len(closes) and closes[i] is not None:
-                    points.append({"time": int(t), "value": float(closes[i])})
-            if len(points) >= 2:
-                return points
-        except Exception as e:
-            last_err = e
-    raise RuntimeError(f"yahoo intraday fail {symbol}: {last_err}")
 
 
 def fetch_coingecko(vs_currency):
@@ -354,20 +347,6 @@ def fetch_series(item):
     return fetch_yahoo(item["symbol"])
 
 
-def fetch_live_price(item):
-    key = item["key"]
-    symbol = item.get("symbol")
-    if not symbol:
-        return None
-    if key == "THB/KRW":
-        return None
-    try:
-        intraday = fetch_yahoo_intraday(symbol)
-        return intraday[-1]["value"]
-    except Exception:
-        return None
-
-
 def build_market():
     errors = []
     by_key = {}
@@ -376,9 +355,7 @@ def build_market():
         try:
             points = fetch_series(item)
             source_series[item["key"]] = points
-            last_daily = points[-1]["value"] if points else None
-            last_live = fetch_live_price(item)
-            last = last_live if last_live is not None else last_daily
+            last = points[-1]["value"] if points else None
             prev = points[-2]["value"] if len(points) > 1 else None
             if len(points) < 2:
                 dod = None
