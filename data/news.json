@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T04:32:00.263039+00:00",
+  "generated_at": "2026-02-17T05:37:31.465181+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -9,12 +9,12 @@
     "news-global-soc": []
   },
   "errors": {
-    "news-korea-econ": "NEWS_API_KEY missing",
-    "news-thai-econ": "NEWS_API_KEY missing",
-    "news-global-econ": "NEWS_API_KEY missing",
-    "news-korea-soc": "NEWS_API_KEY missing",
-    "news-thai-soc": "NEWS_API_KEY missing",
-    "news-global-soc": "NEWS_API_KEY missing"
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
   },
-  "key_configured": false
+  "key_configured": true
 }
