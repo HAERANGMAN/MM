@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T03:49:39.118135+00:00",
+  "generated_at": "2026-02-17T03:55:38.449995+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -9,6 +9,10 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
     "news-thai-soc": "HTTP Error 429: Too Many Requests",
     "news-global-soc": "HTTP Error 429: Too Many Requests"
   },
