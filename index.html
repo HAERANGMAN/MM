@@ -540,11 +540,16 @@
     tbody.innerHTML = "";
 
     try {
-      const data = await loadJson("./data/market.json");
+      const [data, history] = await Promise.all([
+        loadJson("./data/market.json"),
+        loadJson("./data/market_history.json").catch(() => ({ series: {} }))
+      ]);
       const byKey = new Map((data.items || []).map(v => [v.key, v]));
+      const historySeries = history.series || {};
 
       MARKET_SYMBOLS.forEach((item, idx) => {
-        const d = byKey.get(item.key) || { label: item.label, points: [], price: null, dod: null, mom: null, yoy: null };
+        const d = byKey.get(item.key) || { label: item.label, price: null, dod: null, mom: null, yoy: null };
+        const points = Array.isArray(historySeries[item.key]) ? historySeries[item.key] : [];
         const chartId = `spark-${idx}`;
         const tr = document.createElement("tr");
         tr.innerHTML = `
@@ -557,9 +562,9 @@
         `;
         tbody.appendChild(tr);
 
-        if (Array.isArray(d.points) && d.points.length > 10) {
+        if (points.length > 10) {
           const color = (d.dod ?? 0) >= 0 ? "#ef4444" : "#3b82f6";
-          createSparkline(chartId, d.points, color);
+          createSparkline(chartId, points, color);
         }
       });
 

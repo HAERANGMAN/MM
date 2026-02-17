@@ -12,6 +12,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
+MARKET_HISTORY_FILE = DATA_DIR / "market_history.json"
 
 NEWS_API_KEY = os.getenv("NEWS_API_KEY", "").strip()
 TWELVEDATA_API_KEY = os.getenv("TWELVEDATA_API_KEY", "").strip()
@@ -158,6 +159,68 @@ def downsample(points, max_points=260):
     return out
 
 
+def load_market_history():
+    if not MARKET_HISTORY_FILE.exists():
+        return {"generated_at": None, "series": {}}
+    try:
+        raw = json.loads(MARKET_HISTORY_FILE.read_text(encoding="utf-8"))
+        if not isinstance(raw, dict):
+            return {"generated_at": None, "series": {}}
+        if "series" not in raw or not isinstance(raw["series"], dict):
+            raw["series"] = {}
+        return raw
+    except Exception:
+        return {"generated_at": None, "series": {}}
+
+
+def normalize_points(points):
+    out = []
+    if not isinstance(points, list):
+        return out
+    for p in points:
+        try:
+            t = int(p.get("time"))
+            v = float(p.get("value"))
+            if math.isfinite(v):
+                out.append({"time": t, "value": v})
+        except Exception:
+            continue
+    out.sort(key=lambda x: x["time"])
+    return out
+
+
+def update_market_history(history, source_series, snapshot_items, now_ts):
+    cutoff = now_ts - (5 * 365 * 86400)
+    series_map = history.get("series", {})
+
+    for item in MARKET_SYMBOLS:
+        key = item["key"]
+        existing = normalize_points(series_map.get(key, []))
+
+        # Seed with raw external history once if empty.
+        seed = normalize_points(source_series.get(key, []))
+        if not existing and seed:
+            existing = seed
+
+        snap = next((x for x in snapshot_items if x.get("key") == key), None)
+        price = None if not snap else snap.get("price")
+        if price is not None:
+            try:
+                pv = float(price)
+                if math.isfinite(pv) and (not existing or existing[-1]["time"] != now_ts):
+                    existing.append({"time": now_ts, "value": pv})
+            except Exception:
+                pass
+
+        # Keep 5 years window.
+        existing = [p for p in existing if p["time"] >= cutoff]
+        series_map[key] = existing
+
+    history["generated_at"] = datetime.now(timezone.utc).isoformat()
+    history["series"] = series_map
+    return history
+
+
 def fetch_yahoo(symbol):
     hosts = ["query1.finance.yahoo.com", "query2.finance.yahoo.com"]
     last_err = None
@@ -271,9 +334,11 @@ def fetch_series(item):
 def build_market():
     errors = []
     by_key = {}
+    source_series = {}
     for item in MARKET_SYMBOLS:
         try:
             points = fetch_series(item)
+            source_series[item["key"]] = points
             last = points[-1]["value"] if points else None
             prev = points[-2]["value"] if len(points) > 1 else None
             if len(points) < 2:
@@ -291,7 +356,7 @@ def build_market():
                 "dod": dod,
                 "mom": mom,
                 "yoy": yoy,
-                "points": downsample(points),
+                "raw_points": len(points),
             }
             if len(points) < 2:
                 errors.append(f"{item['label']}: insufficient raw points ({len(points)})")
@@ -305,7 +370,7 @@ def build_market():
                 "dod": None,
                 "mom": None,
                 "yoy": None,
-                "points": [],
+                "raw_points": 0,
             }
 
     valid = sum(1 for x in by_key.values() if x["price"] is not None)
@@ -320,12 +385,16 @@ def build_market():
         insight = f"Market data load failed: {' | '.join(errors[:3]) if errors else 'API/network error'}"
 
     items = [by_key[s["key"]] for s in MARKET_SYMBOLS]
-    return {
+    market = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "insight": insight,
         "errors": errors,
         "items": items,
     }
+    now_ts = int(datetime.now(timezone.utc).timestamp())
+    history = load_market_history()
+    history = update_market_history(history, source_series, items, now_ts)
+    return market, history
 
 
 def allowed_article(a, section=None):
@@ -484,11 +553,12 @@ def build_news():
 
 
 def main():
-    market = build_market()
+    market, history = build_market()
     news = build_news()
     (DATA_DIR / "market.json").write_text(json.dumps(market, ensure_ascii=False, indent=2), encoding="utf-8")
+    (DATA_DIR / "market_history.json").write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
     (DATA_DIR / "news.json").write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
-    print("updated data/market.json and data/news.json")
+    print("updated data/market.json, data/market_history.json and data/news.json")
 
 
 if __name__ == "__main__":
