@@ -117,6 +117,13 @@
       white-space: nowrap;
     }
 
+    th:nth-child(2),
+    td:nth-child(2) {
+      width: 96px;
+      max-width: 96px;
+      white-space: nowrap;
+    }
+
     td:first-child,
     th:first-child {
       text-align: left;
@@ -467,23 +474,23 @@
     container.innerHTML = `<svg viewBox="0 0 ${width} ${height}" width="100%" height="100%" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
   }
 
-  function sliceRecentPoints(points, days) {
-    if (!Array.isArray(points) || points.length < 2) return [];
-    const end = new Date(points[points.length - 1].time).getTime();
-    if (!Number.isFinite(end)) return [];
-    const start = end - (days * 86400000);
-    const sliced = points.filter(p => {
-      const t = new Date(p.time).getTime();
-      return Number.isFinite(t) && t >= start;
-    });
-    return sliced.length >= 2 ? sliced : [];
-  }
-
   function trendColor(points) {
     if (!Array.isArray(points) || points.length < 2) return "#64748b";
     const first = points[0].value;
     const last = points[points.length - 1].value;
     return last >= first ? "#ef4444" : "#3b82f6";
+  }
+
+  function normalizePoints(raw) {
+    if (!Array.isArray(raw)) return [];
+    return raw
+      .map(p => {
+        const t = Number(p.time);
+        const v = Number(p.value);
+        if (!Number.isFinite(t) || !Number.isFinite(v)) return null;
+        return { time: t, value: v };
+      })
+      .filter(Boolean);
   }
 
   async function loadJson(path) {
@@ -508,11 +515,11 @@
 
       MARKET_SYMBOLS.forEach((item, idx) => {
         const d = byKey.get(item.key) || { label: item.label, price: null };
-        const points = Array.isArray(historySeries[item.key]) ? historySeries[item.key] : [];
-        const p1d = sliceRecentPoints(points, 1);
-        const p1m = sliceRecentPoints(points, 30);
-        const p1y = sliceRecentPoints(points, 365);
-        const p5y = points.length >= 2 ? points : [];
+        const bucket = historySeries[item.key];
+        const p1d = normalizePoints(bucket?.["1d"]);
+        const p1m = normalizePoints(bucket?.["1m"]);
+        const p1y = normalizePoints(bucket?.["1y"]);
+        const p5y = normalizePoints(bucket?.["5y"]);
         const ids = {
           d1: `spark-1d-${idx}`,
           m1: `spark-1m-${idx}`,

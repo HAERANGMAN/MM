@@ -45,6 +45,7 @@ TWELVEDATA_SYMBOLS = {
     "USD/JPY": ["USD/JPY", "USDJPY"],
     "USD/KRW": ["USD/KRW", "USDKRW"],
     "USD/THB": ["USD/THB", "USDTHB"],
+    "THB/KRW": ["THB/KRW", "THBKRW"],
 }
 
 ALLOWED_SOURCES = [
@@ -236,11 +237,15 @@ def update_market_history(history, source_series, snapshot_items, now_ts):
 
 
 def fetch_yahoo(symbol):
+    return fetch_yahoo_chart(symbol, "5y", "1d")
+
+
+def fetch_yahoo_chart(symbol, rng, interval):
     hosts = ["query1.finance.yahoo.com", "query2.finance.yahoo.com"]
     last_err = None
     for host in hosts:
         try:
-            url = f"https://{host}/v8/finance/chart/{symbol}?range=5y&interval=1d"
+            url = f"https://{host}/v8/finance/chart/{symbol}?range={rng}&interval={interval}"
             data = http_json(url)
             result = ((data.get("chart") or {}).get("result") or [None])[0]
             if not result:
@@ -255,7 +260,7 @@ def fetch_yahoo(symbol):
                 return points
         except Exception as e:
             last_err = e
-    raise RuntimeError(f"yahoo fail {symbol}: {last_err}")
+    raise RuntimeError(f"yahoo fail {symbol} {rng}/{interval}: {last_err}")
 
 
 def fetch_coingecko(vs_currency):
@@ -284,6 +289,10 @@ def fetch_frankfurter(base, quote):
 
 
 def fetch_twelvedata(candidates):
+    return fetch_twelvedata_series(candidates, "1day", "5000")
+
+
+def fetch_twelvedata_series(candidates, interval, outputsize):
     if not TWELVEDATA_API_KEY:
         raise RuntimeError("TWELVEDATA_API_KEY missing")
     last_err = None
@@ -291,8 +300,8 @@ def fetch_twelvedata(candidates):
         try:
             q = urlencode({
                 "symbol": symbol,
-                "interval": "1day",
-                "outputsize": "5000",
+                "interval": interval,
+                "outputsize": outputsize,
                 "timezone": "UTC",
                 "apikey": TWELVEDATA_API_KEY,
             })
@@ -313,7 +322,7 @@ def fetch_twelvedata(candidates):
                 return points
         except Exception as e:
             last_err = e
-    raise RuntimeError(f"twelvedata fail: {last_err}")
+    raise RuntimeError(f"twelvedata fail ({interval}): {last_err}")
 
 
 def fetch_series(item):
@@ -345,14 +354,81 @@ def fetch_series(item):
     return fetch_yahoo(item["symbol"])
 
 
+def filter_recent_days(points, days):
+    if not points:
+        return []
+    cutoff = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
+    out = [p for p in points if p["time"] >= cutoff]
+    return out if len(out) >= 2 else []
+
+
+def downsample_to_3h(points):
+    if not points:
+        return []
+    buckets = {}
+    for p in points:
+        bucket = int(p["time"] // 10800) * 10800
+        buckets[bucket] = p["value"]
+    out = [{"time": t, "value": buckets[t]} for t in sorted(buckets.keys())]
+    if len(out) < 2:
+        return []
+    return out
+
+
+def build_chart_windows(item, long_points):
+    key = item["key"]
+    symbol = item.get("symbol")
+    candidates = TWELVEDATA_SYMBOLS.get(key, [])
+    windows = {
+        "1d": [],
+        "1m": [],
+        "1y": filter_recent_days(long_points, 365),
+        "5y": long_points,
+    }
+
+    if symbol:
+        try:
+            windows["1d"] = fetch_yahoo_chart(symbol, "1d", "5m")
+        except Exception:
+            windows["1d"] = []
+
+    if candidates:
+        try:
+            windows["1d"] = fetch_twelvedata_series(candidates, "5min", "300")
+        except Exception:
+            pass
+
+    if candidates:
+        try:
+            windows["1m"] = fetch_twelvedata_series(candidates, "3h", "300")
+        except Exception:
+            windows["1m"] = []
+
+    if len(windows["1m"]) < 2 and symbol:
+        try:
+            one_month_hourly = fetch_yahoo_chart(symbol, "1mo", "60m")
+            windows["1m"] = downsample_to_3h(one_month_hourly)
+        except Exception:
+            windows["1m"] = []
+
+    if symbol:
+        try:
+            one_year = fetch_yahoo_chart(symbol, "1y", "1d")
+            if len(one_year) >= 2:
+                windows["1y"] = one_year
+        except Exception:
+            pass
+
+    return windows
+
+
 def build_market():
     errors = []
     by_key = {}
-    source_series = {}
+    chart_series = {}
     for item in MARKET_SYMBOLS:
         try:
             points = fetch_series(item)
-            source_series[item["key"]] = points
             last = points[-1]["value"] if points else None
             prev = points[-2]["value"] if len(points) > 1 else None
             if len(points) < 2:
@@ -372,6 +448,7 @@ def build_market():
                 "yoy": yoy,
                 "raw_points": len(points),
             }
+            chart_series[item["key"]] = build_chart_windows(item, points)
             if len(points) < 2:
                 errors.append(f"{item['label']}: insufficient raw points ({len(points)})")
             time.sleep(0.12)
@@ -386,6 +463,7 @@ def build_market():
                 "yoy": None,
                 "raw_points": 0,
             }
+            chart_series[item["key"]] = {"1d": [], "1m": [], "1y": [], "5y": []}
 
     valid = sum(1 for x in by_key.values() if x["price"] is not None)
     lead_keys = ["NASDAQ", "S&P500", "KOSPI", "USD/KRW"]
@@ -405,9 +483,10 @@ def build_market():
         "errors": errors,
         "items": items,
     }
-    now_ts = int(datetime.now(timezone.utc).timestamp())
-    history = load_market_history()
-    history = update_market_history(history, source_series, items, now_ts)
+    history = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "series": chart_series,
+    }
     return market, history
 
 
