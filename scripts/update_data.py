@@ -331,12 +331,15 @@ def numeric_hint(text):
 def fetch_news_section(section):
     if not NEWS_API_KEY:
         raise RuntimeError("NEWS_API_KEY missing")
-    from_ts = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
+    now_utc = datetime.now(timezone.utc)
+    from_24h = (now_utc - timedelta(hours=24)).isoformat()
+    from_72h = (now_utc - timedelta(hours=72)).isoformat()
+    from_7d = (now_utc - timedelta(days=7)).isoformat()
 
     attempts = [
         {
             "q": section["query"],
-            "from": from_ts,
+            "from": from_24h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
@@ -345,7 +348,7 @@ def fetch_news_section(section):
         },
         {
             "q": section["query"],
-            "from": from_ts,
+            "from": from_72h,
             "sortBy": "publishedAt",
             "pageSize": 50,
             "domains": ",".join(ALLOWED_DOMAINS),
@@ -353,10 +356,9 @@ def fetch_news_section(section):
         },
         {
             "q": "economy OR policy OR market OR trade",
-            "from": from_ts,
+            "from": from_7d,
             "sortBy": "publishedAt",
             "pageSize": 50,
-            "domains": ",".join(ALLOWED_DOMAINS),
             "apiKey": NEWS_API_KEY,
         },
     ]
