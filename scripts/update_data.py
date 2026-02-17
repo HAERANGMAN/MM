@@ -249,6 +249,13 @@ def derive_ratio(a_points, b_points):
     return out
 
 
+def derive_scaled_series(base_points, scale):
+    out = []
+    for p in base_points:
+        out.append({"time": p["time"], "value": p["value"] * scale})
+    return out
+
+
 def fetch_series(item):
     key = item["key"]
     if key == "THB/KRW":
@@ -309,6 +316,54 @@ def build_market():
                 "yoy": None,
                 "points": [],
             }
+
+    # KOSPI100 fallback: if primary source has no usable history, proxy with KOSPI.
+    k100 = by_key.get("KOSPI100")
+    kospi = by_key.get("KOSPI")
+    if k100 and kospi and len(k100.get("points", [])) < 2 and len(kospi.get("points", [])) >= 2:
+        base = kospi["points"]
+        if k100.get("price") and kospi.get("price"):
+            scale = k100["price"] / kospi["price"]
+        else:
+            scale = 1.0
+        proxy = derive_scaled_series(base, scale)
+        last = proxy[-1]["value"]
+        prev = proxy[-2]["value"] if len(proxy) > 1 else None
+        by_key["KOSPI100"] = {
+            "key": "KOSPI100",
+            "label": "KOSPI 100",
+            "price": last,
+            "dod": pct(last, prev),
+            "mom": pct(last, pick_lookback(proxy, 30)),
+            "yoy": pct(last, pick_lookback(proxy, 365)),
+            "points": downsample(proxy),
+            "proxy_note": "KOSPI proxy",
+        }
+        errors.append("KOSPI 100: source missing, proxied by KOSPI series")
+
+    # SET50 fallback: if only single point, use SET Index history scaled to SET50 level.
+    s50 = by_key.get("SET50")
+    set_idx = by_key.get("SET Index")
+    if s50 and set_idx and len(s50.get("points", [])) < 2 and len(set_idx.get("points", [])) >= 2:
+        base = set_idx["points"]
+        if s50.get("price") and set_idx.get("price"):
+            scale = s50["price"] / set_idx["price"]
+        else:
+            scale = 1.0
+        proxy = derive_scaled_series(base, scale)
+        last = proxy[-1]["value"]
+        prev = proxy[-2]["value"] if len(proxy) > 1 else None
+        by_key["SET50"] = {
+            "key": "SET50",
+            "label": "SET50",
+            "price": last,
+            "dod": pct(last, prev),
+            "mom": pct(last, pick_lookback(proxy, 30)),
+            "yoy": pct(last, pick_lookback(proxy, 365)),
+            "points": downsample(proxy),
+            "proxy_note": "SET Index proxy",
+        }
+        errors.append("SET50: source insufficient, proxied by SET Index series")
 
     usdkrw = by_key.get("USD/KRW", {}).get("points", [])
     usdthb = by_key.get("USD/THB", {}).get("points", [])
