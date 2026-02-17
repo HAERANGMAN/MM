@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-02-17T11:05:59.239518+00:00",
+  "generated_at": "2026-02-17T11:51:46.247007+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Rich World’s growing civil unrest has an insurance sting",
+        "description": "Rising civil unrest is significantly increasing SRCC insurance losses, prompting insurers to adapt policies and raise premiums.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-15/rich-world-s-growing-civil-unrest-comes-with-an-insurance-sting",
+        "publishedAt": "2026-02-16T11:16:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Taliban Says It Is Ready to 'Cooperate' with Iran if America Attacks",
         "description": "The ruling Afghan Taliban, through top spokesman Zabihullah Mujahid, declared in an interview on Sunday it is prepared to offer its \"full support\" to Iran in the event of an American attack.\nThe post Taliban Says It Is Ready to ‘Cooperate’ with Iran if Americ…",
@@ -43,21 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "500"
-      },
-      {
-        "title": "India’s revamped data addresses IMF concerns, official says",
-        "description": "The statistics ministry released the first set of data with a revised 2024 base on Thursday that showed inflation remained relatively benign, bolstering the case to keep interest rates on hold",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-13/india-s-revamped-data-addresses-imf-concerns-official-says",
-        "publishedAt": "2026-02-16T09:36:52Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2024"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Taiwan 'will not escalate, but will not yield' to Chinese intimidation, foreign minister warns",
+        "description": "Taiwan Foreign Minister Lin Chia-lung warns China's military expansion threatens global stability and semiconductor supply chains, with 90% of advanced chips produced in Taiwan.",
+        "url": "https://www.foxnews.com/world/taiwan-will-not-escalate-not-yield-chinese-intimidation-foreign-minister-warns",
+        "publishedAt": "2026-02-16T11:15:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "90"
+      },
       {
         "title": "Brokers forced to rethink funding playbook as India curbs loans",
         "description": "Industry watchers expect securities firms to lean more on shadow lenders and internal capital to fund their own books as well as client positions",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Department of War transports next-generation reactor in nuclear energy milestone",
-        "description": "Department of War airlifts nuclear reactor via C-17 aircraft from California to Utah, advancing Trump's nuclear energy executive order for military use.",
-        "url": "https://www.foxnews.com/politics/department-war-transports-next-generation-reactor-nuclear-energy-milestone",
-        "publishedAt": "2026-02-15T21:36:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "17"
       }
     ]
   },
