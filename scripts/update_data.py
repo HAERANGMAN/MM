@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 import json
 import math
 import os
@@ -31,7 +31,7 @@ MARKET_SYMBOLS = [
     {"key": "USD/JPY", "label": "USD/JPY", "symbol": "JPY=X"},
     {"key": "USD/KRW", "label": "USD/KRW", "symbol": "KRW=X"},
     {"key": "USD/THB", "label": "USD/THB", "symbol": "THB=X"},
-    {"key": "THB/KRW", "label": "THB/KRW", "derived": True},
+    {"key": "THB/KRW", "label": "THB/KRW"},
 ]
 
 TWELVEDATA_SYMBOLS = {
@@ -51,12 +51,12 @@ TWELVEDATA_SYMBOLS = {
 }
 
 ALLOWED_SOURCES = [
-    "조선",
-    "중앙",
-    "동아",
-    "문화",
-    "한경",
-    "매경",
+    "議곗꽑",
+    "以묒븰",
+    "?숈븘",
+    "臾명솕",
+    "?쒓꼍",
+    "留ㅺ꼍",
     "WSJ",
     "Bloomberg",
     "Reuters",
@@ -81,7 +81,7 @@ ALLOWED_DOMAINS = [
 NEWS_SECTIONS = [
     {
         "id": "news-korea-econ",
-        "query": "Korea economy OR Korea exports OR Korea inflation OR 한국 경제 OR 수출",
+        "query": "Korea economy OR Korea exports OR Korea inflation OR ?쒓뎅 寃쎌젣 OR ?섏텧",
         "lang": "ko",
         "domains": ["chosun.com", "joongang.co.kr", "donga.com", "munhwa.com", "hankyung.com", "mk.co.kr"],
         "fallback_query": "Korea economy OR Korea market OR Korea policy",
@@ -102,7 +102,7 @@ NEWS_SECTIONS = [
     },
     {
         "id": "news-korea-soc",
-        "query": "Korea policy OR Korea politics OR Korea industry OR 한국 정치",
+        "query": "Korea policy OR Korea politics OR Korea industry OR ?쒓뎅 ?뺤튂",
         "lang": "ko",
         "domains": ["chosun.com", "joongang.co.kr", "donga.com", "munhwa.com", "hankyung.com", "mk.co.kr"],
         "fallback_query": "Korea politics OR Korea policy OR Korea security",
@@ -239,20 +239,8 @@ def fetch_twelvedata(candidates):
     raise RuntimeError(f"twelvedata fail: {last_err}")
 
 
-def derive_ratio(a_points, b_points):
-    map_b = {p["time"]: p["value"] for p in b_points}
-    out = []
-    for p in a_points:
-        b = map_b.get(p["time"])
-        if b and b != 0:
-            out.append({"time": p["time"], "value": p["value"] / b})
-    return out
-
-
 def fetch_series(item):
     key = item["key"]
-    if key == "THB/KRW":
-        return []
     candidates = TWELVEDATA_SYMBOLS.get(key, [])
     if candidates:
         try:
@@ -275,6 +263,8 @@ def fetch_series(item):
         return fetch_frankfurter("USD", "KRW")
     if key == "USD/THB":
         return fetch_frankfurter("USD", "THB")
+    if key == "THB/KRW":
+        return fetch_frankfurter("THB", "KRW")
     return fetch_yahoo(item["symbol"])
 
 
@@ -282,8 +272,6 @@ def build_market():
     errors = []
     by_key = {}
     for item in MARKET_SYMBOLS:
-        if item.get("derived"):
-            continue
         try:
             points = fetch_series(item)
             last = points[-1]["value"] if points else None
@@ -320,22 +308,6 @@ def build_market():
                 "points": [],
             }
 
-    usdkrw = by_key.get("USD/KRW", {}).get("points", [])
-    usdthb = by_key.get("USD/THB", {}).get("points", [])
-    thbkrw_points = derive_ratio(usdkrw, usdthb)
-    thb_last = thbkrw_points[-1]["value"] if thbkrw_points else None
-    thb_prev = thbkrw_points[-2]["value"] if len(thbkrw_points) > 1 else None
-
-    by_key["THB/KRW"] = {
-        "key": "THB/KRW",
-        "label": "THB/KRW",
-        "price": thb_last,
-        "dod": pct(thb_last, thb_prev),
-        "mom": pct(thb_last, pick_lookback(thbkrw_points, 30)),
-        "yoy": pct(thb_last, pick_lookback(thbkrw_points, 365)),
-        "points": downsample(thbkrw_points),
-    }
-
     valid = sum(1 for x in by_key.values() if x["price"] is not None)
     lead_keys = ["NASDAQ", "S&P500", "KOSPI", "USD/KRW"]
     lead = []
@@ -343,13 +315,9 @@ def build_market():
         v = by_key.get(k, {})
         if v.get("dod") is not None:
             lead.append(f"{v['label']} {v['dod']:+.2f}%")
-    insight = (
-        "금리 경로와 달러 방향성이 위험자산 변동성을 좌우하고 있습니다. "
-        f"주요 지표 일간 변화: {', '.join(lead) if lead else '데이터 집계 중'}. "
-        "수급과 실적 가이던스, 물가 지표를 함께 점검하십시오."
-    )
+    insight = f"Raw data summary: {', '.join(lead) if lead else 'N/A'}"
     if valid == 0:
-        insight = f"시장 데이터 로딩 실패. {' | '.join(errors[:3]) if errors else 'API/네트워크 오류'}"
+        insight = f"Market data load failed: {' | '.join(errors[:3]) if errors else 'API/network error'}"
 
     items = [by_key[s["key"]] for s in MARKET_SYMBOLS]
     return {
@@ -483,7 +451,7 @@ def fetch_news_section(section):
                     "description": a.get("description"),
                     "url": a.get("url"),
                     "publishedAt": pub,
-                    "source": {"name": (a.get("source") or {}).get("name", "출처미상")},
+                    "source": {"name": (a.get("source") or {}).get("name", "異쒖쿂誘몄긽")},
                     "numericHint": numeric_hint((a.get("title") or "") + " " + (a.get("description") or "")),
                 }
             )
@@ -525,3 +493,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
