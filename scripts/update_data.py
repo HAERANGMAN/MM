@@ -332,14 +332,18 @@ def fetch_news_section(section):
     if not NEWS_API_KEY:
         raise RuntimeError("NEWS_API_KEY missing")
     now_utc = datetime.now(timezone.utc)
+    from_1h = (now_utc - timedelta(hours=1)).isoformat()
+    from_2h = (now_utc - timedelta(hours=2)).isoformat()
+    from_3h = (now_utc - timedelta(hours=3)).isoformat()
+    from_6h = (now_utc - timedelta(hours=6)).isoformat()
+    from_12h = (now_utc - timedelta(hours=12)).isoformat()
     from_24h = (now_utc - timedelta(hours=24)).isoformat()
-    from_72h = (now_utc - timedelta(hours=72)).isoformat()
-    from_7d = (now_utc - timedelta(days=7)).isoformat()
+    from_48h = (now_utc - timedelta(hours=48)).isoformat()
 
     attempts = [
         {
             "q": section["query"],
-            "from": from_24h,
+            "from": from_1h,
             "sortBy": "publishedAt",
             "pageSize": 30,
             "language": section["lang"],
@@ -348,7 +352,43 @@ def fetch_news_section(section):
         },
         {
             "q": section["query"],
-            "from": from_72h,
+            "from": from_2h,
+            "sortBy": "publishedAt",
+            "pageSize": 30,
+            "language": section["lang"],
+            "domains": ",".join(ALLOWED_DOMAINS),
+            "apiKey": NEWS_API_KEY,
+        },
+        {
+            "q": section["query"],
+            "from": from_3h,
+            "sortBy": "publishedAt",
+            "pageSize": 30,
+            "language": section["lang"],
+            "domains": ",".join(ALLOWED_DOMAINS),
+            "apiKey": NEWS_API_KEY,
+        },
+        {
+            "q": section["query"],
+            "from": from_6h,
+            "sortBy": "publishedAt",
+            "pageSize": 30,
+            "language": section["lang"],
+            "domains": ",".join(ALLOWED_DOMAINS),
+            "apiKey": NEWS_API_KEY,
+        },
+        {
+            "q": section["query"],
+            "from": from_12h,
+            "sortBy": "publishedAt",
+            "pageSize": 30,
+            "language": section["lang"],
+            "domains": ",".join(ALLOWED_DOMAINS),
+            "apiKey": NEWS_API_KEY,
+        },
+        {
+            "q": section["query"],
+            "from": from_24h,
             "sortBy": "publishedAt",
             "pageSize": 50,
             "domains": ",".join(ALLOWED_DOMAINS),
@@ -356,7 +396,7 @@ def fetch_news_section(section):
         },
         {
             "q": "economy OR policy OR market OR trade",
-            "from": from_7d,
+            "from": from_48h,
             "sortBy": "publishedAt",
             "pageSize": 50,
             "apiKey": NEWS_API_KEY,
