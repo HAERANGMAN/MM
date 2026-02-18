@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-02-18T10:25:57.404435+00:00",
+  "generated_at": "2026-02-18T11:12:31.170245+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "US nuclear testing debate reignites after State Dept alleges China nuclear test",
+        "description": "State Department alleges China conducted nuclear test in 2020, reigniting debate over U.S. testing moratorium and international arms control challenges.",
+        "url": "https://www.foxnews.com/politics/us-nuclear-testing-debate-reignites-after-state-dept-alleges-china-nuclear-test",
+        "publishedAt": "2026-02-17T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2020"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Clinton faces backlash from the left after calling mass immigration ‘disruptive’",
+        "description": "Democratic strategist Maya Rupert criticized former Democratic nominee Hillary Clinton, saying her calls for moderation on immigration is not helpful.",
+        "url": "https://www.foxnews.com/media/clinton-faces-backlash-from-left-after-calling-mass-immigration-disruptive",
+        "publishedAt": "2026-02-17T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LIZ PEEK: At Munich showdown AOC serves word salad as Rubio channels strength",
+        "description": "Marco Rubio and Alexandria Ocasio-Cortez delivered contrasting performances at Munich Security Conference, previewing potential 2028 race dynamics.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-munich-showdown-aoc-serves-word-salad-rubio-channels-strength",
+        "publishedAt": "2026-02-17T10:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "India’s solar manufacturing boom turns into a structural glut",
+        "description": "A push to expand local production — encouraged by pandemic disruptions and strained relations with China — has resulted in a 13-fold jump in capacity since 2020",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-17/india-s-solar-manufacturing-excesses-turn-a-boom-into-a-glut",
+        "publishedAt": "2026-02-17T08:43:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "13"
+      },
+      {
+        "title": "Trump says 'this is a Democrat shutdown' as he touts low inflation, falling murder rate",
+        "description": "President Donald Trump blamed Democrats for the partial government shutdown while claiming economic wins including lower gas prices and inflation.",
+        "url": "https://www.foxnews.com/politics/trump-says-this-democrat-shutdown-he-touts-low-inflation-falling-murder-rate",
+        "publishedAt": "2026-02-17T05:19:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dolphins to release star wide receiver Tyreek Hill: reports",
+        "description": "The Miami Dolphins are reportedly set to release Tyreek Hill as the new management running the team makes a crucial decision to shape the 2026 roster.",
+        "url": "https://www.foxnews.com/sports/dolphins-release-star-wide-receiver-tyreek-hill-reports",
+        "publishedAt": "2026-02-16T19:33:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "US nuclear testing debate reignites after State Dept alleges China nuclear test",
+        "description": "State Department alleges China conducted nuclear test in 2020, reigniting debate over U.S. testing moratorium and international arms control challenges.",
+        "url": "https://www.foxnews.com/politics/us-nuclear-testing-debate-reignites-after-state-dept-alleges-china-nuclear-test",
+        "publishedAt": "2026-02-17T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2020"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "AOC mocked for ‘absolute train wreck’ weekend on global stage: 'Made a fool out of herself'",
+        "description": "Rep. Alexandria Ocasio-Cortez, D-N.Y., is being mocked for what one critic called an “absolute train wreck\" weekend full of gaffes while in Germany for the Munich Security Conference.",
+        "url": "https://www.foxnews.com/politics/aoc-mocked-absolute-train-wreck-weekend-global-stage-made-fool-out-of-herself",
+        "publishedAt": "2026-02-17T11:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ex-Prince Andrew ignores US Epstein probe requests as experts warn of 'ghastly' optics for royal family",
+        "description": "Prince Andrew continues dodging US House Committee requests to testify about his Jeffrey Epstein connections, despite urgent letters from lawmakers.",
+        "url": "https://www.foxnews.com/entertainment/ex-prince-andrew-ignores-us-epstein-probe-requests-experts-warn-ghastly-optics-royal-family",
+        "publishedAt": "2026-02-17T11:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Macron courts Modi as India nears $40 billion Rafale fighter jet deal",
+        "description": "Macron visits India to deepen defence ties as New Delhi advances a $40 billion deal for 114 Rafale jets and expands AI and technology cooperation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-17/macron-pushes-for-fighter-jet-deal-on-high-profile-india-trip",
+        "publishedAt": "2026-02-17T10:45:05Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "LIZ PEEK: At Munich showdown AOC serves word salad as Rubio channels strength",
+        "description": "Marco Rubio and Alexandria Ocasio-Cortez delivered contrasting performances at Munich Security Conference, previewing potential 2028 race dynamics.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-munich-showdown-aoc-serves-word-salad-rubio-channels-strength",
+        "publishedAt": "2026-02-17T10:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "Rev Jesse Jackson, civil rights leader and Rainbow PUSH founder, dies at 84",
+        "description": "The Rev Jesse Jackson, a prominent civil rights activist and two-time Democratic presidential candidate, died Tuesday morning at age 84, according to a family statement.",
+        "url": "https://www.foxnews.com/politics/jesse-jackson-dead-civil-rights-leader-84",
+        "publishedAt": "2026-02-17T09:55:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "84"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
