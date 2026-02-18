@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T16:06:25.545831+00:00",
+  "generated_at": "2026-02-18T17:18:37.194135+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Bye Bye DEI: Goldman Sachs Scraps DEI For Its Own Board",
+        "description": "Goldman Sachs is removing race, gender identity, sexual orientation, and other demographic factors from the criteria its board uses to select directors.\nThe post Bye Bye DEI: Goldman Sachs Scraps DEI For Its Own Board appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/02/17/goldman-scraps-dei/",
+        "publishedAt": "2026-02-17T16:34:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Plastic surgeon says ‘it’s about time’ America stops youth gender surgeries | Fox News Video",
         "description": "Plastic surgeon Dr. Sheila Nazarian and ‘The Riley Gaines Show’ host Riley Gaines discuss the potential dangers of gender youth surgeries and whether the procedures should be legal on ‘Fox & Friends.’",
@@ -54,16 +64,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Lunar New Year Explosion at Fireworks Shop Kills 8 in China",
-        "description": "Chinese state media outlets confirmed Monday eight people died in eastern Jiangsu province on Sunday after “improper” detonations near a fireworks store caused a massive explosion and fire.\nThe post Lunar New Year Explosion at Fireworks Shop Kills 8 in China …",
-        "url": "https://www.breitbart.com/asia/2026/02/17/lunar-new-year-explosion-at-fireworks-shop-kills-8-in-china/",
-        "publishedAt": "2026-02-17T13:49:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "8"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Liberals clash over AOC's ‘word salad’ on Taiwan, arguing 'that answer was terrible and you know it’",
+        "description": "Rep. Alexandria Ocasio-Cortez's viral Taiwan comments sparked a clash between progressive panelists Brian Tyler Cohen and Ana Kasparian on \"Piers Morgan Uncensored.\"",
+        "url": "https://www.foxnews.com/media/liberals-clash-over-aocs-word-salad-taiwan-arguing-that-answer-terrible-you-know-it",
+        "publishedAt": "2026-02-17T17:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran signals nuclear progress in Geneva as Trump calls for full dismantlement",
+        "description": "US Iran negotiations in Geneva show \"potential framework\" progress, but sharp divisions remain over nuclear dismantlement and diplomatic threats.",
+        "url": "https://www.foxnews.com/politics/iran-signals-nuclear-progress-geneva-trump-calls-full-dismantlement",
+        "publishedAt": "2026-02-17T16:52:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "VIDEO: Fans at Hockey Game Fight Back Against Transgender Shooter",
         "description": "A video from Monday shows hockey spectators fighting back against the transgender father who opened fire on his family at Dennis M. Lynch Arena in Pawtucket, Rhode Island.\nThe post VIDEO: Fans at Hockey Game Fight Back Against Transgender Shooter appeared fir…",
@@ -107,26 +127,6 @@
         "publishedAt": "2026-02-17T15:29:46Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran fires live missiles into Strait of Hormuz as Trump envoys arrive for nuclear talks",
-        "description": "Iran fired live missiles into the Strait of Hormuz during IRGC naval drills and said it is prepared to shut the key oil transit route if ordered.",
-        "url": "https://www.foxnews.com/world/iran-fires-live-missiles-strait-hormuz-trump-envoys-arrive-nuclear-talks",
-        "publishedAt": "2026-02-17T15:05:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Netflix Allows Warner Bros. Discovery to Restart Takeover Deal Talks With Paramount Skydance",
-        "description": "Warner Brothers Discovery is reconsidering the latest purchase bid by Paramount Skydance after taking more time to look over the company's amended purchase offers. Netflix has granted Warner Bros. Discovery a waiver on Tuesday to reopen deal talks.\nThe post N…",
-        "url": "https://www.breitbart.com/entertainment/2026/02/17/netflix-allows-warner-bros-discovery-to-restart-takeover-deal-talks-with-paramount-skydance/",
-        "publishedAt": "2026-02-17T14:37:33Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
