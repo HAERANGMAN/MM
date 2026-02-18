@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-02-18T18:05:33.778159+00:00",
+  "generated_at": "2026-02-18T19:12:16.008826+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "US nuclear testing debate reignites after State Dept alleges China nuclear test",
-        "description": "State Department alleges China conducted nuclear test in 2020, reigniting debate over U.S. testing moratorium and international arms control challenges.",
-        "url": "https://www.foxnews.com/politics/us-nuclear-testing-debate-reignites-after-state-dept-alleges-china-nuclear-test",
-        "publishedAt": "2026-02-17T11:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2020"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
