@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-02-18T14:12:04.530608+00:00",
+  "generated_at": "2026-02-18T15:06:10.120706+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "US nuclear testing debate reignites after State Dept alleges China nuclear test",
+        "description": "State Department alleges China conducted nuclear test in 2020, reigniting debate over U.S. testing moratorium and international arms control challenges.",
+        "url": "https://www.foxnews.com/politics/us-nuclear-testing-debate-reignites-after-state-dept-alleges-china-nuclear-test",
+        "publishedAt": "2026-02-17T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2020"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Mississippi's school miracle shames failing Chicago leaders on education",
+        "description": "Pastor Corey Brooks reveals how Mississippi has transformed from 49th to 9th in reading while Chicago's South Side schools continue failing students.",
+        "url": "https://www.foxnews.com/opinion/mississippis-school-miracle-shames-failing-chicago-leaders-education",
+        "publishedAt": "2026-02-17T15:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "49"
+      },
+      {
+        "title": "Netflix Allows Warner Bros. Discovery to Restart Takeover Deal Talks With Paramount Skydance",
+        "description": "Warner Brothers Discovery is reconsidering the latest purchase bid by Paramount Skydance after taking more time to look over the company's amended purchase offers. Netflix has granted Warner Bros. Discovery a waiver on Tuesday to reopen deal talks.\nThe post N…",
+        "url": "https://www.breitbart.com/entertainment/2026/02/17/netflix-allows-warner-bros-discovery-to-restart-takeover-deal-talks-with-paramount-skydance/",
+        "publishedAt": "2026-02-17T14:37:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Lunar New Year Explosion at Fireworks Shop Kills 8 in China",
+        "description": "Chinese state media outlets confirmed Monday eight people died in eastern Jiangsu province on Sunday after “improper” detonations near a fireworks store caused a massive explosion and fire.\nThe post Lunar New Year Explosion at Fireworks Shop Kills 8 in China …",
+        "url": "https://www.breitbart.com/asia/2026/02/17/lunar-new-year-explosion-at-fireworks-shop-kills-8-in-china/",
+        "publishedAt": "2026-02-17T13:49:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "Government in Waiting: Farage Unveils Reform UK Shadow Cabinet to 'Rebuild Britain'",
+        "description": "Nigel Farage unveiled the initial members of his Shadow Cabinet on Tuesday in a bid to demonstrate that his Reform UK party is ready to govern Britain from day one.\nThe post Government in Waiting: Farage Unveils Reform UK Shadow Cabinet to ‘Rebuild Britain’ a…",
+        "url": "https://www.breitbart.com/europe/2026/02/17/government-in-waiting-farage-unveils-reform-uk-shadow-cabinet-to-rebuild-britain/",
+        "publishedAt": "2026-02-17T12:56:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Clinton faces backlash from the left after calling mass immigration ‘disruptive’",
+        "description": "Democratic strategist Maya Rupert criticized former Democratic nominee Hillary Clinton, saying her calls for moderation on immigration is not helpful.",
+        "url": "https://www.foxnews.com/media/clinton-faces-backlash-from-left-after-calling-mass-immigration-disruptive",
+        "publishedAt": "2026-02-17T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "US nuclear testing debate reignites after State Dept alleges China nuclear test",
+        "description": "State Department alleges China conducted nuclear test in 2020, reigniting debate over U.S. testing moratorium and international arms control challenges.",
+        "url": "https://www.foxnews.com/politics/us-nuclear-testing-debate-reignites-after-state-dept-alleges-china-nuclear-test",
+        "publishedAt": "2026-02-17T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2020"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Iran fires live missiles into Strait of Hormuz as Trump envoys arrive for nuclear talks",
+        "description": "Iran fired live missiles into the Strait of Hormuz during IRGC naval drills and said it is prepared to shut the key oil transit route if ordered.",
+        "url": "https://www.foxnews.com/world/iran-fires-live-missiles-strait-hormuz-trump-envoys-arrive-nuclear-talks",
+        "publishedAt": "2026-02-17T15:05:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Netflix Allows Warner Bros. Discovery to Restart Takeover Deal Talks With Paramount Skydance",
+        "description": "Warner Brothers Discovery is reconsidering the latest purchase bid by Paramount Skydance after taking more time to look over the company's amended purchase offers. Netflix has granted Warner Bros. Discovery a waiver on Tuesday to reopen deal talks.\nThe post N…",
+        "url": "https://www.breitbart.com/entertainment/2026/02/17/netflix-allows-warner-bros-discovery-to-restart-takeover-deal-talks-with-paramount-skydance/",
+        "publishedAt": "2026-02-17T14:37:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Say His Name: Officer Brian Elliott Killed in Line of Duty",
+        "description": "Beech Grove, Indiana, Police Officer Brian Elliott was killed in the line of duty Monday night on responding to a domestic disturbance call.\nThe post Say His Name: Officer Brian Elliott Killed in Line of Duty appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/17/say-his-name-officer-brian-elliott-killed-in-line-of-duty/",
+        "publishedAt": "2026-02-17T14:04:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "AOC repeatedly denies 2028 ambitions, slams global conference as dismissive to 'class-based message'",
+        "description": "Alexandria Ocasio-Cortez firmly denied any presidential run speculation after her Germany trip, telling the NYT that \"everyone's got this story wrong.\"",
+        "url": "https://www.foxnews.com/media/aoc-repeatedly-denies-2028-ambitions-slams-global-conference-dismissive-class-based-message",
+        "publishedAt": "2026-02-17T14:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "Lunar New Year Explosion at Fireworks Shop Kills 8 in China",
+        "description": "Chinese state media outlets confirmed Monday eight people died in eastern Jiangsu province on Sunday after “improper” detonations near a fireworks store caused a massive explosion and fire.\nThe post Lunar New Year Explosion at Fireworks Shop Kills 8 in China …",
+        "url": "https://www.breitbart.com/asia/2026/02/17/lunar-new-year-explosion-at-fireworks-shop-kills-8-in-china/",
+        "publishedAt": "2026-02-17T13:49:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "8"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
