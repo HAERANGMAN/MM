@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-02-19T21:46:22.891948+00:00",
+  "generated_at": "2026-02-19T22:15:50.493825+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Exclusive: Republican Challenging New York AG Letitia James Blasts Her for 'Playing Politics with the Law'",
-        "description": "The Republican candidate running against New York Attorney General Letitia James for her role as the state's chief law enforcer accused the Democrat incumbent of abusing the powers of her office and \"playing politics with the law\" in an exclusive interview wi…",
-        "url": "https://www.breitbart.com/politics/2026/02/18/exclusive-republican-challenging-new-york-ag-letitia-james-blasts-her-for-playing-politics-with-the-law/",
-        "publishedAt": "2026-02-18T20:25:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rubio announces designation for Nicaraguan prison official tied to alleged human rights violations",
-        "description": "U.S. designates Nicaragua prison director Roberto Clemente Guevara Gómez as Secretary of State Marco Rubio demands release of political prisoners.",
-        "url": "https://www.foxnews.com/politics/rubio-announces-designation-nicaraguan-prison-official-tied-alleged-human-rights-violations",
-        "publishedAt": "2026-02-18T19:59:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "White House responds to Maryland governor telling Trump admin to 'do your job' after Potomac sewage dump",
-        "description": "Fox News senior White House correspondent Peter Doocy asks Karoline Leavitt about the federal response to the massive sewage dump in the Potomac River.",
-        "url": "https://www.foxnews.com/video/6389534295112",
-        "publishedAt": "2026-02-18T19:43:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mamdani plan pours millions into ‘racial equity’ offices and six-figure diversity jobs, cuts 5,000 NYPD jobs",
-        "description": "NYC Mayor Mamdani's $127 billion budget allocates $10.2 million to racial equity offices while proposing significant property tax hikes and NYPD cuts.",
-        "url": "https://www.foxnews.com/politics/mamdani-plan-pours-millions-racial-equity-offices-six-figure-diversity-jobs-cuts-5k-nypd-jobs",
-        "publishedAt": "2026-02-18T19:21:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Fox Nation rides with America’s modern-day cowboys to reveal the hard, unseen work behind every steak",
-        "description": "Fox Nation's \"Cattle Drive: American Cowboy\" follows modern cowboys in North Dakota doing the hard work before dawn that puts steak on America's tables.",
-        "url": "https://www.foxnews.com/media/fox-nation-rides-americas-modern-day-cowboys-reveal-hard-unseen-work-behind-every-steak",
-        "publishedAt": "2026-02-18T19:05:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Nigeria Investigates China Slave-Linked Shopping App Temu for Allegedly Spying on Customers",
-        "description": "The Nigeria Data Protection Commission (NDPC) on Tuesday announced it has opened an investigation into Chinese e-commerce titan Temu for allegedly violating Nigeria’s data protection laws.\nThe post Nigeria Investigates China Slave-Linked Shopping App Temu for…",
-        "url": "https://www.breitbart.com/africa/2026/02/17/nigeria-investigates-china-slave-linked-shopping-app-temu-allegedly-spying-customers/",
-        "publishedAt": "2026-02-18T03:31:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police",
-        "description": "American allegedly killed in Thailand love triangle as ex-girlfriend's new boyfriend and others accused of fatal Bangkok attack over relationship.",
-        "url": "https://www.foxnews.com/us/american-tourist-killed-thailand-love-triangle-turns-deadly-during-violent-confrontation-police",
-        "publishedAt": "2026-02-18T18:24:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Russia gets Paralympic slots under national flag as Ukraine officials boycott over 'outrageous decision'",
-        "description": "Ukrainian officials announced a boycott of the Paralympic Games after Russia and Belarus were awarded slots to compete under their national flags, sparking international controversy.",
-        "url": "https://www.foxnews.com/sports/russia-gets-paralympic-slots-under-national-flag-ukraine-officials-boycott-over-outrageous-decision",
-        "publishedAt": "2026-02-18T20:55:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Behar: AOC Answer on Taiwan 'Mensa' Level Compared to Trump",
-        "description": "On Wednesday on ABC's \"The View,\" co-host Joy Behar said Rep. Alexandria Ocasio-Cortez's (D-NY) answer on Taiwan this weekend at a summit in Munich was Mensa-level compared to many of President Donald Trump's comments.\nThe post Behar: AOC Answer on Taiwan ‘Me…",
-        "url": "https://www.breitbart.com/clips/2026/02/18/behar-aoc-answer-on-taiwan-mensa-level-compared-to-trump/",
-        "publishedAt": "2026-02-18T20:44:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FCC chair rips Colbert 'hoax' after CBS denied blocking Talarico interview, says media fell for it",
-        "description": "FCC Chairman Brendan Carr scolded the media for pushing the narrative that CBS blocked Stephen Colbert's interview with Texas Democrat James Talarico, which the network denied.",
-        "url": "https://www.foxnews.com/media/fcc-chair-rips-colbert-hoax-after-cbs-denied-blocking-talarico-interview-says-media-fell-for-it",
-        "publishedAt": "2026-02-18T20:03:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ocasio-Cortez roasted for 'rehab story' in The New York Times after Munich missteps",
-        "description": "Rep. Alexandria Ocasio-Cortez's attempt to clean up her missteps in Munich in an interview with The New York Times were mocked by critics on both sides on Tuesday.",
-        "url": "https://www.foxnews.com/media/ocasio-cortez-roasted-rehab-story-new-york-times-after-munich-missteps",
-        "publishedAt": "2026-02-18T19:56:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "STEVE FORBES: Don't crush homeowners to pay for NYC's out-of-control budget",
-        "description": "Mayor Zohran Mamdani proposes 9.5% property tax increase for New York City as part of $127 billion budget, warning of $5.4 billion shortfall without new revenue from Albany.",
-        "url": "https://www.foxnews.com/opinion/steve-forbes-dont-crush-homeowners-pay-nycs-out-of-control-budget",
-        "publishedAt": "2026-02-18T19:45:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9.5"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
