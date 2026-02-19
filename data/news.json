@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-02-19T15:31:33.167932+00:00",
+  "generated_at": "2026-02-19T16:30:07.386125+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Climate groups sue Trump administration over EPA's bombshell deregulation decision",
+        "description": "Climate activists sued the Trump administration on Wednesday over an effort to roll back",
+        "url": "https://www.foxnews.com/politics/climate-groups-sue-trump-administration-over-epas-bombshell-deregulation-decision",
+        "publishedAt": "2026-02-18T15:48:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Netflix Co-CEO Ted Sarandos: Paramount 'Flooding the Zone with Misinformation' to Derail Warner Bros. Takeover",
+        "description": "Netflix co-CEO Ted Sarandos claimed that Paramount Skydance has been \"flooding the zone with misinformation\" to derail the WB takeover.\nThe post Netflix Co-CEO Ted Sarandos: Paramount ‘Flooding the Zone with Misinformation’ to Derail Warner Bros. Takeover app…",
+        "url": "https://www.breitbart.com/entertainment/2026/02/18/netflix-co-ceo-ted-sarandos-paramount-flooding-the-zone-with-misinformation-to-derail-warner-bros-takeover/",
+        "publishedAt": "2026-02-18T15:33:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Strategy session: Trump's team huddles on midterm messaging with spotlight on economy",
+        "description": "Trump's political team holds closed-door strategy session focusing on economy as top midterm issue. White House aims to spotlight affordability efforts.",
+        "url": "https://www.foxnews.com/politics/strategy-session-trumps-team-huddles-midterm-messaging-spotlight-economy",
+        "publishedAt": "2026-02-18T15:27:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chinese-Made Cars Banned From Polish Army Bases Over Spying Fears",
+        "description": "Polish army banned Chinese cars from entering military facilities hoping to prevent the collection of sensitive data.\nThe post Chinese-Made Cars Banned From Polish Army Bases Over Spying Fears appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/02/18/chinese-made-cars-banned-from-polish-army-bases-over-spying-fears/",
+        "publishedAt": "2026-02-18T14:04:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "From auction data to algorithms: AI reshapes art buying and selling",
+        "description": "AI-powered valuation tools are bringing fresh transparency to the opaque art market, using data-driven insights to help collectors price, buy and even borrow against their artworks with greater confidence.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-is-helping-buyers-know-how-much-art-should-cost",
+        "publishedAt": "2026-02-18T10:04:09Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Nigeria Investigates China Slave-Linked Shopping App Temu for Allegedly Spying on Customers",
+        "description": "The Nigeria Data Protection Commission (NDPC) on Tuesday announced it has opened an investigation into Chinese e-commerce titan Temu for allegedly violating Nigeria’s data protection laws.\nThe post Nigeria Investigates China Slave-Linked Shopping App Temu for…",
+        "url": "https://www.breitbart.com/africa/2026/02/17/nigeria-investigates-china-slave-linked-shopping-app-temu-allegedly-spying-customers/",
+        "publishedAt": "2026-02-18T03:31:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Ex–Dem megadonor warns AOC reflects party's growing split from Clinton-era Democrats",
+        "description": "Democratic megadonor John Morgan argues the party has split into \"socialist\" and \"Bill Clinton Democrats,\" criticizing AOC's political appeal to voters.",
+        "url": "https://www.foxnews.com/media/ex-dem-megadonor-warns-aoc-reflects-partys-growing-split-from-clinton-era-democrats",
+        "publishedAt": "2026-02-18T16:17:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Climate groups sue Trump administration over EPA's bombshell deregulation decision",
+        "description": "Climate activists sued the Trump administration on Wednesday over an effort to roll back",
+        "url": "https://www.foxnews.com/politics/climate-groups-sue-trump-administration-over-epas-bombshell-deregulation-decision",
+        "publishedAt": "2026-02-18T15:48:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Netflix Co-CEO Ted Sarandos: Paramount 'Flooding the Zone with Misinformation' to Derail Warner Bros. Takeover",
+        "description": "Netflix co-CEO Ted Sarandos claimed that Paramount Skydance has been \"flooding the zone with misinformation\" to derail the WB takeover.\nThe post Netflix Co-CEO Ted Sarandos: Paramount ‘Flooding the Zone with Misinformation’ to Derail Warner Bros. Takeover app…",
+        "url": "https://www.breitbart.com/entertainment/2026/02/18/netflix-co-ceo-ted-sarandos-paramount-flooding-the-zone-with-misinformation-to-derail-warner-bros-takeover/",
+        "publishedAt": "2026-02-18T15:33:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hero Who Grabbed Trans Shooter's Gun at Hockey Rink Recounts Deadly Last Moments",
+        "description": "Michael Black told his wife to run then lunged for the transgender shooter's gun at Dennis M. Lynch arena in Pawtucket, Rhode Island, Monday afternoon.\nThe post Hero Who Grabbed Trans Shooter’s Gun at Hockey Rink Recounts Deadly Last Moments appeared first on…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/18/hero-who-grabbed-trans-shooters-gun-at-hockey-rink-recounts-deadly-last-moments/",
+        "publishedAt": "2026-02-18T15:02:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "CBS' Norah O'Donnell claims coworkers are 'fearful' over the numerous changes in leadership",
+        "description": "CBS News correspondent Norah O'Donnell claimed people in the network were \"fearful\" over the changes caused by new leadership during a podcast interview.",
+        "url": "https://www.foxnews.com/media/cbs-norah-odonnell-claims-coworkers-fearful-over-numerous-changes-leadership",
+        "publishedAt": "2026-02-18T14:00:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
