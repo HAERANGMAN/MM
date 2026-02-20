@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-02-20T21:43:54.177066+00:00",
+  "generated_at": "2026-02-20T21:58:53.971066+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "'Remarkable:' OpenAI Boss Sam Altman Lavishes Praise on China's AI Industry",
-        "description": "OpenAI CEO Sam Altman described the progress of Chinese technology companies as \"remarkable\" during an interview with CNBC, praising the communist dictatorship for its \"amazingly fast\" AI development.\nThe post ‘Remarkable:’ OpenAI Boss Sam Altman Lavishes Pra…",
-        "url": "https://www.breitbart.com/tech/2026/02/19/remarkable-openai-boss-sam-altman-lavishes-praise-on-chinas-ai-industry/",
-        "publishedAt": "2026-02-19T20:19:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Casinos brace as Las Vegas tourism plunges 7.5% in sharpest annual visitor decline outside COVID pandemic",
-        "description": "The Las Vegas airport had 55 million passengers last year, while tourism plunged 7.5% from the prior year to just 38.5 million visitors — marking a stark contrast in travel trends.",
-        "url": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic",
-        "publishedAt": "2026-02-19T20:15:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7.5"
-      },
-      {
-        "title": "Jair Bolsonaro Gets Court Win: Pandemic-Era 'Genocide' Charges Shelved",
-        "description": "Prosecutors in Brazil shelved an investigation on Thursday into conservative former President Jair Bolsonaro on charges of \"genocide\" for his handling of the Wuhan coronavirus pandemic.\nThe post Jair Bolsonaro Gets Court Win: Pandemic-Era ‘Genocide’ Charges S…",
-        "url": "https://www.breitbart.com/latin-america/2026/02/19/jair-bolsonaro-gets-court-win-pandemic-era-genocide-charges-shelved/",
-        "publishedAt": "2026-02-19T20:00:39Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Built for weeks of war: Inside the firepower the US has positioned in the Middle East",
-        "description": "U.S.-Iran nuclear talks resume as both nations prepare for conflict, with Iran fortifying facilities and America deploying military assets to the region.",
-        "url": "https://www.foxnews.com/politics/built-weeks-war-inside-firepower-us-has-positioned-middle-east",
-        "publishedAt": "2026-02-19T19:50:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Built for weeks of war: Inside the firepower the US has positioned near Iran",
-        "description": "U.S.-Iran nuclear talks resume as both nations prepare for conflict, with Iran fortifying facilities and America deploying military assets to the region.",
-        "url": "https://www.foxnews.com/politics/built-weeks-war-inside-firepower-us-has-positioned-near-iran",
-        "publishedAt": "2026-02-19T19:50:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Former South Korean President Yoon Suk-yeol Sentenced to Life in Prison for Martial Law Disaster",
-        "description": "Former South Korean President Yoon Suk-yeol was sentenced to life in prison by the Seoul Central District Court for \"leading an insurrection.\"\nThe post Former South Korean President Yoon Suk-yeol Sentenced to Life in Prison for Martial Law Disaster appeared f…",
-        "url": "https://www.breitbart.com/asia/2026/02/19/former-south-korean-president-yoon-suk-yeol-sentenced-life-prison-martial-law-disaster/",
-        "publishedAt": "2026-02-19T18:13:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "'Remarkable:' OpenAI Boss Sam Altman Lavishes Praise on China's AI Industry",
-        "description": "OpenAI CEO Sam Altman described the progress of Chinese technology companies as \"remarkable\" during an interview with CNBC, praising the communist dictatorship for its \"amazingly fast\" AI development.\nThe post ‘Remarkable:’ OpenAI Boss Sam Altman Lavishes Pra…",
-        "url": "https://www.breitbart.com/tech/2026/02/19/remarkable-openai-boss-sam-altman-lavishes-praise-on-chinas-ai-industry/",
-        "publishedAt": "2026-02-19T20:19:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ice Rink Transgender Alleged Shooter Got His Guns Legally",
-        "description": "The transgender shooter who allegedly killed two of his family members at a hockey game Monday was armed with two handguns that were acquired legally. \nThe post Ice Rink Transgender Alleged Shooter Got His Guns Legally appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/19/ice-rink-transgender-alleged-shooter-got-his-guns-legally/",
-        "publishedAt": "2026-02-19T20:00:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ex-Wife Killed by Trans Ice Rink Shooter Was Also His Cousin",
-        "description": "Robert Dorgan, who went by \"Roberta,\" killed his ex-wife at an ice rink and a report indicates the deceased woman was also Dorgan's cousin. \nThe post Ex-Wife Killed by Trans Ice Rink Shooter Was Also His Cousin appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/02/19/ex-wife-killed-by-trans-ice-rink-shooter-was-also-his-cousin/",
-        "publishedAt": "2026-02-19T19:25:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump hails Vance and Rubio as ‘extraordinary’ duo: hammer and velvet glove",
-        "description": "Vice President JD Vance and Secretary of State Marco Rubio earn Trump's acclaim following their Munich Security Conference speeches, with Trump joking about firing Rubio.",
-        "url": "https://www.foxnews.com/politics/trump-hails-vance-rubio-extraordinary-duo-hammer-velvet-glove",
-        "publishedAt": "2026-02-19T19:15:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ice Rink Trans Shooter's Son in Jail for Setting Church Fires",
-        "description": "The son of the transgender shooter who opened fire in a Pawtucket, Rhode Island, ice rink is currently serving a prison sentence for setting fires to \"a predominantly black church,\" according to the New York Post.\nThe post Ice Rink Trans Shooter’s Son in Jail…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/19/ice-rink-trans-shooters-son-in-jail-for-setting-church-fires/",
-        "publishedAt": "2026-02-19T18:04:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
