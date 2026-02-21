@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-02-21T05:14:23.675114+00:00",
+  "generated_at": "2026-02-21T05:58:04.377000+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
-        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
-        "url": "https://www.foxnews.com/politics/duffy-just-got-additional-job-trumps-administration-hes-not-only-one-wearing-multiple-hats",
-        "publishedAt": "2026-02-20T00:45:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
-        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
-        "url": "https://www.foxnews.com/politics/trumps-nih-director-isnt-only-one-wearing-multiple-hats-during-presidents-second-term",
-        "publishedAt": "2026-02-20T00:45:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
