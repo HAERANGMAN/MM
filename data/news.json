@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T02:25:25.361247+00:00",
+  "generated_at": "2026-02-21T04:16:42.718465+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -26,6 +26,36 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
+        "title": "Gold steadies near $5,000 as Iran risks, Fed outlook in focus",
+        "description": "The gold market has been volatile since a historic rout at the start of the month, with bullion dropping from a record peak above $5,595 an ounce to nearly $4,400 in just two days",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-19/gold-steadies-near-5-000-as-iran-risks-fed-outlook-in-focus",
+        "publishedAt": "2026-02-20T03:35:42Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Novartis to exit listed Indian unit with $159 million stake sale",
+        "description": "Novartis sells 70.68% stake in its Indian unit for $159 million, concluding a strategic review initiated two years ago.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-20/novartis-to-exit-listed-indian-unit-with-159-million-stake-sale",
+        "publishedAt": "2026-02-20T03:12:27Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "University of Texas System to restrict teaching 'unnecessarily controversial subjects'",
+        "description": "University of Texas System Board of Regents approved rule allowing students to graduate without studying \"unnecessarily controversial subjects.\"",
+        "url": "https://www.foxnews.com/us/university-texas-system-restrict-teaching-unnecessarily-controversial-subjects",
+        "publishedAt": "2026-02-20T03:07:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Poll: 75% of Trump Voters Support Expanding Solar Energy in the U.S.",
         "description": "A survey released Thursday by former Trump adviser Kellyanne Conway reports strong backing among Trump voters for increasing solar energy production to bolster the nation’s power supply.\nThe post Poll: 75% of Trump Voters Support Expanding Solar Energy in the…",
         "url": "https://www.breitbart.com/politics/2026/02/19/poll-75-of-trump-voters-support-expanding-solar-energy-in-the-u-s/",
@@ -42,36 +72,6 @@
         "publishedAt": "2026-02-19T23:41:14Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bears inch closer to Indiana after key state House committee clears stadium measure",
-        "description": "The Chicago Bears described the Indiana stadium progress \"most meaningful step forward to date\" as lawmakers advance bill for world-class venue in Illinois neighboring state.",
-        "url": "https://www.foxnews.com/sports/bears-inch-closer-indiana-after-key-state-house-committee-clears-stadium-measure",
-        "publishedAt": "2026-02-19T22:23:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Vacation hot spot may ban alcohol sales during key hours in sweeping new crackdown",
-        "description": "The city of Split, Croatia, proposes an alcohol ban from 8 p.m. to 6 a.m. to manage tourism and keep public order. Bars and clubs would be exempt from the nightlife restrictions.",
-        "url": "https://www.foxnews.com/travel/vacation-hot-spot-may-ban-alcohol-sales-key-hours-sweeping-new-crackdown",
-        "publishedAt": "2026-02-19T22:02:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Gabon Shuts Down Social Media as Threat to National Security",
-        "description": "The Central African nation of Gabon on Wednesday announced it was suspending some social media platforms for spreading “inappropriate, defamatory, hateful, and abusive” content that was allegedly threatening “social cohesion, the stability of the republic’s i…",
-        "url": "https://www.breitbart.com/africa/2026/02/19/gabon-shuts-down-social-media-as-threat-to-national-security/",
-        "publishedAt": "2026-02-19T21:47:34Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
@@ -122,6 +122,36 @@
     ],
     "news-global-soc": [
       {
+        "title": "Olympian Eileen Gu says she feels like a 'punching bag' amid backlash for competing with China over US",
+        "description": "American-born skier Eileen Gu fired back at critics over competing for Team China, saying people \"just hate China\" and target her because she wins.",
+        "url": "https://www.foxnews.com/sports/olympian-eileen-gu-feels-like-punching-bag-amid-backlash-competing-china-over-us",
+        "publishedAt": "2026-02-20T04:07:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran rebuilding nuclear program despite Trump talks, opposition figure claims",
+        "description": "Iran is reportedly working to rebuild nuclear sites damaged during June 22 \"Midnight Hammer\" operation as the regime participates in Geneva talks.",
+        "url": "https://www.foxnews.com/world/iran-rebuilding-nuclear-program-despite-trump-talks-opposition-figure-claims",
+        "publishedAt": "2026-02-20T03:05:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "22"
+      },
+      {
+        "title": "WATCH: Alysa Liu, Victim of Chinese Spy Operation, Wins Gold for USA in Figure Skating",
+        "description": "Alysa Liu won gold for the US in figure skating on Thursday – a triumphant achievement after being previously victimized by a Chinese spy op. \nThe post WATCH: Alysa Liu, Victim of Chinese Spy Operation, Wins Gold for USA in Figure Skating appeared first on Br…",
+        "url": "https://www.breitbart.com/sports/2026/02/19/watch-alysa-liu-victim-of-chinese-spy-operation-wins-gold-usa-in-figure-skating/",
+        "publishedAt": "2026-02-20T02:37:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Bill Gates pulls out of India AI summit keynote address amid Epstein files scrutiny",
         "description": "Bill Gates pulled his India AI Impact Summit keynote address in New Delhi after scrutiny over his ties to Jeffrey Epstein in newly released DOJ emails.",
         "url": "https://www.foxnews.com/media/bill-gates-pulls-out-india-ai-summit-keynote-address-amid-epstein-files-scrutiny",
@@ -140,36 +170,6 @@
           "name": "Fox News"
         },
         "numericHint": "86.50"
-      },
-      {
-        "title": "'Remarkable:' OpenAI Boss Sam Altman Lavishes Praise on China's AI Industry",
-        "description": "OpenAI CEO Sam Altman described the progress of Chinese technology companies as \"remarkable\" during an interview with CNBC, praising the communist dictatorship for its \"amazingly fast\" AI development.\nThe post ‘Remarkable:’ OpenAI Boss Sam Altman Lavishes Pra…",
-        "url": "https://www.breitbart.com/tech/2026/02/19/remarkable-openai-boss-sam-altman-lavishes-praise-on-chinas-ai-industry/",
-        "publishedAt": "2026-02-19T20:19:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ice Rink Transgender Alleged Shooter Got His Guns Legally",
-        "description": "The transgender shooter who allegedly killed two of his family members at a hockey game Monday was armed with two handguns that were acquired legally. \nThe post Ice Rink Transgender Alleged Shooter Got His Guns Legally appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/19/ice-rink-transgender-alleged-shooter-got-his-guns-legally/",
-        "publishedAt": "2026-02-19T20:00:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ex-Wife Killed by Trans Ice Rink Shooter Was Also His Cousin",
-        "description": "Robert Dorgan, who went by \"Roberta,\" killed his ex-wife at an ice rink and a report indicates the deceased woman was also Dorgan's cousin. \nThe post Ex-Wife Killed by Trans Ice Rink Shooter Was Also His Cousin appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/02/19/ex-wife-killed-by-trans-ice-rink-shooter-was-also-his-cousin/",
-        "publishedAt": "2026-02-19T19:25:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
