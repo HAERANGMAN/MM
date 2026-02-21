@@ -1,20 +1,178 @@
 {
-  "generated_at": "2026-02-20T23:57:22.071023+00:00",
+  "generated_at": "2026-02-21T02:25:25.361247+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
+        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
+        "url": "https://www.foxnews.com/politics/duffy-just-got-additional-job-trumps-administration-hes-not-only-one-wearing-multiple-hats",
+        "publishedAt": "2026-02-20T00:45:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
+        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
+        "url": "https://www.foxnews.com/politics/trumps-nih-director-isnt-only-one-wearing-multiple-hats-during-presidents-second-term",
+        "publishedAt": "2026-02-20T00:45:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-econ": [
+      {
+        "title": "Poll: 75% of Trump Voters Support Expanding Solar Energy in the U.S.",
+        "description": "A survey released Thursday by former Trump adviser Kellyanne Conway reports strong backing among Trump voters for increasing solar energy production to bolster the nation’s power supply.\nThe post Poll: 75% of Trump Voters Support Expanding Solar Energy in the…",
+        "url": "https://www.breitbart.com/politics/2026/02/19/poll-75-of-trump-voters-support-expanding-solar-energy-in-the-u-s/",
+        "publishedAt": "2026-02-20T00:57:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "75"
+      },
+      {
+        "title": "Cambodian PM says Thai forces occupying disputed land despite ceasefire | Fox News Video",
+        "description": "Hun Manet tells Fox News Thai troops have sealed off villages beyond the line of dispute, backs Trump’s “Board of Peace” and denies China controls key naval base.",
+        "url": "https://www.foxnews.com/video/6389586849112",
+        "publishedAt": "2026-02-19T23:41:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bears inch closer to Indiana after key state House committee clears stadium measure",
+        "description": "The Chicago Bears described the Indiana stadium progress \"most meaningful step forward to date\" as lawmakers advance bill for world-class venue in Illinois neighboring state.",
+        "url": "https://www.foxnews.com/sports/bears-inch-closer-indiana-after-key-state-house-committee-clears-stadium-measure",
+        "publishedAt": "2026-02-19T22:23:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Vacation hot spot may ban alcohol sales during key hours in sweeping new crackdown",
+        "description": "The city of Split, Croatia, proposes an alcohol ban from 8 p.m. to 6 a.m. to manage tourism and keep public order. Bars and clubs would be exempt from the nightlife restrictions.",
+        "url": "https://www.foxnews.com/travel/vacation-hot-spot-may-ban-alcohol-sales-key-hours-sweeping-new-crackdown",
+        "publishedAt": "2026-02-19T22:02:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "Gabon Shuts Down Social Media as Threat to National Security",
+        "description": "The Central African nation of Gabon on Wednesday announced it was suspending some social media platforms for spreading “inappropriate, defamatory, hateful, and abusive” content that was allegedly threatening “social cohesion, the stability of the republic’s i…",
+        "url": "https://www.breitbart.com/africa/2026/02/19/gabon-shuts-down-social-media-as-threat-to-national-security/",
+        "publishedAt": "2026-02-19T21:47:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
+        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
+        "url": "https://www.foxnews.com/politics/duffy-just-got-additional-job-trumps-administration-hes-not-only-one-wearing-multiple-hats",
+        "publishedAt": "2026-02-20T00:45:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
+        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
+        "url": "https://www.foxnews.com/politics/trumps-nih-director-isnt-only-one-wearing-multiple-hats-during-presidents-second-term",
+        "publishedAt": "2026-02-20T00:45:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Former South Korean President Yoon Suk-yeol Sentenced to Life in Prison for Martial Law Disaster",
+        "description": "Former South Korean President Yoon Suk-yeol was sentenced to life in prison by the Seoul Central District Court for \"leading an insurrection.\"\nThe post Former South Korean President Yoon Suk-yeol Sentenced to Life in Prison for Martial Law Disaster appeared f…",
+        "url": "https://www.breitbart.com/asia/2026/02/19/former-south-korean-president-yoon-suk-yeol-sentenced-life-prison-martial-law-disaster/",
+        "publishedAt": "2026-02-19T18:13:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-soc": [
+      {
+        "title": "Cambodian PM says Thai forces occupying disputed land despite Trump-brokered ceasefire",
+        "description": "Trump's Cambodia-Thailand ceasefire under strain as Thai forces allegedly occupy Cambodian territory, displacing 80,000 locals according to officials.",
+        "url": "https://www.foxnews.com/politics/cambodian-pm-says-thai-forces-occupying-disputed-land-despite-trump-brokered-ceasefire",
+        "publishedAt": "2026-02-19T23:27:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "80"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Bill Gates pulls out of India AI summit keynote address amid Epstein files scrutiny",
+        "description": "Bill Gates pulled his India AI Impact Summit keynote address in New Delhi after scrutiny over his ties to Jeffrey Epstein in newly released DOJ emails.",
+        "url": "https://www.foxnews.com/media/bill-gates-pulls-out-india-ai-summit-keynote-address-amid-epstein-files-scrutiny",
+        "publishedAt": "2026-02-20T01:00:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "American-born Team China skier Eileen Gu suffers brutal fall during Olympics",
+        "description": "Eileen Gu recovers from gnarly halfpipe fall to qualify fifth for Olympic final with 86.50 points after pressure-packed second run featuring risky tricks.",
+        "url": "https://www.foxnews.com/sports/american-born-team-china-skier-eileen-gu-suffers-brutal-fall-during-olympics",
+        "publishedAt": "2026-02-19T22:34:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "86.50"
+      },
+      {
+        "title": "'Remarkable:' OpenAI Boss Sam Altman Lavishes Praise on China's AI Industry",
+        "description": "OpenAI CEO Sam Altman described the progress of Chinese technology companies as \"remarkable\" during an interview with CNBC, praising the communist dictatorship for its \"amazingly fast\" AI development.\nThe post ‘Remarkable:’ OpenAI Boss Sam Altman Lavishes Pra…",
+        "url": "https://www.breitbart.com/tech/2026/02/19/remarkable-openai-boss-sam-altman-lavishes-praise-on-chinas-ai-industry/",
+        "publishedAt": "2026-02-19T20:19:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ice Rink Transgender Alleged Shooter Got His Guns Legally",
+        "description": "The transgender shooter who allegedly killed two of his family members at a hockey game Monday was armed with two handguns that were acquired legally. \nThe post Ice Rink Transgender Alleged Shooter Got His Guns Legally appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/19/ice-rink-transgender-alleged-shooter-got-his-guns-legally/",
+        "publishedAt": "2026-02-19T20:00:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ex-Wife Killed by Trans Ice Rink Shooter Was Also His Cousin",
+        "description": "Robert Dorgan, who went by \"Roberta,\" killed his ex-wife at an ice rink and a report indicates the deceased woman was also Dorgan's cousin. \nThe post Ex-Wife Killed by Trans Ice Rink Shooter Was Also His Cousin appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/crime/2026/02/19/ex-wife-killed-by-trans-ice-rink-shooter-was-also-his-cousin/",
+        "publishedAt": "2026-02-19T19:25:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
