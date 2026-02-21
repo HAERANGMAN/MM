@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T04:16:42.718465+00:00",
+  "generated_at": "2026-02-21T05:14:23.675114+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,155 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Gold steadies near $5,000 as Iran risks, Fed outlook in focus",
-        "description": "The gold market has been volatile since a historic rout at the start of the month, with bullion dropping from a record peak above $5,595 an ounce to nearly $4,400 in just two days",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-19/gold-steadies-near-5-000-as-iran-risks-fed-outlook-in-focus",
-        "publishedAt": "2026-02-20T03:35:42Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Novartis to exit listed Indian unit with $159 million stake sale",
-        "description": "Novartis sells 70.68% stake in its Indian unit for $159 million, concluding a strategic review initiated two years ago.",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-20/novartis-to-exit-listed-indian-unit-with-159-million-stake-sale",
-        "publishedAt": "2026-02-20T03:12:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "University of Texas System to restrict teaching 'unnecessarily controversial subjects'",
-        "description": "University of Texas System Board of Regents approved rule allowing students to graduate without studying \"unnecessarily controversial subjects.\"",
-        "url": "https://www.foxnews.com/us/university-texas-system-restrict-teaching-unnecessarily-controversial-subjects",
-        "publishedAt": "2026-02-20T03:07:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Poll: 75% of Trump Voters Support Expanding Solar Energy in the U.S.",
-        "description": "A survey released Thursday by former Trump adviser Kellyanne Conway reports strong backing among Trump voters for increasing solar energy production to bolster the nation’s power supply.\nThe post Poll: 75% of Trump Voters Support Expanding Solar Energy in the…",
-        "url": "https://www.breitbart.com/politics/2026/02/19/poll-75-of-trump-voters-support-expanding-solar-energy-in-the-u-s/",
-        "publishedAt": "2026-02-20T00:57:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "75"
-      },
-      {
-        "title": "Cambodian PM says Thai forces occupying disputed land despite ceasefire | Fox News Video",
-        "description": "Hun Manet tells Fox News Thai troops have sealed off villages beyond the line of dispute, backs Trump’s “Board of Peace” and denies China controls key naval base.",
-        "url": "https://www.foxnews.com/video/6389586849112",
-        "publishedAt": "2026-02-19T23:41:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
-        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
-        "url": "https://www.foxnews.com/politics/duffy-just-got-additional-job-trumps-administration-hes-not-only-one-wearing-multiple-hats",
-        "publishedAt": "2026-02-20T00:45:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's NIH director isn't the only one wearing multiple hats during the president's second term",
-        "description": "President Donald Trump has tasked several Cabinet members and other officials with multiple roles in his second administration, most notably Secretary of State Marco Rubio.",
-        "url": "https://www.foxnews.com/politics/trumps-nih-director-isnt-only-one-wearing-multiple-hats-during-presidents-second-term",
-        "publishedAt": "2026-02-20T00:45:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Former South Korean President Yoon Suk-yeol Sentenced to Life in Prison for Martial Law Disaster",
-        "description": "Former South Korean President Yoon Suk-yeol was sentenced to life in prison by the Seoul Central District Court for \"leading an insurrection.\"\nThe post Former South Korean President Yoon Suk-yeol Sentenced to Life in Prison for Martial Law Disaster appeared f…",
-        "url": "https://www.breitbart.com/asia/2026/02/19/former-south-korean-president-yoon-suk-yeol-sentenced-life-prison-martial-law-disaster/",
-        "publishedAt": "2026-02-19T18:13:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Cambodian PM says Thai forces occupying disputed land despite Trump-brokered ceasefire",
-        "description": "Trump's Cambodia-Thailand ceasefire under strain as Thai forces allegedly occupy Cambodian territory, displacing 80,000 locals according to officials.",
-        "url": "https://www.foxnews.com/politics/cambodian-pm-says-thai-forces-occupying-disputed-land-despite-trump-brokered-ceasefire",
-        "publishedAt": "2026-02-19T23:27:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "80"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Olympian Eileen Gu says she feels like a 'punching bag' amid backlash for competing with China over US",
-        "description": "American-born skier Eileen Gu fired back at critics over competing for Team China, saying people \"just hate China\" and target her because she wins.",
-        "url": "https://www.foxnews.com/sports/olympian-eileen-gu-feels-like-punching-bag-amid-backlash-competing-china-over-us",
-        "publishedAt": "2026-02-20T04:07:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran rebuilding nuclear program despite Trump talks, opposition figure claims",
-        "description": "Iran is reportedly working to rebuild nuclear sites damaged during June 22 \"Midnight Hammer\" operation as the regime participates in Geneva talks.",
-        "url": "https://www.foxnews.com/world/iran-rebuilding-nuclear-program-despite-trump-talks-opposition-figure-claims",
-        "publishedAt": "2026-02-20T03:05:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "22"
-      },
-      {
-        "title": "WATCH: Alysa Liu, Victim of Chinese Spy Operation, Wins Gold for USA in Figure Skating",
-        "description": "Alysa Liu won gold for the US in figure skating on Thursday – a triumphant achievement after being previously victimized by a Chinese spy op. \nThe post WATCH: Alysa Liu, Victim of Chinese Spy Operation, Wins Gold for USA in Figure Skating appeared first on Br…",
-        "url": "https://www.breitbart.com/sports/2026/02/19/watch-alysa-liu-victim-of-chinese-spy-operation-wins-gold-usa-in-figure-skating/",
-        "publishedAt": "2026-02-20T02:37:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bill Gates pulls out of India AI summit keynote address amid Epstein files scrutiny",
-        "description": "Bill Gates pulled his India AI Impact Summit keynote address in New Delhi after scrutiny over his ties to Jeffrey Epstein in newly released DOJ emails.",
-        "url": "https://www.foxnews.com/media/bill-gates-pulls-out-india-ai-summit-keynote-address-amid-epstein-files-scrutiny",
-        "publishedAt": "2026-02-20T01:00:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "American-born Team China skier Eileen Gu suffers brutal fall during Olympics",
-        "description": "Eileen Gu recovers from gnarly halfpipe fall to qualify fifth for Olympic final with 86.50 points after pressure-packed second run featuring risky tricks.",
-        "url": "https://www.foxnews.com/sports/american-born-team-china-skier-eileen-gu-suffers-brutal-fall-during-olympics",
-        "publishedAt": "2026-02-19T22:34:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "86.50"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
