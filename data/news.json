@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-02-22T08:01:48.512901+00:00",
+  "generated_at": "2026-02-22T08:46:24.600351+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "JOHN YOO: Supreme Court tariff ruling should end complaints that justices favor Trump",
-        "description": "Supreme Court strikes down Trump's worldwide tariffs in Learning Resources v. Trump, with Chief Justice Roberts leading the 6-3 majority ruling decision.",
-        "url": "https://www.foxnews.com/opinion/john-yoo-supreme-court-tariff-ruling-should-end-complaints-justices-favor-trump",
-        "publishedAt": "2026-02-20T20:25:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "6"
-      },
-      {
-        "title": "U.N. in Drive for Centralised Global Governance of Artificial Intelligence",
-        "description": "A U.N. panel on artificial intelligence has been launched to implement global governance of the emerging technology at its sole direction,  the body's chief António Guterres announced Thursday.\nThe post U.N. in Drive for Centralised Global Governance of Artif…",
-        "url": "https://www.breitbart.com/tech/2026/02/20/u-n-in-drive-for-centralised-global-governance-of-artificial-intelligence/",
-        "publishedAt": "2026-02-20T10:34:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
