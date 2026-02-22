@@ -1,20 +1,157 @@
 {
-  "generated_at": "2026-02-22T01:20:30.279992+00:00",
+  "generated_at": "2026-02-22T03:45:18.571945+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "JOHN YOO: Supreme Court tariff ruling should end complaints that justices favor Trump",
+        "description": "Supreme Court strikes down Trump's worldwide tariffs in Learning Resources v. Trump, with Chief Justice Roberts leading the 6-3 majority ruling decision.",
+        "url": "https://www.foxnews.com/opinion/john-yoo-supreme-court-tariff-ruling-should-end-complaints-justices-favor-trump",
+        "publishedAt": "2026-02-20T20:25:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "6"
+      },
+      {
+        "title": "U.N. in Drive for Centralised Global Governance of Artificial Intelligence",
+        "description": "A U.N. panel on artificial intelligence has been launched to implement global governance of the emerging technology at its sole direction,  the body's chief António Guterres announced Thursday.\nThe post U.N. in Drive for Centralised Global Governance of Artif…",
+        "url": "https://www.breitbart.com/tech/2026/02/20/u-n-in-drive-for-centralised-global-governance-of-artificial-intelligence/",
+        "publishedAt": "2026-02-20T10:34:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Mexico, Canada get exemption to 10% US levy but USMCA risk looms",
+        "description": "The exemption will lower the effective tariff rate for Canada and Mexico; Before the court decision, non-qualifying products faced a 35% tax from Canada and 25% from Mexico",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-21/mexico-canada-get-exemption-to-10-us-levy-but-usmca-risk-looms",
+        "publishedAt": "2026-02-21T03:32:49Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Trump Signs 'Global' Ten Percent Tariff 'On All Countries'",
+        "description": "President Donald Trump announced he had signed a Proclamation imposing a \"global\" ten percent tariff \"on all Countries,\" hours after the Supreme Court struck down his sweeping, global tariffs created under the International Emergency Economic Powers Act (IEEP…",
+        "url": "https://www.breitbart.com/politics/2026/02/20/trump-signs-global-ten-percent-tariff-on-all-countries/",
+        "publishedAt": "2026-02-21T02:29:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Vance Slams 'Lawlessness' of Supreme Court Tariffs Ruling",
+        "description": "Vice President JD Vance criticized the Supreme Court for its \"lawlessness\" after it issued a 6-3 ruling striking down President Donald Trump's global tariffs imposed under the International Emergency Economic Powers Act (IEEPA).\nThe post Vance Slams ‘Lawlessn…",
+        "url": "https://www.breitbart.com/politics/2026/02/20/vance-slams-lawlessness-supreme-court-tariffs-ruling/",
+        "publishedAt": "2026-02-21T01:35:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "6"
+      },
+      {
+        "title": "llinois Gov. J.B. Pritzker Demands $8.6B in Tariff Refunds from Trump",
+        "description": "Illinois Governor JB Pritzker speaks to the press following a visit to the National Museum of Mexican Art in the Pilsen neighborhood on September 09, 2025 in Chicago, Illinois. Pritzker addressed the Trump Administration’s Operation Midway Blitz, a push by Ho…",
+        "url": "https://www.breitbart.com/politics/2026/02/20/llinois-gov-j-b-pritzker-demands-8-6b-in-tariff-refunds-from-trump/",
+        "publishedAt": "2026-02-21T00:24:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "EPA scraps Biden coal restrictions as advocates say move will restore American dominance",
+        "description": "EPA Administrator Lee Zeldin reverses Biden-era mercury standards for coal plants, sparking praise from energy advocates for struggling coal communities.",
+        "url": "https://www.foxnews.com/politics/epa-scraps-biden-coal-restrictions-advocates-say-move-restore-american-dominance",
+        "publishedAt": "2026-02-20T23:19:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "JOHN YOO: Supreme Court tariff ruling should end complaints that justices favor Trump",
+        "description": "Supreme Court strikes down Trump's worldwide tariffs in Learning Resources v. Trump, with Chief Justice Roberts leading the 6-3 majority ruling decision.",
+        "url": "https://www.foxnews.com/opinion/john-yoo-supreme-court-tariff-ruling-should-end-complaints-justices-favor-trump",
+        "publishedAt": "2026-02-20T20:25:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "6"
+      },
+      {
+        "title": "India Joins U.S. Initiative to Build Secure Technology Supply Chains",
+        "description": "India on Friday joined the Pax Silica framework, a U.S.-led effort to create a secure supply chain for critical technologies that would be immune to meddling from China. India’s membership had been in doubt due to trade tensions with the United States under P…",
+        "url": "https://www.breitbart.com/national-security/2026/02/20/india-joins-u-s-initiative-to-build-secure-technology-supply-chains/",
+        "publishedAt": "2026-02-20T19:03:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Undefeated boxing legend Floyd Mayweather coming out of retirement after nine years",
+        "description": "Floyd Mayweather announced his return to professional boxing after nine years of retirement and is planning a summer comeback under a new promotional deal.",
+        "url": "https://www.foxnews.com/sports/undefeated-boxing-legend-floyd-mayweather-coming-out-retirement-after-nine-years",
+        "publishedAt": "2026-02-21T02:48:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Signs 'Global' Ten Percent Tariff 'On All Countries'",
+        "description": "President Donald Trump announced he had signed a Proclamation imposing a \"global\" ten percent tariff \"on all Countries,\" hours after the Supreme Court struck down his sweeping, global tariffs created under the International Emergency Economic Powers Act (IEEP…",
+        "url": "https://www.breitbart.com/politics/2026/02/20/trump-signs-global-ten-percent-tariff-on-all-countries/",
+        "publishedAt": "2026-02-21T02:29:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Vance Slams 'Lawlessness' of Supreme Court Tariffs Ruling",
+        "description": "Vice President JD Vance criticized the Supreme Court for its \"lawlessness\" after it issued a 6-3 ruling striking down President Donald Trump's global tariffs imposed under the International Emergency Economic Powers Act (IEEPA).\nThe post Vance Slams ‘Lawlessn…",
+        "url": "https://www.breitbart.com/politics/2026/02/20/vance-slams-lawlessness-supreme-court-tariffs-ruling/",
+        "publishedAt": "2026-02-21T01:35:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "6"
+      },
+      {
+        "title": "Scott Bessent says Olympic skier Eileen Gu 'sold out' with decision to compete for China",
+        "description": "Treasury Secretary Scott Bessent suggested Olympic skier Eileen Gu \"sold out\" to China, comparing the American-born athlete to billionaire George Soros during Fox News interview.",
+        "url": "https://www.foxnews.com/sports/scott-bessent-says-olympic-skier-eileen-gu-sold-out-decision-compete-china",
+        "publishedAt": "2026-02-21T00:49:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "llinois Gov. J.B. Pritzker Demands $8.6B in Tariff Refunds from Trump",
+        "description": "Illinois Governor JB Pritzker speaks to the press following a visit to the National Museum of Mexican Art in the Pilsen neighborhood on September 09, 2025 in Chicago, Illinois. Pritzker addressed the Trump Administration’s Operation Midway Blitz, a push by Ho…",
+        "url": "https://www.breitbart.com/politics/2026/02/20/llinois-gov-j-b-pritzker-demands-8-6b-in-tariff-refunds-from-trump/",
+        "publishedAt": "2026-02-21T00:24:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
