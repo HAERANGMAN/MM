@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-02-23T06:52:34.723772+00:00",
+  "generated_at": "2026-02-23T07:48:27.470445+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trump Hosts Governors at White House for Dinner, Stunning Violin Performance",
+        "description": "President Donald Trump hosted governors from around the country for dinner in the East Room on Saturday night, where he touted economic, border, and crime progress, as well as military strength. \nThe post Trump Hosts Governors at White House for Dinner, Stunn…",
+        "url": "https://www.breitbart.com/politics/2026/02/21/trump-hosts-governors-at-white-house-for-dinner-stunning-violin-performance/",
+        "publishedAt": "2026-02-22T04:30:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mothers turn grief into warning on social media addiction | Fox News Video",
+        "description": "Maurine Molak and Tammy Rodriguez, parents of suicide victims, join 'Fox News Live' to share their stories of loss due to social media addiction amid the trial against major platforms including Mark Zuckerberg's Meta.",
+        "url": "https://www.foxnews.com/video/6389691276112",
+        "publishedAt": "2026-02-21T21:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fetterman: DHS Shutdown 'Nothing More Than People That Are Afraid of the Base'",
+        "description": "On Saturday’s broadcast of “Fox News Live,” Sen. John Fetterman (D-PA) stated that the DHS shutdown “is nothing more than people that are afraid of the base to just explain to them that shutting down the entire DHS will have\nThe post Fetterman: DHS Shutdown ‘…",
+        "url": "https://www.breitbart.com/clips/2026/02/21/fetterman-dhs-shutdown-nothing-more-than-people-that-are-afraid-of-the-base/",
+        "publishedAt": "2026-02-21T20:58:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "What Is a Balance-of-Payments Deficit?",
+        "description": "President Trump’s new tariffs were imposed under Section 122 of the Trade Act of 1974, which allows temporary import restrictions when the United States faces “fundamental international payments problems.\"\nThe post What Is a Balance-of-Payments Deficit? appea…",
+        "url": "https://www.breitbart.com/economy/2026/02/21/what-is-a-balance-of-payments-deficit/",
+        "publishedAt": "2026-02-21T20:20:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "122"
+      },
+      {
+        "title": "Trump Responds to Supreme Court by Invoking New Tariff Authority—And Cranking It to The Max",
+        "description": "President Trump moved hours after the Supreme Court struck down his emergency tariffs to invoke a separate trade authority, imposing an import surcharge on most goods that takes effect February 24.\nThe post Trump Responds to Supreme Court by Invoking New Tari…",
+        "url": "https://www.breitbart.com/economy/2026/02/21/trump-responds-to-supreme-court-by-invoking-new-tariff-authority-and-cranking-it-to-the-max/",
+        "publishedAt": "2026-02-21T20:11:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "24"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "DAVID MARCUS: Memo to Bono: Please shut up and go away",
+        "description": "Bono and U2 face criticism over new protest song \"American Obituary\" targeting Trump's policies. Critics argue the aging rock star misrepresents facts.",
+        "url": "https://www.foxnews.com/opinion/david-marcus-memo-bono-please-shut-up-go-away",
+        "publishedAt": "2026-02-22T02:49:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Eileen Gu comments on Alysa Liu's historic gold medal",
+        "description": "Team China's Eileen Gu celebrates Team USA's Alysa Liu's gold medal as the two Chinese American athletes continue their different Olympic journeys.",
+        "url": "https://www.foxnews.com/sports/eileen-gu-celebrates-alysa-lius-historic-gold-medal",
+        "publishedAt": "2026-02-22T02:34:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump pulls endorsement from GOP lawmaker over alleged lack of support for administration's tariff agenda",
+        "description": "Trump pulled his endorsement of Rep. Jeff Hurd after the Colorado Republican cited Congress’ constitutional authority over trade policy amid a tariff dispute.",
+        "url": "https://www.foxnews.com/politics/trump-pulls-endorsement-gop-lawmaker-alleged-lack-support-administrations-tariff-agenda",
+        "publishedAt": "2026-02-21T23:08:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Everything You Need to Know About Andrew Mountbatten-Windsor and Epstein",
+        "description": "Friday on the “Alex Marlow Show,” Breitbart London Bureau Chief Oliver JJ Lane talked about former Prince Andrew. Lane said, “Assuming any of this is true, we don’t know yet. Um, it may be that some of this money came\nThe post Everything You Need to Know Abou…",
+        "url": "https://www.breitbart.com/clips/2026/02/21/everything-you-need-to-know-about-andrew-mountbatten-windsor-and-epstein/",
+        "publishedAt": "2026-02-21T21:19:20Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Truck caught on camera plowing into famed Australian synagogue in alleged hate crime",
+        "description": "Video shows the moment a man allegedly drove a truck into the Brisbane Synagogue gates before fleeing. The suspect is facing hate crime charges.",
+        "url": "https://www.foxnews.com/world/truck-caught-camera-plowing-famed-australian-synagogue-alleged-hate-crime",
+        "publishedAt": "2026-02-21T21:02:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
