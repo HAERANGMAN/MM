@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-02-23T13:24:19.178072+00:00",
+  "generated_at": "2026-02-23T14:28:56.081097+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Waymo’s cheaper robotaxi tech could help expand rides fast",
-        "description": "Waymo unveils cheaper sixth-generation driverless technology, expanding robotaxi service to 20 new cities this year with improved sensors and reduced costs.",
-        "url": "https://www.foxnews.com/tech/waymos-cheaper-robotaxi-tech-could-help-expand-rides-fast",
-        "publishedAt": "2026-02-22T13:21:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
-      },
-      {
-        "title": "WATCH: Top 5 most memorable moments in American State of the Union history",
-        "description": "Trump's upcoming State of the Union address could spark viral moments like Reagan's guest acknowledgment, Pelosi tearing up Trump's speech, and Biden's exchanges.",
-        "url": "https://www.foxnews.com/politics/watch-top-5-most-memorable-moments-american-state-union-history",
-        "publishedAt": "2026-02-22T10:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Trump Hosts Governors at White House for Dinner, Stunning Violin Performance",
-        "description": "President Donald Trump hosted governors from around the country for dinner in the East Room on Saturday night, where he touted economic, border, and crime progress, as well as military strength. \nThe post Trump Hosts Governors at White House for Dinner, Stunn…",
-        "url": "https://www.breitbart.com/politics/2026/02/21/trump-hosts-governors-at-white-house-for-dinner-stunning-violin-performance/",
-        "publishedAt": "2026-02-22T04:30:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mothers turn grief into warning on social media addiction | Fox News Video",
-        "description": "Maurine Molak and Tammy Rodriguez, parents of suicide victims, join 'Fox News Live' to share their stories of loss due to social media addiction amid the trial against major platforms including Mark Zuckerberg's Meta.",
-        "url": "https://www.foxnews.com/video/6389691276112",
-        "publishedAt": "2026-02-21T21:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fetterman: DHS Shutdown 'Nothing More Than People That Are Afraid of the Base'",
-        "description": "On Saturday’s broadcast of “Fox News Live,” Sen. John Fetterman (D-PA) stated that the DHS shutdown “is nothing more than people that are afraid of the base to just explain to them that shutting down the entire DHS will have\nThe post Fetterman: DHS Shutdown ‘…",
-        "url": "https://www.breitbart.com/clips/2026/02/21/fetterman-dhs-shutdown-nothing-more-than-people-that-are-afraid-of-the-base/",
-        "publishedAt": "2026-02-21T20:58:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Jimmy Lai is risking everything for democracy. We can't ignore what China is doing",
-        "description": "Chinese Communist Party destroyed publisher Jimmy Lai through asset freezes, staff arrests and harassment before imposing his prison sentence.",
-        "url": "https://www.foxnews.com/opinion/jimmy-lai-risking-everything-democracy-we-cant-ignore-what-china-doing",
-        "publishedAt": "2026-02-22T13:00:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Turkey's growing reach in Africa seen complicating US strategy, analysts warn",
-        "description": "Turkey's expansion into Africa through commerce including military sales reportedly challenges U.S. interests as ongoing conflicts create new opportunities for Ankara.",
-        "url": "https://www.foxnews.com/world/turkeys-growing-reach-africa-seen-complicating-us-strategy-analysts-warn",
-        "publishedAt": "2026-02-22T12:14:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DHS suspends TSA PreCheck, Global Entry as partial government shutdown continues",
-        "description": "TSA PreCheck and Global Entry services suspended starting Sunday due to government shutdown affecting Department of Homeland Security operations.",
-        "url": "https://www.foxnews.com/politics/dhs-suspends-tsa-precheck-global-entry-partial-government-shutdown-continues",
-        "publishedAt": "2026-02-22T08:47:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DAVID MARCUS: Memo to Bono: Please shut up and go away",
-        "description": "Bono and U2 face criticism over new protest song \"American Obituary\" targeting Trump's policies. Critics argue the aging rock star misrepresents facts.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-memo-bono-please-shut-up-go-away",
-        "publishedAt": "2026-02-22T02:49:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Eileen Gu comments on Alysa Liu's historic gold medal",
-        "description": "Team China's Eileen Gu celebrates Team USA's Alysa Liu's gold medal as the two Chinese American athletes continue their different Olympic journeys.",
-        "url": "https://www.foxnews.com/sports/eileen-gu-celebrates-alysa-lius-historic-gold-medal",
-        "publishedAt": "2026-02-22T02:34:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
