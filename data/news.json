@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-02-23T11:58:54.280585+00:00",
+  "generated_at": "2026-02-23T13:24:19.178072+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Waymo’s cheaper robotaxi tech could help expand rides fast",
+        "description": "Waymo unveils cheaper sixth-generation driverless technology, expanding robotaxi service to 20 new cities this year with improved sensors and reduced costs.",
+        "url": "https://www.foxnews.com/tech/waymos-cheaper-robotaxi-tech-could-help-expand-rides-fast",
+        "publishedAt": "2026-02-22T13:21:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "20"
+      },
       {
         "title": "WATCH: Top 5 most memorable moments in American State of the Union history",
         "description": "Trump's upcoming State of the Union address could spark viral moments like Reagan's guest acknowledgment, Pelosi tearing up Trump's speech, and Biden's exchanges.",
@@ -43,21 +53,31 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "What Is a Balance-of-Payments Deficit?",
-        "description": "President Trump’s new tariffs were imposed under Section 122 of the Trade Act of 1974, which allows temporary import restrictions when the United States faces “fundamental international payments problems.\"\nThe post What Is a Balance-of-Payments Deficit? appea…",
-        "url": "https://www.breitbart.com/economy/2026/02/21/what-is-a-balance-of-payments-deficit/",
-        "publishedAt": "2026-02-21T20:20:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "122"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Jimmy Lai is risking everything for democracy. We can't ignore what China is doing",
+        "description": "Chinese Communist Party destroyed publisher Jimmy Lai through asset freezes, staff arrests and harassment before imposing his prison sentence.",
+        "url": "https://www.foxnews.com/opinion/jimmy-lai-risking-everything-democracy-we-cant-ignore-what-china-doing",
+        "publishedAt": "2026-02-22T13:00:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Turkey's growing reach in Africa seen complicating US strategy, analysts warn",
+        "description": "Turkey's expansion into Africa through commerce including military sales reportedly challenges U.S. interests as ongoing conflicts create new opportunities for Ankara.",
+        "url": "https://www.foxnews.com/world/turkeys-growing-reach-africa-seen-complicating-us-strategy-analysts-warn",
+        "publishedAt": "2026-02-22T12:14:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "DHS suspends TSA PreCheck, Global Entry as partial government shutdown continues",
         "description": "TSA PreCheck and Global Entry services suspended starting Sunday due to government shutdown affecting Department of Homeland Security operations.",
@@ -85,26 +105,6 @@
         "publishedAt": "2026-02-22T02:34:54Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump pulls endorsement from GOP lawmaker over alleged lack of support for administration's tariff agenda",
-        "description": "Trump pulled his endorsement of Rep. Jeff Hurd after the Colorado Republican cited Congress’ constitutional authority over trade policy amid a tariff dispute.",
-        "url": "https://www.foxnews.com/politics/trump-pulls-endorsement-gop-lawmaker-alleged-lack-support-administrations-tariff-agenda",
-        "publishedAt": "2026-02-21T23:08:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Everything You Need to Know About Andrew Mountbatten-Windsor and Epstein",
-        "description": "Friday on the “Alex Marlow Show,” Breitbart London Bureau Chief Oliver JJ Lane talked about former Prince Andrew. Lane said, “Assuming any of this is true, we don’t know yet. Um, it may be that some of this money came\nThe post Everything You Need to Know Abou…",
-        "url": "https://www.breitbart.com/clips/2026/02/21/everything-you-need-to-know-about-andrew-mountbatten-windsor-and-epstein/",
-        "publishedAt": "2026-02-21T21:19:20Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
