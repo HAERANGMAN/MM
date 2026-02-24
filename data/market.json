@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-02-24T21:26:02.418050+00:00",
-  "insight": "Raw data summary: NASDAQ +1.04%, S&P 500 +0.77%, KOSPI +2.11%",
-  "errors": [
-    "USD/KRW: The read operation timed out",
-    "USD/THB: The read operation timed out",
-    "THB/KRW: The read operation timed out"
-  ],
+  "generated_at": "2026-02-24T21:58:28.231548+00:00",
+  "insight": "Raw data summary: NASDAQ +1.04%, S&P 500 +0.77%, KOSPI +2.11%, USD/KRW -0.21%",
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
@@ -55,65 +51,65 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 64035.3046875,
-      "dod": -0.8998188537763382,
-      "mom": -26.032501405076903,
-      "yoy": -29.953418041373407,
+      "price": 64077.8828125,
+      "dod": -0.8339255169528745,
+      "mom": -25.983319201345985,
+      "yoy": -29.90684291946196,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 92284520.0,
-      "dod": -1.039832969253248,
-      "mom": -26.303259977097955,
-      "yoy": -29.38993875190909,
+      "price": 92345224.0,
+      "dod": -0.9747377834145565,
+      "mom": -26.25478286624176,
+      "yoy": -29.343492033022713,
       "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": 97.88600158691406,
-      "dod": 0.19038346415754068,
-      "mom": 0.2930359808036301,
-      "yoy": -8.174481249474406,
+      "price": 97.88300323486328,
+      "dod": 0.18731452644573127,
+      "mom": 0.2899638987363581,
+      "yoy": -8.177293962507894,
       "raw_points": 1258
     },
     {
       "key": "USD/JPY",
       "label": "USD/JPY",
-      "price": 154.82,
-      "dod": 0.5063619839002864,
-      "mom": -2.0870225145459216,
-      "yoy": 2.455165111508159,
+      "price": 155.33,
+      "dod": 0.8374448195274088,
+      "mom": -1.7644826713888135,
+      "yoy": 2.792667593144066,
       "raw_points": 262
     },
     {
       "key": "USD/KRW",
       "label": "USD/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 1443.48,
+      "dod": -0.20946968911379615,
+      "mom": -1.80408163265306,
+      "yoy": 0.26534042760095694,
+      "raw_points": 262
     },
     {
       "key": "USD/THB",
       "label": "USD/THB",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 31.025,
+      "dod": -0.6245996156310066,
+      "mom": -0.5003046727173676,
+      "yoy": -7.861130909954856,
+      "raw_points": 262
     },
     {
       "key": "THB/KRW",
       "label": "THB/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 46.528,
+      "dod": 0.4230337563670853,
+      "mom": -1.3066349906668921,
+      "yoy": 8.824698865629742,
+      "raw_points": 262
     }
   ]
 }
