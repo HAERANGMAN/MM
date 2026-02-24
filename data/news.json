@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T16:45:00.177262+00:00",
+  "generated_at": "2026-02-24T17:44:48.544568+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -92,6 +92,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Trump's science and tech man lays out White House's global AI strategy",
+        "description": "Exclusive interview reveals White House AI strategy: Michael Kratsios details new export program targeting developing countries with tech support.",
+        "url": "https://www.foxnews.com/tech/trumps-science-tech-man-lays-out-white-houses-global-ai-strategy",
+        "publishedAt": "2026-02-23T17:34:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Minnesota Dems Push Bill Allowing Law Enforcement to Enter Homes to Check Gun Storage",
         "description": "MN Dems are pushing a bill to allow law enforcement to enter homes to check compliance with semiautomatic gun storage requirements.\nThe post Minnesota Dems Push Bill Allowing Law Enforcement to Enter Homes to Check Gun Storage appeared first on Breitbart.",
         "url": "https://www.breitbart.com/2nd-amendment/2026/02/23/minnesota-dems-push-bill-allowing-law-enforcement-enter-homes-check-gun-storage/",
@@ -128,16 +138,6 @@
         "publishedAt": "2026-02-23T15:08:40Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Florida GOP Pushes to Allow Churches to Use Volunteer Security Rather Than Pay for Licensed Guards",
-        "description": "Florida State Sen. Don Gaetz (R) is pushing legislation to allow churches to use volunteer security rather than being required to pay to hire licensed security personnel.\nThe post Florida GOP Pushes to Allow Churches to Use Volunteer Security Rather Than Pay …",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/23/florida-gop-pushes-to-allow-churches-to-use-volunteer-security-rather-than-pay-for-licensed-guards/",
-        "publishedAt": "2026-02-23T14:52:06Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
