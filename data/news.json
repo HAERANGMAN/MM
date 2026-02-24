@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-02-24T12:00:39.360212+00:00",
+  "generated_at": "2026-02-24T13:40:06.836100+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "North Korea’s Kim Jong Un re-elected as ruling party leader",
+        "description": "Kim Jong Un re-elected as general secretary of North Korea's Workers' Party, with state media praising his leadership and military advances over the past five years.",
+        "url": "https://www.foxnews.com/world/north-koreas-kim-jong-un-re-elected-ruling-party-leader",
+        "publishedAt": "2026-02-23T12:59:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
     "news-global-econ": [
       {
