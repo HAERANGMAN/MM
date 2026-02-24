@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T17:44:48.544568+00:00",
+  "generated_at": "2026-02-24T18:41:08.624954+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -13,136 +13,18 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [
-      {
-        "title": "Blue cities like NYC promising more and delivering less to residents, CNN host warns",
-        "description": "CNN's Fareed Zakaria slammed Zohran Mamdani's \"unaffordable\" $127 billion preliminary budget, calling blue cities \"out of control\" for promising more but delivering less to residents.",
-        "url": "https://www.foxnews.com/media/blue-cities-nyc-promising-more-delivering-less-residents-cnn-host-warns",
-        "publishedAt": "2026-02-23T15:25:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Kingpins fall, prices don’t: How cartels defy the rules of economics",
-        "description": "Why killing drug cartel leaders barely affects prices: a look at the surprising economics behind resilient trafficking networks that operate like corporations.",
-        "url": "https://www.foxnews.com/politics/kingpins-fall-prices-dont-how-cartels-defy-rules-economics",
-        "publishedAt": "2026-02-23T16:31:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Blue cities like NYC promising more and delivering less to residents, CNN host warns",
-        "description": "CNN's Fareed Zakaria slammed Zohran Mamdani's \"unaffordable\" $127 billion preliminary budget, calling blue cities \"out of control\" for promising more but delivering less to residents.",
-        "url": "https://www.foxnews.com/media/blue-cities-nyc-promising-more-delivering-less-residents-cnn-host-warns",
-        "publishedAt": "2026-02-23T15:25:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "‘Star Trek: Starfleet Academy’ Is a Ratings Disaster Amid ‘First Ever Gay Klingon’ in a Dress, Teases Queer Love Triangle Plot",
-        "description": "Paramout+'s struggling new \"Star Trek\" series, \"Star Trek: Starfleet Academy,\" has been unable to crack the top ten shows in the Nielsen Ratings as the eight-figure per episode series wallows in a constant stream of left-wing, identity politics like gay Kling…",
-        "url": "https://www.breitbart.com/entertainment/2026/02/23/star-trek-starfleet-academy-is-a-ratings-disaster-amid-first-ever-gay-klingon-in-a-dress-teases-queer-love-triangle-plot/",
-        "publishedAt": "2026-02-23T15:08:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEN ELIZABETH WARREN: President Trump's broken promise on credit cards",
-        "description": "President Trump could lower costs quickly if he would follow through on his campaign promise to put a 10% cap on credit card interest rates.",
-        "url": "https://www.foxnews.com/opinion/sen-elizabeth-warren-president-trumps-broken-promise-credit-cards",
-        "publishedAt": "2026-02-23T10:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Thomas rips Supreme Court tariffs ruling, says majority 'errs' on Constitution",
-        "description": "Justice Clarence Thomas cited President Richard Nixon's 1971 import surcharge precedent in his dissent, arguing Congress authorized tariff authority under emergency powers law.",
-        "url": "https://www.foxnews.com/politics/thomas-rips-supreme-court-tariffs-ruling-says-majority-errs-constitution",
-        "publishedAt": "2026-02-23T10:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1971"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Soccer matches postponed after Mexico kills cartel leader ‘El Mencho’ near World Cup host",
-        "description": "Mexican soccer matches were postponed after the army reportedly killed drug lord \"El Mencho\" near the World Cup host city Guadalajara, triggering violence in the region.",
-        "url": "https://www.foxnews.com/sports/el-mencho-killed-soccer-matches-postponed",
-        "publishedAt": "2026-02-23T06:20:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump's science and tech man lays out White House's global AI strategy",
-        "description": "Exclusive interview reveals White House AI strategy: Michael Kratsios details new export program targeting developing countries with tech support.",
-        "url": "https://www.foxnews.com/tech/trumps-science-tech-man-lays-out-white-houses-global-ai-strategy",
-        "publishedAt": "2026-02-23T17:34:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Minnesota Dems Push Bill Allowing Law Enforcement to Enter Homes to Check Gun Storage",
-        "description": "MN Dems are pushing a bill to allow law enforcement to enter homes to check compliance with semiautomatic gun storage requirements.\nThe post Minnesota Dems Push Bill Allowing Law Enforcement to Enter Homes to Check Gun Storage appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/23/minnesota-dems-push-bill-allowing-law-enforcement-enter-homes-check-gun-storage/",
-        "publishedAt": "2026-02-23T16:43:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kingpins fall, prices don’t: How cartels defy the rules of economics",
-        "description": "Why killing drug cartel leaders barely affects prices: a look at the surprising economics behind resilient trafficking networks that operate like corporations.",
-        "url": "https://www.foxnews.com/politics/kingpins-fall-prices-dont-how-cartels-defy-rules-economics",
-        "publishedAt": "2026-02-23T16:31:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Atlanta tests driverless pod transit loop",
-        "description": "Atlanta automated transit network becomes world's first public test of Glydways' driverless pods connecting convention center to arena starting December 2026.",
-        "url": "https://www.foxnews.com/tech/atlanta-tests-driverless-pod-transit-loop",
-        "publishedAt": "2026-02-23T15:44:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Crenshaw praises Mexican officials after 'El Mencho' death, calls cartel 'terrorist insurgency'",
-        "description": "Rep. Dan Crenshaw calls reported death of \"El Mencho,\" head of Mexico's CJNG cartel, a major win against deadly fentanyl trafficking to U.S. streets.",
-        "url": "https://www.foxnews.com/media/crenshaw-praises-mexican-officials-after-el-mencho-death-calls-cartel-terrorist-insurgency",
-        "publishedAt": "2026-02-23T15:08:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
