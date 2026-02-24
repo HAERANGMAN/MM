@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-02-24T11:23:28.063778+00:00",
+  "generated_at": "2026-02-24T12:00:39.360212+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "SEN ELIZABETH WARREN: President Trump's broken promise on credit cards",
+        "description": "President Trump could lower costs quickly if he would follow through on his campaign promise to put a 10% cap on credit card interest rates.",
+        "url": "https://www.foxnews.com/opinion/sen-elizabeth-warren-president-trumps-broken-promise-credit-cards",
+        "publishedAt": "2026-02-23T10:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Thomas rips Supreme Court tariffs ruling, says majority 'errs' on Constitution",
+        "description": "Justice Clarence Thomas cited President Richard Nixon's 1971 import surcharge precedent in his dissent, arguing Congress authorized tariff authority under emergency powers law.",
+        "url": "https://www.foxnews.com/politics/thomas-rips-supreme-court-tariffs-ruling-says-majority-errs-constitution",
+        "publishedAt": "2026-02-23T10:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1971"
+      },
+      {
+        "title": "Alarmed Indian officials race to tame world-beating options boom",
+        "description": "Jane Street, Citadel Securities, Jump Trading and Optiver have all beefed up local operations in recent years alongside a bevy of hedge funds, attracted in part by the nation’s options market",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-23/alarmed-indian-officials-race-to-tame-world-beating-options-boom",
+        "publishedAt": "2026-02-23T04:21:42Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Study -- 'Very Worrying': Marijuana Use Among Teens Brings Higher Risk of Psychotic Disorders",
+        "description": "A study found teenagers who use marijuana are at a higher risk of suffering from psychiatric issues, news that has researchers deeply concerned.\nThe post Study — ‘Very Worrying’: Marijuana Use Among Teens Brings Higher Risk of Psychotic Disorders appeared fir…",
+        "url": "https://www.breitbart.com/health/2026/02/22/study-very-worrying-marijuana-use-among-teens-brings-higher-risk-of-psychotic-disorders/",
+        "publishedAt": "2026-02-22T23:57:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Justice Department Sues OhioHealth for Anticompetitive Healthcare Contracts",
+        "description": "The Justice Department Antitrust Division and Ohio attorney general on Friday filed a civil antitrust lawsuit against OhioHealth, believing that the company's anticompetitive contract restrictions forced Ohio patients to pay higher prices for health care.\nThe…",
+        "url": "https://www.breitbart.com/politics/2026/02/22/justice-department-sues-ohiohealth-for-anticompetitive-healthcare-contracts/",
+        "publishedAt": "2026-02-22T23:29:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Soccer matches postponed after Mexico kills cartel leader ‘El Mencho’ near World Cup host",
+        "description": "Mexican soccer matches were postponed after the army reportedly killed drug lord \"El Mencho\" near the World Cup host city Guadalajara, triggering violence in the region.",
+        "url": "https://www.foxnews.com/sports/el-mencho-killed-soccer-matches-postponed",
+        "publishedAt": "2026-02-23T06:20:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "BISHOP BARRON: AOC mocks Western culture — Marx would love that, but I find it chilling",
+        "description": "Secretary Marco Rubio champions Western culture and Judeo-Christian faith at Munich conference, drawing criticism from Alexandria Ocasio-Cortez and sparking debate.",
+        "url": "https://www.foxnews.com/opinion/bishop-barron-aoc-mocks-western-culture-marx-would-love-that-i-find-chilling",
+        "publishedAt": "2026-02-22T15:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "U.S.-Born Eileen Gu Proudly Sings Chinese Communist Anthem 'March of the Volunteers'",
+        "description": "Eileen Gu, the California-born Olympian who competes for Communist China instead of the land of her birth, claimed the gold medal that had eluded her at the Winter Olympics on Sunday with a win in the halfpipe event.\nThe post U.S.-Born Eileen Gu Proudly Sings…",
+        "url": "https://www.breitbart.com/sports/2026/02/23/u-s-born-eileen-gu-proudly-sings-chinese-communist-anthem-march-of-the-volunteers/",
+        "publishedAt": "2026-02-23T10:46:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China Urges U.S. to Scrap Tariffs After SCOTUS Ruling",
+        "description": "China's Commerce Ministry on Monday called for the United States to rescind all tariffs after the U.S. Supreme Court struck down President Donald Trump's emergency tariffs.\nThe post China Urges U.S. to Scrap Tariffs After SCOTUS Ruling appeared first on Breit…",
+        "url": "https://www.breitbart.com/asia/2026/02/23/china-urges-u-s-to-scrap-tariffs-after-scotus-ruling/",
+        "publishedAt": "2026-02-23T10:35:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DHS shutdown drags into week two as Iran threat, SOTU clash complicate Hill talks",
+        "description": "The funding standoff remained steady over Homeland Security funding while other issues, like possible conflict with Iran, tariffs and the State of the Union, threaten to sideline a deal.",
+        "url": "https://www.foxnews.com/politics/dhs-shutdown-drags-week-two-iran-threat-sotu-clash-complicate-hill-talks",
+        "publishedAt": "2026-02-23T10:00:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Thomas rips Supreme Court tariffs ruling, says majority 'errs' on Constitution",
+        "description": "Justice Clarence Thomas cited President Richard Nixon's 1971 import surcharge precedent in his dissent, arguing Congress authorized tariff authority under emergency powers law.",
+        "url": "https://www.foxnews.com/politics/thomas-rips-supreme-court-tariffs-ruling-says-majority-errs-constitution",
+        "publishedAt": "2026-02-23T10:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1971"
+      },
+      {
+        "title": "Why Trump is wrong to call dissenting Republican justices an 'embarrassment' for voting against his tariffs",
+        "description": "President Trump appeared downright furious after the Supreme Court struck down his watershed tariffs. Here's where his vitriolic postgame presser missed the mark.",
+        "url": "https://www.foxnews.com/media/why-trump-wrong-call-dissenting-republican-justices-embarrassment-voting-against-his-tariffs",
+        "publishedAt": "2026-02-23T08:03:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
