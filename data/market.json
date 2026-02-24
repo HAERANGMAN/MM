@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-24T13:40:01.917264+00:00",
-  "insight": "Raw data summary: NASDAQ -1.13%, S&P 500 -1.04%, KOSPI +2.11%",
+  "generated_at": "2026-02-24T14:39:15.164194+00:00",
+  "insight": "Raw data summary: NASDAQ -0.39%, S&P 500 -0.28%, KOSPI +2.11%",
   "errors": [
     "USD/JPY: The read operation timed out",
-    "USD/KRW: The read operation timed out",
-    "USD/THB: The read operation timed out",
+    "USD/KRW: HTTP Error 522: <none>",
+    "USD/THB: HTTP Error 522: <none>",
     "THB/KRW: The read operation timed out"
   ],
   "items": [
     {
       "key": "NASDAQ",
       "label": "NASDAQ",
-      "price": 22627.26953125,
-      "dod": -1.1308222762413136,
-      "mom": -3.718828004007435,
-      "yoy": 15.894582121592475,
-      "raw_points": 1255
+      "price": 22539.099609375,
+      "dod": -0.38966222483552665,
+      "mom": -4.09399936090474,
+      "yoy": 16.862040638758355,
+      "raw_points": 1256
     },
     {
       "key": "S&P500",
       "label": "S&P 500",
-      "price": 6837.75,
-      "dod": -1.0385652247284864,
-      "mom": -1.12585679094841,
-      "yoy": 13.713658830894957,
-      "raw_points": 1255
+      "price": 6818.85986328125,
+      "dod": -0.27626246526635223,
+      "mom": -1.3990089364887195,
+      "yoy": 13.965818965967491,
+      "raw_points": 1256
     },
     {
       "key": "KOSPI",
@@ -56,28 +56,28 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 62646.765625,
-      "dod": -3.0487033370138894,
-      "mom": -27.63640977493141,
-      "yoy": -31.472305407004182,
+      "price": 62979.76953125,
+      "dod": -2.533350945191555,
+      "mom": -27.251755308339025,
+      "yoy": -31.108040951240035,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 90501160.0,
-      "dod": -2.952197074045173,
-      "mom": -27.727418853226283,
-      "yoy": -30.75444884338917,
+      "price": 90967352.0,
+      "dod": -2.4522818316145045,
+      "mom": -27.355126396975148,
+      "yoy": -30.397749305120236,
       "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": 97.91100311279297,
-      "dod": 0.21597356309290822,
-      "mom": 0.3186522987029951,
-      "yoy": -8.151027660134087,
+      "price": 97.947998046875,
+      "dod": 0.2538394128755134,
+      "mom": 0.3565569448714482,
+      "yoy": -8.11632321865981,
       "raw_points": 1258
     },
     {
