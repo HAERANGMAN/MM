@@ -1,20 +1,148 @@
 {
-  "generated_at": "2026-02-24T15:38:50.607514+00:00",
+  "generated_at": "2026-02-24T16:45:00.177262+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-korea-econ": [
+      {
+        "title": "North Korea’s Kim Jong Un re-elected as ruling party leader",
+        "description": "Kim Jong Un re-elected as general secretary of North Korea's Workers' Party, with state media praising his leadership and military advances over the past five years.",
+        "url": "https://www.foxnews.com/world/north-koreas-kim-jong-un-re-elected-ruling-party-leader",
+        "publishedAt": "2026-02-23T12:59:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-econ": [
+      {
+        "title": "Blue cities like NYC promising more and delivering less to residents, CNN host warns",
+        "description": "CNN's Fareed Zakaria slammed Zohran Mamdani's \"unaffordable\" $127 billion preliminary budget, calling blue cities \"out of control\" for promising more but delivering less to residents.",
+        "url": "https://www.foxnews.com/media/blue-cities-nyc-promising-more-delivering-less-residents-cnn-host-warns",
+        "publishedAt": "2026-02-23T15:25:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Kingpins fall, prices don’t: How cartels defy the rules of economics",
+        "description": "Why killing drug cartel leaders barely affects prices: a look at the surprising economics behind resilient trafficking networks that operate like corporations.",
+        "url": "https://www.foxnews.com/politics/kingpins-fall-prices-dont-how-cartels-defy-rules-economics",
+        "publishedAt": "2026-02-23T16:31:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Blue cities like NYC promising more and delivering less to residents, CNN host warns",
+        "description": "CNN's Fareed Zakaria slammed Zohran Mamdani's \"unaffordable\" $127 billion preliminary budget, calling blue cities \"out of control\" for promising more but delivering less to residents.",
+        "url": "https://www.foxnews.com/media/blue-cities-nyc-promising-more-delivering-less-residents-cnn-host-warns",
+        "publishedAt": "2026-02-23T15:25:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "‘Star Trek: Starfleet Academy’ Is a Ratings Disaster Amid ‘First Ever Gay Klingon’ in a Dress, Teases Queer Love Triangle Plot",
+        "description": "Paramout+'s struggling new \"Star Trek\" series, \"Star Trek: Starfleet Academy,\" has been unable to crack the top ten shows in the Nielsen Ratings as the eight-figure per episode series wallows in a constant stream of left-wing, identity politics like gay Kling…",
+        "url": "https://www.breitbart.com/entertainment/2026/02/23/star-trek-starfleet-academy-is-a-ratings-disaster-amid-first-ever-gay-klingon-in-a-dress-teases-queer-love-triangle-plot/",
+        "publishedAt": "2026-02-23T15:08:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "SEN ELIZABETH WARREN: President Trump's broken promise on credit cards",
+        "description": "President Trump could lower costs quickly if he would follow through on his campaign promise to put a 10% cap on credit card interest rates.",
+        "url": "https://www.foxnews.com/opinion/sen-elizabeth-warren-president-trumps-broken-promise-credit-cards",
+        "publishedAt": "2026-02-23T10:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Thomas rips Supreme Court tariffs ruling, says majority 'errs' on Constitution",
+        "description": "Justice Clarence Thomas cited President Richard Nixon's 1971 import surcharge precedent in his dissent, arguing Congress authorized tariff authority under emergency powers law.",
+        "url": "https://www.foxnews.com/politics/thomas-rips-supreme-court-tariffs-ruling-says-majority-errs-constitution",
+        "publishedAt": "2026-02-23T10:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1971"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Soccer matches postponed after Mexico kills cartel leader ‘El Mencho’ near World Cup host",
+        "description": "Mexican soccer matches were postponed after the army reportedly killed drug lord \"El Mencho\" near the World Cup host city Guadalajara, triggering violence in the region.",
+        "url": "https://www.foxnews.com/sports/el-mencho-killed-soccer-matches-postponed",
+        "publishedAt": "2026-02-23T06:20:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Minnesota Dems Push Bill Allowing Law Enforcement to Enter Homes to Check Gun Storage",
+        "description": "MN Dems are pushing a bill to allow law enforcement to enter homes to check compliance with semiautomatic gun storage requirements.\nThe post Minnesota Dems Push Bill Allowing Law Enforcement to Enter Homes to Check Gun Storage appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/23/minnesota-dems-push-bill-allowing-law-enforcement-enter-homes-check-gun-storage/",
+        "publishedAt": "2026-02-23T16:43:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kingpins fall, prices don’t: How cartels defy the rules of economics",
+        "description": "Why killing drug cartel leaders barely affects prices: a look at the surprising economics behind resilient trafficking networks that operate like corporations.",
+        "url": "https://www.foxnews.com/politics/kingpins-fall-prices-dont-how-cartels-defy-rules-economics",
+        "publishedAt": "2026-02-23T16:31:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Atlanta tests driverless pod transit loop",
+        "description": "Atlanta automated transit network becomes world's first public test of Glydways' driverless pods connecting convention center to arena starting December 2026.",
+        "url": "https://www.foxnews.com/tech/atlanta-tests-driverless-pod-transit-loop",
+        "publishedAt": "2026-02-23T15:44:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Crenshaw praises Mexican officials after 'El Mencho' death, calls cartel 'terrorist insurgency'",
+        "description": "Rep. Dan Crenshaw calls reported death of \"El Mencho,\" head of Mexico's CJNG cartel, a major win against deadly fentanyl trafficking to U.S. streets.",
+        "url": "https://www.foxnews.com/media/crenshaw-praises-mexican-officials-after-el-mencho-death-calls-cartel-terrorist-insurgency",
+        "publishedAt": "2026-02-23T15:08:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Florida GOP Pushes to Allow Churches to Use Volunteer Security Rather Than Pay for Licensed Guards",
+        "description": "Florida State Sen. Don Gaetz (R) is pushing legislation to allow churches to use volunteer security rather than being required to pay to hire licensed security personnel.\nThe post Florida GOP Pushes to Allow Churches to Use Volunteer Security Rather Than Pay …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/23/florida-gop-pushes-to-allow-churches-to-use-volunteer-security-rather-than-pay-for-licensed-guards/",
+        "publishedAt": "2026-02-23T14:52:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
