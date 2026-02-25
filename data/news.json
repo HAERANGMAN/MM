@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T22:32:54.316821+00:00",
+  "generated_at": "2026-02-25T23:03:43.850679+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "From grief to gold medals, Trump’s SOTU guest list tells a bigger story",
-        "description": "President Donald Trump's State of the Union speech Tuesday focuses on economic wins, with guests ranging from everyday Americans to Olympic champions and crime victims' families.",
-        "url": "https://www.foxnews.com/politics/from-grief-gold-medals-trumps-sotu-guest-list-tells-bigger-story",
-        "publishedAt": "2026-02-24T22:16:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Housing and Urban Development Celebrates Falling Rents Amid Migrant Deportations",
-        "description": "President Donald Trump's deportation policy is cutting rents for many millions of younger Americans, says Housing Secretary Scott Turner.\nThe post Housing and Urban Development Celebrates Falling Rents Amid Migrant Deportations appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/02/24/housing-and-urban-development-celebrates-falling-rents-amid-migrant-deportations/",
-        "publishedAt": "2026-02-24T21:23:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: The New Anti-Tariff 'Proof' Paper Isn’t What It Seems",
-        "description": "A new NBER working paper claims to show that tariffs reduce trade, output, and manufacturing. But the paper's findings are being oversold.\nThe post Breitbart Business Digest: The New Anti-Tariff ‘Proof’ Paper Isn’t What It Seems appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/02/24/breitbart-business-digest-the-new-anti-tariff-proof-paper-isnt-what-it-seems/",
-        "publishedAt": "2026-02-24T21:08:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SOTU Spotlight: The Moments That Shaped Trump’s Addresses",
-        "description": "As President Donald Trump prepares to deliver his State of the Union address on Tuesday, a look back at some of the most memorable, surprising, and closely watched moments from his previous speeches highlights how the annual address has provided a stage for l…",
-        "url": "https://www.breitbart.com/politics/2026/02/24/sotu-spotlight-the-moments-that-shaped-trumps-addresses/",
-        "publishedAt": "2026-02-24T21:02:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Panama Takes Control of Key Canal Ports After Court Nullifies China-Linked Contracts",
-        "description": "The government of Panama on Monday took administrative and operative control of two key Panama Canal ports following the Panamanian's Supreme Court ruling that annulled the contracts signed with a China-linked organization.\nThe post Panama Takes Control of Ke…",
-        "url": "https://www.breitbart.com/national-security/2026/02/24/panama-takes-control-of-key-canal-ports-following-annulment-of-china-linked-contracts/",
-        "publishedAt": "2026-02-24T20:23:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "SOTU Spotlight: The Moments That Shaped Trump’s Addresses",
-        "description": "As President Donald Trump prepares to deliver his State of the Union address on Tuesday, a look back at some of the most memorable, surprising, and closely watched moments from his previous speeches highlights how the annual address has provided a stage for l…",
-        "url": "https://www.breitbart.com/politics/2026/02/24/sotu-spotlight-the-moments-that-shaped-trumps-addresses/",
-        "publishedAt": "2026-02-24T21:02:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Minnesota Gov. Tim Walz Pushes Tax for Gun and Ammo Sales",
-        "description": "Gov. Tim Walz introduced a gun control package to the state legislature and made clear his desire for a tax on gun and ammunition sales. \nThe post Minnesota Gov. Tim Walz Pushes Tax for Gun and Ammo Sales appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/24/minnesota-gov-tim-walz-pushes-tax-gun-ammo-sales/",
-        "publishedAt": "2026-02-24T19:32:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Holds Military Drills Ahead of Trump’s State of the Union Address",
-        "description": "Iran’s Islamic Revolutionary Guard Corps (IRGC) held military drills on Tuesday, reportedly including tests for new weapons, even as top military official Ali Larijani was preparing to deliver Iran’s latest response in negotiations with the United States, and…",
-        "url": "https://www.breitbart.com/national-security/2026/02/24/iran-holds-military-drills-ahead-of-trumps-state-of-the-union-address/",
-        "publishedAt": "2026-02-24T19:13:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "1,000 Tourists Got Stuck in Guadalajara Zoo During Mexico Cartel Terror Spree",
-        "description": "The wave of intense violence unleashed by Cartel Jalisco New Generation (CJNG) following their death of its leader, Nemesio “El Mencho” Oseguera Cervantes, left over a thousand tourists stranded at the Guadalajara City Zoo in the state of Jalisco this weekend…",
-        "url": "https://www.breitbart.com/latin-america/2026/02/24/1000-tourists-got-stuck-in-guadalajara-zoo-during-mexico-cartel-terror-spree/",
-        "publishedAt": "2026-02-24T18:40:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "US forces interdict another fugitive tanker ship in Indian Ocean",
-        "description": "U.S. forces intercept fugitive oil tanker \"Bertha\" in Indian Ocean as President Donald Trump's sanctions blockade reaches global waters, officials announced Tuesday.",
-        "url": "https://www.foxnews.com/world/us-forces-interdict-another-fugitive-tanker-ship-indian-ocean",
-        "publishedAt": "2026-02-24T15:46:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Study: Trans Shooters Commit 'Disproportionate Shares of Mass Public and Active Shooting Attacks'",
-        "description": "Transgender individuals commit \"disproportionate shares of mass public and active shooting attacks,\" a Crime Prevention Research Center (CPRC) report shows.\nThe post Study: Trans Shooters Commit ‘Disproportionate Shares of Mass Public and Active Shooting Atta…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/24/study-trans-shooters-commit-disproportionate-shares-of-mass-public-and-active-shooting-attacks/",
-        "publishedAt": "2026-02-24T15:09:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
