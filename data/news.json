@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-02-25T16:13:41.290010+00:00",
+  "generated_at": "2026-02-25T17:20:00.551170+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Brazil Cuts Mineral Deals with India and South Korea",
+        "description": "Brazil and India finalized a deal on critical minerals and rare earths on Saturday, followed by an agreement between Brazil and South Korea on Monday to increase their cooperation on minerals, technology, cultural exchange, and trade.\nThe post Brazil Cuts Min…",
+        "url": "https://www.breitbart.com/latin-america/2026/02/23/brazil-cuts-mineral-deals-with-india-and-south-korea/",
+        "publishedAt": "2026-02-24T00:21:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Ohio Gov. Mike DeWine Picks Cheaper Migrant Labor Over American Workers",
+        "description": "Ohio's Republican Governor Mike DeWine defended his support for the importation of cheap labor on Sunday and criticized President Trump for ending protected status for Haitians.\nThe post Ohio Gov. Mike DeWine Picks Cheaper Migrant Labor Over American Workers …",
+        "url": "https://www.breitbart.com/immigration/2026/02/24/ohio-gov-mike-dewine-picks-cheaper-migrant-labor-over-american-workers/",
+        "publishedAt": "2026-02-24T17:16:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "State of the Union 2026 Chat: Join America's conversation here!",
+        "description": "Chat with other Fox News readers and share your thoughts on President Donald Trump's 2026 State of the Union Address!",
+        "url": "https://www.foxnews.com/forum/2026-state-of-the-union",
+        "publishedAt": "2026-02-24T17:08:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "‘Delaying, stalling and blaming’: Russia shows little sign of compromise as war enters fifth year, expert says",
+        "description": "Four years after Russia launched its full-scale invasion of Ukraine, the war shows no clear end in sight as costly battlefield advances continue and renewed diplomatic efforts struggle to deliver a breakthrough.",
+        "url": "https://www.foxnews.com/world/delaying-stalling-blaming-war-enters-fifth-year-russia-shows-little-sign-compromise",
+        "publishedAt": "2026-02-24T15:44:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Study: Trans Shooters Commit 'Disproportionate Shares of Mass Public and Active Shooting Attacks'",
+        "description": "Transgender individuals commit \"disproportionate shares of mass public and active shooting attacks,\" a Crime Prevention Research Center (CPRC) report shows.\nThe post Study: Trans Shooters Commit ‘Disproportionate Shares of Mass Public and Active Shooting Atta…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/24/study-trans-shooters-commit-disproportionate-shares-of-mass-public-and-active-shooting-attacks/",
+        "publishedAt": "2026-02-24T15:09:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report card: Conservative and liberal strategists reveal how Trump has fared on campaign promises",
+        "description": "Ahead of President Donald Trump's first State of the Union address since returning to the White House, his record on key campaign pledges is mixed.",
+        "url": "https://www.foxnews.com/politics/report-card-conservative-liberal-strategists-reveal-how-trump-fared-campaign-promises",
+        "publishedAt": "2026-02-24T15:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "US forces interdict another fugitive tanker ship in Indian Ocean",
+        "description": "U.S. forces intercept fugitive oil tanker \"Bertha\" in Indian Ocean as President Donald Trump's sanctions blockade reaches global waters, officials announced Tuesday.",
+        "url": "https://www.foxnews.com/world/us-forces-interdict-another-fugitive-tanker-ship-indian-ocean",
+        "publishedAt": "2026-02-24T15:46:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Study: Trans Shooters Commit 'Disproportionate Shares of Mass Public and Active Shooting Attacks'",
+        "description": "Transgender individuals commit \"disproportionate shares of mass public and active shooting attacks,\" a Crime Prevention Research Center (CPRC) report shows.\nThe post Study: Trans Shooters Commit ‘Disproportionate Shares of Mass Public and Active Shooting Atta…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/02/24/study-trans-shooters-commit-disproportionate-shares-of-mass-public-and-active-shooting-attacks/",
+        "publishedAt": "2026-02-24T15:09:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Watch Live: Oversight Hearing for the National Endowment for Democracy",
+        "description": "The House Appropriations committee holds an oversight hearing to review the National Endowment for Democracy (NED) on Tuesday, February 24.\nThe post Watch Live: Oversight Hearing for the National Endowment for Democracy appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/02/24/watch-live-oversight-hearing-for-the-national-endowment-for-democracy/",
+        "publishedAt": "2026-02-24T15:06:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "24"
+      },
+      {
+        "title": "Americans are obsessed with fried chicken, and chefs say it's not just about the taste",
+        "description": "Celebrity chefs Esther Choi and Kardea Brown showcase bold fried chicken creations at South Beach Wine & Food Festival's luxury \"Chicken Coupe\" event.",
+        "url": "https://www.foxnews.com/food-drink/americans-obsessed-fried-chicken-chefs-say-its-not-just-about-taste",
+        "publishedAt": "2026-02-24T15:06:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report card: Conservative and liberal strategists reveal how Trump has fared on campaign promises",
+        "description": "Ahead of President Donald Trump's first State of the Union address since returning to the White House, his record on key campaign pledges is mixed.",
+        "url": "https://www.foxnews.com/politics/report-card-conservative-liberal-strategists-reveal-how-trump-fared-campaign-promises",
+        "publishedAt": "2026-02-24T15:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
