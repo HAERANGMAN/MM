@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T17:20:00.551170+00:00",
+  "generated_at": "2026-02-25T18:17:11.824725+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Democrats U-Turn on AI Data Centers to Weaponize Fear During Midterm Elections",
+        "description": "Several prominent Democrat governors including potential 2028 presidential candidates are dramatically shifting their positions on AI data centers as voter concerns mount. Breitbart News social media director Wynton Hall, the author of the upcoming book Code …",
+        "url": "https://www.breitbart.com/tech/2026/02/24/democrats-u-turn-on-ai-data-centers-to-weaponize-fear-during-midterm-elections/",
+        "publishedAt": "2026-02-24T18:05:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "Democrats' 'Trump Derangement Syndrome' on 'full display' with counter-State of the Union events, Johnson says",
+        "description": "House Speaker Mike Johnson said the Democratic Party has nothing to offer \"but their TDS agenda,\" with multiple counter-SOTU events set for Tuesday night.",
+        "url": "https://www.foxnews.com/politics/democrats-trump-derangement-syndrome-full-display-counter-state-of-the-union-events-johnson-says",
+        "publishedAt": "2026-02-24T17:55:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Ohio Gov. Mike DeWine Picks Cheaper Migrant Labor Over American Workers",
         "description": "Ohio's Republican Governor Mike DeWine defended his support for the importation of cheap labor on Sunday and criticized President Trump for ending protected status for Haitians.\nThe post Ohio Gov. Mike DeWine Picks Cheaper Migrant Labor Over American Workers …",
@@ -40,26 +60,6 @@
         "description": "Four years after Russia launched its full-scale invasion of Ukraine, the war shows no clear end in sight as costly battlefield advances continue and renewed diplomatic efforts struggle to deliver a breakthrough.",
         "url": "https://www.foxnews.com/world/delaying-stalling-blaming-war-enters-fifth-year-russia-shows-little-sign-compromise",
         "publishedAt": "2026-02-24T15:44:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Study: Trans Shooters Commit 'Disproportionate Shares of Mass Public and Active Shooting Attacks'",
-        "description": "Transgender individuals commit \"disproportionate shares of mass public and active shooting attacks,\" a Crime Prevention Research Center (CPRC) report shows.\nThe post Study: Trans Shooters Commit ‘Disproportionate Shares of Mass Public and Active Shooting Atta…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/02/24/study-trans-shooters-commit-disproportionate-shares-of-mass-public-and-active-shooting-attacks/",
-        "publishedAt": "2026-02-24T15:09:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report card: Conservative and liberal strategists reveal how Trump has fared on campaign promises",
-        "description": "Ahead of President Donald Trump's first State of the Union address since returning to the White House, his record on key campaign pledges is mixed.",
-        "url": "https://www.foxnews.com/politics/report-card-conservative-liberal-strategists-reveal-how-trump-fared-campaign-promises",
-        "publishedAt": "2026-02-24T15:00:24Z",
         "source": {
           "name": "Fox News"
         },
