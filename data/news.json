@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-02-25T23:03:43.850679+00:00",
+  "generated_at": "2026-02-25T23:40:01.487969+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Brazil Cuts Mineral Deals with India and South Korea",
-        "description": "Brazil and India finalized a deal on critical minerals and rare earths on Saturday, followed by an agreement between Brazil and South Korea on Monday to increase their cooperation on minerals, technology, cultural exchange, and trade.\nThe post Brazil Cuts Min…",
-        "url": "https://www.breitbart.com/latin-america/2026/02/23/brazil-cuts-mineral-deals-with-india-and-south-korea/",
-        "publishedAt": "2026-02-24T00:21:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
