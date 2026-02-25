@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T21:55:28.699170+00:00",
+  "generated_at": "2026-02-25T22:32:54.316821+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "From grief to gold medals, Trump’s SOTU guest list tells a bigger story",
+        "description": "President Donald Trump's State of the Union speech Tuesday focuses on economic wins, with guests ranging from everyday Americans to Olympic champions and crime victims' families.",
+        "url": "https://www.foxnews.com/politics/from-grief-gold-medals-trumps-sotu-guest-list-tells-bigger-story",
+        "publishedAt": "2026-02-24T22:16:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Housing and Urban Development Celebrates Falling Rents Amid Migrant Deportations",
         "description": "President Donald Trump's deportation policy is cutting rents for many millions of younger Americans, says Housing Secretary Scott Turner.\nThe post Housing and Urban Development Celebrates Falling Rents Amid Migrant Deportations appeared first on Breitbart.",
@@ -54,16 +64,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Homes See Smallest Annual Price Hike Since 2009",
-        "description": "Last year's home pricel increase marks slowest pace in over 15 years as homes become more affordable in real terms\nThe post Homes See Smallest Annual Price Hike Since 2009 appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/02/24/homes-see-smallest-annual-price-hike-since-2009/",
-        "publishedAt": "2026-02-24T19:55:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2009"
       }
     ],
     "news-korea-soc": [
