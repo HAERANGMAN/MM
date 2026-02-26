@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T22:50:06.752371+00:00",
+  "generated_at": "2026-02-26T23:17:39.862742+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -13,125 +13,18 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [
-      {
-        "title": "US sets initial duties on Indian solar imports at 126%",
-        "description": "The rate is based on a determination of foreign subsidies that the US says allowed exporters from India to undercut products from domestic solar producers",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/us-finds-that-india-indonesia-laos-unfairly-subsidized-solar",
-        "publishedAt": "2026-02-25T04:01:10Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "126"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Zimbabwe Bans Mineral Exports Due to ‘Continued Malpractices’",
-        "description": "Zimbabwe’s Minister of Mines and Mining Development, Polite Kambamura, announced on Wednesday that all exports of raw minerals and lithium concentrates would be banned until further notice due to unspecified “continued malpractices” in the mining industry.\nTh…",
-        "url": "https://www.breitbart.com/africa/2026/02/25/zimbabwe-bans-mineral-exports-due-to-continued-malpractices/",
-        "publishedAt": "2026-02-25T21:37:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mexican president considers legal action against Elon Musk over drug cartel accusation",
-        "description": "Mexican President Claudia Sheinbaum considers legal action against Elon Musk after he accused her of having cartel ties without providing evidence.",
-        "url": "https://www.foxnews.com/world/mexican-president-considers-legal-action-against-elon-musk-over-drug-cartel-accusation",
-        "publishedAt": "2026-02-25T21:05:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: State of the Union — Inflation Crushed and Real Wages Soaring",
-        "description": "President Trump led off his State of the Union speech by addressing the state of the economy, highlighting the progress on bringing down inflation after the Biden-Powell surge that undermined America's post-pandemic recovery.\nThe post Breitbart Business Diges…",
-        "url": "https://www.breitbart.com/economy/2026/02/25/breitbart-business-digest-state-of-the-union-inflation-crushed-and-real-wages-soaring/",
-        "publishedAt": "2026-02-25T20:59:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Child predator dubbed 'monster parents fear most' cleared for release through California parole program",
-        "description": "California child molester once called \"the monster parents fear most\" cleared for release under elderly parole program despite widespread community opposition.",
-        "url": "https://www.foxnews.com/us/child-predator-dubbed-monster-parents-fear-most-cleared-release-through-california-parole-program",
-        "publishedAt": "2026-02-25T20:30:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "House Republican explains why she sat on left side of chamber during State of the Union",
-        "description": "GOP Rep. Kat Cammack sat on the left side of the House chamber with Democrats during President Donald Trump's State of the Union speech on Tuesday.",
-        "url": "https://www.foxnews.com/politics/house-republican-explains-why-she-sat-left-side-house-chamber-during-state-union",
-        "publishedAt": "2026-02-25T18:44:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Indian Prime Minister Modi Visits Israel amid Growing Tensions with Iran",
-        "description": "Indian Prime Minister Narendra Modi began a two-day visit to Israel on Wednesday in what both governments billed as an opportunity to build closer relations by making common cause against terrorism – and which some observers viewed as a ticking clock on poten…",
-        "url": "https://www.breitbart.com/asia/2026/02/25/indian-prime-minister-modi-visits-israel-amid-growing-tensions-with-iran/",
-        "publishedAt": "2026-02-25T22:30:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Voters react as Trump touts signature tariff plan at State of the Union",
-        "description": "Republicans were pleased after Trump spoke during the State of the Union about his plan to continue imposing global tariffs after the Supreme Court dealt him a setback.",
-        "url": "https://www.foxnews.com/politics/voters-react-trump-touts-signature-tariff-plan-state-union",
-        "publishedAt": "2026-02-25T21:57:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Schweizer: How the Left Is Brainwashing America, Featuring Buck Sexton",
-        "description": "Words like “mind control” and “brainwashing” get tossed around, but it is a very real science and a very dangerous game that former CIA operative and now conservative talk show host Buck Sexton calls by its scientific name of “menticide,” the murder of the mi…",
-        "url": "https://www.breitbart.com/politics/2026/02/25/schweizer-how-the-left-is-brainwashing-america-featuring-buck-sexton/",
-        "publishedAt": "2026-02-25T20:01:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Former Clinton, Obama official to resign from Harvard over Epstein ties",
-        "description": "Former Harvard President Larry Summers announced that he will retire from his academic and faculty appointments at the Ivy League school, a spokesperson said.",
-        "url": "https://www.foxnews.com/us/former-clinton-obama-official-resign-from-harvard-over-epstein-ties",
-        "publishedAt": "2026-02-25T19:24:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump trims some tariffs after Supreme Court loss but keeps trade fight alive",
-        "description": "Trump adapts trade strategy after Supreme Court strikes down tariffs in 6-3 ruling, preserving existing duties while vowing continued fight against decision.",
-        "url": "https://www.foxnews.com/politics/trump-trims-some-tariffs-after-supreme-court-loss-keeps-trade-fight-alive",
-        "publishedAt": "2026-02-25T19:04:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "6"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
