@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T22:03:44.664681+00:00",
+  "generated_at": "2026-02-26T22:50:06.752371+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -81,6 +81,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Indian Prime Minister Modi Visits Israel amid Growing Tensions with Iran",
+        "description": "Indian Prime Minister Narendra Modi began a two-day visit to Israel on Wednesday in what both governments billed as an opportunity to build closer relations by making common cause against terrorism – and which some observers viewed as a ticking clock on poten…",
+        "url": "https://www.breitbart.com/asia/2026/02/25/indian-prime-minister-modi-visits-israel-amid-growing-tensions-with-iran/",
+        "publishedAt": "2026-02-25T22:30:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Voters react as Trump touts signature tariff plan at State of the Union",
         "description": "Republicans were pleased after Trump spoke during the State of the Union about his plan to continue imposing global tariffs after the Supreme Court dealt him a setback.",
         "url": "https://www.foxnews.com/politics/voters-react-trump-touts-signature-tariff-plan-state-union",
@@ -119,16 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "6"
-      },
-      {
-        "title": "Bill Gates Apologizes to Foundation Staff over Epstein Ties, Claims He Did 'Nothing Illicit'",
-        "description": "Bill Gates has apologized to staff of the Gates Foundation over his ties to Jeffrey Epstein, admitting he made mistakes that had cast a cloud over the philanthropic group while insisting he didn't participate in Epstein's crimes. Gates bizarrely stated, “I di…",
-        "url": "https://www.breitbart.com/tech/2026/02/25/bill-gates-apologizes-to-foundation-staff-over-epstein-ties-claims-he-did-nothing-illicit/",
-        "publishedAt": "2026-02-25T18:02:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
