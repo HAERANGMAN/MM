@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T05:03:43.219348+00:00",
+  "generated_at": "2026-02-27T06:02:57.513966+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Emerging markets lead 2026 rally as weaker dollar lifts risk appetite",
-        "description": "Emerging markets hit record highs as global asset managers boost EM stocks and bonds, betting on strong growth and a weaker dollar in 2026.",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/world-s-biggest-money-managers-favor-emerging-markets-citi-says",
-        "publishedAt": "2026-02-26T04:53:10Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Netflix’s Ted Sarandos Visiting White House to Discuss Warner Bros. Purchase as Attorneys General Say It’s Bad for America",
-        "description": "The ongoing battle between Netflix and Paramount in their quests to purchase Warner Bros. Discovery escalated this week.\nThe post Netflix’s Ted Sarandos Visiting White House to Discuss Warner Bros. Purchase as Attorneys General Say It’s Bad for America appear…",
-        "url": "https://www.breitbart.com/entertainment/2026/02/25/netflixs-ted-sarandos-visiting-white-house-to-discuss-warner-bros-purchase-as-attorneys-general-say-its-bad-for-america/",
-        "publishedAt": "2026-02-26T04:38:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Banks snap up bonds as holdings approach regulatory floor",
-        "description": "The revival in demand from local lenders — the biggest holders of bonds — offers relief for India’s debt market, which has been facing weak demand in recent months",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/indian-banks-snap-up-bonds-as-holdings-approach-regulatory-floor",
-        "publishedAt": "2026-02-26T03:22:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India cancels up to 75,000 tonnes of soybean oil imports as global prices rally",
-        "description": "Industry executives said buyers exited earlier contracts signed at $1,080–$1,100 per tonne after prices climbed to about $1,140–$1,147.50, locking in gains of $40–$60 per tonne",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-25/india-scraps-more-south-american-soy-oil-cargoes-as-prices-rally",
-        "publishedAt": "2026-02-26T02:18:11Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "75"
-      },
-      {
-        "title": "Kamala Harris harshly critiques President Trump's SOTU speech which triggers response from White House",
-        "description": "Former Vice President Kamala Harris called President Donald Trump's 2026 State of the Union \"same old, same old\" and accused him of \"lying\" on Wednesday.",
-        "url": "https://www.foxnews.com/media/kamala-harris-harshly-critiques-president-trumps-sotu-speech-which-triggers-response-from-white-house",
-        "publishedAt": "2026-02-26T02:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Emerging markets lead 2026 rally as weaker dollar lifts risk appetite",
-        "description": "Emerging markets hit record highs as global asset managers boost EM stocks and bonds, betting on strong growth and a weaker dollar in 2026.",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/world-s-biggest-money-managers-favor-emerging-markets-citi-says",
-        "publishedAt": "2026-02-26T04:53:10Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Banks snap up bonds as holdings approach regulatory floor",
-        "description": "The revival in demand from local lenders — the biggest holders of bonds — offers relief for India’s debt market, which has been facing weak demand in recent months",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/indian-banks-snap-up-bonds-as-holdings-approach-regulatory-floor",
-        "publishedAt": "2026-02-26T03:22:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Former IDF General: Iran May Arm Missiles with Chemical Warheads; ‘Massive Strike’ Only Option",
-        "description": "A former senior Israeli commander warned that Iran could seek to arm its rapidly expanding ballistic missile arsenal — which already threatens Israel, U.S. bases, and allied interests across the region — with chemical or biological warheads, arguing that the …",
-        "url": "https://www.breitbart.com/politics/2026/02/25/exclusive-former-idf-general-iran-may-arm-missiles-chemical-warheads/",
-        "publishedAt": "2026-02-26T02:38:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India cancels up to 75,000 tonnes of soybean oil imports as global prices rally",
-        "description": "Industry executives said buyers exited earlier contracts signed at $1,080–$1,100 per tonne after prices climbed to about $1,140–$1,147.50, locking in gains of $40–$60 per tonne",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-25/india-scraps-more-south-american-soy-oil-cargoes-as-prices-rally",
-        "publishedAt": "2026-02-26T02:18:11Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "75"
-      },
-      {
-        "title": "Ex-NFL star Shawne Merriman loses control of MMA company, legal battle ensues",
-        "description": "Former NFL star Shawne Merriman is fighting in court to regain control of his company, Lights Out, after it defaulted on a loan of more than $2 million.",
-        "url": "https://www.foxnews.com/sports/ex-nfl-star-shawne-merriman-loses-control-mma-company-legal-battle-ensues",
-        "publishedAt": "2026-02-25T23:37:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
