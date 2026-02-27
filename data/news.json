@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T03:29:04.219979+00:00",
+  "generated_at": "2026-02-27T05:03:43.219348+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -13,19 +13,28 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [
+    "news-thai-econ": [],
+    "news-global-econ": [
       {
-        "title": "US sets initial duties on Indian solar imports at 126%",
-        "description": "The rate is based on a determination of foreign subsidies that the US says allowed exporters from India to undercut products from domestic solar producers",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/us-finds-that-india-indonesia-laos-unfairly-subsidized-solar",
-        "publishedAt": "2026-02-25T04:01:10Z",
+        "title": "Emerging markets lead 2026 rally as weaker dollar lifts risk appetite",
+        "description": "Emerging markets hit record highs as global asset managers boost EM stocks and bonds, betting on strong growth and a weaker dollar in 2026.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-26/world-s-biggest-money-managers-favor-emerging-markets-citi-says",
+        "publishedAt": "2026-02-26T04:53:10Z",
         "source": {
           "name": "Bloomberg"
         },
-        "numericHint": "126"
-      }
-    ],
-    "news-global-econ": [
+        "numericHint": "2026"
+      },
+      {
+        "title": "Netflix’s Ted Sarandos Visiting White House to Discuss Warner Bros. Purchase as Attorneys General Say It’s Bad for America",
+        "description": "The ongoing battle between Netflix and Paramount in their quests to purchase Warner Bros. Discovery escalated this week.\nThe post Netflix’s Ted Sarandos Visiting White House to Discuss Warner Bros. Purchase as Attorneys General Say It’s Bad for America appear…",
+        "url": "https://www.breitbart.com/entertainment/2026/02/25/netflixs-ted-sarandos-visiting-white-house-to-discuss-warner-bros-purchase-as-attorneys-general-say-its-bad-for-america/",
+        "publishedAt": "2026-02-26T04:38:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Banks snap up bonds as holdings approach regulatory floor",
         "description": "The revival in demand from local lenders — the biggest holders of bonds — offers relief for India’s debt market, which has been facing weak demand in recent months",
@@ -55,31 +64,21 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
-      {
-        "title": "Legal experts react to Trump’s SCOTUS clash and tariff pivot in fiery SOTU",
-        "description": "Trump's State of the Union highlighted his policy priorities such as tariffs and cracking down on violent crime.",
-        "url": "https://www.foxnews.com/politics/legal-experts-react-trumps-scotus-clash-tariff-pivot-fiery-sotu",
-        "publishedAt": "2026-02-25T23:36:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran's supreme leader runs 'state within a state' through secret 4,000-person network, report says",
-        "description": "New report reveals Iran's Supreme Leader Ali Khamenei operates a \"state within a state\" through a hidden 4,000-person apparatus controlling the military and the economy.",
-        "url": "https://www.foxnews.com/world/irans-supreme-leader-runs-state-within-state-through-secret-4000-person-network-report-says",
-        "publishedAt": "2026-02-25T23:04:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Emerging markets lead 2026 rally as weaker dollar lifts risk appetite",
+        "description": "Emerging markets hit record highs as global asset managers boost EM stocks and bonds, betting on strong growth and a weaker dollar in 2026.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-26/world-s-biggest-money-managers-favor-emerging-markets-citi-says",
+        "publishedAt": "2026-02-26T04:53:10Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2026"
+      },
       {
         "title": "Banks snap up bonds as holdings approach regulatory floor",
         "description": "The revival in demand from local lenders — the biggest holders of bonds — offers relief for India’s debt market, which has been facing weak demand in recent months",
@@ -119,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Legal experts react to Trump’s SCOTUS clash and tariff pivot in fiery SOTU",
-        "description": "Trump's State of the Union highlighted his policy priorities such as tariffs and cracking down on violent crime.",
-        "url": "https://www.foxnews.com/politics/legal-experts-react-trumps-scotus-clash-tariff-pivot-fiery-sotu",
-        "publishedAt": "2026-02-25T23:36:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
