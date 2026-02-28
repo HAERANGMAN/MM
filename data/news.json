@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-02-28T05:42:54.439509+00:00",
+  "generated_at": "2026-02-28T06:01:46.872075+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Global funds return to India as earnings outlook improves",
-        "description": "The rebound in inflows suggests some of the pressures that had been weighing on Indian equities are starting to ease",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/global-funds-return-to-india-as-earnings-outlook-improves",
-        "publishedAt": "2026-02-27T03:34:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kim Jong Un calls South Korea ‘most hostile enemy,’ says North could ‘completely destroy’ it",
-        "description": "Kim Jong Un threatens to \"completely destroy\" South Korea, calling it the \"most hostile enemy\" while expanding North Korea's nuclear arsenal and military capabilities.",
-        "url": "https://www.foxnews.com/world/kim-jong-un-calls-south-korea-most-hostile-enemy-says-north-could-completely-destroy",
-        "publishedAt": "2026-02-26T06:59:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
