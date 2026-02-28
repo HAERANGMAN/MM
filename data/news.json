@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T05:02:13.444587+00:00",
+  "generated_at": "2026-02-28T05:42:54.439509+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,113 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "India’s growth may outpace current estimates after data overhaul",
-        "description": "Earlier this month, the government revised its inflation series to better capture shifting spending patterns in the world’s fastest-growing major economy",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-27/india-s-growth-may-outpace-current-estimates-after-data-overhaul",
-        "publishedAt": "2026-02-27T04:06:15Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Raskin: Trump 'Has No Role at All in Administering Midterm Elections'",
-        "description": "Thursday on MS NOW's \"The Briefing,\" Rep. Jamie Raskin (D-MD) said that President Donald Trump \"has no role constitutionally\" in administering midterm elections.\nThe post Raskin: Trump ‘Has No Role at All in Administering Midterm Elections’ appeared first on …",
-        "url": "https://www.breitbart.com/clips/2026/02/26/raskin-trump-has-no-role-at-all-in-administering-midterm-elections/",
-        "publishedAt": "2026-02-27T04:04:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global funds return to India as earnings outlook improves",
-        "description": "The rebound in inflows suggests some of the pressures that had been weighing on Indian equities are starting to ease",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/global-funds-return-to-india-as-earnings-outlook-improves",
-        "publishedAt": "2026-02-27T03:34:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Vulnerable House Dem lashes out at Trump's 'racist' SOTU challenge: 'That was uncomfortable'",
-        "description": "Rep. Janelle Bynum called Trump's State of the Union challenge \"racist\" after he asked Congress to stand for prioritizing American citizens over immigrants.",
-        "url": "https://www.foxnews.com/politics/vulnerable-house-dem-lashes-out-trumps-racist-sotu-challenge-that-was-uncomfortable",
-        "publishedAt": "2026-02-27T01:58:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'The View' guest co-host corrects liberal panel about stock market liking Trump policies",
-        "description": "CNBC's Sara Eisen told \"The View\" panel that President Donald Trump's deregulation policies boost stock market growth, while defending tariffs as less harmful than expected by investors.",
-        "url": "https://www.foxnews.com/media/the-view-guest-co-host-corrects-liberal-panel-about-stock-market-liking-trump-policies",
-        "publishedAt": "2026-02-27T01:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "India’s growth may outpace current estimates after data overhaul",
-        "description": "Earlier this month, the government revised its inflation series to better capture shifting spending patterns in the world’s fastest-growing major economy",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-27/india-s-growth-may-outpace-current-estimates-after-data-overhaul",
-        "publishedAt": "2026-02-27T04:06:15Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global funds return to India as earnings outlook improves",
-        "description": "The rebound in inflows suggests some of the pressures that had been weighing on Indian equities are starting to ease",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/global-funds-return-to-india-as-earnings-outlook-improves",
-        "publishedAt": "2026-02-27T03:34:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hillary Clinton Claims She 'Had No Idea' of Jeffrey Epstein's Crimes",
-        "description": "Former Secretary of State Hillary Clinton told the House Oversight Committee on Thursday that she had no idea about Jeffrey Epstein's crimes. \nThe post Hillary Clinton Claims She ‘Had No Idea’ of Jeffrey Epstein’s Crimes appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/02/26/hhillary-clinton-claims-she-had-no-idea-of-jeffrey-epsteins-crimes/",
-        "publishedAt": "2026-02-27T02:44:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pro-Abortion Notre Dame Professor Turns Down Leadership Role After Pro-Life Backlash",
-        "description": "A pro-abortion University of Notre Dame professor has turned down a prestigious leadership appointment after facing major backlash from the pro-life movement and more than a dozen U.S. bishops.\nThe post Pro-Abortion Notre Dame Professor Turns Down Leadership …",
-        "url": "https://www.breitbart.com/politics/2026/02/26/pro-abortion-notre-dame-professor-turnsdown-leadership-role-pro-life-backlash/",
-        "publishedAt": "2026-02-27T01:21:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US officials indict high-ranking Sinaloa Cartel narcoterrorists, offer up to $10M in rewards for their arrests",
-        "description": "Sinaloa Cartel brothers accused of trafficking fentanyl \"Weapon of Mass Destruction\" are facing terrorism charges in a new superseding federal indictment.",
-        "url": "https://www.foxnews.com/us/us-officials-indict-high-ranking-sinaloa-cartel-narcoterrorists-offer-rewards-their-arrests",
-        "publishedAt": "2026-02-26T23:37:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
