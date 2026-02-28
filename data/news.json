@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-02-28T08:39:23.207324+00:00",
+  "generated_at": "2026-02-28T08:59:03.241306+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Global funds return to India as earnings outlook improves",
-        "description": "The rebound in inflows suggests some of the pressures that had been weighing on Indian equities are starting to ease",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/global-funds-return-to-india-as-earnings-outlook-improves",
-        "publishedAt": "2026-02-27T03:34:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
