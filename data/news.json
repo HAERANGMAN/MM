@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T13:07:13.419460+00:00",
+  "generated_at": "2026-03-01T13:48:10.405271+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "America strikes Iran again — has Washington planned for what comes next?",
+        "description": "US and Israel launch Operation Epic Fury strikes against Iran's nuclear facilities. Tehran retaliates as tensions escalate beyond previous confrontations.",
+        "url": "https://www.foxnews.com/opinion/america-strikes-iran-again-has-washington-planned-what-comes-next",
+        "publishedAt": "2026-02-28T13:09:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "EU Calls for 'Restraint' Amid U.S. Strikes on Iran, UK Warns Against 'Escalation Into Wider Regional Conflict'",
         "description": "America's allies in Europe have called for \"restraint\" following a series of military strikes against the Islamist Iranian regime, while the United Kingdom has warned against potential \"escalation\" into a broader regional conflict.\nThe post EU Calls for ‘Rest…",
         "url": "https://www.breitbart.com/europe/2026/02/28/europeans-call-for-restraint-amid-u-s-strikes-on-iran-uk-warns-of-escalation-into-wider-regional-conflict/",
@@ -108,16 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Megan Rapinoe says Eileen Gu representing China over US is an 'excellent business decision' amid controversy",
-        "description": "Former soccer star Megan Rapinoe called Eileen Gu's decision to represent China instead of the U.S. in freeskiing an \"excellent business decision\" on her podcast with Sue Bird.",
-        "url": "https://www.foxnews.com/sports/megan-rapinoe-says-eileen-gu-representing-china-over-us-excellent-business-decision-amid-controversy",
-        "publishedAt": "2026-02-27T22:25:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
