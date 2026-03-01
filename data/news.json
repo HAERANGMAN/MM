@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-01T12:00:30.732522+00:00",
+  "generated_at": "2026-03-01T13:07:13.419460+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "NYC landlords fire back at ‘racist’ Mamdani aide's claim that ties homeownership to 'White supremacy'",
+        "description": "Immigrant landlords push back against Mamdani housing director's controversial comments connecting property ownership to White supremacist policies.",
+        "url": "https://www.foxnews.com/media/nyc-landlords-fire-back-racist-mamdani-aides-claim-ties-homeownership-white-supremacy",
+        "publishedAt": "2026-02-28T11:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bharat Biotech is said to mull $500 million IPO",
+        "description": "Deliberations are ongoing, and details of the deal including the size and timing may change, say people familiar with matter",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-27/indian-vaccine-maker-bharat-biotech-is-said-to-mull-500-million-ipo",
+        "publishedAt": "2026-02-28T04:50:19Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "JPMorgan warns up to $150 billion of loans in CLOs face AI risk",
+        "description": "To come up with their $40 billion-$150 billion estimate, the strategists looked at a simplified screen for CLO AI credit risk using market price and ratings information",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-27/jpmorgan-warns-up-to-150-billion-of-loans-in-clos-face-ai-risk",
+        "publishedAt": "2026-02-28T04:00:30Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Mark Levin: If this 'mass-killing regime' gets a nuclear weapon, it will use it | Fox News Video",
+        "description": "Fox News host Mark Levin discusses U.S.-Iran tension and praises President Donald Trump for his action on ‘Hannity.’",
+        "url": "https://www.foxnews.com/video/6390117557112",
+        "publishedAt": "2026-02-28T03:18:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Health experts debate cancer-linked pesticide: 'Toxic by design'",
+        "description": "HHS Secretary Kennedy supports Trump's glyphosate order while acknowledging pesticides \"are toxic by design\" and pose risks to Americans' health.",
+        "url": "https://www.foxnews.com/health/cancer-linked-herbicide-spotlight-after-controversial-order-toxic-design",
+        "publishedAt": "2026-02-28T01:32:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Fetterman praises Operation Epic Fury: Trump is 'willing to do what's right'",
+        "description": "Lawmakers reacted Saturday to the U.S. and Israel launching strikes on Iran, with Sen. John Fetterman saying, \"President Trump has been willing to do what's right.\"",
+        "url": "https://www.foxnews.com/politics/fetterman-praises-operation-epic-fury-trump-willing-do-whats-right",
+        "publishedAt": "2026-02-28T12:31:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "EU Calls for 'Restraint' Amid U.S. Strikes on Iran, UK Warns Against 'Escalation Into Wider Regional Conflict'",
+        "description": "America's allies in Europe have called for \"restraint\" following a series of military strikes against the Islamist Iranian regime, while the United Kingdom has warned against potential \"escalation\" into a broader regional conflict.\nThe post EU Calls for ‘Rest…",
+        "url": "https://www.breitbart.com/europe/2026/02/28/europeans-call-for-restraint-amid-u-s-strikes-on-iran-uk-warns-of-escalation-into-wider-regional-conflict/",
+        "publishedAt": "2026-02-28T11:54:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bharat Biotech is said to mull $500 million IPO",
+        "description": "Deliberations are ongoing, and details of the deal including the size and timing may change, say people familiar with matter",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-27/indian-vaccine-maker-bharat-biotech-is-said-to-mull-500-million-ipo",
+        "publishedAt": "2026-02-28T04:50:19Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Biden accuses Trump of erasing history and squandering US leadership role on global stage: 'Dark days'",
+        "description": "Former President Biden accused President Trump of trying to erase truth and history, claiming he threatens democracy and America's global leadership role.",
+        "url": "https://www.foxnews.com/politics/biden-accuses-trump-erasing-history-squandering-us-leadership-role-global-stage-dark-days",
+        "publishedAt": "2026-02-28T04:01:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Maryland Officials Demand $4B Tariff Reimbursement from Trump",
+        "description": "Several Maryland officials demanded that President Donald Trump issue a $4 billion tariff reimbursement after the Supreme Court struck down Trump’s global tariffs imposed under the International Emergency Economic Powers Act (IEEPA). In a joint letter address…",
+        "url": "https://www.breitbart.com/politics/2026/02/27/maryland-officials-demand-4b-tariff-reimbursement-from-trump/",
+        "publishedAt": "2026-02-28T00:33:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Megan Rapinoe says Eileen Gu representing China over US is an 'excellent business decision' amid controversy",
+        "description": "Former soccer star Megan Rapinoe called Eileen Gu's decision to represent China instead of the U.S. in freeskiing an \"excellent business decision\" on her podcast with Sue Bird.",
+        "url": "https://www.foxnews.com/sports/megan-rapinoe-says-eileen-gu-representing-china-over-us-excellent-business-decision-amid-controversy",
+        "publishedAt": "2026-02-27T22:25:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
