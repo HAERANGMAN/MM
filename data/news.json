@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-03-02T19:05:31.056987+00:00",
+  "generated_at": "2026-03-02T19:47:57.086354+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Former CIA director calls out ‘stunning arrogance’ of Iran after joint US-Israel strikes | Fox News Video",
-        "description": "Former CIA Director David Petraeus discusses Operation Epic Fury, the three U.S. service members that were killed amid the conflict with Iran and more on ‘Sunday Morning Futures.’",
-        "url": "https://www.foxnews.com/video/6390226762112",
-        "publishedAt": "2026-03-01T18:38:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Australia's MAGA Party Rockets up in Polls but NY Times Sneers",
-        "description": "The economic damage of migration is pushing many more Australians to support the nation's leading anti-migration politician, Pauline Hanson, and her political party, One Nation.\nThe post Australia’s MAGA Party Rockets up in Polls but NY Times Sneers appeared …",
-        "url": "https://www.breitbart.com/politics/2026/03/01/ny-times-sneers-as-australias-maga-party-grows/",
-        "publishedAt": "2026-03-01T16:42:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exiled Iranian crown prince praises ayatollah's death as 'game-changer' for nation | Fox News Video",
-        "description": "Exiled Iranian Crown Prince Reza Pahlavi joins 'Sunday Morning Futures' to discuss the transition of power in Iran following the death of Ayatollah Khamenei amid the coordinated U.S.-Israeli operation.",
-        "url": "https://www.foxnews.com/video/6390223014112",
-        "publishedAt": "2026-03-01T16:11:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "I’ve been a pastor for 40 years. Young men are struggling and I think I know why",
-        "description": "Traditional male formation systems collapsed, leaving young men vulnerable to radicalization and mental health struggles to help cope with loneliness.",
-        "url": "https://www.foxnews.com/opinion/ive-been-pastor-40-years-young-men-struggling-i-think-i-know-why",
-        "publishedAt": "2026-03-01T13:00:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "40"
-      },
-      {
-        "title": "Iranians Worldwide Celebrate Strikes as Trump Confirms Ayatollah Khamenei Dead",
-        "description": "Iranians around the world – and, according to some reports, within Iran – celebrated on Saturday following confirmation America had launched \"Operation Epic Fury\" against Iranian regime targets and, President Donald Trump later confirmed, killed Ayatollah Ali…",
-        "url": "https://www.breitbart.com/middle-east/2026/03/01/iranians-worldwide-celebrate-strikes-as-trump-confirms-ayatollah-khamenei-dead/",
-        "publishedAt": "2026-03-01T08:47:05Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iran networks suffer losses amid airstrikes, showing digital evolution of conflicts",
-        "description": "A massive cyberattack during strikes on Iran highlights digital warfare's growing role in modern conflict, offering cybersecurity lessons as global networks become vulnerable.",
-        "url": "https://www.foxnews.com/tech/iran-networks-suffer-losses-amid-airstrikes-showing-digital-evolution-conflicts",
-        "publishedAt": "2026-03-01T19:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Texas Bar Shooter Wore Shirt That Said, 'Property of Allah'",
-        "description": "FOX News's Bill Melugin is reporting that the shooter who killed two innocents and wounded numerous others at an Austin, Texas, nightclub was wearing a shirt that said, \"Property of Allah.\"\nThe post Report: Texas Bar Shooter Wore Shirt That Said, ‘Property of…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/01/report-texas-bar-shooter-wore-shirt-that-said-property-of-allah/",
-        "publishedAt": "2026-03-01T18:36:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Illinois SWAT Team Issues 'Shelter-in-Place' Order Due to Man with 38 Rounds of Ammo and No FOID Card",
-        "description": "Illinois law enforcement personnel, including a SWAT team, issued a \"shelter-in-place\" order Thursday as they entered the residence of a man who allegedly possessed 38 rounds of ammo without a Firearm Owner’s Identification (FOID) card.\nThe post Illinois SWAT…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/01/swat-team-issues-shelter-in-place-order-due-to-man-with-38-rounds-of-ammo/",
-        "publishedAt": "2026-03-01T18:00:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "38"
-      },
-      {
-        "title": "Nancy Guthrie abduction sparks fears over senior safety in affluent communities: expert",
-        "description": "Nancy Guthrie's kidnapping from her Arizona home highlights growing safety concerns for seniors in affluent retirement communities across the nation.",
-        "url": "https://www.foxnews.com/us/nancy-guthrie-abduction-sparks-fears-over-senior-safety-affluent-communities-expert",
-        "publishedAt": "2026-03-01T15:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nine Injured at Shooting in Cincinnati Music Venue",
-        "description": "Nine people were injured when shots rang out just before 1 a.m. Sunday in Riverfront Live in Cincinnati, Ohio.\nThe post Nine Injured at Shooting in Cincinnati Music Venue appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/01/nine-injured-at-shooting-in-cincinnati-music-venue/",
-        "publishedAt": "2026-03-01T14:37:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
