@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-02T12:27:21.373532+00:00",
+  "generated_at": "2026-03-02T13:41:05.178894+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "I’ve been a pastor for 40 years. Young men are struggling and I think I know why",
+        "description": "Traditional male formation systems collapsed, leaving young men vulnerable to radicalization and mental health struggles to help cope with loneliness.",
+        "url": "https://www.foxnews.com/opinion/ive-been-pastor-40-years-young-men-struggling-i-think-i-know-why",
+        "publishedAt": "2026-03-01T13:00:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "Iranians Worldwide Celebrate Strikes as Trump Confirms Ayatollah Khamenei Dead",
+        "description": "Iranians around the world – and, according to some reports, within Iran – celebrated on Saturday following confirmation America had launched \"Operation Epic Fury\" against Iranian regime targets and, President Donald Trump later confirmed, killed Ayatollah Ali…",
+        "url": "https://www.breitbart.com/middle-east/2026/03/01/iranians-worldwide-celebrate-strikes-as-trump-confirms-ayatollah-khamenei-dead/",
+        "publishedAt": "2026-03-01T08:47:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stephen Moore: Cutting Government Spending Is Key to Lowering Interest Rates, Not the Fed",
+        "description": "On Friday’s broadcast of Newsmax TV’s “Carl Higbie Frontline,” former Trump Economic Adviser Stephen Moore said that he wants to see lower interest rates, but getting that primarily depends on cutting government spending, not actions from the Federal Reserve.…",
+        "url": "https://www.breitbart.com/clips/2026/02/28/stephen-moore-cutting-government-spending-is-key-to-lowering-interest-rates-not-the-fed/",
+        "publishedAt": "2026-03-01T07:06:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bitcoin recovers above $68,000 after death of Iranian leader",
+        "description": "Bitcoin surges past $68,000 following the death of Iran's supreme leader, amid geopolitical tensions and market recovery.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz",
+        "publishedAt": "2026-03-01T06:34:38Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Mark Levin: We Americans must come to grips — we have a party that hates the country",
+        "description": "Fox News host Mark Levin breaks down why it was crucial to take military action against the Iranian regime on 'Hannity.'",
+        "url": "https://www.foxnews.com/video/6390193064112",
+        "publishedAt": "2026-03-01T03:57:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Sustained war with Iran could drain US missile stockpiles, test escalation control",
+        "description": "U.S. officials say limited military strike against Iran is feasible, but sustained conflict complicated by missile defense shortages from Ukraine.",
+        "url": "https://www.foxnews.com/politics/sustained-war-iran-could-drain-us-missile-stockpiles-test-escalation-control",
+        "publishedAt": "2026-03-01T11:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Argentina's Javier Milei Celebrates Death of Ayatollah Ali Khamenei",
+        "description": "President of Argentina Javier Milei celebrated the death of Iranian Supreme Leader Ayatollah Ali Khamenei, describing him Sunday as \"one of the most evil, violent, and cruel people in the history of mankind.\"\nThe post Argentina’s Javier Milei Celebrates Death…",
+        "url": "https://www.breitbart.com/latin-america/2026/03/01/argentinas-javier-milei-celebrates-death-of-ayatollah-ali-khamenei/",
+        "publishedAt": "2026-03-01T10:48:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Six Unanswered Questions for Post-Khamenei Iran",
+        "description": "President Donald Trump confirmed on Saturday evening that the \"supreme leader\" of Iran, Ayatollah Ali Khamenei, was dead after an American and Israeli bombing campaign targeted Tehran this weekend.\nThe post Six Unanswered Questions for Post-Khamenei Iran appe…",
+        "url": "https://www.breitbart.com/middle-east/2026/03/01/six-unanswered-questions-for-post-khamenei-iran/",
+        "publishedAt": "2026-03-01T08:35:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran strikes disrupt thousands of flights; Dubai Airport damaged",
+        "description": "Tens of thousands have been stranded as the region functions as a global superconnector, linking any two points on the planet with one single stop in airports like Dubai, Doha or Abu Dhabi",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-strikes-disrupt-thousands-of-flights-dubai-airport-damaged",
+        "publishedAt": "2026-03-01T04:13:07Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democrats Sen. Fetterman, Rep. Davis Back Trump Strikes on Iran",
+        "description": "Several Democrats supported President Donald Trump after the United States and Israel carried out joint strikes on Iran overnight, highlighting the \"need to stand together to bring an end to terrorism.\"\nThe post Democrats Sen. Fetterman, Rep. Davis Back Trump…",
+        "url": "https://www.breitbart.com/politics/2026/02/28/democrats-sen-fetterman-rep-davis-back-trump-strikes-on-iran/",
+        "publishedAt": "2026-03-01T03:36:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
