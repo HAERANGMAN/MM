@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-02T18:07:23.018844+00:00",
+  "generated_at": "2026-03-02T19:05:31.056987+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Former CIA director calls out ‘stunning arrogance’ of Iran after joint US-Israel strikes | Fox News Video",
+        "description": "Former CIA Director David Petraeus discusses Operation Epic Fury, the three U.S. service members that were killed amid the conflict with Iran and more on ‘Sunday Morning Futures.’",
+        "url": "https://www.foxnews.com/video/6390226762112",
+        "publishedAt": "2026-03-01T18:38:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Australia's MAGA Party Rockets up in Polls but NY Times Sneers",
         "description": "The economic damage of migration is pushing many more Australians to support the nation's leading anti-migration politician, Pauline Hanson, and her political party, One Nation.\nThe post Australia’s MAGA Party Rockets up in Polls but NY Times Sneers appeared …",
@@ -43,21 +53,31 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stephen Moore: Cutting Government Spending Is Key to Lowering Interest Rates, Not the Fed",
-        "description": "On Friday’s broadcast of Newsmax TV’s “Carl Higbie Frontline,” former Trump Economic Adviser Stephen Moore said that he wants to see lower interest rates, but getting that primarily depends on cutting government spending, not actions from the Federal Reserve.…",
-        "url": "https://www.breitbart.com/clips/2026/02/28/stephen-moore-cutting-government-spending-is-key-to-lowering-interest-rates-not-the-fed/",
-        "publishedAt": "2026-03-01T07:06:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Iran networks suffer losses amid airstrikes, showing digital evolution of conflicts",
+        "description": "A massive cyberattack during strikes on Iran highlights digital warfare's growing role in modern conflict, offering cybersecurity lessons as global networks become vulnerable.",
+        "url": "https://www.foxnews.com/tech/iran-networks-suffer-losses-amid-airstrikes-showing-digital-evolution-conflicts",
+        "publishedAt": "2026-03-01T19:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Texas Bar Shooter Wore Shirt That Said, 'Property of Allah'",
+        "description": "FOX News's Bill Melugin is reporting that the shooter who killed two innocents and wounded numerous others at an Austin, Texas, nightclub was wearing a shirt that said, \"Property of Allah.\"\nThe post Report: Texas Bar Shooter Wore Shirt That Said, ‘Property of…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/01/report-texas-bar-shooter-wore-shirt-that-said-property-of-allah/",
+        "publishedAt": "2026-03-01T18:36:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Illinois SWAT Team Issues 'Shelter-in-Place' Order Due to Man with 38 Rounds of Ammo and No FOID Card",
         "description": "Illinois law enforcement personnel, including a SWAT team, issued a \"shelter-in-place\" order Thursday as they entered the residence of a man who allegedly possessed 38 rounds of ammo without a Firearm Owner’s Identification (FOID) card.\nThe post Illinois SWAT…",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "1"
-      },
-      {
-        "title": "Theologian bishop says AOC pushed culture aside in heated response to Marco Rubio speech",
-        "description": "Bishop Robert Barron exposes the \"Karl Marx playbook\" after the AOC called Western culture \"thin\" in response to Marco Rubio's Senate speech.",
-        "url": "https://www.foxnews.com/media/theologian-bishop-says-aoc-pushed-culture-aside-heated-response-marco-rubio-speech",
-        "publishedAt": "2026-03-01T14:00:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sustained war with Iran could drain US missile stockpiles, test escalation control",
-        "description": "U.S. officials say limited military strike against Iran is feasible, but sustained conflict complicated by missile defense shortages from Ukraine.",
-        "url": "https://www.foxnews.com/politics/sustained-war-iran-could-drain-us-missile-stockpiles-test-escalation-control",
-        "publishedAt": "2026-03-01T11:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
