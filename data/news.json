@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T13:41:05.178894+00:00",
+  "generated_at": "2026-03-02T14:29:27.643378+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Theologian bishop says AOC pushed culture aside in heated response to Marco Rubio speech",
+        "description": "Bishop Robert Barron exposes the \"Karl Marx playbook\" after the AOC called Western culture \"thin\" in response to Marco Rubio's Senate speech.",
+        "url": "https://www.foxnews.com/media/theologian-bishop-says-aoc-pushed-culture-aside-heated-response-marco-rubio-speech",
+        "publishedAt": "2026-03-01T14:00:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Sustained war with Iran could drain US missile stockpiles, test escalation control",
         "description": "U.S. officials say limited military strike against Iran is feasible, but sustained conflict complicated by missile defense shortages from Ukraine.",
         "url": "https://www.foxnews.com/politics/sustained-war-iran-could-drain-us-missile-stockpiles-test-escalation-control",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-03-01T04:13:07Z",
         "source": {
           "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrats Sen. Fetterman, Rep. Davis Back Trump Strikes on Iran",
-        "description": "Several Democrats supported President Donald Trump after the United States and Israel carried out joint strikes on Iran overnight, highlighting the \"need to stand together to bring an end to terrorism.\"\nThe post Democrats Sen. Fetterman, Rep. Davis Back Trump…",
-        "url": "https://www.breitbart.com/politics/2026/02/28/democrats-sen-fetterman-rep-davis-back-trump-strikes-on-iran/",
-        "publishedAt": "2026-03-01T03:36:33Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
