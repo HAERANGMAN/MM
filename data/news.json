@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-03T17:44:04.700360+00:00",
+  "generated_at": "2026-03-03T18:30:22.228080+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-thai-econ": [
+      {
+        "title": "Emerging market currencies, stocks fall on Iran-Israel conflict worries",
+        "description": "A gauge of developing nations’ currencies dropped 0.5%, declining for a second session in a row as the dollar strengthened.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries",
+        "publishedAt": "2026-03-02T03:46:36Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.5"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Nolte: Paramount+ and HBO Max to Merge, No Plans to Sell CNN",
+        "description": "The $110 billion merger between Skydance’s Paramount and Warner Bros. Discovery seems inevitable at this point. The only hurdle is regulatory approval, but this merger is much less problematic in regards to monopolistic concerns than what could have been a me…",
+        "url": "https://www.breitbart.com/entertainment/2026/03/02/nolte-paramount-and-hbo-max-to-merge-no-plans-to-sell-cnn/",
+        "publishedAt": "2026-03-02T18:27:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "From missiles to minerals: The strategic meaning behind the Iran strike",
+        "description": "How coordinated strikes on Iran reflect America's new strategy integrating technological dominance, energy routes, and critical mineral supply chains.",
+        "url": "https://www.foxnews.com/opinion/from-missiles-minerals-strategic-meaning-behind-iran-strike",
+        "publishedAt": "2026-03-02T16:53:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "No Fury in Stock Market: U.S. Stocks Mixed as Energy Prices Climb",
+        "description": "Global oil prices and natural gas prices moved up sharply on Monday morning, while the stock market appeared to take the attack on Iran by the U.S. and Israel in stride.\nThe post No Fury in Stock Market: U.S. Stocks Mixed as Energy Prices Climb appeared first…",
+        "url": "https://www.breitbart.com/economy/2026/03/02/no-fury-in-stock-market-u-s-stocks-mixed-as-energy-prices-climb/",
+        "publishedAt": "2026-03-02T16:11:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stocks drop, volatility spikes as traders weigh Iran war risks",
+        "description": "Stocks fell as traders reacted to escalating Iran conflict, with volatility rising and energy sector showing resilience amid market turmoil.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/stocks-drop-volatility-spikes-as-traders-weigh-iran-war-risks",
+        "publishedAt": "2026-03-02T15:55:02Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gas prices could jump as Middle East tensions threaten global oil supply",
+        "description": "Gas prices could rise 25-50 cents per gallon as Middle East tensions threaten global oil supplies after strikes on Iran killed Supreme Leader Khamenei.",
+        "url": "https://www.foxnews.com/politics/gas-prices-could-jump-middle-east-tensions-threaten-global-oil-supply",
+        "publishedAt": "2026-03-02T15:40:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "25"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "South Dakota Resident Awakes to Noises, Shoots Alleged Intruder",
+        "description": "A Rapid City, South Dakota, resident awoke to noises shortly before 3:30 a.m. and shot an alleged intruder who was attempting to make entry through a window.\nThe post South Dakota Resident Awakes to Noises, Shoots Alleged Intruder appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/02/south-dakota-resident-awakes-to-noises-shoots-alleged-intruder/",
+        "publishedAt": "2026-03-02T17:37:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Hawkins: Texas Gun Control Makes Bar Patrons Sitting Ducks",
+        "description": "The Austin shooting highlights a Texas gun control preventing even licensed concealed carriers from being armed for self-defense in a bar. \nThe post Hawkins: Texas Gun Control Makes Bar Patrons Sitting Ducks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/02/hawkins-texas-gun-control-makes-bar-patrons-sitting-ducks/",
+        "publishedAt": "2026-03-02T17:33:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "From missiles to minerals: The strategic meaning behind the Iran strike",
+        "description": "How coordinated strikes on Iran reflect America's new strategy integrating technological dominance, energy routes, and critical mineral supply chains.",
+        "url": "https://www.foxnews.com/opinion/from-missiles-minerals-strategic-meaning-behind-iran-strike",
+        "publishedAt": "2026-03-02T16:53:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Reports: Saudi Arabia Shuts Down Its Largest Refinery After Iran Attack",
+        "description": "Multiple outlets reported on Monday that the Ras Tanura oil refinery in Saudi Arabia had temporarily shut down after dramatic images surfaced of smoke billowing from the facility following an Iranian attack.\nThe post Reports: Saudi Arabia Shuts Down Its Large…",
+        "url": "https://www.breitbart.com/middle-east/2026/03/02/reports-saudi-arabia-shuts-down-its-largest-refinery-after-iran-attack/",
+        "publishedAt": "2026-03-02T16:39:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "No Fury in Stock Market: U.S. Stocks Mixed as Energy Prices Climb",
+        "description": "Global oil prices and natural gas prices moved up sharply on Monday morning, while the stock market appeared to take the attack on Iran by the U.S. and Israel in stride.\nThe post No Fury in Stock Market: U.S. Stocks Mixed as Energy Prices Climb appeared first…",
+        "url": "https://www.breitbart.com/economy/2026/03/02/no-fury-in-stock-market-u-s-stocks-mixed-as-energy-prices-climb/",
+        "publishedAt": "2026-03-02T16:11:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
