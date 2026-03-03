@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-03T22:02:39.497575+00:00",
+  "generated_at": "2026-03-03T22:44:21.576286+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-thai-econ": [
+      {
+        "title": "Emerging market currencies, stocks fall on Iran-Israel conflict worries",
+        "description": "A gauge of developing nations’ currencies dropped 0.5%, declining for a second session in a row as the dollar strengthened.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries",
+        "publishedAt": "2026-03-02T03:46:36Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.5"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Poll: Republicans Surge in General Ballot, Move Closer to Defying History of Congressional Midterms",
+        "description": "Republicans are surging after President Donald Trump's State of the Union address and might be in position to defy history in the midterm elections, polling shows.\nThe post Poll: Republicans Surge in General Ballot, Move Closer to Defying History of Congressi…",
+        "url": "https://www.breitbart.com/politics/2026/03/02/poll-republicans-surge-in-general-ballot-move-closer-to-defying-history-of-congressional-midterms/",
+        "publishedAt": "2026-03-02T22:39:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: A Fed Mistake, Not Higher Oil Prices, Is the Biggest Threat After the Iran Strike",
+        "description": "Financial markets on Monday indicated that any damage to the U.S. economy from the military conflict between the U.S. and Iran is likely to be minimal.\nThe post Breitbart Business Digest: A Fed Mistake, Not Higher Oil Prices, Is the Biggest Threat After the I…",
+        "url": "https://www.breitbart.com/economy/2026/03/02/breitbart-business-digest-a-fed-mistake-not-higher-oil-prices-is-the-biggest-threat-after-the-iran-strike/",
+        "publishedAt": "2026-03-02T22:38:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nobel Winner Maria Corina Machado Announces Return to Venezuela 'in a Few Weeks'",
+        "description": "Anti-socialist Venezuelan opposition leader María Corina Machado on Sunday announced that she will be returning to her country \"in a few weeks\" to continue working towards a democratic transition in the South American nation following the arrest of Nicolás Ma…",
+        "url": "https://www.breitbart.com/national-security/2026/03/02/nobel-winner-maria-corina-machado-announces-return-to-venezuela-in-a-few-weeks/",
+        "publishedAt": "2026-03-02T21:51:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Cabinet alum Ryan Zinke joins mass exodus of lawmakers leaving Congress",
+        "description": "GOP Rep. Ryan Zinke announces he will not seek re-election in 2026, citing health issues from his Navy SEAL career as the House Republican exodus continues.",
+        "url": "https://www.foxnews.com/politics/trump-cabinet-alum-ryan-zinke-joins-mass-exodus-lawmakers-leaving-congress",
+        "publishedAt": "2026-03-02T20:47:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Melania Trump makes history, pushes for ‘peace through education’ amid Iran firestorm",
+        "description": "First lady Melania Trump presided over the United Nations Security Council meeting Monday, declaring that the United States “stands with all of the children throughout the world,\" in a historic speech calling for “peace through education,\" amid the U.S. milit…",
+        "url": "https://www.foxnews.com/politics/melania-trump-makes-history-pushes-peace-through-education-amid-iran-firestorm",
+        "publishedAt": "2026-03-02T20:21:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Breitbart Business Digest: A Fed Mistake, Not Higher Oil Prices, Is the Biggest Threat After the Iran Strike",
+        "description": "Financial markets on Monday indicated that any damage to the U.S. economy from the military conflict between the U.S. and Iran is likely to be minimal.\nThe post Breitbart Business Digest: A Fed Mistake, Not Higher Oil Prices, Is the Biggest Threat After the I…",
+        "url": "https://www.breitbart.com/economy/2026/03/02/breitbart-business-digest-a-fed-mistake-not-higher-oil-prices-is-the-biggest-threat-after-the-iran-strike/",
+        "publishedAt": "2026-03-02T22:38:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fashion Notes: Melania Trump Makes History at United Nations in Neutral Dior Suit",
+        "description": "First Lady Melania Trump made history on Monday, becoming the first-ever First Lady of the United States to chair the United Nations (UN) Security Council meeting -- choosing a neutral, all-business suit for the moment.\nThe post Fashion Notes: Melania Trump M…",
+        "url": "https://www.breitbart.com/entertainment/2026/03/02/fashion-notes-melania-trump-makes-history-at-united-nations-in-neutral-dior-suit/",
+        "publishedAt": "2026-03-02T22:28:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fetterman blasts Iran strike critics, Ayatollah's apologists: 'Let's see who grieves for that garbage'",
+        "description": "Sen. John Fetterman breaks with fellow Democrats to defend Trump-Netanyahu Iran strikes, calling regime leaders 'garbage' and questioning party critics.",
+        "url": "https://www.foxnews.com/politics/fetterman-blasts-iran-strike-critics-ayatollahs-apologists-lets-see-who-grieves-garbage",
+        "publishedAt": "2026-03-02T20:59:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Firebrand anti-American cleric Alireza Arafi seen as contender to replace Iran’s Khamenei",
+        "description": "Iran selects radical Islamist Ayatollah Alireza Arafi to interim leadership council following Khamenei's death, positioning him as potential successor.",
+        "url": "https://www.foxnews.com/world/firebrand-anti-american-cleric-alireza-arafi-seen-contender-replace-irans-khamenei",
+        "publishedAt": "2026-03-02T20:58:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Melania Trump makes history, pushes for ‘peace through education’ amid Iran firestorm",
+        "description": "First lady Melania Trump presided over the United Nations Security Council meeting Monday, declaring that the United States “stands with all of the children throughout the world,\" in a historic speech calling for “peace through education,\" amid the U.S. milit…",
+        "url": "https://www.foxnews.com/politics/melania-trump-makes-history-pushes-peace-through-education-amid-iran-firestorm",
+        "publishedAt": "2026-03-02T20:21:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
