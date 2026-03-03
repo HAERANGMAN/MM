@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T22:44:21.576286+00:00",
+  "generated_at": "2026-03-03T23:01:22.564404+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Longtime Trump critic credits him for restoring 'credibility of US deterrence' as Iran strikes unfold",
+        "description": "Longtime Trump critic George Will praised the president for restoring \"the credibility of U.S. deterrence\" after the Trump administration and Israel carried out strikes against Iran.",
+        "url": "https://www.foxnews.com/media/longtime-trump-critic-credits-him-restoring-credibility-us-deterrence-iran-strikes-unfold",
+        "publishedAt": "2026-03-02T22:56:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Breitbart Business Digest: A Fed Mistake, Not Higher Oil Prices, Is the Biggest Threat After the Iran Strike",
         "description": "Financial markets on Monday indicated that any damage to the U.S. economy from the military conflict between the U.S. and Iran is likely to be minimal.\nThe post Breitbart Business Digest: A Fed Mistake, Not Higher Oil Prices, Is the Biggest Threat After the I…",
         "url": "https://www.breitbart.com/economy/2026/03/02/breitbart-business-digest-a-fed-mistake-not-higher-oil-prices-is-the-biggest-threat-after-the-iran-strike/",
@@ -104,16 +114,6 @@
         "description": "Iran selects radical Islamist Ayatollah Alireza Arafi to interim leadership council following Khamenei's death, positioning him as potential successor.",
         "url": "https://www.foxnews.com/world/firebrand-anti-american-cleric-alireza-arafi-seen-contender-replace-irans-khamenei",
         "publishedAt": "2026-03-02T20:58:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Melania Trump makes history, pushes for ‘peace through education’ amid Iran firestorm",
-        "description": "First lady Melania Trump presided over the United Nations Security Council meeting Monday, declaring that the United States “stands with all of the children throughout the world,\" in a historic speech calling for “peace through education,\" amid the U.S. milit…",
-        "url": "https://www.foxnews.com/politics/melania-trump-makes-history-pushes-peace-through-education-amid-iran-firestorm",
-        "publishedAt": "2026-03-02T20:21:02Z",
         "source": {
           "name": "Fox News"
         },
