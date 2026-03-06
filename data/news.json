@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-06T08:55:20.406562+00:00",
+  "generated_at": "2026-03-06T09:27:06.332258+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "A cure for cancer would deliver $185T economic windfall, report says",
+        "description": "New study reveals curing cancer could deliver massive $185 trillion economic jackpot to U.S. economy - roughly $15,000 per American citizen annually.",
+        "url": "https://www.foxnews.com/politics/cure-cancer-would-deliver-100-trillion-economic-windfall-report-says",
+        "publishedAt": "2026-03-05T09:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Joy Alukkas expects gold price to rise amid global tensions",
         "description": "“Over the next 2 to 3 years, without significant improvements in the US economy and global geopolitics, I don’t expect a meaningful correction, though dips may occur; the overall trend appears upward,” Chairman & MD, Joyalukkas Group",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "70"
-      },
-      {
-        "title": "Dem known for Trump impeachment disrupts GOP hearing on illegal immigrant truck licenses",
-        "description": "Rep. Thanedar, who filed Trump impeachment articles, accuses Republicans of scapegoating immigrants during House hearing on driving licenses.",
-        "url": "https://www.foxnews.com/politics/dem-known-trump-impeachment-disrupts-gop-hearing-illegal-immigrant-truck-licenses",
-        "publishedAt": "2026-03-04T22:52:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Mark Carney Offers Australia Chance to Team up as ‘Strategic Cousins’",
+        "description": "Canadian Prime Minister Mark Carney called on Australia to work with Canada as middle-power \"strategic cousins\" rather than as competitors in negotiations with the world's superpowers.\nThe post Mark Carney Offers Australia Chance to Team up as ‘Strategic Cous…",
+        "url": "https://www.breitbart.com/europe/2026/03/05/mark-carney-offers-australia-to-team-up-as-strategic-cousins/",
+        "publishedAt": "2026-03-05T09:21:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Myanmar to curb private vehicle use as fuel shortages emerge",
         "description": "Myanmar’s military government will impose limits on private vehicles starting Saturday to conserve fuel as disruptions to Middle East shipping routes threaten the country’s energy supplies.",
@@ -115,16 +125,6 @@
         "description": "The war may continue. But the market panic, at least for now, seems to be looking for an exit strategy.\nThe post Breitbart Business Digest: Wall Street Panickers Lose Again appeared first on Breitbart.",
         "url": "https://www.breitbart.com/economy/2026/03/04/breitbart-business-digest-wall-street-panickers-lose-again/",
         "publishedAt": "2026-03-04T23:27:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive—Rick de la Torre: Iran Was the Central Hub of a Hostile Ecosystem",
-        "description": "Iran was not just another hostile regime chasing regional influence. It functioned as the central hub of a hostile ecosystem.\nThe post Exclusive—Rick de la Torre: Iran Was the Central Hub of a Hostile Ecosystem appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/03/04/exclusive-rick-de-la-torre-iran-was-the-central-hub-of-a-hostile-ecosystem/",
-        "publishedAt": "2026-03-04T23:11:30Z",
         "source": {
           "name": "Breitbart News"
         },
