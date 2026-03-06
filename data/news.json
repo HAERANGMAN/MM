@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T05:53:06.831756+00:00",
+  "generated_at": "2026-03-06T06:38:04.525209+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -67,8 +67,29 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-soc": [],
+    "news-thai-soc": [
+      {
+        "title": "Myanmar to curb private vehicle use as fuel shortages emerge",
+        "description": "Myanmar’s military government will impose limits on private vehicles starting Saturday to conserve fuel as disruptions to Middle East shipping routes threaten the country’s energy supplies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-04/myanmar-to-restrict-private-vehicle-use-as-fuel-shortages-emerge",
+        "publishedAt": "2026-03-05T05:54:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-global-soc": [
+      {
+        "title": "Myanmar to curb private vehicle use as fuel shortages emerge",
+        "description": "Myanmar’s military government will impose limits on private vehicles starting Saturday to conserve fuel as disruptions to Middle East shipping routes threaten the country’s energy supplies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-04/myanmar-to-restrict-private-vehicle-use-as-fuel-shortages-emerge",
+        "publishedAt": "2026-03-05T05:54:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Russian crude oil cargoes swing back to India as Iran war hits supply",
         "description": "Two Russian oil cargoes that had been signalling East Asia as a destination have switched to India, according to ship-tracking data, suggesting New Delhi is becoming more willing to take the crude as the Middle East conflict worsens.",
@@ -106,16 +127,6 @@
         "publishedAt": "2026-03-04T23:11:30Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pop star Zara Larsson sparks outrage after joking about fan's abortion",
-        "description": "Singer Zara Larsson replied to a fan's comment revealing she had an abortion after her concert joking, \"I killed the performance and then you killed it.\"",
-        "url": "https://www.foxnews.com/media/pop-star-zara-larsson-sparks-outrage-joking-fans-abortion",
-        "publishedAt": "2026-03-04T22:57:48Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
