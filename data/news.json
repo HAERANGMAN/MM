@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-03-06T09:27:06.332258+00:00",
+  "generated_at": "2026-03-06T10:03:13.977184+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "A cure for cancer would deliver $185T economic windfall, report says",
-        "description": "New study reveals curing cancer could deliver massive $185 trillion economic jackpot to U.S. economy - roughly $15,000 per American citizen annually.",
-        "url": "https://www.foxnews.com/politics/cure-cancer-would-deliver-100-trillion-economic-windfall-report-says",
-        "publishedAt": "2026-03-05T09:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Joy Alukkas expects gold price to rise amid global tensions",
-        "description": "“Over the next 2 to 3 years, without significant improvements in the US economy and global geopolitics, I don’t expect a meaningful correction, though dips may occur; the overall trend appears upward,” Chairman & MD, Joyalukkas Group",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/indian-jewelry-billionaire-joy-alukkas-sees-further-rise-in-gold-price-xau-usd",
-        "publishedAt": "2026-03-05T04:05:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Ayaan Hirsi Ali Warns Radical Islamist Networks Threaten The West",
-        "description": "Hoover Institute research fellow Ayaan Hirsi Ali warns that radical Islamist networks, driven out of the Middle East, are migrating to the West and posing a significant threat.",
-        "url": "https://www.foxnews.com/video/6390423434112",
-        "publishedAt": "2026-03-05T00:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Wall Street Panickers Lose Again",
-        "description": "The war may continue. But the market panic, at least for now, seems to be looking for an exit strategy.\nThe post Breitbart Business Digest: Wall Street Panickers Lose Again appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/04/breitbart-business-digest-wall-street-panickers-lose-again/",
-        "publishedAt": "2026-03-04T23:27:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News Poll: Voters give poor marks to economy, Congress and Trump",
-        "description": "Record 70% of voters disapprove of congressional Democrats as anger toward Washington hits new highs, Fox News poll shows sentiment shifting.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-voters-give-poor-marks-economy-congress-trump",
-        "publishedAt": "2026-03-04T23:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "70"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Beyond the Iran Deal: Why Trump’s refusal to ‘kick the can’ just saved generations",
-        "description": "Van Hipp makes the case that despite elite opposition and criticism Trump was right to reject the Iran Deal and take decisive military action to stop Iran from acquiring nuclear weapons.",
-        "url": "https://www.foxnews.com/opinion/beyond-iran-deal-why-trumps-refusal-kick-can-just-saved-generations",
-        "publishedAt": "2026-03-04T10:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Myanmar to curb private vehicle use as fuel shortages emerge",
-        "description": "Myanmar’s military government will impose limits on private vehicles starting Saturday to conserve fuel as disruptions to Middle East shipping routes threaten the country’s energy supplies.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-04/myanmar-to-restrict-private-vehicle-use-as-fuel-shortages-emerge",
-        "publishedAt": "2026-03-05T05:54:20Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Mark Carney Offers Australia Chance to Team up as ‘Strategic Cousins’",
-        "description": "Canadian Prime Minister Mark Carney called on Australia to work with Canada as middle-power \"strategic cousins\" rather than as competitors in negotiations with the world's superpowers.\nThe post Mark Carney Offers Australia Chance to Team up as ‘Strategic Cous…",
-        "url": "https://www.breitbart.com/europe/2026/03/05/mark-carney-offers-australia-to-team-up-as-strategic-cousins/",
-        "publishedAt": "2026-03-05T09:21:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Myanmar to curb private vehicle use as fuel shortages emerge",
-        "description": "Myanmar’s military government will impose limits on private vehicles starting Saturday to conserve fuel as disruptions to Middle East shipping routes threaten the country’s energy supplies.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-04/myanmar-to-restrict-private-vehicle-use-as-fuel-shortages-emerge",
-        "publishedAt": "2026-03-05T05:54:20Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russian crude oil cargoes swing back to India as Iran war hits supply",
-        "description": "Two Russian oil cargoes that had been signalling East Asia as a destination have switched to India, according to ship-tracking data, suggesting New Delhi is becoming more willing to take the crude as the Middle East conflict worsens.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/russian-oil-cargoes-swing-back-to-india-as-iran-war-hits-supply",
-        "publishedAt": "2026-03-05T05:19:12Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Joy Alukkas expects gold price to rise amid global tensions",
-        "description": "“Over the next 2 to 3 years, without significant improvements in the US economy and global geopolitics, I don’t expect a meaningful correction, though dips may occur; the overall trend appears upward,” Chairman & MD, Joyalukkas Group",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/indian-jewelry-billionaire-joy-alukkas-sees-further-rise-in-gold-price-xau-usd",
-        "publishedAt": "2026-03-05T04:05:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Breitbart Business Digest: Wall Street Panickers Lose Again",
-        "description": "The war may continue. But the market panic, at least for now, seems to be looking for an exit strategy.\nThe post Breitbart Business Digest: Wall Street Panickers Lose Again appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/04/breitbart-business-digest-wall-street-panickers-lose-again/",
-        "publishedAt": "2026-03-04T23:27:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
