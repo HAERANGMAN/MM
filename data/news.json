@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T14:33:01.425751+00:00",
+  "generated_at": "2026-03-07T14:53:47.285959+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,155 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "U.S. Labor Market Lost 92,000 Jobs in February, Unemployment Rose to 4.4 Percent",
-        "description": "Much worse than expected.\nThe post U.S. Labor Market Lost 92,000 Jobs in February, Unemployment Rose to 4.4 Percent appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/06/u-s-labor-market-lost-92000-jobs-in-february-unemployment-steady-at-4-3-percent/",
-        "publishedAt": "2026-03-06T13:32:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "92"
-      },
-      {
-        "title": "AI T-shirt could detect hidden heart risks",
-        "description": "U.K. researchers developed an AI-powered T-shirt that monitors electrical signals continuously, addressing gaps in traditional ECG testing methods.",
-        "url": "https://www.foxnews.com/tech/ai-t-shirt-could-detect-hidden-heart-risks",
-        "publishedAt": "2026-03-06T13:21:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "RSC, Real Estate Caucus Members Urge Treasury to Index Capital Gains to Inflation After Biden-Era Inflation Hit Homeowners",
-        "description": "Republican Study Committee (RSC) and Congressional Real Estate Caucus members, led by Rep. Mark Alford (R-MO), are transmitting a letter Friday morning to Treasury Secretary Scott Bessent, urging the department to use existing authority to index capital gains…",
-        "url": "https://www.breitbart.com/politics/2026/03/06/rsc-real-estate-caucus-members-urge-treasury-index-capital-gains-inflation/",
-        "publishedAt": "2026-03-06T13:00:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Everybody Got Screwed:' Prediction Market Kalshi Refuses to Pay Winnings on Trades Related to Khamenei's Death",
-        "description": "Prediction market Kalshi has drawn outrage for refusing to pay out winnings on a $54 million trade related to the death of Iranian Supreme Leader Ayatollah Ali Khamenei.\nThe post ‘Everybody Got Screwed:’ Prediction Market Kalshi Refuses to Pay Winnings on Tra…",
-        "url": "https://www.breitbart.com/tech/2026/03/06/everybody-got-screwed-prediction-market-kalshi-refuses-to-pay-winnings-on-trades-related-to-khameneis-death/",
-        "publishedAt": "2026-03-06T12:42:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "MARGARET SPELLINGS: AI is here — and America's schools aren't preparing our kids to survive it",
-        "description": "Bipartisan Policy Center releases blueprint for workforce reform featuring talent advisory council and portable credentials to address AI challenges.",
-        "url": "https://www.foxnews.com/opinion/margaret-spellings-ai-here-americas-schools-arent-preparing-our-kids-survive",
-        "publishedAt": "2026-03-06T12:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Soros-backed, pro-China network fuels protests against US tech firms",
-        "description": "Groups funded by George Soros and pro-China Neville Roy Singham protest U.S. tech companies.",
-        "url": "https://www.foxnews.com/us/soros-pro-china-singham-back-far-left-groups-waging-campaign-against-tech-companies-like-palantir",
-        "publishedAt": "2026-03-06T12:04:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US Submarine strike in the Indian Ocean raises risks for Asia",
-        "description": "The presence of a US submarine conducting lethal operations near friendly nations such as India raises questions about how insulated Asia’s sea lanes are from outside threats",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/us-submarine-strike-in-the-indian-ocean-raises-risks-for-asia",
-        "publishedAt": "2026-03-06T05:12:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Macron vows nuclear arsenal boost as Europe turns to nukes amid rising global threats",
-        "description": "France expands nuclear arsenal and ends transparency as Europe strengthens defense amid Russia threats. French President Macron declares \"to be free, one needs to be feared.\"",
-        "url": "https://www.foxnews.com/politics/macron-vows-nuclear-arsenal-boost-europe-turns-nukes-amid-rising-global-threats",
-        "publishedAt": "2026-03-05T17:37:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "American basketball player Jarred Shaw hoping for 'miracle' in Indonesian prison as health crisis worsens",
-        "description": "American basketball player Jarred Shaw faces a health crisis while in an Indonesian prison after his May 2025 cannabis arrest, with the former star battling Crohn's disease.",
-        "url": "https://www.foxnews.com/sports/american-basketball-player-jarred-shaw-hoping-miracle-indonesian-prison-health-crisis-worsens",
-        "publishedAt": "2026-03-05T22:27:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "1 in 5 Americans admit to sneaking in own sauces as hot restaurant trend goes viral",
-        "description": "One in five Americans admit to carrying their own sauces as condiment flights emerge as a restaurant trend, offering social media appeal and new upselling opportunities for owners.",
-        "url": "https://www.foxnews.com/food-drink/1-5-americans-admit-sneaking-own-sauces-hot-restaurant-trend-goes-viral",
-        "publishedAt": "2026-03-06T13:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "American speedskaters Erin Jackson, Jordan Stolz reflect on Winter Olympics, patriotism",
-        "description": "American Olympic speedskaters Erin Jackson and Jordan Stolz talked about their ups and downs at the Winter Olympics with Fox News Digital.",
-        "url": "https://www.foxnews.com/sports/american-speedskaters-erin-jackson-jordan-stolz-reflect-winter-olympics-patriotism",
-        "publishedAt": "2026-03-06T12:09:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "MARGARET SPELLINGS: AI is here — and America's schools aren't preparing our kids to survive it",
-        "description": "Bipartisan Policy Center releases blueprint for workforce reform featuring talent advisory council and portable credentials to address AI challenges.",
-        "url": "https://www.foxnews.com/opinion/margaret-spellings-ai-here-americas-schools-arent-preparing-our-kids-survive",
-        "publishedAt": "2026-03-06T12:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Missile interceptor shortage worries flare in world’s capitals",
-        "description": "Several European Union states warned at a closed-door meeting in Brussels this week that there is a shortage of interceptors across the world, according to people familiar with the matter",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/missile-interceptor-shortage-worries-flare-in-world-s-capitals",
-        "publishedAt": "2026-03-06T10:01:29Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "KEN CUCCINELLI: Biden opened our border to Iranian terrorism threats",
-        "description": "Iran's ability to attack the U.S. shifted from minimal in 2020 to dangerous today due to open borders allowing Iranian regime sympathizers into America.",
-        "url": "https://www.foxnews.com/opinion/ken-cuccinelli-biden-opened-our-border-iranian-terrorism-threats",
-        "publishedAt": "2026-03-06T10:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2020"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
