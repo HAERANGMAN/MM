@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T09:33:56.006586+00:00",
+  "generated_at": "2026-03-07T09:54:15.549734+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,155 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Oil powers to 17% weekly gain as West Asia war rips through the market",
-        "description": "As the hostilities have flared, shipping through the Strait of Hormuz has all but halted, choking off oil supplies to global markets and prompting producers to start shutting-in output",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/latest-oil-market-news-and-analysis-for-march-6",
-        "publishedAt": "2026-03-06T09:12:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "17"
-      },
-      {
-        "title": "Ambani’s record IPO of Jio delayed by regulatory limbo",
-        "description": "Ambani said in August that Reliance was aiming to list Jio in the first half of 2026, a plan he had first signaled 2019 — back then with a five-year timeline",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/ambani-s-record-india-ipo-of-jio-delayed-by-regulatory-limbo",
-        "publishedAt": "2026-03-06T07:42:50Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Indian refiners are snapping up Russian crude oil after US waiver",
-        "description": "Indian refiners are moving quickly to buy Russian oil, with million of barrels floating in Asian waters offering a quick fix to a Middle East supply crunch after the US relaxed restrictions on the trade.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/millions-of-barrels-of-russian-oil-are-already-close-to-india",
-        "publishedAt": "2026-03-06T07:31:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "IMF ready to help Economies squeezed by West Asian oil shock",
-        "description": "According to IMF Managing Director Kristalina Georgieva, a 10% increase in energy prices lasting a year would raise inflation by 40 basis points and slow growth by up to 0.2%",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/imf-says-ready-to-help-economies-squeezed-by-mideast-oil-shock",
-        "publishedAt": "2026-03-06T06:11:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Morgan Stanley turns more cautious on Asian stocks, cuts India",
-        "description": "The strategists downgraded India from overweight to equal-weight in their latest reshuffle, citing the country as one of the Asian markets most exposed to potential Qatari LNG supply disruptions",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/morgan-stanley-turns-more-cautious-on-asian-stocks-cuts-india",
-        "publishedAt": "2026-03-06T03:57:50Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "US Submarine strike in the Indian Ocean raises risks for Asia",
-        "description": "The presence of a US submarine conducting lethal operations near friendly nations such as India raises questions about how insulated Asia’s sea lanes are from outside threats",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/us-submarine-strike-in-the-indian-ocean-raises-risks-for-asia",
-        "publishedAt": "2026-03-06T05:12:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Macron vows nuclear arsenal boost as Europe turns to nukes amid rising global threats",
-        "description": "France expands nuclear arsenal and ends transparency as Europe strengthens defense amid Russia threats. French President Macron declares \"to be free, one needs to be feared.\"",
-        "url": "https://www.foxnews.com/politics/macron-vows-nuclear-arsenal-boost-europe-turns-nukes-amid-rising-global-threats",
-        "publishedAt": "2026-03-05T17:37:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "MAGA hardliner pushes ban on immigration from Islamic countries, US adversaries in wake of Texas shooting",
-        "description": "Rep. Andy Ogles plans to introduce congressional bill banning entry from six Muslim-majority countries, reviving Trump-era travel restrictions.",
-        "url": "https://www.foxnews.com/politics/maga-hardliner-pushes-ban-immigration-islamic-countries-adversaries-texas-shooting",
-        "publishedAt": "2026-03-05T12:30:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "American basketball player Jarred Shaw hoping for 'miracle' in Indonesian prison as health crisis worsens",
-        "description": "American basketball player Jarred Shaw faces a health crisis while in an Indonesian prison after his May 2025 cannabis arrest, with the former star battling Crohn's disease.",
-        "url": "https://www.foxnews.com/sports/american-basketball-player-jarred-shaw-hoping-miracle-indonesian-prison-health-crisis-worsens",
-        "publishedAt": "2026-03-05T22:27:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Oil powers to 17% weekly gain as West Asia war rips through the market",
-        "description": "As the hostilities have flared, shipping through the Strait of Hormuz has all but halted, choking off oil supplies to global markets and prompting producers to start shutting-in output",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/latest-oil-market-news-and-analysis-for-march-6",
-        "publishedAt": "2026-03-06T09:12:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "17"
-      },
-      {
-        "title": "IMF ready to help Economies squeezed by West Asian oil shock",
-        "description": "According to IMF Managing Director Kristalina Georgieva, a 10% increase in energy prices lasting a year would raise inflation by 40 basis points and slow growth by up to 0.2%",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/imf-says-ready-to-help-economies-squeezed-by-mideast-oil-shock",
-        "publishedAt": "2026-03-06T06:11:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "US Submarine strike in the Indian Ocean raises risks for Asia",
-        "description": "The presence of a US submarine conducting lethal operations near friendly nations such as India raises questions about how insulated Asia’s sea lanes are from outside threats",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/us-submarine-strike-in-the-indian-ocean-raises-risks-for-asia",
-        "publishedAt": "2026-03-06T05:12:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Morgan Stanley turns more cautious on Asian stocks, cuts India",
-        "description": "The strategists downgraded India from overweight to equal-weight in their latest reshuffle, citing the country as one of the Asian markets most exposed to potential Qatari LNG supply disruptions",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/morgan-stanley-turns-more-cautious-on-asian-stocks-cuts-india",
-        "publishedAt": "2026-03-06T03:57:50Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gold set for weekly loss as Dollar strength offsets war premium",
-        "description": "Bullion rose as much as 1.2% to break above $5,100 an ounce, though was headed for a weekly loss of nearly 3%",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/gold-steadies-as-firmer-dollar-offsets-middle-east-risk-premium",
-        "publishedAt": "2026-03-06T03:54:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1.2"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
