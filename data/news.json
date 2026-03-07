@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-03-07T09:54:15.549734+00:00",
+  "generated_at": "2026-03-07T10:19:12.402908+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "US Submarine strike in the Indian Ocean raises risks for Asia",
-        "description": "The presence of a US submarine conducting lethal operations near friendly nations such as India raises questions about how insulated Asia’s sea lanes are from outside threats",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/us-submarine-strike-in-the-indian-ocean-raises-risks-for-asia",
-        "publishedAt": "2026-03-06T05:12:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
