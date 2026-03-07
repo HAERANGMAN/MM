@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T08:57:36.291355+00:00",
+  "generated_at": "2026-03-07T09:33:56.006586+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Oil powers to 17% weekly gain as West Asia war rips through the market",
+        "description": "As the hostilities have flared, shipping through the Strait of Hormuz has all but halted, choking off oil supplies to global markets and prompting producers to start shutting-in output",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-05/latest-oil-market-news-and-analysis-for-march-6",
+        "publishedAt": "2026-03-06T09:12:54Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "17"
+      },
       {
         "title": "Ambani’s record IPO of Jio delayed by regulatory limbo",
         "description": "Ambani said in August that Reliance was aiming to list Jio in the first half of 2026, a plan he had first signaled 2019 — back then with a five-year timeline",
@@ -54,16 +64,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gold set for weekly loss as Dollar strength offsets war premium",
-        "description": "Bullion rose as much as 1.2% to break above $5,100 an ounce, though was headed for a weekly loss of nearly 3%",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/gold-steadies-as-firmer-dollar-offsets-middle-east-risk-premium",
-        "publishedAt": "2026-03-06T03:54:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1.2"
       }
     ],
     "news-korea-soc": [
@@ -112,6 +112,16 @@
     ],
     "news-global-soc": [
       {
+        "title": "Oil powers to 17% weekly gain as West Asia war rips through the market",
+        "description": "As the hostilities have flared, shipping through the Strait of Hormuz has all but halted, choking off oil supplies to global markets and prompting producers to start shutting-in output",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-05/latest-oil-market-news-and-analysis-for-march-6",
+        "publishedAt": "2026-03-06T09:12:54Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "17"
+      },
+      {
         "title": "IMF ready to help Economies squeezed by West Asian oil shock",
         "description": "According to IMF Managing Director Kristalina Georgieva, a 10% increase in energy prices lasting a year would raise inflation by 40 basis points and slow growth by up to 0.2%",
         "url": "https://www.bloomberg.com/news/articles/2026-03-06/imf-says-ready-to-help-economies-squeezed-by-mideast-oil-shock",
@@ -150,16 +160,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "1.2"
-      },
-      {
-        "title": "Iran barrage sweeps West Asia as Trump weighs in on succession",
-        "description": "NATO said it’s increasing its alliance-wide ballistic missile defence posture following the downing on Wednesday of an Iranian missile heading toward Turkish airspace",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/iranian-barrage-sweeps-mideast-as-trump-weighs-in-on-next-leader",
-        "publishedAt": "2026-03-06T03:39:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
