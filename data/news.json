@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-08T13:48:16.292685+00:00",
+  "generated_at": "2026-03-08T14:11:59.444364+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "China Adjusts GDP Projections Down After Iran War",
+        "description": "China’s big “Two Sessions” annual meeting of its rubber-stamp legislature produced a report on Friday that revised GDP growth projections down to a “range” of 4.5 to 5 percent, a significant downgrade from the 4.9 to 5 percent projection for 2025.\nThe post Ch…",
+        "url": "https://www.breitbart.com/economy/2026/03/06/china-adjusts-gdp-projections-down-after-iran-war/",
+        "publishedAt": "2026-03-06T18:55:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4.5"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "BROADCAST BIAS: From 'without evidence' to war panic, the media target Trump and America",
+        "description": "President Trump's military actions in Iran have been under repeated attack from the broadcast networks. The legacy media seems fine with offering a propaganda platform to the enemy.",
+        "url": "https://www.foxnews.com/opinion/broadcast-bias-without-evidence-war-panic-media-target-trump-america",
+        "publishedAt": "2026-03-07T13:00:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Britney Spears reported for erratic driving at high rate of speed before DUI arrest",
+        "description": "Pop icon Britney Spears faced new legal troubles with DUI arrest years after being released from a controversial conservatorship following her mental health breakdown.",
+        "url": "https://www.foxnews.com/entertainment/britney-spears-reported-erratic-driving-high-rate-speed-before-dui-arrest",
+        "publishedAt": "2026-03-07T13:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The Atlantic's Brooks: I'm Bugged by Those Who Think They Know Future on Iran, We Don't",
+        "description": "On Friday’s “PBS NewsHour,” The Atlantic Staff Writer David Brooks said that he has concerns about Operation Epic Fury, but also noted the malign actions of Iran’s regime before saying, “What bugs me, frankly, is the people who are sure, the\nThe post The Atla…",
+        "url": "https://www.breitbart.com/clips/2026/03/07/the-atlantics-brooks-im-bugged-by-those-who-think-they-know-future-on-iran-we-dont/",
+        "publishedAt": "2026-03-07T10:35:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Fewer Jobs, Better Workers, and a Barrel of Trouble",
+        "description": "This is the Breitbart Business Digest weekly wrap of business and economic news, where we strive to increase output despite no increases in our newsletter's payroll.\nThe post Breitbart Business Digest: Fewer Jobs, Better Workers, and a Barrel of Trouble appea…",
+        "url": "https://www.breitbart.com/economy/2026/03/06/breitbart-business-digest-fewer-jobs-better-workers-and-a-barrel-of-trouble/",
+        "publishedAt": "2026-03-07T00:15:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump admin hits back at ex-California mayor's call for federal guaranteed income as cities hand out cash",
+        "description": "Michael D. Tubbs, founder of Mayors for a Guaranteed Income, advocated for federal cash assistance while Trump administration opposes such initiatives as unnecessary handouts.",
+        "url": "https://www.foxnews.com/media/trump-admin-hits-back-ex-california-mayors-call-federal-guaranteed-income-cities-hand-out-cash",
+        "publishedAt": "2026-03-06T23:27:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Pope Leo Appoints Italian Archbishop Gabriele Caccia as Ambassador to the United States",
+        "description": "Pope Leo XIV on Saturday named a veteran Vatican diplomat as his new ambassador to the United States to manage one of the Holy See's most important bilateral relationships at a crucial time, with ties strained over the Trump administration's war in Iran and i…",
+        "url": "https://www.breitbart.com/europe/2026/03/07/pope-leo-appoints-italian-archbishop-gabriele-caccia-as-ambassador-to-the-united-states32277760/",
+        "publishedAt": "2026-03-07T13:28:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DAN GAINOR: As troops face danger abroad, media wage war on Trump at home",
+        "description": "Press continues anti-Trump campaign with unsubstantiated Epstein allegations while America fights Iran, showing same bias patterns from Russian collusion, Hunter Biden laptop story.",
+        "url": "https://www.foxnews.com/opinion/dan-gainor-troops-face-danger-abroad-media-wage-war-trump-home",
+        "publishedAt": "2026-03-07T12:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP Rep. Patronis: For 47 Years, Iran Has Moved Forward to See the Western World Doesn't Exist",
+        "description": "Friday, during an interview that aired on Mobile, AL radio FM Talk 106.5, Rep. Jimmy Patronis (R-FL) applauded the Trump administration's efforts to take down the hostile Iranian regime.\nThe post GOP Rep. Patronis: For 47 Years, Iran Has Moved Forward to See …",
+        "url": "https://www.breitbart.com/clips/2026/03/07/gop-rep-patronis-for-47-years-iran-has-moved-forward-to-see-the-western-world-doesnt-exist/",
+        "publishedAt": "2026-03-07T08:36:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "47"
+      },
+      {
+        "title": "Meghan Markle and Netflix end lifestyle brand partnership as critics say they 'got Markled enough'",
+        "description": "Netflix parts ways with Meghan Markle's As ever lifestyle brand, sparking mixed reactions as critics and supporters debate the business decision online.",
+        "url": "https://www.foxnews.com/entertainment/meghan-markle-netflix-end-lifestyle-brand-partnership-critics-say-got-markled-enough",
+        "publishedAt": "2026-03-06T22:32:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US signals readiness to escort tankers through Hormuz as traffic thins but no mission launched",
+        "description": "Trump and Energy Secretary Chris Wright signal the U.S. may escort tankers through the Strait of Hormuz as shipping traffic drops, though a U.S. official says no mission is underway.",
+        "url": "https://www.foxnews.com/politics/us-signals-readiness-escort-tankers-through-hormuz-traffic-thins-no-mission-launched",
+        "publishedAt": "2026-03-06T20:54:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
