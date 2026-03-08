@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-03-08T14:59:21.089236+00:00",
+  "generated_at": "2026-03-08T15:33:12.752728+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "China Adjusts GDP Projections Down After Iran War",
-        "description": "China’s big “Two Sessions” annual meeting of its rubber-stamp legislature produced a report on Friday that revised GDP growth projections down to a “range” of 4.5 to 5 percent, a significant downgrade from the 4.9 to 5 percent projection for 2025.\nThe post Ch…",
-        "url": "https://www.breitbart.com/economy/2026/03/06/china-adjusts-gdp-projections-down-after-iran-war/",
-        "publishedAt": "2026-03-06T18:55:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4.5"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
