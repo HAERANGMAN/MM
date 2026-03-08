@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-03-08T18:58:46.791791+00:00",
+  "generated_at": "2026-03-08T19:30:34.445939+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Stephen Moore: I'd Worry More About Inflation than Cutting Rates Right Now",
+        "description": "On Friday’s broadcast of the Fox Business Network’s “The Bottom Line,” former Trump Economic Adviser Stephen Moore stated that now might not be the best time to lower rates because of a potential bump in inflation due to a spike\nThe post Stephen Moore: I’d Wo…",
+        "url": "https://www.breitbart.com/clips/2026/03/07/stephen-moore-id-worry-more-about-inflation-than-cutting-rates-right-now/",
+        "publishedAt": "2026-03-07T19:18:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Marlow: Jobs Data Shows CEOs 'Consolidating' Due to A.I. Advancement",
+        "description": "Friday on “The Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow discussed the economy. Marlow said, “This is just a reminder to CEOs that there is a big imperative to consolidate jobs, because even if A.I. is not answering all\nThe post Marlow…",
+        "url": "https://www.breitbart.com/clips/2026/03/07/marlow-jobs-data-shows-ceos-consolidating-due-to-a-i-advancement/",
+        "publishedAt": "2026-03-07T19:13:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response",
         "description": "Elon Musk accused Anthropic CEO Dario Amodei of \"projecting\" after Amodei said in an interview that, \"We don’t know if the models are conscious.\"",
@@ -33,26 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Britney Spears reported for erratic driving at high rate of speed before DUI arrest",
-        "description": "Pop icon Britney Spears faced new legal troubles with DUI arrest years after being released from a controversial conservatorship following her mental health breakdown.",
-        "url": "https://www.foxnews.com/entertainment/britney-spears-reported-erratic-driving-high-rate-speed-before-dui-arrest",
-        "publishedAt": "2026-03-07T13:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The Atlantic's Brooks: I'm Bugged by Those Who Think They Know Future on Iran, We Don't",
-        "description": "On Friday’s “PBS NewsHour,” The Atlantic Staff Writer David Brooks said that he has concerns about Operation Epic Fury, but also noted the malign actions of Iran’s regime before saying, “What bugs me, frankly, is the people who are sure, the\nThe post The Atla…",
-        "url": "https://www.breitbart.com/clips/2026/03/07/the-atlantics-brooks-im-bugged-by-those-who-think-they-know-future-on-iran-we-dont/",
-        "publishedAt": "2026-03-07T10:35:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Shark attack deaths surge above decade average in 2025",
+        "description": "Shark attacks worldwide increased in 2025 with 65 unprovoked bites recorded globally, while fatalities doubled above the decade average according to researchers.",
+        "url": "https://www.foxnews.com/us/shark-attack-deaths-surge-above-decade-average-2025",
+        "publishedAt": "2026-03-07T19:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2025"
+      },
       {
         "title": "Mike Pence praises Trump for ‘decisive leadership’ on Iran after Biden 'squandered' US deterrence",
         "description": "Mike Pence praises Trump's Iran strike decision, saying Operation Epic Fury is a long-overdue show of force that restored 'deterrence' after weak Biden policies.",
@@ -119,16 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "2"
-      },
-      {
-        "title": "Pope Leo Appoints Italian Archbishop Gabriele Caccia as Ambassador to the United States",
-        "description": "Pope Leo XIV on Saturday named a veteran Vatican diplomat as his new ambassador to the United States to manage one of the Holy See's most important bilateral relationships at a crucial time, with ties strained over the Trump administration's war in Iran and i…",
-        "url": "https://www.breitbart.com/europe/2026/03/07/pope-leo-appoints-italian-archbishop-gabriele-caccia-as-ambassador-to-the-united-states32277760/",
-        "publishedAt": "2026-03-07T13:28:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
