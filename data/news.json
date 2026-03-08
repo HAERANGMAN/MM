@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-03-08T19:30:34.445939+00:00",
+  "generated_at": "2026-03-08T19:47:45.988337+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Stephen Moore: I'd Worry More About Inflation than Cutting Rates Right Now",
-        "description": "On Friday’s broadcast of the Fox Business Network’s “The Bottom Line,” former Trump Economic Adviser Stephen Moore stated that now might not be the best time to lower rates because of a potential bump in inflation due to a spike\nThe post Stephen Moore: I’d Wo…",
-        "url": "https://www.breitbart.com/clips/2026/03/07/stephen-moore-id-worry-more-about-inflation-than-cutting-rates-right-now/",
-        "publishedAt": "2026-03-07T19:18:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Marlow: Jobs Data Shows CEOs 'Consolidating' Due to A.I. Advancement",
-        "description": "Friday on “The Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow discussed the economy. Marlow said, “This is just a reminder to CEOs that there is a big imperative to consolidate jobs, because even if A.I. is not answering all\nThe post Marlow…",
-        "url": "https://www.breitbart.com/clips/2026/03/07/marlow-jobs-data-shows-ceos-consolidating-due-to-a-i-advancement/",
-        "publishedAt": "2026-03-07T19:13:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response",
-        "description": "Elon Musk accused Anthropic CEO Dario Amodei of \"projecting\" after Amodei said in an interview that, \"We don’t know if the models are conscious.\"",
-        "url": "https://www.foxnews.com/politics/tech-company-odds-pentagon-warns-its-ai-possibly-gained-consciousness-elon-musk-issues-two-word-response",
-        "publishedAt": "2026-03-07T16:26:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Millionaire Actress Gillian Anderson Says She Will Keep Whining About Men Making More Money than Her",
-        "description": "Millionaire actress Gillian Anderson will continue to complain about Hollywood sexism instead of being thankful for her comfortable lifestyle.",
-        "url": "https://www.breitbart.com/entertainment/2026/03/07/actress-gillian-anderson-says-she-will-keep-whining-about-men-making-more-money-than-her/",
-        "publishedAt": "2026-03-07T14:43:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "BROADCAST BIAS: From 'without evidence' to war panic, the media target Trump and America",
-        "description": "President Trump's military actions in Iran have been under repeated attack from the broadcast networks. The legacy media seems fine with offering a propaganda platform to the enemy.",
-        "url": "https://www.foxnews.com/opinion/broadcast-bias-without-evidence-war-panic-media-target-trump-america",
-        "publishedAt": "2026-03-07T13:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump touts US has 'tremendous' amount of Venezuelan oil, vows to 'take care' of Cuba after Iran focus",
-        "description": "President Donald Trump declared Saturday that the U.S. is extracting \"tremendous amounts of oil\" from Venezuela and vowed to \"take care\" of Cuba's regime.",
-        "url": "https://www.foxnews.com/politics/trump-touts-us-has-tremendous-amount-venezuelan-oil-vows-take-care-cuba-after-iran-focus",
-        "publishedAt": "2026-03-07T18:01:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "US student rescued from Mideast describes missile activity in Abu Dhabi when class trip turned 'scary'",
-        "description": "High school student stranded in Abu Dhabi during missile strikes shares his experience of being caught in escalating Middle East conflict amid Operation Epic Fury.",
-        "url": "https://www.foxnews.com/media/school-trip-layover-turns-frightening-us-students-stranded-amid-missile-activity-abu-dhabi",
-        "publishedAt": "2026-03-07T17:01:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Shark attack deaths surge above decade average in 2025",
-        "description": "Shark attacks worldwide increased in 2025 with 65 unprovoked bites recorded globally, while fatalities doubled above the decade average according to researchers.",
-        "url": "https://www.foxnews.com/us/shark-attack-deaths-surge-above-decade-average-2025",
-        "publishedAt": "2026-03-07T19:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
-      },
-      {
-        "title": "Mike Pence praises Trump for ‘decisive leadership’ on Iran after Biden 'squandered' US deterrence",
-        "description": "Mike Pence praises Trump's Iran strike decision, saying Operation Epic Fury is a long-overdue show of force that restored 'deterrence' after weak Biden policies.",
-        "url": "https://www.foxnews.com/media/mike-pence-praises-trump-decisive-leadership-iran-after-biden-squandered-us-deterrence",
-        "publishedAt": "2026-03-07T18:57:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump says 'hatred' between Putin, Zelenskyy blocking Ukraine peace deal",
-        "description": "President Donald Trump said Saturday that \"the hatred is so great\" between Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy.",
-        "url": "https://www.foxnews.com/politics/trump-says-hatred-between-putin-ukrainian-counterpart-blocking-peace-deal-cites-worsening-death-toll",
-        "publishedAt": "2026-03-07T18:33:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chicago: Concealed Carry Permit Holder Shoots Alleged Intruder",
-        "description": "A concealed carry permit holder shot and wounded an alleged intruder in Chicago Saturday around 2:40 a.m. \nThe post Chicago: Concealed Carry Permit Holder Shoots Alleged Intruder appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/07/chicago-concealed-carry-permit-holder-shoots-alleged-intruder/",
-        "publishedAt": "2026-03-07T16:13:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "America's Mighty Warriors: Honoring Marc Lee, for God and Country",
-        "description": "Marc Lee became the first Navy SEAL to lose his life in Operation Iraqi Freedom when he was killed on August 2, 2006. His mother, Debbie, and Scottsdale Gun Club, celebrate his birthday each year as a way to eulogize and celebrate his service to God and count…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/07/americas-mighty-warriors-honoring-marc-lee-god-country/",
-        "publishedAt": "2026-03-07T15:55:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
