@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-09T18:09:11.334894+00:00",
+  "generated_at": "2026-03-09T19:09:45.404724+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Actor and former 'SNL' star slams major airline for his seat downgrade: ‘I paid for first class’",
+        "description": "An actor and comedian has alleged that American Airlines downgraded him from first class to economy on a red-eye flight, sparking controversy over airline practices.",
+        "url": "https://www.foxnews.com/travel/actor-former-snl-star-slams-major-airline-seat-downgrade-i-paid-first-class",
+        "publishedAt": "2026-03-08T18:25:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Marilyn Monroe's former Palm Springs hideaway hits the market for $3.3M",
+        "description": "Marilyn Monroe's former Palm Springs sanctuary hits the market for $3.3 million. The iconic 'Doll House' offers rare Hollywood history in Vista Las Palmas.",
+        "url": "https://www.foxnews.com/entertainment/marilyn-monroes-former-palm-springs-hideaway-hits-market-3-3m",
+        "publishedAt": "2026-03-08T18:08:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict",
+        "description": "War-risk insurance costs surge as conflict threatens oil shipments through Strait of Hormuz, potentially driving up gas prices for American consumers.",
+        "url": "https://www.foxnews.com/politics/unlikely-tool-trump-eyeing-tackle-rising-oil-prices-amid-iran-conflict",
+        "publishedAt": "2026-03-08T18:08:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "CENTCOM issues safety warning to Iranian civilians as regime uses ‘heavily populated’ areas for launches",
+        "description": "CENTCOM warned Iranian civilians to avoid military-linked sites, accusing Tehran of launching drones and missiles from populated areas.",
+        "url": "https://www.foxnews.com/world/centcom-issues-safety-warning-iranian-civilians-regime-uses-heavily-populated-areas-launches",
+        "publishedAt": "2026-03-08T16:51:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "White House says oil price spike is temporary as Trump pushes energy dominance amid Iran war",
+        "description": "Karoline Leavitt says oil price spike from Iran conflict will be short-lived as President Trump's energy dominance strategy stabilizes markets and eases pressure on American consumers.",
+        "url": "https://www.foxnews.com/media/white-house-says-oil-price-spike-temporary-trump-pushes-energy-dominance-amid-iran-war",
+        "publishedAt": "2026-03-08T16:51:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Marilyn Monroe's former Palm Springs hideaway hits the market for $3.3M",
+        "description": "Marilyn Monroe's former Palm Springs sanctuary hits the market for $3.3 million. The iconic 'Doll House' offers rare Hollywood history in Vista Las Palmas.",
+        "url": "https://www.foxnews.com/entertainment/marilyn-monroes-former-palm-springs-hideaway-hits-market-3-3m",
+        "publishedAt": "2026-03-08T18:08:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict",
+        "description": "War-risk insurance costs surge as conflict threatens oil shipments through Strait of Hormuz, potentially driving up gas prices for American consumers.",
+        "url": "https://www.foxnews.com/politics/unlikely-tool-trump-eyeing-tackle-rising-oil-prices-amid-iran-conflict",
+        "publishedAt": "2026-03-08T18:08:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Eileen Gu serves as grand marshal for Chinese New Year parade in San Francisco",
+        "description": "Controversial Olympic skier Eileen Gu was the grand marshal for the Chinese New Year festivities that took place in San Francisco on Saturday.",
+        "url": "https://www.foxnews.com/sports/eileen-gu-serves-grand-marshal-chinese-new-year-parade-san-francisco",
+        "publishedAt": "2026-03-08T17:22:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "White House says oil price spike is temporary as Trump pushes energy dominance amid Iran war",
+        "description": "Karoline Leavitt says oil price spike from Iran conflict will be short-lived as President Trump's energy dominance strategy stabilizes markets and eases pressure on American consumers.",
+        "url": "https://www.foxnews.com/media/white-house-says-oil-price-spike-temporary-trump-pushes-energy-dominance-amid-iran-war",
+        "publishedAt": "2026-03-08T16:51:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Alysa Liu speaks out on Eileen Gu's decision to compete for China over US and political backlash",
+        "description": "Alysa Liu defends Eileen Gu's decision to compete for China at Olympics, calling criticism hypocritical. Both Bay Area athletes faced unfair comparisons.",
+        "url": "https://www.foxnews.com/sports/alysa-liu-speaks-out-friendship-eileen-gu-skiers-decision-compete-china-over-us",
+        "publishedAt": "2026-03-08T13:38:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
