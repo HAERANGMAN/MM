@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T19:09:45.404724+00:00",
+  "generated_at": "2026-03-09T19:51:26.198015+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "'Petty and Callous': Arizona's Democrat Governor Lambasted for Vetoing Charlie Kirk Memorial License Plate",
+        "description": "Arizona Gov. Katie Hobbs (D) has vetoed a bill to create a specialty license plate honoring Turning Point USA Founder Charlie Kirk, who was brutally assassinated in September.\nThe post ‘Petty and Callous’: Arizona’s Democrat Governor Lambasted for Vetoing Cha…",
+        "url": "https://www.breitbart.com/politics/2026/03/08/petty-and-callous-arizonas-democrat-governor-lambasted-for-vetoing-charlie-kirk-memorial-license-plate/",
+        "publishedAt": "2026-03-08T19:16:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Marilyn Monroe's former Palm Springs hideaway hits the market for $3.3M",
         "description": "Marilyn Monroe's former Palm Springs sanctuary hits the market for $3.3 million. The iconic 'Doll House' offers rare Hollywood history in Vista Las Palmas.",
         "url": "https://www.foxnews.com/entertainment/marilyn-monroes-former-palm-springs-hideaway-hits-market-3-3m",
@@ -93,16 +103,6 @@
         "description": "Karoline Leavitt says oil price spike from Iran conflict will be short-lived as President Trump's energy dominance strategy stabilizes markets and eases pressure on American consumers.",
         "url": "https://www.foxnews.com/media/white-house-says-oil-price-spike-temporary-trump-pushes-energy-dominance-amid-iran-war",
         "publishedAt": "2026-03-08T16:51:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Alysa Liu speaks out on Eileen Gu's decision to compete for China over US and political backlash",
-        "description": "Alysa Liu defends Eileen Gu's decision to compete for China at Olympics, calling criticism hypocritical. Both Bay Area athletes faced unfair comparisons.",
-        "url": "https://www.foxnews.com/sports/alysa-liu-speaks-out-friendship-eileen-gu-skiers-decision-compete-china-over-us",
-        "publishedAt": "2026-03-08T13:38:31Z",
         "source": {
           "name": "Fox News"
         },
