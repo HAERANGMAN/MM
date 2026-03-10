@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-03-10T01:51:12.267115+00:00",
+  "generated_at": "2026-03-10T03:56:38.328214+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Fans Furious at Bruce Springsteen over Skyrocketing Ticket Prices for Anti-Trump 'No Kings' Tour",
-        "description": "Fans are becoming increasingly upset at Bruce Springsteen for the absurdly high ticket prices for his 2026 anti-Trump crusade concert tour.",
-        "url": "https://www.breitbart.com/entertainment/2026/03/08/fans-furious-at-bruce-springsteen-over-skyrocketing-ticket-prices-for-anti-trump-no-kings-tour/",
-        "publishedAt": "2026-03-09T00:58:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Pro-American Groups Welcome Trump's DHS Pick Markwayne Mullin",
-        "description": "Pro-American lobby groups cautiously praised President Donald Trump's decision to pick Sen. Markwayne Mullin as the new Secretary of the Department of Homeland Security.\nThe post Pro-American Groups Welcome Trump’s DHS Pick Markwayne Mullin appeared first on …",
-        "url": "https://www.breitbart.com/economy/2026/03/08/pro-american-groups-praise-trumps-dhs-pick-markwayne-mullin/",
-        "publishedAt": "2026-03-08T21:09:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Warner: Trump 'Has Not Made the Case' Iran Was Imminent Threat",
-        "description": "On this week's broadcast of \"Fox News Sunday,\" Sen. Mark Warner (D-VA) said President Donald Trump had not made the case for the military action in Iran.\nThe post Warner: Trump ‘Has Not Made the Case’ Iran Was Imminent Threat appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/clips/2026/03/08/warner-trump-has-not-made-the-case-iran-was-imminent-threat/",
-        "publishedAt": "2026-03-08T20:30:05Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Actor and former 'SNL' star slams major airline for his seat downgrade: ‘I paid for first class’",
-        "description": "An actor and comedian has alleged that American Airlines downgraded him from first class to economy on a red-eye flight, sparking controversy over airline practices.",
-        "url": "https://www.foxnews.com/travel/actor-former-snl-star-slams-major-airline-seat-downgrade-i-paid-first-class",
-        "publishedAt": "2026-03-08T18:25:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Marilyn Monroe's former Palm Springs hideaway hits the market for $3.3M",
-        "description": "Marilyn Monroe's former Palm Springs sanctuary hits the market for $3.3 million. The iconic 'Doll House' offers rare Hollywood history in Vista Las Palmas.",
-        "url": "https://www.foxnews.com/entertainment/marilyn-monroes-former-palm-springs-hideaway-hits-market-3-3m",
-        "publishedAt": "2026-03-08T18:08:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump admin turns Venezuela into major US oil supplier as global shipping crisis eases",
-        "description": "Major policy shift sees Venezuela become key U.S. oil supplier under Trump administration, with new contracts signed for Gulf Coast refineries.",
-        "url": "https://www.foxnews.com/media/trump-admin-turns-venezuela-major-us-oil-supplier-global-shipping-crisis-eases",
-        "publishedAt": "2026-03-08T20:22:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Petty and Callous': Arizona's Democrat Governor Lambasted for Vetoing Charlie Kirk Memorial License Plate",
-        "description": "Arizona Gov. Katie Hobbs (D) has vetoed a bill to create a specialty license plate honoring Turning Point USA Founder Charlie Kirk, who was brutally assassinated in September.\nThe post ‘Petty and Callous’: Arizona’s Democrat Governor Lambasted for Vetoing Cha…",
-        "url": "https://www.breitbart.com/politics/2026/03/08/petty-and-callous-arizonas-democrat-governor-lambasted-for-vetoing-charlie-kirk-memorial-license-plate/",
-        "publishedAt": "2026-03-08T19:16:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Marilyn Monroe's former Palm Springs hideaway hits the market for $3.3M",
-        "description": "Marilyn Monroe's former Palm Springs sanctuary hits the market for $3.3 million. The iconic 'Doll House' offers rare Hollywood history in Vista Las Palmas.",
-        "url": "https://www.foxnews.com/entertainment/marilyn-monroes-former-palm-springs-hideaway-hits-market-3-3m",
-        "publishedAt": "2026-03-08T18:08:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict",
-        "description": "War-risk insurance costs surge as conflict threatens oil shipments through Strait of Hormuz, potentially driving up gas prices for American consumers.",
-        "url": "https://www.foxnews.com/politics/unlikely-tool-trump-eyeing-tackle-rising-oil-prices-amid-iran-conflict",
-        "publishedAt": "2026-03-08T18:08:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Eileen Gu serves as grand marshal for Chinese New Year parade in San Francisco",
-        "description": "Controversial Olympic skier Eileen Gu was the grand marshal for the Chinese New Year festivities that took place in San Francisco on Saturday.",
-        "url": "https://www.foxnews.com/sports/eileen-gu-serves-grand-marshal-chinese-new-year-parade-san-francisco",
-        "publishedAt": "2026-03-08T17:22:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
