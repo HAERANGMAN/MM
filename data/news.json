@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-09T23:55:16.931346+00:00",
+  "generated_at": "2026-03-10T01:51:12.267115+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Fans Furious at Bruce Springsteen over Skyrocketing Ticket Prices for Anti-Trump 'No Kings' Tour",
+        "description": "Fans are becoming increasingly upset at Bruce Springsteen for the absurdly high ticket prices for his 2026 anti-Trump crusade concert tour.",
+        "url": "https://www.breitbart.com/entertainment/2026/03/08/fans-furious-at-bruce-springsteen-over-skyrocketing-ticket-prices-for-anti-trump-no-kings-tour/",
+        "publishedAt": "2026-03-09T00:58:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2026"
+      },
       {
         "title": "Pro-American Groups Welcome Trump's DHS Pick Markwayne Mullin",
         "description": "Pro-American lobby groups cautiously praised President Donald Trump's decision to pick Sen. Markwayne Mullin as the new Secretary of the Department of Homeland Security.\nThe post Pro-American Groups Welcome Trump’s DHS Pick Markwayne Mullin appeared first on …",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict",
-        "description": "War-risk insurance costs surge as conflict threatens oil shipments through Strait of Hormuz, potentially driving up gas prices for American consumers.",
-        "url": "https://www.foxnews.com/politics/unlikely-tool-trump-eyeing-tackle-rising-oil-prices-amid-iran-conflict",
-        "publishedAt": "2026-03-08T18:08:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
