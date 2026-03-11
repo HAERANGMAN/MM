@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T05:29:06.091193+00:00",
+  "generated_at": "2026-03-11T06:09:32.394577+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [
@@ -15,6 +15,16 @@
       }
     ],
     "news-global-econ": [
+      {
+        "title": "IMF urges preparation for ‘Unthinkable’ amid West Asia conflict",
+        "description": "These points backed up the IMF’s view that nations need to sort out their domestic policies to ensure they have bandwidth to deal with shocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-09/imf-urges-preparation-for-unthinkable-amid-mideast-conflict",
+        "publishedAt": "2026-03-10T06:02:29Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Iran war has airlines reviewing growth plans as fuel surges",
         "description": "Iran's conflict prompts airlines to reconsider growth plans as fuel prices spike, impacting aircraft deals and travel demand.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Crude prices tumbles 10% as Trump signals Iran war may end soon",
-        "description": "WTI crude fell as much as 10% to around $85, after earlier surging near $120 on fears that escalating West Asia tensions and a blocked Strait of Hormuz could hit global supply",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/latest-oil-market-news-and-analysis-for-march-10",
-        "publishedAt": "2026-03-09T23:12:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
       }
     ],
     "news-korea-soc": [
@@ -101,6 +101,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "IMF urges preparation for ‘Unthinkable’ amid West Asia conflict",
+        "description": "These points backed up the IMF’s view that nations need to sort out their domestic policies to ensure they have bandwidth to deal with shocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-09/imf-urges-preparation-for-unthinkable-amid-mideast-conflict",
+        "publishedAt": "2026-03-10T06:02:29Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Trump Says Iran War Could End ‘Very Soon,’ Warns Tehran Not to Escalate",
         "description": "President Donald Trump said Monday the war against Iran could end “very soon,” arguing that U.S. and Israeli forces have devastated the regime’s military capabilities while warning Tehran that any renewed aggression would trigger even harsher retaliation.\nThe…",
         "url": "https://www.breitbart.com/politics/2026/03/09/trump-says-iran-war-couldend-soon-warns-tehran-not-escalate/",
@@ -137,16 +147,6 @@
         "publishedAt": "2026-03-10T01:55:03Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump says it’s an ‘honor’ to keep Strait of Hormuz open for China and other countries",
-        "description": "President says he will keep the Strait of Hormuz open for the world, including China, while announcing plans to waive oil sanctions to lower energy prices.",
-        "url": "https://www.foxnews.com/world/trump-says-its-honor-keep-strait-hormuz-open-china-other-countries",
-        "publishedAt": "2026-03-10T00:37:49Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
