@@ -1,157 +1,19 @@
 {
-  "generated_at": "2026-03-11T06:09:32.394577+00:00",
+  "generated_at": "2026-03-11T07:11:24.424963+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [
-      {
-        "title": "Iran war has airlines reviewing growth plans as fuel surges",
-        "description": "Iran's conflict prompts airlines to reconsider growth plans as fuel prices spike, impacting aircraft deals and travel demand.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/iran-war-has-airlines-reviewing-growth-plans-as-fuel-costs-surge",
-        "publishedAt": "2026-03-10T04:07:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "IMF urges preparation for ‘Unthinkable’ amid West Asia conflict",
-        "description": "These points backed up the IMF’s view that nations need to sort out their domestic policies to ensure they have bandwidth to deal with shocks",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/imf-urges-preparation-for-unthinkable-amid-mideast-conflict",
-        "publishedAt": "2026-03-10T06:02:29Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran war has airlines reviewing growth plans as fuel surges",
-        "description": "Iran's conflict prompts airlines to reconsider growth plans as fuel prices spike, impacting aircraft deals and travel demand.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/iran-war-has-airlines-reviewing-growth-plans-as-fuel-costs-surge",
-        "publishedAt": "2026-03-10T04:07:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India not mulling strategic oil reserve release, official says",
-        "description": "The world’s third-largest oil consumer, which sources about 40% of its crude imports through the Strait of Hormuz, has secured alternative supplies, the official said",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/india-not-mulling-strategic-oil-reserve-release-official-says",
-        "publishedAt": "2026-03-10T03:58:04Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "40"
-      },
-      {
-        "title": "Exclusive: Incoming DHS Chief Markwayne Mullin Warns of Chinese Communist Threat in Long-Form Interview Exposing Belt and Road Initiative",
-        "description": "Sen. Markwayne Mullin (R-OK) told Breitbart News in a long-form exclusive on-camera interview in early February in his U.S. Senate office that the Chinese Communist Party (CCP) has had its plans for global domination through the Belt and Road Initiative disru…",
-        "url": "https://www.breitbart.com/politics/2026/03/09/exclusive-markwayne-mullin-warns-chinese-communist-threat-belt-road-initiative/",
-        "publishedAt": "2026-03-10T01:55:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tyler Linderbaum's $81M record-breaking deal headlines Raiders' free agent spending spree",
-        "description": "The Raiders made Tyler Linderbaum the highest-paid interior lineman in league history with an $81M deal, as Las Vegas goes all-in during the NFL free agency tampering period.",
-        "url": "https://www.foxnews.com/sports/tyler-linderbaums-81m-record-breaking-deal-headlines-raiders-free-agent-spending-spree",
-        "publishedAt": "2026-03-10T01:39:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iranian Women Soccer Players Safe with Australian Police After Asylum Push from Trump",
-        "description": "Five members of Iran's women's soccer team are now safely under the protection of the Australian government after President Trump's strong uring that they be given asylum.\nThe post Iranian Women Soccer Players Safe with Australian Police After Asylum Push fro…",
-        "url": "https://www.breitbart.com/sports/2026/03/09/iranian-women-soccer-players-safe-australian-police-after-asylum-push-trump/",
-        "publishedAt": "2026-03-09T15:39:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "EXCLUSIVE -- Afghan Christians Fleeing Taliban Face Deadly Threats in Neighboring Muslim Countries",
-        "description": "Afghan Christian refugees in Central Asia who escaped the Taliban, especially women, are facing tremendous threats of physical harm, deportation, and social vulnerability in their new countries, most of them Muslim-majority states, the Christian humanitarian …",
-        "url": "https://www.breitbart.com/faith/2026/03/09/exclusive-afghan-christians-fleeing-taliban-face-deadly-threats-in-neighboring-muslim-countries/",
-        "publishedAt": "2026-03-09T14:25:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "MICHAEL OREN: Iran has waged war on America for 47 years — time to end it",
-        "description": "The casus belli for war against Iran stems from 47 years of Iranian aggression including the 1979 embassy crisis and terrorist attacks, making Operation Epic Fury legally justified.",
-        "url": "https://www.foxnews.com/opinion/michael-oren-iran-has-waged-war-america-47-years-time-end",
-        "publishedAt": "2026-03-09T13:08:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "47"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "IMF urges preparation for ‘Unthinkable’ amid West Asia conflict",
-        "description": "These points backed up the IMF’s view that nations need to sort out their domestic policies to ensure they have bandwidth to deal with shocks",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/imf-urges-preparation-for-unthinkable-amid-mideast-conflict",
-        "publishedAt": "2026-03-10T06:02:29Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Says Iran War Could End ‘Very Soon,’ Warns Tehran Not to Escalate",
-        "description": "President Donald Trump said Monday the war against Iran could end “very soon,” arguing that U.S. and Israeli forces have devastated the regime’s military capabilities while warning Tehran that any renewed aggression would trigger even harsher retaliation.\nThe…",
-        "url": "https://www.breitbart.com/politics/2026/03/09/trump-says-iran-war-couldend-soon-warns-tehran-not-escalate/",
-        "publishedAt": "2026-03-10T04:12:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran war has airlines reviewing growth plans as fuel surges",
-        "description": "Iran's conflict prompts airlines to reconsider growth plans as fuel prices spike, impacting aircraft deals and travel demand.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/iran-war-has-airlines-reviewing-growth-plans-as-fuel-costs-surge",
-        "publishedAt": "2026-03-10T04:07:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India not mulling strategic oil reserve release, official says",
-        "description": "The world’s third-largest oil consumer, which sources about 40% of its crude imports through the Strait of Hormuz, has secured alternative supplies, the official said",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/india-not-mulling-strategic-oil-reserve-release-official-says",
-        "publishedAt": "2026-03-10T03:58:04Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "40"
-      },
-      {
-        "title": "Exclusive: Incoming DHS Chief Markwayne Mullin Warns of Chinese Communist Threat in Long-Form Interview Exposing Belt and Road Initiative",
-        "description": "Sen. Markwayne Mullin (R-OK) told Breitbart News in a long-form exclusive on-camera interview in early February in his U.S. Senate office that the Chinese Communist Party (CCP) has had its plans for global domination through the Belt and Road Initiative disru…",
-        "url": "https://www.breitbart.com/politics/2026/03/09/exclusive-markwayne-mullin-warns-chinese-communist-threat-belt-road-initiative/",
-        "publishedAt": "2026-03-10T01:55:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
