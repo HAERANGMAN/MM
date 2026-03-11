@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-03-10T23:56:25.404757+00:00",
+  "generated_at": "2026-03-11T02:07:48.529858+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Exclusive: Incoming DHS Chief Markwayne Mullin Warns of Chinese Communist Threat in Long-Form Interview Exposing Belt and Road Initiative",
+        "description": "Sen. Markwayne Mullin (R-OK) told Breitbart News in a long-form exclusive on-camera interview in early February in his U.S. Senate office that the Chinese Communist Party (CCP) has had its plans for global domination through the Belt and Road Initiative disru…",
+        "url": "https://www.breitbart.com/politics/2026/03/09/exclusive-markwayne-mullin-warns-chinese-communist-threat-belt-road-initiative/",
+        "publishedAt": "2026-03-10T01:55:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Tyler Linderbaum's $81M record-breaking deal headlines Raiders' free agent spending spree",
+        "description": "The Raiders made Tyler Linderbaum the highest-paid interior lineman in league history with an $81M deal, as Las Vegas goes all-in during the NFL free agency tampering period.",
+        "url": "https://www.foxnews.com/sports/tyler-linderbaums-81m-record-breaking-deal-headlines-raiders-free-agent-spending-spree",
+        "publishedAt": "2026-03-10T01:39:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Crude prices tumbles 10% as Trump signals Iran war may end soon",
         "description": "WTI crude fell as much as 10% to around $85, after earlier surging near $120 on fears that escalating West Asia tensions and a blocked Strait of Hormuz could hit global supply",
@@ -31,26 +51,6 @@
         "publishedAt": "2026-03-09T21:19:57Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: We're All Trumpians Now",
-        "description": "It took Wall Street a while to come around, but the stock market has finally embraced the president’s worldview.\nThe post Breitbart Business Digest: We’re All Trumpians Now appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/09/breitbart-business-digest-were-all-trumpians-now/",
-        "publishedAt": "2026-03-09T20:19:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "California House Republican announces he's leaving GOP immediately, thinning slim majority",
-        "description": "Rep. Kevin Kiley of California said he’s registering as “no party preference\" amid redistricting turmoil but will caucus with the GOP to keep his committee assignments.",
-        "url": "https://www.foxnews.com/politics/california-house-republican-announces-hes-leaving-gop-immediately-thinning-slim-majority",
-        "publishedAt": "2026-03-09T19:53:50Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
@@ -90,6 +90,36 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Exclusive: Incoming DHS Chief Markwayne Mullin Warns of Chinese Communist Threat in Long-Form Interview Exposing Belt and Road Initiative",
+        "description": "Sen. Markwayne Mullin (R-OK) told Breitbart News in a long-form exclusive on-camera interview in early February in his U.S. Senate office that the Chinese Communist Party (CCP) has had its plans for global domination through the Belt and Road Initiative disru…",
+        "url": "https://www.breitbart.com/politics/2026/03/09/exclusive-markwayne-mullin-warns-chinese-communist-threat-belt-road-initiative/",
+        "publishedAt": "2026-03-10T01:55:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump says it’s an ‘honor’ to keep Strait of Hormuz open for China and other countries",
+        "description": "President says he will keep the Strait of Hormuz open for the world, including China, while announcing plans to waive oil sanctions to lower energy prices.",
+        "url": "https://www.foxnews.com/world/trump-says-its-honor-keep-strait-hormuz-open-china-other-countries",
+        "publishedAt": "2026-03-10T00:37:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bill Banning Popular Semiautomatic Rifles, High Cap Mags, Clears Virginia Legislature",
+        "description": "A bill banning AR-15s and other popular semiautomatic rifles, as well as magazines holding more than 15 rounds of ammunition, cleared the Virginia legislature Monday and is headed to Gov. Abigail Spanberger’s (D) desk.\nThe post Bill Banning Popular Semiautoma…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/09/bill-banning-popular-semiautomatic-rifles-high-cap-mags-clears-virginia-legislature/",
+        "publishedAt": "2026-03-10T00:09:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
         "title": "Crude prices tumbles 10% as Trump signals Iran war may end soon",
         "description": "WTI crude fell as much as 10% to around $85, after earlier surging near $120 on fears that escalating West Asia tensions and a blocked Strait of Hormuz could hit global supply",
         "url": "https://www.bloomberg.com/news/articles/2026-03-09/latest-oil-market-news-and-analysis-for-march-10",
@@ -106,36 +136,6 @@
         "publishedAt": "2026-03-09T22:55:37Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Cannabis compounds could reverse disease affecting one-third of adults",
-        "description": "Compounds found in cannabis could provide a new roadmap for treating the world’s most common chronic liver disorder, according to a study released by the Hebrew University of Jerusalem.",
-        "url": "https://www.foxnews.com/health/cannabis-compounds-could-reverse-disease-affecting-one-third-adults",
-        "publishedAt": "2026-03-09T21:38:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stocks Rally and Oil Sinks After Trump's Remarks Reassure Investors That Iran War Is 'Very Complete'",
-        "description": "Stocks rose and oil prices fell on Monday after President Trump indicated that the war with Iran was nearing its end.\nThe post Stocks Rally and Oil Sinks After Trump’s Remarks Reassure Investors That Iran War Is ‘Very Complete’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/09/stocks-rally-oil-falls/",
-        "publishedAt": "2026-03-09T21:19:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: We're All Trumpians Now",
-        "description": "It took Wall Street a while to come around, but the stock market has finally embraced the president’s worldview.\nThe post Breitbart Business Digest: We’re All Trumpians Now appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/09/breitbart-business-digest-were-all-trumpians-now/",
-        "publishedAt": "2026-03-09T20:19:01Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
