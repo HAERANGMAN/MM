@@ -1,146 +1,19 @@
 {
-  "generated_at": "2026-03-11T02:07:48.529858+00:00",
+  "generated_at": "2026-03-11T04:18:10.962910+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Exclusive: Incoming DHS Chief Markwayne Mullin Warns of Chinese Communist Threat in Long-Form Interview Exposing Belt and Road Initiative",
-        "description": "Sen. Markwayne Mullin (R-OK) told Breitbart News in a long-form exclusive on-camera interview in early February in his U.S. Senate office that the Chinese Communist Party (CCP) has had its plans for global domination through the Belt and Road Initiative disru…",
-        "url": "https://www.breitbart.com/politics/2026/03/09/exclusive-markwayne-mullin-warns-chinese-communist-threat-belt-road-initiative/",
-        "publishedAt": "2026-03-10T01:55:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tyler Linderbaum's $81M record-breaking deal headlines Raiders' free agent spending spree",
-        "description": "The Raiders made Tyler Linderbaum the highest-paid interior lineman in league history with an $81M deal, as Las Vegas goes all-in during the NFL free agency tampering period.",
-        "url": "https://www.foxnews.com/sports/tyler-linderbaums-81m-record-breaking-deal-headlines-raiders-free-agent-spending-spree",
-        "publishedAt": "2026-03-10T01:39:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Crude prices tumbles 10% as Trump signals Iran war may end soon",
-        "description": "WTI crude fell as much as 10% to around $85, after earlier surging near $120 on fears that escalating West Asia tensions and a blocked Strait of Hormuz could hit global supply",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/latest-oil-market-news-and-analysis-for-march-10",
-        "publishedAt": "2026-03-09T23:12:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Burgum: Trump's Iran Policy Will Bring 'World Peace and Economic Stability'",
-        "description": "On Monday, on Fox News Channel's \"The Story,\" Interior Secretary Doug Burgum said President Donald Trump's policy toward Iran woukd bring \"lower prices and world peace and economic stability for decades to come.\"\nThe post Burgum: Trump’s Iran Policy Will Brin…",
-        "url": "https://www.breitbart.com/clips/2026/03/09/burgum-trumps-iran-policy-will-bring-world-peace-and-economic-stability/",
-        "publishedAt": "2026-03-09T22:24:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stocks Rally and Oil Sinks After Trump's Remarks Reassure Investors That Iran War Is 'Very Complete'",
-        "description": "Stocks rose and oil prices fell on Monday after President Trump indicated that the war with Iran was nearing its end.\nThe post Stocks Rally and Oil Sinks After Trump’s Remarks Reassure Investors That Iran War Is ‘Very Complete’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/03/09/stocks-rally-oil-falls/",
-        "publishedAt": "2026-03-09T21:19:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iranian Women Soccer Players Safe with Australian Police After Asylum Push from Trump",
-        "description": "Five members of Iran's women's soccer team are now safely under the protection of the Australian government after President Trump's strong uring that they be given asylum.\nThe post Iranian Women Soccer Players Safe with Australian Police After Asylum Push fro…",
-        "url": "https://www.breitbart.com/sports/2026/03/09/iranian-women-soccer-players-safe-australian-police-after-asylum-push-trump/",
-        "publishedAt": "2026-03-09T15:39:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "EXCLUSIVE -- Afghan Christians Fleeing Taliban Face Deadly Threats in Neighboring Muslim Countries",
-        "description": "Afghan Christian refugees in Central Asia who escaped the Taliban, especially women, are facing tremendous threats of physical harm, deportation, and social vulnerability in their new countries, most of them Muslim-majority states, the Christian humanitarian …",
-        "url": "https://www.breitbart.com/faith/2026/03/09/exclusive-afghan-christians-fleeing-taliban-face-deadly-threats-in-neighboring-muslim-countries/",
-        "publishedAt": "2026-03-09T14:25:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "MICHAEL OREN: Iran has waged war on America for 47 years — time to end it",
-        "description": "The casus belli for war against Iran stems from 47 years of Iranian aggression including the 1979 embassy crisis and terrorist attacks, making Operation Epic Fury legally justified.",
-        "url": "https://www.foxnews.com/opinion/michael-oren-iran-has-waged-war-america-47-years-time-end",
-        "publishedAt": "2026-03-09T13:08:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "47"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Exclusive: Incoming DHS Chief Markwayne Mullin Warns of Chinese Communist Threat in Long-Form Interview Exposing Belt and Road Initiative",
-        "description": "Sen. Markwayne Mullin (R-OK) told Breitbart News in a long-form exclusive on-camera interview in early February in his U.S. Senate office that the Chinese Communist Party (CCP) has had its plans for global domination through the Belt and Road Initiative disru…",
-        "url": "https://www.breitbart.com/politics/2026/03/09/exclusive-markwayne-mullin-warns-chinese-communist-threat-belt-road-initiative/",
-        "publishedAt": "2026-03-10T01:55:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump says it’s an ‘honor’ to keep Strait of Hormuz open for China and other countries",
-        "description": "President says he will keep the Strait of Hormuz open for the world, including China, while announcing plans to waive oil sanctions to lower energy prices.",
-        "url": "https://www.foxnews.com/world/trump-says-its-honor-keep-strait-hormuz-open-china-other-countries",
-        "publishedAt": "2026-03-10T00:37:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bill Banning Popular Semiautomatic Rifles, High Cap Mags, Clears Virginia Legislature",
-        "description": "A bill banning AR-15s and other popular semiautomatic rifles, as well as magazines holding more than 15 rounds of ammunition, cleared the Virginia legislature Monday and is headed to Gov. Abigail Spanberger’s (D) desk.\nThe post Bill Banning Popular Semiautoma…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/09/bill-banning-popular-semiautomatic-rifles-high-cap-mags-clears-virginia-legislature/",
-        "publishedAt": "2026-03-10T00:09:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Crude prices tumbles 10% as Trump signals Iran war may end soon",
-        "description": "WTI crude fell as much as 10% to around $85, after earlier surging near $120 on fears that escalating West Asia tensions and a blocked Strait of Hormuz could hit global supply",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-09/latest-oil-market-news-and-analysis-for-march-10",
-        "publishedAt": "2026-03-09T23:12:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers",
-        "description": "Federal investigation underway after Pennsylvania students accused of explosive attack outside mayor's residence. ISIS inspiration concerns cited.",
-        "url": "https://www.foxnews.com/us/storage-facility-raided-feds-investigate-alleged-isis-inspired-nyc-bomb-throwers",
-        "publishedAt": "2026-03-09T22:55:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
