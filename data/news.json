@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-12T04:28:31.742448+00:00",
+  "generated_at": "2026-03-12T05:37:03.354217+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Rubio designates Afghanistan as 'state sponsor of wrongful detention': 'Despicable tactics'",
+        "description": "Secretary of State Marco Rubio designated Afghanistan as a state sponsor of wrongful detention, accusing the Taliban of using terrorist tactics against Americans.",
+        "url": "https://www.foxnews.com/world/rubio-designates-afghanistan-state-sponsor-wrongful-detention-despicable-tactics",
+        "publishedAt": "2026-03-11T04:07:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Haleon to invest $87 million in Shanghai oral health plant, bets on China and India growth",
+        "description": "Haleon, which was spun off from GSK and Pfizer in 2022, sells well-known brands such as Sensodyne toothpaste and Advil painkillers, which the company said remain resilient despite inflationary pressures.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/haleon-ceo-targets-china-india-growth-with-new-plant-m-a-push",
+        "publishedAt": "2026-03-11T04:36:05Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Speaker Mike Johnson Sketches 'Course Correction' in DHS Deportation Policy",
+        "description": "Federal deportation policy is undergoing a \"course correction\" amid pushback from swing-voting Latinos, according to House Speaker Mike Johnson.\nThe post Speaker Mike Johnson Sketches ‘Course Correction’ in DHS Deportation Policy appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/03/10/speaker-johnson-sketches-course-correction-dhs-deportation-policy/",
+        "publishedAt": "2026-03-11T04:13:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Telnyx CEO on False AI Doomerism: AI Will Expand Opportunities for Aspiring Workers and Emerging Businesses",
+        "description": "The emerging AI industry has generated many questions on the impacts on Americans’ way of life, but Telnyx CEO David Casem believes the technology will revolutionize businesses and help empower American workers.\nThe post Exclusive — Telnyx CEO on False AI Doo…",
+        "url": "https://www.breitbart.com/politics/2026/03/10/exclusive-telnyx-ceo-ai-expand-opportunities-aspiring-workers-emerging-businesses/",
+        "publishedAt": "2026-03-11T02:47:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Navarro: 'It's Not Just' 'Imminent National Security Threat', Iran Has 'Terror Premium' on Oil Prices",
+        "description": "On Tuesday’s broadcast of Newsmax TV’s “Rob Schmitt Tonight,” White House Senior Counselor for Trade and Manufacturing Peter Navarro discussed Iran and said that “it’s not just that there’s an imminent national security threat because of the ballistic missile…",
+        "url": "https://www.breitbart.com/clips/2026/03/10/navarro-its-not-just-imminent-national-security-threat-iran-has-terror-premium-on-oil-prices/",
+        "publishedAt": "2026-03-11T02:21:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sen. Hyde-Smith set for November clash with Dem foe she once vanquished",
+        "description": "Sen. Cindy Hyde-Smith wins GOP primary to defend her Mississippi Senate seat against Democratic challenger District Attorney Scott Colom in November's general election.",
+        "url": "https://www.foxnews.com/politics/senator-hyde-smith-set-november-clash-dem-foe-she-once-vanquished",
+        "publishedAt": "2026-03-11T01:22:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Asia’s fuel crunch triggers four-day weeks, school closures",
+        "description": "Asia faces fuel shortages, prompting governments to implement four-day work weeks and energy-saving measures amid Middle East supply disruptions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-10/asia-s-fuel-crunch-forces-four-day-weeks-and-school-closures",
+        "publishedAt": "2026-03-11T05:29:15Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Navarro: 'It's Not Just' 'Imminent National Security Threat', Iran Has 'Terror Premium' on Oil Prices",
+        "description": "On Tuesday’s broadcast of Newsmax TV’s “Rob Schmitt Tonight,” White House Senior Counselor for Trade and Manufacturing Peter Navarro discussed Iran and said that “it’s not just that there’s an imminent national security threat because of the ballistic missile…",
+        "url": "https://www.breitbart.com/clips/2026/03/10/navarro-its-not-just-imminent-national-security-threat-iran-has-terror-premium-on-oil-prices/",
+        "publishedAt": "2026-03-11T02:21:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hegseth: Iran’s Military Power ‘Systematically Annihilated’ — War ‘Ends on Our Timeline,’ No 'Endless Nation‑Building’",
+        "description": "War Secretary Pete Hegseth said Tuesday that Iran’s military power is “being systematically degraded and annihilated” as Operation Epic Fury entered its tenth day, declaring the campaign will end “on our timeline and at our choosing” while forcefully pushing …",
+        "url": "https://www.breitbart.com/politics/2026/03/10/hegseth-irans-military-power-being-systematically-annihilated-war-ends-our-timeline/",
+        "publishedAt": "2026-03-11T01:11:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "King Charles, Kate Middleton, Prince William heckled by protesters demanding answers on Andrew’s Epstein ties",
+        "description": "The royal family faced protesters in London on Monday who demanded answers about former Prince Andrew's Epstein connections following his arrest.",
+        "url": "https://www.foxnews.com/entertainment/king-charles-kate-middleton-prince-william-heckled-protesters-demanding-answers-andrews-epstein-ties",
+        "publishedAt": "2026-03-10T23:25:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US strike on key Iran oil hub would fit Trump's 'energy dominance doctrine,' expert says",
+        "description": "Reports indicate President Donald Trump's administration is considering a direct attack on Iran's Kharg Island, which handles 90% of Iranian oil exports near the Strait of Hormuz.",
+        "url": "https://www.foxnews.com/world/us-strike-key-iran-oil-hub-fit-trumps-energy-dominance-doctrine-says-expert",
+        "publishedAt": "2026-03-10T22:06:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "90"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
