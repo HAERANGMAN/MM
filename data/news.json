@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T10:36:24.613581+00:00",
+  "generated_at": "2026-03-12T11:19:24.251101+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Disturbing admissions of serial child molester approved for release spur California lawmakers to act",
-        "description": "Convicted child predator who admitted ongoing attraction to girls pleads not guilty to new charge, halting parole as California Republicans push to overhaul elderly parole law.",
-        "url": "https://www.foxnews.com/us/disturbing-admissions-serial-child-molester-approved-release-spur-california-lawmakers-act",
-        "publishedAt": "2026-03-11T10:10:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Male fertility rates crash as doctors reveal health threats: 'Something very wrong'",
-        "description": "Male fertility issues spark debate, as studies show conflicting results on sperm counts. Experts reveal the complex reality behind declining birth rates.",
-        "url": "https://www.foxnews.com/health/male-fertility-rates-crash-doctors-reveal-health-threats-something-very-wrong",
-        "publishedAt": "2026-03-11T10:10:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Whoops! Ending Nuclear Power May Have Been a Mistake After All, Says EU Chief",
-        "description": "Europe's mad dash to decommission its nuclear power plants was a \"strategic mistake\", Commission boss Ursula von der Leyen has admitted.\nThe post Whoops! Ending Nuclear Power May Have Been a Mistake After All, Says EU Chief appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/03/11/whoops-ending-nuclear-power-may-have-been-a-mistake-after-all-says-eu-chief/",
-        "publishedAt": "2026-03-11T09:22:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump ends Biden’s drug price nightmare — Americans get real relief with TrumpRx",
-        "description": "President Trump's healthcare policies protect patient choice and restore trust while addressing ongoing public health challenges effectively.",
-        "url": "https://www.foxnews.com/opinion/trump-ends-bidens-drug-price-nightmare-americans-get-real-relief-trumprx",
-        "publishedAt": "2026-03-11T09:20:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "REPS. FINE, SELF, HARRIS, Enough is enough: We'll block the Senate until the SAVE Act passes",
-        "description": "House Republicans threaten to block Senate legislation until Majority Leader John Thune passes the SAVE America Act requiring voter ID and citizenship proof for elections.",
-        "url": "https://www.foxnews.com/opinion/reps-fine-self-harris-enough-is-enough-well-block-senate-until-save-act-passes",
-        "publishedAt": "2026-03-11T09:20:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Australian official touts bravery of Iranian women's soccer team as some receive asylum",
-        "description": "An Australian city official lamented to Fox News that the government didn't do more to help the Iranian women's soccer team stay in the country.",
-        "url": "https://www.foxnews.com/sports/australian-official-touts-bravery-iranian-womens-soccer-team-some-receive-asylum",
-        "publishedAt": "2026-03-11T10:10:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Tom Cotton puts Biden on notice while demanding answers on draining of nation’s oil stockpile",
-        "description": "A top Senate Republican alleged that former President Joe Biden used the SPR as a political tool, and demanded to know how his energy policy hampered the nation's oil reserves.",
-        "url": "https://www.foxnews.com/politics/tom-cotton-puts-biden-notice-demanding-answers-draining-nations-oil-stockpile",
-        "publishedAt": "2026-03-11T10:10:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Adani Energy raises $500 million bilateral debt from Apollo",
-        "description": "Adani Energy secures $500 million in private bonds from Apollo to refinance dollar debt amid shifting funding strategies.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-11/adani-energy-raises-500-million-bilateral-debt-from-apollo",
-        "publishedAt": "2026-03-11T07:30:34Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Global banks push back on India’s offshore rupee reporting plan",
-        "description": "Banks say reporting requirements could breach client confidentiality and clash with overseas data rules",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-11/inr-usd-global-banks-push-back-on-india-s-offshore-fx-reporting-plan",
-        "publishedAt": "2026-03-11T05:54:53Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Asia’s fuel crunch triggers four-day weeks, school closures",
-        "description": "Asia faces fuel shortages, prompting governments to implement four-day work weeks and energy-saving measures amid Middle East supply disruptions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-10/asia-s-fuel-crunch-forces-four-day-weeks-and-school-closures",
-        "publishedAt": "2026-03-11T05:29:15Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Navarro: 'It's Not Just' 'Imminent National Security Threat', Iran Has 'Terror Premium' on Oil Prices",
-        "description": "On Tuesday’s broadcast of Newsmax TV’s “Rob Schmitt Tonight,” White House Senior Counselor for Trade and Manufacturing Peter Navarro discussed Iran and said that “it’s not just that there’s an imminent national security threat because of the ballistic missile…",
-        "url": "https://www.breitbart.com/clips/2026/03/10/navarro-its-not-just-imminent-national-security-threat-iran-has-terror-premium-on-oil-prices/",
-        "publishedAt": "2026-03-11T02:21:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
