@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T05:37:03.354217+00:00",
+  "generated_at": "2026-03-12T06:32:29.380920+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Global banks push back on India’s offshore rupee reporting plan",
+        "description": "Banks say reporting requirements could breach client confidentiality and clash with overseas data rules",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/inr-usd-global-banks-push-back-on-india-s-offshore-fx-reporting-plan",
+        "publishedAt": "2026-03-11T05:54:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Haleon to invest $87 million in Shanghai oral health plant, bets on China and India growth",
         "description": "Haleon, which was spun off from GSK and Pfizer in 2022, sells well-known brands such as Sensodyne toothpaste and Advil painkillers, which the company said remain resilient despite inflationary pressures.",
@@ -54,21 +64,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sen. Hyde-Smith set for November clash with Dem foe she once vanquished",
-        "description": "Sen. Cindy Hyde-Smith wins GOP primary to defend her Mississippi Senate seat against Democratic challenger District Attorney Scott Colom in November's general election.",
-        "url": "https://www.foxnews.com/politics/senator-hyde-smith-set-november-clash-dem-foe-she-once-vanquished",
-        "publishedAt": "2026-03-11T01:22:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Global banks push back on India’s offshore rupee reporting plan",
+        "description": "Banks say reporting requirements could breach client confidentiality and clash with overseas data rules",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/inr-usd-global-banks-push-back-on-india-s-offshore-fx-reporting-plan",
+        "publishedAt": "2026-03-11T05:54:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Asia’s fuel crunch triggers four-day weeks, school closures",
         "description": "Asia faces fuel shortages, prompting governments to implement four-day work weeks and energy-saving measures amid Middle East supply disruptions.",
@@ -108,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "US strike on key Iran oil hub would fit Trump's 'energy dominance doctrine,' expert says",
-        "description": "Reports indicate President Donald Trump's administration is considering a direct attack on Iran's Kharg Island, which handles 90% of Iranian oil exports near the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/world/us-strike-key-iran-oil-hub-fit-trumps-energy-dominance-doctrine-says-expert",
-        "publishedAt": "2026-03-10T22:06:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "90"
       }
     ]
   },
