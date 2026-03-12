@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-12T08:58:37.591114+00:00",
+  "generated_at": "2026-03-12T09:54:53.954472+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Rubio designates Afghanistan as 'state sponsor of wrongful detention': 'Despicable tactics'",
+        "description": "Secretary of State Marco Rubio designated Afghanistan as a state sponsor of wrongful detention, accusing the Taliban of using terrorist tactics against Americans.",
+        "url": "https://www.foxnews.com/world/rubio-designates-afghanistan-state-sponsor-wrongful-detention-despicable-tactics",
+        "publishedAt": "2026-03-11T04:07:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Whoops! Ending Nuclear Power May Have Been a Mistake After All, Says EU Chief",
+        "description": "Europe's mad dash to decommission its nuclear power plants was a \"strategic mistake\", Commission boss Ursula von der Leyen has admitted.\nThe post Whoops! Ending Nuclear Power May Have Been a Mistake After All, Says EU Chief appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/03/11/whoops-ending-nuclear-power-may-have-been-a-mistake-after-all-says-eu-chief/",
+        "publishedAt": "2026-03-11T09:22:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump ends Biden’s drug price nightmare — Americans get real relief with TrumpRx",
+        "description": "President Trump's healthcare policies protect patient choice and restore trust while addressing ongoing public health challenges effectively.",
+        "url": "https://www.foxnews.com/opinion/trump-ends-bidens-drug-price-nightmare-americans-get-real-relief-trumprx",
+        "publishedAt": "2026-03-11T09:20:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "REPS. FINE, SELF, HARRIS, Enough is enough: We'll block the Senate until the SAVE Act passes",
+        "description": "House Republicans threaten to block Senate legislation until Majority Leader John Thune passes the SAVE America Act requiring voter ID and citizenship proof for elections.",
+        "url": "https://www.foxnews.com/opinion/reps-fine-self-harris-enough-is-enough-well-block-senate-until-save-act-passes",
+        "publishedAt": "2026-03-11T09:20:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Adani Energy raises $500 million bilateral debt from Apollo",
+        "description": "Adani Energy secures $500 million in private bonds from Apollo to refinance dollar debt amid shifting funding strategies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/adani-energy-raises-500-million-bilateral-debt-from-apollo",
+        "publishedAt": "2026-03-11T07:30:34Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Airlines hike fares amid swinging oil prices, jet fuel shortage fears",
+        "description": "Airlines across Asia raise fares and fuel surcharges amid volatile oil prices and fears of jet fuel shortages.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/airlines-raise-fares-fuel-surcharges-as-iran-war-whipsaws-oil",
+        "publishedAt": "2026-03-11T06:41:56Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Adani Energy raises $500 million bilateral debt from Apollo",
+        "description": "Adani Energy secures $500 million in private bonds from Apollo to refinance dollar debt amid shifting funding strategies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/adani-energy-raises-500-million-bilateral-debt-from-apollo",
+        "publishedAt": "2026-03-11T07:30:34Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Global banks push back on India’s offshore rupee reporting plan",
+        "description": "Banks say reporting requirements could breach client confidentiality and clash with overseas data rules",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/inr-usd-global-banks-push-back-on-india-s-offshore-fx-reporting-plan",
+        "publishedAt": "2026-03-11T05:54:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Asia’s fuel crunch triggers four-day weeks, school closures",
+        "description": "Asia faces fuel shortages, prompting governments to implement four-day work weeks and energy-saving measures amid Middle East supply disruptions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-10/asia-s-fuel-crunch-forces-four-day-weeks-and-school-closures",
+        "publishedAt": "2026-03-11T05:29:15Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Navarro: 'It's Not Just' 'Imminent National Security Threat', Iran Has 'Terror Premium' on Oil Prices",
+        "description": "On Tuesday’s broadcast of Newsmax TV’s “Rob Schmitt Tonight,” White House Senior Counselor for Trade and Manufacturing Peter Navarro discussed Iran and said that “it’s not just that there’s an imminent national security threat because of the ballistic missile…",
+        "url": "https://www.breitbart.com/clips/2026/03/10/navarro-its-not-just-imminent-national-security-threat-iran-has-terror-premium-on-oil-prices/",
+        "publishedAt": "2026-03-11T02:21:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hegseth: Iran’s Military Power ‘Systematically Annihilated’ — War ‘Ends on Our Timeline,’ No 'Endless Nation‑Building’",
+        "description": "War Secretary Pete Hegseth said Tuesday that Iran’s military power is “being systematically degraded and annihilated” as Operation Epic Fury entered its tenth day, declaring the campaign will end “on our timeline and at our choosing” while forcefully pushing …",
+        "url": "https://www.breitbart.com/politics/2026/03/10/hegseth-irans-military-power-being-systematically-annihilated-war-ends-our-timeline/",
+        "publishedAt": "2026-03-11T01:11:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
