@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T10:02:26.006214+00:00",
+  "generated_at": "2026-03-13T10:52:36.892014+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Illinois guaranteed income advocates push for permanent statewide cash handout program",
+        "description": "Officials in Cook County, Illinois crafted rules for a permanent guaranteed income program, building on pilot that provided 3,250 families with $500 monthly.",
+        "url": "https://www.foxnews.com/media/illinois-guaranteed-income-advocates-push-permanent-statewide-cash-handout-program",
+        "publishedAt": "2026-03-12T10:08:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
       {
         "title": "Trump endorses Texas congressional candidate after rival drops out over affair scandal",
         "description": "President Donald Trump endorsed Texas Republican Brandon Herrera after Rep. Tony Gonzales bowed out of the race amid a House Ethics investigation into an admitted affair with a former staffer.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Victor Davis Hanson: Iran Launched About 5 Times More Missiles At Israel And Achieved Fewer Results",
-        "description": "Hoover Institution senior fellow Victor Davis Hanson discusses how the Trump administration is handling the conflict in Iran on 'The Ingraham Angle.'",
-        "url": "https://www.foxnews.com/video/6390762630112",
-        "publishedAt": "2026-03-12T00:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
       }
     ],
     "news-korea-soc": [
