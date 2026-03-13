@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-03-13T10:52:36.892014+00:00",
+  "generated_at": "2026-03-13T11:23:53.544098+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump’s Middle East envoy reveals what led to breakdown in Iran talks before Operation Epic Fury",
-        "description": "U.S. Middle East envoy reveals what led to the collapse of the Iran nuclear talks, ultimately leading to Operation Epic Fury launch.",
-        "url": "https://www.foxnews.com/media/trumps-middle-east-envoy-reveals-what-led-breakdown-iran-talks-before-operation-epic-fury",
-        "publishedAt": "2026-03-11T14:07:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Illinois guaranteed income advocates push for permanent statewide cash handout program",
-        "description": "Officials in Cook County, Illinois crafted rules for a permanent guaranteed income program, building on pilot that provided 3,250 families with $500 monthly.",
-        "url": "https://www.foxnews.com/media/illinois-guaranteed-income-advocates-push-permanent-statewide-cash-handout-program",
-        "publishedAt": "2026-03-12T10:08:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Trump endorses Texas congressional candidate after rival drops out over affair scandal",
-        "description": "President Donald Trump endorsed Texas Republican Brandon Herrera after Rep. Tony Gonzales bowed out of the race amid a House Ethics investigation into an admitted affair with a former staffer.",
-        "url": "https://www.foxnews.com/politics/trump-endorses-brandon-herrera-texas-23-gonzales-ethics-exit",
-        "publishedAt": "2026-03-12T09:09:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump suddenly seems anxious to end the war as American casualties mount and Iran finds ways to hit back",
-        "description": "Trump's military campaign against Iran is facing unexpected resistance, as officials report 140 U.S. service members were wounded in initial strikes.",
-        "url": "https://www.foxnews.com/media/trump-suddenly-seems-anxious-end-war-american-casualties-mount-iran-finds-ways-hit-back",
-        "publishedAt": "2026-03-12T07:50:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "140"
-      },
-      {
-        "title": "BlackRock CEO Larry Fink argues US-Iran conflict won't derail economy as gas prices surge",
-        "description": "BlackRock CEO Larry Fink predicts the U.S. war with Iran will not last long, and oil prices could fall below $50 per barrel once the conflict ends and Iran reenters global markets.",
-        "url": "https://www.foxnews.com/media/blackrock-ceo-larry-fink-argues-us-iran-conflict-wont-derail-economy-gas-prices-surge",
-        "publishedAt": "2026-03-12T00:25:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "'Unprecedented' agreement releases emergency oil reserves as gas prices spark concerns",
-        "description": "A cohort of developed nations agreed to release a record amount of emergency oil reserves Wednesday amid the impact that the U.S. attacks against Iran have had on the oil market.",
-        "url": "https://www.foxnews.com/politics/unprecedented-agreement-releases-emergency-oil-reserves-gas-prices-spark-concerns",
-        "publishedAt": "2026-03-12T00:25:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "North Korea Elbows into Iran Conflict, Pledging Support for 'Supreme Leader'",
-        "description": "North Korea on Wednesday announced its support for Iran’s new Supreme Leader, Mojtaba Khamenei, and denounced what it called “illegal” attacks on Iran by the United States and Israel.\nThe post North Korea Elbows into Iran Conflict, Pledging Support for ‘Supre…",
-        "url": "https://www.breitbart.com/asia/2026/03/11/north-korea-elbows-into-iran-conflict-pledging-support-for-supreme-leader/",
-        "publishedAt": "2026-03-11T21:40:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Airport security strain during shutdown grows as unpaid TSA officers warn, ‘We’re hurting’",
-        "description": "TSA agents are working without paychecks as the government shutdown continues, with an officer sharing financial struggles and family hardships during the funding lapse.",
-        "url": "https://www.foxnews.com/travel/airport-security-strain-shutdown-grows-unpaid-tsa-officers-warn-were-hurting",
-        "publishedAt": "2026-03-12T09:23:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive— Trump Administration Official: China Threatened to Detain All Panamanian-Flagged Vessels at Chinese Ports",
-        "description": "A Trump administration official told Breitbart News that Chinese officials have now threatened to detain Panamanian-flagged vessels in China, something that could disrupt global commerce and represents retaliation against Panama for recent developments taking…",
-        "url": "https://www.breitbart.com/politics/2026/03/11/exclusive-trump-administration-official-china-threatened-detain-panamanian-flagged-vessels/",
-        "publishedAt": "2026-03-12T03:01:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "One Billion Identity Records Across 26 Countries Exposed in Data Leak",
-        "description": "Roughly one billion sensitive records across 26 countries have been exposed as part of a massive data leak, although the company impacted maintains it has no indication that customer data has been compromised.\nThe post One Billion Identity Records Across 26 C…",
-        "url": "https://www.breitbart.com/politics/2026/03/11/one-billion-identity-records-26-countries-exposed-data-leak/",
-        "publishedAt": "2026-03-12T01:16:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "26"
-      },
-      {
-        "title": "BlackRock CEO Larry Fink argues US-Iran conflict won't derail economy as gas prices surge",
-        "description": "BlackRock CEO Larry Fink predicts the U.S. war with Iran will not last long, and oil prices could fall below $50 per barrel once the conflict ends and Iran reenters global markets.",
-        "url": "https://www.foxnews.com/media/blackrock-ceo-larry-fink-argues-us-iran-conflict-wont-derail-economy-gas-prices-surge",
-        "publishedAt": "2026-03-12T00:25:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "'Unprecedented' agreement releases emergency oil reserves as gas prices spark concerns",
-        "description": "A cohort of developed nations agreed to release a record amount of emergency oil reserves Wednesday amid the impact that the U.S. attacks against Iran have had on the oil market.",
-        "url": "https://www.foxnews.com/politics/unprecedented-agreement-releases-emergency-oil-reserves-gas-prices-spark-concerns",
-        "publishedAt": "2026-03-12T00:25:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
