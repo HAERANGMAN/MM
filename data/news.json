@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T15:11:47.958646+00:00",
+  "generated_at": "2026-03-13T15:58:32.454248+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Hollywood Celebrities Get Increased Oscars Security After FBI Warns of Possible Iranian Drone ‘Surprise Attack’",
+        "description": "Oscars security will be enhanced this Sunday as the FBI, LAPD, and others, work together to shield the event from an Iranian drone attack.\nThe post Hollywood Celebrities Get Increased Oscars Security After FBI Warns of Possible Iranian Drone ‘Surprise Attack’…",
+        "url": "https://www.breitbart.com/entertainment/2026/03/12/hollywood-celebrities-get-increased-oscars-security-after-fbi-warns-of-possible-iranian-drone-surprise-attack/",
+        "publishedAt": "2026-03-12T15:36:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "DAVID MARCUS: The more America gives Mamdani, Khalil and the mad bombers, the more they hate us",
         "description": "NYC's first Muslim mayor Zohran Mamdani faces scrutiny over Ramadan celebrations at Gracie Mansion and alleged connections to activist Mahmoud Khalil.",
         "url": "https://www.foxnews.com/opinion/david-marcus-more-america-gives-mamdani-khalil-mad-bombers-more-hate-us",
@@ -93,16 +103,6 @@
         "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
         "url": "https://www.foxnews.com/us/pentagon-rushes-counter-drone-tech-as-iranian-swarms-strain-missile-defenses-more-top-headlines",
         "publishedAt": "2026-03-12T11:39:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "STEVE MOORE: Five energy truths the media ignore as America’s oil boom blunts the Iran war’s impact",
-        "description": "United States achieves energy independence with highest oil production ever recorded, reducing Middle East reliance as conflicts disrupt global supply chains.",
-        "url": "https://www.foxnews.com/opinion/steve-moore-five-energy-truths-media-ignore-americas-oil-boom-blunts-iran-wars-impact",
-        "publishedAt": "2026-03-12T11:22:06Z",
         "source": {
           "name": "Fox News"
         },
