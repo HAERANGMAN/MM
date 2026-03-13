@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-03-13T15:58:32.454248+00:00",
+  "generated_at": "2026-03-13T16:50:52.241841+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Report: Hollywood's Democrat Donor Class Plots Resurgence, Sidelines Jeffrey Katzenberg After Biden Debacle",
-        "description": "DreamWorks co-founder Jeffrey Katzenberg has reportedly been sidelined in the Hollywood Democrat donor scene after his failed campaign in support of former President Joe Biden.\nThe post Report: Hollywood’s Democrat Donor Class Plots Resurgence, Sidelines Jeff…",
-        "url": "https://www.breitbart.com/entertainment/2026/03/12/report-jeffrey-katzenberg-sidelined-in-hollywood-democrat-donor-scene-after-joe-biden-debacle/",
-        "publishedAt": "2026-03-12T13:30:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Powell's behind-the-scenes move after Trump's DOJ opened its criminal probe",
-        "description": "Federal Reserve Chair Jerome Powell made 13 calls to lawmakers after the Justice Department opened a criminal probe into his congressional testimony about the Fed's renovations.",
-        "url": "https://www.foxnews.com/politics/powells-behind-the-scenes-move-after-trumps-doj-opened-its-criminal-probe",
-        "publishedAt": "2026-03-12T13:25:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "13"
-      },
-      {
-        "title": "Iran war jeopardizes Trump economic boom before key midterm elections",
-        "description": "Deutsche Bank analysis shows Iran conflict could spark recession if oil price spikes for an extended period, but strong GDP growth provides economic cushion.",
-        "url": "https://www.foxnews.com/opinion/iran-war-jeopardizes-trump-economic-boom-before-key-midterm-elections",
-        "publishedAt": "2026-03-12T13:25:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NJ teen desperately seeking help to find kidney donor | Fox News Video",
-        "description": "Thaddeus Giansanti joined 'Fox & Friends' alongside his parents to discuss his journey to find a kidney match and how viewers can begin the screening process if they want to help.",
-        "url": "https://www.foxnews.com/video/6390783489112",
-        "publishedAt": "2026-03-12T12:22:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pentagon rushes counter-drone tech as Iranian swarms strain missile defenses and more top headlines",
-        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "url": "https://www.foxnews.com/us/pentagon-rushes-counter-drone-tech-as-iranian-swarms-strain-missile-defenses-more-top-headlines",
-        "publishedAt": "2026-03-12T11:39:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Hollywood Celebrities Get Increased Oscars Security After FBI Warns of Possible Iranian Drone ‘Surprise Attack’",
-        "description": "Oscars security will be enhanced this Sunday as the FBI, LAPD, and others, work together to shield the event from an Iranian drone attack.\nThe post Hollywood Celebrities Get Increased Oscars Security After FBI Warns of Possible Iranian Drone ‘Surprise Attack’…",
-        "url": "https://www.breitbart.com/entertainment/2026/03/12/hollywood-celebrities-get-increased-oscars-security-after-fbi-warns-of-possible-iranian-drone-surprise-attack/",
-        "publishedAt": "2026-03-12T15:36:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DAVID MARCUS: The more America gives Mamdani, Khalil and the mad bombers, the more they hate us",
-        "description": "NYC's first Muslim mayor Zohran Mamdani faces scrutiny over Ramadan celebrations at Gracie Mansion and alleged connections to activist Mahmoud Khalil.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-more-america-gives-mamdani-khalil-mad-bombers-more-hate-us",
-        "publishedAt": "2026-03-12T14:06:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran's President Demands 'Reparations' to Stop War",
-        "description": "Iranian President Masoud Pezeshkian, a subordinate of the \"supreme leader\" who has largely abstained from commentary during the ongoing war with the United States, announced on Thursday that Iran would agree to end the conflict if America and Israel paid \"rep…",
-        "url": "https://www.breitbart.com/middle-east/2026/03/12/irans-president-demands-reparations-to-stop-war/",
-        "publishedAt": "2026-03-12T14:00:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran war jeopardizes Trump economic boom before key midterm elections",
-        "description": "Deutsche Bank analysis shows Iran conflict could spark recession if oil price spikes for an extended period, but strong GDP growth provides economic cushion.",
-        "url": "https://www.foxnews.com/opinion/iran-war-jeopardizes-trump-economic-boom-before-key-midterm-elections",
-        "publishedAt": "2026-03-12T13:25:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pentagon rushes counter-drone tech as Iranian swarms strain missile defenses and more top headlines",
-        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "url": "https://www.foxnews.com/us/pentagon-rushes-counter-drone-tech-as-iranian-swarms-strain-missile-defenses-more-top-headlines",
-        "publishedAt": "2026-03-12T11:39:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
