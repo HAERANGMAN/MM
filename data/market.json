@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-13T06:10:22.421699+00:00",
-  "insight": "Raw data summary: NASDAQ +0.00%, S&P 500 +0.00%, KOSPI -1.82%, USD/KRW +0.34%",
-  "errors": [
-    "Dollar Index: yahoo fail DX-Y.NYB 5y/1d: HTTP Error 500: Internal Server Error"
-  ],
+  "generated_at": "2026-03-13T07:12:49.747301+00:00",
+  "insight": "Raw data summary: NASDAQ +0.00%, S&P 500 +0.00%, KOSPI -1.72%, USD/KRW +0.34%",
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
@@ -26,19 +24,19 @@
     {
       "key": "KOSPI",
       "label": "KOSPI",
-      "price": 5481.47998046875,
-      "dod": -1.8227738240496127,
-      "mom": 2.371649597537697,
-      "yoy": 112.9855072683738,
+      "price": 5487.240234375,
+      "dod": -1.719603557515784,
+      "mom": 2.47922760504381,
+      "yoy": 113.20932466889131,
       "raw_points": 1223
     },
     {
       "key": "KOSDAQ",
       "label": "KOSDAQ",
-      "price": 1152.1099853515625,
-      "dod": 0.32305475954625645,
-      "mom": 3.3402989045786082,
-      "yoy": 59.39540741685248,
+      "price": 1152.9599609375,
+      "dod": 0.3970686543449069,
+      "mom": 3.416538788121995,
+      "yoy": 59.51300227024101,
       "raw_points": 1222
     },
     {
@@ -53,29 +51,29 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 71504.9296875,
-      "dod": 1.8517898227564968,
-      "mom": 6.736570101919866,
-      "yoy": -11.794945481816768,
-      "raw_points": 1826
+      "price": 71463.9921875,
+      "dod": 1.3767677697942506,
+      "mom": 6.67546203066319,
+      "yoy": -11.845444019961185,
+      "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 106629672.0,
-      "dod": 2.8436040167056413,
-      "mom": 10.128653136578624,
-      "yoy": -9.517047132403706,
-      "raw_points": 1826
+      "price": 106820248.0,
+      "dod": 2.6376251864806592,
+      "mom": 10.325482760139284,
+      "yoy": -9.355329677006347,
+      "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 99.28600311279297,
+      "dod": 0.0564342980599749,
+      "mom": 2.568181800269078,
+      "yoy": -4.173339901637437,
+      "raw_points": 1258
     },
     {
       "key": "USD/JPY",
