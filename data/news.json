@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T18:44:15.236049+00:00",
+  "generated_at": "2026-03-14T19:16:44.831201+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -12,7 +12,7 @@
     "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "The read operation timed out",
     "news-thai-soc": "HTTP Error 429: Too Many Requests",
     "news-global-soc": "HTTP Error 429: Too Many Requests"
   },
