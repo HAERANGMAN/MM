@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-03-14T19:59:19.828570+00:00",
+  "generated_at": "2026-03-14T20:39:17.468577+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Judge Throws Out Justice Department Subpoenas to Federal Reserve, Pirro Attacks Decision",
-        "description": "A federal judge has quashed two Justice Department subpoenas targeting the Federal Reserve, the Wall Street Journal reported Friday, delivering a significant legal victory to the central bank and a serious setback to the criminal probe that U.S. Attorney Jean…",
-        "url": "https://www.breitbart.com/economy/2026/03/13/fed-subpoena-tossed/",
-        "publishedAt": "2026-03-13T19:37:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "bp"
-      },
-      {
-        "title": "Job Openings Rise, Layoffs Fall as Labor Demand Firms",
-        "description": "U.S. job openings rose in January while layoffs declined and workers continued to quit jobs at a steady pace, pointing to firm labor demand even as hiring remained restrained.\nThe post Job Openings Rise, Layoffs Fall as Labor Demand Firms appeared first on Br…",
-        "url": "https://www.breitbart.com/economy/2026/03/13/job-openings-rise-layoffs-fall-as-labor-demand-firms/",
-        "publishedAt": "2026-03-13T19:20:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese Lawmaker Proposes Sex Ed in Kindergarten to Boost Flagging Birthrates",
-        "description": "Chen Wei, a deputy to China’s rubber-stamp National People’s Congress, on Wednesday suggested teaching mandatory sex ed classes to kindergarten children in a desperate effort to shore up China’s collapsing birthrates.\nThe post Chinese Lawmaker Proposes Sex Ed…",
-        "url": "https://www.breitbart.com/asia/2026/03/13/chinese-lawmaker-proposes-sex-ed-in-kindergarten-to-boost-flagging-birthrates/",
-        "publishedAt": "2026-03-13T17:06:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrat Rep Josh Riley blasted as 'hypocrite' over ties to energy firm he criticizes on campaign trail",
-        "description": "A competitive House race in upstate New York heats up as Republican Peter Oberacker attacks Democrat Josh Riley over his ties to a utility company.",
-        "url": "https://www.foxnews.com/politics/gop-challenger-brands-dem-rep-josh-riley-hypocrite-over-ties-energy-firm-he-blasts-campaign-trail",
-        "publishedAt": "2026-03-13T16:35:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Electric Dreams Are Fading: Honda Cancels 3 EVs Intended for U.S. Market",
-        "description": "Honda has announced the cancellation of three electric vehicles that were slated for U.S. production, marking a significant shift in the automaker's EV strategy.\nThe post Electric Dreams Are Fading: Honda Cancels 3 EVs Intended for U.S. Market appeared first …",
-        "url": "https://www.breitbart.com/tech/2026/03/13/electric-dreams-are-fading-honda-cancels-3-evs-intended-for-u-s-market/",
-        "publishedAt": "2026-03-13T15:56:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open",
-        "description": "Iran's top diplomat at the United Nations declared Thursday, \"We are not going to close the Strait of Hormuz.\"\nThe post Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/03/13/iranian-official-defies-purported-message-cardboard-khamenei-says-strait-hormuz-open/",
-        "publishedAt": "2026-03-13T15:28:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iran deploys explosive ‘suicide skiffs’ disguised as fishing boats in Strait of Hormuz",
-        "description": "Iranian suicide skiffs threaten global shipping as Supreme Leader vows to keep Strait of Hormuz closed, prompting U.S. Navy escort discussions and surging oil price",
-        "url": "https://www.foxnews.com/world/iran-deploys-explosive-suicide-skiffs-disguised-fishing-boats-strait-hormuz",
-        "publishedAt": "2026-03-13T19:06:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gingrich: If Iranians Had Their Way, Threat Would Be Nuclear Weapons Taking Out a U.S. City",
-        "description": "Friday on Fox Business Network's \"Mornings with Maria,\" former House Speaker Newt Gingrich warned that if the United States had been unwilling to take on the threat from Iran, the ultimate consequence would be nuclear weapons used against American cities.\nThe…",
-        "url": "https://www.breitbart.com/clips/2026/03/13/gingrich-if-iranians-had-their-way-the-threat-would-be-nuclear-weapons-taking-out-a-u-s-city/",
-        "publishedAt": "2026-03-13T18:22:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Serial Number 'Obliterated' on Gun Used in Old Dominion Attack",
-        "description": "A law enforcement official told the Associated Press that the serial number on the gun used in the Old Dominion University shooting was \"obliterated.\"\nThe post Report: Serial Number ‘Obliterated’ on Gun Used in Old Dominion Attack appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/13/serial-number-obliterated-on-gun-used-in-old-dominion-attack/",
-        "publishedAt": "2026-03-13T17:35:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "France Names Soldier Killed By 'Shahed Drone' Strike on Iraq Military Base Overnight",
-        "description": "France has named highly decorated elite infantryman Chief Warrant Officer Arnaud Frion as the soldier killed in a drone strike overnight.\nThe post France Names Soldier Killed By ‘Shahed Drone’ Strike on Iraq Military Base Overnight appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/03/13/france-names-soldier-killed-by-shahed-drone-strike-overnight/",
-        "publishedAt": "2026-03-13T17:34:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "More Trash Talk from Tehran: Iranians Vow to Teach U.S. an 'Unforgettable Lesson'",
-        "description": "Various Iranian officials reinforced their disposition towards continuing the war against the United States and Israel without dialogue on Friday, led by the Foreign Ministry's declaration that America would soon learn an \"unforgettable lesson.\"\nThe post More…",
-        "url": "https://www.breitbart.com/middle-east/2026/03/13/more-trash-talk-from-tehran-iranians-vow-to-teach-u-s-an-unforgettable-lesson/",
-        "publishedAt": "2026-03-13T17:08:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
