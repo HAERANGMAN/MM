@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-14T15:00:59.875597+00:00",
+  "generated_at": "2026-03-14T15:37:22.733808+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open",
+        "description": "Iran's top diplomat at the United Nations declared Thursday, \"We are not going to close the Strait of Hormuz.\"\nThe post Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/03/13/iranian-official-defies-purported-message-cardboard-khamenei-says-strait-hormuz-open/",
+        "publishedAt": "2026-03-13T15:28:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fourth Quarter Growth Was Much Weaker Than Previously Thought",
+        "description": "U.S. economic growth in the fourth quarter was much weaker than first reported, with revised data Friday showing gross domestic product rose at a 0.7 percent annual rate instead of the previously estimated 1.4 percent.\nThe post Fourth Quarter Growth Was Much …",
+        "url": "https://www.breitbart.com/economy/2026/03/13/fourth-quarter-growth-was-much-weaker-than-previously-thought/",
+        "publishedAt": "2026-03-13T13:32:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "0.7"
+      },
+      {
+        "title": "Trump Tax Cuts Boost Income, Savings",
+        "description": "Americans' disposable income surged in January as the Trump tax cuts began flowing through paychecks, boosting the personal saving rate while consumers held back on spending, according to data released Friday by the Bureau of Economic Analysis.\nThe post Trump…",
+        "url": "https://www.breitbart.com/economy/2026/03/13/tax-cuts-boost-income/",
+        "publishedAt": "2026-03-13T13:12:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LABOR SEC CHAVEZ-DEREMER: Our plan to rescind the Biden independent contractor rule",
+        "description": "Department of Labor releases proposed rule using economic reality test to help employers determine worker classification under Fair Labor Standards Act.",
+        "url": "https://www.foxnews.com/opinion/labor-sec-chavez-deremer-plan-rescind-biden-independent-contractor-rule",
+        "publishedAt": "2026-03-13T13:05:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Live Nation Employee Called Customers ‘Stupid’ in Messages Released in Antitrust Trial: ‘Robbing Them Blind, Baby’",
+        "description": "NEW YORK -- Incendiary internal messages in which a Live Nation employee mocks customers as “so stupid” and says the company is “robbing them blind, baby” have been made public as over two dozen states weigh whether to continue their antitrust trial against t…",
+        "url": "https://www.breitbart.com/entertainment/2026/03/13/live-nation-employee-called-customers-stupid-in-messages-released-in-antitrust-trial-robbing-them-blind-baby/",
+        "publishedAt": "2026-03-13T11:57:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open",
+        "description": "Iran's top diplomat at the United Nations declared Thursday, \"We are not going to close the Strait of Hormuz.\"\nThe post Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/03/13/iranian-official-defies-purported-message-cardboard-khamenei-says-strait-hormuz-open/",
+        "publishedAt": "2026-03-13T15:28:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open",
+        "description": "Iran's top diplomat at the United Nations declared Thursday, \"We are not going to close the Strait of Hormuz.\"\nThe post Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/03/13/iranian-official-defies-purported-message-cardboard-khamenei-says-strait-hormuz-open/",
+        "publishedAt": "2026-03-13T15:28:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sheriff warns Nancy Guthrie suspect could 'absolutely' strike again, hints at motive",
+        "description": "Pima County Sheriff Chris nanos warns Nancy Guthrie's suspected kidnapper could strike again as \"Today\" co-host's mom remains missing 40 days later.",
+        "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
+        "publishedAt": "2026-03-13T15:10:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "LABOR SEC CHAVEZ-DEREMER: Our plan to rescind the Biden independent contractor rule",
+        "description": "Department of Labor releases proposed rule using economic reality test to help employers determine worker classification under Fair Labor Standards Act.",
+        "url": "https://www.foxnews.com/opinion/labor-sec-chavez-deremer-plan-rescind-biden-independent-contractor-rule",
+        "publishedAt": "2026-03-13T13:05:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "VICTORY GARDEN: Cut grocery bills and healthcare costs with one simple backyard habit",
+        "description": "Rising grocery prices got you down? This compelling case for bringing back food literacy and home gardens could slash your grocery bills significantly.",
+        "url": "https://www.foxnews.com/opinion/victory-garden-cut-grocery-bills-healthcare-costs-one-simple-backyard-habit",
+        "publishedAt": "2026-03-13T11:23:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ex-NFL star Shawne Merriman advocating for players to get paid more when TV rights deals explode",
+        "description": "The NFL reportedly wants a new media rights deal done by the start of the 2026 season, and one former player believes the current ones should be getting paid.",
+        "url": "https://www.foxnews.com/sports/ex-nfl-star-shawne-merriman-advocating-players-get-paid-more-when-tv-rights-deals-explode",
+        "publishedAt": "2026-03-13T11:23:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
