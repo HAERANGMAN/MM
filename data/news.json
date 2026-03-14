@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-14T15:37:22.733808+00:00",
+  "generated_at": "2026-03-14T15:55:47.757600+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Why Ozempic users are actually spending more on high-end chocolate",
+        "description": "A new report from Lindt & Sprüngli suggests households using GLP-1 weight-loss medications are driving stronger growth in premium chocolate sales, even as some research shows overall food spending declines.",
+        "url": "https://www.foxnews.com/food-drink/why-ozempic-users-actually-spending-more-high-end-chocolate",
+        "publishedAt": "2026-03-13T15:37:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
       {
         "title": "Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open",
         "description": "Iran's top diplomat at the United Nations declared Thursday, \"We are not going to close the Strait of Hormuz.\"\nThe post Iranian Official Defies Purported Message from Cardboard Khamenei, Says Strait of Hormuz Open appeared first on Breitbart.",
@@ -41,16 +51,6 @@
         "publishedAt": "2026-03-13T13:05:36Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Live Nation Employee Called Customers ‘Stupid’ in Messages Released in Antitrust Trial: ‘Robbing Them Blind, Baby’",
-        "description": "NEW YORK -- Incendiary internal messages in which a Live Nation employee mocks customers as “so stupid” and says the company is “robbing them blind, baby” have been made public as over two dozen states weigh whether to continue their antitrust trial against t…",
-        "url": "https://www.breitbart.com/entertainment/2026/03/13/live-nation-employee-called-customers-stupid-in-messages-released-in-antitrust-trial-robbing-them-blind-baby/",
-        "publishedAt": "2026-03-13T11:57:29Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
