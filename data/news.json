@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-15T19:24:08.879849+00:00",
+  "generated_at": "2026-03-15T19:48:21.061280+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "World Economic Forum faces fresh scrutiny as Epstein ties revive past scandals, criticism",
+        "description": "The World Economic Forum faces renewed scrutiny after Epstein links surfaced, adding to years of controversy surrounding Davos, leadership scandals and criticism of the globalist agenda.",
+        "url": "https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism",
+        "publishedAt": "2026-03-14T18:16:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Transactional partners: How 200-year distrust shapes Russia’s response to the Iran conflict",
+        "description": "From rivalry to military cooperation, the Russia-Iran relationship remains transactional. How Ukraine changed their strategic partnership dynamics.",
+        "url": "https://www.foxnews.com/world/transactional-partners-how-200-year-distrust-shapes-russias-response-iran-conflict",
+        "publishedAt": "2026-03-14T16:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "200"
+      },
+      {
+        "title": "Newly launched coalition with ‘affordability agenda’ vows to attack guaranteed income programs",
+        "description": "New conservative organization argued guaranteed income programs will create fiscal problems and drive inflation as cash assistance programs gain momentum across 15 states.",
+        "url": "https://www.foxnews.com/media/newly-launched-coalition-affordability-agenda-vows-attack-guaranteed-income-programs",
+        "publishedAt": "2026-03-14T16:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Exclusive--O'Donnell: Implement an Anaconda Plan to Free Iran Once and for All",
+        "description": "More than quick, aggressive military action, strategy would be necessary to defeat the South. Winfield Scott's “Anaconda Plan” aimed to strangle the South economically through a naval blockade and other means. Similarly, the air war in Iran, which has been br…",
+        "url": "https://www.breitbart.com/politics/2026/03/14/exclusive-odonnell-implement-an-anaconda-plan-to-free-iran-once-and-for-all/",
+        "publishedAt": "2026-03-14T15:31:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US offers $10M reward for info on Iran’s new supreme leader, top IRGC officials",
+        "description": "The U.S. is offering a $10 million reward for intel on Iran's new Supreme Leader Mojtaba Khamenei and IRGC officials accused of attacks against Americans.",
+        "url": "https://www.foxnews.com/world/us-offers-10m-reward-info-irans-new-supreme-leader-top-irgc-officials",
+        "publishedAt": "2026-03-14T14:58:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Bill Maher presses Gov. Josh Shapiro on Iran war, asks if 'you would still do nothing?'",
+        "description": "Bill Maher challenges Gov. Josh Shapiro on Iran policy during \"Real Time\" debate about nuclear weapons and Middle East military involvement.",
+        "url": "https://www.foxnews.com/media/bill-maher-presses-gov-josh-shapiro-iran-war-asks-you-would-still-do-nothing",
+        "publishedAt": "2026-03-14T19:04:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "World Economic Forum faces fresh scrutiny as Epstein ties revive past scandals, criticism",
+        "description": "The World Economic Forum faces renewed scrutiny after Epstein links surfaced, adding to years of controversy surrounding Davos, leadership scandals and criticism of the globalist agenda.",
+        "url": "https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism",
+        "publishedAt": "2026-03-14T18:16:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stephen Colbert mocked by Variety over 'ego trip' as guests kiss his ring before May exit",
+        "description": "Stephen Colbert's \"Late Show\" final season criticized by Variety correspondent Daniel D'Addario as transforming from resistance to ego trip with celebrity guests flattering the host.",
+        "url": "https://www.foxnews.com/media/stephen-colbert-mocked-variety-over-ego-trip-guests-kiss-his-ring-before-may-exit",
+        "publishedAt": "2026-03-14T18:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran holds world energy hostage with 'nightmare' Strait of Hormuz sea mines, former CENTCOM official warns",
+        "description": "Iran's sea mines in the Strait of Hormuz threaten the global oil supply as President Donald Trump orders strikes on key Iranian island.",
+        "url": "https://www.foxnews.com/media/iran-holds-world-energy-hostage-nightmare-strait-hormuz-sea-mines",
+        "publishedAt": "2026-03-14T17:39:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran using AI to control global narrative as regime can't win on the battlefield, former security chief warns",
+        "description": "Former CISA director warns Iran is allegedly using AI to create false narratives about winning against the U.S., urging people to be careful about online content.",
+        "url": "https://www.foxnews.com/media/iran-using-ai-fake-winning-war-against-us-regime-cant-win-militarily-former-security-chief-warns",
+        "publishedAt": "2026-03-14T14:15:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
