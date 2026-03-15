@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-15T19:48:21.061280+00:00",
+  "generated_at": "2026-03-15T20:03:37.691132+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "'Where's the Money?': California Librarian Questioned on Missing $650,000 Linked to Dolly Parton Initiative",
+        "description": "California's top librarian is accused of failing to produce $650,000 in missing funds linked to a literacy program country music star Dolly Parton began in 1995.\nThe post ‘Where’s the Money?’: California Librarian Questioned on Missing $650,000 Linked to Doll…",
+        "url": "https://www.breitbart.com/education/2026/03/14/wheres-money-california-librarian-questioned-missing-650000-linked-dolly-parton-initiative/",
+        "publishedAt": "2026-03-14T19:58:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "World Economic Forum faces fresh scrutiny as Epstein ties revive past scandals, criticism",
         "description": "The World Economic Forum faces renewed scrutiny after Epstein links surfaced, adding to years of controversy surrounding Davos, leadership scandals and criticism of the globalist agenda.",
@@ -43,16 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "US offers $10M reward for info on Iran’s new supreme leader, top IRGC officials",
-        "description": "The U.S. is offering a $10 million reward for intel on Iran's new Supreme Leader Mojtaba Khamenei and IRGC officials accused of attacks against Americans.",
-        "url": "https://www.foxnews.com/world/us-offers-10m-reward-info-irans-new-supreme-leader-top-irgc-officials",
-        "publishedAt": "2026-03-14T14:58:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
