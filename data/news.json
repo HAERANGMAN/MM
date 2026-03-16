@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-15T23:57:35.995531+00:00",
+  "generated_at": "2026-03-16T02:52:32.456565+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Seahawks GM warns Washington’s new 'millionaire tax' could hurt free agent recruiting",
+        "description": "Seahawks general manager John Schneider pointed to Washington’s new income tax rate on millionaires, warning it could hinder the franchise’s ability to sign top NFL free agents.",
+        "url": "https://www.foxnews.com/sports/seahawks-gm-warns-washingtons-new-millionaire-tax-could-hurt-free-agent-recruiting",
+        "publishedAt": "2026-03-15T02:04:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fmr. Obama Official Rattner: Lack of Immigration Isn't Hurting Job Market, There’s No Shortage",
+        "description": "During an interview aired on Friday’s broadcast of Bloomberg’s “Wall Street Week,” Steve Rattner, who served as counselor to the Treasury Secretary in the Obama administration, said that while he wants more immigration, those who are arguing that a lack\nThe p…",
+        "url": "https://www.breitbart.com/clips/2026/03/14/fmr-obama-official-rattner-lack-of-immigration-isnt-hurting-job-market-theres-no-shortage/",
+        "publishedAt": "2026-03-15T01:33:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mark Levin: The Democrats are acting like they are rooting for the enemy | Fox News Video",
+        "description": "Fox News host Mark Levin argues that Democrats are opposing the Trump administration’s war in Iran for political means on ‘Life, Liberty & Levin.’",
+        "url": "https://www.foxnews.com/video/6390949304112",
+        "publishedAt": "2026-03-15T00:53:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Cigarette smoking in America plummets to historic single-digit low, new study finds",
+        "description": "US adult smoking rates hit historic low of 9.9% in 2024, marking the first time cigarette use dropped to single digits, but 25.2 million Americans still smoke.",
+        "url": "https://www.foxnews.com/health/smoking-rate-america-has-plummeted-record-low",
+        "publishedAt": "2026-03-14T21:17:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9.9"
+      },
+      {
+        "title": "Protesters torch Communist Party HQ in Cuba as video appears to capture gunfire",
+        "description": "Dramatic footage appears to show protester on the ground after alleged gunfire as crowds attack Communist Party building in Cuba, chanting 'Freedom!' amid crisis.",
+        "url": "https://www.foxnews.com/world/protesters-attack-communist-party-hq-cuba-video-appears-capture-gunfire",
+        "publishedAt": "2026-03-14T20:32:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Son of British couple detained in Iran 'let down' by Starmer's leadership on parent's imprisonment amid war",
+        "description": "The son of British prisoners in Iran slams UK Prime Minister Keir Starmer's 'non-existent' advocacy, urges President Donald Trump to remember prisoners during strikes on Iran facilities.",
+        "url": "https://www.foxnews.com/world/son-british-couple-detained-iran-let-down-starmers-leadership-parents-imprisonment-amid-war",
+        "publishedAt": "2026-03-14T23:16:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "With dogs, dance and uncovered hair, Iranians defy 'unholy alliance' of socialists, radicals: ‘Hypocrites!’",
+        "description": "Fox News investigation reveals 75 organizations supporting Iran's regime, including socialist groups allegedly funded by American tech tycoon in Shanghai.",
+        "url": "https://www.foxnews.com/us/with-dogs-dancing-and-hair-iranians-defy-unholy-alliance-of-socialists-and-radicals-youre-hypocrites",
+        "publishedAt": "2026-03-14T22:05:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "75"
+      },
+      {
+        "title": "Bill Maher presses Gov. Josh Shapiro on Iran war, asks if 'you would still do nothing?'",
+        "description": "Bill Maher challenges Gov. Josh Shapiro on Iran policy during \"Real Time\" debate about nuclear weapons and Middle East military involvement.",
+        "url": "https://www.foxnews.com/media/bill-maher-presses-gov-josh-shapiro-iran-war-asks-you-would-still-do-nothing",
+        "publishedAt": "2026-03-14T19:04:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "World Economic Forum faces fresh scrutiny as Epstein ties revive past scandals, criticism",
+        "description": "The World Economic Forum faces renewed scrutiny after Epstein links surfaced, adding to years of controversy surrounding Davos, leadership scandals and criticism of the globalist agenda.",
+        "url": "https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism",
+        "publishedAt": "2026-03-14T18:16:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stephen Colbert mocked by Variety over 'ego trip' as guests kiss his ring before May exit",
+        "description": "Stephen Colbert's \"Late Show\" final season criticized by Variety correspondent Daniel D'Addario as transforming from resistance to ego trip with celebrity guests flattering the host.",
+        "url": "https://www.foxnews.com/media/stephen-colbert-mocked-variety-over-ego-trip-guests-kiss-his-ring-before-may-exit",
+        "publishedAt": "2026-03-14T18:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
