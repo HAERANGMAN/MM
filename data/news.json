@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T02:52:32.456565+00:00",
+  "generated_at": "2026-03-16T05:09:16.725108+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -55,7 +55,18 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
+    "news-korea-soc": [
+      {
+        "title": "Kim Jong Un appears with teenage daughter at live-fire rocket test in North Korea",
+        "description": "Kim Jong Un's daughter joins him at missile test, fueling ongoing succession speculation as North Korea escalates weapons demonstrations amid regional tensions.",
+        "url": "https://www.foxnews.com/world/kim-jong-un-appears-teenage-daughter-live-fire-rocket-test-north-korea",
+        "publishedAt": "2026-03-15T03:57:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
     "news-global-soc": [
       {
