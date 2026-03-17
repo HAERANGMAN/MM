@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-17T11:26:27.406075+00:00",
+  "generated_at": "2026-03-17T12:02:36.097147+00:00",
   "insight": "Raw data summary: NASDAQ -0.00%, S&P 500 +0.00%, KOSPI +1.63%, USD/KRW +0.66%",
-  "errors": [
-    "Dollar Index: yahoo fail DX-Y.NYB 5y/1d: HTTP Error 500: Internal Server Error"
-  ],
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
@@ -53,29 +51,29 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 73968.0546875,
-      "dod": -1.1929178408466765,
-      "mom": 7.530169605791692,
-      "yoy": -12.022063824931553,
+      "price": 74057.859375,
+      "dod": -1.0729560658131483,
+      "mom": 7.660722089821018,
+      "yoy": -11.915249726622811,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 110259992.0,
-      "dod": -1.1774387269602522,
-      "mom": 11.2427729522127,
-      "yoy": -9.154450496274128,
+      "price": 110488776.0,
+      "dod": -0.9723868269175684,
+      "mom": 11.473596173813325,
+      "yoy": -8.965950498943634,
       "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 100.36000061035156,
+      "dod": 0.621618969181116,
+      "mom": 3.6776833123551262,
+      "yoy": -3.3420024650960536,
+      "raw_points": 1258
     },
     {
       "key": "USD/JPY",
