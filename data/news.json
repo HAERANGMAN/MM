@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T05:41:35.019636+00:00",
+  "generated_at": "2026-03-17T06:44:33.335773+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Saudis give oil buyers Red Sea option as Hormuz crisis persists",
+        "description": "Buyers who choose to receive their allocation via the Red Sea port of Yanbu will only get a portion of their monthly supply due to constraints on how much crude the pipeline to the port can carry",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-16/saudis-give-oil-buyers-red-sea-option-as-hormuz-crisis-persists",
+        "publishedAt": "2026-03-16T05:51:59Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Bitcoin in Iran limbo as ‘old economy’ assets steal limelight",
         "description": "The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed. The token is down more than 40% from an October peak",
@@ -54,16 +64,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Whiskey mogul offers free $200M college campus to religious groups, with one major catch",
-        "description": "A Vermont whiskey founder offers a free $200 million college campus to Christian institutions for a spiritual revival. Raj Peter Bhakta bought Green Mountain College in 2020.",
-        "url": "https://www.foxnews.com/food-drink/whiskey-mogul-offers-free-200m-college-campus-religious-groups-one-major-catch",
-        "publishedAt": "2026-03-15T16:45:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
