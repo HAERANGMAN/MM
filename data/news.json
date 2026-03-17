@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-03-17T07:43:23.598215+00:00",
+  "generated_at": "2026-03-17T08:34:29.838302+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump seeks warships from other countries to help secure Strait of Hormuz",
-        "description": "Trump calls for international warships to secure Strait of Hormuz as Iran allegedly threatens global oil shipping routes from the Middle East region.",
-        "url": "https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz",
-        "publishedAt": "2026-03-15T11:29:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
