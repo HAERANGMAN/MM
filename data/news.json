@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T04:25:07.561843+00:00",
+  "generated_at": "2026-03-17T05:41:35.019636+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Bitcoin in Iran limbo as ‘old economy’ assets steal limelight",
+        "description": "The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed. The token is down more than 40% from an October peak",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight",
+        "publishedAt": "2026-03-16T05:13:15Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "40"
+      },
       {
         "title": "Former Obama Campaign Managers Warn Democratic Party Is a Mess",
         "description": "Two former campaign managers for former President Barack Obama warned that the Democratic Party is a mess ahead of the 2028 presidential election, due to not knowing what they stand for.\nThe post Former Obama Campaign Managers Warn Democratic Party Is a Mess …",
@@ -54,52 +64,21 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Latino voters are 'no longer sleeping,' Univision president warns GOP, Dems",
-        "description": "Televisa Univision president calls Latino voters a 'sleeping giant that is no longer sleeping,' urging parties to revamp their approach for 2026.",
-        "url": "https://www.foxnews.com/politics/latino-voters-no-longer-sleeping-univision-president-warns-gop-dems",
-        "publishedAt": "2026-03-15T16:32:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
       }
     ],
-    "news-korea-soc": [
-      {
-        "title": "**Livewire** Operation Epic Fury Day Sixteen: UK and South Korea Consider Sending Warships to Strait of Hormuz After Trump's Call",
-        "description": "The eyes of the world continue to focus on the Strait of Hormuz and its impact on international energy markets, while American allies in London and Seoul suggested they may be willing to answer President Trump's call for assistance in keeping the critical wat…",
-        "url": "https://www.breitbart.com/europe/2026/03/15/livewire-operation-epic-fury-day-sixteen-uk-and-south-korea-consider-sending-warships-to-strait-of-hormuz-after-trumps-call/",
-        "publishedAt": "2026-03-15T11:43:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump seeks warships from other countries to help secure Strait of Hormuz",
-        "description": "Trump calls for international warships to secure Strait of Hormuz as Iran allegedly threatens global oil shipping routes from the Middle East region.",
-        "url": "https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz",
-        "publishedAt": "2026-03-15T11:29:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese fishing 'militia' formations signal rising gray-zone pressure on Taiwan",
-        "description": "China's maritime militia allegedly deployed over 2,000 fishing boats in coordinated formations near Taiwan, raising significant security concerns among analysts.",
-        "url": "https://www.foxnews.com/world/chinese-fishing-militia-formations-signal-rising-gray-zone-pressure-taiwan",
-        "publishedAt": "2026-03-15T10:00:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      }
-    ],
+    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Bitcoin in Iran limbo as ‘old economy’ assets steal limelight",
+        "description": "The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed. The token is down more than 40% from an October peak",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight",
+        "publishedAt": "2026-03-16T05:13:15Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "40"
+      },
       {
         "title": "CNN liberal panelist argues billions spent on defense should go to health insurance instead",
         "description": "CNN panelists debate U.S. priorities as Leigh McGowan questions whether spending on the Iran conflict should instead go toward addressing healthcare challenges at home.",
@@ -137,16 +116,6 @@
         "publishedAt": "2026-03-15T17:23:30Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Southwest Airlines Dropping Service At International Hubs in Chicago and Washington, DC",
-        "description": "Southwest Airlines has announced that all flights servicing two major airports will be canceled in just a few months, including at one of the world's busiest.\nThe post Southwest Airlines Dropping Service At International Hubs in Chicago and Washington, DC app…",
-        "url": "https://www.breitbart.com/economy/2026/03/15/32340801southwest-airlines-dropping-service-at-international-hubs-in-chicago-and-washington-dc/",
-        "publishedAt": "2026-03-15T16:28:51Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
