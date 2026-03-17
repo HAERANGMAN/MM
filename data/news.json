@@ -1,20 +1,157 @@
 {
-  "generated_at": "2026-03-17T02:02:13.443079+00:00",
+  "generated_at": "2026-03-17T04:25:07.561843+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Trump seeks warships from other countries to help secure Strait of Hormuz",
+        "description": "Trump calls for international warships to secure Strait of Hormuz as Iran allegedly threatens global oil shipping routes from the Middle East region.",
+        "url": "https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz",
+        "publishedAt": "2026-03-15T11:29:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Former Obama Campaign Managers Warn Democratic Party Is a Mess",
+        "description": "Two former campaign managers for former President Barack Obama warned that the Democratic Party is a mess ahead of the 2028 presidential election, due to not knowing what they stand for.\nThe post Former Obama Campaign Managers Warn Democratic Party Is a Mess …",
+        "url": "https://www.breitbart.com/politics/2026/03/15/former-obama-campaign-managers-warn-democratic-party-mess/",
+        "publishedAt": "2026-03-16T00:42:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "US could take Iran’s main oil export hub ‘at a time of our choosing,’ Jack Keane says",
+        "description": "Retired Gen. Jack Keane warns U.S. could seize Iran's critical Kharg Island oil hub \"at a time of our choosing,\" potentially crippling Tehran's economy.",
+        "url": "https://www.foxnews.com/media/us-could-take-irans-main-oil-export-hub-at-time-our-choosing-keane-says",
+        "publishedAt": "2026-03-15T17:23:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'CODE RED' Author Tells 'Daily Mail:' AI 'Data Vacuums' Like TikTok and DeepSeek Are Chinese Espionage Tools",
+        "description": "CODE RED author Wynton Hall tells the Daily Mail in an interview published Sunday that China has disguised its \"data vacuum\" AI espionage tools as popular apps like TikTok and DeepSeek. According to Hall, users of these \"Trojan Horse\" apps are \"effectively su…",
+        "url": "https://www.breitbart.com/tech/2026/03/15/code-red-author-tells-daily-mail-ai-data-vacuums-like-tiktok-and-deepseek-are-chinese-espionage-tools/",
+        "publishedAt": "2026-03-15T17:21:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Whiskey mogul offers free $200M college campus to religious groups, with one major catch",
+        "description": "A Vermont whiskey founder offers a free $200 million college campus to Christian institutions for a spiritual revival. Raj Peter Bhakta bought Green Mountain College in 2020.",
+        "url": "https://www.foxnews.com/food-drink/whiskey-mogul-offers-free-200m-college-campus-religious-groups-one-major-catch",
+        "publishedAt": "2026-03-15T16:45:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Latino voters are 'no longer sleeping,' Univision president warns GOP, Dems",
+        "description": "Televisa Univision president calls Latino voters a 'sleeping giant that is no longer sleeping,' urging parties to revamp their approach for 2026.",
+        "url": "https://www.foxnews.com/politics/latino-voters-no-longer-sleeping-univision-president-warns-gop-dems",
+        "publishedAt": "2026-03-15T16:32:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "**Livewire** Operation Epic Fury Day Sixteen: UK and South Korea Consider Sending Warships to Strait of Hormuz After Trump's Call",
+        "description": "The eyes of the world continue to focus on the Strait of Hormuz and its impact on international energy markets, while American allies in London and Seoul suggested they may be willing to answer President Trump's call for assistance in keeping the critical wat…",
+        "url": "https://www.breitbart.com/europe/2026/03/15/livewire-operation-epic-fury-day-sixteen-uk-and-south-korea-consider-sending-warships-to-strait-of-hormuz-after-trumps-call/",
+        "publishedAt": "2026-03-15T11:43:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump seeks warships from other countries to help secure Strait of Hormuz",
+        "description": "Trump calls for international warships to secure Strait of Hormuz as Iran allegedly threatens global oil shipping routes from the Middle East region.",
+        "url": "https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz",
+        "publishedAt": "2026-03-15T11:29:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chinese fishing 'militia' formations signal rising gray-zone pressure on Taiwan",
+        "description": "China's maritime militia allegedly deployed over 2,000 fishing boats in coordinated formations near Taiwan, raising significant security concerns among analysts.",
+        "url": "https://www.foxnews.com/world/chinese-fishing-militia-formations-signal-rising-gray-zone-pressure-taiwan",
+        "publishedAt": "2026-03-15T10:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "CNN liberal panelist argues billions spent on defense should go to health insurance instead",
+        "description": "CNN panelists debate U.S. priorities as Leigh McGowan questions whether spending on the Iran conflict should instead go toward addressing healthcare challenges at home.",
+        "url": "https://www.foxnews.com/media/cnn-liberal-panelist-argues-billions-spent-defense-should-go-health-insurance-instead",
+        "publishedAt": "2026-03-16T01:00:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Veteran '60 Minutes' reporter says the network 'crumbled' under Trump's pressure",
+        "description": "Veteran \"60 Minutes\" correspondent Scott Pelley slammed CBS for settling President Donald Trump's election interference lawsuit, saying previous owners \"faced political pressure and crumbled.\"",
+        "url": "https://www.foxnews.com/media/veteran-60-minutes-reporter-says-network-crumbled-under-trumps-pressure",
+        "publishedAt": "2026-03-15T22:00:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "Oscars 2026: Academy Awards 'Most Protected Event in Oscars History'",
+        "description": "The 98th Academy Awards on Sunday night will be the \"most protected event in Oscars history,\" with more than 1,000 law enforcement personal protecting the celebrity elites gathered to celebrate themselves.\nThe post Oscars 2026: Academy Awards ‘Most Protected …",
+        "url": "https://www.breitbart.com/entertainment/2026/03/15/oscars-2026-academy-awards-most-protected-event-in-oscars-history/",
+        "publishedAt": "2026-03-15T20:09:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "US could take Iran’s main oil export hub ‘at a time of our choosing,’ Jack Keane says",
+        "description": "Retired Gen. Jack Keane warns U.S. could seize Iran's critical Kharg Island oil hub \"at a time of our choosing,\" potentially crippling Tehran's economy.",
+        "url": "https://www.foxnews.com/media/us-could-take-irans-main-oil-export-hub-at-time-our-choosing-keane-says",
+        "publishedAt": "2026-03-15T17:23:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Southwest Airlines Dropping Service At International Hubs in Chicago and Washington, DC",
+        "description": "Southwest Airlines has announced that all flights servicing two major airports will be canceled in just a few months, including at one of the world's busiest.\nThe post Southwest Airlines Dropping Service At International Hubs in Chicago and Washington, DC app…",
+        "url": "https://www.breitbart.com/economy/2026/03/15/32340801southwest-airlines-dropping-service-at-international-hubs-in-chicago-and-washington-dc/",
+        "publishedAt": "2026-03-15T16:28:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
