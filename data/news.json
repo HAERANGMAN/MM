@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-18T04:58:57.239417+00:00",
+  "generated_at": "2026-03-18T06:07:04.493828+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Novartis sells $11 billion bonds to fund avidity acquisition",
+        "description": "In October, Novartis agreed to acquire Avidity to enhance its focus on innovative drugs in heart, kidney, metabolic, immunology, neuroscience, and oncology",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-16/novartis-offers-high-grade-debt-to-fund-12-billion-avidity-deal",
+        "publishedAt": "2026-03-17T04:42:29Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Bessent pushes back on CNBC reporter over Trump’s Russian oil strategy",
+        "description": "Scott Bessent challenged CNBC’s framing of global oil shortages, arguing markets remain supplied despite disruptions tied to the Iran conflict.",
+        "url": "https://www.foxnews.com/media/bessent-pushes-back-cnbc-reporter-over-trumps-russian-oil-strategy",
+        "publishedAt": "2026-03-16T22:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Duration Is Destiny for the Iran War",
+        "description": "We have argued since the opening days of Operation Epic Fury that the economic consequences of the Iran war depend less on the price of oil this week than on one question: how long does this last?\nThe post Breitbart Business Digest: Duration Is Destiny for th…",
+        "url": "https://www.breitbart.com/economy/2026/03/16/breitbart-business-digest-duration-is-destiny-for-the-iran-war/",
+        "publishedAt": "2026-03-16T21:29:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TSA officers skip work as paychecks stop during shutdown, airports face chaos nationwide",
+        "description": "TSA officers miss paychecks during government shutdown, leading to 10% call-out rates nationwide and massive airport security delays across the country.",
+        "url": "https://www.foxnews.com/travel/tsa-officers-skip-work-paychecks-stop-during-shutdown-airports-face-chaos-nationwide",
+        "publishedAt": "2026-03-16T21:16:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "WATCH LIVE: President Trump signs executive order launching anti-fraud task force led by VP | Fox News Video",
+        "description": "WATCH LIVE: President Trump signs executive order launching anti-fraud task force led by VP | Fox News Videofoxnews.com",
+        "url": "https://www.foxnews.com/video/6391027458112",
+        "publishedAt": "2026-03-16T20:10:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Bessent pushes back on CNBC reporter over Trump’s Russian oil strategy",
+        "description": "Scott Bessent challenged CNBC’s framing of global oil shortages, arguing markets remain supplied despite disruptions tied to the Iran conflict.",
+        "url": "https://www.foxnews.com/media/bessent-pushes-back-cnbc-reporter-over-trumps-russian-oil-strategy",
+        "publishedAt": "2026-03-16T22:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hamas reasserts control in Gaza as Iran war dominates regional attention and global focus",
+        "description": "Hamas reportedly reasserts control in Gaza as Iran war shifts international focus, according to analysts raising serious doubts about postwar planning.",
+        "url": "https://www.foxnews.com/world/hamas-reasserts-control-gaza-iran-war-dominates-regional-attention-global-focus",
+        "publishedAt": "2026-03-16T22:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "HR exec at center of Coldplay kiss cam controversy defends 'very close' CEO relationship",
+        "description": "Former Astronomer executive Kristin Cabot defends relationship with CEO after Kiss Cam scandal, claiming professional culture involved close working relationships.",
+        "url": "https://www.foxnews.com/entertainment/hr-exec-center-coldplay-kiss-cam-controversy-defends-very-close-ceo-relationship",
+        "publishedAt": "2026-03-16T21:50:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Duration Is Destiny for the Iran War",
+        "description": "We have argued since the opening days of Operation Epic Fury that the economic consequences of the Iran war depend less on the price of oil this week than on one question: how long does this last?\nThe post Breitbart Business Digest: Duration Is Destiny for th…",
+        "url": "https://www.breitbart.com/economy/2026/03/16/breitbart-business-digest-duration-is-destiny-for-the-iran-war/",
+        "publishedAt": "2026-03-16T21:29:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Virginia Delegate: Old Dominion ROTC Students Proved You Don't Need a Gun to Defend Yourself",
+        "description": "Virginia Delegate Garrett McGuire (D) argued that ROTC students who killed the Old Dominion University (ODU) terrorist without a gun proved that you do not need a gun to defend yourself.\nThe post Virginia Delegate: Old Dominion ROTC Students Proved You Don’t …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/16/virginia-delegate-old-dominion-rotc-students-proved-you-dont-need-a-gun-to-defend-yourself/",
+        "publishedAt": "2026-03-16T20:42:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
