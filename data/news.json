@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-03-18T10:07:58.040859+00:00",
+  "generated_at": "2026-03-18T11:08:03.610129+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "MORNING GLORY: What will Donald Trump's legacy be as a wartime president?",
+        "description": "Analysis compares Trump's tough stance on Iran to previous presidents, examining decades of U.S.-Iran conflict and nuclear weapons concerns in the region.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-donald-trump-legacy-wartime-president",
+        "publishedAt": "2026-03-17T09:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "I run a fracking company — New York banned the industry and stuck the poor with the bill",
+        "description": "New York's fracking ban creates energy poverty for 2.7 million residents while Pennsylvania neighbors profit from natural gas drilling.",
+        "url": "https://www.foxnews.com/opinion/i-run-fracking-company-new-york-banned-industry-stuck-poor-bill",
+        "publishedAt": "2026-03-17T11:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2.7"
+      },
+      {
+        "title": "Why Gulf states aren’t joining the war against Iran — despite attacks on their soil",
+        "description": "Gulf states maintain restraint despite reported Iranian attacks on Saudi Arabia, UAE, Bahrain, Qatar and Kuwait, prioritizing regional stability.",
+        "url": "https://www.foxnews.com/world/why-gulf-states-arent-joining-war-against-iran-despite-attacks-soil",
+        "publishedAt": "2026-03-17T10:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fraud scrutiny clouds Schumer’s Obamacare credit push after his Pentagon ‘luxury’ spending jab",
+        "description": "Schumer slams Pentagon's $93B spending spree, pushes ACA subsidies instead. Critics cite widespread fraud in healthcare program with phantom enrollees.",
+        "url": "https://www.foxnews.com/politics/fraud-scrutiny-clouds-schumers-obamacare-credit-push-after-his-pentagon-luxury-spending-jab",
+        "publishedAt": "2026-03-17T10:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "SEN WICKER: Ending China’s drone dominance with a made-in-America revival",
+        "description": "Congress and Donald Trump allocated $2.5 billion for Pentagon small drone purchases, launching Drone Dominance program with American vendors to compete globally.",
+        "url": "https://www.foxnews.com/opinion/sen-wicker-ending-chinas-drone-dominance-made-in-america-revival",
+        "publishedAt": "2026-03-17T09:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Novartis sells $11 billion bonds to fund avidity acquisition",
+        "description": "In October, Novartis agreed to acquire Avidity to enhance its focus on innovative drugs in heart, kidney, metabolic, immunology, neuroscience, and oncology",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-16/novartis-offers-high-grade-debt-to-fund-12-billion-avidity-deal",
+        "publishedAt": "2026-03-17T04:42:29Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "MORNING GLORY: What will Donald Trump's legacy be as a wartime president?",
+        "description": "Analysis compares Trump's tough stance on Iran to previous presidents, examining decades of U.S.-Iran conflict and nuclear weapons concerns in the region.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-donald-trump-legacy-wartime-president",
+        "publishedAt": "2026-03-17T09:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Why Gulf states aren’t joining the war against Iran — despite attacks on their soil",
+        "description": "Gulf states maintain restraint despite reported Iranian attacks on Saudi Arabia, UAE, Bahrain, Qatar and Kuwait, prioritizing regional stability.",
+        "url": "https://www.foxnews.com/world/why-gulf-states-arent-joining-war-against-iran-despite-attacks-soil",
+        "publishedAt": "2026-03-17T10:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Marlow: Woke, Lame Oscars Reminded America Why Movies No Longer at Center of Culture",
+        "description": "Monday on “The Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow talked about the Oscars. Marlow said, “Movies were the centerpiece of, not just American culture, but really global culture, and that’s been fading pretty rapidly. And yesterday,…",
+        "url": "https://www.breitbart.com/clips/2026/03/17/marlow-woke-lame-oscars-reminded-america-why-movies-no-longer-at-center-of-culture/",
+        "publishedAt": "2026-03-17T09:22:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bessent pushes back on CNBC reporter over Trump’s Russian oil strategy",
+        "description": "Scott Bessent challenged CNBC’s framing of global oil shortages, arguing markets remain supplied despite disruptions tied to the Iran conflict.",
+        "url": "https://www.foxnews.com/media/bessent-pushes-back-cnbc-reporter-over-trumps-russian-oil-strategy",
+        "publishedAt": "2026-03-16T22:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hamas reasserts control in Gaza as Iran war dominates regional attention and global focus",
+        "description": "Hamas reportedly reasserts control in Gaza as Iran war shifts international focus, according to analysts raising serious doubts about postwar planning.",
+        "url": "https://www.foxnews.com/world/hamas-reasserts-control-gaza-iran-war-dominates-regional-attention-global-focus",
+        "publishedAt": "2026-03-16T22:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "HR exec at center of Coldplay kiss cam controversy defends 'very close' CEO relationship",
+        "description": "Former Astronomer executive Kristin Cabot defends relationship with CEO after Kiss Cam scandal, claiming professional culture involved close working relationships.",
+        "url": "https://www.foxnews.com/entertainment/hr-exec-center-coldplay-kiss-cam-controversy-defends-very-close-ceo-relationship",
+        "publishedAt": "2026-03-16T21:50:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
