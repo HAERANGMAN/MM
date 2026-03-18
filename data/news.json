@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T11:08:03.610129+00:00",
+  "generated_at": "2026-03-18T11:57:34.359928+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Al Jazeera op-ed praises US-Israel operation against Iran, says Dems, media critics are wrong",
+        "description": "Al Jazeera is offering praise to US and Israel's Operation Epic Fury and its effectiveness against the Iranian regime in an op-ed from Doha Institute associate professor Muhanad Seloom.",
+        "url": "https://www.foxnews.com/media/al-jazeera-op-ed-praises-us-israel-operation-against-iran-says-dems-media-critics-wrong",
+        "publishedAt": "2026-03-17T11:40:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "I run a fracking company — New York banned the industry and stuck the poor with the bill",
         "description": "New York's fracking ban creates energy poverty for 2.7 million residents while Pennsylvania neighbors profit from natural gas drilling.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Novartis sells $11 billion bonds to fund avidity acquisition",
-        "description": "In October, Novartis agreed to acquire Avidity to enhance its focus on innovative drugs in heart, kidney, metabolic, immunology, neuroscience, and oncology",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-16/novartis-offers-high-grade-debt-to-fund-12-billion-avidity-deal",
-        "publishedAt": "2026-03-17T04:42:29Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Top E.U. Diplomat on Middle East Conflict: 'This Is Not Europe's War'",
+        "description": "The European Union’s top diplomat, Kaja Kallas, said during a Monday press conference the ongoing war in Iran is \"not Europe's war,\" but noted Europe's interests are \"directly at stake\" as the conflict widens.\nThe post Top E.U. Diplomat on Middle East Conflic…",
+        "url": "https://www.breitbart.com/europe/2026/03/17/top-e-u-diplomat-on-middle-east-war-this-is-not-europes-war/",
+        "publishedAt": "2026-03-17T11:54:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Al Jazeera op-ed praises US-Israel operation against Iran, says Dems, media critics are wrong",
+        "description": "Al Jazeera is offering praise to US and Israel's Operation Epic Fury and its effectiveness against the Iranian regime in an op-ed from Doha Institute associate professor Muhanad Seloom.",
+        "url": "https://www.foxnews.com/media/al-jazeera-op-ed-praises-us-israel-operation-against-iran-says-dems-media-critics-wrong",
+        "publishedAt": "2026-03-17T11:40:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Why Gulf states aren’t joining the war against Iran — despite attacks on their soil",
         "description": "Gulf states maintain restraint despite reported Iranian attacks on Saudi Arabia, UAE, Bahrain, Qatar and Kuwait, prioritizing regional stability.",
@@ -105,26 +125,6 @@
         "description": "Scott Bessent challenged CNBC’s framing of global oil shortages, arguing markets remain supplied despite disruptions tied to the Iran conflict.",
         "url": "https://www.foxnews.com/media/bessent-pushes-back-cnbc-reporter-over-trumps-russian-oil-strategy",
         "publishedAt": "2026-03-16T22:00:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hamas reasserts control in Gaza as Iran war dominates regional attention and global focus",
-        "description": "Hamas reportedly reasserts control in Gaza as Iran war shifts international focus, according to analysts raising serious doubts about postwar planning.",
-        "url": "https://www.foxnews.com/world/hamas-reasserts-control-gaza-iran-war-dominates-regional-attention-global-focus",
-        "publishedAt": "2026-03-16T22:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "HR exec at center of Coldplay kiss cam controversy defends 'very close' CEO relationship",
-        "description": "Former Astronomer executive Kristin Cabot defends relationship with CEO after Kiss Cam scandal, claiming professional culture involved close working relationships.",
-        "url": "https://www.foxnews.com/entertainment/hr-exec-center-coldplay-kiss-cam-controversy-defends-very-close-ceo-relationship",
-        "publishedAt": "2026-03-16T21:50:25Z",
         "source": {
           "name": "Fox News"
         },
