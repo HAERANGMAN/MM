@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-19T15:36:30.391890+00:00",
+  "generated_at": "2026-03-19T16:38:22.971265+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "'CODE RED:' AI Bias is Coming for Classrooms - Conservatives Need a Plan, Not Panic",
+        "description": "Breitbart News social media director and author Wynton Hall argues in his book Code Red: The Left, the Right, China, and the Race to Control AI that leftist bias is being baked into the AI tools now entering children's classrooms, and conservatives who respon…",
+        "url": "https://www.breitbart.com/tech/2026/03/18/code-red-ai-bias-is-coming-for-classrooms-conservatives-need-a-plan-not-panic/",
+        "publishedAt": "2026-03-18T15:35:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP candidate cites ‘failure’ of Newsom, Dems as new poll shows Republicans leading crowded California field",
+        "description": "Steve Hilton, a Republican running for governor, said that the “absolute failure\" by California Gov. Gavin Newsom and Democrats means that the GOP has a real shot at victory this year.",
+        "url": "https://www.foxnews.com/politics/gop-candidate-cites-failure-newsom-dems-new-poll-shows-republicans-leading-crowded-california-field",
+        "publishedAt": "2026-03-18T15:30:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "3 Teenage Girls File Lawsuit Against Elon Musk's xAI Claiming Grok Generated Deepfake Child Pornography",
+        "description": "Three teenage girls have filed a class-action lawsuit against Elon Musk's AI company xAI, alleging that its Grok image generator was used to create and distribute child sexual abuse material featuring their likenesses.\nThe post 3 Teenage Girls File Lawsuit Ag…",
+        "url": "https://www.breitbart.com/tech/2026/03/18/3-teenage-girls-file-lawsuit-against-elon-musks-xai-claiming-it-generated-deepfake-child-pornography-of-them/",
+        "publishedAt": "2026-03-18T15:11:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "NATO heavyweights balk at Hormuz mission as Trump warns alliance at risk",
+        "description": "UK, France and Germany decline combat role in protecting key oil chokepoint, drawing warnings from Trump and GOP allies about NATO’s reliability.",
+        "url": "https://www.foxnews.com/politics/nato-heavyweights-balk-hormuz-mission-trump-warns-alliance-risk",
+        "publishedAt": "2026-03-18T14:56:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'CODE RED' Rockets to #9 on Amazon's 'Movers & Shakers' List",
+        "description": "Breitbart News social media director Wynton Hall's new book, Code Red: The Left, the Right, China, and the Race to Control AI, has rocketed up the Amazon charts since being published on Tuesday, ranking at #9 on the \"Movers & Shakers\" list.\nThe post ‘CODE RED…",
+        "url": "https://www.breitbart.com/tech/2026/03/18/code-red-rockets-to-9-on-amazons-movers-shakers-list/",
+        "publishedAt": "2026-03-18T14:51:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Winning the battles, losing the war? America must define the endgame in Iran",
+        "description": "Pete Hegseth acknowledges Iran campaign success but some question whether airstrikes achieve regime change goals as Mojtaba Khamenei vows to fight.",
+        "url": "https://www.foxnews.com/opinion/winning-battles-losing-war-america-must-define-endgame-iran",
+        "publishedAt": "2026-03-18T13:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "'Deep Penetrator': U.S. Strikes Iranian Missile Sites Threatening Oil Ships in Strait of Hormuz With Bunker Busters",
+        "description": "U.S. used new bunker-buster for the first time, announcing a strike against Iranian missile sites that threaten international shipping. \nThe post ‘Deep Penetrator’: U.S. Strikes Iranian Missile Sites Threatening Oil Ships in Strait of Hormuz With Bunker Buste…",
+        "url": "https://www.breitbart.com/europe/2026/03/18/deep-penetrator-u-s-strikes-iranian-missiles-threatening-hormuz-strait/",
+        "publishedAt": "2026-03-18T15:45:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'CODE RED:' AI Bias is Coming for Classrooms - Conservatives Need a Plan, Not Panic",
+        "description": "Breitbart News social media director and author Wynton Hall argues in his book Code Red: The Left, the Right, China, and the Race to Control AI that leftist bias is being baked into the AI tools now entering children's classrooms, and conservatives who respon…",
+        "url": "https://www.breitbart.com/tech/2026/03/18/code-red-ai-bias-is-coming-for-classrooms-conservatives-need-a-plan-not-panic/",
+        "publishedAt": "2026-03-18T15:35:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FOX NATION’S “MARTIN SCORSESE PRESENTS: THE SAINTS” RETURNS WITH SPECIAL EXTENDED “MARY” EPISODE THIS EASTER",
+        "description": "NEW YORK – March 18, 2026 — FOX Nation’s acclaimed docudrama Martin Scorsese Presents: THE SAINTS will return this Easter season with an extended episode entitled “Mary,” premiering Friday, March 27, 2026. Hosted, narrated and executive produced by Academy Aw…",
+        "url": "https://press.foxnews.com/2026/03/fox-nations-martin-scorsese-presents-the-saints-returns-with-special-extended-mary-episode-this-easter",
+        "publishedAt": "2026-03-18T15:35:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "NATO heavyweights balk at Hormuz mission as Trump warns alliance at risk",
+        "description": "UK, France and Germany decline combat role in protecting key oil chokepoint, drawing warnings from Trump and GOP allies about NATO’s reliability.",
+        "url": "https://www.foxnews.com/politics/nato-heavyweights-balk-hormuz-mission-trump-warns-alliance-risk",
+        "publishedAt": "2026-03-18T14:56:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Oil CEO urges Newsom to do the 'math' as California governor vows to stop offshore drilling",
+        "description": "Trump invokes Defense Production Act to restart California offshore drilling operations as Gov. Newsom alleges defiance of court orders amid Iran conflict.",
+        "url": "https://www.foxnews.com/media/oil-ceo-urges-newsom-do-math-california-governor-vows-stop-offshore-drilling",
+        "publishedAt": "2026-03-18T14:51:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
