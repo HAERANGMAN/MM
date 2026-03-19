@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-03-19T12:30:33.084898+00:00",
+  "generated_at": "2026-03-19T13:50:47.542439+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "EU pushes for end of Iran war in a manner where 'everybody saves face'",
-        "description": "The European Union is reportedly consulting with Gulf countries about possible ways Iran, Israel and the U.S. could end the war in a manner where \"everybody saves face.\"",
-        "url": "https://www.foxnews.com/world/eu-proposes-face-saving-exit-plan-iran-israel-us-end-escalating-regional-conflict",
-        "publishedAt": "2026-03-17T16:47:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump Is Making Europe and Japan Pay Their Fair Share",
-        "description": "While U.S. patients and taxpayers foot the bill for the world’s most advanced medicines, wealthy nations have been freeloading off our innovation.\nThe post Trump Is Making Europe and Japan Pay Their Fair Share appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/03/18/trump-is-making-europe-and-japan-pay-their-fair-share/",
-        "publishedAt": "2026-03-18T11:50:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The sound of freedom: Cuba’s regime is running out of time — now the US must act",
-        "description": "Cuban-American congressman calls for firm US strategy as Cuba's economy crumbles. No economic lifelines without political change demanded from regime.",
-        "url": "https://www.foxnews.com/opinion/sound-freedom-cubas-regime-running-out-time-the-us-must-act",
-        "publishedAt": "2026-03-18T11:00:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Carville predicts Trump will leave office next year out of frustration after midterms",
-        "description": "Democratic strategist James Carville claims in new video that President Donald Trump will quit office next year as his initiatives fail and Democrats control House and Senate.",
-        "url": "https://www.foxnews.com/media/carville-predicts-trump-leave-office-next-year-out-frustration-after-midterms",
-        "publishedAt": "2026-03-18T10:00:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump’s Strait showdown: Five bold moves to crush the Iran threat now",
-        "description": "President Donald Trump predicts commercial traffic will resume through the Strait of Hormuz within weeks as Operation Epic Fury targets Iranian forces.",
-        "url": "https://www.foxnews.com/opinion/trumps-strait-showdown-five-bold-moves-crush-iran-threat",
-        "publishedAt": "2026-03-18T09:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "BROOKE ROLLINS, ROBERT KENNEDY JR: We’re bringing families more healthy foods in a SNAP",
-        "description": "USDA finalizes rule hiking healthy food requirements for SNAP retailers from 12 to 28 varieties under Trump's leadership to combat chronic health issues.",
-        "url": "https://www.foxnews.com/opinion/brooke-rollins-robert-kennedy-jr-were-bringing-families-more-healthy-foods-snap",
-        "publishedAt": "2026-03-18T09:00:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "12"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Fiery aftermath of Iran missile strike near Tel Aviv caught on video after 2 killed",
-        "description": "Video footage captured fiery destruction and emergency crews responding after an Iranian missile strike near Tel Aviv, Israel, killed two people.",
-        "url": "https://www.foxnews.com/world/iran-missile-strike-tel-aviv-aftermath-video",
-        "publishedAt": "2026-03-18T12:26:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Iranian wrestler who saw Ayatollah abuse athletes defends American women speaking out against trans inclusion",
-        "description": "Iranian wrestling champion Sardar Pashaei urges International Olympic Committee to protect women's sports and create equal competition opportunities for all athletes.",
-        "url": "https://www.foxnews.com/sports/iranian-wrestler-who-saw-ayatollah-abuse-athletes-defends-american-women-speaking-out-against-trans-athletes",
-        "publishedAt": "2026-03-18T12:07:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Israel kills Iranian intelligence minister who survived initial strike, official says",
-        "description": "Iran’s Intelligence Minister Esmaeil Khatib was killed in an Israeli strike, a senior Israeli official told Fox News.",
-        "url": "https://www.foxnews.com/world/israel-kills-iranian-intelligence-minister-who-survived-initial-strike-official-says",
-        "publishedAt": "2026-03-18T11:51:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Is Making Europe and Japan Pay Their Fair Share",
-        "description": "While U.S. patients and taxpayers foot the bill for the world’s most advanced medicines, wealthy nations have been freeloading off our innovation.\nThe post Trump Is Making Europe and Japan Pay Their Fair Share appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/03/18/trump-is-making-europe-and-japan-pay-their-fair-share/",
-        "publishedAt": "2026-03-18T11:50:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kash Patel set to tout crucial FBI reforms that many Americans may not know about: 'Real security'",
-        "description": "Patel plans to defend an FBI overhaul he says is restoring the bureau's law enforcement mission as he appears before US Senators for a hearing on global security threats.",
-        "url": "https://www.foxnews.com/politics/kash-patel-highlight-fbi-reforms-he-says-americans-may-have-never-read-about-during-threat-hearing",
-        "publishedAt": "2026-03-18T11:30:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
