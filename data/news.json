@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-19T16:38:22.971265+00:00",
+  "generated_at": "2026-03-19T17:41:00.633723+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Cuba's Puppet President Miguel Diaz-Canel Vows 'Unbreakable Resistance’ in Anti-Trump Rant",
+        "description": "Miguel Díaz-Canel, the communist figurehead “president” of Cuba, on Tuesday threatened that any \"external aggressor\" to the Cuban regime will be met with an \"unbreakable resistance\" after President Donald Trump said \"we'll be doing something with Cuba very so…",
+        "url": "https://www.breitbart.com/latin-america/2026/03/18/cubas-puppet-president-miguel-diaz-canel-vows-unbreakable-resistance-in-anti-trump-rant/",
+        "publishedAt": "2026-03-18T17:37:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "'CODE RED:' AI Bias is Coming for Classrooms - Conservatives Need a Plan, Not Panic",
         "description": "Breitbart News social media director and author Wynton Hall argues in his book Code Red: The Left, the Right, China, and the Race to Control AI that leftist bias is being baked into the AI tools now entering children's classrooms, and conservatives who respon…",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "'CODE RED' Rockets to #9 on Amazon's 'Movers & Shakers' List",
-        "description": "Breitbart News social media director Wynton Hall's new book, Code Red: The Left, the Right, China, and the Race to Control AI, has rocketed up the Amazon charts since being published on Tuesday, ranking at #9 on the \"Movers & Shakers\" list.\nThe post ‘CODE RED…",
-        "url": "https://www.breitbart.com/tech/2026/03/18/code-red-rockets-to-9-on-amazons-movers-shakers-list/",
-        "publishedAt": "2026-03-18T14:51:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "9"
       }
     ],
     "news-korea-soc": [
