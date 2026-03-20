@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-20T20:01:38.145125+00:00",
+  "generated_at": "2026-03-20T20:47:30.761687+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "White men 'clearly' targeted as Virginia Dems’ race-sex bill hits Spanberger’s desk: experts",
+        "description": "A new Virginia procurement bill mandates agencies increase minority and women-owned business contracts to 42%. Republicans call it unconstitutional.",
+        "url": "https://www.foxnews.com/politics/white-men-clearly-targeted-virginia-dems-race-sex-bill-hits-spanbergers-desk-experts",
+        "publishedAt": "2026-03-19T19:41:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "42"
+      },
+      {
+        "title": "Trump rates Macron 'an 8' as France and US split over Middle East strategy",
+        "description": "Macron calls for Middle East de-escalation while Trump and Israel push military pressure against Iran, exposing growing diplomatic rifts over regional strategy.",
+        "url": "https://www.foxnews.com/world/trump-rates-macron-an-8-france-us-split-over-middle-east-strategy",
+        "publishedAt": "2026-03-19T19:37:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "How a Wet November in Yuma Helped Drive Up Inflation in February",
+        "description": "What looked this week like a fresh sign of rising inflation may have sprouted months earlier in the desert around Yuma, Arizona.\nThe post How a Wet November in Yuma Helped Drive Up Inflation in February appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/03/19/how-a-wet-november-in-yuma-helped-drive-up-inflation-in-february/",
+        "publishedAt": "2026-03-19T19:00:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Google Discontinues AI Health Feature Filled with Misleading Advice",
+        "description": "Google has quietly discontinued an AI search feature that offered users health advice crowdsourced from non-medical professionals worldwide.\nThe post Google Discontinues AI Health Feature Filled with Misleading Advice appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/tech/2026/03/19/google-discontinues-ai-health-feature-filled-with-misleading-advice/",
+        "publishedAt": "2026-03-19T18:37:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Attending the Super Bowl is bucket-list experience that is unaffordable for most Americans",
+        "description": "Attending the Super Bowl in person is a bucket-list item that will never get checked off for many Americans as it is simply too costly for almost any NFL fan.",
+        "url": "https://www.foxnews.com/culture/attending-super-bowl-bucket-list-experience-unaffordable-most-americans",
+        "publishedAt": "2026-03-19T17:37:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "MORNING GLORY: Israel is America’s best ally — we must reject the evil of antisemitism",
+        "description": "Why America needs Israel as its strongest ally: military power, intelligence capabilities, and shared values make the case for unwavering support.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-israel-americas-best-ally-we-must-reject-evil-antisemitism",
+        "publishedAt": "2026-03-19T09:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Cardboard Khamenei, Still Hiding from Public, Issues Ominous Written Message: 'All Blood Has Its Price'",
+        "description": "Iran’s new Supreme Leader Mojtaba Khamenei ostensibly released a defiant written statement on Wednesday, vowing to retaliate for the death of security chief Ali Larijani.\nThe post Cardboard Khamenei, Still Hiding from Public, Issues Ominous Written Message: ‘…",
+        "url": "https://www.breitbart.com/middle-east/2026/03/19/cardboard-khamenei-still-hiding-from-public-issues-ominous-written-message-all-blood-has-its-price/",
+        "publishedAt": "2026-03-19T20:36:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'We Must Clean the Hemisphere of Communists': Costa Rica Cuts Ties to Cuba",
+        "description": "President of Costa Rica Rodrigo Chaves Robles announced on Wednesday that his country would cut all diplomatic ties to Cuba, shutting down its embassy in Havana and ordering all Cuban diplomats out of the country.\nThe post ‘We Must Clean the Hemisphere of Com…",
+        "url": "https://www.breitbart.com/latin-america/2026/03/19/we-must-clean-the-hemisphere-of-communists-costa-rica-cuts-ties-to-cuba/",
+        "publishedAt": "2026-03-19T20:06:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: At Least Eight States Seek Some Form of Campus Carry for Self-Defense",
+        "description": "Legislators in at least eight states seek to loosen gun restrictions on college campuses so law-abiding citizens have a means of self-defense. \nThe post Report: At Least Eight States Seek Some Form of Campus Carry for Self-Defense appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/19/report-at-least-eight-states-seek-some-form-campus-carry-self-defense/",
+        "publishedAt": "2026-03-19T19:38:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump rates Macron 'an 8' as France and US split over Middle East strategy",
+        "description": "Macron calls for Middle East de-escalation while Trump and Israel push military pressure against Iran, exposing growing diplomatic rifts over regional strategy.",
+        "url": "https://www.foxnews.com/world/trump-rates-macron-an-8-france-us-split-over-middle-east-strategy",
+        "publishedAt": "2026-03-19T19:37:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "'CODE RED' Author on 'War Room:' We Can Win AI War Without Becoming a 'Techno-Authoritarian Surveillance' State",
+        "description": "Wynton Hall, Breitbart News social media director and author of  Code Red: The Left, the Right, China, and the Race to Control AI, explained on Steve Bannon's War Room show that America can beat China without becoming a \"techno-authoritarian\" surveillance sta…",
+        "url": "https://www.breitbart.com/tech/2026/03/19/code-red-author-on-war-room-we-can-win-ai-war-without-becoming-a-techno-authoritarian-surveillance-state/",
+        "publishedAt": "2026-03-19T19:31:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
