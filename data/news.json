@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-20T20:47:30.761687+00:00",
+  "generated_at": "2026-03-20T21:16:17.608434+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Trump: Japan Is 'Really Stepping Up to the Plate' on Iran 'Unlike NATO'",
+        "description": "WASHINGTON—President Donald Trump said Thursday that Japan is \"really stepping up to the plate\" regarding Iran, unlike members of the North Atlantic Treaty Organization (NATO).\nThe post Trump: Japan Is ‘Really Stepping Up to the Plate’ on Iran ‘Unlike NATO’ a…",
+        "url": "https://www.breitbart.com/politics/2026/03/19/trump-japan-is-really-stepping-up-to-the-plate-on-iran-unlike-nato/",
+        "publishedAt": "2026-03-19T21:02:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "White men 'clearly' targeted as Virginia Dems’ race-sex bill hits Spanberger’s desk: experts",
         "description": "A new Virginia procurement bill mandates agencies increase minority and women-owned business contracts to 42%. Republicans call it unconstitutional.",
@@ -43,16 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Attending the Super Bowl is bucket-list experience that is unaffordable for most Americans",
-        "description": "Attending the Super Bowl in person is a bucket-list item that will never get checked off for many Americans as it is simply too costly for almost any NFL fan.",
-        "url": "https://www.foxnews.com/culture/attending-super-bowl-bucket-list-experience-unaffordable-most-americans",
-        "publishedAt": "2026-03-19T17:37:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump: Japan Is 'Really Stepping Up to the Plate' on Iran 'Unlike NATO'",
+        "description": "WASHINGTON—President Donald Trump said Thursday that Japan is \"really stepping up to the plate\" regarding Iran, unlike members of the North Atlantic Treaty Organization (NATO).\nThe post Trump: Japan Is ‘Really Stepping Up to the Plate’ on Iran ‘Unlike NATO’ a…",
+        "url": "https://www.breitbart.com/politics/2026/03/19/trump-japan-is-really-stepping-up-to-the-plate-on-iran-unlike-nato/",
+        "publishedAt": "2026-03-19T21:02:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Cardboard Khamenei, Still Hiding from Public, Issues Ominous Written Message: 'All Blood Has Its Price'",
         "description": "Iran’s new Supreme Leader Mojtaba Khamenei ostensibly released a defiant written statement on Wednesday, vowing to retaliate for the death of security chief Ali Larijani.\nThe post Cardboard Khamenei, Still Hiding from Public, Issues Ominous Written Message: ‘…",
@@ -108,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "8"
-      },
-      {
-        "title": "'CODE RED' Author on 'War Room:' We Can Win AI War Without Becoming a 'Techno-Authoritarian Surveillance' State",
-        "description": "Wynton Hall, Breitbart News social media director and author of  Code Red: The Left, the Right, China, and the Race to Control AI, explained on Steve Bannon's War Room show that America can beat China without becoming a \"techno-authoritarian\" surveillance sta…",
-        "url": "https://www.breitbart.com/tech/2026/03/19/code-red-author-on-war-room-we-can-win-ai-war-without-becoming-a-techno-authoritarian-surveillance-state/",
-        "publishedAt": "2026-03-19T19:31:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
