@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T16:38:30.848061+00:00",
+  "generated_at": "2026-03-20T17:23:28.871787+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Jack Keane calls out NATO's weakness as shipping crisis grips Strait of Hormuz",
+        "description": "Retired Gen. Jack Keane slams NATO allies for the initial lack of support in Iran conflict, citing decades of defense budget cuts for social programs on \"Hannity.\"",
+        "url": "https://www.foxnews.com/media/jack-keane-calls-out-nato-allies-failing-step-up-strait-hormuz-crisis",
+        "publishedAt": "2026-03-19T16:57:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Britain, Euros, Japan Announce 'Readiness to Contribute to Appropriate Efforts' in Straits of Hormuz",
         "description": "Six nations called for international law to be respected in Gulf as they announced potential joint efforts to reopen the Straits of Hormuz.\nThe post Britain, Euros, Japan Announce ‘Readiness to Contribute to Appropriate Efforts’ in Straits of Hormuz appeared …",
         "url": "https://www.breitbart.com/europe/2026/03/19/britain-euros-japan-say-readiness-to-contribute-in-straits-of-hormuz/",
@@ -106,16 +116,6 @@
         "publishedAt": "2026-03-19T13:58:21Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "19"
-      },
-      {
-        "title": "Watch Live: Tulsi Gabbard, Kash Patel, John Ratcliffe Testify on Global Threats",
-        "description": "Director of National Intelligence (DNI) Tulsi Gabbard, FBI Director Kash Patel, and CIA Director John Ratcliffe testify before the House Intelligence Committee on Thursday, March 19.\nThe post Watch Live: Tulsi Gabbard, Kash Patel, John Ratcliffe Testify on Gl…",
-        "url": "https://www.breitbart.com/politics/2026/03/19/watch-live-tulsi-gabbard-kash-patel-john-ratcliffe-testify-on-global-threats/",
-        "publishedAt": "2026-03-19T12:43:30Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "19"
       }
