@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T20:50:06.624251+00:00",
+  "generated_at": "2026-03-21T21:13:07.178630+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [
@@ -81,6 +81,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Iran regime could 'fall pretty soon,' Victor Davis Hanson says, as global tide turns",
+        "description": "Historian Victor Davis Hanson said Iran’s regime could fall within weeks as the U.S. deployed roughly 2,500 Marines amid escalating tensions in the Strait of Hormuz.",
+        "url": "https://www.foxnews.com/media/iran-regime-could-fall-pretty-soon-victor-davis-hanson-says-global-tide-turns",
+        "publishedAt": "2026-03-20T20:53:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
         "title": "BRICS Collapse Continues: South Africa Imposes Hefty Tariffs on Chinese Steel",
         "description": "The International Trade Administration Commission of South Africa (ITAC) announced on Friday that it will impose heavy tariffs on Chinese steel, after an investigation found evidence of product dumping.\nThe post BRICS Collapse Continues: South Africa Imposes …",
         "url": "https://www.breitbart.com/africa/2026/03/20/brics-collapse-continues-south-africa-imposes-hefty-tariffs-on-chinese-steel/",
@@ -119,16 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "50"
-      },
-      {
-        "title": "US intel softens on China threat, says no Taiwan invasion planned by 2027 despite military buildup",
-        "description": "The U.S. intelligence community says China has no fixed timeline to invade Taiwan and is not planning action by 2027, marking a shift from prior warnings.",
-        "url": "https://www.foxnews.com/politics/us-intel-softens-china-threat-says-no-taiwan-invasion-planned-2027-despite-military-buildup",
-        "publishedAt": "2026-03-20T17:43:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2027"
       }
     ]
   },
