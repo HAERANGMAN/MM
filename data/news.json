@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-03-21T21:13:07.178630+00:00",
+  "generated_at": "2026-03-21T21:41:28.176144+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [
-      {
-        "title": "BRICS Collapse Continues: South Africa Imposes Hefty Tariffs on Chinese Steel",
-        "description": "The International Trade Administration Commission of South Africa (ITAC) announced on Friday that it will impose heavy tariffs on Chinese steel, after an investigation found evidence of product dumping.\nThe post BRICS Collapse Continues: South Africa Imposes …",
-        "url": "https://www.breitbart.com/africa/2026/03/20/brics-collapse-continues-south-africa-imposes-hefty-tariffs-on-chinese-steel/",
-        "publishedAt": "2026-03-20T19:47:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Wellness expert reveals surprising health benefits of daily cold exposure: 'Huge difference'",
-        "description": "Conversation starters, celebrity health reveals, healthy living hacks and medical cautions: Here's what you missed in Fox News Health this week",
-        "url": "https://www.foxnews.com/health/wellness-expert-reveals-surprising-health-benefits-daily-cold-exposure-huge-difference",
-        "publishedAt": "2026-03-20T20:32:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Two Identified as Venezuelan Siblings Charged in Gang-Related Sex Trafficking Case",
-        "description": "A man and woman who are reportedly siblings from Venezuela are accused of being involved in a sex trafficking ring operating in New York City and Seattle.\nThe post Report: Two Identified as Venezuelan Siblings Charged in Gang-Related Sex Trafficking Case appe…",
-        "url": "https://www.breitbart.com/crime/2026/03/20/report-two-identified-as-venezuelan-siblings-charged-in-gang-related-sex-trafficking-case/",
-        "publishedAt": "2026-03-20T20:09:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "BRICS Collapse Continues: South Africa Imposes Hefty Tariffs on Chinese Steel",
-        "description": "The International Trade Administration Commission of South Africa (ITAC) announced on Friday that it will impose heavy tariffs on Chinese steel, after an investigation found evidence of product dumping.\nThe post BRICS Collapse Continues: South Africa Imposes …",
-        "url": "https://www.breitbart.com/africa/2026/03/20/brics-collapse-continues-south-africa-imposes-hefty-tariffs-on-chinese-steel/",
-        "publishedAt": "2026-03-20T19:47:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'CODE RED' Author to Glenn Beck: AI Creates Opportunity for Our Children if We Help Them Prepare",
-        "description": "Breitbart News social media director and author Wynton Hall joined the Glenn Beck Show to give examples of how parents can better prepare their children for the future landscape of AI through his new book, Code Red: The Left, the Right, China, and the Race to…",
-        "url": "https://www.breitbart.com/tech/2026/03/20/code-red-author-to-glenn-beck-ai-creates-opportunity-for-our-children-if-we-help-them-prepare/",
-        "publishedAt": "2026-03-20T19:37:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'CODE RED' on Grassroots Conservatism: Citizens Are Using AI to Root Out Government Waste, Fraud, and Abuse",
-        "description": "Citizens are more empowered than ever to help the government root out waste, fraud, and abuse, Wynton Hall argues in his new book, Code Red: The Left, the Right, China, and the Race to Control AI.\nThe post ‘CODE RED’ on Grassroots Conservatism: Citizens Are U…",
-        "url": "https://www.breitbart.com/tech/2026/03/20/code-red-on-grassroots-conservatism-citizens-are-using-ai-to-root-out-government-waste-fraud-and-abuse/",
-        "publishedAt": "2026-03-20T18:58:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Japanese Prime Minister Takaichi Holds ‘Very Difficult’ Talks with Trump",
-        "description": "Japanese Prime Minister Takaichi Sanae headed to Washington on Thursday for what she anticipated would be a “very difficult” meeting with President Donald Trump on the war in Iran.\nThe post Japanese Prime Minister Takaichi Holds ‘Very Difficult’ Talks with Tr…",
-        "url": "https://www.breitbart.com/national-security/2026/03/19/japanese-prime-minister-takaichi-holds-very-difficult-talks-trump/",
-        "publishedAt": "2026-03-20T01:42:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iran regime could 'fall pretty soon,' Victor Davis Hanson says, as global tide turns",
-        "description": "Historian Victor Davis Hanson said Iran’s regime could fall within weeks as the U.S. deployed roughly 2,500 Marines amid escalating tensions in the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/media/iran-regime-could-fall-pretty-soon-victor-davis-hanson-says-global-tide-turns",
-        "publishedAt": "2026-03-20T20:53:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "BRICS Collapse Continues: South Africa Imposes Hefty Tariffs on Chinese Steel",
-        "description": "The International Trade Administration Commission of South Africa (ITAC) announced on Friday that it will impose heavy tariffs on Chinese steel, after an investigation found evidence of product dumping.\nThe post BRICS Collapse Continues: South Africa Imposes …",
-        "url": "https://www.breitbart.com/africa/2026/03/20/brics-collapse-continues-south-africa-imposes-hefty-tariffs-on-chinese-steel/",
-        "publishedAt": "2026-03-20T19:47:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "White House Unveils Light-Touch National AI Framework",
-        "description": "The Trump administration on Friday unveiled a national AI framework that it hopes Congress will codify into law.\nThe post White House Unveils Light-Touch National AI Framework appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/03/20/white-house-unveils-light-touch-national-ai-framework/",
-        "publishedAt": "2026-03-20T18:26:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kentucky Legislature Passes Bill Expanding Concealed Carry to 18-20-Year-Olds",
-        "description": "The Kentucky Senate followed in the House's footsteps and passed legislation to allow 18-20-year-olds to carry concealed for self-defense. \nThe post Kentucky Legislature Passes Bill Expanding Concealed Carry to 18-20-Year-Olds appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/20/kentucky-legislature-passes-bill-expanding-concealed-carry-to-18-20-year-olds/",
-        "publishedAt": "2026-03-20T18:24:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "Exclusive: First Lady Melania Trump to Host 'Unprecedented' Global Coalition Summit at White House",
-        "description": "First Lady Melania Trump is set to make history, yet again, when she hosts the leaders of nearly 50 nations from across the world for the \"Fostering the Future Together\" Summit at the White House, which will also include the leaders of the nation's biggest te…",
-        "url": "https://www.breitbart.com/politics/2026/03/20/exclusive-first-lady-melania-trump-to-host-unprecedented-global-coalition-summit-at-white-house/",
-        "publishedAt": "2026-03-20T18:10:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "50"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
