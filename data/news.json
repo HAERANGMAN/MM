@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-03-22T05:02:50.314128+00:00",
+  "generated_at": "2026-03-22T06:02:38.760002+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [
-      {
-        "title": "BRICS Collapse Continues: South Africa Imposes Hefty Tariffs on Chinese Steel",
-        "description": "The International Trade Administration Commission of South Africa (ITAC) announced on Friday that it will impose heavy tariffs on Chinese steel, after an investigation found evidence of product dumping.\nThe post BRICS Collapse Continues: South Africa Imposes …",
-        "url": "https://www.breitbart.com/africa/2026/03/20/brics-collapse-continues-south-africa-imposes-hefty-tariffs-on-chinese-steel/",
-        "publishedAt": "2026-03-20T19:47:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Bankers Lobby White House to Block Deportation Strategy",
-        "description": "Banking groups are trying to block a White House plan to spur deportations by excluding millions of illegal migrants from the nation's banking system, according to the Washington Post. \nThe post Bankers Lobby White House to Block Deportation Strategy appeared…",
-        "url": "https://www.breitbart.com/economy/2026/03/20/bankers-lobby-white-house-to-block-deportation-strategy/",
-        "publishedAt": "2026-03-20T23:20:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stephen A Smith stunned after Rep Kevin Kiley educates on California voter ID ban",
-        "description": "Stephen A. Smith reacted with surprise after Rep. Kevin Kiley explained California’s voter ID laws and discussed election integrity and the SAVE Act.",
-        "url": "https://www.foxnews.com/media/stephen-a-smith-stunned-after-rep-kevin-kiley-educates-california-voter-id-ban",
-        "publishedAt": "2026-03-20T21:39:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Jerome Powell's Forever War with Donald Trump",
-        "description": "This week, we saw Jerome Powell insist that he can be Fed chairman forever or at least until his successor is confirmed, whichever comes first, we guess.\nThe post Breitbart Business Digest: Jerome Powell’s Forever War with Donald Trump appeared first on Breit…",
-        "url": "https://www.breitbart.com/economy/2026/03/20/breitbart-business-digest-jerome-powells-forever-war-with-donald-trump/",
-        "publishedAt": "2026-03-20T21:26:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Wellness expert reveals surprising health benefits of daily cold exposure: 'Huge difference'",
-        "description": "Conversation starters, celebrity health reveals, healthy living hacks and medical cautions: Here's what you missed in Fox News Health this week",
-        "url": "https://www.foxnews.com/health/wellness-expert-reveals-surprising-health-benefits-daily-cold-exposure-huge-difference",
-        "publishedAt": "2026-03-20T20:32:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Two Identified as Venezuelan Siblings Charged in Gang-Related Sex Trafficking Case",
-        "description": "A man and woman who are reportedly siblings from Venezuela are accused of being involved in a sex trafficking ring operating in New York City and Seattle.\nThe post Report: Two Identified as Venezuelan Siblings Charged in Gang-Related Sex Trafficking Case appe…",
-        "url": "https://www.breitbart.com/crime/2026/03/20/report-two-identified-as-venezuelan-siblings-charged-in-gang-related-sex-trafficking-case/",
-        "publishedAt": "2026-03-20T20:09:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "WATCH: ‘UNHOLY SMOKE’ — Iranian Missile Fragments Land Near Temple Mount, Western Wall in Jerusalem",
-        "description": "Fragments from an intercepted Iranian ballistic missile crashed into Jerusalem’s Old City near the Temple Mount and Western Wall in an area sacred to Jews, Muslims, and Christians alike.\nThe post WATCH: ‘UNHOLY SMOKE’ — Iranian Missile Fragments Land Near Tem…",
-        "url": "https://www.breitbart.com/politics/2026/03/20/watch-unholy-smoke-iranian-missile-fragments-land-near-temple-mount-western-wall-jerusalem/",
-        "publishedAt": "2026-03-20T22:17:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stephen A Smith stunned after Rep Kevin Kiley educates on California voter ID ban",
-        "description": "Stephen A. Smith reacted with surprise after Rep. Kevin Kiley explained California’s voter ID laws and discussed election integrity and the SAVE Act.",
-        "url": "https://www.foxnews.com/media/stephen-a-smith-stunned-after-rep-kevin-kiley-educates-california-voter-id-ban",
-        "publishedAt": "2026-03-20T21:39:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FBI warns Russian hackers targeting Americans on Signal; thousands of accounts compromised",
-        "description": "The FBI warned that Russian intelligence-linked hackers are targeting Signal users, including U.S. officials and journalists, compromising thousands of accounts.",
-        "url": "https://www.foxnews.com/politics/fbi-warns-russian-hackers-targeting-americans-signal-thousands-accounts-compromised",
-        "publishedAt": "2026-03-20T21:26:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Jerome Powell's Forever War with Donald Trump",
-        "description": "This week, we saw Jerome Powell insist that he can be Fed chairman forever or at least until his successor is confirmed, whichever comes first, we guess.\nThe post Breitbart Business Digest: Jerome Powell’s Forever War with Donald Trump appeared first on Breit…",
-        "url": "https://www.breitbart.com/economy/2026/03/20/breitbart-business-digest-jerome-powells-forever-war-with-donald-trump/",
-        "publishedAt": "2026-03-20T21:26:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran regime could 'fall pretty soon,' Victor Davis Hanson says, as global tide turns",
-        "description": "Historian Victor Davis Hanson said Iran’s regime could fall within weeks as the U.S. deployed roughly 2,500 Marines amid escalating tensions in the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/media/iran-regime-could-fall-pretty-soon-victor-davis-hanson-says-global-tide-turns",
-        "publishedAt": "2026-03-20T20:53:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
