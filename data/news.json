@@ -1,136 +1,19 @@
 {
-  "generated_at": "2026-03-23T07:48:08.427437+00:00",
+  "generated_at": "2026-03-23T08:38:05.234118+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Massachusetts mayor wants nation to see positive impact of cash handouts as city tackles poverty",
-        "description": "Uplift Salem gave 100 residents $500 monthly for one year, backed by $685,000 in private funds. Mayor Pangallo claims a Salem State University study shows broad benefits.",
-        "url": "https://www.foxnews.com/media/massachusetts-mayor-touts-no-strings-attached-cash-handouts-investments-community",
-        "publishedAt": "2026-03-21T19:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Report: Young Citizens' Happiness Plummets in High-Migration Countries",
-        "description": "Mass migration has spiked stock values in English-speaking countries, but has also helped cause younger citizens' happiness to plummet, according to a new survey.\nThe post Report: Young Citizens’ Happiness Plummets in High-Migration Countries appeared first o…",
-        "url": "https://www.breitbart.com/economy/2026/03/21/report-young-citizens-happiness-plunges-high-migration-countries/",
-        "publishedAt": "2026-03-21T18:20:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Why some US airports are dodging TSA shutdown chaos while others grind to a halt",
-        "description": "Some US airports are dodging government shutdown chaos thanks to private TSA screening contractors who get paid despite the funding standoff.",
-        "url": "https://www.foxnews.com/travel/airports-hire-private-security-avoid-long-lines-delays-amid-tsa-crisis",
-        "publishedAt": "2026-03-21T17:51:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: 'PG&E Puppet' -- Democrat Eric Swalwell Rakes in $113K from CA Utility Co. While Vowing to Cut Rates",
-        "description": "Rep. Eric Swalwell (D-CA) said he will lower energy costs if he becomes governor, but he has reportedly raked in cash from utility company PG&E.\nThe post Report: ‘PG&E Puppet’ — Democrat Eric Swalwell Rakes in $113K from CA Utility Co. While Vowing to Cut Rat…",
-        "url": "https://www.breitbart.com/politics/2026/03/21/report-pg-e-puppet-democrat-eric-swalwell-rakes-in-113k-from-ca-utility-co-vowing-cut-rates/",
-        "publishedAt": "2026-03-21T16:36:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "'CODE RED': The Alarming Research on the Impact of ‘AI Companions’ and Widespread Loneliness",
-        "description": "The popularity of \"AI companions\" is exploding as people turn to artificial intelligence to serve as their friend or even life partner. But as Wynton Hall's new book CODE RED documents, the research on the psychological impact of AI companions is alarming — f…",
-        "url": "https://www.breitbart.com/tech/2026/03/21/code-red-the-alarming-research-on-the-impact-of-ai-companions-and-widespread-loneliness/",
-        "publishedAt": "2026-03-21T15:15:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump Gives Iran 48 Hours to Reopen Strait of Hormuz or U.S. Will 'Obliterate' Iran's Power Plants",
-        "description": "President Donald Trump issued an ultimatum to Iran that if the Strait of Hormuz is not opened within 48 hours, the United States will \"obliterate\" Iran's \"various POWER PLANTS.\"\nThe post Trump Gives Iran 48 Hours to Reopen Strait of Hormuz or U.S. Will ‘Oblit…",
-        "url": "https://www.breitbart.com/politics/2026/03/21/trump-gives-iran-48-hours-to-reopen-strait-of-hormuz-or-u-s-will-obliterate-irans-power-plants/",
-        "publishedAt": "2026-03-22T01:17:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "48"
-      },
-      {
-        "title": "Over 20 Nations Announce Readiness to Help Open Strait of Hormuz",
-        "description": "More than 20 nations spanning from Asia to Europe to the Gulf have expressed a \"readiness to contribute\" to the effort of opening up the Strait of Hormuz amid threats to ships by the Islamist regime in Iran.\nThe post Over 20 Nations Announce Readiness to Help…",
-        "url": "https://www.breitbart.com/europe/2026/03/21/over-20-nations-announce-readiness-to-help-open-strait-of-hormuz/",
-        "publishedAt": "2026-03-21T16:10:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump gives Iran 48-hour ultimatum to reopen Strait of Hormuz or face strikes on power plants",
-        "description": "Trump warns Iran it has 48 hours to fully reopen the Strait of Hormuz or the U.S. will strike and obliterate its power plants, starting with the largest.",
-        "url": "https://www.foxnews.com/politics/trump-gives-iran-48-hour-ultimatum-reopen-strait-hormuz-face-strikes-power-plants",
-        "publishedAt": "2026-03-22T02:16:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "48"
-      },
-      {
-        "title": "Trump proven right on Iran's long-range missile capability as regime targets US-UK base, experts say",
-        "description": "Experts say Iran's Diego Garcia missile launch exposes alleged deception about range limits, with analysts warning Europe now faces a direct ballistic threat.",
-        "url": "https://www.foxnews.com/world/trump-proven-right-irans-long-range-missile-capability-regime-targets-us-uk-base-experts-say",
-        "publishedAt": "2026-03-21T22:07:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iranian student warns 'barbaric' regime is taking nation 'hostage,' executing civilians to end unrest",
-        "description": "Iranian activist Mooné Rahimi claimed the regime is using executions and arrests as fear tactics, holding the nation \"hostage\" as global tensions rise.",
-        "url": "https://www.foxnews.com/media/iranian-activist-warns-barbaric-regime-taking-nation-hostage-executing-civilians-end-unrest",
-        "publishedAt": "2026-03-21T18:29:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "IOC addresses execution of 19-year-old Iranian wrestler Saleh Mohammadi",
-        "description": "The IOC expressed concern over the reported execution of 19-year-old Iranian wrestling star Saleh Mohammadi but says it cannot change a sovereign nation's laws.",
-        "url": "https://www.foxnews.com/sports/ioc-addresses-execution-19-year-old-iranian-wrestler-saleh-mohammadi",
-        "publishedAt": "2026-03-21T17:40:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "19"
-      },
-      {
-        "title": "Coldplay Kiss Cam exec accuses Gwyneth Paltrow and Ryan Reynolds of fueling scandal with viral ad",
-        "description": "HR executive Kristin Cabot slams Gwyneth Paltrow and Ryan Reynolds for mocking her Coldplay Kiss Cam scandal in commercial, calling it hypocritical.",
-        "url": "https://www.foxnews.com/entertainment/coldplay-kiss-cam-exec-accuses-gwyneth-paltrow-ryan-reynolds-fueling-scandal-viral-ad",
-        "publishedAt": "2026-03-21T17:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
