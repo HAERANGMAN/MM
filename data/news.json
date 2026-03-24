@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-24T05:50:20.410287+00:00",
+  "generated_at": "2026-03-24T06:46:45.419338+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trump, Starmer agree Strait of Hormuz must reopen as Middle East conflict escalates",
+        "description": "Strait of Hormuz closure dominates a Trump-Starmer call, as Trump's 48-hour ultimatum to Iran warns of further U.S. strikes on Iranian energy infrastructure.",
+        "url": "https://www.foxnews.com/world/trump-starmer-agree-strait-hormuz-must-reopen-middle-east-conflict-escalates",
+        "publishedAt": "2026-03-23T01:11:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "48"
+      },
+      {
+        "title": "‘CODE RED’ Author on ‘War Room’: Fear of AI Job Losses Being Used to Push Wealth Redistribution",
+        "description": "Wynton Hall, Breitbart News social media director and author of  Code Red: The Left, the Right, China, and the Race to Control AI, explained on Steve Bannon’s War Room show how \"well funded\" powers are using the fear of AI-induced job losses to push for unive…",
+        "url": "https://www.breitbart.com/tech/2026/03/22/code-red-author-on-war-room-fear-of-ai-job-losses-being-used-to-push-wealth-redistribution/",
+        "publishedAt": "2026-03-23T01:08:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil",
+        "description": "Scott Bessent accused NBC's Kristen Welker of \"terrible framing\" during an exchange about Iranian oil on Sunday, as the host pressed the treasury secretary on why the U.S. lifted sanctions.",
+        "url": "https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil",
+        "publishedAt": "2026-03-23T01:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns",
+        "description": "Iran threatens to target desalination and energy infrastructure within days, a U.N. official warns, citing lasting consequences for global markets and water supplies.",
+        "url": "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days",
+        "publishedAt": "2026-03-23T00:18:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "As cattle herds shrink and beef prices rise, investors back AI cow collars",
+        "description": "A New Zealand agtech startup's AI-powered cattle collars are drawing major investor interest as beef prices climb 18% and labor shortages hit farms.",
+        "url": "https://www.foxnews.com/politics/cattle-herds-shrink-beef-prices-rise-investors-back-ai-cow-collars",
+        "publishedAt": "2026-03-22T20:10:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "18"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "World Cup teams finalize US base camps as host cities prepare for global crowds",
+        "description": "Cities across the US are preparing World Cup base camps as teams finalize training sites and fans prepare to travel for the 2026 tournament.",
+        "url": "https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
+        "publishedAt": "2026-03-23T03:55:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Trump, Starmer agree Strait of Hormuz must reopen as Middle East conflict escalates",
+        "description": "Strait of Hormuz closure dominates a Trump-Starmer call, as Trump's 48-hour ultimatum to Iran warns of further U.S. strikes on Iranian energy infrastructure.",
+        "url": "https://www.foxnews.com/world/trump-starmer-agree-strait-hormuz-must-reopen-middle-east-conflict-escalates",
+        "publishedAt": "2026-03-23T01:11:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "48"
+      },
+      {
+        "title": "‘CODE RED’ Author on ‘War Room’: Fear of AI Job Losses Being Used to Push Wealth Redistribution",
+        "description": "Wynton Hall, Breitbart News social media director and author of  Code Red: The Left, the Right, China, and the Race to Control AI, explained on Steve Bannon’s War Room show how \"well funded\" powers are using the fear of AI-induced job losses to push for unive…",
+        "url": "https://www.breitbart.com/tech/2026/03/22/code-red-author-on-war-room-fear-of-ai-job-losses-being-used-to-push-wealth-redistribution/",
+        "publishedAt": "2026-03-23T01:08:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil",
+        "description": "Scott Bessent accused NBC's Kristen Welker of \"terrible framing\" during an exchange about Iranian oil on Sunday, as the host pressed the treasury secretary on why the U.S. lifted sanctions.",
+        "url": "https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil",
+        "publishedAt": "2026-03-23T01:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns",
+        "description": "Iran threatens to target desalination and energy infrastructure within days, a U.N. official warns, citing lasting consequences for global markets and water supplies.",
+        "url": "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days",
+        "publishedAt": "2026-03-23T00:18:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
