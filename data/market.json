@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-03-24T22:54:29.010614+00:00",
-  "insight": "Raw data summary: NASDAQ -0.84%, S&P 500 -0.37%, KOSPI +2.74%, USD/KRW -0.61%",
+  "generated_at": "2026-03-24T23:26:57.194985+00:00",
+  "insight": "Raw data summary: NASDAQ -0.84%, S&P 500 -0.37%, KOSPI +2.74%",
   "errors": [
-    "USD/JPY: The read operation timed out"
+    "USD/KRW: The read operation timed out",
+    "THB/KRW: The read operation timed out"
   ],
   "items": [
     {
@@ -53,19 +54,19 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 70298.0,
-      "dod": -0.8698591246413226,
-      "mom": 3.8998420627587493,
-      "yoy": -19.658431475176343,
+      "price": 70650.4296875,
+      "dod": -0.3728833277405057,
+      "mom": 4.420730123151327,
+      "yoy": -19.25564969065241,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 105335184.0,
-      "dod": -0.07297074726826437,
-      "mom": 7.687034370807436,
-      "yoy": -17.95374417222183,
+      "price": 105863312.0,
+      "dod": 0.4280419258114798,
+      "mom": 8.22695404368887,
+      "yoy": -17.54238185858299,
       "raw_points": 1827
     },
     {
@@ -80,20 +81,20 @@
     {
       "key": "USD/JPY",
       "label": "USD/JPY",
+      "price": 158.55,
+      "dod": -0.30809859154928365,
+      "mom": 2.92781095819269,
+      "yoy": 6.330896653477297,
+      "raw_points": 262
+    },
+    {
+      "key": "USD/KRW",
+      "label": "USD/KRW",
       "price": null,
       "dod": null,
       "mom": null,
       "yoy": null,
       "raw_points": 0
-    },
-    {
-      "key": "USD/KRW",
-      "label": "USD/KRW",
-      "price": 1487.52,
-      "dod": -0.6146774279758435,
-      "mom": 2.8350996536491273,
-      "yoy": 1.9694404266549688,
-      "raw_points": 262
     },
     {
       "key": "USD/THB",
@@ -107,11 +108,11 @@
     {
       "key": "THB/KRW",
       "label": "THB/KRW",
-      "price": 46.117,
-      "dod": 0.45088216074929377,
-      "mom": -0.46404213070880473,
-      "yoy": 6.515613451589057,
-      "raw_points": 262
+      "price": null,
+      "dod": null,
+      "mom": null,
+      "yoy": null,
+      "raw_points": 0
     }
   ]
 }
