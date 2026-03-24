@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-24T12:04:49.360154+00:00",
+  "generated_at": "2026-03-24T13:49:28.512569+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "‘F**k Israel Free Palestine’ Rap Group Kneecap Headline Concert for Leftists in Cuba amid Nationwide Blackout",
+        "description": "Champagne socialists from Europe and the U.S. flew to communist Cuba to perform a concert Saturday and stayed in a 5-star hotel while Cuban citizens suffer food shortages and power outages.",
+        "url": "https://www.breitbart.com/entertainment/2026/03/23/fk-israel-free-palestine-rap-group-kneecap-headline-concert-for-leftists-in-cuba-amid-nationwide-blackout/",
+        "publishedAt": "2026-03-23T12:36:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "5"
+      },
       {
         "title": "Blue tsunami predictions for November election might not make landfall",
         "description": "Foreign policy does matter and Trump's military actions in Iran, Venezuela and Cuba could reshape November midterm elections more than polling suggests.",
@@ -43,16 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "If Cuba falls, who steps in? Castro dynasty shadows island’s future",
-        "description": "As President Donald Trump signals possible action, experts say Cuba has no clear successor while Raúl Castro, 94, remains a significant influence on the communist country.",
-        "url": "https://www.foxnews.com/world/cuba-falls-who-steps-in-castro-dynasty-shadows-islands-future",
-        "publishedAt": "2026-03-23T10:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "94"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Alleged Intruder Threatens Home Occupants, Gets Shot",
+        "description": "An alleged Rancho Cordova, California, intruder who threatened at least one home occupant was hospitalized Thursday night after the homeowner opened fire. The Sacramento Bee reported the incident occurred around 9:15 p.m. As the alleged intruder attempted to …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/23/alleged-intruder-threatens-home-occupants-gets-shot/",
+        "publishedAt": "2026-03-23T13:41:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "Olympic legend Katie Ledecky shares what she's learned about America",
+        "description": "Olympic legend Katie Ledecky revealed in a recent interview what she's learned about America while representing Team USA on the global stage.",
+        "url": "https://www.foxnews.com/sports/olympic-legend-katie-ledecky-shares-what-shes-learned-about-america",
+        "publishedAt": "2026-03-23T12:48:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Power Couple of Chaos: How a tycoon and activist built a 'Revolutionary Base' at the House of Singham",
         "description": "Neville Roy Singham and Jodie Evans funneled $278 million through network spreading pro-China propaganda, according to Fox News Digital investigation.",
         "url": "https://www.foxnews.com/us/house-singham",
@@ -104,26 +124,6 @@
         "description": "Foreign policy does matter and Trump's military actions in Iran, Venezuela and Cuba could reshape November midterm elections more than polling suggests.",
         "url": "https://www.foxnews.com/opinion/blue-tsunami-predictions-november-election-might-not-make-landfall",
         "publishedAt": "2026-03-23T11:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Two pilots dead after plane collides with fire truck on LaGuardia Airport runway and more top headlines",
-        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "url": "https://www.foxnews.com/us/two-pilots-dead-after-plane-collides-fire-truck-laguardia-airport-runway-more-top-headlines",
-        "publishedAt": "2026-03-23T10:58:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "CHAD WOLF: Trump is serious about the China threat and is rebuilding our arsenal",
-        "description": "Washington addresses Chinese Communist Party military threat by rebuilding America's industrial capacity to produce critical weapons systems and munitions.",
-        "url": "https://www.foxnews.com/opinion/chad-wolf-trump-serious-about-china-threat-rebuilding-our-arsenal",
-        "publishedAt": "2026-03-23T09:00:26Z",
         "source": {
           "name": "Fox News"
         },
