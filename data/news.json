@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-25T12:02:29.098773+00:00",
+  "generated_at": "2026-03-25T13:45:24.705071+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Gov Josh Shapiro admits Dem issues beyond rhetoric, says they failed to deliver to voters",
+        "description": "Pennsylvania Gov. Josh Shapiro argues the Democratic Party's problems go beyond messaging, saying Democrats failed to deliver tangible results and need an internal reckoning.",
+        "url": "https://www.foxnews.com/media/gov-josh-shapiro-admits-dem-issues-beyond-rhetoric-says-failed-deliver-voters",
+        "publishedAt": "2026-03-24T11:23:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Closing Down Germany's Nuclear Plants 'Huge Strategic Error' Says International Energy Agency",
+        "description": "It's a mistake which has exacerbated the energy crisis in Europe, the director of the International Energy Agency said.\nThe post Closing Down Germany’s Nuclear Plants ‘Huge Strategic Error’ Says International Energy Agency appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/03/24/closing-down-germanys-nuclear-plants-huge-strategic-error-says-iea/",
+        "publishedAt": "2026-03-24T09:43:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump unleashes nuclear boom, powering America back to energy dominance",
+        "description": "The DOE's Nuclear Lifecycle Innovation Campus concept proposes state-led hubs to rebuild America's nuclear fuel cycle and restore industrial leadership.",
+        "url": "https://www.foxnews.com/opinion/trump-unleashes-nuclear-boom-powering-america-back-energy-dominance",
+        "publishedAt": "2026-03-24T09:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump delays energy strikes, sets five days for Iran talks",
+        "description": "Trump told reporters Monday that he was holding off on attacking Iranian energy infrastructure for five days, citing “major points of agreement” with Iran.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-23/trump-touts-fresh-iran-talks-delays-attacks-on-energy-sites",
+        "publishedAt": "2026-03-24T04:26:33Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's death will be 'like Mardi Gras in New Orleans,' Charlamagne warns after Mueller post",
+        "description": "Radio host Charlamagne Tha God warned President Donald Trump that people will celebrate his death \"like Mardi Gras\" after he celebrated Robert Mueller's death.",
+        "url": "https://www.foxnews.com/media/trumps-death-like-mardi-gras-new-orleans-charlamagne-warns-after-mueller-post",
+        "publishedAt": "2026-03-23T23:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Trump unveils national AI policy framework",
+        "description": "The Trump administration released a national AI framework addressing safety, jobs, energy use and free speech as the U.S. seeks to stay competitive globally.",
+        "url": "https://www.foxnews.com/tech/trump-unveils-national-ai-policy-framework",
+        "publishedAt": "2026-03-24T12:36:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Red wealth, dark money: How an American tycoon deploys Mao's playbook against the West",
+        "description": "Fox News Digital reveals how $278M of Singham’s fortune moved through shell-like entities, shared boards and interconnected nonprofits.",
+        "url": "https://www.foxnews.com/politics/red-wealth-dark-money-how-american-tycoon-deploys-maos-playbook-against-west",
+        "publishedAt": "2026-03-24T12:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Scammers using AI meet their match as OpenAI, tech industry fight back",
+        "description": "OpenAI joins the Global Anti-Scam Alliance and launches Scam.org, an AI-powered platform supporting scam victims in over 50 languages worldwide.",
+        "url": "https://www.foxnews.com/media/scammers-using-ai-meet-match-openai-tech-industry-fight-back",
+        "publishedAt": "2026-03-24T11:00:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "Closing Down Germany's Nuclear Plants 'Huge Strategic Error' Says International Energy Agency",
+        "description": "It's a mistake which has exacerbated the energy crisis in Europe, the director of the International Energy Agency said.\nThe post Closing Down Germany’s Nuclear Plants ‘Huge Strategic Error’ Says International Energy Agency appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/03/24/closing-down-germanys-nuclear-plants-huge-strategic-error-says-iea/",
+        "publishedAt": "2026-03-24T09:43:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump unleashes nuclear boom, powering America back to energy dominance",
+        "description": "The DOE's Nuclear Lifecycle Innovation Campus concept proposes state-led hubs to rebuild America's nuclear fuel cycle and restore industrial leadership.",
+        "url": "https://www.foxnews.com/opinion/trump-unleashes-nuclear-boom-powering-america-back-energy-dominance",
+        "publishedAt": "2026-03-24T09:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
