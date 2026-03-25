@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-03-25T18:01:24.837390+00:00",
+  "generated_at": "2026-03-25T19:10:02.320591+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Former Playboy model Kendra Wilkinson opts for GLP-1 shots instead of new jeans: 'Mama is on a budget'",
-        "description": "Kendra Wilkinson says she plans to start GLP-1 weight loss shots after turning 40, noting her jeans feel tighter but insisting she is happy and at peace.",
-        "url": "https://www.foxnews.com/entertainment/former-playboy-model-kendra-wilkinson-opts-glp-1-shots-instead-new-jeans",
-        "publishedAt": "2026-03-24T17:29:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Retired general calls for US ground operation to seize Iranian island, cut off regime's 'economic lifeline'",
-        "description": "Retired Lt. Gen. Keith Kellogg said seizing Iran’s Kharg Island and securing the Strait of Hormuz with U.S. ground forces could break Tehran’s control over global oil flows.",
-        "url": "https://www.foxnews.com/media/retired-general-calls-us-ground-operation-seize-iranian-island-cut-off-regimes-economic-lifeline",
-        "publishedAt": "2026-03-24T16:29:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrat strategist warns Mamdani's ballooning NYC budget plan gives Republicans a ready-made midterm message",
-        "description": "Democratic strategist Melissa DeRosa says NYC Mayor Zohran Mamdani's $127B budget hands Republicans a perfect midterm attack on tax-and-spend Democrats.",
-        "url": "https://www.foxnews.com/media/democrat-strategist-warns-mamdanis-ballooning-nyc-budget-plan-gives-republicans-ready-made-midterm-message",
-        "publishedAt": "2026-03-24T15:41:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Greater weight loss promised by higher-dose Wegovy shot, now approved by FDA",
-        "description": "The FDA approved Wegovy HD, a higher-dose semaglutide for weight loss in adults with obesity, offering greater weight reduction, as experts warn of side effects.",
-        "url": "https://www.foxnews.com/health/greater-weight-loss-promised-higher-dose-wegovy-shot-now-approved-fda",
-        "publishedAt": "2026-03-24T15:16:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Minnesota millionaire who qualified for food stamps warns of 'fraud by design' loophole ahead of hearing",
-        "description": "A millionaire says he qualified for food stamps via a SNAP loophole and will testify at a Minnesota state hearing pushing for stricter asset test reforms.",
-        "url": "https://www.foxnews.com/politics/minnesota-millionaire-who-qualified-for-food-stamps-warns-of-fraud-by-design-loophole-ahead-of-hearing",
-        "publishedAt": "2026-03-24T14:05:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "American officials issue 'worldwide caution' advisory for travelers amid global conflict",
-        "description": "The State Department issued a \"worldwide caution\" alert warning Americans abroad about Iran-linked threats, urging heightened caution in the Middle East.",
-        "url": "https://www.foxnews.com/travel/american-officials-issue-worldwide-caution-advisory-travelers-global-conflict",
-        "publishedAt": "2026-03-24T16:35:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Retired general calls for US ground operation to seize Iranian island, cut off regime's 'economic lifeline'",
-        "description": "Retired Lt. Gen. Keith Kellogg said seizing Iran’s Kharg Island and securing the Strait of Hormuz with U.S. ground forces could break Tehran’s control over global oil flows.",
-        "url": "https://www.foxnews.com/media/retired-general-calls-us-ground-operation-seize-iranian-island-cut-off-regimes-economic-lifeline",
-        "publishedAt": "2026-03-24T16:29:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Has Laid Small Number of Naval Mines Into Strait of Hormuz, Challenging Peace Talks: Report",
-        "description": "Iran has laid a small number of sea mines in the Strait of Hormuz, an anonymously-sourced report claims.\nThe post Iran Has Laid Small Number of Naval Mines Into Strait of Hormuz, Challenging Peace Talks: Report appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/03/24/iran-has-laid-small-number-of-naval-mines-into-strait-of-hormuz-report/",
-        "publishedAt": "2026-03-24T16:13:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Zelensky: Russia Offering Iran Intelligence Support to Strike Enemies 'More Accurately'",
-        "description": "Ukrainian President Volodymyr Zelensky warned in a war update on Monday that the government of Russia was allegedly offering Iran intelligence to help it more accurately target sites, presumably American or Israeli targets, in the ongoing war in the region.\nT…",
-        "url": "https://www.breitbart.com/middle-east/2026/03/24/zelensky-russia-offering-iran-intelligence-support-to-strike-enemies-more-accurately/",
-        "publishedAt": "2026-03-24T15:25:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump unveils national AI policy framework",
-        "description": "The Trump administration released a national AI framework addressing safety, jobs, energy use and free speech as the U.S. seeks to stay competitive globally.",
-        "url": "https://www.foxnews.com/tech/trump-unveils-national-ai-policy-framework",
-        "publishedAt": "2026-03-24T12:36:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
