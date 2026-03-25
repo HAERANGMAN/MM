@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-03-25T21:06:53.287142+00:00",
-  "insight": "Raw data summary: NASDAQ +0.77%, S&P 500 +0.54%, KOSPI +1.59%",
+  "generated_at": "2026-03-25T21:54:03.556156+00:00",
+  "insight": "Raw data summary: NASDAQ +0.77%, S&P 500 +0.54%, KOSPI +1.59%, USD/KRW -0.24%",
   "errors": [
-    "USD/JPY: HTTP Error 522: <none>",
-    "USD/KRW: HTTP Error 522: <none>",
-    "USD/THB: HTTP Error 522: <none>",
-    "THB/KRW: HTTP Error 522: <none>"
+    "USD/JPY: The read operation timed out",
+    "USD/THB: The read operation timed out",
+    "THB/KRW: The read operation timed out"
   ],
   "items": [
     {
@@ -56,28 +55,28 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 70980.9296875,
-      "dod": 0.6566709718703795,
-      "mom": 9.849137507605693,
-      "yoy": -18.852695041199933,
+      "price": 71033.0859375,
+      "dod": 0.7306327320007365,
+      "mom": 9.929853822584306,
+      "yoy": -18.793068615582648,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 106789528.0,
-      "dod": 1.0645602393625175,
-      "mom": 14.514433493446216,
-      "yoy": -16.55699138139851,
+      "price": 106708288.0,
+      "dod": 0.9876755014334783,
+      "mom": 14.427316781243801,
+      "yoy": -16.620470545948944,
       "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": 99.6520004272461,
-      "dod": 0.2232727762133542,
-      "mom": 1.9979565404060402,
-      "yoy": -4.346323540665925,
+      "price": 99.61699676513672,
+      "dod": 0.1880684495494299,
+      "mom": 1.9621288400961632,
+      "yoy": -4.379922755492991,
       "raw_points": 1258
     },
     {
@@ -92,11 +91,11 @@
     {
       "key": "USD/KRW",
       "label": "USD/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 1493.18,
+      "dod": -0.23651718424287532,
+      "mom": 3.2263862676372836,
+      "yoy": 2.357433215198905,
+      "raw_points": 262
     },
     {
       "key": "USD/THB",
