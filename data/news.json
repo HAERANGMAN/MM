@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-25T13:45:24.705071+00:00",
+  "generated_at": "2026-03-25T14:47:17.264477+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Minnesota millionaire who qualified for food stamps warns of 'fraud by design' loophole ahead of hearing",
+        "description": "A millionaire says he qualified for food stamps via a SNAP loophole and will testify at a Minnesota state hearing pushing for stricter asset test reforms.",
+        "url": "https://www.foxnews.com/politics/minnesota-millionaire-who-qualified-for-food-stamps-warns-of-fraud-by-design-loophole-ahead-of-hearing",
+        "publishedAt": "2026-03-24T14:05:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Gov Josh Shapiro admits Dem issues beyond rhetoric, says they failed to deliver to voters",
         "description": "Pennsylvania Gov. Josh Shapiro argues the Democratic Party's problems go beyond messaging, saying Democrats failed to deliver tangible results and need an internal reckoning.",
@@ -41,16 +51,6 @@
         "publishedAt": "2026-03-24T04:26:33Z",
         "source": {
           "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's death will be 'like Mardi Gras in New Orleans,' Charlamagne warns after Mueller post",
-        "description": "Radio host Charlamagne Tha God warned President Donald Trump that people will celebrate his death \"like Mardi Gras\" after he celebrated Robert Mueller's death.",
-        "url": "https://www.foxnews.com/media/trumps-death-like-mardi-gras-new-orleans-charlamagne-warns-after-mueller-post",
-        "publishedAt": "2026-03-23T23:00:58Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
