@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-25T16:58:12.317110+00:00",
+  "generated_at": "2026-03-25T18:01:24.837390+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Former Playboy model Kendra Wilkinson opts for GLP-1 shots instead of new jeans: 'Mama is on a budget'",
+        "description": "Kendra Wilkinson says she plans to start GLP-1 weight loss shots after turning 40, noting her jeans feel tighter but insisting she is happy and at peace.",
+        "url": "https://www.foxnews.com/entertainment/former-playboy-model-kendra-wilkinson-opts-glp-1-shots-instead-new-jeans",
+        "publishedAt": "2026-03-24T17:29:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
       {
         "title": "Retired general calls for US ground operation to seize Iranian island, cut off regime's 'economic lifeline'",
         "description": "Retired Lt. Gen. Keith Kellogg said seizing Iran’s Kharg Island and securing the Strait of Hormuz with U.S. ground forces could break Tehran’s control over global oil flows.",
@@ -39,16 +49,6 @@
         "description": "A millionaire says he qualified for food stamps via a SNAP loophole and will testify at a Minnesota state hearing pushing for stricter asset test reforms.",
         "url": "https://www.foxnews.com/politics/minnesota-millionaire-who-qualified-for-food-stamps-warns-of-fraud-by-design-loophole-ahead-of-hearing",
         "publishedAt": "2026-03-24T14:05:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gov Josh Shapiro admits Dem issues beyond rhetoric, says they failed to deliver to voters",
-        "description": "Pennsylvania Gov. Josh Shapiro argues the Democratic Party's problems go beyond messaging, saying Democrats failed to deliver tangible results and need an internal reckoning.",
-        "url": "https://www.foxnews.com/media/gov-josh-shapiro-admits-dem-issues-beyond-rhetoric-says-failed-deliver-voters",
-        "publishedAt": "2026-03-24T11:23:23Z",
         "source": {
           "name": "Fox News"
         },
