@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-26T21:54:29.246748+00:00",
+  "generated_at": "2026-03-26T22:27:20.464662+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Fox News Poll: Voters oppose action in Iran but give US military positive marks",
+        "description": "A new poll finds 58% of voters oppose U.S. military action in Iran, while Trump's disapproval rating hits a second-term high of 59%, the survey shows.",
+        "url": "https://www.foxnews.com/politics/fox-news-poll-voters-oppose-action-iran-give-u-s-military-positive-marks",
+        "publishedAt": "2026-03-25T22:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "58"
+      },
       {
         "title": "Peter Schweizer: Investigate Iran War Insider Trading",
         "description": "Are there administration insiders profiting from knowing news about the war with Iran before the public does? Recent news stories from the world of “prediction markets” seem to indicate that may in fact be happening.\nThe post Peter Schweizer: Investigate Iran…",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "42"
-      },
-      {
-        "title": "Meet Iran's hardline speaker who threatened to burn US forces — reportedly Tehran's point man for talks",
-        "description": "Iranian parliament speaker Ghalibaf has threatened U.S. forces while reportedly being eyed by the Trump administration as a potential Iran talks channel.",
-        "url": "https://www.foxnews.com/world/meet-irans-hardline-speaker-who-threatened-burn-us-forces-reportedly-tehrans-point-man-talks",
-        "publishedAt": "2026-03-25T20:03:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
