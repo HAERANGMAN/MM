@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-26T21:27:40.607195+00:00",
+  "generated_at": "2026-03-26T21:54:29.246748+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Peter Schweizer: Investigate Iran War Insider Trading",
+        "description": "Are there administration insiders profiting from knowing news about the war with Iran before the public does? Recent news stories from the world of “prediction markets” seem to indicate that may in fact be happening.\nThe post Peter Schweizer: Investigate Iran…",
+        "url": "https://www.breitbart.com/podcast/2026/03/25/peter-schweizer-investigate-iran-war-insider-trading/",
+        "publishedAt": "2026-03-25T21:53:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kevin O'Leary says removing Iran from Strait of Hormuz would be a global 'game changer'",
+        "description": "'Shark Tank' star Kevin O'Leary says removing Iranian control of the Strait of Hormuz would be a global game changer, calling the shift 'very bullish' for world markets.",
+        "url": "https://www.foxnews.com/media/kevin-oleary-says-removing-iran-from-strait-hormuz-would-global-game-changer",
+        "publishedAt": "2026-03-25T21:48:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump boosts GOP war chest as House Republicans gear up for high-stakes midterm fight",
+        "description": "House Republicans will announce a record haul at the NRCC fundraising dinner headlined by Trump as they fight to defend their slim House majority.",
+        "url": "https://www.foxnews.com/politics/trump-boosts-gop-war-chest-house-republicans-gear-up-high-stakes-midterm-fight",
+        "publishedAt": "2026-03-25T21:06:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US Army raises enlistment age to 42 and eases marijuana policies to bolster ranks",
+        "description": "The U.S. Army is raising its maximum recruitment age to 42 and removing restrictions for single marijuana convictions to boost technical talent.",
+        "url": "https://www.foxnews.com/us/us-army-raises-enlistment-age-42-eases-marijuana-policies-bolster-ranks",
+        "publishedAt": "2026-03-25T21:02:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "42"
+      },
+      {
+        "title": "Meet Iran's hardline speaker who threatened to burn US forces — reportedly Tehran's point man for talks",
+        "description": "Iranian parliament speaker Ghalibaf has threatened U.S. forces while reportedly being eyed by the Trump administration as a potential Iran talks channel.",
+        "url": "https://www.foxnews.com/world/meet-irans-hardline-speaker-who-threatened-burn-us-forces-reportedly-tehrans-point-man-talks",
+        "publishedAt": "2026-03-25T20:03:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Kevin O'Leary says removing Iran from Strait of Hormuz would be a global 'game changer'",
+        "description": "'Shark Tank' star Kevin O'Leary says removing Iranian control of the Strait of Hormuz would be a global game changer, calling the shift 'very bullish' for world markets.",
+        "url": "https://www.foxnews.com/media/kevin-oleary-says-removing-iran-from-strait-hormuz-would-global-game-changer",
+        "publishedAt": "2026-03-25T21:48:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Melania Trump welcomes humanoid robot to White House for historic AI summit",
+        "description": "First Lady Melania Trump on Wednesday hosted a global tech summit at the White House East Room, featuring the Figure 03 humanoid robot.",
+        "url": "https://www.foxnews.com/politics/melania-trump-welcomes-humanoid-robot-white-house-historic-ai-summit",
+        "publishedAt": "2026-03-25T21:23:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "03"
+      },
+      {
+        "title": "Meet Iran's hardline speaker who threatened to burn US forces — reportedly Tehran's point man for talks",
+        "description": "Iranian parliament speaker Ghalibaf has threatened U.S. forces while reportedly being eyed by the Trump administration as a potential Iran talks channel.",
+        "url": "https://www.foxnews.com/world/meet-irans-hardline-speaker-who-threatened-burn-us-forces-reportedly-tehrans-point-man-talks",
+        "publishedAt": "2026-03-25T20:03:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Melania Trump Hosts 45 First Spouses at White House for Second Day of Fostering the Future Together Summit",
+        "description": "First Lady Melania Trump on Tuesday welcomed leaders from around the world, including first spouses, to the White House for day two of the Fostering The Future Together Global Coalition Summit, which is focused on empowering children worldwide through technol…",
+        "url": "https://www.breitbart.com/politics/2026/03/25/melania-trump-hosts-45-first-spouses-at-white-house-for-second-day-of-fostering-the-future-together-summit/",
+        "publishedAt": "2026-03-25T20:01:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "45"
+      },
+      {
+        "title": "Iranian missiles could have hit DC from Venezuela before Trump move, Burgum warns",
+        "description": "Interior Secretary Doug Burgum revealed that Iran could have hit Washington, D.C., and other U.S. cities through proxies in Venezuela had the Trump administration not intervened.",
+        "url": "https://www.foxnews.com/politics/iranian-missiles-could-have-hit-dc-from-venezuela-before-trump-move-burgum-warns",
+        "publishedAt": "2026-03-25T19:56:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
