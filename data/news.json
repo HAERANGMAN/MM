@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T17:47:11.117517+00:00",
+  "generated_at": "2026-03-26T18:44:25.004542+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Iran-linked influence campaign pushes anti-Israel messaging disguised as US voices",
+        "description": "Foreign accounts allegedly mimic American voices online, with Argyle research claiming 60% of Operation Epic Fury discourse originates outside the U.S.",
+        "url": "https://www.foxnews.com/world/iran-linked-influence-campaign-pushes-anti-israel-messaging-disguised-us-voices",
+        "publishedAt": "2026-03-25T18:01:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
         "title": "Fashion Notes: Melania Trump Struts Alongside Robot in Dolce & Gabbana",
         "description": "First Lady Melania Trump made history on Wednesday as she strutted through the halls of the East Room of the White House alongside a robot.\nThe post Fashion Notes: Melania Trump Struts Alongside Robot in Dolce & Gabbana appeared first on Breitbart.",
         "url": "https://www.breitbart.com/entertainment/2026/03/25/fashion-notes-melania-trump-struts-alongside-robot-in-dolce-gabbana/",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive Poll: 87 Percent of Battleground Voters Concerned About Agriculture Inputs from China",
-        "description": "A survey found that 87 percent of battleground voters remain highly concerned about the prospect of America having to import agricultural inputs from China. The 2026 Farm Bill aims to address this major concern.\nThe post Exclusive Poll: 87 Percent of Battlegr…",
-        "url": "https://www.breitbart.com/politics/2026/03/25/exclusive-poll-87-percent-of-battleground-voters-concerned-about-agriculture-inputs-from-china/",
-        "publishedAt": "2026-03-25T16:16:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "87"
       }
     ]
   },
