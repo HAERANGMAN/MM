@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-03-26T16:46:23.746650+00:00",
+  "generated_at": "2026-03-26T17:47:11.117517+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "FCC Bans Foreign-Made Consumer Routers Citing 'Unacceptable Risk' of China Hacking",
+        "description": "The FCC has prohibited the import of consumer routers manufactured outside the United States, effectively blocking the majority of networking devices from entering the American market. The danger of Chinese hackers to everyday Americans has caused the governm…",
+        "url": "https://www.breitbart.com/tech/2026/03/25/fcc-bans-foreign-made-consumer-routers-citing-unacceptable-risk-of-china-hacking/",
+        "publishedAt": "2026-03-25T17:00:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Spring break crackdown cuts arrests in hot spot while chaos spreads to other party hubs",
+        "description": "Miami Beach reports a 24% drop in spring break arrests in 2026, says Commissioner Alex Fernandez, while Daytona Beach and Fort Lauderdale continue battling seasonal chaos.",
+        "url": "https://www.foxnews.com/us/spring-break-crackdown-cuts-arrests-hot-spot-while-chaos-spreads-other-party-hubs",
+        "publishedAt": "2026-03-25T16:42:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "24"
+      },
+      {
+        "title": "Machado tells US oil giants Venezuela will become beacon of wealth creation after Trump ousted Maduro",
+        "description": "María Corina Machado is pitching Venezuela as a top U.S. oil partner after she said the Trump administration’s arrest of former dictator Nicolás Maduro opened up a “new era.\"",
+        "url": "https://www.foxnews.com/politics/machado-tells-us-oil-giants-venezuela-become-beacon-wealth-creation-after-trump-ousted-maduro",
+        "publishedAt": "2026-03-25T16:38:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Your internet router could be China-linked: FCC cracks down on ‘unacceptable’ security risks",
+        "description": "The FCC is moving to block new foreign-made internet routers from U.S. markets, warning that overseas supply chains pose serious national security risks.",
+        "url": "https://www.foxnews.com/politics/your-internet-router-could-china-linked-fcc-cracks-down-unacceptable-security-risks",
+        "publishedAt": "2026-03-25T16:26:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Soros-backed DA Krasner threatens ICE agents at Philly airport: ‘I will put you in handcuffs’",
+        "description": "Philadelphia DA Lawrence Krasner threatens to arrest ICE agents at airports, warning Trump officials: 'I will put you in handcuffs' if laws are broken.",
+        "url": "https://www.foxnews.com/politics/soros-backed-da-krasner-threatens-ice-agents-philly-airport-i-put-you-handcuffs",
+        "publishedAt": "2026-03-25T16:23:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Fashion Notes: Melania Trump Struts Alongside Robot in Dolce & Gabbana",
+        "description": "First Lady Melania Trump made history on Wednesday as she strutted through the halls of the East Room of the White House alongside a robot.\nThe post Fashion Notes: Melania Trump Struts Alongside Robot in Dolce & Gabbana appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/03/25/fashion-notes-melania-trump-struts-alongside-robot-in-dolce-gabbana/",
+        "publishedAt": "2026-03-25T17:03:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FCC Bans Foreign-Made Consumer Routers Citing 'Unacceptable Risk' of China Hacking",
+        "description": "The FCC has prohibited the import of consumer routers manufactured outside the United States, effectively blocking the majority of networking devices from entering the American market. The danger of Chinese hackers to everyday Americans has caused the governm…",
+        "url": "https://www.breitbart.com/tech/2026/03/25/fcc-bans-foreign-made-consumer-routers-citing-unacceptable-risk-of-china-hacking/",
+        "publishedAt": "2026-03-25T17:00:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Machado tells US oil giants Venezuela will become beacon of wealth creation after Trump ousted Maduro",
+        "description": "María Corina Machado is pitching Venezuela as a top U.S. oil partner after she said the Trump administration’s arrest of former dictator Nicolás Maduro opened up a “new era.\"",
+        "url": "https://www.foxnews.com/politics/machado-tells-us-oil-giants-venezuela-become-beacon-wealth-creation-after-trump-ousted-maduro",
+        "publishedAt": "2026-03-25T16:38:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Current-Account Deficit Narrowed Sharply in Fourth Quarter",
+        "description": "A swing in investment income drove the largest quarterly improvement in two years.\nThe post U.S. Current-Account Deficit Narrowed Sharply in Fourth Quarter appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/03/25/u-s-current-account-deficit-narrowed-sharply-in-fourth-quarter/",
+        "publishedAt": "2026-03-25T16:28:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive Poll: 87 Percent of Battleground Voters Concerned About Agriculture Inputs from China",
+        "description": "A survey found that 87 percent of battleground voters remain highly concerned about the prospect of America having to import agricultural inputs from China. The 2026 Farm Bill aims to address this major concern.\nThe post Exclusive Poll: 87 Percent of Battlegr…",
+        "url": "https://www.breitbart.com/politics/2026/03/25/exclusive-poll-87-percent-of-battleground-voters-concerned-about-agriculture-inputs-from-china/",
+        "publishedAt": "2026-03-25T16:16:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "87"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
