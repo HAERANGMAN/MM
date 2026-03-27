@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T22:55:46.413163+00:00",
+  "generated_at": "2026-03-27T23:34:33.593222+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Fox News Poll: Sour voters say Washington is out of touch",
-        "description": "A new national poll finds Trump's disapproval hits a second-term high of 59%, with his inflation approval sinking to 28% as voter pessimism grows.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-sour-voters-say-washington-out-touch",
-        "publishedAt": "2026-03-26T22:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "59"
-      },
-      {
-        "title": "Sen. Banks on Exposing CCP Propaganda: 'If It Weren't for Breitbart ... We Would Never Hear About These Things'",
-        "description": "Breitbart News has played a critical role in ensuring Americans know the truth about Chinese Communist Party (CCP) propaganda, Sen. Jim Banks (R-IN) said during an event with Breitbart News in Washington, DC, on Thursday.\nThe post Sen. Banks on Exposing CCP P…",
-        "url": "https://www.breitbart.com/politics/2026/03/26/sen-banks-on-exposing-ccp-propaganda-if-it-werent-for-breitbart-we-would-never-hear-about-these-things/",
-        "publishedAt": "2026-03-26T21:26:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Sen. Tom Cotton: China, Iran Are Allies in Fighting U.S. Leadership of International Order",
-        "description": "Breitbart News hosted a policy discussion on Thursday focused on threats posed by China and the Chinese Communist Party, where Sen. Tom Cotton (R-AR) said China and Iran have been allies and share a goal of opposing the United States as the dominant global po…",
-        "url": "https://www.breitbart.com/national-security/2026/03/26/exclusive-sen-tom-cotton-china-iran-are-allies-in-fighting-u-s-leadership-of-international-order/",
-        "publishedAt": "2026-03-26T20:34:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dementia risk signals could lie in simple blood pressure readings, say researchers",
-        "description": "New research suggests that routine blood pressure checks may predict dementia risk years before symptoms, with one metric linked to a 76% higher risk in adults under 65.",
-        "url": "https://www.foxnews.com/health/dementia-risk-signals-could-lie-simple-blood-pressure-readings-say-researchers",
-        "publishedAt": "2026-03-26T19:52:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "76"
-      },
-      {
-        "title": "Exclusive – Sen. Jim Banks: Trump Is First President Bold Enough to Call China Our Enemy",
-        "description": "Donald Trump is the first modern president bold enough to call China our enemy, Sen. Jim Banks (R-IN) told Breitbart News.\nThe post Exclusive – Sen. Jim Banks: Trump Is First President Bold Enough to Call China Our Enemy appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/03/26/exclusive-sen-jim-banks-trump-first-president-bold-enough-call-china-enemy/",
-        "publishedAt": "2026-03-26T19:09:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Exclusive — Sen. Tom Cotton: China, Iran Are Allies in Fighting U.S. Leadership of International Order",
-        "description": "Breitbart News hosted a policy discussion on Thursday focused on threats posed by China and the Chinese Communist Party, where Sen. Tom Cotton (R-AR) said China and Iran have been allies and share a goal of opposing the United States as the dominant global po…",
-        "url": "https://www.breitbart.com/national-security/2026/03/26/exclusive-sen-tom-cotton-china-iran-are-allies-in-fighting-u-s-leadership-of-international-order/",
-        "publishedAt": "2026-03-26T20:34:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stephen A Smith tells progressive left to ‘shut the hell up’ over voter ID laws",
-        "description": "Stephen A. Smith delivered blunt remarks on voter ID laws, calling out progressive critics while also taking aim at President Donald Trump and Gov. Gavin Newsom during his “Straight Shooter\" segment.",
-        "url": "https://www.foxnews.com/media/stephen-smith-tells-progressive-left-shut-hell-up-over-voter-id-laws",
-        "publishedAt": "2026-03-26T20:00:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive – Sen. Jim Banks: Trump Is First President Bold Enough to Call China Our Enemy",
-        "description": "Donald Trump is the first modern president bold enough to call China our enemy, Sen. Jim Banks (R-IN) told Breitbart News.\nThe post Exclusive – Sen. Jim Banks: Trump Is First President Bold Enough to Call China Our Enemy appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/03/26/exclusive-sen-jim-banks-trump-first-president-bold-enough-call-china-enemy/",
-        "publishedAt": "2026-03-26T19:09:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bessent Says U.S. Economic Power Is Key Weapon in Iran Campaign",
-        "description": "Treasury Secretary Scott Bessent cast the confrontation with Iran as a two-front war on Thursday, telling President Trump that American economic strength has been as critical to the campaign as the military operation unfolding across the Persian Gulf.\nThe pos…",
-        "url": "https://www.breitbart.com/economy/2026/03/26/bessent-says-u-s-economic-power-is-key-weapon-in-iran-campaign/",
-        "publishedAt": "2026-03-26T19:00:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Michigan Democrats Push Magazine Ban, Waiting Period, Increased Minimum Firearm Purchase Age",
-        "description": "Michigan Democrats have a gun control legislation package that includes a ban on magazines holding more than ten rounds, a three-day waiting period for gun purchases, and an increased minimum firearm purchase age, among other things.\nThe post Michigan Democra…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/26/michigan-democrats-push-magazine-ban-waiting-period-increased-minimum-firearm-purchase-age/",
-        "publishedAt": "2026-03-26T18:32:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
