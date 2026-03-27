@@ -1,10 +1,7 @@
 {
-  "generated_at": "2026-03-27T23:34:30.460797+00:00",
-  "insight": "Raw data summary: NASDAQ -2.15%, S&P 500 -1.67%, KOSPI -3.22%",
-  "errors": [
-    "USD/JPY: The read operation timed out",
-    "USD/KRW: The read operation timed out"
-  ],
+  "generated_at": "2026-03-27T23:56:21.300532+00:00",
+  "insight": "Raw data summary: NASDAQ -2.15%, S&P 500 -1.67%, KOSPI -3.22%, USD/KRW +0.05%",
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
@@ -54,19 +51,19 @@
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 66147.0078125,
-      "dod": -3.8443883067161155,
-      "mom": -2.6679132616368793,
-      "yoy": -24.123414719085222,
+      "price": 66322.8984375,
+      "dod": -3.5887022039383423,
+      "mom": -2.4090988097799997,
+      "yoy": -23.921652304589376,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 99749688.0,
-      "dod": -3.931288437717347,
-      "mom": 2.7899262053612093,
-      "yoy": -21.783668523184474,
+      "price": 100014928.0,
+      "dod": -3.675836359964684,
+      "mom": 3.0632503688083172,
+      "yoy": -21.575686922671494,
       "raw_points": 1827
     },
     {
@@ -81,28 +78,28 @@
     {
       "key": "USD/JPY",
       "label": "USD/JPY",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 159.02,
+      "dod": -0.012575452716286349,
+      "mom": 3.2329265125941435,
+      "yoy": 6.646100194487288,
+      "raw_points": 262
     },
     {
       "key": "USD/KRW",
       "label": "USD/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 1497.51,
+      "dod": 0.052782083489227354,
+      "mom": 3.5257274405292742,
+      "yoy": 2.65425455343127,
+      "raw_points": 262
     },
     {
       "key": "USD/THB",
       "label": "USD/THB",
-      "price": 32.6,
-      "dod": -0.003067390570834237,
-      "mom": 4.420243433696356,
-      "yoy": -3.243997269462489,
+      "price": 32.671,
+      "dod": 0.21471733995889783,
+      "mom": 4.647661755285076,
+      "yoy": -3.0332710058469075,
       "raw_points": 262
     },
     {
