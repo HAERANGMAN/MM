@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-03-28T02:23:34.238863+00:00",
+  "generated_at": "2026-03-28T04:31:37.277112+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Revolutionary Tourism: Inside the $600M marriage of dark money and far-left agitprop",
+        "description": "A Fox News Digital investigation shows how a network tied to Neville Roy Singham turns activism into coordinated global protest movements — from Cuba to U.S. cities — using a repeatable playbook of messaging, mobilization and media amplification.",
+        "url": "https://www.foxnews.com/us/revolutionary-tourism-inside-600m-marriage-dark-money-far-left-agitprop",
+        "publishedAt": "2026-03-26T12:03:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Exclusive – Sen. Banks on AI: U.S. Must Beat China or ‘They'll Seize the Moment and Dominate Us’",
+        "description": "Sen. Jim Banks (R-IN) warned during a Breitbart News policy event Thursday that the United States must prevail in the race to develop artificial intelligence or risk China gaining a dominant global position.\nThe post Exclusive – Sen. Banks on AI: U.S. Must Be…",
+        "url": "https://www.breitbart.com/national-security/2026/03/26/exclusive-sen-banks-on-ai-u-s-must-beat-china-or-theyll-seize-the-moment-and-dominate-us/",
+        "publishedAt": "2026-03-27T02:47:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Experts Warn of Growing Stockpile Vulnerability Among U.S. Allies, Despite over 90% Iranian Missiles Intercepted",
+        "description": "While more than 90 percent of Iranian missiles and drones have been intercepted by the United States, Israel, and allied forces, experts are reportedly warning that the cost of defense is quietly draining allied stockpiles across the region.\nThe post Experts …",
+        "url": "https://www.breitbart.com/middle-east/2026/03/26/experts-warn-growing-stockpile-vulnerability-u-s-allies/",
+        "publishedAt": "2026-03-27T01:44:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "90"
+      },
+      {
+        "title": "Exclusive — Sen. Cotton: China Got Wealthy Cheating American Workers, but Trump Is Fighting Back",
+        "description": "Sen. Tom Cotton (R-AR) said on Thursday during a Breitbart News policy event that China got wealthy off of cheating American workers; however, he said that President Donald Trump is fighting back.\nThe post Exclusive — Sen. Cotton: China Got Wealthy Cheating A…",
+        "url": "https://www.breitbart.com/politics/2026/03/26/exclusive-sen-tom-cotton-china-wealthy-cheating-american-workers-trump-fighting/",
+        "publishedAt": "2026-03-27T01:16:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hearing underway for Florida Democratic congresswoman accused of stealing FEMA funds | Fox News Video",
+        "description": "Fox News chief congressional correspondent Chad Pergram reports on Rep. Sheila Cherfilus-McCormick, D-Fla., being accused of allegedly stealing $5 million in FEMA funds on ‘The Will Cain Show.’",
+        "url": "https://www.foxnews.com/video/6391779166112",
+        "publishedAt": "2026-03-26T23:28:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Fox News Poll: Sour voters say Washington is out of touch",
+        "description": "A new national poll finds Trump's disapproval hits a second-term high of 59%, with his inflation approval sinking to 28% as voter pessimism grows.",
+        "url": "https://www.foxnews.com/politics/fox-news-poll-sour-voters-say-washington-out-touch",
+        "publishedAt": "2026-03-26T22:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "59"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Exclusive – Sen. Banks on AI: U.S. Must Beat China or ‘They'll Seize the Moment and Dominate Us’",
+        "description": "Sen. Jim Banks (R-IN) warned during a Breitbart News policy event Thursday that the United States must prevail in the race to develop artificial intelligence or risk China gaining a dominant global position.\nThe post Exclusive – Sen. Banks on AI: U.S. Must Be…",
+        "url": "https://www.breitbart.com/national-security/2026/03/26/exclusive-sen-banks-on-ai-u-s-must-beat-china-or-theyll-seize-the-moment-and-dominate-us/",
+        "publishedAt": "2026-03-27T02:47:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Experts Warn of Growing Stockpile Vulnerability Among U.S. Allies, Despite over 90% Iranian Missiles Intercepted",
+        "description": "While more than 90 percent of Iranian missiles and drones have been intercepted by the United States, Israel, and allied forces, experts are reportedly warning that the cost of defense is quietly draining allied stockpiles across the region.\nThe post Experts …",
+        "url": "https://www.breitbart.com/middle-east/2026/03/26/experts-warn-growing-stockpile-vulnerability-u-s-allies/",
+        "publishedAt": "2026-03-27T01:44:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "90"
+      },
+      {
+        "title": "The Oscars Are Leaving Hollywood",
+        "description": "In 2029, the year the telecast moves from ABC to YouTube, the ceremony itself will move from its longtime home at the Dolby Theatre in Hollywood to downtown Los Angeles and the Peacock Theater, 9 miles (14.5 kilometers) away. The Academy announced Thursday th…",
+        "url": "https://www.breitbart.com/entertainment/2026/03/26/the-oscars-are-leaving-hollywood/",
+        "publishedAt": "2026-03-27T00:34:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2029"
+      },
+      {
+        "title": "Breitbart Business Digest: Five Decades of Deficits and Counting",
+        "description": "Rebalancing of America's international accounts should have been a central policy objective of any presidential administration over the past three decades. The Trump administration, however, is the first to recognize this.\nThe post Breitbart Business Digest: …",
+        "url": "https://www.breitbart.com/economy/2026/03/26/breitbart-business-digest-five-decades-of-deficits-and-counting/",
+        "publishedAt": "2026-03-27T00:01:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump speaks out on Iran's execution of 19-year-old wrestler Saleh Mohammadi",
+        "description": "President Donald Trump addressed Iran's reported execution of 19-year-old wrestler Saleh Mohammadi, saying he was killed for speaking against the regime.",
+        "url": "https://www.foxnews.com/sports/trump-speaks-out-irans-execution-19-year-old-wrestler-saleh-mohammadi",
+        "publishedAt": "2026-03-26T23:57:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "19"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
