@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T04:31:37.277112+00:00",
+  "generated_at": "2026-03-28T05:42:07.243068+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Rubio meets G7 ministers in France as US leads on Iran — allies under fire for tepid response",
+        "description": "Secretary of State Marco Rubio heads into the G7 foreign ministers meeting in France saying U.S. priorities come first, as European allies push for a diplomatic solution on Iran.",
+        "url": "https://www.foxnews.com/world/rubio-meets-g7-ministers-france-us-leads-iran-allies-under-fire-tepid-response",
+        "publishedAt": "2026-03-27T05:00:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "7"
+      },
+      {
         "title": "Exclusive – Sen. Banks on AI: U.S. Must Beat China or ‘They'll Seize the Moment and Dominate Us’",
         "description": "Sen. Jim Banks (R-IN) warned during a Breitbart News policy event Thursday that the United States must prevail in the race to develop artificial intelligence or risk China gaining a dominant global position.\nThe post Exclusive – Sen. Banks on AI: U.S. Must Be…",
         "url": "https://www.breitbart.com/national-security/2026/03/26/exclusive-sen-banks-on-ai-u-s-must-beat-china-or-theyll-seize-the-moment-and-dominate-us/",
@@ -108,16 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump speaks out on Iran's execution of 19-year-old wrestler Saleh Mohammadi",
-        "description": "President Donald Trump addressed Iran's reported execution of 19-year-old wrestler Saleh Mohammadi, saying he was killed for speaking against the regime.",
-        "url": "https://www.foxnews.com/sports/trump-speaks-out-irans-execution-19-year-old-wrestler-saleh-mohammadi",
-        "publishedAt": "2026-03-26T23:57:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "19"
       }
     ]
   },
