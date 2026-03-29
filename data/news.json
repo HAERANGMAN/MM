@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-03-29T03:30:39.619556+00:00",
+  "generated_at": "2026-03-29T05:26:03.111862+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "China's American Mao: Inside Singham’s blueprint to ‘wage war' for a 'new world order'",
+        "description": "A Fox News Digital investigation uncovers how Neville Roy Singham built an \"International Revolutionary Front\" of 2,000 organizations advancing Mao-inspired strategy of activism, media and messaging aligned with China’s vision for a \"new world order.\"",
+        "url": "https://www.foxnews.com/us/part-5-international-revolutionary-front-shanghai-features-singhams-treatise-how-wage-war",
+        "publishedAt": "2026-03-27T11:56:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "China's American Mao: Inside Singham’s blueprint to ‘wage war' for a 'new world order'",
+        "description": "A Fox News Digital investigation uncovers how Neville Roy Singham built an \"International Revolutionary Front\" of 2,000 organizations advancing Mao-inspired strategy of activism, media and messaging aligned with China’s vision for a \"new world order.\"",
+        "url": "https://www.foxnews.com/politics/part-5-international-revolutionary-front-shanghai-features-singhams-treatise-how-wage-war",
+        "publishedAt": "2026-03-27T11:56:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: Healthy Americans Drag Down Productivity While the Fed Plots Rate Hikes Over $4 Gas",
+        "description": "This is the Breitbart Business Digest weekly wrap, where we review a selection of the economic and financial events of the past week without incurring any unnecessary labor costs or burning excess petroleum.\nThe post Breitbart Business Digest: Healthy America…",
+        "url": "https://www.breitbart.com/economy/2026/03/27/breitbart-business-digest-healthy-americans-drag-down-productivity-while-the-fed-plots-rate-hikes-over-4-gas/",
+        "publishedAt": "2026-03-27T23:01:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "White House Launches App Showing Achievements, Investments, Prices on Key Goods, More",
+        "description": "The White House on Friday launched a phone app featuring the latest news, the latest prices on key goods, administration wins, shortcuts to key websites like TrumpRx and Trump Accounts, and much more.\nThe post White House Launches App Showing Achievements, In…",
+        "url": "https://www.breitbart.com/politics/2026/03/27/white-house-launches-app-showing-achievements-investments-prices-on-key-goods-and-more/",
+        "publishedAt": "2026-03-27T20:55:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive – Sen. Cotton: U.S. Shouldn't Greenlight Chinese Drugs While Drowning American Companies in Red Tape",
+        "description": "The United States should not greenlight Chinese drugs while drowning American companies in red tape, Sen. Tom Cotton (R-AR) said during an event with Breitbart News, highlighting the threats of China.\nThe post Exclusive – Sen. Cotton: U.S. Shouldn’t Greenligh…",
+        "url": "https://www.breitbart.com/politics/2026/03/27/exclusive-sen-cotton-u-s-shouldnt-greenlight-chinese-drugs-while-drowning-american-companies-in-red-tape/",
+        "publishedAt": "2026-03-27T20:28:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "State pushes 'first in the nation' grocery label for highlighting non-ultra-processed foods",
+        "description": "California bill AB 2244, from Assemblyman Jesse Gabriel, would let manufacturers label products as non-ultra-processed foods. Chef Andrew Gruel takes issue with a \"subjective stamp.\"",
+        "url": "https://www.foxnews.com/food-drink/state-pushes-first-nation-grocery-label-highlighting-non-ultra-processed-foods",
+        "publishedAt": "2026-03-27T19:20:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2244"
+      },
+      {
+        "title": "Zelensky Offers to Help Fight Iran, Signing Ukraine Defense Deal with Saudi Arabia",
+        "description": "Ukrainian President Volodymyr Zelensky signed a defense cooperation agreement with Saudi Crown Prince Mohammed bin Salman, the de facto leader of the country, during a visit to Jeddah on Friday, emphasizing that Iran has aided Russia's invasion of his country…",
+        "url": "https://www.breitbart.com/middle-east/2026/03/27/zelensky-offers-to-help-fight-iran-signing-ukraine-defense-deal-with-saudi-arabia/",
+        "publishedAt": "2026-03-27T18:15:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "U.S. Unleashes Uncrewed Sea-Drone Speedboats Against Iran — A New Era in Naval Warfare",
+        "description": "The United States has for the first time deployed autonomous, uncrewed drone speedboats in active combat operations against Iran, introducing a low-cost, asymmetric naval capability that officials say has already logged hundreds of hours patrolling key waterw…",
+        "url": "https://www.breitbart.com/politics/2026/03/27/u-s-unleashes-uncrewed-sea-drone-speedboats-iran/",
+        "publishedAt": "2026-03-28T03:51:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump touts Iran talks progress and success in Venezuela, says 'Cuba is next'",
+        "description": "President says \"Cuba is next\" after Iran negotiations, success in Venezuela and talks renaming the Strait of Hormuz the \"Strait of Trump\" at a Miami Beach summit.",
+        "url": "https://www.foxnews.com/politics/trump-touts-iran-talks-progress-success-venezuela-says-cuba-next",
+        "publishedAt": "2026-03-28T01:05:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Admin Launches OnlyFarms Website to Highlight Agriculture Accomplishments",
+        "description": "The Trump administration launched an OnlyFarms website that highlights the administration's agricultural accomplishments and how American farmers have been helped.\nThe post Trump Admin Launches OnlyFarms Website to Highlight Agriculture Accomplishments appear…",
+        "url": "https://www.breitbart.com/politics/2026/03/27/trump-admin-launches-onlyfarms-website-to-highlight-agriculture-accomplishments/",
+        "publishedAt": "2026-03-27T23:45:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Accuses China of Detaining Panama-Flagged Vessels After Canal Port Court Ruling",
+        "description": "U.S. Federal Maritime Commission (FMC) Chairman Laura DiBella on Thursday warned that the FMC is closely monitoring a surge in detentions of Panama-flagged vessels by Chinese authorities after the Panamanian Supreme court annulled contracts that gave Hong Kon…",
+        "url": "https://www.breitbart.com/latin-america/2026/03/27/u-s-fmc-chairman-china-detaining-panama-flagged-vessels-after-canal-port-court-ruling/",
+        "publishedAt": "2026-03-27T20:42:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News AI Newsletter: Family turns down $26M from AI giant to keep farmland",
+        "description": "The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-family-turns-down-26m-from-ai-giant-keep-farmland",
+        "publishedAt": "2026-03-27T18:03:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
