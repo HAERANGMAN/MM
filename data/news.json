@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-03-30T12:02:08.101480+00:00",
+  "generated_at": "2026-03-30T13:58:04.351227+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "North Korea tests solid-fuel missile engine as Kim boosts threat to US mainland",
+        "description": "Kim Jong Un oversaw a new solid-fuel rocket engine test, state media reports, as North Korea pushes to upgrade its long-range strategic strike capabilities.",
+        "url": "https://www.foxnews.com/world/north-korea-tests-solid-fuel-missile-engine-kim-boosts-threat-us-mainland",
+        "publishedAt": "2026-03-29T11:28:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "MAPPED: Where gas prices are rising the fastest from the Iran conflict",
+        "description": "Gasoline, diesel and jet fuel prices have jumped as the conflict between the U.S., Israel and Iran squeezes oil shipments through the Strait of Hormuz.",
+        "url": "https://www.foxnews.com/politics/mapped-where-gas-prices-rising-fastest-from-iran-conflict",
+        "publishedAt": "2026-03-29T13:44:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Cases of 'white plague' rising in US as doctors warn of 'rebound effect'",
+        "description": "Tuberculosis, also known as \"the white plague,\" is rising in the U.S. post-pandemic, with over 10,600 cases confirmed in 2024, the CDC reports.",
+        "url": "https://www.foxnews.com/health/cases-white-plague-rising-us-doctors-warn-rebound-effect",
+        "publishedAt": "2026-03-29T13:00:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Two More Arrested over Attempted Bombing of Bank of America in Paris",
+        "description": "Police have arrested two more people over an apparent bid to explode a homemade device outside the Paris branch of the Bank of America, the French domestic security service said on Sunday.\nThe post Two More Arrested over Attempted Bombing of Bank of America i…",
+        "url": "https://www.breitbart.com/europe/2026/03/29/two-more-arrested-over-attempted-bombing-of-bank-of-america-in-paris/",
+        "publishedAt": "2026-03-29T12:42:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "North Korean laborers describe brutal forced labor in Russia: 'Working like a cow, earning nothing'",
+        "description": "A North Korean forced labor survivor describes earning $800 a month but keeping only $10, with passports seized and no way to leave Russian work sites.",
+        "url": "https://www.foxnews.com/world/north-korean-laborers-describe-brutal-forced-labor-russia-working-like-cow-earning-nothing",
+        "publishedAt": "2026-03-29T10:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Mark Levin: Democrats and media are not thinking this through | Fox News Video",
+        "description": "Fox News host Mark Levin revisits a surprising address to a joint congressional session and analyzes the current U.S. stance on Iran on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6392001752112",
+        "publishedAt": "2026-03-29T01:17:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "North Korean laborers describe brutal forced labor in Russia: 'Working like a cow, earning nothing'",
+        "description": "A North Korean forced labor survivor describes earning $800 a month but keeping only $10, with passports seized and no way to leave Russian work sites.",
+        "url": "https://www.foxnews.com/world/north-korean-laborers-describe-brutal-forced-labor-russia-working-like-cow-earning-nothing",
+        "publishedAt": "2026-03-29T10:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "MAPPED: Where gas prices are rising the fastest from the Iran conflict",
+        "description": "Gasoline, diesel and jet fuel prices have jumped as the conflict between the U.S., Israel and Iran squeezes oil shipments through the Strait of Hormuz.",
+        "url": "https://www.foxnews.com/politics/mapped-where-gas-prices-rising-fastest-from-iran-conflict",
+        "publishedAt": "2026-03-29T13:44:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Cases of 'white plague' rising in US as doctors warn of 'rebound effect'",
+        "description": "Tuberculosis, also known as \"the white plague,\" is rising in the U.S. post-pandemic, with over 10,600 cases confirmed in 2024, the CDC reports.",
+        "url": "https://www.foxnews.com/health/cases-white-plague-rising-us-doctors-warn-rebound-effect",
+        "publishedAt": "2026-03-29T13:00:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Two More Arrested over Attempted Bombing of Bank of America in Paris",
+        "description": "Police have arrested two more people over an apparent bid to explode a homemade device outside the Paris branch of the Bank of America, the French domestic security service said on Sunday.\nThe post Two More Arrested over Attempted Bombing of Bank of America i…",
+        "url": "https://www.breitbart.com/europe/2026/03/29/two-more-arrested-over-attempted-bombing-of-bank-of-america-in-paris/",
+        "publishedAt": "2026-03-29T12:42:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "North Korean laborers describe brutal forced labor in Russia: 'Working like a cow, earning nothing'",
+        "description": "A North Korean forced labor survivor describes earning $800 a month but keeping only $10, with passports seized and no way to leave Russian work sites.",
+        "url": "https://www.foxnews.com/world/north-korean-laborers-describe-brutal-forced-labor-russia-working-like-cow-earning-nothing",
+        "publishedAt": "2026-03-29T10:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "JD Vance says he was 'obsessed' with UFOs, believes aliens are actually 'demons'",
+        "description": "Talking to conservative commentator Benny Johnson about the topic of UFOs, Vice President JD Vance noted that he believes aliens are actually demons.",
+        "url": "https://www.foxnews.com/politics/jd-vance-says-he-was-obsessed-ufos-believes-aliens-actually-demons",
+        "publishedAt": "2026-03-28T16:49:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
