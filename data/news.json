@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-03-30T09:55:44.247975+00:00",
+  "generated_at": "2026-03-30T11:01:33.029050+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Mark Levin: Democrats and media are not thinking this through | Fox News Video",
-        "description": "Fox News host Mark Levin revisits a surprising address to a joint congressional session and analyzes the current U.S. stance on Iran on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6392001752112",
-        "publishedAt": "2026-03-29T01:17:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New study reveals most stressed US states — and they aren't where you'd expect",
-        "description": "A new WalletHub study ranks Louisiana as the most stressed U.S. state in 2026, citing poverty, limited health care access and high unemployment rates.",
-        "url": "https://www.foxnews.com/travel/stress-crisis-explodes-across-america-states-suffer-most",
-        "publishedAt": "2026-03-28T23:18:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Fans are demanding these 10 vanished ’80s and ’90s snacks return to store shelves",
-        "description": "Childhood nostalgia hits hard as fans revisit 10 beloved discontinued snacks from the '80s and '90s, from Planters PB Crisps to Cheetos Paws.",
-        "url": "https://www.foxnews.com/food-drink/fans-demanding-10-vanished-80s-90s-snacks-return-store-shelves",
-        "publishedAt": "2026-03-28T22:59:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "WATCH LIVE: New York community holds vigil for student allegedly killed by illegal immigrant | Fox News Video",
-        "description": "The mother of Sheridan Gorman urges the grieving Yorktown Heights community to \"fight back\" against border policies after the 18-year-old student was allegedly murdered by a Venezuelan national released into the U.S. under the Biden administration.",
-        "url": "https://www.foxnews.com/video/6391986347112",
-        "publishedAt": "2026-03-28T21:52:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "Baseball is changing forever with robot ump challenges",
-        "description": "MLB's new robot ump system lets players challenge ball-strike calls by tapping their head, with results appearing on stadium screens within seconds.",
-        "url": "https://www.foxnews.com/tech/baseball-changing-forever-robot-ump-challenges",
-        "publishedAt": "2026-03-28T18:49:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
-    "news-thai-soc": [
-      {
-        "title": "Yemen's Houthis Enter Iran Conflict with Missile Targeting Israel",
-        "description": "Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.\nThe post Yemen’s Houthis Enter…",
-        "url": "https://www.breitbart.com/europe/2026/03/28/yemens-houthi-enter-iran-conflict-with-missile-targeting-israel/",
-        "publishedAt": "2026-03-28T12:01:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "JD Vance says he was 'obsessed' with UFOs, believes aliens are actually 'demons'",
-        "description": "Talking to conservative commentator Benny Johnson about the topic of UFOs, Vice President JD Vance noted that he believes aliens are actually demons.",
-        "url": "https://www.foxnews.com/politics/jd-vance-says-he-was-obsessed-ufos-believes-aliens-actually-demons",
-        "publishedAt": "2026-03-28T16:49:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NASA races to build moon base as US challenges China in new space race",
-        "description": "NASA races to build a $20 billion lunar base as China and Russia advance moon ambitions, with experts warning China holds the advantage in space.",
-        "url": "https://www.foxnews.com/politics/nasa-races-build-moon-base-us-challenges-china-new-space-race",
-        "publishedAt": "2026-03-28T13:00:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Soros-backed group among liberal orgs pumping eye-popping cash into Virginia gerrymandering effort",
-        "description": "Virginia's redistricting referendum is being fueled by a tidal wave of liberal cash, with Soros- and Bloomberg-linked groups helping drive nearly $33 million into the effort.",
-        "url": "https://www.foxnews.com/politics/soros-backed-group-among-liberal-orgs-pumping-eye-popping-virginia-gerrymandering-effort",
-        "publishedAt": "2026-03-28T13:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "SOUTH CAROLINA AG WILSON: Fentanyl is a national security threat — follow the Chinese money",
-        "description": "South Carolina AG Alan Wilson says apps like WeChat and its Chinese counterpart Weixin enable fentanyl money laundering, calling the crisis a national security threat.",
-        "url": "https://www.foxnews.com/opinion/south-carolina-ag-wilson-fentanyl-national-security-threat-follow-chinese-money",
-        "publishedAt": "2026-03-28T13:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Yemen's Houthis Enter Iran Conflict with Missile Targeting Israel",
-        "description": "Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.\nThe post Yemen’s Houthis Enter…",
-        "url": "https://www.breitbart.com/europe/2026/03/28/yemens-houthi-enter-iran-conflict-with-missile-targeting-israel/",
-        "publishedAt": "2026-03-28T12:01:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
