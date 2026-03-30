@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T13:58:04.351227+00:00",
+  "generated_at": "2026-03-30T15:10:36.739634+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "The Internet's Editor: Google AI 'Experiment' Rewrites Publishers' Headlines on News Articles",
+        "description": "Google has begun testing a new feature in its search engine that rewrites the headlines of published news articles using AI, prompting sharp criticism from media executives who say the company is overstepping its role as a distributor of content.\nThe post The…",
+        "url": "https://www.breitbart.com/tech/2026/03/29/the-internets-editor-google-ai-experiment-rewrites-publishers-headlines-on-news-articles/",
+        "publishedAt": "2026-03-29T14:16:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "MAPPED: Where gas prices are rising the fastest from the Iran conflict",
         "description": "Gasoline, diesel and jet fuel prices have jumped as the conflict between the U.S., Israel and Iran squeezes oil shipments through the Strait of Hormuz.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Mark Levin: Democrats and media are not thinking this through | Fox News Video",
-        "description": "Fox News host Mark Levin revisits a surprising address to a joint congressional session and analyzes the current U.S. stance on Iran on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6392001752112",
-        "publishedAt": "2026-03-29T01:17:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
