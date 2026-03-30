@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-03-30T16:13:28.886023+00:00",
+  "generated_at": "2026-03-30T17:12:52.051371+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "North Korea tests solid-fuel missile engine as Kim boosts threat to US mainland",
-        "description": "Kim Jong Un oversaw a new solid-fuel rocket engine test, state media reports, as North Korea pushes to upgrade its long-range strategic strike capabilities.",
-        "url": "https://www.foxnews.com/world/north-korea-tests-solid-fuel-missile-engine-kim-boosts-threat-us-mainland",
-        "publishedAt": "2026-03-29T11:28:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
