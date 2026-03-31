@@ -1,20 +1,157 @@
 {
-  "generated_at": "2026-03-31T13:57:35.354305+00:00",
+  "generated_at": "2026-03-31T15:06:58.344773+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
+        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical rhetoric",
+        "url": "https://www.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
+        "publishedAt": "2026-03-30T11:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
+        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical...",
+        "url": "https://noticias.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
+        "publishedAt": "2026-03-30T11:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Starmer on Iran: 'Not Our War and We're Not Going to Get Dragged In'",
+        "description": "The UK will not come to the aid of its allies in Iran, no matter who asks, PM Starmer said at a local election event.\nThe post Starmer on Iran: ‘Not Our War and We’re Not Going to Get Dragged In’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/03/30/uks-starmer-on-iran-not-our-war/",
+        "publishedAt": "2026-03-30T14:21:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Stocks Advance and Oil Pushes Higher",
+        "description": "U.S. stocks opened sharply higher after the Dow industrials and Nasdaq composite fell into correction territory last week.",
+        "url": "https://www.wsj.com/finance/oil-leaps-above-115-as-widening-war-stokes-growth-fears-2a3c90b7",
+        "publishedAt": "2026-03-30T13:55:00Z",
+        "source": {
+          "name": "The Wall Street Journal"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gavin Newsom bashes Elon Musk as ‘one of the great disappointments'",
+        "description": "California Gov. Gavin Newsom told Axios that Elon Musk has “put the brakes\" on EV innovation and warned China is overtaking the United States in the electric vehicle market.",
+        "url": "https://www.foxnews.com/media/gavin-newsom-bashes-elon-musk-one-great-disappointments",
+        "publishedAt": "2026-03-30T12:06:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
+        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical rhetoric",
+        "url": "https://www.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
+        "publishedAt": "2026-03-30T11:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
+        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical...",
+        "url": "https://noticias.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
+        "publishedAt": "2026-03-30T11:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Iran's war against the US and Israel is being fueled by North Korean weapons, expert warns",
+        "description": "Iran's ballistic missiles, including the Shahab-3 and Khorramshahr-4, were developed with North Korean help, says expert Bruce Bechtol, who urges stronger sanctions enforcement.",
+        "url": "https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns",
+        "publishedAt": "2026-03-30T10:13:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "AI war in Iran has brought conflict to Silicon Valley. No one is ready",
+        "description": "Iran published a 29-location target list naming Amazon, Microsoft, Google, Nvidia and Palantir, then struck AWS data centers in the UAE and Bahrain.",
+        "url": "https://www.foxnews.com/opinion/ai-war-iran-has-brought-conflict-silicon-valley-no-one-ready",
+        "publishedAt": "2026-03-30T09:00:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "29"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "EXCLUSIVE: Rep. Fry Files Brief Seeking SCOTUS Review to Defend the Protection of Lawful Commerce in Arms Act",
+        "description": "Rep. Russell Fry is leading 54 of his colleagues in an amicus brief in defense of the National Shooting Sports Foundation v. Letitia James.\nThe post EXCLUSIVE: Rep. Fry Files Brief Seeking SCOTUS Review to Defend the Protection of Lawful Commerce in Arms Act …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/30/rep-fry-files-brief-seeking-scotus-review-defend-protection-lawful-commerce-arms-act/",
+        "publishedAt": "2026-03-30T14:33:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "54"
+      },
+      {
+        "title": "Starmer on Iran: 'Not Our War and We're Not Going to Get Dragged In'",
+        "description": "The UK will not come to the aid of its allies in Iran, no matter who asks, PM Starmer said at a local election event.\nThe post Starmer on Iran: ‘Not Our War and We’re Not Going to Get Dragged In’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/03/30/uks-starmer-on-iran-not-our-war/",
+        "publishedAt": "2026-03-30T14:21:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Amanda Peet exposes ‘desperation galore’ behind Hollywood fame",
+        "description": "Amanda Peet says Hollywood is \"smoke and mirrors,\" speaking candidly about the competitive industry, aging and her breast cancer diagnosis.",
+        "url": "https://www.foxnews.com/entertainment/amanda-peet-exposes-desperation-galore-behind-hollywood-fame",
+        "publishedAt": "2026-03-30T14:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gavin Newsom bashes Elon Musk as ‘one of the great disappointments'",
+        "description": "California Gov. Gavin Newsom told Axios that Elon Musk has “put the brakes\" on EV innovation and warned China is overtaking the United States in the electric vehicle market.",
+        "url": "https://www.foxnews.com/media/gavin-newsom-bashes-elon-musk-one-great-disappointments",
+        "publishedAt": "2026-03-30T12:06:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
+        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical rhetoric",
+        "url": "https://www.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
+        "publishedAt": "2026-03-30T11:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
