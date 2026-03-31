@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T15:06:58.344773+00:00",
+  "generated_at": "2026-03-31T16:14:46.146252+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -25,6 +25,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Rand Paul: '50-50' Chance of a 2028 Presidential Run",
+        "description": "During an appearance on this week's broadcast of \"CBS Sunday Morning,\" Sen. Rand Paul (R-KY) put the odds of him running for president at 50% in 2028.\nThe post Rand Paul: ’50-50′ Chance of a 2028 Presidential Run appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/clips/2026/03/30/rand-paul-50-50-chance-of-a-2028-presidential-run/",
+        "publishedAt": "2026-03-30T15:59:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "50"
+      },
       {
         "title": "Starmer on Iran: 'Not Our War and We're Not Going to Get Dragged In'",
         "description": "The UK will not come to the aid of its allies in Iran, no matter who asks, PM Starmer said at a local election event.\nThe post Starmer on Iran: ‘Not Our War and We’re Not Going to Get Dragged In’ appeared first on Breitbart.",
@@ -64,16 +74,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
-        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical...",
-        "url": "https://noticias.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
-        "publishedAt": "2026-03-30T11:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -100,6 +100,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Chicago: Pro-Gun Control Mayor's 'Armed Security' Detail Costing Taxpayers $30 Million A Year",
+        "description": "A report from the National Shooting Sports Foundation's senior VP and general counsel Lawrence Keane indicates pro-gun control Mayor Brandon Johnson's \"armed security\" detail costs taxpayers about $30 million a year.\nThe post Chicago: Pro-Gun Control Mayor’s …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/03/30/chicago-pro-gun-control-mayors-armed-security-detail-costing-taxpayers-30-million-a-year/",
+        "publishedAt": "2026-03-30T15:24:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "EXCLUSIVE: Rep. Fry Files Brief Seeking SCOTUS Review to Defend the Protection of Lawful Commerce in Arms Act",
         "description": "Rep. Russell Fry is leading 54 of his colleagues in an amicus brief in defense of the National Shooting Sports Foundation v. Letitia James.\nThe post EXCLUSIVE: Rep. Fry Files Brief Seeking SCOTUS Review to Defend the Protection of Lawful Commerce in Arms Act …",
@@ -135,16 +145,6 @@
         "description": "California Gov. Gavin Newsom told Axios that Elon Musk has “put the brakes\" on EV innovation and warned China is overtaking the United States in the electric vehicle market.",
         "url": "https://www.foxnews.com/media/gavin-newsom-bashes-elon-musk-one-great-disappointments",
         "publishedAt": "2026-03-30T12:06:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
-        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical rhetoric",
-        "url": "https://www.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
-        "publishedAt": "2026-03-30T11:00:58Z",
         "source": {
           "name": "Fox News"
         },
