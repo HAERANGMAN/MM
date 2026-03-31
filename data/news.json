@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-03-31T20:03:07.844229+00:00",
+  "generated_at": "2026-03-31T20:54:33.270259+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
-        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical rhetoric",
-        "url": "https://www.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
-        "publishedAt": "2026-03-30T11:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Communists, Democrats use #NoKings rally to call for May Day strike: 'Shut it down'",
-        "description": "Communists chanted for revolution and May Day strikes from New York to Minnesota, as the \"No Kings\" movement sees a growing ideological shift to more radical...",
-        "url": "https://noticias.foxnews.com/politics/communists-democrats-use-nokings-rally-call-may-day-strike-shut-down",
-        "publishedAt": "2026-03-30T11:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
