@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T19:19:04.210766+00:00",
+  "generated_at": "2026-03-31T20:03:07.844229+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,134 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "PHOTOS: Couple Marries While 'Smiling and Giggling' at Buc-ee's in Tennessee",
-        "description": "A couple from Illinois recently tied the knot at an unlikely place that is known and loved by travelers all over the world.\nThe post PHOTOS: Couple Marries While ‘Smiling and Giggling’ at Buc-ee’s in Tennessee appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/health/2026/03/30/photos-couple-marries-while-smiling-and-giggling-at-buc-ees-in-tennessee/",
-        "publishedAt": "2026-03-30T18:54:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Israel Approves Record Defense Budget During Iran War",
-        "description": "Israel’s parliament, the Knesset, approved a record $45.8 billion defense budget Monday as the war in Iran entered its second month.\nThe post Israel Approves Record Defense Budget During Iran War appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/03/30/israel-approves-record-defense-budget-during-iran-war/",
-        "publishedAt": "2026-03-30T18:51:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Key US ally blocks airspace to military flights over Iran, escalating standoff with Trump",
-        "description": "Spain denied U.S. military aircraft access to its airspace and bases for Iran conflict operations, with Defense Minister Robles calling the war \"illegal.\"",
-        "url": "https://www.foxnews.com/politics/key-us-ally-blocks-airspace-military-flights-over-iran-escalating-standoff-trump",
-        "publishedAt": "2026-03-30T18:08:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Powell Says Fed Inclined to Look Past Iran Oil Shock, Sees Inflation Expectations Well Anchored",
-        "description": "Speaking to undergraduate economics students at Harvard University, Powell said the standard central-banking response to energy shocks is to wait them out rather than react with policy changes.\nThe post Powell Says Fed Inclined to Look Past Iran Oil Shock, Se…",
-        "url": "https://www.breitbart.com/economy/2026/03/30/powell-says-fed-inclined-to-look-past-iran-oil-shock-sees-inflation-expectations-well-anchored/",
-        "publishedAt": "2026-03-30T17:13:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bessent says ‘more and more’ ships moving through Strait of Hormuz, could ease oil price pressure",
-        "description": "Scott Bessent suggests the U.S. will retake Strait of Hormuz control, promising freedom of navigation to help stabilize global oil supply and costs.",
-        "url": "https://www.foxnews.com/media/bessent-says-more-more-ships-moving-through-hormuz-could-ease-oil-price-pressure",
-        "publishedAt": "2026-03-30T16:54:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iran's war against the US and Israel is being fueled by North Korean weapons, expert warns",
-        "description": "Iran's ballistic missiles, including the Shahab-3 and Khorramshahr-4, were developed with North Korean help, says expert Bruce Bechtol, who urges stronger sanctions enforcement.",
-        "url": "https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns",
-        "publishedAt": "2026-03-30T10:13:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "AI war in Iran has brought conflict to Silicon Valley. No one is ready",
-        "description": "Iran published a 29-location target list naming Amazon, Microsoft, Google, Nvidia and Palantir, then struck AWS data centers in the UAE and Bahrain.",
-        "url": "https://www.foxnews.com/opinion/ai-war-iran-has-brought-conflict-silicon-valley-no-one-ready",
-        "publishedAt": "2026-03-30T09:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "29"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Palm Sunday Massacre: 30 Killed as 'Gunmen' Open Fire in Nigeria",
-        "description": "Unknown gunmen opened fire \"indiscriminately\" in a residential area of Jos, Plateau State, Nigeria on Sunday night, killing an estimated 30 people during a time in which jihadists in the country tend to orchestrate massacres against Christians.\nThe post Palm …",
-        "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
-        "publishedAt": "2026-03-30T18:35:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "30"
-      },
-      {
-        "title": "Powell Says Fed Inclined to Look Past Iran Oil Shock, Sees Inflation Expectations Well Anchored",
-        "description": "Speaking to undergraduate economics students at Harvard University, Powell said the standard central-banking response to energy shocks is to wait them out rather than react with policy changes.\nThe post Powell Says Fed Inclined to Look Past Iran Oil Shock, Se…",
-        "url": "https://www.breitbart.com/economy/2026/03/30/powell-says-fed-inclined-to-look-past-iran-oil-shock-sees-inflation-expectations-well-anchored/",
-        "publishedAt": "2026-03-30T17:13:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bessent says ‘more and more’ ships moving through Strait of Hormuz, could ease oil price pressure",
-        "description": "Scott Bessent suggests the U.S. will retake Strait of Hormuz control, promising freedom of navigation to help stabilize global oil supply and costs.",
-        "url": "https://www.foxnews.com/media/bessent-says-more-more-ships-moving-through-hormuz-could-ease-oil-price-pressure",
-        "publishedAt": "2026-03-30T16:54:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Missiles Hidden in Shipping Containers: U.S. Strikes Destroyed Iran's Wolves-in-Sheep's-Clothing 'Disguised' Warships",
-        "description": "Iran's plans to hide missiles on 'container ships' to raid commerce far away from its own waters has been disrupted, report states. \nThe post Missiles Hidden in Shipping Containers: U.S. Strikes Destroyed Iran’s Wolves-in-Sheep’s-Clothing ‘Disguised’ Warships…",
-        "url": "https://www.breitbart.com/europe/2026/03/30/missiles-in-shipping-containers-irans-disguised-warships-destroyed/",
-        "publishedAt": "2026-03-30T16:48:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'More AI Slop than AI Magic': WSJ Reveals the Reason OpenAI Suddenly Shut Down Sora",
-        "description": "Sam Altman arrived in Los Angeles for Vanity Fair's Oscar afterparty earlier this month with OpenAI on the verge of licensing its Sora video generation tools to Hollywood studios, only to pull the plug on the project weeks later. According to the Wall Street …",
-        "url": "https://www.breitbart.com/tech/2026/03/30/more-ai-slop-than-ai-magic-wsj-reveals-the-reason-openai-suddenly-shut-down-sora/",
-        "publishedAt": "2026-03-30T16:27:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
