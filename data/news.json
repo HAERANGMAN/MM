@@ -1,9 +1,40 @@
 {
-  "generated_at": "2026-04-01T18:35:40.458050+00:00",
+  "generated_at": "2026-04-01T19:41:39.726177+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [],
+    "news-thai-econ": [
+      {
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-global-econ": [
+      {
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Colorado tried to silence me for helping gender-confused kids. The Supreme Court just ruled 8-1 in my favor",
+        "description": "I won an 8-1 U.S. Supreme Court ruling in Chiles v. Salazar, striking down a Colorado law that silenced licensed counselors on gender identity issues.",
+        "url": "https://www.foxnews.com/opinion/colorado-tried-silence-helping-gender-confused-kids-supreme-court-ruled-8-1-favor",
+        "publishedAt": "2026-03-31T19:07:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
       {
         "title": "More key US allies block military flights as Iran war rift widens with Trump",
         "description": "President Donald Trump blasted France, Spain, Italy, and the U.K. on Truth Social, criticizing their refusal to support U.S. military operations tied to the war with Iran.",
@@ -33,80 +64,71 @@
           "name": "Fox News"
         },
         "numericHint": "10"
-      },
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [
       {
-        "title": "Poll: 80% of Americans Are Concerned About the Impact of AI",
-        "description": "A new nationwide survey by Quinnipiac reveals that a majority of Americans are now using AI tools even as their concerns about the technology's impact on employment and their skepticism toward AI-generated information have reached unprecedented levels.\nThe po…",
-        "url": "https://www.breitbart.com/tech/2026/03/31/poll-80-of-americans-are-concerned-about-the-impact-of-ai/",
-        "publishedAt": "2026-03-31T15:23:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "80"
-      },
-      {
-        "title": "Hollywood Panicking as Iran War Dries Up Middle East Cash Pipeline to U.S.",
-        "description": "Hollywood dealmaking heavyweights are becoming increasingly worried that President Donald Trump's actions against the terrorism regime in Iran and the unrest it is causing in the Middle East will impact Arab investment in U.S. entertainment projects.\nThe post…",
-        "url": "https://www.breitbart.com/entertainment/2026/03/31/hollywood-panicking-as-iran-war-dries-up-middle-east-cash-pipeline-to-u-s/",
-        "publishedAt": "2026-03-31T15:09:23Z",
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "Florida AG Uthmeier Defends Second Amendment Rights of Non-Dangerous Felons",
-        "description": "Florida AG James Uthmeier (R) used an X post Tuesday to assure Floridians he will uphold the Second Amendment rights of non-dangerous felons. \nThe post Florida AG Uthmeier Defends Second Amendment Rights of Non-Dangerous Felons appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/31/fl-ag-uthmeier-defends-2nd-amendment-rights-non-dangerous-felons/",
-        "publishedAt": "2026-03-31T18:33:17Z",
+        "title": "Australia Investigates Meta, TikTok, Snap and YouTube over Potential Breaches of Teen Social Media Ban",
+        "description": "Australia's online safety regulator has launched formal investigations into Mark Zuckerberg's Meta, Snap, TikTok and Google's YouTube amid concerns the tech giants may be failing to comply with the country's landmark social media ban for children under 16 yea…",
+        "url": "https://www.breitbart.com/tech/2026/03/31/australia-investigates-meta-tiktok-snap-and-youtube-over-potential-breaches-of-teen-social-media-ban/",
+        "publishedAt": "2026-03-31T19:22:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "16"
+      },
+      {
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Marine Corporal Arrested for Allegedly Stealing Missile System, Ammo",
-        "description": "A 23-year-old Marine Corporal is under arrest for allegedly stealing a missile system and other \"weapons of war\" from his California base and selling them for personal profit.\nThe post Marine Corporal Arrested for Allegedly Stealing Missile System, Ammo appea…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/03/31/marine-corporal-arrested-for-allegedly-stealing-missile-system-ammo/",
-        "publishedAt": "2026-03-31T17:39:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "23"
-      },
-      {
-        "title": "More key US allies block military flights as Iran war rift widens with Trump",
-        "description": "President Donald Trump blasted France, Spain, Italy, and the U.K. on Truth Social, criticizing their refusal to support U.S. military operations tied to the war with Iran.",
-        "url": "https://www.foxnews.com/world/more-key-us-allies-block-military-flights-iran-war-rift-widens-trump",
-        "publishedAt": "2026-03-31T17:24:54Z",
+        "title": "Sharon Stone blasts ‘blatant, harsh sexuality’ in modern TV, says she fast-forwards through sex scenes",
+        "description": "\"Basic Instinct\" star Sharon Stone says she fast-forwards past modern sex scenes, arguing modern on-screen sexuality has lost the mystery and yearning that made it powerful.",
+        "url": "https://www.foxnews.com/entertainment/sharon-stone-blatant-harsh-sexuality-modern-tv-fast-forwards-sex-scenes",
+        "publishedAt": "2026-03-31T19:01:36Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Exclusive -- Ambassador Jeffrey Gerrish: U.S. Biopharmaceutical Sector Vulnerable to Weaponized Chinese Supply Chain Dominance",
-        "description": "The U.S. biopharmaceutical sector is vulnerable to weaponized Chinese supply chain dominance, Ambassador Jeffrey Gerrish warned during an event with Breitbart News highlighting the threats the communist country poses to U.S. national security.\nThe post Exclus…",
-        "url": "https://www.breitbart.com/politics/2026/03/31/exclusive-ambassador-jeffrey-gerrish-u-s-biopharmaceutical-sector-vulnerable-to-weaponized-chinese-supply-chain-dominance/",
-        "publishedAt": "2026-03-31T17:03:21Z",
+        "title": "Trump admin to hold global summit on countering Antifa, sources confirm",
+        "description": "The Trump administration is considering a global summit to counter Antifa and left-wing extremist networks, saying they pose a transnational terror threat.",
+        "url": "https://www.foxnews.com/politics/trump-admin-to-hold-global-summit-countering-antifa-sources-confirm",
+        "publishedAt": "2026-03-31T18:41:34Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Former NFL stars weigh pros and cons of league's global expansion, streaming games",
-        "description": "Rob Gronkowski and Julian Edelman weighed in on the NFL's global expansion and a potential 18-game season, calling it a double-edged sword for players and fans alike.",
-        "url": "https://www.foxnews.com/sports/former-nfl-stars-weigh-pros-cons-leagues-global-expansion-streaming-games",
-        "publishedAt": "2026-03-31T15:59:39Z",
+        "title": "Gunmen on bikes storm Nigeria village on Palm Sunday, killing at least 20",
+        "description": "Gunmen on motorcycles shot sporadically into a Nigerian community on Palm Sunday, killing at least 20, residents say, prompting a 48-hour curfew in Plateau state.",
+        "url": "https://www.foxnews.com/world/gunmen-bikes-storm-nigeria-village-palm-sunday-killing-least-20",
+        "publishedAt": "2026-03-31T18:36:33Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "18"
+        "numericHint": "20"
       }
     ]
   },
