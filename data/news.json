@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-04-01T22:39:26.855584+00:00",
+  "generated_at": "2026-04-01T23:21:11.569979+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-thai-econ": [
+      {
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Small-town diner produces 5th lottery winner in 2 years as customer hits $2M jackpot",
+        "description": "Hometown hotspot Old South Diner in Nantucket has sold its fifth million-dollar lottery prize in two years, with Mary Haley winning a $2 million Powerball ticket.",
+        "url": "https://www.foxnews.com/lifestyle/small-town-diner-produces-5th-lottery-winner-2-years-customer-hits-2m-jackpot",
+        "publishedAt": "2026-03-31T22:36:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Volunteers Count 1,200+ Killings by Migrants Amid Silence from Agencies, Media",
+        "description": "At least 1,411 people have been killed by illegal migrants, nearly all within the last 25 years, says a grassroots group that opposes mass migration.\nThe post Volunteers Count 1,200+ Killings by Migrants Amid Silence from Agencies, Media appeared first on Bre…",
+        "url": "https://www.breitbart.com/crime/2026/03/31/volunteers-count-1200-killings-by-migrants-amid-silence-from-agencies-media/",
+        "publishedAt": "2026-03-31T21:57:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "'The View' hosts ask Rahm Emanuel if Trump started Iran war to distract from Epstein",
+        "description": "Iran war news dominates \"The View\" as Rahm Emanuel argues Trump made a \"bad choice,\" warning the U.S. lacks a plan to reopen the Strait of Hormuz if Iran does not comply.",
+        "url": "https://www.foxnews.com/media/the-view-hosts-ask-rahm-emanuel-trump-started-iran-war-distract-from-epstein",
+        "publishedAt": "2026-03-31T21:53:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: This Is What Full Employment Looks Like",
+        "description": "The JOLTS report looks less like a labor market losing steam than one settling into full employment in a country where the labor force has stopped growing rapidly.\nThe post Breitbart Business Digest: This Is What Full Employment Looks Like appeared first on B…",
+        "url": "https://www.breitbart.com/economy/2026/03/31/breitbart-business-digest-this-is-what-full-employment-looks-like/",
+        "publishedAt": "2026-03-31T21:43:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Usha Vance Launches ‘Storytime with the Second Lady’ Podcast for Children",
+        "description": "Second Lady Usha Vance on Monday announced the launch of a new children’s podcast centered on reading aloud and promoting childhood literacy, adding another initiative to her public effort to address declining reading proficiency among young Americans.\nThe po…",
+        "url": "https://www.breitbart.com/politics/2026/03/31/usha-vance-launches-storytime-with-the-second-lady-podcast-for-children/",
+        "publishedAt": "2026-03-31T21:35:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-thai-soc": [
+      {
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Super Bowl heading back to Las Vegas as NFL confirms 2029 site",
+        "description": "The NFL has officially awarded Las Vegas Super Bowl LXIII in 2029, with Allegiant Stadium set to host the big game for the second time in five years.",
+        "url": "https://www.foxnews.com/sports/super-bowl-heading-back-las-vegas-nfl-confirms-2029-site",
+        "publishedAt": "2026-03-31T22:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2029"
+      },
+      {
+        "title": "Yemen’s Houthis Threaten to Create Second Shipping Chokepoint in Iran Conflict",
+        "description": "The Houthi insurgents of Yemen appear to have joined the Iran conflict on behalf of their arms dealers and paymasters in Tehran by launching missiles and drones at Israel on Saturday.\nThe post Yemen’s Houthis Threaten to Create Second Shipping Chokepoint in I…",
+        "url": "https://www.breitbart.com/middle-east/2026/03/31/yemens-houthis-threaten-to-create-second-shipping-chokepoint-in-iran-conflict/",
+        "publishedAt": "2026-03-31T21:00:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Australia Investigates Meta, TikTok, Snap and YouTube over Potential Breaches of Teen Social Media Ban",
+        "description": "Australia's online safety regulator has launched formal investigations into Mark Zuckerberg's Meta, Snap, TikTok and Google's YouTube amid concerns the tech giants may be failing to comply with the country's landmark social media ban for children under 16 yea…",
+        "url": "https://www.breitbart.com/tech/2026/03/31/australia-investigates-meta-tiktok-snap-and-youtube-over-potential-breaches-of-teen-social-media-ban/",
+        "publishedAt": "2026-03-31T19:22:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "16"
+      },
+      {
+        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
+        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
+        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
+        "publishedAt": "2026-03-31T19:16:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sharon Stone blasts ‘blatant, harsh sexuality’ in modern TV, says she fast-forwards through sex scenes",
+        "description": "\"Basic Instinct\" star Sharon Stone says she fast-forwards past modern sex scenes, arguing modern on-screen sexuality has lost the mystery and yearning that made it powerful.",
+        "url": "https://www.foxnews.com/entertainment/sharon-stone-blatant-harsh-sexuality-modern-tv-fast-forwards-sex-scenes",
+        "publishedAt": "2026-03-31T19:01:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
