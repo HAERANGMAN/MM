@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-04-01T19:41:39.726177+00:00",
+  "generated_at": "2026-04-01T20:26:24.440578+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [
-      {
-        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
-        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
-        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
-        "publishedAt": "2026-03-31T19:16:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
-        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
-        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
-        "publishedAt": "2026-03-31T19:16:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Colorado tried to silence me for helping gender-confused kids. The Supreme Court just ruled 8-1 in my favor",
-        "description": "I won an 8-1 U.S. Supreme Court ruling in Chiles v. Salazar, striking down a Colorado law that silenced licensed counselors on gender identity issues.",
-        "url": "https://www.foxnews.com/opinion/colorado-tried-silence-helping-gender-confused-kids-supreme-court-ruled-8-1-favor",
-        "publishedAt": "2026-03-31T19:07:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "More key US allies block military flights as Iran war rift widens with Trump",
-        "description": "President Donald Trump blasted France, Spain, Italy, and the U.K. on Truth Social, criticizing their refusal to support U.S. military operations tied to the war with Iran.",
-        "url": "https://www.foxnews.com/world/more-key-us-allies-block-military-flights-iran-war-rift-widens-trump",
-        "publishedAt": "2026-03-31T17:24:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "CNN Promotes Fidel Castro's Influencer Grandson as Gen-Z Friendly Face of Murderous Cuba Regime",
-        "description": "The leftist American news outlet CNN aired a favorable interview on Monday night with Sandro Castro, the grandson of late Cuban communist dictator Fidel Castro and one of the few people in communist Cuba wealthy enough to enjoy marginal fame as an Instagram i…",
-        "url": "https://www.breitbart.com/national-security/2026/03/31/fidel-castros-influencer-grandson-majority-of-cubans-want-to-be-capitalist/",
-        "publishedAt": "2026-03-31T16:34:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "10 things to stop paying for to save money now",
-        "description": "Small, recurring costs add up fast. Here are 10 everyday expenses you can reduce right now to free up more room in your monthly budget.",
-        "url": "https://www.foxnews.com/tech/10-things-stop-paying-save-money-now",
-        "publishedAt": "2026-03-31T16:14:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "10"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
-    "news-thai-soc": [
-      {
-        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
-        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
-        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
-        "publishedAt": "2026-03-31T19:16:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Australia Investigates Meta, TikTok, Snap and YouTube over Potential Breaches of Teen Social Media Ban",
-        "description": "Australia's online safety regulator has launched formal investigations into Mark Zuckerberg's Meta, Snap, TikTok and Google's YouTube amid concerns the tech giants may be failing to comply with the country's landmark social media ban for children under 16 yea…",
-        "url": "https://www.breitbart.com/tech/2026/03/31/australia-investigates-meta-tiktok-snap-and-youtube-over-potential-breaches-of-teen-social-media-ban/",
-        "publishedAt": "2026-03-31T19:22:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "16"
-      },
-      {
-        "title": "Report: China Ignores Belt and Road Victims' Calls for Help with Rising Energy Costs",
-        "description": "Clients of China’s vast Belt and Road Initiative (BRI) are asking Beijing for help with spiking energy costs due to the Iran conflict, but so far China has reportedly offered little assistance, instead shutting down fuel exports to conserve its own energy sto…",
-        "url": "https://www.breitbart.com/asia/2026/03/31/report-china-ignores-belt-and-road-victims-calls-for-help-with-rising-energy-costs/",
-        "publishedAt": "2026-03-31T19:16:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sharon Stone blasts ‘blatant, harsh sexuality’ in modern TV, says she fast-forwards through sex scenes",
-        "description": "\"Basic Instinct\" star Sharon Stone says she fast-forwards past modern sex scenes, arguing modern on-screen sexuality has lost the mystery and yearning that made it powerful.",
-        "url": "https://www.foxnews.com/entertainment/sharon-stone-blatant-harsh-sexuality-modern-tv-fast-forwards-sex-scenes",
-        "publishedAt": "2026-03-31T19:01:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump admin to hold global summit on countering Antifa, sources confirm",
-        "description": "The Trump administration is considering a global summit to counter Antifa and left-wing extremist networks, saying they pose a transnational terror threat.",
-        "url": "https://www.foxnews.com/politics/trump-admin-to-hold-global-summit-countering-antifa-sources-confirm",
-        "publishedAt": "2026-03-31T18:41:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gunmen on bikes storm Nigeria village on Palm Sunday, killing at least 20",
-        "description": "Gunmen on motorcycles shot sporadically into a Nigerian community on Palm Sunday, killing at least 20, residents say, prompting a 48-hour curfew in Plateau state.",
-        "url": "https://www.foxnews.com/world/gunmen-bikes-storm-nigeria-village-palm-sunday-killing-least-20",
-        "publishedAt": "2026-03-31T18:36:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
-      }
-    ]
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
