@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-02T23:17:35.210685+00:00",
+  "generated_at": "2026-04-02T23:52:29.419166+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: The Labor Market May Be Tighter Than You Think",
+        "description": "The people telling you the labor market is cracking probably failed to update their models for the single biggest structural change in the U.S. labor force in a generation.\nThe post Breitbart Business Digest: The Labor Market May Be Tighter Than You Think app…",
+        "url": "https://www.breitbart.com/economy/2026/04/01/breitbart-business-digest-the-labor-market-may-be-tighter-than-you-think/",
+        "publishedAt": "2026-04-01T22:40:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News Poll: Broad anxiety about AI doesn’t extend to jobs",
+        "description": "A new poll finds voter concern about AI has risen to 66%, while nearly two-thirds are uncomfortable with military use of autonomous weapons systems.",
+        "url": "https://www.foxnews.com/politics/fox-news-poll-broad-anxiety-about-ai-doesnt-extend-jobs",
+        "publishedAt": "2026-04-01T22:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "66"
+      },
+      {
+        "title": "Woman’s double-twin relationship sparks court’s impossible paternity ruling",
+        "description": "A UK Court of Appeals ruled that neither of two identical twins can be legally named the father of a child, as DNA testing cannot distinguish them.",
+        "url": "https://www.foxnews.com/health/womans-double-twin-relationship-sparks-courts-impossible-paternity-ruling",
+        "publishedAt": "2026-04-01T21:05:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Manufacturing Activity Accelerates To Fastest Pace Since 2022",
+        "description": "American factories expanded at their fastest pace in nearly four years in March, shrugging off a war-driven surge in input costs that has dominated headlines but failed to dent the sector's momentum.\nThe post U.S. Manufacturing Activity Accelerates To Fastest…",
+        "url": "https://www.breitbart.com/economy/2026/04/01/u-s-manufacturing-activity-accelerates-to-fastest-pace-since-2022/",
+        "publishedAt": "2026-04-01T19:50:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2022"
+      },
+      {
+        "title": "Fidel Castro’s Grandson Continues CNN-Fueled PR Blitz, Declaring Himself an Instagram 'Filmmaker'",
+        "description": "The Colombian news channel Red más on Tuesday aired an interview with Sandro Castro, the \"influencer\" grandson of late Cuban communist dictator Fidel Castro, in which he dubious claimed he has no close ties with the inner circle of his great-uncle dictator Ra…",
+        "url": "https://www.breitbart.com/latin-america/2026/04/01/fidel-castros-influencer-grandson-acknowledges-communist-collapse-of-cuba/",
+        "publishedAt": "2026-04-01T19:37:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "American Journalist Kidnapped in Baghdad, Suspects Linked to Iran-Backed Militia",
+        "description": "American journalist Shelly Kittleson has been abducted in Baghdad, Iraq, reportedly by a group linked to an Iran-backed Shiite militia.\nThe post American Journalist Kidnapped in Baghdad, Suspects Linked to Iran-Backed Militia appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/04/01/american-journalist-kidnapped-baghdad-suspects-linked-iran-backed-militia/",
+        "publishedAt": "2026-04-01T21:02:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Reporter kidnapped in Baghdad known for pursuing gutsy, low-budget assignments while living ‘frugal existence’",
+        "description": "Award-winning American journalist Shelly Kittleson has been kidnapped in Iraq after brushing off threats that coincided with her coverage.",
+        "url": "https://www.foxnews.com/media/reporter-kidnapped-baghdad-known-pursuing-gutsy-low-budget-assignments-while-living-frugal-existence",
+        "publishedAt": "2026-04-01T19:55:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Manufacturing Activity Accelerates To Fastest Pace Since 2022",
+        "description": "American factories expanded at their fastest pace in nearly four years in March, shrugging off a war-driven surge in input costs that has dominated headlines but failed to dent the sector's momentum.\nThe post U.S. Manufacturing Activity Accelerates To Fastest…",
+        "url": "https://www.breitbart.com/economy/2026/04/01/u-s-manufacturing-activity-accelerates-to-fastest-pace-since-2022/",
+        "publishedAt": "2026-04-01T19:50:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2022"
+      },
+      {
+        "title": "Chinese State Media Fumes over Bernie Moreno's Move to Expand U.S. Ban on Chinese Vehicles",
+        "description": "Chinese state media is fuming over Sen. Bernie Moreno's (R-OH) plans to expand the U.S. ban on Chinese vehicles.\nThe post Chinese State Media Fumes over Bernie Moreno’s Move to Expand U.S. Ban on Chinese Vehicles appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/04/01/chinese-state-media-fumes-over-bernie-morenos-move-to-expand-u-s-ban-on-chinese-vehicles/",
+        "publishedAt": "2026-04-01T19:19:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Poll position: Where Trump stands among Americans as he faces the nation in primetime",
+        "description": "President Donald Trump's approval ratings have edged down in recent weeks, sinking further underwater as he faces the nation on Wednesday night to update Americans on the Iran war.",
+        "url": "https://www.foxnews.com/politics/poll-position-where-trump-stands-among-americans-he-faces-nation-primetime",
+        "publishedAt": "2026-04-01T18:10:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
