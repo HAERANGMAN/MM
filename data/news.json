@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T01:23:29.636961+00:00",
+  "generated_at": "2026-04-03T04:06:57.302618+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Trump says Iran ‘no longer a threat’ after 32 days — outlines next phase of US war",
+        "description": "Trump declares Iran \"no longer a threat\" after a 32-day military campaign, claiming nuclear sites were destroyed by B-2 bombers and warning of more strikes.",
+        "url": "https://www.foxnews.com/politics/trump-says-iran-no-longer-threat-after-32-days-outlines-next-phase-us-war",
+        "publishedAt": "2026-04-02T01:45:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "32"
+      },
+      {
         "title": "American Journalist Kidnapped in Baghdad, Suspects Linked to Iran-Backed Militia",
         "description": "American journalist Shelly Kittleson has been abducted in Baghdad, Iraq, reportedly by a group linked to an Iran-backed Shiite militia.\nThe post American Journalist Kidnapped in Baghdad, Suspects Linked to Iran-Backed Militia appeared first on Breitbart.",
         "url": "https://www.breitbart.com/middle-east/2026/04/01/american-journalist-kidnapped-baghdad-suspects-linked-iran-backed-militia/",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-04-01T19:19:49Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Poll position: Where Trump stands among Americans as he faces the nation in primetime",
-        "description": "President Donald Trump's approval ratings have edged down in recent weeks, sinking further underwater as he faces the nation on Wednesday night to update Americans on the Iran war.",
-        "url": "https://www.foxnews.com/politics/poll-position-where-trump-stands-among-americans-he-faces-nation-primetime",
-        "publishedAt": "2026-04-01T18:10:10Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
