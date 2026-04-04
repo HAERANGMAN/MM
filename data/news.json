@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T08:50:31.738721+00:00",
+  "generated_at": "2026-04-04T09:25:31.186304+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -26,6 +26,36 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
+        "title": "Spain out of Starmer-led Group 'Exploring' Ways to Reopen Strait of Hormuz",
+        "description": "Socialist-ruled Spain was excluded from a international virtual summit led by the government of British Prime Minister Sir Keir Starmer that \"discussed\" possible joint actions towards reopening the Strait of Hormuz.\nThe post Spain out of Starmer-led Group ‘Ex…",
+        "url": "https://www.breitbart.com/europe/2026/04/03/spain-out-of-starmer-led-group-exploring-ways-to-reopen-strait-of-hormuz/",
+        "publishedAt": "2026-04-03T09:17:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "REP SETH MOULTON: America deserves better than Trump’s vague Iran war plans",
+        "description": "Representative Seth Moulton argues Trump's Wednesday address offered vague promises on Iran with no clear plan to end the war or reopen the Strait.",
+        "url": "https://www.foxnews.com/opinion/seth-moulton-america-deserves-better-trumps-vague-iran-war-plans",
+        "publishedAt": "2026-04-03T09:00:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DOUG SCHOEN: Democratic battle pits moderates vs. progressives for soul of the party",
+        "description": "Democrats face a defining intra-party battle between progressives and moderates that could determine their 2028 presidential chances and viability.",
+        "url": "https://www.foxnews.com/opinion/doug-schoen-democratic-battle-pits-moderates-vs-progressives-soul-party",
+        "publishedAt": "2026-04-03T09:00:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
         "title": "Why Trump’s war speech failed: Declaring victory but still bombing Iran back to the ‘Stone Ages’",
         "description": "Trump's address on Iran declared victory but promised weeks more bombing, drawing criticism from pundits, European allies, and voters in a recent poll.",
         "url": "https://www.foxnews.com/media/why-trumps-war-speech-failed-declaring-victory-still-bombing-iran-back-stone-ages",
@@ -44,36 +74,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "At least 46 children dead amid measles outbreak as virus spreads globally",
-        "description": "Measles is spreading globally, as Bangladesh reports dozens of child deaths and the U.S. sees over 1,500 confirmed cases, per health officials.",
-        "url": "https://www.foxnews.com/health/least-46-children-dead-amid-measles-outbreak-virus-spreads-globally",
-        "publishedAt": "2026-04-03T00:13:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "46"
       }
     ],
     "news-korea-soc": [
@@ -101,6 +101,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Spain out of Starmer-led Group 'Exploring' Ways to Reopen Strait of Hormuz",
+        "description": "Socialist-ruled Spain was excluded from a international virtual summit led by the government of British Prime Minister Sir Keir Starmer that \"discussed\" possible joint actions towards reopening the Strait of Hormuz.\nThe post Spain out of Starmer-led Group ‘Ex…",
+        "url": "https://www.breitbart.com/europe/2026/04/03/spain-out-of-starmer-led-group-exploring-ways-to-reopen-strait-of-hormuz/",
+        "publishedAt": "2026-04-03T09:17:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "REP SETH MOULTON: America deserves better than Trump’s vague Iran war plans",
+        "description": "Representative Seth Moulton argues Trump's Wednesday address offered vague promises on Iran with no clear plan to end the war or reopen the Strait.",
+        "url": "https://www.foxnews.com/opinion/seth-moulton-america-deserves-better-trumps-vague-iran-war-plans",
+        "publishedAt": "2026-04-03T09:00:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
         "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
         "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
@@ -129,26 +149,6 @@
           "name": "Fox News"
         },
         "numericHint": "46"
-      },
-      {
-        "title": "Americans warned of potential attacks in vacation destination as border crossing exit fee doubles",
-        "description": "The U.S. Embassy Cairo has issued a security alert for Americans in Egypt. The action follows regional military operations in Iran and rising border exit fees.",
-        "url": "https://www.foxnews.com/travel/americans-warned-potential-attacks-vacation-destination-border-crossing-exit-fee-doubles",
-        "publishedAt": "2026-04-02T23:19:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Secretary of War Signs Memorandum to End Military Bases as Gun-Free Zones",
-        "description": "Secretary of War Pete Hegseth announced his signing of a memorandum ending the blanket gun-free policies on military bases in the United States.\nThe post Secretary of War Signs Memorandum to End Military Bases as Gun-Free Zones appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/02/secretary-war-signs-memorandum-end-military-bases-as-gun-free-zones/",
-        "publishedAt": "2026-04-02T21:58:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
