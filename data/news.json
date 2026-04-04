@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T06:07:25.985731+00:00",
+  "generated_at": "2026-04-04T07:15:59.526998+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,134 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Dem Rep. Quigley: 'We Held Out' on DHS Shutdown to Reform ICE, Iran 'Very Dangerous' to Homeland",
-        "description": "On Thursday’s broadcast of MS NOW’s “Ana Cabrera Reports,” Rep. Mike Quigley (D-IL) said that “we held out” on funding all of DHS “because reforming ICE was extremely important to every American.” And stated that we’re still in a situation\nThe post Dem Rep. Q…",
-        "url": "https://www.breitbart.com/clips/2026/04/02/dem-rep-quigley-we-held-out-on-dhs-shutdown-to-reform-ice-iran-very-dangerous-to-homeland/",
-        "publishedAt": "2026-04-03T03:27:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "At least 46 children dead amid measles outbreak as virus spreads globally",
-        "description": "Measles is spreading globally, as Bangladesh reports dozens of child deaths and the U.S. sees over 1,500 confirmed cases, per health officials.",
-        "url": "https://www.foxnews.com/health/least-46-children-dead-amid-measles-outbreak-virus-spreads-globally",
-        "publishedAt": "2026-04-03T00:13:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "46"
-      },
-      {
-        "title": "Laura: Who will President Donald Trump choose next? | Fox News Video",
-        "description": "Fox News host Laura Ingraham discusses the firing of Pam Bondi and questions over the handling of the Epstein files on 'The Ingraham Angle.'",
-        "url": "https://www.foxnews.com/video/6392475492112",
-        "publishedAt": "2026-04-03T00:10:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "At least 46 children dead amid measles outbreak as virus spreads globally",
-        "description": "Measles is spreading globally, as Bangladesh reports dozens of child deaths and the U.S. sees over 1,500 confirmed cases, per health officials.",
-        "url": "https://www.foxnews.com/health/least-46-children-dead-amid-measles-outbreak-virus-spreads-globally",
-        "publishedAt": "2026-04-03T00:13:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "46"
-      },
-      {
-        "title": "Americans warned of potential attacks in vacation destination as border crossing exit fee doubles",
-        "description": "The U.S. Embassy Cairo has issued a security alert for Americans in Egypt. The action follows regional military operations in Iran and rising border exit fees.",
-        "url": "https://www.foxnews.com/travel/americans-warned-potential-attacks-vacation-destination-border-crossing-exit-fee-doubles",
-        "publishedAt": "2026-04-02T23:19:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Secretary of War Signs Memorandum to End Military Bases as Gun-Free Zones",
-        "description": "Secretary of War Pete Hegseth announced his signing of a memorandum ending the blanket gun-free policies on military bases in the United States.\nThe post Secretary of War Signs Memorandum to End Military Bases as Gun-Free Zones appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/02/secretary-war-signs-memorandum-end-military-bases-as-gun-free-zones/",
-        "publishedAt": "2026-04-02T21:58:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
