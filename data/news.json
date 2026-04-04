@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-04-04T07:15:59.526998+00:00",
+  "generated_at": "2026-04-04T07:57:56.414298+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
