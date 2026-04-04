@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T09:25:31.186304+00:00",
+  "generated_at": "2026-04-04T10:00:59.481392+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,134 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Spain out of Starmer-led Group 'Exploring' Ways to Reopen Strait of Hormuz",
-        "description": "Socialist-ruled Spain was excluded from a international virtual summit led by the government of British Prime Minister Sir Keir Starmer that \"discussed\" possible joint actions towards reopening the Strait of Hormuz.\nThe post Spain out of Starmer-led Group ‘Ex…",
-        "url": "https://www.breitbart.com/europe/2026/04/03/spain-out-of-starmer-led-group-exploring-ways-to-reopen-strait-of-hormuz/",
-        "publishedAt": "2026-04-03T09:17:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "REP SETH MOULTON: America deserves better than Trump’s vague Iran war plans",
-        "description": "Representative Seth Moulton argues Trump's Wednesday address offered vague promises on Iran with no clear plan to end the war or reopen the Strait.",
-        "url": "https://www.foxnews.com/opinion/seth-moulton-america-deserves-better-trumps-vague-iran-war-plans",
-        "publishedAt": "2026-04-03T09:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DOUG SCHOEN: Democratic battle pits moderates vs. progressives for soul of the party",
-        "description": "Democrats face a defining intra-party battle between progressives and moderates that could determine their 2028 presidential chances and viability.",
-        "url": "https://www.foxnews.com/opinion/doug-schoen-democratic-battle-pits-moderates-vs-progressives-soul-party",
-        "publishedAt": "2026-04-03T09:00:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Why Trump’s war speech failed: Declaring victory but still bombing Iran back to the ‘Stone Ages’",
-        "description": "Trump's address on Iran declared victory but promised weeks more bombing, drawing criticism from pundits, European allies, and voters in a recent poll.",
-        "url": "https://www.foxnews.com/media/why-trumps-war-speech-failed-declaring-victory-still-bombing-iran-back-stone-ages",
-        "publishedAt": "2026-04-03T07:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dem Rep. Quigley: 'We Held Out' on DHS Shutdown to Reform ICE, Iran 'Very Dangerous' to Homeland",
-        "description": "On Thursday’s broadcast of MS NOW’s “Ana Cabrera Reports,” Rep. Mike Quigley (D-IL) said that “we held out” on funding all of DHS “because reforming ICE was extremely important to every American.” And stated that we’re still in a situation\nThe post Dem Rep. Q…",
-        "url": "https://www.breitbart.com/clips/2026/04/02/dem-rep-quigley-we-held-out-on-dhs-shutdown-to-reform-ice-iran-very-dangerous-to-homeland/",
-        "publishedAt": "2026-04-03T03:27:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Spain out of Starmer-led Group 'Exploring' Ways to Reopen Strait of Hormuz",
-        "description": "Socialist-ruled Spain was excluded from a international virtual summit led by the government of British Prime Minister Sir Keir Starmer that \"discussed\" possible joint actions towards reopening the Strait of Hormuz.\nThe post Spain out of Starmer-led Group ‘Ex…",
-        "url": "https://www.breitbart.com/europe/2026/04/03/spain-out-of-starmer-led-group-exploring-ways-to-reopen-strait-of-hormuz/",
-        "publishedAt": "2026-04-03T09:17:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "REP SETH MOULTON: America deserves better than Trump’s vague Iran war plans",
-        "description": "Representative Seth Moulton argues Trump's Wednesday address offered vague promises on Iran with no clear plan to end the war or reopen the Strait.",
-        "url": "https://www.foxnews.com/opinion/seth-moulton-america-deserves-better-trumps-vague-iran-war-plans",
-        "publishedAt": "2026-04-03T09:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-        "description": "President Trump unveiled a tiered tariff plan hitting some imported drugs with rates up to 100%, aiming to boost U.S. manufacturing and reduce reliance on foreign supply chains.",
-        "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-        "publishedAt": "2026-04-03T02:21:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Breitbart Business Digest: The Vindication of Liberation Day",
-        "description": "One year after Liberation Day, with many tariffs only taking full effect mid-year amid heavy front-loading, the policy has delivered measurable results.\nThe post Breitbart Business Digest: The Vindication of Liberation Day appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/02/breitbart-business-digest-the-vindication-of-liberation-day/",
-        "publishedAt": "2026-04-03T01:36:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "At least 46 children dead amid measles outbreak as virus spreads globally",
-        "description": "Measles is spreading globally, as Bangladesh reports dozens of child deaths and the U.S. sees over 1,500 confirmed cases, per health officials.",
-        "url": "https://www.foxnews.com/health/least-46-children-dead-amid-measles-outbreak-virus-spreads-globally",
-        "publishedAt": "2026-04-03T00:13:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "46"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
