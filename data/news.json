@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-04-05T13:16:46.010499+00:00",
+  "generated_at": "2026-04-05T14:02:33.625171+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
+        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
+        "publishedAt": "2026-04-03T19:05:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "European Ministers Call for Profit Caps on Energy Companies Amid Iran Conflict",
+        "description": "The finance ministers of Spain and four other European countries are urging the European Union to impose a bloc-wide windfall tax on energy companies, concerned that surging oil and gas prices driven by the war in Iran will fuel inflation and strain household…",
+        "url": "https://www.breitbart.com/europe/2026/04/04/european-ministers-call-for-profit-caps-on-energy-companies-amid-iran-conflict/",
+        "publishedAt": "2026-04-04T12:49:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Search Continues for Missing U.S. Pilot Shot Down over Southern Iran",
+        "description": "The U.S. military pressed ahead Saturday in a frantic search for a missing pilot over a remote area in southwestern Iran, after the Middle Eastern country shot down an American warplane and called on people to turn the pilot in, promising a reward.\nThe post S…",
+        "url": "https://www.breitbart.com/europe/2026/04/04/search-continues-for-missing-u-s-pilot-shot-down-over-southern-iran/",
+        "publishedAt": "2026-04-04T11:55:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TANVI RATNA: Iran war isn’t a distraction from America’s problems, it’s where they lead",
+        "description": "Iran's new second front at the Red Sea links Gulf rivalry, Somali corridor politics, and domestic fraud and migration crises in the United States.",
+        "url": "https://www.foxnews.com/opinion/tanvi-ratna-iran-war-isnt-distraction-americas-problems-lead",
+        "publishedAt": "2026-04-04T11:32:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Russian Drone Strikes on Ukraine Kill Five People and Wound Dozens More",
+        "description": "Russian drone strikes on Ukraine overnight killed five people and injured 30 more, Ukrainian officials said Saturday.\nThe post Russian Drone Strikes on Ukraine Kill Five People and Wound Dozens More appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/04/04/russian-drone-strikes-on-ukraine-kill-five-people-and-wound-dozens-more/",
+        "publishedAt": "2026-04-04T11:15:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "30"
+      },
+      {
+        "title": "Trump Signs Executive Order Limiting the Years of Eligibility, Number of Transfers",
+        "description": "President Trump has signed an executive order (EO) intended to reform and structure college sports, primarily by limiting the number of years a player is eligible and the number of transfers.\nThe post Trump Signs Executive Order Limiting the Years of Eligibil…",
+        "url": "https://www.breitbart.com/sports/2026/04/03/trump-signs-executive-order-limiting-the-years-of-eligibility-number-of-transfers/",
+        "publishedAt": "2026-04-03T22:27:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
+        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
+        "publishedAt": "2026-04-03T19:05:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "European Ministers Call for Profit Caps on Energy Companies Amid Iran Conflict",
+        "description": "The finance ministers of Spain and four other European countries are urging the European Union to impose a bloc-wide windfall tax on energy companies, concerned that surging oil and gas prices driven by the war in Iran will fuel inflation and strain household…",
+        "url": "https://www.breitbart.com/europe/2026/04/04/european-ministers-call-for-profit-caps-on-energy-companies-amid-iran-conflict/",
+        "publishedAt": "2026-04-04T12:49:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Search Continues for Missing U.S. Pilot Shot Down over Southern Iran",
+        "description": "The U.S. military pressed ahead Saturday in a frantic search for a missing pilot over a remote area in southwestern Iran, after the Middle Eastern country shot down an American warplane and called on people to turn the pilot in, promising a reward.\nThe post S…",
+        "url": "https://www.breitbart.com/europe/2026/04/04/search-continues-for-missing-u-s-pilot-shot-down-over-southern-iran/",
+        "publishedAt": "2026-04-04T11:55:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TANVI RATNA: Iran war isn’t a distraction from America’s problems, it’s where they lead",
+        "description": "Iran's new second front at the Red Sea links Gulf rivalry, Somali corridor politics, and domestic fraud and migration crises in the United States.",
+        "url": "https://www.foxnews.com/opinion/tanvi-ratna-iran-war-isnt-distraction-americas-problems-lead",
+        "publishedAt": "2026-04-04T11:32:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FIRST LADY MELANIA TRUMP: AI could improve teaching and help deliver a world-class education to our children",
+        "description": "Here's how AI-powered tutoring tools can democratize education for underserved communities in America, giving all children personalized access to elite-level academics.",
+        "url": "https://www.foxnews.com/opinion/first-lady-melania-trump-ai-could-improve-teaching-help-deliver-world-class-education-children",
+        "publishedAt": "2026-04-04T11:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Argentina Expels Top Iranian Diplomat in Country",
+        "description": "The government of Argentina declared the Iranian chargé d'affaires persona non grata and gave him 48 hours to leave the country.\nThe post Argentina Expels Top Iranian Diplomat in Country appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/latin-america/2026/04/03/argentina-expels-top-iranian-diplomat-country/",
+        "publishedAt": "2026-04-03T19:56:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "48"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
