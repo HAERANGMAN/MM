@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-05T15:18:42.407375+00:00",
+  "generated_at": "2026-04-05T15:51:13.247574+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
-        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
-        "publishedAt": "2026-04-03T19:05:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
