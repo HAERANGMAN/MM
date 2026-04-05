@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-04-05T08:25:09.327417+00:00",
+  "generated_at": "2026-04-05T09:06:41.115166+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
+        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
+        "publishedAt": "2026-04-03T19:05:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Trump Signs Executive Order Limiting the Years of Eligibility, Number of Transfers",
+        "description": "President Trump has signed an executive order (EO) intended to reform and structure college sports, primarily by limiting the number of years a player is eligible and the number of transfers.\nThe post Trump Signs Executive Order Limiting the Years of Eligibil…",
+        "url": "https://www.breitbart.com/sports/2026/04/03/trump-signs-executive-order-limiting-the-years-of-eligibility-number-of-transfers/",
+        "publishedAt": "2026-04-03T22:27:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Healthy patients allegedly lured into $50M hospice scam as feds expose cash kickbacks and fake care",
+        "description": "Federal authorities in Los Angeles arrest eight in alleged $50 million hospice fraud scheme that prosecutors say turned Medicare into a cash grab.",
+        "url": "https://www.foxnews.com/us/healthy-patients-allegedly-lured-into-50m-hospice-scam-feds-expose-cash-kickbacks-fake-care",
+        "publishedAt": "2026-04-03T21:21:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Nebraska Senate candidate restructures campaign after complaint over payments to family: report",
+        "description": "Dan Osborn is reportedly restructuring his Nebraska Senate campaign after a complaint alleged his operation improperly steered money to his wife and other relatives through PACs and consulting firms.",
+        "url": "https://www.foxnews.com/politics/nebraska-senate-candidate-restructures-campaign-after-complaint-over-payments-family-report",
+        "publishedAt": "2026-04-03T20:45:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
+        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
+        "publishedAt": "2026-04-03T19:05:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US strikes deep inside Iran, Pentagon shakeup rocks army leadership | Fox News Video",
+        "description": "Fox News chief national security correspondent Jennifer Griffin details a Pentagon leadership shakeup, with Gen. Christopher LaNeve named acting Army chief, and the ongoing Iranian threats to civilian vessels on 'The Faulkner Focus.'",
+        "url": "https://www.foxnews.com/video/6392515003112",
+        "publishedAt": "2026-04-03T18:47:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
+        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
+        "publishedAt": "2026-04-03T19:05:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Argentina Expels Top Iranian Diplomat in Country",
+        "description": "The government of Argentina declared the Iranian chargé d'affaires persona non grata and gave him 48 hours to leave the country.\nThe post Argentina Expels Top Iranian Diplomat in Country appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/latin-america/2026/04/03/argentina-expels-top-iranian-diplomat-country/",
+        "publishedAt": "2026-04-03T19:56:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "48"
+      },
+      {
+        "title": "South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks",
+        "description": "South Korea, France, and Ukraine discussed taking steps to ensure the Strait of Hormuz is safe for commercial ships.\nThe post South Korea, Ukraine Step Up to Defend Strait of Hormuz as Most of Europe Balks appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/04/03/south-korea-ukraine-step-up-defend-strait-hormuz-most-europe-balks/",
+        "publishedAt": "2026-04-03T19:05:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "President Trump's 2027 Budget Proposal Seeks to End Biden-Era Gun Controls",
+        "description": "Trump's fiscal year 2027 budget proposal seeks to end numerous gun controls implemented by ATF during Joe Biden's term in office.\nThe post President Trump’s 2027 Budget Proposal Seeks to End Biden-Era Gun Controls appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/03/president-trumps-2027-budget-proposal-seeks-end-biden-era-gun-controls/",
+        "publishedAt": "2026-04-03T18:07:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2027"
+      },
+      {
+        "title": "French-Owned Ship Becomes First Western Freighter to Pass Hormuz Strait Since Start of Iran War",
+        "description": "Western merchantman has openly transited the Hormuz Strait, raising questions over whether the French owners paid the $2 million 'Tehran Tax'. \nThe post French-Owned Ship Becomes First Western Freighter to Pass Hormuz Strait Since Start of Iran War appeared f…",
+        "url": "https://www.breitbart.com/europe/2026/04/03/french-owned-ship-first-western-freighter-to-pass-hormuz/",
+        "publishedAt": "2026-04-03T17:21:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Opportunists: Amazon Tacks on 3.5% Fuel Surcharge for Sellers",
+        "description": "Amazon is implement a new fuel surcharge affecting third-party sellers who rely on its fulfillment network. The online giant will charge sellers an additional 3.5 percent fee to account for what it calls \"elevated costs in fuel and logistics.\"\nThe post Opport…",
+        "url": "https://www.breitbart.com/tech/2026/04/03/opportunists-amazon-tacks-on-3-5-fuel-surcharge-for-sellers/",
+        "publishedAt": "2026-04-03T17:20:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3.5"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
