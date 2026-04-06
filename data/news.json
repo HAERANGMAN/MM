@@ -1,20 +1,157 @@
 {
-  "generated_at": "2026-04-06T13:59:01.712458+00:00",
+  "generated_at": "2026-04-06T14:58:27.938000+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Exclusive: FBI Director Kash Patel Details Agency’s Violent Crime Crackdown, Fraud Fight",
+        "description": "FBI Director Kash Patel detailed the agency's victories cracking down on violent crime, as well as the Trump administration's aggressive pursuit of fraud, during an interview with Breitbart News Saturday.\nThe post Exclusive: FBI Director Kash Patel Details Ag…",
+        "url": "https://www.breitbart.com/politics/2026/04/04/exclusive-fbi-director-kash-patel-details-agencys-violent-crime-crackdown-fraud-fight/",
+        "publishedAt": "2026-04-04T17:42:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Zelensky Laments Iran Conflict Diverting Attention from Ukraine",
+        "description": "Ukrainian President Volodymyr Zelenskyy expressed concern that a prolonged U.S.-Israeli war on Iran could further erode America's support for Ukraine.\nThe post Zelensky Laments Iran Conflict Diverting Attention from Ukraine appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/04/05/zelensky-laments-iran-conflict-diverting-attention-from-ukraine/",
+        "publishedAt": "2026-04-05T12:20:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Art heist targeting million-dollar masterpieces exposes blind spots in museum defenses, expert warns",
+        "description": "Former FBI agent Geoff Kelly says museum art thefts are more common than people think, warning that open, welcoming spaces also create security vulnerabilities.",
+        "url": "https://www.foxnews.com/us/art-heist-targeting-million-dollar-masterpieces-exposes-blind-spots-in-museum-defenses-expert-warns",
+        "publishedAt": "2026-04-05T12:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "‘Squad’ Member Ayanna Pressley: ‘Eviction Is an Act of Violence,’ ‘Housing Is a Human Right’",
+        "description": "Rep. Ayanna Pressley (D-MA) says that her “HELP Act would give a lifeline to families facing eviction and vital resources during this time of crisis,” arguing that “housing is a human right” and that “evictions are an act of policy violence.”\nThe post ‘Squad’…",
+        "url": "https://www.breitbart.com/politics/2026/04/04/squad-member-ayanna-pressley-eviction-is-an-act-of-violence-housing-is-a-human-right/",
+        "publishedAt": "2026-04-05T02:58:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mark Levin: These opponents' arguments are reckless, deceitful and absurd | Fox News Video",
+        "description": "Fox News host Mark Levin decries opponents of Operation Epic Fury and warns about the impact of their arguments on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6392586286112",
+        "publishedAt": "2026-04-05T00:57:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TEVI TROY: Trump faces the burdens of a wartime presidency",
+        "description": "How war reshapes the presidency: Trump's conflict with Tehran mirrors the experiences of Wilson, FDR, Johnson and Bush as wartime leaders, experts say.",
+        "url": "https://www.foxnews.com/politics/tevi-troy-trump-faces-burdens-wartime-presidency",
+        "publishedAt": "2026-04-04T20:02:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Humanoid robot shows speed and real skill",
+        "description": "KAIST's humanoid robot sprints, moonwalks and kicks a ball on a soccer field, showing smooth repeatable movement powered by custom motors and AI.",
+        "url": "https://www.foxnews.com/tech/humanoid-robot-shows-speed-real-skill",
+        "publishedAt": "2026-04-05T11:55:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ex-NATO ambassador warns US and allies must 'stop the sniping' and unite to end Iran conflict",
+        "description": "Former U.S. Amb. to NATO Kurt Volker said the United States and its allies must \"stop the sniping\" and work together to end the conflict with Iran on \"Fox News Live.\"",
+        "url": "https://www.foxnews.com/media/ex-nato-ambassador-warns-us-allies-must-stop-sniping-unite-end-iran-conflict",
+        "publishedAt": "2026-04-04T20:28:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: FBI Director Kash Patel Details Agency’s Violent Crime Crackdown, Fraud Fight",
+        "description": "FBI Director Kash Patel detailed the agency's victories cracking down on violent crime, as well as the Trump administration's aggressive pursuit of fraud, during an interview with Breitbart News Saturday.\nThe post Exclusive: FBI Director Kash Patel Details Ag…",
+        "url": "https://www.breitbart.com/politics/2026/04/04/exclusive-fbi-director-kash-patel-details-agencys-violent-crime-crackdown-fraud-fight/",
+        "publishedAt": "2026-04-04T17:42:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Trump Warns Iran -- 'Open the F**kin' Strait' or Face Bombing on Tuesday",
+        "description": "Blunt, unambiguous and straight to the point. That was President Donald Trump on Sunday morning as he warned Iran of the perils that lie ahead if it fails to open the Strait of Hormuz on Tuesday.\nThe post Trump Warns Iran — ‘Open the F**kin’ Strait’ or Face B…",
+        "url": "https://www.breitbart.com/politics/2026/04/05/trump-warns-iran-open-the-fkin-strait-or-face-bombing-on-tuesday/",
+        "publishedAt": "2026-04-05T12:50:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Zelensky Laments Iran Conflict Diverting Attention from Ukraine",
+        "description": "Ukrainian President Volodymyr Zelenskyy expressed concern that a prolonged U.S.-Israeli war on Iran could further erode America's support for Ukraine.\nThe post Zelensky Laments Iran Conflict Diverting Attention from Ukraine appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/04/05/zelensky-laments-iran-conflict-diverting-attention-from-ukraine/",
+        "publishedAt": "2026-04-05T12:20:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Art heist targeting million-dollar masterpieces exposes blind spots in museum defenses, expert warns",
+        "description": "Former FBI agent Geoff Kelly says museum art thefts are more common than people think, warning that open, welcoming spaces also create security vulnerabilities.",
+        "url": "https://www.foxnews.com/us/art-heist-targeting-million-dollar-masterpieces-exposes-blind-spots-in-museum-defenses-expert-warns",
+        "publishedAt": "2026-04-05T12:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pope Leo XIV Marks First Easter as Pontiff with Calls For Peace",
+        "description": "Pope Leo XIV celebrated his first Easter Mass as pontiff with a call Sunday to lay down arms and seek peace to global conflicts through dialogue.\nThe post Pope Leo XIV Marks First Easter as Pontiff with Calls For Peace appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/04/05/pope-leo-xiv-marks-first-easter-as-pontiff-with-calls-for-peace/",
+        "publishedAt": "2026-04-05T11:10:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pope Leo XIV invokes Pope Francis' final words in Easter plea against growing 'indifference' to war",
+        "description": "In his first Easter blessing as pontiff, Pope Leo XIV called for dialogue over domination, quoting Pope Francis' warning on global indifference.",
+        "url": "https://www.foxnews.com/world/pope-leo-xiv-invokes-pope-francis-final-words-easter-plea-against-growing-indifference-war",
+        "publishedAt": "2026-04-05T11:03:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
