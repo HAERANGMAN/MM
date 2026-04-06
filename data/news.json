@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-06T16:44:02.809243+00:00",
+  "generated_at": "2026-04-06T17:32:48.923700+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Exclusive: FBI Director Kash Patel Details Agency’s Violent Crime Crackdown, Fraud Fight",
-        "description": "FBI Director Kash Patel detailed the agency's victories cracking down on violent crime, as well as the Trump administration's aggressive pursuit of fraud, during an interview with Breitbart News Saturday.\nThe post Exclusive: FBI Director Kash Patel Details Ag…",
-        "url": "https://www.breitbart.com/politics/2026/04/04/exclusive-fbi-director-kash-patel-details-agencys-violent-crime-crackdown-fraud-fight/",
-        "publishedAt": "2026-04-04T17:42:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
