@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T19:43:11.566805+00:00",
+  "generated_at": "2026-04-07T20:26:45.732220+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "America First Legal Calls for Antitrust Investigation into 'Anticompetitive' Apple-OpenAI Arrangement",
+        "description": "America First Legal Foundation urged Sen. Chuck Grassley (R-IA) and Rep. Jim Jordan (R-OH) to investigate what the group believes is an anticompetitive deal that made ChatGPT the sole generative AI chatbot integrated into the iPhone and other Apple products.\n…",
+        "url": "https://www.breitbart.com/politics/2026/04/06/america-first-legal-calls-for-antitrust-investigation-into-anticompetitive-apple-openai-arrangement/",
+        "publishedAt": "2026-04-06T19:45:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Poll: Swing State Voters Back Legislation to Expand Domestic Critical Mineral Production",
         "description": "A poll released on Monday found that swing state voters across Georgia, Iowa, and Ohio back legislation, endorsed by the Trump White House, that would expand domestic critical mineral production.\nThe post Poll: Swing State Voters Back Legislation to Expand Do…",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "13"
-      },
-      {
-        "title": "Exclusive — David Park: Direct Lithium Extraction in Arkansas Could Help Break Reliance on China",
-        "description": "Direct lithium extraction in the U.S. in key states such as Arkansas could help break U.S. reliance on China, which dominates the supply chain on many critical minerals, Standard Lithium CEO David Park said during an appearance on Breitbart News Daily.\nThe po…",
-        "url": "https://www.breitbart.com/radio/2026/04/06/exclusive-david-park-direct-lithium-extraction-in-arkansas-could-help-break-reliance-on-china/",
-        "publishedAt": "2026-04-06T17:09:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
