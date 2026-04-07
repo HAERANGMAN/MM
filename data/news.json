@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T20:26:45.732220+00:00",
+  "generated_at": "2026-04-07T21:11:41.337930+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "America First Legal Calls for Antitrust Investigation into 'Anticompetitive' Apple-OpenAI Arrangement",
-        "description": "America First Legal Foundation urged Sen. Chuck Grassley (R-IA) and Rep. Jim Jordan (R-OH) to investigate what the group believes is an anticompetitive deal that made ChatGPT the sole generative AI chatbot integrated into the iPhone and other Apple products.\n…",
-        "url": "https://www.breitbart.com/politics/2026/04/06/america-first-legal-calls-for-antitrust-investigation-into-anticompetitive-apple-openai-arrangement/",
-        "publishedAt": "2026-04-06T19:45:05Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Poll: Swing State Voters Back Legislation to Expand Domestic Critical Mineral Production",
-        "description": "A poll released on Monday found that swing state voters across Georgia, Iowa, and Ohio back legislation, endorsed by the Trump White House, that would expand domestic critical mineral production.\nThe post Poll: Swing State Voters Back Legislation to Expand Do…",
-        "url": "https://www.breitbart.com/politics/2026/04/06/poll-swing-state-voters-back-legislation-expand-domestic-critical-mineral-production/",
-        "publishedAt": "2026-04-06T19:03:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Congressional Democrats Follow Hasan Piker to Cuba, Lending Support to the Communist Regime",
-        "description": "Reps. Pramila Jayapal (D-WA) and Jonathan Jackson (D-IL) revealed on Monday that they had briefly visited Cuba over the Easter holiday and met with figurehead \"president\" Miguel Díaz-Canel, saying they support greater engagement with the repressive Communist …",
-        "url": "https://www.breitbart.com/latin-america/2026/04/06/congressional-democrats-follow-hasan-piker-to-cuba-lending-support-to-the-communist-regime/",
-        "publishedAt": "2026-04-06T18:15:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "State Democrat Climate Laws Threaten to Stifle American Energy Production",
-        "description": "Democrat states are increasingly adopting legislation that would allow insurers to sue oil and natural gas companies for disaster-related losses; critics argue these law would penalize energy producers at a time where lower energy costs are needed more than e…",
-        "url": "https://www.breitbart.com/politics/2026/04/06/state-democrat-climate-laws-threaten-to-stifle-american-energy-production/",
-        "publishedAt": "2026-04-06T17:36:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Man caught on video wielding 13-inch kitchen knife at NYC grocery store moments before police shoot him",
-        "description": "Police shot a man who allegedly advanced at officers with a 13-inch kitchen knife outside a Manhattan grocery store, according to the NYPD on Monday.",
-        "url": "https://www.foxnews.com/us/man-caught-video-wielding-13-inch-kitchen-knife-nyc-grocery-store-moments-police-shoot",
-        "publishedAt": "2026-04-06T17:29:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "13"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "REP RO KHANNA: Trump needs to stop hurting American workers and stand up to China",
-        "description": "President Donald Trump prepares to visit Beijing in May amid rising gas prices, a tumbling stock market and a record-high U.S. trade deficit with China.",
-        "url": "https://www.foxnews.com/opinion/rep-ro-khanna-trump-needs-stop-hurting-american-workers-stand-china",
-        "publishedAt": "2026-04-06T09:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "State Democrat Climate Laws Threaten to Stifle American Energy Production",
-        "description": "Democrat states are increasingly adopting legislation that would allow insurers to sue oil and natural gas companies for disaster-related losses; critics argue these law would penalize energy producers at a time where lower energy costs are needed more than e…",
-        "url": "https://www.breitbart.com/politics/2026/04/06/state-democrat-climate-laws-threaten-to-stifle-american-energy-production/",
-        "publishedAt": "2026-04-06T17:36:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — David Park: Direct Lithium Extraction in Arkansas Could Help Break Reliance on China",
-        "description": "Direct lithium extraction in the U.S. in key states such as Arkansas could help break U.S. reliance on China, which dominates the supply chain on many critical minerals, Standard Lithium CEO David Park said during an appearance on Breitbart News Daily.\nThe po…",
-        "url": "https://www.breitbart.com/radio/2026/04/06/exclusive-david-park-direct-lithium-extraction-in-arkansas-could-help-break-reliance-on-china/",
-        "publishedAt": "2026-04-06T17:09:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democratic Republic of the Congo Agrees to Take Third-Country Deportees from U.S.",
-        "description": "The Democratic Republic of the Congo (DRC) said on Sunday it has agreed to accept migrants from third countries who have been deported from the United States. The first wave of deportees is expected to arrive later this month.\nThe post Democratic Republic of …",
-        "url": "https://www.breitbart.com/africa/2026/04/06/democratic-republic-of-the-congo-agrees-to-take-third-country-deportees-from-u-s/",
-        "publishedAt": "2026-04-06T16:25:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Top GOP defense voice breaks with invasion fears, says US can reopen Hormuz without ground war",
-        "description": "Rep. Mike Turner says he doesn't think U.S. ground troops will be necessary to open the Strait of Hormuz amid Trump's escalating threats to Iran.",
-        "url": "https://www.foxnews.com/politics/top-gop-defense-voice-breaks-invasion-fears-says-us-can-reopen-hormuz-without-ground-war",
-        "publishedAt": "2026-04-06T16:23:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Syria's Jihadi President Gives Ukraine's Zelensky Red Carpet Treatment in Damascus",
-        "description": "President Volodymyr Zelensky visited Damascus, Syria, on Sunday, receiving a warm welcome from President Ahmed al-Sharaa.\nThe post Syria’s Jihadi President Gives Ukraine’s Zelensky Red Carpet Treatment in Damascus appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/04/06/syrias-jihadi-president-gives-ukraines-zelensky-red-carpet-treatment-damascus/",
-        "publishedAt": "2026-04-06T16:19:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
