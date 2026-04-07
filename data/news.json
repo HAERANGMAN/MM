@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-07T21:11:41.337930+00:00",
+  "generated_at": "2026-04-07T21:58:55.759194+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "REP RO KHANNA: Trump needs to stop hurting American workers and stand up to China",
-        "description": "President Donald Trump prepares to visit Beijing in May amid rising gas prices, a tumbling stock market and a record-high U.S. trade deficit with China.",
-        "url": "https://www.foxnews.com/opinion/rep-ro-khanna-trump-needs-stop-hurting-american-workers-stand-china",
-        "publishedAt": "2026-04-06T09:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
