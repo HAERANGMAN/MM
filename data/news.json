@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-04-07T23:26:13.381120+00:00",
+  "generated_at": "2026-04-08T00:02:49.773127+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "REP RO KHANNA: Trump needs to stop hurting American workers and stand up to China",
+        "description": "President Donald Trump prepares to visit Beijing in May amid rising gas prices, a tumbling stock market and a record-high U.S. trade deficit with China.",
+        "url": "https://www.foxnews.com/opinion/rep-ro-khanna-trump-needs-stop-hurting-american-workers-stand-china",
+        "publishedAt": "2026-04-06T09:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Mamdani unveils new 'racial equity plan' for more 'equitable future' that prompts quick DOJ pushback",
+        "description": "Mayor Zohran Mamdani releases New York City's first citywide racial equity plan, prompting conservative pushback and a DOJ review of the new initiative.",
+        "url": "https://www.foxnews.com/politics/mamdani-unveils-new-racial-equity-plan-more-equitable-future-prompts-quick-doj-pushback",
+        "publishedAt": "2026-04-07T00:00:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: The Myth of the Frozen Labor Market",
+        "description": "Here is a question that has been nagging at economists: why has wage growth held up so well when payroll growth has been so weak?\nThe post Breitbart Business Digest: The Myth of the Frozen Labor Market appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/04/06/breitbart-business-digest-the-myth-of-the-frozen-labor-market/",
+        "publishedAt": "2026-04-06T22:06:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP Rep. Fallon: 'Don't See Any Other Way' than Boots on Ground in Iran",
+        "description": "On Monday’s broadcast of the Fox Business Network’s “Mornings with Maria,” Rep. Pat Fallon (R-TX) said that he thinks there will be “American special operators on the ground” in Iran and “I don’t think this is going to end like\nThe post GOP Rep. Fallon: ‘Don’…",
+        "url": "https://www.breitbart.com/clips/2026/04/06/gop-rep-fallon-dont-see-any-other-way-than-boots-on-ground-in-iran/",
+        "publishedAt": "2026-04-06T21:50:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Services Demand Surges to Three-Year High Despite Rising Energy Costs",
+        "description": "New orders for services rose to their highest level in more than three years in March, the Institute for Supply Management reported Monday, as strong demand across the economy proved resilient to the spike in energy prices driven by the U.S.-Israel military c…",
+        "url": "https://www.breitbart.com/economy/2026/04/06/services-demand-surges-to-three-year-high-despite-rising-energy-costs/",
+        "publishedAt": "2026-04-06T20:56:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mike Lee: Put H-1B Program on Pause",
+        "description": "Utah Sen. Mike Lee is calling for a temporary pause on the H-1B migration program amid growing recognition that it is being used to push free-speaking American professionals out of white-collar careers.\nThe post Mike Lee: Put H-1B Program on Pause appeared fi…",
+        "url": "https://www.breitbart.com/economy/2026/04/06/mike-lee-says-put-h-1b-program-on-pause/",
+        "publishedAt": "2026-04-06T20:38:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "REP RO KHANNA: Trump needs to stop hurting American workers and stand up to China",
+        "description": "President Donald Trump prepares to visit Beijing in May amid rising gas prices, a tumbling stock market and a record-high U.S. trade deficit with China.",
+        "url": "https://www.foxnews.com/opinion/rep-ro-khanna-trump-needs-stop-hurting-american-workers-stand-china",
+        "publishedAt": "2026-04-06T09:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "CBS to replace Colbert’s ‘Late Show’ with Byron Allen’s ‘Comics Unleashed’",
+        "description": "CBS is replacing Stephen Colbert's canceled \"Late Show\" with Byron Allen's \"Comics Unleashed\" in a historic late night shakeup beginning May 2026.",
+        "url": "https://www.foxnews.com/media/cbs-replace-colberts-late-show-byron-allens-comics-unleashed",
+        "publishedAt": "2026-04-06T23:55:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "State Democrat Climate Laws Threaten to Stifle American Energy Production",
+        "description": "Democrat states are increasingly adopting legislation that would allow insurers to sue oil and natural gas companies for disaster-related losses; critics argue these law would penalize energy producers at a time where lower energy costs are needed more than e…",
+        "url": "https://www.breitbart.com/politics/2026/04/06/state-democrat-climate-laws-threaten-to-stifle-american-energy-production/",
+        "publishedAt": "2026-04-06T17:36:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — David Park: Direct Lithium Extraction in Arkansas Could Help Break Reliance on China",
+        "description": "Direct lithium extraction in the U.S. in key states such as Arkansas could help break U.S. reliance on China, which dominates the supply chain on many critical minerals, Standard Lithium CEO David Park said during an appearance on Breitbart News Daily.\nThe po…",
+        "url": "https://www.breitbart.com/radio/2026/04/06/exclusive-david-park-direct-lithium-extraction-in-arkansas-could-help-break-reliance-on-china/",
+        "publishedAt": "2026-04-06T17:09:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democratic Republic of the Congo Agrees to Take Third-Country Deportees from U.S.",
+        "description": "The Democratic Republic of the Congo (DRC) said on Sunday it has agreed to accept migrants from third countries who have been deported from the United States. The first wave of deportees is expected to arrive later this month.\nThe post Democratic Republic of …",
+        "url": "https://www.breitbart.com/africa/2026/04/06/democratic-republic-of-the-congo-agrees-to-take-third-country-deportees-from-u-s/",
+        "publishedAt": "2026-04-06T16:25:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Top GOP defense voice breaks with invasion fears, says US can reopen Hormuz without ground war",
+        "description": "Rep. Mike Turner says he doesn't think U.S. ground troops will be necessary to open the Strait of Hormuz amid Trump's escalating threats to Iran.",
+        "url": "https://www.foxnews.com/politics/top-gop-defense-voice-breaks-invasion-fears-says-us-can-reopen-hormuz-without-ground-war",
+        "publishedAt": "2026-04-06T16:23:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
