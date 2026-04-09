@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-09T07:21:52.008326+00:00",
+  "generated_at": "2026-04-09T08:49:54.757397+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump is up against 'unbelievable obstacles': Mark Levin | Fox News Video",
-        "description": "Fox News host Mark Levin discusses where the U.S.-Iran conflict stands after a two-week ceasefire agreement has been reached on 'Hannity.'",
-        "url": "https://www.foxnews.com/video/6392724518112",
-        "publishedAt": "2026-04-08T02:05:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG's Seat",
-        "description": "Trump-endorsed Republican candidate Clay Fuller defeated his Democrat opponent in a special election on Tuesday for Georgia's 14th Congressional District seat.\nThe post Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG’s Seat appeared first on …",
-        "url": "https://www.breitbart.com/politics/2026/04/07/trump-endorsed-clay-fuller-wins-georgia-special-election-mtg-seat/",
-        "publishedAt": "2026-04-08T01:29:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "14"
-      },
-      {
-        "title": "California advocates insist on raising minimum wage to $30 despite research showing 'negative outcomes'",
-        "description": "A $30 minimum wage ballot initiative is being pushed in Oakland and Alameda County by One Fair Wage, despite studies linking past California wage hikes to job losses.",
-        "url": "https://www.foxnews.com/media/california-advocates-insist-raising-minimum-wage-30-despite-research-showing-negative-outcomes",
-        "publishedAt": "2026-04-08T01:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Breitbart Business Digest: How Biden and Trump Broke the Labor Force Participation Rate",
-        "description": "Immense shifts in immigration and border policies from the Biden era to the Trump era have impacted the way we calculate the labor force participation rate.\nThe post Breitbart Business Digest: How Biden and Trump Broke the Labor Force Participation Rate appea…",
-        "url": "https://www.breitbart.com/economy/2026/04/07/breitbart-business-digest-how-biden-and-trump-broke-the-labor-force-participation-rate/",
-        "publishedAt": "2026-04-07T23:59:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's Migration Rules Force Wage Gains in Meatpacking",
-        "description": "President Donald Trump's migration cutoff is pressuring a huge meatpacking firm to offer better wages to President Joe Biden's last wave of low-wage migrants.\nThe post Trump’s Migration Rules Force Wage Gains in Meatpacking appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/07/trumps-migration-rules-force-wage-gains-in-meatpacking/",
-        "publishedAt": "2026-04-07T22:25:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Svatantra Microfin plans $250 million IPO; hires Kotak, Axis Capital as advisers",
-        "description": "Svatantra Microfin, backed by Advent International, plans a $250 million IPO and has hired Kotak and Axis Capital as advisers for the proposed share sale.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-08/svatantra-microfin-said-to-prepare-for-250-million-india-ipo",
-        "publishedAt": "2026-04-08T07:09:11Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "A-10 Warthog given new maritime role targeting boats in Iran after efforts to retire aircraft",
-        "description": "The A-10 Warthog has a new maritime role in targeting boats in the war in Iran that could extend the life of the aircraft after the U.S. Air Force had been attempting to retire it.",
-        "url": "https://www.foxnews.com/us/a-10-warthog-given-new-maritime-role-targeting-boats-iran-efforts-retire-aircraft",
-        "publishedAt": "2026-04-08T03:58:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG's Seat",
-        "description": "Trump-endorsed Republican candidate Clay Fuller defeated his Democrat opponent in a special election on Tuesday for Georgia's 14th Congressional District seat.\nThe post Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG’s Seat appeared first on …",
-        "url": "https://www.breitbart.com/politics/2026/04/07/trump-endorsed-clay-fuller-wins-georgia-special-election-mtg-seat/",
-        "publishedAt": "2026-04-08T01:29:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "14"
-      },
-      {
-        "title": "Biden wanted to drive reliable energy 'into a ditch,' says Trump Energy Secretary",
-        "description": "Energy Secretary Chris Wright claimed Tuesday that the Biden administration was driving the U.S. energy system \"into a ditch\" through massive subsidies.",
-        "url": "https://www.foxnews.com/media/biden-wanted-drive-reliable-energy-ditch-trump-energy-secretary",
-        "publishedAt": "2026-04-07T23:30:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iranian athletes respond to Trump's warning that 'a whole civilization will die tonight'",
-        "description": "Iranian athletes reacted to Trump's threat against Iran as tensions escalate over the Strait of Hormuz deadline and potential strikes on infrastructure.",
-        "url": "https://www.foxnews.com/sports/iranian-athletes-respond-trumps-warning-whole-civilization-die-tonight",
-        "publishedAt": "2026-04-07T21:28:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
