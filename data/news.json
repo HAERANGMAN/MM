@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-04-09T01:14:15.432626+00:00",
+  "generated_at": "2026-04-09T04:04:54.636780+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Trump is up against 'unbelievable obstacles': Mark Levin | Fox News Video",
+        "description": "Fox News host Mark Levin discusses where the U.S.-Iran conflict stands after a two-week ceasefire agreement has been reached on 'Hannity.'",
+        "url": "https://www.foxnews.com/video/6392724518112",
+        "publishedAt": "2026-04-08T02:05:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG's Seat",
+        "description": "Trump-endorsed Republican candidate Clay Fuller defeated his Democrat opponent in a special election on Tuesday for Georgia's 14th Congressional District seat.\nThe post Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG’s Seat appeared first on …",
+        "url": "https://www.breitbart.com/politics/2026/04/07/trump-endorsed-clay-fuller-wins-georgia-special-election-mtg-seat/",
+        "publishedAt": "2026-04-08T01:29:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "14"
+      },
       {
         "title": "California advocates insist on raising minimum wage to $30 despite research showing 'negative outcomes'",
         "description": "A $30 minimum wage ballot initiative is being pushed in Oakland and Alameda County by One Fair Wage, despite studies linking past California wage hikes to job losses.",
@@ -33,31 +53,31 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrat swing candidate called Biden's border handling 'a huge misstep' after backing his approach as mayor",
-        "description": "Scranton Mayor Paige Cognetti, a Democratic House candidate, faced questions over her shift on Biden's southern border policies in a battleground House race.",
-        "url": "https://www.foxnews.com/politics/democrat-swing-candidate-called-bidens-border-handling-a-huge-misstep-after-backing-his-approach-mayor",
-        "publishedAt": "2026-04-07T21:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's 'whole civilization will die tonight' Iran threat polarizes social media",
-        "description": "President Donald Trump polarized social media with a Truth Social post that an entire \"civilization will die tonight\" while threatening a devastating U.S. attack against Iran.",
-        "url": "https://www.foxnews.com/media/trumps-whole-civilization-die-tonight-iran-threat-polarizes-social-media",
-        "publishedAt": "2026-04-07T18:30:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "A-10 Warthog given new maritime role targeting boats in Iran after efforts to retire aircraft",
+        "description": "The A-10 Warthog has a new maritime role in targeting boats in the war in Iran that could extend the life of the aircraft after the U.S. Air Force had been attempting to retire it.",
+        "url": "https://www.foxnews.com/us/a-10-warthog-given-new-maritime-role-targeting-boats-iran-efforts-retire-aircraft",
+        "publishedAt": "2026-04-08T03:58:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG's Seat",
+        "description": "Trump-endorsed Republican candidate Clay Fuller defeated his Democrat opponent in a special election on Tuesday for Georgia's 14th Congressional District seat.\nThe post Trump-Endorsed Clay Fuller Wins Georgia Special Election for MTG’s Seat appeared first on …",
+        "url": "https://www.breitbart.com/politics/2026/04/07/trump-endorsed-clay-fuller-wins-georgia-special-election-mtg-seat/",
+        "publishedAt": "2026-04-08T01:29:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "14"
+      },
       {
         "title": "Biden wanted to drive reliable energy 'into a ditch,' says Trump Energy Secretary",
         "description": "Energy Secretary Chris Wright claimed Tuesday that the Biden administration was driving the U.S. energy system \"into a ditch\" through massive subsidies.",
@@ -83,26 +103,6 @@
         "description": "Iran-backed Houthi forces threaten to target Red Sea shipping, raising the prospect of a second global chokepoint amid the conflict with Iran.",
         "url": "https://www.foxnews.com/politics/second-choke-point-crisis-looms-houthis-threaten-key-red-sea-shipping-lane",
         "publishedAt": "2026-04-07T19:59:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "House Democrat Leadership: Return to Session 'Immediately' and End Iran War Before WWIII",
-        "description": "House Democrat leadership released a statement on Tuesday, calling for lawmakers to come back into session \"immediately\" and vote to end the war in Iran, following President Donald Trump's sharp warning to the Islamic country.\nThe post House Democrat Leadersh…",
-        "url": "https://www.breitbart.com/politics/2026/04/07/house-democrat-leadership-return-to-session-immediately-and-end-iran-war-before-wwiii/",
-        "publishedAt": "2026-04-07T18:54:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's 'whole civilization will die tonight' Iran threat polarizes social media",
-        "description": "President Donald Trump polarized social media with a Truth Social post that an entire \"civilization will die tonight\" while threatening a devastating U.S. attack against Iran.",
-        "url": "https://www.foxnews.com/media/trumps-whole-civilization-die-tonight-iran-threat-polarizes-social-media",
-        "publishedAt": "2026-04-07T18:30:44Z",
         "source": {
           "name": "Fox News"
         },
