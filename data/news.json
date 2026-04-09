@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-08T23:52:09.005962+00:00",
+  "generated_at": "2026-04-09T01:14:15.432626+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "California advocates insist on raising minimum wage to $30 despite research showing 'negative outcomes'",
+        "description": "A $30 minimum wage ballot initiative is being pushed in Oakland and Alameda County by One Fair Wage, despite studies linking past California wage hikes to job losses.",
+        "url": "https://www.foxnews.com/media/california-advocates-insist-raising-minimum-wage-30-despite-research-showing-negative-outcomes",
+        "publishedAt": "2026-04-08T01:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Breitbart Business Digest: How Biden and Trump Broke the Labor Force Participation Rate",
+        "description": "Immense shifts in immigration and border policies from the Biden era to the Trump era have impacted the way we calculate the labor force participation rate.\nThe post Breitbart Business Digest: How Biden and Trump Broke the Labor Force Participation Rate appea…",
+        "url": "https://www.breitbart.com/economy/2026/04/07/breitbart-business-digest-how-biden-and-trump-broke-the-labor-force-participation-rate/",
+        "publishedAt": "2026-04-07T23:59:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's Migration Rules Force Wage Gains in Meatpacking",
+        "description": "President Donald Trump's migration cutoff is pressuring a huge meatpacking firm to offer better wages to President Joe Biden's last wave of low-wage migrants.\nThe post Trump’s Migration Rules Force Wage Gains in Meatpacking appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/04/07/trumps-migration-rules-force-wage-gains-in-meatpacking/",
+        "publishedAt": "2026-04-07T22:25:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democrat swing candidate called Biden's border handling 'a huge misstep' after backing his approach as mayor",
+        "description": "Scranton Mayor Paige Cognetti, a Democratic House candidate, faced questions over her shift on Biden's southern border policies in a battleground House race.",
+        "url": "https://www.foxnews.com/politics/democrat-swing-candidate-called-bidens-border-handling-a-huge-misstep-after-backing-his-approach-mayor",
+        "publishedAt": "2026-04-07T21:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's 'whole civilization will die tonight' Iran threat polarizes social media",
+        "description": "President Donald Trump polarized social media with a Truth Social post that an entire \"civilization will die tonight\" while threatening a devastating U.S. attack against Iran.",
+        "url": "https://www.foxnews.com/media/trumps-whole-civilization-die-tonight-iran-threat-polarizes-social-media",
+        "publishedAt": "2026-04-07T18:30:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Biden wanted to drive reliable energy 'into a ditch,' says Trump Energy Secretary",
+        "description": "Energy Secretary Chris Wright claimed Tuesday that the Biden administration was driving the U.S. energy system \"into a ditch\" through massive subsidies.",
+        "url": "https://www.foxnews.com/media/biden-wanted-drive-reliable-energy-ditch-trump-energy-secretary",
+        "publishedAt": "2026-04-07T23:30:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iranian athletes respond to Trump's warning that 'a whole civilization will die tonight'",
+        "description": "Iranian athletes reacted to Trump's threat against Iran as tensions escalate over the Strait of Hormuz deadline and potential strikes on infrastructure.",
+        "url": "https://www.foxnews.com/sports/iranian-athletes-respond-trumps-warning-whole-civilization-die-tonight",
+        "publishedAt": "2026-04-07T21:28:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Second choke point crisis looms as Houthis threaten key Red Sea shipping lane",
+        "description": "Iran-backed Houthi forces threaten to target Red Sea shipping, raising the prospect of a second global chokepoint amid the conflict with Iran.",
+        "url": "https://www.foxnews.com/politics/second-choke-point-crisis-looms-houthis-threaten-key-red-sea-shipping-lane",
+        "publishedAt": "2026-04-07T19:59:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "House Democrat Leadership: Return to Session 'Immediately' and End Iran War Before WWIII",
+        "description": "House Democrat leadership released a statement on Tuesday, calling for lawmakers to come back into session \"immediately\" and vote to end the war in Iran, following President Donald Trump's sharp warning to the Islamic country.\nThe post House Democrat Leadersh…",
+        "url": "https://www.breitbart.com/politics/2026/04/07/house-democrat-leadership-return-to-session-immediately-and-end-iran-war-before-wwiii/",
+        "publishedAt": "2026-04-07T18:54:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's 'whole civilization will die tonight' Iran threat polarizes social media",
+        "description": "President Donald Trump polarized social media with a Truth Social post that an entire \"civilization will die tonight\" while threatening a devastating U.S. attack against Iran.",
+        "url": "https://www.foxnews.com/media/trumps-whole-civilization-die-tonight-iran-threat-polarizes-social-media",
+        "publishedAt": "2026-04-07T18:30:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
