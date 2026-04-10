@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-10T09:56:14.749296+00:00",
+  "generated_at": "2026-04-10T10:55:39.233862+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Spanberger ripped after taking credit for billions in investments secured under GOP predecessor: 'Pathetic'",
+        "description": "Virginia Dem Governor Abigail Spanberger touted $7.1 billion in investment and 3,250 new jobs this week, but the investments were actually announced under former Republican Gov. Glenn Youngkin.",
+        "url": "https://www.foxnews.com/politics/spanberger-ripped-after-taking-credit-billions-investments-secured-under-gop-predecessor-pathetic",
+        "publishedAt": "2026-04-09T10:30:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Pence launches GOP messaging blitz on ‘One Big Beautiful Bill’ ahead of midterms",
         "description": "Pence's Advancing American Freedom rolls out a $10 million campaign and a policy booklet to help Republicans message on taxes ahead of midterms.",
@@ -41,16 +51,6 @@
         "publishedAt": "2026-04-08T23:44:43Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Washington Post columnist argues Muslims shouldn't have to assimilate in America",
-        "description": "Washington Post columnist Shadi Hamid argued Muslims don't need to assimilate in America, citing data they are civically engaged while combatting rhetoric from GOP lawmakers.",
-        "url": "https://www.foxnews.com/media/washington-post-columnist-argues-muslims-shouldnt-have-assimilate-america",
-        "publishedAt": "2026-04-08T23:00:02Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
