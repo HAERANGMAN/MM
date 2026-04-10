@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-04-10T10:55:39.233862+00:00",
+  "generated_at": "2026-04-10T11:48:10.086997+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Spanberger ripped after taking credit for billions in investments secured under GOP predecessor: 'Pathetic'",
-        "description": "Virginia Dem Governor Abigail Spanberger touted $7.1 billion in investment and 3,250 new jobs this week, but the investments were actually announced under former Republican Gov. Glenn Youngkin.",
-        "url": "https://www.foxnews.com/politics/spanberger-ripped-after-taking-credit-billions-investments-secured-under-gop-predecessor-pathetic",
-        "publishedAt": "2026-04-09T10:30:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Pence launches GOP messaging blitz on ‘One Big Beautiful Bill’ ahead of midterms",
-        "description": "Pence's Advancing American Freedom rolls out a $10 million campaign and a policy booklet to help Republicans message on taxes ahead of midterms.",
-        "url": "https://www.foxnews.com/politics/pence-launches-gop-messaging-blitz-one-big-beautiful-bill-ahead-midterms",
-        "publishedAt": "2026-04-09T09:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
-        "description": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-09/russia-offers-sanctioned-lng-to-energy-hungry-asia-at-a-discount",
-        "publishedAt": "2026-04-09T05:02:44Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mexican Truckers, Farmers Block Country’s Highways Demanding Safety",
-        "description": "Farmers and truckers across Mexico blocked highways peacefully to draw attention to the violence and the lack of government support. Rather than address the massive protests that brought the country to a standstill, President Claudia Sheinbaum claimed it was …",
-        "url": "https://www.breitbart.com/border/2026/04/08/mexican-truckers-farmers-block-countrys-highways-demanding-safety/",
-        "publishedAt": "2026-04-09T00:29:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Actor Anthony Anderson Trashes Artemis II Moon Mission as a Waste of Money: 'What's It All For'",
-        "description": "Actor Anthony Anderson claimed the moon mission is a waste of money, citing various issues such as \"homelessness\" and underfunded programs, which he says still need to be addressed on earth.\nThe post Actor Anthony Anderson Trashes Artemis II Moon Mission as a…",
-        "url": "https://www.breitbart.com/entertainment/2026/04/08/actor-anthony-anderson-trashes-artemis-ii-moon-mission-as-a-waste-of-money-whats-it-all-for/",
-        "publishedAt": "2026-04-08T23:44:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Gulf States Report Iranian Strikes Following Ceasefire Announcement",
-        "description": "The United Arab Emirates (UAE), Bahrain, Saudi Arabia, and Kuwait reported on Wednesday that they had documented airstrikes, mostly on their energy facilities, that they attributed to Iran, hours after Iran and the United States announced they had agreed to a…",
-        "url": "https://www.breitbart.com/national-security/2026/04/08/gulf-states-report-iranian-strikes-following-ceasefire-announcement/",
-        "publishedAt": "2026-04-08T15:34:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump Vows U.S. Forces to Stay Near Iran Until 'Real Agreement' Is Reached as ‘Next Conquest’ Awaits",
-        "description": "All U.S. forces now deployed near Iran will remain stationed in the area until a “real agreement” is reached with Tehran, President Donald Trump vowed late Wednesday night, as Washington enters a fragile two-week ceasefire and prepares for its \"next conquest.…",
-        "url": "https://www.breitbart.com/europe/2026/04/09/trump-vows-u-s-forces-to-stay-near-iran-until-real-agreement-is-reached-as-next-conquest-awaits/",
-        "publishedAt": "2026-04-09T09:50:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "We could win the AI war and still lose all of our freedoms if we aren’t careful",
-        "description": "The U.S. races to outpace China in AI with trillions in investment, but without guardrails, the technology could threaten the freedoms it aims to protect.",
-        "url": "https://www.foxnews.com/opinion/we-could-win-ai-war-still-lose-all-our-freedoms-we-arent-careful",
-        "publishedAt": "2026-04-09T09:00:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
-        "description": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-09/russia-offers-sanctioned-lng-to-energy-hungry-asia-at-a-discount",
-        "publishedAt": "2026-04-09T05:02:44Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: This Is America's Suez Moment, But Not the Way You Think",
-        "description": "The idea that the United States might accept an Iranian fee regime in the Strait of Hormuz has produced something close to panic in the usual quarters.\nThe post Breitbart Business Digest: This Is America’s Suez Moment, But Not the Way You Think appeared first…",
-        "url": "https://www.breitbart.com/economy/2026/04/08/breitbart-business-digest-this-is-americas-suez-moment-but-not-the-way-you-think/",
-        "publishedAt": "2026-04-08T21:44:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Schumer blasts Trump’s Iran war as failure, moves to rein in his war powers amid ceasefire",
-        "description": "Senate Minority Leader Chuck Schumer, D-N.Y., plans to force another war powers vote to rein in President Donald Trump's use of the military in Iran amid a fragile ceasefire.",
-        "url": "https://www.foxnews.com/politics/schumer-blasts-trumps-iran-war-failure-moves-rein-war-powers-amid-ceasefire",
-        "publishedAt": "2026-04-08T21:13:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
