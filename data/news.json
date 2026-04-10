@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-10T08:48:21.837851+00:00",
+  "generated_at": "2026-04-10T09:56:14.749296+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Pence launches GOP messaging blitz on ‘One Big Beautiful Bill’ ahead of midterms",
+        "description": "Pence's Advancing American Freedom rolls out a $10 million campaign and a policy booklet to help Republicans message on taxes ahead of midterms.",
+        "url": "https://www.foxnews.com/politics/pence-launches-gop-messaging-blitz-one-big-beautiful-bill-ahead-midterms",
+        "publishedAt": "2026-04-09T09:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
         "description": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Greg Gutfeld: Democrats deemed health and fitness ‘problematic’ | Fox News Video",
-        "description": "‘The Five’ co-hosts analyze HHS Secretary Robert F. Kennedy Jr.’s midterm travel push to boost support for the ‘Make America Healthy Again’ initiative.",
-        "url": "https://www.foxnews.com/video/6392771853112",
-        "publishedAt": "2026-04-08T22:58:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -65,20 +65,30 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Vance warns Iran will 'find out' Trump is 'not one to mess around' if ceasefire deal falls apart",
-        "description": "Vice President JD Vance says the Iran ceasefire is fragile but could hold if Tehran negotiates in good faith, warning the U.S. won't hesitate to act.",
-        "url": "https://www.foxnews.com/politics/vance-warns-iran-find-out-trump-not-one-mess-around-ceasefire-deal-falls-apart",
-        "publishedAt": "2026-04-08T11:42:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump Vows U.S. Forces to Stay Near Iran Until 'Real Agreement' Is Reached as ‘Next Conquest’ Awaits",
+        "description": "All U.S. forces now deployed near Iran will remain stationed in the area until a “real agreement” is reached with Tehran, President Donald Trump vowed late Wednesday night, as Washington enters a fragile two-week ceasefire and prepares for its \"next conquest.…",
+        "url": "https://www.breitbart.com/europe/2026/04/09/trump-vows-u-s-forces-to-stay-near-iran-until-real-agreement-is-reached-as-next-conquest-awaits/",
+        "publishedAt": "2026-04-09T09:50:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "We could win the AI war and still lose all of our freedoms if we aren’t careful",
+        "description": "The U.S. races to outpace China in AI with trillions in investment, but without guardrails, the technology could threaten the freedoms it aims to protect.",
+        "url": "https://www.foxnews.com/opinion/we-could-win-ai-war-still-lose-all-our-freedoms-we-arent-careful",
+        "publishedAt": "2026-04-09T09:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
         "description": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
@@ -108,26 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mullin weighs using airport customs as leverage against sanctuary cities",
-        "description": "DHS Secretary Mullin eyes ending customs processing at sanctuary-city airports in cities like New York and Los Angeles as immigration leverage grows.",
-        "url": "https://www.foxnews.com/politics/mullin-weighs-using-airport-customs-leverage-against-sanctuary-cities",
-        "publishedAt": "2026-04-08T21:05:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Deadly bacterial disease could be stopped with common pantry staple, study suggests",
-        "description": "A high-protein diet rich in casein and wheat gluten could \"disarm\" cholera bacteria, cutting infection levels by 100-fold, a new UC Riverside study finds.",
-        "url": "https://www.foxnews.com/health/deadly-bacterial-disease-could-stopped-common-pantry-staple-study-suggests",
-        "publishedAt": "2026-04-08T20:48:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
       }
     ]
   },
