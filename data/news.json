@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-04-10T05:48:55.787796+00:00",
+  "generated_at": "2026-04-10T07:11:13.535932+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
+        "description": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-09/russia-offers-sanctioned-lng-to-energy-hungry-asia-at-a-discount",
+        "publishedAt": "2026-04-09T05:02:44Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mexican Truckers, Farmers Block Country’s Highways Demanding Safety",
+        "description": "Farmers and truckers across Mexico blocked highways peacefully to draw attention to the violence and the lack of government support. Rather than address the massive protests that brought the country to a standstill, President Claudia Sheinbaum claimed it was …",
+        "url": "https://www.breitbart.com/border/2026/04/08/mexican-truckers-farmers-block-countrys-highways-demanding-safety/",
+        "publishedAt": "2026-04-09T00:29:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Actor Anthony Anderson Trashes Artemis II Moon Mission as a Waste of Money: 'What's It All For'",
+        "description": "Actor Anthony Anderson claimed the moon mission is a waste of money, citing various issues such as \"homelessness\" and underfunded programs, which he says still need to be addressed on earth.\nThe post Actor Anthony Anderson Trashes Artemis II Moon Mission as a…",
+        "url": "https://www.breitbart.com/entertainment/2026/04/08/actor-anthony-anderson-trashes-artemis-ii-moon-mission-as-a-waste-of-money-whats-it-all-for/",
+        "publishedAt": "2026-04-08T23:44:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Washington Post columnist argues Muslims shouldn't have to assimilate in America",
+        "description": "Washington Post columnist Shadi Hamid argued Muslims don't need to assimilate in America, citing data they are civically engaged while combatting rhetoric from GOP lawmakers.",
+        "url": "https://www.foxnews.com/media/washington-post-columnist-argues-muslims-shouldnt-have-assimilate-america",
+        "publishedAt": "2026-04-08T23:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Greg Gutfeld: Democrats deemed health and fitness ‘problematic’ | Fox News Video",
+        "description": "‘The Five’ co-hosts analyze HHS Secretary Robert F. Kennedy Jr.’s midterm travel push to boost support for the ‘Make America Healthy Again’ initiative.",
+        "url": "https://www.foxnews.com/video/6392771853112",
+        "publishedAt": "2026-04-08T22:58:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Gulf States Report Iranian Strikes Following Ceasefire Announcement",
+        "description": "The United Arab Emirates (UAE), Bahrain, Saudi Arabia, and Kuwait reported on Wednesday that they had documented airstrikes, mostly on their energy facilities, that they attributed to Iran, hours after Iran and the United States announced they had agreed to a…",
+        "url": "https://www.breitbart.com/national-security/2026/04/08/gulf-states-report-iranian-strikes-following-ceasefire-announcement/",
+        "publishedAt": "2026-04-08T15:34:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Vance warns Iran will 'find out' Trump is 'not one to mess around' if ceasefire deal falls apart",
+        "description": "Vice President JD Vance says the Iran ceasefire is fragile but could hold if Tehran negotiates in good faith, warning the U.S. won't hesitate to act.",
+        "url": "https://www.foxnews.com/politics/vance-warns-iran-find-out-trump-not-one-mess-around-ceasefire-deal-falls-apart",
+        "publishedAt": "2026-04-08T11:42:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
+        "description": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-09/russia-offers-sanctioned-lng-to-energy-hungry-asia-at-a-discount",
+        "publishedAt": "2026-04-09T05:02:44Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: This Is America's Suez Moment, But Not the Way You Think",
+        "description": "The idea that the United States might accept an Iranian fee regime in the Strait of Hormuz has produced something close to panic in the usual quarters.\nThe post Breitbart Business Digest: This Is America’s Suez Moment, But Not the Way You Think appeared first…",
+        "url": "https://www.breitbart.com/economy/2026/04/08/breitbart-business-digest-this-is-americas-suez-moment-but-not-the-way-you-think/",
+        "publishedAt": "2026-04-08T21:44:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Schumer blasts Trump’s Iran war as failure, moves to rein in his war powers amid ceasefire",
+        "description": "Senate Minority Leader Chuck Schumer, D-N.Y., plans to force another war powers vote to rein in President Donald Trump's use of the military in Iran amid a fragile ceasefire.",
+        "url": "https://www.foxnews.com/politics/schumer-blasts-trumps-iran-war-failure-moves-rein-war-powers-amid-ceasefire",
+        "publishedAt": "2026-04-08T21:13:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mullin weighs using airport customs as leverage against sanctuary cities",
+        "description": "DHS Secretary Mullin eyes ending customs processing at sanctuary-city airports in cities like New York and Los Angeles as immigration leverage grows.",
+        "url": "https://www.foxnews.com/politics/mullin-weighs-using-airport-customs-leverage-against-sanctuary-cities",
+        "publishedAt": "2026-04-08T21:05:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Deadly bacterial disease could be stopped with common pantry staple, study suggests",
+        "description": "A high-protein diet rich in casein and wheat gluten could \"disarm\" cholera bacteria, cutting infection levels by 100-fold, a new UC Riverside study finds.",
+        "url": "https://www.foxnews.com/health/deadly-bacterial-disease-could-stopped-common-pantry-staple-study-suggests",
+        "publishedAt": "2026-04-08T20:48:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "100"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
