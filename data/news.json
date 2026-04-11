@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-11T15:20:56.382396+00:00",
+  "generated_at": "2026-04-11T15:51:44.744328+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Iran War Sent Consumer Sentiment Plunging to Record Low",
-        "description": "Consumer sentiment plunged in early April to the lowest level in the survey's seven-decade history, as the Iran conflict weighed heavily on Republican household views of the economy.\nThe post Iran War Sent Consumer Sentiment Plunging to Record Low appeared fi…",
-        "url": "https://www.breitbart.com/politics/2026/04/10/iran-war-sent-consumer-sentiment-plunging-to-record-low/",
-        "publishedAt": "2026-04-10T15:05:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Euphoria' star Sydney Sweeney gets major James Bond endorsement from top Hollywood director",
-        "description": "Sydney Sweeney's rumored link to the James Bond franchise could redefine her career, with experts saying 007 would benefit from her star power too.",
-        "url": "https://www.foxnews.com/entertainment/euphoria-star-sydney-sweeney-gets-major-james-bond-endorsement-top-hollywood-director",
-        "publishedAt": "2026-04-10T14:00:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "007"
-      },
-      {
-        "title": "Atlanta's 'Hollywood of the South' Vanishes as Film Production Plummets, Move to UK",
-        "description": "After hitting a peak of $4.4 billion in 2022, spending on film and TV production in Georgia has tumbled, reaching just $2.3 billion in the last fiscal year, as total productions dropped from 412 in 2022 to 245 last year.\nThe post Atlanta’s ‘Hollywood of the S…",
-        "url": "https://www.breitbart.com/entertainment/2026/04/10/atlantas-hollywood-of-the-south-vanishes-as-film-production-plummets-move-to-uk/",
-        "publishedAt": "2026-04-10T13:48:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "'Fed Up': UK's Starmer Equates Trump and Putin in National Security Rant",
-        "description": "The UK has surrendered ability to ensure its own security, leaving it at the mercy of global events, and the PM raging about energy costs. \nThe post ‘Fed Up’: UK’s Starmer Equates Trump and Putin in National Security Rant appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/04/10/fed-up-uks-starmer-equates-trump-and-putin-in-national-security-rant/",
-        "publishedAt": "2026-04-10T11:55:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "AMB GORDON SONDLAND: NATO blinked on Iran, and Trump has every right to be furious",
-        "description": "A former U.S. ambassador to the EU argues NATO's hesitation after strikes on Iran emboldens adversaries and erodes the credibility of Western deterrence.",
-        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-nato-blinked-iran-trump-every-right-furious",
-        "publishedAt": "2026-04-10T11:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Navy scraps Biden-era submarine contract as overhaul costs surge toward $3B",
-        "description": "The Navy is canceling the troubled USS Boise submarine overhaul after costs neared $3 billion, redirecting resources to newer Virginia-class submarines.",
-        "url": "https://www.foxnews.com/politics/navy-scraps-biden-era-submarine-contract-overhaul-costs-surge-toward-3b",
-        "publishedAt": "2026-04-10T14:47:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "'Euphoria' star Sydney Sweeney gets major James Bond endorsement from top Hollywood director",
-        "description": "Sydney Sweeney's rumored link to the James Bond franchise could redefine her career, with experts saying 007 would benefit from her star power too.",
-        "url": "https://www.foxnews.com/entertainment/euphoria-star-sydney-sweeney-gets-major-james-bond-endorsement-top-hollywood-director",
-        "publishedAt": "2026-04-10T14:00:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "007"
-      },
-      {
-        "title": "Lowe's $250M bet on blue-collar jobs that AI can't do",
-        "description": "Lowe's CEO warns AI can't climb a ladder as the company makes a $250 million bet on blue-collar work amid rapid artificial intelligence advancement.",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-lowes-250m-bet-blue-collar-jobs-ai-cant",
-        "publishedAt": "2026-04-10T13:39:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "'Fed Up': UK's Starmer Equates Trump and Putin in National Security Rant",
-        "description": "The UK has surrendered ability to ensure its own security, leaving it at the mercy of global events, and the PM raging about energy costs. \nThe post ‘Fed Up’: UK’s Starmer Equates Trump and Putin in National Security Rant appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/04/10/fed-up-uks-starmer-equates-trump-and-putin-in-national-security-rant/",
-        "publishedAt": "2026-04-10T11:55:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bruce Springsteen blasts rich men in America as critics call out his billions",
-        "description": "Bruce Springsteen sparks controversy with a fiery anti-Trump speech, but critics point out his reported $1.2 billion net worth undercuts his message.",
-        "url": "https://www.foxnews.com/entertainment/bruce-springsteen-blasts-rich-men-america-critics-call-out-his-billions",
-        "publishedAt": "2026-04-09T23:29:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
