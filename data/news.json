@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-11T10:25:11.087312+00:00",
+  "generated_at": "2026-04-11T11:01:49.468583+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "AMB GORDON SONDLAND: NATO blinked on Iran, and Trump has every right to be furious",
+        "description": "A former U.S. ambassador to the EU argues NATO's hesitation after strikes on Iran emboldens adversaries and erodes the credibility of Western deterrence.",
+        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-nato-blinked-iran-trump-every-right-furious",
+        "publishedAt": "2026-04-10T11:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Trump Spotlights Brutal Hammer Murder by Biden Migrant",
         "description": "President Donald Trump used his Truth Social account on Thursday night to broadcast the brutal public murder of a woman by an illegal migrant who was welcomed by President Joe Biden and his pro-migration border chief, Alejandro Mayorkas.\nThe post Trump Spotli…",
@@ -39,16 +49,6 @@
         "description": "A new DoorDash report reveals families are spending more strategically as prices stabilize, with affordability varying significantly across U.S. cities.",
         "url": "https://www.foxnews.com/politics/doordash-data-offers-snapshot-economy-voters-feeling-ahead-midterms",
         "publishedAt": "2026-04-10T09:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "I'm a drone CEO. Our skies are dangerously exposed — here's the solution",
-        "description": "A Digital Flight Authorization System could replace fragmented drone approval processes with real-time verification of operators and missions.",
-        "url": "https://www.foxnews.com/opinion/im-drone-ceo-skies-dangerously-exposed-heres-solution",
-        "publishedAt": "2026-04-10T09:00:01Z",
         "source": {
           "name": "Fox News"
         },
