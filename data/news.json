@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-11T14:50:37.025602+00:00",
+  "generated_at": "2026-04-11T15:20:56.382396+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Iran War Sent Consumer Sentiment Plunging to Record Low",
+        "description": "Consumer sentiment plunged in early April to the lowest level in the survey's seven-decade history, as the Iran conflict weighed heavily on Republican household views of the economy.\nThe post Iran War Sent Consumer Sentiment Plunging to Record Low appeared fi…",
+        "url": "https://www.breitbart.com/politics/2026/04/10/iran-war-sent-consumer-sentiment-plunging-to-record-low/",
+        "publishedAt": "2026-04-10T15:05:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "'Euphoria' star Sydney Sweeney gets major James Bond endorsement from top Hollywood director",
         "description": "Sydney Sweeney's rumored link to the James Bond franchise could redefine her career, with experts saying 007 would benefit from her star power too.",
@@ -41,16 +51,6 @@
         "publishedAt": "2026-04-10T11:00:17Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Spotlights Brutal Hammer Murder by Biden Migrant",
-        "description": "President Donald Trump used his Truth Social account on Thursday night to broadcast the brutal public murder of a woman by an illegal migrant who was welcomed by President Joe Biden and his pro-migration border chief, Alejandro Mayorkas.\nThe post Trump Spotli…",
-        "url": "https://www.breitbart.com/politics/2026/04/10/trump-spotlights-brutal-hammer-murder-by-biden-migrant/",
-        "publishedAt": "2026-04-10T09:46:29Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
