@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-11T09:52:27.688674+00:00",
+  "generated_at": "2026-04-11T10:25:11.087312+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trump Spotlights Brutal Hammer Murder by Biden Migrant",
+        "description": "President Donald Trump used his Truth Social account on Thursday night to broadcast the brutal public murder of a woman by an illegal migrant who was welcomed by President Joe Biden and his pro-migration border chief, Alejandro Mayorkas.\nThe post Trump Spotli…",
+        "url": "https://www.breitbart.com/politics/2026/04/10/trump-spotlights-brutal-hammer-murder-by-biden-migrant/",
+        "publishedAt": "2026-04-10T09:46:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Our fallen heroes' families deserve more than outdated survivor benefits",
+        "description": "Gold Star families face emotional and financial hardship after losing a loved one in service. New legislation aims to increase the death gratuity.",
+        "url": "https://www.foxnews.com/opinion/fallen-heroes-families-deserve-outdated-survivor-benefits",
+        "publishedAt": "2026-04-10T09:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "School choice is booming and families are winning as the education cartel crumbles",
+        "description": "As the Trump administration winds down the Department of Education, a school choice revolution gains momentum with over 1.3 million students enrolled.",
+        "url": "https://www.foxnews.com/opinion/school-choice-booming-families-winning-education-cartel-crumbles",
+        "publishedAt": "2026-04-10T09:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1.3"
+      },
+      {
+        "title": "DoorDash data offers snapshot of economy voters are feeling ahead of midterms",
+        "description": "A new DoorDash report reveals families are spending more strategically as prices stabilize, with affordability varying significantly across U.S. cities.",
+        "url": "https://www.foxnews.com/politics/doordash-data-offers-snapshot-economy-voters-feeling-ahead-midterms",
+        "publishedAt": "2026-04-10T09:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "I'm a drone CEO. Our skies are dangerously exposed — here's the solution",
+        "description": "A Digital Flight Authorization System could replace fragmented drone approval processes with real-time verification of operators and missions.",
+        "url": "https://www.foxnews.com/opinion/im-drone-ceo-skies-dangerously-exposed-heres-solution",
+        "publishedAt": "2026-04-10T09:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Bruce Springsteen blasts rich men in America as critics call out his billions",
+        "description": "Bruce Springsteen sparks controversy with a fiery anti-Trump speech, but critics point out his reported $1.2 billion net worth undercuts his message.",
+        "url": "https://www.foxnews.com/entertainment/bruce-springsteen-blasts-rich-men-america-critics-call-out-his-billions",
+        "publishedAt": "2026-04-09T23:29:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Shipping Remains Slow at Strait of Hormuz Despite Ceasefire",
+        "description": "Ship-tracking services reported on Thursday that traffic through the Strait of Hormuz remains at less than 10 percent of its normal level, despite Iran ostensibly promising to halt terror attacks on civilian vessels as part of its ceasefire agreement with the…",
+        "url": "https://www.breitbart.com/middle-east/2026/04/09/shipping-remains-slow-at-strait-of-hormuz-despite-ceasefire/",
+        "publishedAt": "2026-04-09T22:32:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Trump Warns Iran Over Strait of Hormuz Tanker Fees",
+        "description": "President Donald Trump warned Iran on Thursday against charging fees on tanker ships passing through the Strait of Hormuz.\nThe post Trump Warns Iran Over Strait of Hormuz Tanker Fees appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/04/09/trump-warns-iran-over-strait-of-hormuz-tanker-fees/",
+        "publishedAt": "2026-04-09T22:22:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Maryland Lawmakers Join Other Democrat-Run States with Glock Ban",
+        "description": "On Wednesday, Maryland's House of Representatives followed the state Senate's lead and passed a ban on Glocks and other handguns Democrats describe as \"machine gun convertible.\"\nThe post Maryland Lawmakers Join Other Democrat-Run States with Glock Ban appeare…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/09/maryland-lawmakers-join-other-democrat-run-states-with-glock-ban/",
+        "publishedAt": "2026-04-09T20:02:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "UK defense minister warns Putin of 'serious consequences' after covert underwater military operation",
+        "description": "U.K. Defense Minister John Healey has revealed a major military operation involving the Royal Navy and Norway to deter Russian submarines in the North Sea.",
+        "url": "https://www.foxnews.com/world/uk-defense-minister-warns-putin-serious-consequences-after-covert-underwater-military-operation",
+        "publishedAt": "2026-04-09T19:30:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
