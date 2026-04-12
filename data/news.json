@@ -1,136 +1,19 @@
 {
-  "generated_at": "2026-04-12T15:36:46.759763+00:00",
+  "generated_at": "2026-04-12T16:05:08.883682+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Russia seizes control of US-linked firm as it pushes for renewed ties with Washington",
-        "description": "Pennsylvania-linked manufacturer CANPACK says Russia seized control of its $700 million business under a Kremlin decree signed by President Putin.",
-        "url": "https://www.foxnews.com/politics/russia-seizes-control-us-linked-firm-pushes-renewed-ties-washington",
-        "publishedAt": "2026-04-11T13:00:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Leftist Irish Government Threatens to Deploy Army Against Farmer-Trucker Anti-Fuel Tax Protest",
-        "description": "Protesters demanding the Irish government slash punishing taxes on farmers are successfully starving the country of fuel.\nThe post Leftist Irish Government Threatens to Deploy Army Against Farmer-Trucker Anti-Fuel Tax Protest appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/04/11/irish-farmer-trucker-anti-fuel-tax-protest-threatened-with-the-army/",
-        "publishedAt": "2026-04-11T11:01:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Marlow: Why an Iran/U.S. 'Joint Venture' to Control Hormuz Strait Really Could Be a 'Beautiful Thing'",
-        "description": "Friday on “The Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow talked about Iran. Marlow said, “Trump’s initial plan, which he established, which I was complimenting over the last couple days on the show, is that Iran could potentially work\n…",
-        "url": "https://www.breitbart.com/clips/2026/04/10/marlow-why-an-iran-u-s-joint-venture-to-control-hormuz-strait-really-could-be-a-beautiful-thing/",
-        "publishedAt": "2026-04-11T06:49:39Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tennessee Mulls Tax on Migrants' Overseas Money Transfers",
-        "description": "The state of Tennessee is taking action where Congress has failed by voting to put a tax on U.S. dollars wired by migrants to other countries.\nThe post Tennessee Mulls Tax on Migrants’ Overseas Money Transfers appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/immigration/2026/04/10/tennessee-mulls-tax-migrants-overseas-money-transfers/",
-        "publishedAt": "2026-04-11T00:51:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Meghan Markle's failed 'Martha Stewart' dreams mocked by comedian: 'She was slinging jam'",
-        "description": "Comedian Tim Dillon critiqued Meghan Markle's post-royal reinvention, saying her lifestyle brand push and Netflix show felt condescending to viewers.",
-        "url": "https://www.foxnews.com/entertainment/meghan-markles-failed-martha-stewart-dreams-mocked-comedian-slinging-jam",
-        "publishedAt": "2026-04-10T23:14:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Breitbart Business Digest: Ask Not for Whom the Hormuz Tolls",
-        "description": "This week, the war almost escalated into the destruction of an ancient civilization; but instead it turned into an argument about toll collection. Progress and peace!\nThe post Breitbart Business Digest: Ask Not for Whom the Hormuz Tolls appeared first on Brei…",
-        "url": "https://www.breitbart.com/economy/2026/04/10/breitbart-business-digest-ask-not-for-whom-the-hormuz-tolls/",
-        "publishedAt": "2026-04-10T22:01:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "No retreat at Hormuz — Iran must not control the world’s energy lifeline",
-        "description": "A comprehensive sanctions regime including China is needed to deter Iran from weaponizing the Strait of Hormuz, a vital global trade artery.",
-        "url": "https://www.foxnews.com/opinion/retreat-hormuz-iran-must-control-worlds-energy-lifeline",
-        "publishedAt": "2026-04-10T21:31:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Russia seizes control of US-linked firm as it pushes for renewed ties with Washington",
-        "description": "Pennsylvania-linked manufacturer CANPACK says Russia seized control of its $700 million business under a Kremlin decree signed by President Putin.",
-        "url": "https://www.foxnews.com/politics/russia-seizes-control-us-linked-firm-pushes-renewed-ties-washington",
-        "publishedAt": "2026-04-11T13:00:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Leftist Irish Government Threatens to Deploy Army Against Farmer-Trucker Anti-Fuel Tax Protest",
-        "description": "Protesters demanding the Irish government slash punishing taxes on farmers are successfully starving the country of fuel.\nThe post Leftist Irish Government Threatens to Deploy Army Against Farmer-Trucker Anti-Fuel Tax Protest appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/04/11/irish-farmer-trucker-anti-fuel-tax-protest-threatened-with-the-army/",
-        "publishedAt": "2026-04-11T11:01:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Live Updates: Vance, Witkoff, Kushner are in negotiations with Iran in Pakistan",
-        "description": "Vice President JD Vance, U.S. special envoy Steve Witkoff and Jared Kushner are meeting with an Iranian delegation in Islamabad, Pakistan. President Donald Trump announced Saturday that the U.S. was \"now starting the process of clearing out the Strait of Horm…",
-        "url": "https://www.foxnews.com/live-news/trump-iran-war-strait-hormuz-pakistan-talks-israel-04-11-26",
-        "publishedAt": "2026-04-11T10:26:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Vance en route to Pakistan for high-stakes Iran talks as ‘fragile’ ceasefire teeters",
-        "description": "JD Vance, Steve Witkoff and Jared Kushner lead a senior U.S. delegation in Pakistan for critical ceasefire negotiations with Iranian officials.",
-        "url": "https://www.foxnews.com/politics/vance-en-route-pakistan-high-stakes-iran-talks-fragile-ceasefire-teeters",
-        "publishedAt": "2026-04-11T03:59:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump ‘Optimistic’ on Iran Talks — Warns U.S. Warships Reloading with 'Best Weapons' if Diplomacy Fails",
-        "description": "President Donald Trump said Friday he is “optimistic” a deal with Iran is “within reach” ahead of high-stakes negotiations in Pakistan, while warning the United States is “loading up” its warships in the region and is prepared to resume military action if dip…",
-        "url": "https://www.breitbart.com/politics/2026/04/10/trump-optimistic-iran-talks-warns-u-s-warships-reloading-if-diplomacy-fails/",
-        "publishedAt": "2026-04-11T00:37:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
