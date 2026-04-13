@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-13T19:36:46.196269+00:00",
+  "generated_at": "2026-04-13T20:35:17.154246+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "End of an Era: Viktor Orban Concedes Defeat in Hungarian Elections to Upstart Rival Magyar",
+        "description": "Hungarian Prime Minister Viktor Orbán conceded defeat in the parliamentary elections on Sunday, bringing an end to 16 years of governance in Budapest.\nThe post End of an Era: Viktor Orbán Concedes Defeat in Hungarian Elections to Upstart Rival Magyar appeared…",
+        "url": "https://www.breitbart.com/europe/2026/04/12/end-of-an-era-viktor-orban-concedes-defeat-in-hungarian-elections-to-upstart-rival-magyar/",
+        "publishedAt": "2026-04-12T20:10:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "16"
+      },
+      {
+        "title": "California governor race rocked by explosive claims against Eric Swalwell | Fox News Video",
+        "description": "California GOP gubernatorial candidate Steve Hilton reacts to explosive allegations against Rep. Eric Swalwell during 'Sunday Morning Futures.'",
+        "url": "https://www.foxnews.com/video/6392973123112",
+        "publishedAt": "2026-04-12T17:31:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kaine: If Trump Wants Support from Allies He Stop 'Trash-Talking Them'",
+        "description": "On Sunday on ABC's \"This Week,\" Sen. Tim Kaine (D-VA) said that if President Donald Trump wanted support from United States’ allies, he should stop \"trash-talking them.\"\nThe post Kaine: If Trump Wants Support from Allies He Stop ‘Trash-Talking Them’ appeared …",
+        "url": "https://www.breitbart.com/clips/2026/04/12/kaine-if-trump-wants-support-from-allies-he-stop-trash-talking-them/",
+        "publishedAt": "2026-04-12T16:14:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Anthropic Seeks Guidance from Christian Leaders on AI Ethics and Morality",
+        "description": "Anthropic, the company behind the AI chatbot Claude and a massive battle with the War Department playing out in the court system, recently consulted with a group of Christian religious leaders for advice on developing ethical AI systems.\nThe post Anthropic Se…",
+        "url": "https://www.breitbart.com/tech/2026/04/12/anthropic-seeks-guidance-from-christian-leaders-on-ai-ethics-and-morality/",
+        "publishedAt": "2026-04-12T15:48:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "South Africa's Second-Biggest Party Elects Cape Town Mayor Hill-Lewis as Leader",
+        "description": "South Africa's second-largest party, the Democratic Alliance, elected Cape Town's mayor Sunday to lead it into the 2029 national polls, stepping up its drive to take votes away from the faltering ANC.\nThe post South Africa’s Second-Biggest Party Elects Cape T…",
+        "url": "https://www.breitbart.com/europe/2026/04/12/south-africas-second-biggest-party-elects-cape-town-mayor-hill-lewis-as-leader/",
+        "publishedAt": "2026-04-12T15:35:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2029"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Pope Leo XIV to visit fastest-growing Catholic continent during 4-nation Africa trip",
+        "description": "Pope Leo XIV begins a four-nation African visit Monday, traveling to the fastest-growing continent for the Catholic Church on his fourth foreign trip.",
+        "url": "https://www.foxnews.com/world/pope-leo-xiv-visit-fastest-growing-catholic-continent-during-4-nation-africa-trip",
+        "publishedAt": "2026-04-12T20:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "Box Office: ‘The Super Mario Galaxy Movie’ Rockets to $629 Million Worldwide",
+        "description": "“The Super Mario Galaxy Movie” enjoyed otherworldly success at the box office in its second weekend in theaters.\nThe post Box Office: ‘The Super Mario Galaxy Movie’ Rockets to $629 Million Worldwide appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/04/12/box-office-the-super-mario-galaxy-movie-rockets-to-629-million-worldwide/",
+        "publishedAt": "2026-04-12T18:41:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Anthropic Seeks Guidance from Christian Leaders on AI Ethics and Morality",
+        "description": "Anthropic, the company behind the AI chatbot Claude and a massive battle with the War Department playing out in the court system, recently consulted with a group of Christian religious leaders for advice on developing ethical AI systems.\nThe post Anthropic Se…",
+        "url": "https://www.breitbart.com/tech/2026/04/12/anthropic-seeks-guidance-from-christian-leaders-on-ai-ethics-and-morality/",
+        "publishedAt": "2026-04-12T15:48:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump details sweeping 'all or nothing' blockade of Strait of Hormuz after failed Iran talks",
+        "description": "In a Maria Bartiromo exclusive, Trump vows to choke off Iran's oil profits with a sweeping U.S. Navy blockade of the Strait of Hormuz region.",
+        "url": "https://www.foxnews.com/media/trump-details-sweeping-all-nothing-us-blockade-strait-hormuz-after-failed-iran-talks",
+        "publishedAt": "2026-04-12T15:28:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump orders a blockade in the Strait of Hormuz as tensions with Iran soar",
+        "description": "Trump says the U.S. Navy will blockade the Strait of Hormuz and interdict vessels that paid tolls to Iran following a stalemate in peace talks.",
+        "url": "https://www.foxnews.com/politics/timeline-trumps-escalating-threats-iran-strait-hormuz",
+        "publishedAt": "2026-04-12T15:24:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
