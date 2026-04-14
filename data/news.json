@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-14T05:11:01.861026+00:00",
+  "generated_at": "2026-04-14T07:01:27.948163+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "NYC mayor touts ‘socialist’ wins in first 100 days alongside Bernie Sanders",
-        "description": "Mayor Zohran Mamdani highlights major policy wins in his first 100 days, crediting a democratic socialist agenda as Bernie Sanders praises the approach.",
-        "url": "https://www.foxnews.com/politics/nyc-mayor-touts-socialist-wins-first-100-days-alongside-bernie-sanders",
-        "publishedAt": "2026-04-13T04:32:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Trump accuses Pope Leo of being 'terrible' on foreign policy over anti-war comments",
-        "description": "President Donald Trump accused Pope Leo XIV of being \"terrible\" on foreign policy as the pontiff continues to criticize the U.S.-Israeli war on Iran and call for peace.",
-        "url": "https://www.foxnews.com/politics/trump-accuses-pope-leo-being-terrible-foreign-policy-over-pontiffs-anti-war-comments",
-        "publishedAt": "2026-04-13T02:00:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrats' goal is to use the Constitution and the impeachment process to try to undermine Trump's presidency: Mark Levin",
-        "description": "Fox News host Mark Levin slams Democrats' calls to invoke the 25th Amendment against President Donald Trump on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6392992996112",
-        "publishedAt": "2026-04-13T01:08:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "25"
-      },
-      {
-        "title": "‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz",
-        "description": "Senior Middle East advisor warns Iran could use Houthi proxies to blockade the Bab al-Mandeb strait if the U.S. blocks the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/world/gate-tears-risk-iran-threatens-major-new-global-chokepoint-us-moves-hormuz",
-        "publishedAt": "2026-04-13T00:24:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NYC mayor cites $180K racial wealth gap to justify taxes, police cuts",
-        "description": "New York Mayor Mamdani highlights stark racial wealth gap in city report but sidesteps questions about why DEI language was removed from the document.",
-        "url": "https://www.foxnews.com/politics/nyc-mayor-cites-180k-racial-wealth-gap-justify-taxes-police-cuts",
-        "publishedAt": "2026-04-12T22:51:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz",
-        "description": "Senior Middle East advisor warns Iran could use Houthi proxies to blockade the Bab al-Mandeb strait if the U.S. blocks the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/world/gate-tears-risk-iran-threatens-major-new-global-chokepoint-us-moves-hormuz",
-        "publishedAt": "2026-04-13T00:24:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pope Leo XIV to visit fastest-growing Catholic continent during 4-nation Africa trip",
-        "description": "Pope Leo XIV begins a four-nation African visit Monday, traveling to the fastest-growing continent for the Catholic Church on his fourth foreign trip.",
-        "url": "https://www.foxnews.com/world/pope-leo-xiv-visit-fastest-growing-catholic-continent-during-4-nation-africa-trip",
-        "publishedAt": "2026-04-12T20:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Box Office: ‘The Super Mario Galaxy Movie’ Rockets to $629 Million Worldwide",
-        "description": "“The Super Mario Galaxy Movie” enjoyed otherworldly success at the box office in its second weekend in theaters.\nThe post Box Office: ‘The Super Mario Galaxy Movie’ Rockets to $629 Million Worldwide appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/04/12/box-office-the-super-mario-galaxy-movie-rockets-to-629-million-worldwide/",
-        "publishedAt": "2026-04-12T18:41:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Anthropic Seeks Guidance from Christian Leaders on AI Ethics and Morality",
-        "description": "Anthropic, the company behind the AI chatbot Claude and a massive battle with the War Department playing out in the court system, recently consulted with a group of Christian religious leaders for advice on developing ethical AI systems.\nThe post Anthropic Se…",
-        "url": "https://www.breitbart.com/tech/2026/04/12/anthropic-seeks-guidance-from-christian-leaders-on-ai-ethics-and-morality/",
-        "publishedAt": "2026-04-12T15:48:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump details sweeping 'all or nothing' blockade of Strait of Hormuz after failed Iran talks",
-        "description": "In a Maria Bartiromo exclusive, Trump vows to choke off Iran's oil profits with a sweeping U.S. Navy blockade of the Strait of Hormuz region.",
-        "url": "https://www.foxnews.com/media/trump-details-sweeping-all-nothing-us-blockade-strait-hormuz-after-failed-iran-talks",
-        "publishedAt": "2026-04-12T15:28:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
