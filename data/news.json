@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-14T02:30:09.371925+00:00",
+  "generated_at": "2026-04-14T05:11:01.861026+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "NYC mayor touts ‘socialist’ wins in first 100 days alongside Bernie Sanders",
+        "description": "Mayor Zohran Mamdani highlights major policy wins in his first 100 days, crediting a democratic socialist agenda as Bernie Sanders praises the approach.",
+        "url": "https://www.foxnews.com/politics/nyc-mayor-touts-socialist-wins-first-100-days-alongside-bernie-sanders",
+        "publishedAt": "2026-04-13T04:32:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "100"
+      },
       {
         "title": "Trump accuses Pope Leo of being 'terrible' on foreign policy over anti-war comments",
         "description": "President Donald Trump accused Pope Leo XIV of being \"terrible\" on foreign policy as the pontiff continues to criticize the U.S.-Israeli war on Iran and call for peace.",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Sheriff's Lieutenant Facing Murder Charges for Deadly Explosion in Illegal Fireworks Factory Kept On His Farm",
-        "description": "A former northern California sheriff’s department lieutenant is one of five people who have been charged with murder after a powerful explosion at an illegal fireworks factory on his land killed seven warehouse workers in 2025.\nThe post Sheriff’s Lieutenant F…",
-        "url": "https://www.breitbart.com/crime/2026/04/12/sheriffs-lieutenant-facing-murder-charges-for-deadly-explosion-in-illegal-fireworks-factory-kept-on-his-farm/",
-        "publishedAt": "2026-04-12T21:46:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2025"
       }
     ],
     "news-korea-soc": [],
