@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T04:51:58.200579+00:00",
+  "generated_at": "2026-04-15T06:26:45.059512+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -70,6 +70,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Anthropic hires Trump-linked lobbying firm Ballard Partners",
+        "description": "Ballard Partners disclosed it was hired to do advocacy “regarding DOW procurement.” DOW stands for Department of War, the Trump administration’s moniker for the Department of Defence",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-13/anthropic-hires-trump-linked-lobbying-firm-ballard-partners",
+        "publishedAt": "2026-04-14T05:50:34Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Xi says world order ‘crumbling into disarray’ as Iran war drags on",
+        "description": "Chinese President Xi Jinping touted shared principles with Spain to counter global disorder during an official visit by Prime Minister Pedro Sánchez, which comes after both sides have criticized US-Israeli attacks on Iran and called for peace.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-14/china-s-xi-urges-closer-spain-ties-to-counter-global-disarray",
+        "publishedAt": "2026-04-14T05:49:54Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Dollar flips to losses after Trump says Iran wants a deal",
         "description": "Shipments of oil and gas through the Strait of Hormuz remain in focus as the lack of an agreement threatens to deepen a global energy shock; Oil prices are hovering near $100 a barrel",
         "url": "https://www.bloomberg.com/news/articles/2026-04-13/dollar-gains-as-hormuz-blockade-sparks-oil-rally-risk-off-mode",
@@ -96,26 +116,6 @@
         "publishedAt": "2026-04-13T23:00:17Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New York Democrat Lawmakers Target BB and Pellet Guns",
-        "description": "NY is redefining BB guns as \"imitation weapons,\" raising the legal age for buying one and requiring such \"weapons\" to be painted brightly.\nThe post New York Democrat Lawmakers Target BB and Pellet Guns appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/13/new-york-democrat-lawmakers-target-bb-pellet-guns/",
-        "publishedAt": "2026-04-13T22:36:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Says Iran ‘Called’ Seeking Deal ‘Very Badly’ as U.S. Blockade Takes Effect",
-        "description": "President Donald Trump said Monday that the “right people” in Iran have reached out seeking to “make a deal — very badly” after talks collapsed over the weekend, insisting Tehran will “never” be allowed to obtain a nuclear weapon as the United States simultan…",
-        "url": "https://www.breitbart.com/politics/2026/04/13/trump-says-iran-called-seeking-deal-very-badly-as-u-s-blockade-takes-effect/",
-        "publishedAt": "2026-04-13T22:11:34Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
