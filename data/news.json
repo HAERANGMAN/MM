@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T08:12:46.916068+00:00",
+  "generated_at": "2026-04-15T09:51:46.147406+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Dollar flips to losses after Trump says Iran wants a deal",
-        "description": "Shipments of oil and gas through the Strait of Hormuz remain in focus as the lack of an agreement threatens to deepen a global energy shock; Oil prices are hovering near $100 a barrel",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-13/dollar-gains-as-hormuz-blockade-sparks-oil-rally-risk-off-mode",
-        "publishedAt": "2026-04-14T04:16:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Los Angeles hotel industry 'struggling' under wage mandate signed by Mayor Karen Bass, new survey finds",
-        "description": "An industry research report claims Los Angeles' minimum wage mandate led to reduced hiring, labor hour cuts, and delayed hotel development as costs outpace revenue growth.",
-        "url": "https://www.foxnews.com/media/los-angeles-hotel-industry-struggling-under-wage-mandate-signed-mayor-karen-bass-new-survey-finds",
-        "publishedAt": "2026-04-14T01:30:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Waterway Wars: Greek Official Reveals How Trump, Guilfoyle Severed China’s ‘Dragon’s Head’ Port Advantage in 'Gateway to Europe’",
-        "description": "The Strait of Hormuz in the Middle East is hardly the only waterway on President Donald Trump’s mind worldwide at the moment.\nThe post Exclusive — Waterway Wars: Greek Official Reveals How Trump, Guilfoyle Severed China’s ‘Dragon’s Head’ Port Advantage in ‘Ga…",
-        "url": "https://www.breitbart.com/politics/2026/04/13/exclusive-waterway-wars-greek-official-reveals-trump-guilfoyle-chinas-dragons-head-port/",
-        "publishedAt": "2026-04-14T01:16:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DoorDash driver hails key Trump policy after delivering McDonald's to White House: 'I'm going to enjoy it'",
-        "description": "DoorDash driver Sharron Simmons says she hopes Trump's no-tax-on-tips benefit in the One Big Beautiful Bill extends beyond its current 2028 expiration.",
-        "url": "https://www.foxnews.com/politics/doordash-driver-hails-key-trump-policy-after-delivering-mcdonalds-white-house",
-        "publishedAt": "2026-04-13T23:15:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Sunny Hostin doesn't know if president is the 'right position' for Harris, urges her to reconsider CA governor",
-        "description": "\"The View\" co-host Sunny Hostin said she wanted Kamala Harris to reconsider running for California governor, though co-host Ana Navarro noted the deadline passed for entering the race.",
-        "url": "https://www.foxnews.com/media/sunny-hostin-doesnt-know-president-right-position-harris-urges-her-reconsider-ca-governor",
-        "publishedAt": "2026-04-13T23:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Anthropic hires Trump-linked lobbying firm Ballard Partners",
-        "description": "Ballard Partners disclosed it was hired to do advocacy “regarding DOW procurement.” DOW stands for Department of War, the Trump administration’s moniker for the Department of Defence",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-13/anthropic-hires-trump-linked-lobbying-firm-ballard-partners",
-        "publishedAt": "2026-04-14T05:50:34Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Xi says world order ‘crumbling into disarray’ as Iran war drags on",
-        "description": "Chinese President Xi Jinping touted shared principles with Spain to counter global disorder during an official visit by Prime Minister Pedro Sánchez, which comes after both sides have criticized US-Israeli attacks on Iran and called for peace.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-14/china-s-xi-urges-closer-spain-ties-to-counter-global-disarray",
-        "publishedAt": "2026-04-14T05:49:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dollar flips to losses after Trump says Iran wants a deal",
-        "description": "Shipments of oil and gas through the Strait of Hormuz remain in focus as the lack of an agreement threatens to deepen a global energy shock; Oil prices are hovering near $100 a barrel",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-13/dollar-gains-as-hormuz-blockade-sparks-oil-rally-risk-off-mode",
-        "publishedAt": "2026-04-14T04:16:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Exclusive — Waterway Wars: Greek Official Reveals How Trump, Guilfoyle Severed China’s ‘Dragon’s Head’ Port Advantage in 'Gateway to Europe’",
-        "description": "The Strait of Hormuz in the Middle East is hardly the only waterway on President Donald Trump’s mind worldwide at the moment.\nThe post Exclusive — Waterway Wars: Greek Official Reveals How Trump, Guilfoyle Severed China’s ‘Dragon’s Head’ Port Advantage in ‘Ga…",
-        "url": "https://www.breitbart.com/politics/2026/04/13/exclusive-waterway-wars-greek-official-reveals-trump-guilfoyle-chinas-dragons-head-port/",
-        "publishedAt": "2026-04-14T01:16:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sunny Hostin doesn't know if president is the 'right position' for Harris, urges her to reconsider CA governor",
-        "description": "\"The View\" co-host Sunny Hostin said she wanted Kamala Harris to reconsider running for California governor, though co-host Ana Navarro noted the deadline passed for entering the race.",
-        "url": "https://www.foxnews.com/media/sunny-hostin-doesnt-know-president-right-position-harris-urges-her-reconsider-ca-governor",
-        "publishedAt": "2026-04-13T23:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
