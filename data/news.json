@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-15T09:51:46.147406+00:00",
+  "generated_at": "2026-04-15T10:51:03.001536+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump beat back anti-family taxes in 2025. Here’s what needs to happen next",
-        "description": "The One Big Beautiful Bill expands the Child Tax Credit to $2,500 per child and creates Trump Accounts to build generational wealth for families.",
-        "url": "https://www.foxnews.com/opinion/trump-beat-back-anti-family-taxes-2025-heres-needs-happen-next",
-        "publishedAt": "2026-04-13T11:00:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
