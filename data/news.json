@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-04-16T10:51:30.105476+00:00",
+  "generated_at": "2026-04-16T11:50:34.269740+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "US destroyer interdicts two oil tankers trying to leave Iran during Trump's blockade",
+        "description": "A U.S. destroyer interdicted two oil tankers trying to leave Iran as part of the Trump administration's ongoing blockade on Iranian ports, a report said.",
+        "url": "https://www.foxnews.com/world/us-destroyer-interdicts-two-oil-tankers-trying-leave-iran-trumps-blockade",
+        "publishedAt": "2026-04-15T11:33:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The Iranian regime was built on ‘vicious antisemitism’ following the 1979 Islamic Revolution",
+        "description": "For over 2,500 years, Jews lived in Persia. After the 1979 Islamic Revolution, their community was decimated by persecution and forced emigration.",
+        "url": "https://www.foxnews.com/opinion/iranian-regime-built-vicious-antisemitism-following-1979-islamic-revolution",
+        "publishedAt": "2026-04-15T11:00:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1979"
+      },
+      {
+        "title": "Your favorite fast food app is playing mind games and charging you for the privilege",
+        "description": "Your $8 fast food order may balloon to $22 thanks to fee stacking, including delivery fees, service fees and the sneaky new small order fee penalty.",
+        "url": "https://www.foxnews.com/opinion/fast-food-app-playing-mind-games-charging-you-for-privilege",
+        "publishedAt": "2026-04-15T11:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Where you live could shape your risk of cancer mortality, study suggests",
+        "description": "New research reveals a widening gap in cancer mortality improvement between high-income urban areas and low-income rural U.S. counties.",
+        "url": "https://www.foxnews.com/health/live-could-shape-risk-cancer-mortality-study-suggests",
+        "publishedAt": "2026-04-15T11:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Codelco in talks with Hindustan Copper for Chile copper joint venture",
         "description": "Indian companies, meanwhile, are looking to Chile, which boasts the world’s biggest copper reserves, to secure supply, integrate upstream and stay competitive in a tightening global market",
@@ -13,51 +53,21 @@
           "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Blanche torches Trump foe Boasberg after appeals court blocks judge again in deportation fight",
-        "description": "Acting AG Todd Blanche accuses Judge Boasberg of targeting DOJ attorneys after an appeals court again rebuked his contempt probe in a deportation case.",
-        "url": "https://www.foxnews.com/politics/blanche-torches-trump-foe-boasberg-after-appeals-court-blocks-judge-again-deportation-fight",
-        "publishedAt": "2026-04-15T10:00:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "No One Voted For This! Socialist Spain Starts Process to Provide Amnesty to Illegals",
-        "description": "The governing Council of Ministers in Spain approved on Tuesday the Royal Decree allowing for the mass amnesty programme for illegal migrants put forward by Socialist Prime Minister Pedro Sánchez earlier this year.\nThe post No One Voted For This! Socialist Sp…",
-        "url": "https://www.breitbart.com/europe/2026/04/15/no-one-voted-for-this-socialist-spain-starts-process-to-provide-amnesty-to-illegals/",
-        "publishedAt": "2026-04-15T09:57:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Tells Britain Drill Baby Drill! 'Europe Is Desperate For Energy', Fortune to be Made",
-        "description": "The UK continues to stumble through a crippling years-long energy crisis that is rapidly deindustrialising the country.\nThe post Trump Tells Britain Drill Baby Drill! ‘Europe Is Desperate For Energy’, Fortune to be Made appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/04/15/trump-tells-britain-drill-baby-drill-europe-is-desperate-for-energy-fortune-to-be-made/",
-        "publishedAt": "2026-04-15T09:55:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Crime is falling, officials say — victims claim reporting isn’t worth it",
-        "description": "City leaders tout falling property crime rates, but federal survey data shows most victims never report to police, raising questions about the narrative.",
-        "url": "https://www.foxnews.com/opinion/crime-falling-officials-report-victims-say-reporting-isnt-worth",
-        "publishedAt": "2026-04-15T09:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "The Iranian regime was built on ‘vicious antisemitism’ following the 1979 Islamic Revolution",
+        "description": "For over 2,500 years, Jews lived in Persia. After the 1979 Islamic Revolution, their community was decimated by persecution and forced emigration.",
+        "url": "https://www.foxnews.com/opinion/iranian-regime-built-vicious-antisemitism-following-1979-islamic-revolution",
+        "publishedAt": "2026-04-15T11:00:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1979"
+      },
       {
         "title": "Codelco in talks with Hindustan Copper for Chile copper joint venture",
         "description": "Indian companies, meanwhile, are looking to Chile, which boasts the world’s biggest copper reserves, to secure supply, integrate upstream and stay competitive in a tightening global market",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-04-15T07:56:01Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gold Holds Gain as Renewed Push for US-Iran Talks Eases Risks",
-        "description": "A recent retreat in energy prices has relieved some of the inflationary pressure that has weighed on bullion since the war began more than six weeks ago",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-14/gold-holds-gain-as-renewed-push-for-us-iran-talks-eases-risks",
-        "publishedAt": "2026-04-15T03:46:40Z",
-        "source": {
-          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       }
