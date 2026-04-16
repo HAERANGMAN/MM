@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-16T11:50:34.269740+00:00",
+  "generated_at": "2026-04-16T12:55:40.258997+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "US destroyer interdicts two oil tankers trying to leave Iran during Trump's blockade",
-        "description": "A U.S. destroyer interdicted two oil tankers trying to leave Iran as part of the Trump administration's ongoing blockade on Iranian ports, a report said.",
-        "url": "https://www.foxnews.com/world/us-destroyer-interdicts-two-oil-tankers-trying-leave-iran-trumps-blockade",
-        "publishedAt": "2026-04-15T11:33:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The Iranian regime was built on ‘vicious antisemitism’ following the 1979 Islamic Revolution",
-        "description": "For over 2,500 years, Jews lived in Persia. After the 1979 Islamic Revolution, their community was decimated by persecution and forced emigration.",
-        "url": "https://www.foxnews.com/opinion/iranian-regime-built-vicious-antisemitism-following-1979-islamic-revolution",
-        "publishedAt": "2026-04-15T11:00:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1979"
-      },
-      {
-        "title": "Your favorite fast food app is playing mind games and charging you for the privilege",
-        "description": "Your $8 fast food order may balloon to $22 thanks to fee stacking, including delivery fees, service fees and the sneaky new small order fee penalty.",
-        "url": "https://www.foxnews.com/opinion/fast-food-app-playing-mind-games-charging-you-for-privilege",
-        "publishedAt": "2026-04-15T11:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Where you live could shape your risk of cancer mortality, study suggests",
-        "description": "New research reveals a widening gap in cancer mortality improvement between high-income urban areas and low-income rural U.S. counties.",
-        "url": "https://www.foxnews.com/health/live-could-shape-risk-cancer-mortality-study-suggests",
-        "publishedAt": "2026-04-15T11:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Codelco in talks with Hindustan Copper for Chile copper joint venture",
-        "description": "Indian companies, meanwhile, are looking to Chile, which boasts the world’s biggest copper reserves, to secure supply, integrate upstream and stay competitive in a tightening global market",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-15/codelco-in-talks-with-india-s-hcl-for-chile-copper-joint-venture",
-        "publishedAt": "2026-04-15T10:15:07Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "The Iranian regime was built on ‘vicious antisemitism’ following the 1979 Islamic Revolution",
-        "description": "For over 2,500 years, Jews lived in Persia. After the 1979 Islamic Revolution, their community was decimated by persecution and forced emigration.",
-        "url": "https://www.foxnews.com/opinion/iranian-regime-built-vicious-antisemitism-following-1979-islamic-revolution",
-        "publishedAt": "2026-04-15T11:00:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1979"
-      },
-      {
-        "title": "Codelco in talks with Hindustan Copper for Chile copper joint venture",
-        "description": "Indian companies, meanwhile, are looking to Chile, which boasts the world’s biggest copper reserves, to secure supply, integrate upstream and stay competitive in a tightening global market",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-15/codelco-in-talks-with-india-s-hcl-for-chile-copper-joint-venture",
-        "publishedAt": "2026-04-15T10:15:07Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stop calling this brinkmanship. Trump's Hormuz move is the real pressure",
-        "description": "President Trump's naval blockade cutting off Iran's oil shipments through the Strait of Hormuz is the only play left after failed Islamabad negotiations.",
-        "url": "https://www.foxnews.com/opinion/stop-calling-brinkmanship-trumps-hormuz-move-real-pressure",
-        "publishedAt": "2026-04-15T09:00:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Memory chip crunch and Iran war lead phone market decline, IDC says",
-        "description": "Global smartphone market declines 4.1% amid memory chip shortages and Iran war, with only Apple and Samsung showing growth.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-15/memory-crunch-and-iran-war-lead-phone-market-decline-idc-says",
-        "publishedAt": "2026-04-15T08:13:50Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "4.1"
-      },
-      {
-        "title": "Trump: Iran Conflict ‘Very Close to Being Over’ -- Tehran ‘Wants to Make a Deal Very Badly,’ Talks Could Resume Within Days",
-        "description": "U.S. President Donald Trump said Wednesdaythe war with Iran is “very close to being over,” arguing recent U.S. actions prevented Tehran from obtaining a nuclear weapon while signaling negotiations could resume imminently as the regime “want[s] to make a deal …",
-        "url": "https://www.breitbart.com/politics/2026/04/15/trump-iran-conflict-very-close-to-being-over-tehran-wants-to-make-a-deal-very-badly-talks-could-resume-within-days/",
-        "publishedAt": "2026-04-15T07:56:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
