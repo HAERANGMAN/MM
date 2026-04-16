@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-16T06:18:33.464057+00:00",
+  "generated_at": "2026-04-16T08:09:05.187236+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trump: Iran Conflict ‘Very Close to Being Over’ -- Tehran ‘Wants to Make a Deal Very Badly,’ Talks Could Resume Within Days",
+        "description": "U.S. President Donald Trump said Wednesdaythe war with Iran is “very close to being over,” arguing recent U.S. actions prevented Tehran from obtaining a nuclear weapon while signaling negotiations could resume imminently as the regime “want[s] to make a deal …",
+        "url": "https://www.breitbart.com/politics/2026/04/15/trump-iran-conflict-very-close-to-being-over-tehran-wants-to-make-a-deal-very-badly-talks-could-resume-within-days/",
+        "publishedAt": "2026-04-15T07:56:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "RBI holds talks with banks on ways to boost deposits",
+        "description": "RBI engages banks to discuss strategies for attracting stable deposits amid rising household investments in equities and financial markets.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-15/india-s-rbi-holds-talks-with-banks-on-ways-to-boost-deposits",
+        "publishedAt": "2026-04-15T06:43:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gold Holds Gain as Renewed Push for US-Iran Talks Eases Risks",
+        "description": "A recent retreat in energy prices has relieved some of the inflationary pressure that has weighed on bullion since the war began more than six weeks ago",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-14/gold-holds-gain-as-renewed-push-for-us-iran-talks-eases-risks",
+        "publishedAt": "2026-04-15T03:46:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Party Boats in the Gulf of America — Could Trump’s Strait Blockade Lead to Golden Era of American Energy Production?",
+        "description": "The more of the world’s oil market that is controlled by the U.S., the better, and it seems as though Donald Trump is aware of this fact.\nThe post Breitbart Business Digest: Party Boats in the Gulf of America — Could Trump’s Strait Blockade Lead to Golden Era…",
+        "url": "https://www.breitbart.com/economy/2026/04/14/breitbart-business-digest-party-boats-in-the-gulf-of-america-could-trumps-strait-blockade-lead-to-golden-era-of-american-energy-production/",
+        "publishedAt": "2026-04-15T01:39:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ruby Rose says she filed a police report against Katy Perry over alleged sexual assault two decades ago",
+        "description": "Ruby Rose accuses Katy Perry of sexual assault allegedly occurring over 20 years ago and revealed she finalized police reports from the alleged incident.",
+        "url": "https://www.foxnews.com/entertainment/ruby-rose-says-she-filed-police-report-against-katy-perry-over-alleged-sexual-assault-two-decades-ago",
+        "publishedAt": "2026-04-14T23:03:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "20"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Trump: Iran Conflict ‘Very Close to Being Over’ -- Tehran ‘Wants to Make a Deal Very Badly,’ Talks Could Resume Within Days",
+        "description": "U.S. President Donald Trump said Wednesdaythe war with Iran is “very close to being over,” arguing recent U.S. actions prevented Tehran from obtaining a nuclear weapon while signaling negotiations could resume imminently as the regime “want[s] to make a deal …",
+        "url": "https://www.breitbart.com/politics/2026/04/15/trump-iran-conflict-very-close-to-being-over-tehran-wants-to-make-a-deal-very-badly-talks-could-resume-within-days/",
+        "publishedAt": "2026-04-15T07:56:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gold Holds Gain as Renewed Push for US-Iran Talks Eases Risks",
+        "description": "A recent retreat in energy prices has relieved some of the inflationary pressure that has weighed on bullion since the war began more than six weeks ago",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-14/gold-holds-gain-as-renewed-push-for-us-iran-talks-eases-risks",
+        "publishedAt": "2026-04-15T03:46:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "IMF urges nations to stay at frontier of mounting AI risks",
+        "description": "Banks have begun testing Anthropic’s new Mythos models after US officials last week expressed alarm at the technology’s potential to be leveraged for catastrophic cyber attacks",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-14/imf-urges-nations-to-stay-at-frontier-of-mounting-ai-risks",
+        "publishedAt": "2026-04-15T03:28:03Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Party Boats in the Gulf of America — Could Trump’s Strait Blockade Lead to Golden Era of American Energy Production?",
+        "description": "The more of the world’s oil market that is controlled by the U.S., the better, and it seems as though Donald Trump is aware of this fact.\nThe post Breitbart Business Digest: Party Boats in the Gulf of America — Could Trump’s Strait Blockade Lead to Golden Era…",
+        "url": "https://www.breitbart.com/economy/2026/04/14/breitbart-business-digest-party-boats-in-the-gulf-of-america-could-trumps-strait-blockade-lead-to-golden-era-of-american-energy-production/",
+        "publishedAt": "2026-04-15T01:39:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Top United Nations Human Rights official points to reparations as the 'key to dismantling systemic racism'",
+        "description": "U.N. High Commissioner Volker Türk applauded global reparations efforts, calling them essential to dismantling systemic racism tied to colonialism and enslavement.",
+        "url": "https://www.foxnews.com/media/top-united-nations-human-rights-official-points-reparations-key-dismantling-systemic-racism",
+        "publishedAt": "2026-04-15T01:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
