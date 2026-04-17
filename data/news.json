@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-17T12:03:35.237857+00:00",
+  "generated_at": "2026-04-17T13:55:00.276149+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Protein boom is threatening to wipe out vegetarian chain as shutdown looms",
-        "description": "Boston vegetarian chain Clover Food Lab warns it could close and lay off 182 workers as experts say consumers are shifting back to meat and dairy foods.",
-        "url": "https://www.foxnews.com/food-drink/protein-boom-threatening-wipe-out-vegetarian-chain-shutdown-looms",
-        "publishedAt": "2026-04-16T12:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "182"
-      },
-      {
-        "title": "A Strong America Starts by Standing Up to Unfair Trade — and Standing with American Chemistry",
-        "description": "A strong America starts with strong American chemistry—and strong American chemistry requires a level playing field grounded in fairness, smart enforcement, and market‑based rules. \nThe post A Strong America Starts by Standing Up to Unfair Trade — and Standin…",
-        "url": "https://www.breitbart.com/politics/2026/04/16/a-strong-america-starts-by-standing-up-to-unfair-trade-and-standing-with-american-chemistry/",
-        "publishedAt": "2026-04-16T11:50:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "First-ever moratorium on AI data centers passes Maine legislature",
-        "description": "Maine is poised to become the first state to halt large data center projects, as the moratorium bill now heads to Gov. Janet Mills for her signature.",
-        "url": "https://www.foxnews.com/politics/first-ever-moratorium-ai-data-centers-passes-maine-legislature",
-        "publishedAt": "2026-04-16T11:38:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump pushed Iran to the brink — but did we win anything that lasts?",
-        "description": "Islamabad talks ended without a deal after 21 hours. Robert Maginnis examines why Iran's survival means the strategic competition is far from over.",
-        "url": "https://www.foxnews.com/opinion/trump-pushed-iran-brink-win-anything-lasts",
-        "publishedAt": "2026-04-16T11:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle blasted for ‘faux royal tour’ as experts accuse couple of exploiting titles",
-        "description": "Prince Harry and Meghan Markle's four-day Australia trip draws criticism from royal experts who claim the couple is monetizing their titles and royal relevance.",
-        "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-blasted-faux-royal-tour-experts-accuse-couple-exploiting-titles",
-        "publishedAt": "2026-04-16T10:00:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Protein boom is threatening to wipe out vegetarian chain as shutdown looms",
-        "description": "Boston vegetarian chain Clover Food Lab warns it could close and lay off 182 workers as experts say consumers are shifting back to meat and dairy foods.",
-        "url": "https://www.foxnews.com/food-drink/protein-boom-threatening-wipe-out-vegetarian-chain-shutdown-looms",
-        "publishedAt": "2026-04-16T12:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "182"
-      },
-      {
-        "title": "A Strong America Starts by Standing Up to Unfair Trade — and Standing with American Chemistry",
-        "description": "A strong America starts with strong American chemistry—and strong American chemistry requires a level playing field grounded in fairness, smart enforcement, and market‑based rules. \nThe post A Strong America Starts by Standing Up to Unfair Trade — and Standin…",
-        "url": "https://www.breitbart.com/politics/2026/04/16/a-strong-america-starts-by-standing-up-to-unfair-trade-and-standing-with-american-chemistry/",
-        "publishedAt": "2026-04-16T11:50:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16",
-        "description": "Russia launched nearly 700 drones and dozens of missiles at Ukraine, killing at least 16 people and injuring over 80 in its biggest attack in weeks.",
-        "url": "https://www.foxnews.com/world/russian-missiles-drones-bombard-ukraine-hourslong-attack-death-toll",
-        "publishedAt": "2026-04-16T11:07:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "16"
-      },
-      {
-        "title": "Reform Warns Britain is 'Talking Loudly and Carrying a Small Stick', With No Vision, Doctrine or Plan for Defence",
-        "description": "Even as the world wakes up to Britain's chronic \"say-do gap\" on defence, Westminster is cutting even more cash to boost welfare spending.\nThe post Reform Warns Britain is ‘Talking Loudly and Carrying a Small Stick’, With No Vision, Doctrine or Plan for Defenc…",
-        "url": "https://www.breitbart.com/europe/2026/04/16/reform-warns-starmer-escalating-danger-while-starving-military-of-cash/",
-        "publishedAt": "2026-04-16T11:02:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump pushed Iran to the brink — but did we win anything that lasts?",
-        "description": "Islamabad talks ended without a deal after 21 hours. Robert Maginnis examines why Iran's survival means the strategic competition is far from over.",
-        "url": "https://www.foxnews.com/opinion/trump-pushed-iran-brink-win-anything-lasts",
-        "publishedAt": "2026-04-16T11:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
