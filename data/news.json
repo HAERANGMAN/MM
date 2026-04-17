@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-04-17T11:10:29.472857+00:00",
+  "generated_at": "2026-04-17T12:03:35.237857+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Protein boom is threatening to wipe out vegetarian chain as shutdown looms",
+        "description": "Boston vegetarian chain Clover Food Lab warns it could close and lay off 182 workers as experts say consumers are shifting back to meat and dairy foods.",
+        "url": "https://www.foxnews.com/food-drink/protein-boom-threatening-wipe-out-vegetarian-chain-shutdown-looms",
+        "publishedAt": "2026-04-16T12:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "182"
+      },
+      {
+        "title": "A Strong America Starts by Standing Up to Unfair Trade — and Standing with American Chemistry",
+        "description": "A strong America starts with strong American chemistry—and strong American chemistry requires a level playing field grounded in fairness, smart enforcement, and market‑based rules. \nThe post A Strong America Starts by Standing Up to Unfair Trade — and Standin…",
+        "url": "https://www.breitbart.com/politics/2026/04/16/a-strong-america-starts-by-standing-up-to-unfair-trade-and-standing-with-american-chemistry/",
+        "publishedAt": "2026-04-16T11:50:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "First-ever moratorium on AI data centers passes Maine legislature",
+        "description": "Maine is poised to become the first state to halt large data center projects, as the moratorium bill now heads to Gov. Janet Mills for her signature.",
+        "url": "https://www.foxnews.com/politics/first-ever-moratorium-ai-data-centers-passes-maine-legislature",
+        "publishedAt": "2026-04-16T11:38:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Trump pushed Iran to the brink — but did we win anything that lasts?",
         "description": "Islamabad talks ended without a deal after 21 hours. Robert Maginnis examines why Iran's survival means the strategic competition is far from over.",
@@ -23,41 +53,31 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Alibaba moves onto Tencent’s turf with AI model for 3D video",
-        "description": "The new model unveiled Thursday was developed by the Alibaba Token Hub, a newly created business unit, the company said in a post on X. The tool is so far only available on a limited early-access basis, says Alibaba",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-16/alibaba-releases-new-ai-model-for-gaming-development",
-        "publishedAt": "2026-04-16T09:05:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Trump hits key battlegrounds to sell tax cuts, boost GOP ahead of midterms",
-        "description": "President Donald Trump travels to swing states Nevada and Arizona this week to promote tax cuts passed by congressional Republicans ahead of the midterms.",
-        "url": "https://www.foxnews.com/politics/trump-hits-key-battlegrounds-sell-tax-cuts-boost-gop-ahead-midterms",
-        "publishedAt": "2026-04-16T09:00:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEN BERNIE SANDERS: Artificial intelligence is coming for the working class. We must fight back",
-        "description": "Legislation sponsored by Sen. Bernie Sanders calls for a federal moratorium on new AI data centers until safeguards protect workers from mass job losses driven by Big Tech oligarchs.",
-        "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-artificial-intelligence-coming-working-class-must-fight-back-",
-        "publishedAt": "2026-04-16T09:00:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Protein boom is threatening to wipe out vegetarian chain as shutdown looms",
+        "description": "Boston vegetarian chain Clover Food Lab warns it could close and lay off 182 workers as experts say consumers are shifting back to meat and dairy foods.",
+        "url": "https://www.foxnews.com/food-drink/protein-boom-threatening-wipe-out-vegetarian-chain-shutdown-looms",
+        "publishedAt": "2026-04-16T12:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "182"
+      },
+      {
+        "title": "A Strong America Starts by Standing Up to Unfair Trade — and Standing with American Chemistry",
+        "description": "A strong America starts with strong American chemistry—and strong American chemistry requires a level playing field grounded in fairness, smart enforcement, and market‑based rules. \nThe post A Strong America Starts by Standing Up to Unfair Trade — and Standin…",
+        "url": "https://www.breitbart.com/politics/2026/04/16/a-strong-america-starts-by-standing-up-to-unfair-trade-and-standing-with-american-chemistry/",
+        "publishedAt": "2026-04-16T11:50:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16",
         "description": "Russia launched nearly 700 drones and dozens of missiles at Ukraine, killing at least 16 people and injuring over 80 in its biggest attack in weeks.",
@@ -83,26 +103,6 @@
         "description": "Islamabad talks ended without a deal after 21 hours. Robert Maginnis examines why Iran's survival means the strategic competition is far from over.",
         "url": "https://www.foxnews.com/opinion/trump-pushed-iran-brink-win-anything-lasts",
         "publishedAt": "2026-04-16T11:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21"
-      },
-      {
-        "title": "Massive Overnight Drone and Missile Strikes Kill at Least 16 in Ukraine",
-        "description": "Russia hammered civilian areas of Ukraine with hundreds of drones and dozens of missiles in an attack that stretched for hours.\nThe post Massive Overnight Drone and Missile Strikes Kill at Least 16 in Ukraine appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/04/16/massive-overnight-drone-and-missile-strikes-kill-at-least-16-in-ukraine/",
-        "publishedAt": "2026-04-16T10:54:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "16"
-      },
-      {
-        "title": "Who is Tom Steyer? Anti-ICE billionaire in CA governor’s race faces scrutiny over detention investments",
-        "description": "Billionaire Tom Steyer surges to the forefront of California's governor race with a 21% lead, backed by $112 million in personal campaign donations.",
-        "url": "https://www.foxnews.com/politics/who-tom-steyer-anti-ice-billionaire-ca-governors-race-faces-scrutiny-over-detention-investments",
-        "publishedAt": "2026-04-16T10:00:24Z",
         "source": {
           "name": "Fox News"
         },
