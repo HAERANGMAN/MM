@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-04-17T14:53:37.083909+00:00",
+  "generated_at": "2026-04-17T15:54:33.410602+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production",
+        "description": "The head of the United Nations nuclear body, the International Atomic Energy Agency (IAEA), warned on Wednesday that he had reason to believe communist North Korea had engaged in a \"very serious increase\" in activity to make nuclear weapons.\nThe post U.N. Ato…",
+        "url": "https://www.breitbart.com/asia/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/",
+        "publishedAt": "2026-04-16T15:06:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "American travelers warned about popular low-cost beach destination as global tensions rise",
+        "description": "U.S. officials have issued a travel advisory for Tirana, Albania, urging American tourists to exercise increased vigilance amid ongoing Iran-related tensions.",
+        "url": "https://www.foxnews.com/travel/american-travelers-warned-popular-low-cost-beach-destination-global-tensions-rise",
+        "publishedAt": "2026-04-16T15:46:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Apple and Google Continue to Offer 'Nudify' Apps that Use AI to Generate Deepfake Porn",
+        "description": "Apple and Google are continuing to offer \"nudify\" apps that allow users to create AI-generated deepfake pornography of real people, despite both companies maintaining policies that explicitly prohibit such content, according to a new report.\nThe post Apple an…",
+        "url": "https://www.breitbart.com/tech/2026/04/16/apple-and-google-continue-to-offer-nudify-apps-that-use-ai-to-generate-deepfake-porn/",
+        "publishedAt": "2026-04-16T15:02:20Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive Poll: Three-Quarters of Voters Support Rolling Back FICO Fees for Credit Score Reports",
+        "description": "Three-quarters of voters approve of rolling back \"exorbitant increases\" in FICO's fees as voters say they would be more likely to vote for a Republican candidate who backs for affordability in credit score fees, according to a poll obtained by Breitbart News.…",
+        "url": "https://www.breitbart.com/politics/2026/04/16/exclusive-poll-three-quarters-voters-support-rolling-back-fico-fees-credit-score-reports/",
+        "publishedAt": "2026-04-16T14:38:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: China Could Be Spying on You Through Your Smart Home Devices",
+        "description": "Cellular modules manufactured by Chinese companies and embedded in smart home devices represent a significant national security risk to the United States, according to the Foundation for Defense of Democracies.\nThe post Report: China Could Be Spying on You Th…",
+        "url": "https://www.breitbart.com/tech/2026/04/16/report-china-could-be-spying-on-you-through-your-smart-home-devices/",
+        "publishedAt": "2026-04-16T14:23:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Former Disney teen star exposes chilling warning signs of predatory behavior in Hollywood",
+        "description": "Former boy band stars Ricky Garcia and Lance Bass shed light on how predators exploit fame and power to target young artists in the music industry.",
+        "url": "https://www.foxnews.com/entertainment/former-disney-teen-star-exposes-chilling-warning-signs-predatory-behavior-hollywood",
+        "publishedAt": "2026-04-16T14:00:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production",
+        "description": "The head of the United Nations nuclear body, the International Atomic Energy Agency (IAEA), warned on Wednesday that he had reason to believe communist North Korea had engaged in a \"very serious increase\" in activity to make nuclear weapons.\nThe post U.N. Ato…",
+        "url": "https://www.breitbart.com/asia/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/",
+        "publishedAt": "2026-04-16T15:06:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "American travelers warned about popular low-cost beach destination as global tensions rise",
+        "description": "U.S. officials have issued a travel advisory for Tirana, Albania, urging American tourists to exercise increased vigilance amid ongoing Iran-related tensions.",
+        "url": "https://www.foxnews.com/travel/american-travelers-warned-popular-low-cost-beach-destination-global-tensions-rise",
+        "publishedAt": "2026-04-16T15:46:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Harmeet Dhillon: Semiautomatic Rifles Like the AR-15 'Are Protected by the Constitution'",
+        "description": "During a video posted to X on Tuesday, Assistant Attorney General for Civil Rights Harmeet Dhillon stressed that semiautomatic rifles like the AR-15 \"are protected by the Constitution.\"\nThe post Harmeet Dhillon: Semiautomatic Rifles Like the AR-15 ‘Are Protec…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/16/harmeet-dhillon-semiautomatic-rifles-like-the-ar-15-are-protected-by-the-constitution/",
+        "publishedAt": "2026-04-16T15:23:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production",
+        "description": "The head of the United Nations nuclear body, the International Atomic Energy Agency (IAEA), warned on Wednesday that he had reason to believe communist North Korea had engaged in a \"very serious increase\" in activity to make nuclear weapons.\nThe post U.N. Ato…",
+        "url": "https://www.breitbart.com/asia/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/",
+        "publishedAt": "2026-04-16T15:06:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fast-food chain rejects tech trends, doubles down on in-person service",
+        "description": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
+        "url": "https://www.foxnews.com/lifestyle/fast-food-chain-rejects-tech-trends-doubles-down-in-person-service",
+        "publishedAt": "2026-04-16T14:47:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: China Could Be Spying on You Through Your Smart Home Devices",
+        "description": "Cellular modules manufactured by Chinese companies and embedded in smart home devices represent a significant national security risk to the United States, according to the Foundation for Defense of Democracies.\nThe post Report: China Could Be Spying on You Th…",
+        "url": "https://www.breitbart.com/tech/2026/04/16/report-china-could-be-spying-on-you-through-your-smart-home-devices/",
+        "publishedAt": "2026-04-16T14:23:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
