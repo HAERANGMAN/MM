@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-17T17:41:10.502614+00:00",
+  "generated_at": "2026-04-17T18:36:18.187569+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production",
-        "description": "The head of the United Nations nuclear body, the International Atomic Energy Agency (IAEA), warned on Wednesday that he had reason to believe communist North Korea had engaged in a \"very serious increase\" in activity to make nuclear weapons.\nThe post U.N. Ato…",
-        "url": "https://www.breitbart.com/asia/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/",
-        "publishedAt": "2026-04-16T15:06:55Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
