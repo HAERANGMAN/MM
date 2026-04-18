@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-18T21:21:12.102809+00:00",
+  "generated_at": "2026-04-18T21:54:34.184236+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "FIFA says NJ Transit fare hikes for World Cup will have 'chilling effect,' again rips NJ Gov Sherrill",
-        "description": "The FIFA World Cup COO criticized NJ Transit's World Cup transportation plan, calling $150 train tickets a move that will have a \"chilling effect\" on fans attending matches.",
-        "url": "https://www.foxnews.com/sports/fifa-says-nj-transit-fare-hikes-world-cup-chilling-effect-rips-nj-gov-sherrill",
-        "publishedAt": "2026-04-17T21:05:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Pro-Migration Economists: Migrants with Quasi-Amnesty Generate $20 Billion for Investors",
-        "description": "President Donald Trump cannot end President Joe Biden's award of the quasi-amnesty Temporary Protected Status (TPS) to migrants because they expand U.S. Gross Domestic Product (GDP), says an appeal to the Supreme Court for an April 29 hearing.\nThe post Pro-Mi…",
-        "url": "https://www.breitbart.com/politics/2026/04/17/2-tps-migrants-generate-20-billion-for-investors-says-pro-migration-report/",
-        "publishedAt": "2026-04-17T20:03:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Ties Between Greece, United States Grow Ever Stronger: Envoys",
-        "description": "ATHENS, Greece — Ties between Greece and the United States are at an all-time high, both envoys to each other’s nations say.\nThe post Ties Between Greece, United States Grow Ever Stronger: Envoys appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/04/17/ties-between-greece-united-states-grow-ever-stronger-envoys/",
-        "publishedAt": "2026-04-17T19:32:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Castro Heiress Says Dictator Raul Involved in Cuba-U.S. Talks",
-        "description": "Mariela Castro, daughter of Cuba’s nonagenarian communist dictator Raúl Castro, said Thursday that her father is actively involved in the \"decision-making\" of the Cuban regime's negotiations with the United States.\nThe post Castro Heiress Says Dictator Raúl I…",
-        "url": "https://www.breitbart.com/latin-america/2026/04/17/raul-castro-involved-in-decision-making-of-cuba-u-s-talks-daughter-says/",
-        "publishedAt": "2026-04-17T18:23:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Elon Musk Proposes 'Universal High Income' Payments to Address AI-Driven Job Displacement",
-        "description": "Tesla and xAI CEO Elon Musk has called for the United States federal government to provide \"Universal HIGH INCOME\" checks to citizens as he believes AI and robotics will radically reshape the employment landscape.\nThe post Elon Musk Proposes ‘Universal High I…",
-        "url": "https://www.breitbart.com/tech/2026/04/17/elon-musk-proposes-universal-high-income-payments-to-address-ai-driven-job-displacement/",
-        "publishedAt": "2026-04-17T18:09:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "FIFA says NJ Transit fare hikes for World Cup will have 'chilling effect,' again rips NJ Gov Sherrill",
-        "description": "The FIFA World Cup COO criticized NJ Transit's World Cup transportation plan, calling $150 train tickets a move that will have a \"chilling effect\" on fans attending matches.",
-        "url": "https://www.foxnews.com/sports/fifa-says-nj-transit-fare-hikes-world-cup-chilling-effect-rips-nj-gov-sherrill",
-        "publishedAt": "2026-04-17T21:05:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "South African 'Kill the Boer' Radical Julius Malema Sentenced to Five Years for Gun Crimes",
-        "description": "South African opposition leader Julius Malema was sentenced to five years in prison on Thursday for illegally possessing and firing a gun.\nThe post South African ‘Kill the Boer’ Radical Julius Malema Sentenced to Five Years for Gun Crimes appeared first on Br…",
-        "url": "https://www.breitbart.com/africa/2026/04/17/south-african-kill-boer-radical-julius-malema-sentenced-five-years-gun-crimes/",
-        "publishedAt": "2026-04-17T20:47:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "White House meets AI firm Anthropic amid political tensions, Pentagon dispute",
-        "description": "Trump administration reconsiders Anthropic ban as CEO meets White House officials to discuss Mythos Preview, a powerful new AI cybersecurity model.",
-        "url": "https://www.foxnews.com/politics/white-house-meeting-anthropic-powerful-new-ai-model-despite-pentagon-resistance-",
-        "publishedAt": "2026-04-17T20:10:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pro-Migration Economists: Migrants with Quasi-Amnesty Generate $20 Billion for Investors",
-        "description": "President Donald Trump cannot end President Joe Biden's award of the quasi-amnesty Temporary Protected Status (TPS) to migrants because they expand U.S. Gross Domestic Product (GDP), says an appeal to the Supreme Court for an April 29 hearing.\nThe post Pro-Mi…",
-        "url": "https://www.breitbart.com/politics/2026/04/17/2-tps-migrants-generate-20-billion-for-investors-says-pro-migration-report/",
-        "publishedAt": "2026-04-17T20:03:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Syrian Army Takes Control of Last U.S. Military Base",
-        "description": "The Syrian Army on Thursday took control of the last U.S. military base on Syrian soil, with assurances that Syria’s new government can handle the job of controlling the Islamic State and other terrorist threats.\nThe post Syrian Army Takes Control of Last U.S…",
-        "url": "https://www.breitbart.com/middle-east/2026/04/17/syrian-army-takes-control-of-last-u-s-military-base/",
-        "publishedAt": "2026-04-17T19:51:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
