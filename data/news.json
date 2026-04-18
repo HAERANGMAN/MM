@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-18T15:51:17.541206+00:00",
+  "generated_at": "2026-04-18T16:25:28.546414+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Nolte: Two Polls Show Increased Republican Support for Trump",
+        "description": "Despite an all-out corporate media propaganda campaign using a few marginalized podcasters as “proof” there is a growing rift between President Donald Trump and Republican voters, new polling shows the opposite is true.\nThe post Nolte: Two Polls Show Increase…",
+        "url": "https://www.breitbart.com/politics/2026/04/17/nolte-two-polls-show-increased-republican-support-for-trump/",
+        "publishedAt": "2026-04-17T15:29:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Meet Analilia Mejia, the Sanders-AOC backed progressive who just won election to Congress",
+        "description": "Analilia Mejia heads to Congress after a convincing special election win in New Jersey, running on Medicare for All, a $25 minimum wage and abolishing ICE.",
+        "url": "https://www.foxnews.com/politics/meet-analilia-mejia-sanders-aoc-backed-progressive-who-just-won-election-congress",
+        "publishedAt": "2026-04-17T15:03:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Long lines form at tribal gas stations as drivers chase steep discounts amid high fuel costs",
+        "description": "Some U.S. drivers report saving up to 75 cents per gallon by filling up at tribal gas stations in various locations, which often skip state fuel taxes on tribal land.",
+        "url": "https://www.foxnews.com/travel/long-lines-form-tribal-gas-stations-drivers-chase-steep-discounts-amid-high-fuel-costs",
+        "publishedAt": "2026-04-17T14:28:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "75"
+      },
+      {
+        "title": "Doctors in training learn cooking skills to help patients amid America's chronic disease crisis",
+        "description": "Future doctors are learning to prepare healthy, flavorful meals and turn nutrition advice into patient guidance in new culinary medicine programs at medical schools.",
+        "url": "https://www.foxnews.com/food-drink/doctors-training-now-learn-cooking-skills-help-patients-amid-americas-chronic-disease-crisis",
+        "publishedAt": "2026-04-17T12:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran’s Oil Crisis Is Fueling Inflation, Major Banks Say Gold Is Next",
+        "description": "If the rising cost of living, global instability, and market volatility have you questioning how secure your savings really are, now is the time to get informed.\nThe post Iran’s Oil Crisis Is Fueling Inflation, Major Banks Say Gold Is Next appeared first on B…",
+        "url": "https://www.breitbart.com/politics/2026/04/17/irans-oil-crisis-is-fueling-inflation-major-banks-say-gold-is-next/",
+        "publishedAt": "2026-04-17T11:50:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Netflix Co-Founder Reed Hastings Is Resigning from Its Board, Leaving After 29 Years",
+        "description": "April 16 (UPI) — Netflix found and former CEO Reed Hastings announced on Thursday that he will resign from its board and leave the company later this year.\nThe post Netflix Co-Founder Reed Hastings Is Resigning from Its Board, Leaving After 29 Years appeared …",
+        "url": "https://www.breitbart.com/entertainment/2026/04/17/netflix-co-founder-reed-hastings-is-resigning-from-its-board-leaving-after-29-years/",
+        "publishedAt": "2026-04-17T16:18:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "29"
+      },
+      {
+        "title": "Report: SpaceX's Starlink Outage Left Navy Drone Ships Dead in the Water",
+        "description": "A global outage of SpaceX's Starlink satellite network last year left two dozen U.S. Navy unmanned vessels stranded off the California coast, disrupting communications and halting operations for nearly an hour during critical military tests.\nThe post Report: …",
+        "url": "https://www.breitbart.com/tech/2026/04/17/report-spacexs-starlink-outage-left-navy-drone-ships-dead-in-the-water/",
+        "publishedAt": "2026-04-17T16:10:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Battleground Dem says terrorists act from 'pain and frustration,' accuses Americans of being 'high and mighty'",
+        "description": "Democratic Senate candidate Abdul El-Sayed says the U.S. should try to understand why terrorists commit \"heinous acts,\" citing pain and frustration.",
+        "url": "https://www.foxnews.com/politics/battleground-dem-says-terrorists-act-from-pain-frustration-accuses-americans-being-high-mighty",
+        "publishedAt": "2026-04-17T15:57:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DOJ Drops Appeal, Will Not Defend Biden-Era 'Engaged in the Business' Gun Control",
+        "description": "President Donald Trump's DOJ on Thursday dropped its appeal to a ruling that found the Biden-era ATF exceeded is statutory authority by issuing the \"engaged in the business rule.\"\nThe post DOJ Drops Appeal, Will Not Defend Biden-Era ‘Engaged in the Business’ …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/17/trump-doj-drops-appeal-engaged-in-business/",
+        "publishedAt": "2026-04-17T15:01:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kathy Ireland says faith in God is guiding her through 'shocking' betrayal by former managers",
+        "description": "Kathy Ireland leans into faith after filing a lawsuit alleging her former management team betrayed her and mishandled her multi-million dollar fortune.",
+        "url": "https://www.foxnews.com/entertainment/kathy-ireland-says-faith-god-guiding-shocking-betrayal-former-managers",
+        "publishedAt": "2026-04-17T14:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
