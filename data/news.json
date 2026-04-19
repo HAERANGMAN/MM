@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-04-19T20:00:27.306193+00:00",
+  "generated_at": "2026-04-19T20:50:25.685000+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Exclusive: How Trump Has Redefined America's Standing on World Stage Ahead of China Trip",
+        "description": "President Donald Trump embarks on a much-anticipated trip to China next month to meet with President Xi Jinping, as the first year-plus of the Trump presidency has redefined global economic affairs and foreign policy.\nThe post Exclusive: How Trump Has Redefin…",
+        "url": "https://www.breitbart.com/asia/2026/04/18/exclusive-trump-redefined-americas-standing-world-stage-china-trip/",
+        "publishedAt": "2026-04-18T10:00:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Big Advertisers Settle Case with FTC over Leftist Censorship in Advertising and Suspected Collusion Against Breitbart, Other Conservatives",
+        "description": "Three of the world's largest advertising companies have settled with the FTC over claims they colluded on policies to combat alleged misinformation that denied advertising revenue to conservative publishers such as Breitbart News.\nThe post Big Advertisers Set…",
+        "url": "https://www.breitbart.com/politics/2026/04/18/big-advertisers-settle-case-ftc-over-leftist-censorship-advertising-suspected-collusion-against-breitbart-other-conservatives/",
+        "publishedAt": "2026-04-18T20:27:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "California Republican slams state's handling of hospice fraud as she looks to flip blue seat",
+        "description": "Republican candidate Jenny Rae Le Roux called out California leaders, alleging oversight failures let hospice fraud escalate to billions in potential waste.",
+        "url": "https://www.foxnews.com/media/california-republican-slams-states-handling-hospice-fraud-she-looks-flip-blue-seat",
+        "publishedAt": "2026-04-18T19:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Airline worker stole plane, performed barrel roll before deadly crash: Inside final moments",
+        "description": "Richard Russell stole a Horizon Air plane in 2018 and crashed on Ketron Island. A new documentary by director Patricia Gillespie explores his struggles and his family's grief.",
+        "url": "https://www.foxnews.com/us/airline-worker-stole-plane-performed-barrel-roll-deadly-crash-inside-final-moments",
+        "publishedAt": "2026-04-18T18:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2018"
+      },
+      {
+        "title": "Fraud allegations rock Maine, California as Dems push bill to criminalize investigative journalism | Fox News Video",
+        "description": "Journalists Nick Shirley and Jon Fetherston join 'Saturday in America' to discuss Democratic efforts to criminalize investigative journalism and allegations of fraud across the country.",
+        "url": "https://www.foxnews.com/video/6393373493112",
+        "publishedAt": "2026-04-18T17:09:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Newsom administration allegedly knew of $2B California budget error for months: report",
+        "description": "California's $2 billion budget accounting error tied to CalPERS went undisclosed for months, even as the state projected a $3 billion fiscal deficit.",
+        "url": "https://www.foxnews.com/politics/newsom-administration-knew-2b-california-budget-error-months-report",
+        "publishedAt": "2026-04-18T16:55:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Escaped wolf Neukgu returned to South Korean zoo after nine-day search involving thermal imaging drones",
+        "description": "Neukgu, a 2-year-old wolf, escaped a South Korean zoo nine days ago and was safely captured after an extensive search involving drones and more.",
+        "url": "https://www.foxnews.com/world/escaped-wolf-neukgu-returned-south-korean-zoo-nine-day-search-involving-thermal-imaging-drones",
+        "publishedAt": "2026-04-17T23:10:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Big Advertisers Settle Case with FTC over Leftist Censorship in Advertising and Suspected Collusion Against Breitbart, Other Conservatives",
+        "description": "Three of the world's largest advertising companies have settled with the FTC over claims they colluded on policies to combat alleged misinformation that denied advertising revenue to conservative publishers such as Breitbart News.\nThe post Big Advertisers Set…",
+        "url": "https://www.breitbart.com/politics/2026/04/18/big-advertisers-settle-case-ftc-over-leftist-censorship-advertising-suspected-collusion-against-breitbart-other-conservatives/",
+        "publishedAt": "2026-04-18T20:27:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mexico’s climate supercomputer could change forecasting",
+        "description": "Mexico is building the Coatlicue supercomputer to deliver sharper weather forecasts, earlier storm warnings and support artificial intelligence research.",
+        "url": "https://www.foxnews.com/tech/mexicos-climate-supercomputer-could-change-forecasting",
+        "publishedAt": "2026-04-18T18:43:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Walz rips Trump and Vance in Europe, says 'feeble-minded, trigger-happy president' has no exit plan for Iran",
+        "description": "Tim Walz slammed Donald Trump at a progressive conference in Spain, calling him a \"feeble-minded, trigger-happy president\" with \"no exit plan\" for the conflict with Iran.",
+        "url": "https://www.foxnews.com/politics/walz-rips-trump-vance-europe-says-feeble-minded-trigger-happy-president-exit-plan-iran",
+        "publishedAt": "2026-04-18T17:40:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "VIDEO: Suspected Irish Cartel Boss Busted in Dubai After Lengthy Manhunt",
+        "description": "The suspected leader of one of Ireland's largest criminal gangs was arrested in Dubai on Wednesday and is expected to face charges in his native country.\nThe post VIDEO: Suspected Irish Cartel Boss Busted in Dubai After Lengthy Manhunt appeared first on Breit…",
+        "url": "https://www.breitbart.com/crime/2026/04/18/video-suspected-irish-cartel-boss-busted-in-dubai-after-lengthy-manhunt/",
+        "publishedAt": "2026-04-18T16:05:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "President Trump's Snub of NRA Brings Group's Influence into Question",
+        "description": "President Trump's decision not to attend the NRA's 2026 Annual Meetings is bringing the group's influence into question.\nThe post President Trump’s Snub of NRA Brings Group’s Influence into Question appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/18/president-trumps-snub-of-nra-brings-groups-influence-into-question/",
+        "publishedAt": "2026-04-18T15:15:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2026"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
