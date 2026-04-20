@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T03:20:28.270076+00:00",
+  "generated_at": "2026-04-20T05:59:08.094356+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Dem Sen. Murphy Accuses Trump of 'Trying to End' U.S. Democracy",
+        "description": "Sen. Chris Murphy (D-CT) accused President Donald Trump of \"trying to end\" the United States' democracy, adding that Trump was \"trying to seize control.\"\nThe post Dem Sen. Murphy Accuses Trump of ‘Trying to End’ U.S. Democracy appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/04/18/dem-sen-murphy-accuses-trump-of-trying-to-end-u-s-democracy/",
+        "publishedAt": "2026-04-19T03:37:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Exclusive—Simon Urban: Congo's Denis Sassou Nguesso Positions Africa's Most Stable Nation as a Global Power Player",
         "description": "As the West fumbles in Africa, one Central African leader is building something that actually works — and America's top entrepreneurs should be paying attention.\nThe post Exclusive—Simon Urban: Congo’s Denis Sassou Nguesso Positions Africa’s Most Stable Natio…",
         "url": "https://www.breitbart.com/africa/2026/04/18/exclusive-simon-urban-congos-denis-sassou-nguesso-positions-africas-most-stable-nation-as-a-global-power-player/",
@@ -104,16 +114,6 @@
         "description": "Mexico is building the Coatlicue supercomputer to deliver sharper weather forecasts, earlier storm warnings and support artificial intelligence research.",
         "url": "https://www.foxnews.com/tech/mexicos-climate-supercomputer-could-change-forecasting",
         "publishedAt": "2026-04-18T18:43:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Walz rips Trump and Vance in Europe, says 'feeble-minded, trigger-happy president' has no exit plan for Iran",
-        "description": "Tim Walz slammed Donald Trump at a progressive conference in Spain, calling him a \"feeble-minded, trigger-happy president\" with \"no exit plan\" for the conflict with Iran.",
-        "url": "https://www.foxnews.com/politics/walz-rips-trump-vance-europe-says-feeble-minded-trigger-happy-president-exit-plan-iran",
-        "publishedAt": "2026-04-18T17:40:36Z",
         "source": {
           "name": "Fox News"
         },
