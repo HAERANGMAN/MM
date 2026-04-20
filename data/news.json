@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-20T08:22:53.775818+00:00",
+  "generated_at": "2026-04-20T10:13:12.544461+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Exclusive: How Trump Has Redefined America's Standing on World Stage Ahead of China Trip",
-        "description": "President Donald Trump embarks on a much-anticipated trip to China next month to meet with President Xi Jinping, as the first year-plus of the Trump presidency has redefined global economic affairs and foreign policy.\nThe post Exclusive: How Trump Has Redefin…",
-        "url": "https://www.breitbart.com/asia/2026/04/18/exclusive-trump-redefined-americas-standing-world-stage-china-trip/",
-        "publishedAt": "2026-04-18T10:00:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
