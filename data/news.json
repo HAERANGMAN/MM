@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-04-19T23:57:07.238733+00:00",
+  "generated_at": "2026-04-20T03:20:28.270076+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Exclusive: How Trump Has Redefined America's Standing on World Stage Ahead of China Trip",
+        "description": "President Donald Trump embarks on a much-anticipated trip to China next month to meet with President Xi Jinping, as the first year-plus of the Trump presidency has redefined global economic affairs and foreign policy.\nThe post Exclusive: How Trump Has Redefin…",
+        "url": "https://www.breitbart.com/asia/2026/04/18/exclusive-trump-redefined-americas-standing-world-stage-china-trip/",
+        "publishedAt": "2026-04-18T10:00:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Loneliness may be silently eroding your memory, new research reveals",
+        "description": "New research suggests loneliness affects older adults' baseline memory performance but may not directly accelerate cognitive decline over time.",
+        "url": "https://www.foxnews.com/health/loneliness-may-silently-eroding-memory-new-research-reveals",
+        "publishedAt": "2026-04-19T00:33:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Big Advertisers Settle Case with FTC over Leftist Censorship in Advertising and Suspected Collusion Against Breitbart, Other Conservatives",
+        "description": "Three of the world's largest advertising companies have settled with the FTC over claims they colluded on policies to combat alleged misinformation that denied advertising revenue to conservative publishers such as Breitbart News.\nThe post Big Advertisers Set…",
+        "url": "https://www.breitbart.com/politics/2026/04/18/big-advertisers-settle-case-ftc-over-leftist-censorship-advertising-suspected-collusion-against-breitbart-other-conservatives/",
+        "publishedAt": "2026-04-18T20:27:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "California Republican slams state's handling of hospice fraud as she looks to flip blue seat",
+        "description": "Republican candidate Jenny Rae Le Roux called out California leaders, alleging oversight failures let hospice fraud escalate to billions in potential waste.",
+        "url": "https://www.foxnews.com/media/california-republican-slams-states-handling-hospice-fraud-she-looks-flip-blue-seat",
+        "publishedAt": "2026-04-18T19:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Airline worker stole plane, performed barrel roll before deadly crash: Inside final moments",
+        "description": "Richard Russell stole a Horizon Air plane in 2018 and crashed on Ketron Island. A new documentary by director Patricia Gillespie explores his struggles and his family's grief.",
+        "url": "https://www.foxnews.com/us/airline-worker-stole-plane-performed-barrel-roll-deadly-crash-inside-final-moments",
+        "publishedAt": "2026-04-18T18:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2018"
+      },
+      {
+        "title": "Fraud allegations rock Maine, California as Dems push bill to criminalize investigative journalism | Fox News Video",
+        "description": "Journalists Nick Shirley and Jon Fetherston join 'Saturday in America' to discuss Democratic efforts to criminalize investigative journalism and allegations of fraud across the country.",
+        "url": "https://www.foxnews.com/video/6393373493112",
+        "publishedAt": "2026-04-18T17:09:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Exclusive—Simon Urban: Congo's Denis Sassou Nguesso Positions Africa's Most Stable Nation as a Global Power Player",
+        "description": "As the West fumbles in Africa, one Central African leader is building something that actually works — and America's top entrepreneurs should be paying attention.\nThe post Exclusive—Simon Urban: Congo’s Denis Sassou Nguesso Positions Africa’s Most Stable Natio…",
+        "url": "https://www.breitbart.com/africa/2026/04/18/exclusive-simon-urban-congos-denis-sassou-nguesso-positions-africas-most-stable-nation-as-a-global-power-player/",
+        "publishedAt": "2026-04-19T01:08:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LISA DAFTARI: Hormuz whiplash proves Tehran can't honor any deal it signs",
+        "description": "Tehran's reversal on the Strait of Hormuz shows the Iranian regime cannot be trusted to uphold deals, relying on constant threats for leverage.",
+        "url": "https://www.foxnews.com/opinion/lisa-daftari-hormuz-whiplash-proves-tehran-cant-honor-deal-signs",
+        "publishedAt": "2026-04-18T22:42:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Big Advertisers Settle Case with FTC over Leftist Censorship in Advertising and Suspected Collusion Against Breitbart, Other Conservatives",
+        "description": "Three of the world's largest advertising companies have settled with the FTC over claims they colluded on policies to combat alleged misinformation that denied advertising revenue to conservative publishers such as Breitbart News.\nThe post Big Advertisers Set…",
+        "url": "https://www.breitbart.com/politics/2026/04/18/big-advertisers-settle-case-ftc-over-leftist-censorship-advertising-suspected-collusion-against-breitbart-other-conservatives/",
+        "publishedAt": "2026-04-18T20:27:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mexico’s climate supercomputer could change forecasting",
+        "description": "Mexico is building the Coatlicue supercomputer to deliver sharper weather forecasts, earlier storm warnings and support artificial intelligence research.",
+        "url": "https://www.foxnews.com/tech/mexicos-climate-supercomputer-could-change-forecasting",
+        "publishedAt": "2026-04-18T18:43:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Walz rips Trump and Vance in Europe, says 'feeble-minded, trigger-happy president' has no exit plan for Iran",
+        "description": "Tim Walz slammed Donald Trump at a progressive conference in Spain, calling him a \"feeble-minded, trigger-happy president\" with \"no exit plan\" for the conflict with Iran.",
+        "url": "https://www.foxnews.com/politics/walz-rips-trump-vance-europe-says-feeble-minded-trigger-happy-president-exit-plan-iran",
+        "publishedAt": "2026-04-18T17:40:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
