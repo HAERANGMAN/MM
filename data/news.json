@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-21T00:09:03.872834+00:00",
+  "generated_at": "2026-04-21T03:45:05.262144+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Mark Levin: To say war violates God's word is simply not the case | Fox News Video",
+        "description": "Fox News host Mark Levin explores the concept of 'just war' across faiths on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6393446731112",
+        "publishedAt": "2026-04-20T01:13:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Distress call captures tanker under fire, Iran shuts Hormuz trapping thousands of sailors",
+        "description": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
+        "url": "https://www.foxnews.com/world/distress-call-captures-tanker-fire-iran-shuts-hormuz-trapping-thousands-sailors",
+        "publishedAt": "2026-04-20T01:03:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "We Have To Be Very Careful About Our Agenda With Iran, Victor Davis Hanson Argues",
+        "description": "Hoover Institution senior fellow Victor Davis Hanson reviews the many players who would be involved in a potential resolution to the conflict with Iran on ‘Life, Liberty & Levin.’",
+        "url": "https://www.foxnews.com/video/6393331888112",
+        "publishedAt": "2026-04-20T00:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Slain Iranian nuclear scientists raises alarm over uranium, expertise reaching black market",
+        "description": "The killing of Iranian nuclear scientists in U.S.-Israeli strikes raises fears over nuclear proliferation as experts warn of weakened material controls.",
+        "url": "https://www.foxnews.com/world/slain-iranian-nuclear-scientists-raises-alarm-uranium-expertise-reaching-black-market",
+        "publishedAt": "2026-04-19T20:46:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Waltz: Iran Claiming Ownership of Strait of Hormuz a 'Violation of International Law'",
+        "description": "On Sunday, on NBC's \"Meet the Press,\" U.S. Ambassador to the United Nations Mike Waltz said the Strait of Hormuz was an international waterway, thus Iran's claim of ownership \"is a violation of international law.\"\nThe post Waltz: Iran Claiming Ownership of St…",
+        "url": "https://www.breitbart.com/clips/2026/04/19/waltz-iran-claiming-ownership-of-strait-of-hormuz-a-violation-of-international-law/",
+        "publishedAt": "2026-04-19T18:27:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Distress call captures tanker under fire, Iran shuts Hormuz trapping thousands of sailors",
+        "description": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
+        "url": "https://www.foxnews.com/world/distress-call-captures-tanker-fire-iran-shuts-hormuz-trapping-thousands-sailors",
+        "publishedAt": "2026-04-20T01:03:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Barack and Michelle Obama's film production company reportedly leaving Netflix to go independent",
+        "description": "The Obamas' film production company Higher Ground is reportedly moving away from Netflix to become independent when its current deal expires later this year.",
+        "url": "https://www.foxnews.com/media/barack-michelle-obamas-film-production-company-reportedly-leaving-netflix-go-independent",
+        "publishedAt": "2026-04-20T01:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The Strokes end Coachella weekend two set with politically charged video targeting CIA and US government",
+        "description": "The Strokes appeared to take aim at the U.S. government during Coachella, closing their set with a video referencing the CIA, Gaza and Iran bombings.",
+        "url": "https://www.foxnews.com/entertainment/strokes-end-coachella-weekend-two-set-politically-charged-video-targeting-cia-us-government",
+        "publishedAt": "2026-04-19T23:12:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Survey finds nearly one-third of Long Island residents say Jews should 'move on' from the Holocaust",
+        "description": "A new survey of Long Islanders finds nearly one-third of residents believe Holocaust education should not be mandatory and Jewish people should \"move on.\"",
+        "url": "https://www.foxnews.com/us/survey-finds-nearly-one-third-long-island-residents-say-jews-move-holocaust",
+        "publishedAt": "2026-04-19T21:35:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NYU Students Streak in Their Skivvies to Protest College Merch",
+        "description": "New York University students put a new twist on the old practice of “streaking” as a group of them showed up nearly naked to protest their school’s high-priced merchandise and call attention to “worker’s rights.”\nThe post NYU Students Streak in Their Skivvies…",
+        "url": "https://www.breitbart.com/education/2026/04/19/nyu-students-streak-in-their-skivvies-to-protest-college-merch/",
+        "publishedAt": "2026-04-19T19:14:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
