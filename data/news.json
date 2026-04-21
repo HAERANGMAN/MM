@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-04-21T07:29:20.457309+00:00",
+  "generated_at": "2026-04-21T09:11:46.643046+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "MARY KATHARINE HAM: Republicans have a huge MAHA opportunity in 2026 — if they don’t blow it",
+        "description": "The MAHA movement gives Republicans a chance to win suburban moms in 2026 midterms by focusing on food quality, screen time and health transparency.",
+        "url": "https://www.foxnews.com/opinion/mary-katharine-ham-republicans-huge-maha-opportunity-2026-dont-blow",
+        "publishedAt": "2026-04-20T09:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Mamdani’s first 100-plus days: Far-left mayor flunks a key leadership test",
+        "description": "Two men allegedly attempted a terrorist attack in NYC, and Mayor Zohran Mamdani's response raises questions about the city's public safety future.",
+        "url": "https://www.foxnews.com/opinion/mamdanis-first-100-days-far-left-mayor-flunks-key-leadership-test",
+        "publishedAt": "2026-04-20T09:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "100"
+      },
       {
         "title": "Trump pushes shaky deal with Iran as Hormuz is shut again, but opponents give him no credit for progress",
         "description": "Despite President Trump striking a ceasefire with Iran and pressuring Israel to halt Lebanon attacks, opponents and media still refuse to give him any credit.",
@@ -33,31 +53,32 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Distress call captures tanker under fire, Iran shuts Hormuz trapping thousands of sailors",
-        "description": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
-        "url": "https://www.foxnews.com/world/distress-call-captures-tanker-fire-iran-shuts-hormuz-trapping-thousands-sailors",
-        "publishedAt": "2026-04-20T01:03:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "We Have To Be Very Careful About Our Agenda With Iran, Victor Davis Hanson Argues",
-        "description": "Hoover Institution senior fellow Victor Davis Hanson reviews the many players who would be involved in a potential resolution to the conflict with Iran on ‘Life, Liberty & Levin.’",
-        "url": "https://www.foxnews.com/video/6393331888112",
-        "publishedAt": "2026-04-20T00:00:00Z",
+        "title": "Trump may claim he won the fight with Iran, but there’s a bigger war already underway",
+        "description": "President Trump's Iran campaign pressured Tehran but accelerated a China-Russia-Iran axis while pushing NATO closer to a historic break.",
+        "url": "https://www.foxnews.com/opinion/trump-may-claim-won-fight-iran-theres-bigger-war-already-underway",
+        "publishedAt": "2026-04-20T09:00:04Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Mamdani’s first 100-plus days: Far-left mayor flunks a key leadership test",
+        "description": "Two men allegedly attempted a terrorist attack in NYC, and Mayor Zohran Mamdani's response raises questions about the city's public safety future.",
+        "url": "https://www.foxnews.com/opinion/mamdanis-first-100-days-far-left-mayor-flunks-key-leadership-test",
+        "publishedAt": "2026-04-20T09:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "100"
+      },
       {
         "title": "Trump pushes shaky deal with Iran as Hormuz is shut again, but opponents give him no credit for progress",
         "description": "Despite President Trump striking a ceasefire with Iran and pressuring Israel to halt Lebanon attacks, opponents and media still refuse to give him any credit.",
@@ -93,16 +114,6 @@
         "description": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
         "url": "https://www.foxnews.com/world/distress-call-captures-tanker-fire-iran-shuts-hormuz-trapping-thousands-sailors",
         "publishedAt": "2026-04-20T01:03:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Barack and Michelle Obama's film production company reportedly leaving Netflix to go independent",
-        "description": "The Obamas' film production company Higher Ground is reportedly moving away from Netflix to become independent when its current deal expires later this year.",
-        "url": "https://www.foxnews.com/media/barack-michelle-obamas-film-production-company-reportedly-leaving-netflix-go-independent",
-        "publishedAt": "2026-04-20T01:00:24Z",
         "source": {
           "name": "Fox News"
         },
