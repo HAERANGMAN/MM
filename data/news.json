@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-04-21T09:11:46.643046+00:00",
+  "generated_at": "2026-04-21T10:44:25.895059+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "MARY KATHARINE HAM: Republicans have a huge MAHA opportunity in 2026 — if they don’t blow it",
-        "description": "The MAHA movement gives Republicans a chance to win suburban moms in 2026 midterms by focusing on food quality, screen time and health transparency.",
-        "url": "https://www.foxnews.com/opinion/mary-katharine-ham-republicans-huge-maha-opportunity-2026-dont-blow",
-        "publishedAt": "2026-04-20T09:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Mamdani’s first 100-plus days: Far-left mayor flunks a key leadership test",
-        "description": "Two men allegedly attempted a terrorist attack in NYC, and Mayor Zohran Mamdani's response raises questions about the city's public safety future.",
-        "url": "https://www.foxnews.com/opinion/mamdanis-first-100-days-far-left-mayor-flunks-key-leadership-test",
-        "publishedAt": "2026-04-20T09:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Trump pushes shaky deal with Iran as Hormuz is shut again, but opponents give him no credit for progress",
-        "description": "Despite President Trump striking a ceasefire with Iran and pressuring Israel to halt Lebanon attacks, opponents and media still refuse to give him any credit.",
-        "url": "https://www.foxnews.com/opinion/trump-pushes-shaky-deal-iran-hormuz-shut-again-opponents-give-him-no-credit-progress",
-        "publishedAt": "2026-04-20T07:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Investors bet ‘Peak Uncertainty’ has passed as Asia stocks climb",
-        "description": "A more favourable outlook for negotiations, a revival of the artificial intelligence trade and renewed focus on corporate fundamentals as the earnings season unfolds are driving sentiment",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-20/investors-bet-peak-uncertainty-has-passed-as-asia-stocks-climb",
-        "publishedAt": "2026-04-20T06:19:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mark Levin: To say war violates God's word is simply not the case | Fox News Video",
-        "description": "Fox News host Mark Levin explores the concept of 'just war' across faiths on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6393446731112",
-        "publishedAt": "2026-04-20T01:13:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump may claim he won the fight with Iran, but there’s a bigger war already underway",
-        "description": "President Trump's Iran campaign pressured Tehran but accelerated a China-Russia-Iran axis while pushing NATO closer to a historic break.",
-        "url": "https://www.foxnews.com/opinion/trump-may-claim-won-fight-iran-theres-bigger-war-already-underway",
-        "publishedAt": "2026-04-20T09:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Mamdani’s first 100-plus days: Far-left mayor flunks a key leadership test",
-        "description": "Two men allegedly attempted a terrorist attack in NYC, and Mayor Zohran Mamdani's response raises questions about the city's public safety future.",
-        "url": "https://www.foxnews.com/opinion/mamdanis-first-100-days-far-left-mayor-flunks-key-leadership-test",
-        "publishedAt": "2026-04-20T09:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Trump pushes shaky deal with Iran as Hormuz is shut again, but opponents give him no credit for progress",
-        "description": "Despite President Trump striking a ceasefire with Iran and pressuring Israel to halt Lebanon attacks, opponents and media still refuse to give him any credit.",
-        "url": "https://www.foxnews.com/opinion/trump-pushes-shaky-deal-iran-hormuz-shut-again-opponents-give-him-no-credit-progress",
-        "publishedAt": "2026-04-20T07:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global 2025 power demand rose as EV, data centers grew, IEA Says",
-        "description": "Global power demand surged in 2025, driven by EVs and data centers, with solar leading energy supply growth, IEA reports.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-20/global-2025-power-demand-rose-as-ev-data-centers-grew-iea-says",
-        "publishedAt": "2026-04-20T06:27:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2025"
-      },
-      {
-        "title": "Investors bet ‘Peak Uncertainty’ has passed as Asia stocks climb",
-        "description": "A more favourable outlook for negotiations, a revival of the artificial intelligence trade and renewed focus on corporate fundamentals as the earnings season unfolds are driving sentiment",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-20/investors-bet-peak-uncertainty-has-passed-as-asia-stocks-climb",
-        "publishedAt": "2026-04-20T06:19:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Distress call captures tanker under fire, Iran shuts Hormuz trapping thousands of sailors",
-        "description": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
-        "url": "https://www.foxnews.com/world/distress-call-captures-tanker-fire-iran-shuts-hormuz-trapping-thousands-sailors",
-        "publishedAt": "2026-04-20T01:03:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
