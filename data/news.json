@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-04-21T05:54:21.488493+00:00",
+  "generated_at": "2026-04-21T07:29:20.457309+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Trump pushes shaky deal with Iran as Hormuz is shut again, but opponents give him no credit for progress",
+        "description": "Despite President Trump striking a ceasefire with Iran and pressuring Israel to halt Lebanon attacks, opponents and media still refuse to give him any credit.",
+        "url": "https://www.foxnews.com/opinion/trump-pushes-shaky-deal-iran-hormuz-shut-again-opponents-give-him-no-credit-progress",
+        "publishedAt": "2026-04-20T07:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Investors bet ‘Peak Uncertainty’ has passed as Asia stocks climb",
+        "description": "A more favourable outlook for negotiations, a revival of the artificial intelligence trade and renewed focus on corporate fundamentals as the earnings season unfolds are driving sentiment",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-20/investors-bet-peak-uncertainty-has-passed-as-asia-stocks-climb",
+        "publishedAt": "2026-04-20T06:19:48Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Mark Levin: To say war violates God's word is simply not the case | Fox News Video",
         "description": "Fox News host Mark Levin explores the concept of 'just war' across faiths on 'Life, Liberty & Levin.'",
@@ -33,31 +53,41 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": [
       {
-        "title": "Slain Iranian nuclear scientists raises alarm over uranium, expertise reaching black market",
-        "description": "The killing of Iranian nuclear scientists in U.S.-Israeli strikes raises fears over nuclear proliferation as experts warn of weakened material controls.",
-        "url": "https://www.foxnews.com/world/slain-iranian-nuclear-scientists-raises-alarm-uranium-expertise-reaching-black-market",
-        "publishedAt": "2026-04-19T20:46:13Z",
+        "title": "Trump pushes shaky deal with Iran as Hormuz is shut again, but opponents give him no credit for progress",
+        "description": "Despite President Trump striking a ceasefire with Iran and pressuring Israel to halt Lebanon attacks, opponents and media still refuse to give him any credit.",
+        "url": "https://www.foxnews.com/opinion/trump-pushes-shaky-deal-iran-hormuz-shut-again-opponents-give-him-no-credit-progress",
+        "publishedAt": "2026-04-20T07:00:44Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Waltz: Iran Claiming Ownership of Strait of Hormuz a 'Violation of International Law'",
-        "description": "On Sunday, on NBC's \"Meet the Press,\" U.S. Ambassador to the United Nations Mike Waltz said the Strait of Hormuz was an international waterway, thus Iran's claim of ownership \"is a violation of international law.\"\nThe post Waltz: Iran Claiming Ownership of St…",
-        "url": "https://www.breitbart.com/clips/2026/04/19/waltz-iran-claiming-ownership-of-strait-of-hormuz-a-violation-of-international-law/",
-        "publishedAt": "2026-04-19T18:27:51Z",
+        "title": "Global 2025 power demand rose as EV, data centers grew, IEA Says",
+        "description": "Global power demand surged in 2025, driven by EVs and data centers, with solar leading energy supply growth, IEA reports.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-20/global-2025-power-demand-rose-as-ev-data-centers-grew-iea-says",
+        "publishedAt": "2026-04-20T06:27:18Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Bloomberg"
+        },
+        "numericHint": "2025"
+      },
+      {
+        "title": "Investors bet ‘Peak Uncertainty’ has passed as Asia stocks climb",
+        "description": "A more favourable outlook for negotiations, a revival of the artificial intelligence trade and renewed focus on corporate fundamentals as the earnings season unfolds are driving sentiment",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-20/investors-bet-peak-uncertainty-has-passed-as-asia-stocks-climb",
+        "publishedAt": "2026-04-20T06:19:48Z",
+        "source": {
+          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": [
+      },
       {
         "title": "Distress call captures tanker under fire, Iran shuts Hormuz trapping thousands of sailors",
         "description": "Hundreds of oil tankers are stranded at the Strait of Hormuz after Iran shut the chokepoint, with crews reporting gunfire and traumatic experiences.",
@@ -75,36 +105,6 @@
         "publishedAt": "2026-04-20T01:00:24Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The Strokes end Coachella weekend two set with politically charged video targeting CIA and US government",
-        "description": "The Strokes appeared to take aim at the U.S. government during Coachella, closing their set with a video referencing the CIA, Gaza and Iran bombings.",
-        "url": "https://www.foxnews.com/entertainment/strokes-end-coachella-weekend-two-set-politically-charged-video-targeting-cia-us-government",
-        "publishedAt": "2026-04-19T23:12:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Survey finds nearly one-third of Long Island residents say Jews should 'move on' from the Holocaust",
-        "description": "A new survey of Long Islanders finds nearly one-third of residents believe Holocaust education should not be mandatory and Jewish people should \"move on.\"",
-        "url": "https://www.foxnews.com/us/survey-finds-nearly-one-third-long-island-residents-say-jews-move-holocaust",
-        "publishedAt": "2026-04-19T21:35:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NYU Students Streak in Their Skivvies to Protest College Merch",
-        "description": "New York University students put a new twist on the old practice of “streaking” as a group of them showed up nearly naked to protest their school’s high-priced merchandise and call attention to “worker’s rights.”\nThe post NYU Students Streak in Their Skivvies…",
-        "url": "https://www.breitbart.com/education/2026/04/19/nyu-students-streak-in-their-skivvies-to-protest-college-merch/",
-        "publishedAt": "2026-04-19T19:14:00Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
