@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-04-22T06:14:03.644145+00:00",
+  "generated_at": "2026-04-22T08:08:21.100297+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Democrats taking the Senate? Seriously? Despite Trump’s sinking polls, it’s probably a media fantasy",
+        "description": "Democrats winning the Senate is generating buzz, but the path requires nearly impossible wins in multiple reliably Republican states this cycle.",
+        "url": "https://www.foxnews.com/media/democrats-taking-senate-seriously-despite-trumps-sinking-polls-its-probably-media-fantasy",
+        "publishedAt": "2026-04-21T07:00:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Indian debt funds cut hedges as oil risks inflate rate-hike bets",
+        "description": "The two-year swap rate is still trading near 6%, about 40 basis points above levels before the Iran conflict, showing markets continue to price in higher-for-longer interest rates",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-21/indian-debt-funds-cut-hedges-as-oil-risks-inflate-rate-hike-bets",
+        "publishedAt": "2026-04-21T05:53:59Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "6"
+      },
+      {
+        "title": "Iran Claims It Will Not Join Pakistan Peace Talks",
+        "description": "Iranian state media reported on Sunday night that Tehran is not planning to attend peace talks announced by President Donald Trump and scheduled for Islamabad, Pakistan, on Tuesday.\nThe post Iran Claims It Will Not Join Pakistan Peace Talks appeared first on …",
+        "url": "https://www.breitbart.com/middle-east/2026/04/20/iran-claims-not-join-pakistan-peace-talks/",
+        "publishedAt": "2026-04-21T02:02:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NFL restricts access to draft prospects' contact info after 2025 Shedeur Sanders prank call: report",
+        "description": "The NFL is now reportedly restricting access to draft prospects' contact information after a prank call to Shedeur Sanders went viral during the 2025 draft.",
+        "url": "https://www.foxnews.com/sports/nfl-restricts-access-draft-prospects-contact-info-2025-shedeur-sanders-prank-call-report",
+        "publishedAt": "2026-04-21T01:52:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2025"
+      },
+      {
+        "title": "Tim Walz PAC Launch: ‘Republicans Like JD Vance’ Are ‘Problem Facing Small Towns’",
+        "description": "Failed Democratic vice presidential nominee and Minnesota Gov. Tim Walz is launching a political committee aimed at rural communities despite massive fraud scandals in his home state and his recent pledge to stand with Minnesota’s Somali community.\nThe post T…",
+        "url": "https://www.breitbart.com/politics/2026/04/20/tim-walz-republicans-jd-vance-problem-facing-small-towns-pac-launch/",
+        "publishedAt": "2026-04-21T01:17:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Russia's Allies in Occupied Ukraine Seek to Strengthen North Korea’s Foothold in Europe",
+        "description": "A Russian official selected to control the occupied Ukrainian region of Kherson revealed that he had recently met with North Korea’s top diplomat in Moscow to discuss the country potentially buying agricultural products seized in the ongoing invasion, South K…",
+        "url": "https://www.breitbart.com/asia/2026/04/20/russias-allies-in-occupied-ukraine-seek-to-strengthen-north-koreas-foothold-in-europe/",
+        "publishedAt": "2026-04-20T14:00:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump may claim he won the fight with Iran, but there’s a bigger war already underway",
+        "description": "President Trump's Iran campaign pressured Tehran but accelerated a China-Russia-Iran axis while pushing NATO closer to a historic break.",
+        "url": "https://www.foxnews.com/opinion/trump-may-claim-won-fight-iran-theres-bigger-war-already-underway",
+        "publishedAt": "2026-04-20T09:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Inox Clean Energy eyes reviving IPO plan to raise $1 billion",
+        "description": "Inox Clean Energy Ltd. has revived plans for an initial public offering that could raise as much as $1 billion, according to people familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-21/inox-clean-is-said-to-revive-plan-for-up-to-1-billion-india-ipo",
+        "publishedAt": "2026-04-21T06:47:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Israel Unmasks Iranian ‘Unit 4000’ Global Terror Network — Top IRGC Commanders Eliminated, Major Plots Foiled",
+        "description": "Israel on Monday exposed the global terror network operated by Iran’s Islamic Revolutionary Guard Corps (IRGC) through its covert “Unit 4000,” detailing how the apparatus directed plots against Israeli officials, embassies, and strategic infrastructure worldw…",
+        "url": "https://www.breitbart.com/politics/2026/04/20/israel-unmasks-iranian-unit-4000-global-terror-network/",
+        "publishedAt": "2026-04-21T00:39:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4000"
+      },
+      {
+        "title": "Two Dead After 'Planned Fight' Escalates into Shootout in North Carolina",
+        "description": "Two people are dead after a \"planned fight\" turned into a shootout in Winston-Salem, North Carolina, just before 10 a.m. Monday, according to WXII.\nThe post Two Dead After ‘Planned Fight’ Escalates into Shootout in North Carolina appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/20/two-dead-after-planned-fight-escalates-into-shootout-in-north-carolina/",
+        "publishedAt": "2026-04-20T20:15:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Senate Republicans Move to Stop State Democrat 'Climate Lawfare' from Stifling American Energy Production",
+        "description": "Senate Republicans on Monday introduced legislation that would bar Democrat states from punishing American energy producers via \"climate lawfare,\" contending that the Democrat laws amount to nothing more than a \"climate shakedown.\"\nThe post Senate Republicans…",
+        "url": "https://www.breitbart.com/politics/2026/04/20/senate-republicans-move-to-stop-state-democrat-climate-lawfare-from-stifling-american-energy-production/",
+        "publishedAt": "2026-04-20T20:04:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Gunman Who Killed Eight Children Was Given Probation for Gun Charge in 2019 Plea Deal",
+        "description": "The man who shot and killed eight children in Shreveport, Louisiana, on Sunday was reportedly given probation for a gun charge in a 2019 plea deal.\nThe post Report: Gunman Who Killed Eight Children Was Given Probation for Gun Charge in 2019 Plea Deal appeared…",
+        "url": "https://www.breitbart.com/politics/2026/04/20/report-gunman-who-killed-8-children-was-given-probation-for-gun-charge-in-2019-plea-deal/",
+        "publishedAt": "2026-04-20T19:52:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2019"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
