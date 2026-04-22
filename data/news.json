@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-04-22T09:50:26.335904+00:00",
+  "generated_at": "2026-04-22T10:54:40.042858+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "MORNING GLORY: President Trump must reject a second Munich and hold firm again Iran",
-        "description": "Hugh Hewitt argues Trump must demand Iran's full capitulation on enrichment, missiles and terrorism rather than accepting a partial deal in Islamabad.",
-        "url": "https://www.foxnews.com/opinion/morning-glory-president-trump-must-reject-second-munich-hold-firm-iran",
-        "publishedAt": "2026-04-21T09:00:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "LIZ PEEK: Warring Democrats will need more than Trump hatred to win in 2028",
-        "description": "Democrats remain united against President Trump, but deep divisions between progressives and moderates threaten to fracture the party by 2028.",
-        "url": "https://www.foxnews.com/opinion/liz-peek-warring-democrats-need-trump-hatred-win-2028",
-        "publishedAt": "2026-04-21T09:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Warsh faces high-stakes Senate confirmation hearing to lead world’s most powerful central bank",
-        "description": "Kevin Warsh heads into a high-stakes Senate confirmation hearing as Trump's pick to lead the Federal Reserve amid mounting economic and legal pressure.",
-        "url": "https://www.foxnews.com/politics/warsh-faces-high-stakes-senate-confirmation-hearing-lead-worlds-most-powerful-central-bank",
-        "publishedAt": "2026-04-21T09:00:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrats taking the Senate? Seriously? Despite Trump’s sinking polls, it’s probably a media fantasy",
-        "description": "Democrats winning the Senate is generating buzz, but the path requires nearly impossible wins in multiple reliably Republican states this cycle.",
-        "url": "https://www.foxnews.com/media/democrats-taking-senate-seriously-despite-trumps-sinking-polls-its-probably-media-fantasy",
-        "publishedAt": "2026-04-21T07:00:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Indian debt funds cut hedges as oil risks inflate rate-hike bets",
-        "description": "The two-year swap rate is still trading near 6%, about 40 basis points above levels before the Iran conflict, showing markets continue to price in higher-for-longer interest rates",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-21/indian-debt-funds-cut-hedges-as-oil-risks-inflate-rate-hike-bets",
-        "publishedAt": "2026-04-21T05:53:59Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "6"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Russia's Allies in Occupied Ukraine Seek to Strengthen North Korea’s Foothold in Europe",
-        "description": "A Russian official selected to control the occupied Ukrainian region of Kherson revealed that he had recently met with North Korea’s top diplomat in Moscow to discuss the country potentially buying agricultural products seized in the ongoing invasion, South K…",
-        "url": "https://www.breitbart.com/asia/2026/04/20/russias-allies-in-occupied-ukraine-seek-to-strengthen-north-koreas-foothold-in-europe/",
-        "publishedAt": "2026-04-20T14:00:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "LIZ PEEK: Warring Democrats will need more than Trump hatred to win in 2028",
-        "description": "Democrats remain united against President Trump, but deep divisions between progressives and moderates threaten to fracture the party by 2028.",
-        "url": "https://www.foxnews.com/opinion/liz-peek-warring-democrats-need-trump-hatred-win-2028",
-        "publishedAt": "2026-04-21T09:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Inox Clean Energy eyes reviving IPO plan to raise $1 billion",
-        "description": "Inox Clean Energy Ltd. has revived plans for an initial public offering that could raise as much as $1 billion, according to people familiar with the matter.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-21/inox-clean-is-said-to-revive-plan-for-up-to-1-billion-india-ipo",
-        "publishedAt": "2026-04-21T06:47:20Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Israel Unmasks Iranian ‘Unit 4000’ Global Terror Network — Top IRGC Commanders Eliminated, Major Plots Foiled",
-        "description": "Israel on Monday exposed the global terror network operated by Iran’s Islamic Revolutionary Guard Corps (IRGC) through its covert “Unit 4000,” detailing how the apparatus directed plots against Israeli officials, embassies, and strategic infrastructure worldw…",
-        "url": "https://www.breitbart.com/politics/2026/04/20/israel-unmasks-iranian-unit-4000-global-terror-network/",
-        "publishedAt": "2026-04-21T00:39:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4000"
-      },
-      {
-        "title": "Two Dead After 'Planned Fight' Escalates into Shootout in North Carolina",
-        "description": "Two people are dead after a \"planned fight\" turned into a shootout in Winston-Salem, North Carolina, just before 10 a.m. Monday, according to WXII.\nThe post Two Dead After ‘Planned Fight’ Escalates into Shootout in North Carolina appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/20/two-dead-after-planned-fight-escalates-into-shootout-in-north-carolina/",
-        "publishedAt": "2026-04-20T20:15:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Senate Republicans Move to Stop State Democrat 'Climate Lawfare' from Stifling American Energy Production",
-        "description": "Senate Republicans on Monday introduced legislation that would bar Democrat states from punishing American energy producers via \"climate lawfare,\" contending that the Democrat laws amount to nothing more than a \"climate shakedown.\"\nThe post Senate Republicans…",
-        "url": "https://www.breitbart.com/politics/2026/04/20/senate-republicans-move-to-stop-state-democrat-climate-lawfare-from-stifling-american-energy-production/",
-        "publishedAt": "2026-04-20T20:04:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
