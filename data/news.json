@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-04-22T08:08:21.100297+00:00",
+  "generated_at": "2026-04-22T09:50:26.335904+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "MORNING GLORY: President Trump must reject a second Munich and hold firm again Iran",
+        "description": "Hugh Hewitt argues Trump must demand Iran's full capitulation on enrichment, missiles and terrorism rather than accepting a partial deal in Islamabad.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-president-trump-must-reject-second-munich-hold-firm-iran",
+        "publishedAt": "2026-04-21T09:00:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LIZ PEEK: Warring Democrats will need more than Trump hatred to win in 2028",
+        "description": "Democrats remain united against President Trump, but deep divisions between progressives and moderates threaten to fracture the party by 2028.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-warring-democrats-need-trump-hatred-win-2028",
+        "publishedAt": "2026-04-21T09:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "Warsh faces high-stakes Senate confirmation hearing to lead world’s most powerful central bank",
+        "description": "Kevin Warsh heads into a high-stakes Senate confirmation hearing as Trump's pick to lead the Federal Reserve amid mounting economic and legal pressure.",
+        "url": "https://www.foxnews.com/politics/warsh-faces-high-stakes-senate-confirmation-hearing-lead-worlds-most-powerful-central-bank",
+        "publishedAt": "2026-04-21T09:00:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Democrats taking the Senate? Seriously? Despite Trump’s sinking polls, it’s probably a media fantasy",
         "description": "Democrats winning the Senate is generating buzz, but the path requires nearly impossible wins in multiple reliably Republican states this cycle.",
@@ -23,36 +53,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "6"
-      },
-      {
-        "title": "Iran Claims It Will Not Join Pakistan Peace Talks",
-        "description": "Iranian state media reported on Sunday night that Tehran is not planning to attend peace talks announced by President Donald Trump and scheduled for Islamabad, Pakistan, on Tuesday.\nThe post Iran Claims It Will Not Join Pakistan Peace Talks appeared first on …",
-        "url": "https://www.breitbart.com/middle-east/2026/04/20/iran-claims-not-join-pakistan-peace-talks/",
-        "publishedAt": "2026-04-21T02:02:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NFL restricts access to draft prospects' contact info after 2025 Shedeur Sanders prank call: report",
-        "description": "The NFL is now reportedly restricting access to draft prospects' contact information after a prank call to Shedeur Sanders went viral during the 2025 draft.",
-        "url": "https://www.foxnews.com/sports/nfl-restricts-access-draft-prospects-contact-info-2025-shedeur-sanders-prank-call-report",
-        "publishedAt": "2026-04-21T01:52:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
-      },
-      {
-        "title": "Tim Walz PAC Launch: ‘Republicans Like JD Vance’ Are ‘Problem Facing Small Towns’",
-        "description": "Failed Democratic vice presidential nominee and Minnesota Gov. Tim Walz is launching a political committee aimed at rural communities despite massive fraud scandals in his home state and his recent pledge to stand with Minnesota’s Somali community.\nThe post T…",
-        "url": "https://www.breitbart.com/politics/2026/04/20/tim-walz-republicans-jd-vance-problem-facing-small-towns-pac-launch/",
-        "publishedAt": "2026-04-21T01:17:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -65,20 +65,20 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump may claim he won the fight with Iran, but there’s a bigger war already underway",
-        "description": "President Trump's Iran campaign pressured Tehran but accelerated a China-Russia-Iran axis while pushing NATO closer to a historic break.",
-        "url": "https://www.foxnews.com/opinion/trump-may-claim-won-fight-iran-theres-bigger-war-already-underway",
-        "publishedAt": "2026-04-20T09:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "LIZ PEEK: Warring Democrats will need more than Trump hatred to win in 2028",
+        "description": "Democrats remain united against President Trump, but deep divisions between progressives and moderates threaten to fracture the party by 2028.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-warring-democrats-need-trump-hatred-win-2028",
+        "publishedAt": "2026-04-21T09:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
       {
         "title": "Inox Clean Energy eyes reviving IPO plan to raise $1 billion",
         "description": "Inox Clean Energy Ltd. has revived plans for an initial public offering that could raise as much as $1 billion, according to people familiar with the matter.",
@@ -118,16 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Gunman Who Killed Eight Children Was Given Probation for Gun Charge in 2019 Plea Deal",
-        "description": "The man who shot and killed eight children in Shreveport, Louisiana, on Sunday was reportedly given probation for a gun charge in a 2019 plea deal.\nThe post Report: Gunman Who Killed Eight Children Was Given Probation for Gun Charge in 2019 Plea Deal appeared…",
-        "url": "https://www.breitbart.com/politics/2026/04/20/report-gunman-who-killed-8-children-was-given-probation-for-gun-charge-in-2019-plea-deal/",
-        "publishedAt": "2026-04-20T19:52:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2019"
       }
     ]
   },
