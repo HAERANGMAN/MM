@@ -1,19 +1,126 @@
 {
-  "generated_at": "2026-04-22T10:54:40.042858+00:00",
+  "generated_at": "2026-04-22T11:58:25.812013+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Hungary's Protection of Minors from LGBTQI+ Dogma Ruled Unlawful by E.U. Court",
+        "description": "Hungarian legislation shielding minors from exposure to LGBTQI+ dogma violates European Union (E.U.) law and hurts respect for human rights and equality, the bloc’s court ruled Tuesday.\nThe post Hungary’s Protection of Minors from LGBTQI+ Dogma Ruled Unlawful…",
+        "url": "https://www.breitbart.com/europe/2026/04/21/hungarys-protection-of-minors-from-lgbtqi-dogma-ruled-unlawful-by-e-u-court/",
+        "publishedAt": "2026-04-21T11:05:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trucking company owner suing state over 'millionaires tax' says policy hits small businesses",
+        "description": "Washington's newly signed income tax on earnings over $1 million faces a lawsuit alleging it violates the state Constitution and hurts small businesses.",
+        "url": "https://www.foxnews.com/media/trucking-company-owner-suing-state-millionaires-tax-says-policy-hits-small-businesses",
+        "publishedAt": "2026-04-21T11:00:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Healthy diets spark lung cancer risk in non-smokers as pesticides loom",
+        "description": "Younger non-smokers who ate diets rich in fruits, vegetables and whole grains showed a surprising link to lung cancer, early research suggests.",
+        "url": "https://www.foxnews.com/health/healthy-diets-spark-lung-cancer-risk-non-smokers-pesticides-loom",
+        "publishedAt": "2026-04-21T10:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran’s Revolutionary Guard sidelines president as military grip expands",
+        "description": "Iran's Islamic Revolutionary Guard Corps effectively has assumed control over key state functions and blocked presidential appointments, according to an Iran International report.",
+        "url": "https://www.foxnews.com/world/irans-revolutionary-guard-sidelines-president-military-grip-expands",
+        "publishedAt": "2026-04-21T10:00:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "MORNING GLORY: President Trump must reject a second Munich and hold firm again Iran",
+        "description": "Hugh Hewitt argues Trump must demand Iran's full capitulation on enrichment, missiles and terrorism rather than accepting a partial deal in Islamabad.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-president-trump-must-reject-second-munich-hold-firm-iran",
+        "publishedAt": "2026-04-21T09:00:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Russia's Allies in Occupied Ukraine Seek to Strengthen North Korea’s Foothold in Europe",
+        "description": "A Russian official selected to control the occupied Ukrainian region of Kherson revealed that he had recently met with North Korea’s top diplomat in Moscow to discuss the country potentially buying agricultural products seized in the ongoing invasion, South K…",
+        "url": "https://www.breitbart.com/asia/2026/04/20/russias-allies-in-occupied-ukraine-seek-to-strengthen-north-koreas-foothold-in-europe/",
+        "publishedAt": "2026-04-20T14:00:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Healthy diets spark lung cancer risk in non-smokers as pesticides loom",
+        "description": "Younger non-smokers who ate diets rich in fruits, vegetables and whole grains showed a surprising link to lung cancer, early research suggests.",
+        "url": "https://www.foxnews.com/health/healthy-diets-spark-lung-cancer-risk-non-smokers-pesticides-loom",
+        "publishedAt": "2026-04-21T10:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LIZ PEEK: Warring Democrats will need more than Trump hatred to win in 2028",
+        "description": "Democrats remain united against President Trump, but deep divisions between progressives and moderates threaten to fracture the party by 2028.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-warring-democrats-need-trump-hatred-win-2028",
+        "publishedAt": "2026-04-21T09:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "Inox Clean Energy eyes reviving IPO plan to raise $1 billion",
+        "description": "Inox Clean Energy Ltd. has revived plans for an initial public offering that could raise as much as $1 billion, according to people familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-21/inox-clean-is-said-to-revive-plan-for-up-to-1-billion-india-ipo",
+        "publishedAt": "2026-04-21T06:47:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Israel Unmasks Iranian ‘Unit 4000’ Global Terror Network — Top IRGC Commanders Eliminated, Major Plots Foiled",
+        "description": "Israel on Monday exposed the global terror network operated by Iran’s Islamic Revolutionary Guard Corps (IRGC) through its covert “Unit 4000,” detailing how the apparatus directed plots against Israeli officials, embassies, and strategic infrastructure worldw…",
+        "url": "https://www.breitbart.com/politics/2026/04/20/israel-unmasks-iranian-unit-4000-global-terror-network/",
+        "publishedAt": "2026-04-21T00:39:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4000"
+      },
+      {
+        "title": "Two Dead After 'Planned Fight' Escalates into Shootout in North Carolina",
+        "description": "Two people are dead after a \"planned fight\" turned into a shootout in Winston-Salem, North Carolina, just before 10 a.m. Monday, according to WXII.\nThe post Two Dead After ‘Planned Fight’ Escalates into Shootout in North Carolina appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/20/two-dead-after-planned-fight-escalates-into-shootout-in-north-carolina/",
+        "publishedAt": "2026-04-20T20:15:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      }
+    ]
   },
-  "errors": {
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
