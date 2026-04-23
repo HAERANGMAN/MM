@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-23T18:46:26.370829+00:00",
+  "generated_at": "2026-04-23T19:56:49.366720+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Wall Street Banks Go on AI-Powered Layoff Spree as Profits Soar",
-        "description": "Major Wall Street institutions are crediting AI with enabling significant workforce reductions even as quarterly earnings soar.\nThe post Wall Street Banks Go on AI-Powered Layoff Spree as Profits Soar appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/tech/2026/04/22/wall-street-banks-go-on-ai-powered-layoff-spree-as-profits-soar/",
-        "publishedAt": "2026-04-22T18:27:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jeffries calls Trump 'dumbest person ever' to sit at 1600 Pennsylvania Avenue",
-        "description": "Rep. Hakeem Jeffries calls Trump the dumbest person to ever sit at the White House, responding to the president calling him a low IQ person on Tuesday.",
-        "url": "https://www.foxnews.com/media/jeffries-calls-trump-dumbest-person-ever-sit-1600-pennsylvania-avenue",
-        "publishedAt": "2026-04-22T18:15:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1600"
-      },
-      {
-        "title": "Trump claims Iran 'starving for cash,' 'collapsing financially' after extending ceasefire",
-        "description": "President Donald Trump claims Iran is collapsing financially and losing $500 million a day as he extends the ceasefire and maintains a U.S. blockade of the country.",
-        "url": "https://www.foxnews.com/politics/trump-claims-iran-starving-cash-collapsing-financially-extending-ceasefire",
-        "publishedAt": "2026-04-22T17:52:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Pirro warns car theft ring used new tech to quickly access vehicles: 'Gone in 60 seconds'",
-        "description": "A federal indictment alleges a car theft ring used electronic Autel devices to steal nearly $1 million in vehicles and ship them to Africa for resale.",
-        "url": "https://www.foxnews.com/us/pirro-warns-car-theft-ring-used-new-tech-quickly-access-vehicles-gone-60-seconds",
-        "publishedAt": "2026-04-22T17:21:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Powerful illegal streaming ringleader jailed, fined millions over global operation",
-        "description": "A Rolex-wearing illegal streaming ringleader was sentenced to 23 months in prison and fined millions after pirating sports and entertainment content.",
-        "url": "https://www.foxnews.com/outkick-sports/powerful-illegal-streaming-ringleader-jailed-fined-millions-global-operation",
-        "publishedAt": "2026-04-22T17:13:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "23"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Breitbart's Boyle: 'A Good Outcome for the United States Is a Good Outcome for the Civilized World'",
-        "description": "\"A good outcome for the United States is a good outcome for the civilized world,\" Breitbart News Washington Bureau Chief Matthew Boyle said during an interview with Right2theBone and the Greek Conservative Network.\nThe post Breitbart’s Boyle: ‘A Good Outcome …",
-        "url": "https://www.breitbart.com/politics/2026/04/22/breitbarts-boyle-a-good-outcome-for-the-united-states-is-a-good-outcome-for-the-civilized-world/",
-        "publishedAt": "2026-04-22T17:37:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Powerful illegal streaming ringleader jailed, fined millions over global operation",
-        "description": "A Rolex-wearing illegal streaming ringleader was sentenced to 23 months in prison and fined millions after pirating sports and entertainment content.",
-        "url": "https://www.foxnews.com/outkick-sports/powerful-illegal-streaming-ringleader-jailed-fined-millions-global-operation",
-        "publishedAt": "2026-04-22T17:13:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "23"
-      },
-      {
-        "title": "AI Security Breach: Anthropic Investigates Unauthorized Access to Powerful 'Claude Mythos' Model",
-        "description": "AI startup Anthropic is investigating reports that a group of users gained unauthorized access to its Claude Mythos model, a powerful AI system that was deliberately released to only a small circle of trusted companies due to its advanced cybersecurity capabi…",
-        "url": "https://www.breitbart.com/tech/2026/04/22/ai-security-breach-anthropic-investigates-unauthorized-access-to-powerful-claude-mythos-model/",
-        "publishedAt": "2026-04-22T16:53:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran seizes ships in Hormuz as US talks falter after ceasefire extension",
-        "description": "Iran's Revolutionary Guard seized two ships in the Strait of Hormuz hours after Trump extended the ceasefire, escalating the U.S.-Iran maritime standoff.",
-        "url": "https://www.foxnews.com/politics/iran-seizes-ships-hormuz-us-talks-falter-after-ceasefire-extension",
-        "publishedAt": "2026-04-22T16:10:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "High-alcohol, ready-to-drink cocktails spark overconsumption concerns for Gen Z drinkers",
-        "description": "High-alcohol BuzzBallz cocktails are trending among Gen Z drinkers, raising experts' concerns about overconsumption and deceptive sweetness masking potency.",
-        "url": "https://www.foxnews.com/food-drink/high-alcohol-ready-drink-cocktails-spark-overconsumption-concerns-gen-z-drinkers",
-        "publishedAt": "2026-04-22T12:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
