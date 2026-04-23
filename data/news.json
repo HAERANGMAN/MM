@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-04-23T12:02:23.578789+00:00",
+  "generated_at": "2026-04-23T14:06:47.290913+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "WATCH: Sen Warren unloads on Trump’s Fed nominee Kevin Warsh in explosive hearing showdown",
+        "description": "Sen. Elizabeth Warren calls Fed nominee Kevin Warsh a sock puppet for Trump during a heated Senate confirmation hearing on Capitol Hill this week.",
+        "url": "https://www.foxnews.com/politics/watch-sen-warren-unloads-trumps-fed-nominee-kevin-warsh-explosive-hearing-showdown",
+        "publishedAt": "2026-04-22T13:03:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New York City lost residents across all income levels last year, study finds",
+        "description": "New York City lost more residents than it gained in 2025, with low- and middle-income New Yorkers leaving at higher rates, a Citizens' Budget Commission study found.",
+        "url": "https://www.foxnews.com/media/new-york-city-lost-residents-across-all-income-levels-last-year-study-finds",
+        "publishedAt": "2026-04-22T13:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2025"
+      },
+      {
+        "title": "Keith Kellogg urges US to 'finish the job' against Iran by seizing islands, strangling economy",
+        "description": "Lt. Gen. Keith Kellogg (Ret.) says the U.S. should \"finish the job\" against Iran by seizing islands, crippling its economy and ending diplomatic negotiations.",
+        "url": "https://www.foxnews.com/media/keith-kellogg-urges-us-finish-job-iran-seizing-islands-strangling-economy",
+        "publishedAt": "2026-04-22T12:39:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Why the Middle East agrees with President Trump more than America realizes",
         "description": "An immigrant who grew up on the Iranian border explains why millions across the Middle East see the current conflict as long-overdue confrontation.",
@@ -23,36 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "‘Stop this insanity’: Angel mom rips Newsom, Dems for bill to use taxpayer dollars for illegals’ defense",
-        "description": "Agnes Gibboney, who lost her son in an illegal alien-involved shooting, rips Gov. Newsom and California Democrats over an immigrant legal defense bill.",
-        "url": "https://www.foxnews.com/politics/stop-insanity-angel-mom-rips-newsom-dems-bill-use-taxpayer-dollars-illegals-defense",
-        "publishedAt": "2026-04-22T09:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Microsoft to face UK class action over cloud computing licencing",
-        "description": "The ruling comes weeks after the UK’s antitrust watchdog started an investigation into Microsoft’s business software ecosystem to decide whether licensing practices for products such as Word, Excel and Copilot need tighter regulation",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-22/microsoft-to-face-uk-class-action-over-cloud-computing-licencing",
-        "publishedAt": "2026-04-22T08:56:26Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bitcoin rises on optimism over Trump’s extended Iran ceasefire",
-        "description": "Bitcoin rises 2.7% to $77,500 amid optimism from Trump's Iran ceasefire, boosting market confidence in cryptocurrencies.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire",
-        "publishedAt": "2026-04-22T06:46:33Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2.7"
       }
     ],
     "news-korea-soc": [
