@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-04-23T10:58:03.940753+00:00",
+  "generated_at": "2026-04-23T12:02:23.578789+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Why the Middle East agrees with President Trump more than America realizes",
+        "description": "An immigrant who grew up on the Iranian border explains why millions across the Middle East see the current conflict as long-overdue confrontation.",
+        "url": "https://www.foxnews.com/opinion/middle-east-agrees-president-trump-america-realizes",
+        "publishedAt": "2026-04-22T11:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump’s Operation Epic Fury humiliated the experts and redrew the Middle East",
+        "description": "Operation Epic Fury reshapes the Middle East as dire predictions about China, Iran's proxies, and soaring energy prices fail to come to pass so far.",
+        "url": "https://www.foxnews.com/opinion/trumps-operation-epic-fury-humiliated-experts-redrew-middle-east",
+        "publishedAt": "2026-04-22T09:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "‘Stop this insanity’: Angel mom rips Newsom, Dems for bill to use taxpayer dollars for illegals’ defense",
+        "description": "Agnes Gibboney, who lost her son in an illegal alien-involved shooting, rips Gov. Newsom and California Democrats over an immigrant legal defense bill.",
+        "url": "https://www.foxnews.com/politics/stop-insanity-angel-mom-rips-newsom-dems-bill-use-taxpayer-dollars-illegals-defense",
+        "publishedAt": "2026-04-22T09:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Microsoft to face UK class action over cloud computing licencing",
+        "description": "The ruling comes weeks after the UK’s antitrust watchdog started an investigation into Microsoft’s business software ecosystem to decide whether licensing practices for products such as Word, Excel and Copilot need tighter regulation",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-22/microsoft-to-face-uk-class-action-over-cloud-computing-licencing",
+        "publishedAt": "2026-04-22T08:56:26Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bitcoin rises on optimism over Trump’s extended Iran ceasefire",
+        "description": "Bitcoin rises 2.7% to $77,500 amid optimism from Trump's Iran ceasefire, boosting market confidence in cryptocurrencies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire",
+        "publishedAt": "2026-04-22T06:46:33Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2.7"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Over 50 House members accuse South Korea's new left-wing government of attacking US companies, favoring China",
+        "description": "More than 50 members of Congress blast South Korea over alleged favoritism toward Chinese businesses and regulatory attacks on American tech companies.",
+        "url": "https://www.foxnews.com/politics/50-house-members-accuse-south-koreas-new-left-wing-government-attacking-us-companies-favoring-china",
+        "publishedAt": "2026-04-21T18:58:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "High-alcohol, ready-to-drink cocktails spark overconsumption concerns for Gen Z drinkers",
+        "description": "High-alcohol BuzzBallz cocktails are trending among Gen Z drinkers, raising experts' concerns about overconsumption and deceptive sweetness masking potency.",
+        "url": "https://www.foxnews.com/food-drink/high-alcohol-ready-drink-cocktails-spark-overconsumption-concerns-gen-z-drinkers",
+        "publishedAt": "2026-04-22T12:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Why the Middle East agrees with President Trump more than America realizes",
+        "description": "An immigrant who grew up on the Iranian border explains why millions across the Middle East see the current conflict as long-overdue confrontation.",
+        "url": "https://www.foxnews.com/opinion/middle-east-agrees-president-trump-america-realizes",
+        "publishedAt": "2026-04-22T11:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "EARTH DAY: Three big signs the climate movement is running out of gas",
+        "description": "From Cuba's humanitarian crisis to empty EV plants, rising gas prices and global energy turmoil are reshaping the climate movement's political influence.",
+        "url": "https://www.foxnews.com/opinion/earth-day-three-big-signs-climate-movement-running-gas",
+        "publishedAt": "2026-04-22T09:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump’s Operation Epic Fury humiliated the experts and redrew the Middle East",
+        "description": "Operation Epic Fury reshapes the Middle East as dire predictions about China, Iran's proxies, and soaring energy prices fail to come to pass so far.",
+        "url": "https://www.foxnews.com/opinion/trumps-operation-epic-fury-humiliated-experts-redrew-middle-east",
+        "publishedAt": "2026-04-22T09:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Felon Charged for Allegedly Helping Shreveport Gunman Acquire Weapon",
+        "description": "Charles Ford, a 56-year-old felon, was arrested Tuesday for allegedly helping the 31-year-old Shreveport father, who reportedly killed eight children, acquire a firearm.\nThe post Felon Charged for Allegedly Helping Shreveport Gunman Acquire Weapon appeared fi…",
+        "url": "https://www.breitbart.com/crime/2026/04/21/felon-charged-allegedly-helping-shreveport-gunman-acquire-weapon/",
+        "publishedAt": "2026-04-22T00:28:20Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "56"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
