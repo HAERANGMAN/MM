@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-24T22:37:41.778036+00:00",
+  "generated_at": "2026-04-24T23:24:10.424739+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Fox News Poll: Modest boost in support for Iran conflict, but concerns persist",
-        "description": "A new poll shows support for U.S. military action in Iran rising to 45%, but a majority of voters still oppose the conflict and question its costs.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-modest-boost-support-iran-conflict-concerns-persist",
-        "publishedAt": "2026-04-23T22:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "45"
-      },
-      {
-        "title": "Fox News Poll: Voters see AI as a risk to privacy and paychecks",
-        "description": "A Fox News Poll finds most voters see artificial intelligence as a threat to privacy and jobs, driving an overall 54% unfavorable opinion of AI.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks",
-        "publishedAt": "2026-04-23T22:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "54"
-      },
-      {
-        "title": "Forget the experts: These are your winning 2026 NFL Draft bets",
-        "description": "Explore the best 2026 NFL Draft betting picks, blending team need, market value, and mock draft data to find plus-value wagers for draft night Thursday.",
-        "url": "https://www.foxnews.com/outkick-sports/forget-experts-winning-2026-nfl-draft-bets",
-        "publishedAt": "2026-04-23T20:58:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Breitbart Business Digest: What Happens if There's No Confirmation Before Powell's Term Ends?",
-        "description": "It is not clear who will run the Fed after the expiration of Powell's term if the Senate has not confirmed Kevin Warsh.\nThe post Breitbart Business Digest: What Happens if There’s No Confirmation Before Powell’s Term Ends? appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/23/breitbart-business-digest-what-happens-if-theres-no-confirmation-before-powells-term-ends/",
-        "publishedAt": "2026-04-23T20:57:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Election Integrity: Javier Milei Proposes Total Overhaul of Argentina's Voting System",
-        "description": "The government of Argentine President Javier Milei on Wednesday submitted a bill to Congress aiming to overhaul the nation's elections — urging the need to \"fix a system that is fundamentally flawed\" and make it more transparent and less costly.\nThe post Elec…",
-        "url": "https://www.breitbart.com/latin-america/2026/04/23/election-integrity-javier-milei-proposes-total-overhaul-of-argentinas-voting-system/",
-        "publishedAt": "2026-04-23T20:49:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Duke busts the bigots",
-        "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-        "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-duke-busts-bigots",
-        "publishedAt": "2026-04-23T22:06:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News Poll: Voters see AI as a risk to privacy and paychecks",
-        "description": "A Fox News Poll finds most voters see artificial intelligence as a threat to privacy and jobs, driving an overall 54% unfavorable opinion of AI.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks",
-        "publishedAt": "2026-04-23T22:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "54"
-      },
-      {
-        "title": "Mayor Calls Out 'Thugs' over Shooting in Baton Rouge Mall",
-        "description": "Baton Rouge Mayor Sid Edwards (R) called out \"thugs\" who opened fire in the Mall of Louisiana Thursday and left 1 person dead and 9 wounded. \nThe post Mayor Calls Out ‘Thugs’ over Shooting in Baton Rouge Mall appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/23/mayor-calls-out-thugs-over-shooting-in-baton-rouge-mall/",
-        "publishedAt": "2026-04-23T21:10:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Trump praises ousted Navy Secretary Phelan amid tensions with Pentagon leadership",
-        "description": "Sources say Navy Secretary John Phelan was removed after months of tensions with Pentagon leaders over shipbuilding programs and chain-of-command issues.",
-        "url": "https://www.foxnews.com/politics/trump-praises-ousted-navy-secretary-phelan-amid-tensions-pentagon-leadership",
-        "publishedAt": "2026-04-23T19:42:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nuclear experts warn Iran’s uranium ‘right’ is a myth, say Trump is right to hold firm",
-        "description": "Experts say the U.S. must permanently ban Iran's uranium enrichment program, warning Tehran could resume its nuclear weapons path if infrastructure stays.",
-        "url": "https://www.foxnews.com/world/nuclear-experts-warn-irans-uranium-right-myth-say-trump-right-hold-firm",
-        "publishedAt": "2026-04-23T19:42:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
