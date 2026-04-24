@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-04-24T19:09:09.919238+00:00",
+  "generated_at": "2026-04-24T20:00:07.597459+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Mortgage Rates Decline for Third Straight Week, Offering Relief Ahead of Spring Buying Season",
-        "description": "Borrowing costs for U.S. homebuyers continued their downward slide, with the benchmark 30-year fixed mortgage rate falling to 6.23 percent from 6.3 percent a week earlier.\nThe post Mortgage Rates Decline for Third Straight Week, Offering Relief Ahead of Sprin…",
-        "url": "https://www.breitbart.com/economy/2026/04/23/mortgage-rates-decline-for-third-straight-week-offering-relief-ahead-of-spring-buying-season/",
-        "publishedAt": "2026-04-23T18:32:55Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "30"
-      },
-      {
-        "title": "Trump: PM Starmer Would Have to Reverse Green Extremism, Open Borders For Political Survival",
-        "description": "Energy prices more expensive in the UK than practically any other country and few nations are experiencing faster demographic change.\nThe post Trump: PM Starmer Would Have to Reverse Green Extremism, Open Borders For Political Survival appeared first on Breit…",
-        "url": "https://www.breitbart.com/europe/2026/04/23/trump-starmer-should-end-open-borders-and-net-zero-to-survive/",
-        "publishedAt": "2026-04-23T18:20:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Effect: Hiring Is Accelerating and Layoffs Are Near Historic Lows, Suggesting A Strong April Jobs Report",
-        "description": "Layoffs are near the lowest they have been in decades and hiring is accelerating.\nThe post Trump Effect: Hiring Is Accelerating and Layoffs Are Near Historic Lows, Suggesting A Strong April Jobs Report appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/23/trump-effect-hiring-is-accelerating-and-layoffs-are-near-historic-lows-suggesting-a-strong-april-jobs-report/",
-        "publishedAt": "2026-04-23T17:39:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Warren confronted on calling controversial senate candidate Graham Platner her 'kind of man'",
-        "description": "Sen. Elizabeth Warren was confronted over backing Maine Senate candidate Graham Platner, who faced scrutiny over a reported Nazi symbol chest tattoo, and saying he's her \"kind of man.\"",
-        "url": "https://www.foxnews.com/media/warren-confronted-calling-controversial-senate-candidate-graham-platner-her-kind-man",
-        "publishedAt": "2026-04-23T17:16:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Elon Musk's SpaceX Reaches $60 Billion Deal for Right to Acquire AI Coding Start-up Cursor",
-        "description": "Elon Musk's SpaceX has secured an agreement granting it the option to acquire Cursor, a rapidly growing AI coding start-up, for $60 billion as the rocket maker pushes deeper into AI ahead of its hotly anticipated IPO.\nThe post Elon Musk’s SpaceX Reaches $60 B…",
-        "url": "https://www.breitbart.com/tech/2026/04/23/elon-musks-spacex-reaches-60-billion-deal-for-right-to-acquire-ai-coding-start-up-cursor/",
-        "publishedAt": "2026-04-23T17:09:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "China Warns of Booming Flu Cases Before May Day Travel Bonanza",
-        "description": "The Chinese National Disease Control and Prevention Administration warned citizens on Wednesday that it had documented a growing number of cases of various respiratory diseases, primarily influenza and rhinovirus, in the past month, suggesting travelers take …",
-        "url": "https://www.breitbart.com/asia/2026/04/23/china-warns-of-booming-flu-cases-before-may-day-travel-bonanza/",
-        "publishedAt": "2026-04-23T19:05:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "A piece of the UFC White House event’s setup is sitting in Pennsylvania Amish country",
-        "description": "UFC Freedom 250's massive stage structure called The Claw is being assembled in Pennsylvania Amish country near Lititz before moving to the White House.",
-        "url": "https://www.foxnews.com/outkick-sports/piece-ufc-white-house-events-setup-sitting-pennsylvania-amish-country",
-        "publishedAt": "2026-04-23T18:32:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Trump: PM Starmer Would Have to Reverse Green Extremism, Open Borders For Political Survival",
-        "description": "Energy prices more expensive in the UK than practically any other country and few nations are experiencing faster demographic change.\nThe post Trump: PM Starmer Would Have to Reverse Green Extremism, Open Borders For Political Survival appeared first on Breit…",
-        "url": "https://www.breitbart.com/europe/2026/04/23/trump-starmer-should-end-open-borders-and-net-zero-to-survive/",
-        "publishedAt": "2026-04-23T18:20:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "St. George's Day: Starmer Uses England's National Day to Lash Out at 'Plastic Patriots', Doesn't Mention England",
-        "description": "PM paradoxically used patron saint to insist \"unity\" is key while ranting about Englishmen he feels betray the multicultural project. \nThe post St. George’s Day: Starmer Uses England’s National Day to Lash Out at ‘Plastic Patriots’, Doesn’t Mention England ap…",
-        "url": "https://www.breitbart.com/europe/2026/04/23/st-georges-day-starmer-lashes-out-at-plastic-patriots-on-national-day/",
-        "publishedAt": "2026-04-23T16:22:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Connecticut Democrat: Ban Guns That Can Be Converted 'Into Semi or Fully Automated Weapons'",
-        "description": "Connecticut state Rep. Bob Godfrey (D) spoke in favor of banning firearms that are \"too easily converted into semi or even fully automated weapons.\"\nThe post Connecticut Democrat: Ban Guns That Can Be Converted ‘Into Semi or Fully Automated Weapons’ appeared …",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/23/connecticut-democrat-ban-guns-that-can-be-converted-into-semi-or-fully-automated-weapons/",
-        "publishedAt": "2026-04-23T16:21:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
