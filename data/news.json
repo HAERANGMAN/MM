@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-24T21:00:17.120444+00:00",
+  "generated_at": "2026-04-24T21:55:25.566322+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Forget the experts: These are your winning 2026 NFL Draft bets",
+        "description": "Explore the best 2026 NFL Draft betting picks, blending team need, market value, and mock draft data to find plus-value wagers for draft night Thursday.",
+        "url": "https://www.foxnews.com/outkick-sports/forget-experts-winning-2026-nfl-draft-bets",
+        "publishedAt": "2026-04-23T20:58:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Breitbart Business Digest: What Happens if There's No Confirmation Before Powell's Term Ends?",
+        "description": "It is not clear who will run the Fed after the expiration of Powell's term if the Senate has not confirmed Kevin Warsh.\nThe post Breitbart Business Digest: What Happens if There’s No Confirmation Before Powell’s Term Ends? appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/04/23/breitbart-business-digest-what-happens-if-theres-no-confirmation-before-powells-term-ends/",
+        "publishedAt": "2026-04-23T20:57:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Election Integrity: Javier Milei Proposes Total Overhaul of Argentina's Voting System",
+        "description": "The government of Argentine President Javier Milei on Wednesday submitted a bill to Congress aiming to overhaul the nation's elections — urging the need to \"fix a system that is fundamentally flawed\" and make it more transparent and less costly.\nThe post Elec…",
+        "url": "https://www.breitbart.com/latin-america/2026/04/23/election-integrity-javier-milei-proposes-total-overhaul-of-argentinas-voting-system/",
+        "publishedAt": "2026-04-23T20:49:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP infighting erupts over immigration bill that would shield millions from deportation",
+        "description": "House Republicans are sharply divided over the Dignity Act immigration bill, with some calling it \"mass amnesty\" and others urging Trump to act on immigration reform.",
+        "url": "https://www.foxnews.com/politics/gop-infighting-erupts-immigration-bill-would-shield-millions-deportation",
+        "publishedAt": "2026-04-23T20:30:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Harvard students revolt over new grading policy they call ‘racist’",
+        "description": "Students at Harvard launched a petition calling a proposed grading reform \"racist,\" saying it would compound disadvantages for marginalized students.",
+        "url": "https://www.foxnews.com/media/harvard-students-revolt-new-grading-policy-call-racist",
+        "publishedAt": "2026-04-23T19:57:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Mayor Calls Out 'Thugs' over Shooting in Baton Rouge Mall",
+        "description": "Baton Rouge Mayor Sid Edwards (R) called out \"thugs\" who opened fire in the Mall of Louisiana Thursday and left 1 person dead and 9 wounded. \nThe post Mayor Calls Out ‘Thugs’ over Shooting in Baton Rouge Mall appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/23/mayor-calls-out-thugs-over-shooting-in-baton-rouge-mall/",
+        "publishedAt": "2026-04-23T21:10:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Trump praises ousted Navy Secretary Phelan amid tensions with Pentagon leadership",
+        "description": "Sources say Navy Secretary John Phelan was removed after months of tensions with Pentagon leaders over shipbuilding programs and chain-of-command issues.",
+        "url": "https://www.foxnews.com/politics/trump-praises-ousted-navy-secretary-phelan-amid-tensions-pentagon-leadership",
+        "publishedAt": "2026-04-23T19:42:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nuclear experts warn Iran’s uranium ‘right’ is a myth, say Trump is right to hold firm",
+        "description": "Experts say the U.S. must permanently ban Iran's uranium enrichment program, warning Tehran could resume its nuclear weapons path if infrastructure stays.",
+        "url": "https://www.foxnews.com/world/nuclear-experts-warn-irans-uranium-right-myth-say-trump-right-hold-firm",
+        "publishedAt": "2026-04-23T19:42:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China Warns of Booming Flu Cases Before May Day Travel Bonanza",
+        "description": "The Chinese National Disease Control and Prevention Administration warned citizens on Wednesday that it had documented a growing number of cases of various respiratory diseases, primarily influenza and rhinovirus, in the past month, suggesting travelers take …",
+        "url": "https://www.breitbart.com/asia/2026/04/23/china-warns-of-booming-flu-cases-before-may-day-travel-bonanza/",
+        "publishedAt": "2026-04-23T19:05:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "A piece of the UFC White House event’s setup is sitting in Pennsylvania Amish country",
+        "description": "UFC Freedom 250's massive stage structure called The Claw is being assembled in Pennsylvania Amish country near Lititz before moving to the White House.",
+        "url": "https://www.foxnews.com/outkick-sports/piece-ufc-white-house-events-setup-sitting-pennsylvania-amish-country",
+        "publishedAt": "2026-04-23T18:32:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
