@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-25T22:23:41.764559+00:00",
+  "generated_at": "2026-04-25T23:03:12.683643+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: Kevin Warsh May Finally Be Free to Run the Fed",
+        "description": "We still do not definitively know when Kevin Warsh's nomination will move forward, but a floor vote in the Senate prior to May 15—when the current Fed chair's term expires—is no longer out of the question.\nThe post Breitbart Business Digest: Kevin Warsh May F…",
+        "url": "https://www.breitbart.com/economy/2026/04/24/breitbart-business-digest-kevin-warsh-may-finally-be-free-to-run-the-fed/",
+        "publishedAt": "2026-04-24T23:01:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
       {
         "title": "Nebraska ends in-state tuition benefits for illegal immigrants under DOJ deal",
         "description": "Under a proposed consent decree with the U.S. Department of Justice, Nebraska agreed to permanently end in-state tuition for illegal immigrants.",
@@ -43,16 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pakistan Maintains Security Lockdown for Possible U.S.-Iran Talks",
-        "description": "Pakistan’s capital of Islamabad has maintained its security lockdown throughout the week in the hopes that U.S. and Iranian negotiators might return to resume the talks that broke down last weekend.\nThe post Pakistan Maintains Security Lockdown for Possible U…",
-        "url": "https://www.breitbart.com/middle-east/2026/04/24/pakistan-maintains-security-lockdown-for-possible-u-s-iran-talks/",
-        "publishedAt": "2026-04-24T20:32:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Federal judge says lawyer ‘lied repeatedly’ during Epstein-linked suit against billionaire Leon Black",
+        "description": "A federal judge sanctioned Wigdor LLP for misconduct in a lawsuit accusing billionaire Leon Black of sexual assault linked to Jeffrey Epstein.",
+        "url": "https://www.foxnews.com/us/federal-judge-says-lawyer-lied-repeatedly-epstein-linked-suit-billionaire-leon-black",
+        "publishedAt": "2026-04-24T22:56:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Your daily coffee habit may be quietly reshaping your gut and mood, study finds",
         "description": "A new study from APC Microbiome Ireland finds that habitual coffee consumption alters gut bacteria, influencing mood, stress and cognitive sharpness.",
@@ -104,16 +114,6 @@
         "description": "The OFAC sanctioned a major Chinese oil refinery and dozens of Iran-linked shadow fleet vessels in an escalation of a maximum pressure campaign on Tehran.",
         "url": "https://www.foxnews.com/world/us-targets-china-refinery-sweeping-iran-oil-crackdown-sanctions-shadow-fleet-tankers",
         "publishedAt": "2026-04-24T19:19:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump DOJ jumps into Musk xAI court battle as diversity fight heats up",
-        "description": "The DOJ backs Elon Musk's xAI lawsuit alleging Colorado's AI law forces developers to adopt DEI standards, violating the First and Fourteenth Amendments.",
-        "url": "https://www.foxnews.com/politics/trump-doj-jumps-musk-xai-court-battle-diversity-fight-heats-up",
-        "publishedAt": "2026-04-24T18:48:04Z",
         "source": {
           "name": "Fox News"
         },
