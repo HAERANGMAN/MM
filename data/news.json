@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-04-25T23:03:12.683643+00:00",
+  "generated_at": "2026-04-25T23:51:08.262458+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Breitbart Business Digest: Kevin Warsh May Finally Be Free to Run the Fed",
-        "description": "We still do not definitively know when Kevin Warsh's nomination will move forward, but a floor vote in the Senate prior to May 15—when the current Fed chair's term expires—is no longer out of the question.\nThe post Breitbart Business Digest: Kevin Warsh May F…",
-        "url": "https://www.breitbart.com/economy/2026/04/24/breitbart-business-digest-kevin-warsh-may-finally-be-free-to-run-the-fed/",
-        "publishedAt": "2026-04-24T23:01:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Nebraska ends in-state tuition benefits for illegal immigrants under DOJ deal",
-        "description": "Under a proposed consent decree with the U.S. Department of Justice, Nebraska agreed to permanently end in-state tuition for illegal immigrants.",
-        "url": "https://www.foxnews.com/media/nebraska-ends-in-state-tuition-benefits-illegal-immigrants-doj-deal",
-        "publishedAt": "2026-04-24T21:36:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-        "description": "House Minority Leader Hakeem Jeffries appeared stunned after a child asked him why voters view Democrats so poorly during a Capitol Hill event.",
-        "url": "https://www.foxnews.com/politics/hakeem-jeffries-left-scrambling-child-reporter-asks-voters-view-democrats-negatively",
-        "publishedAt": "2026-04-24T21:18:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Panama Canal Experiencing Surge in Traffic Due to Middle East War",
-        "description": "The Administrator of the Panama Canal Authority said Thursday that the ongoing conflict in the Middle East has led to a surge in traffic through the Panama Canal.\nThe post Panama Canal Experiencing Surge in Traffic Due to Middle East War appeared first on Bre…",
-        "url": "https://www.breitbart.com/latin-america/2026/04/24/panama-canal-experiencing-surge-traffic-middle-east-war/",
-        "publishedAt": "2026-04-24T20:55:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Envoy Arrives to Lead Embassy in Venezuela",
-        "description": "Veteran U.S. diplomat John M. Barrett arrived in Caracas on Thursday to serve as the new head of the American embassy in Venezuela as part of President Donald Trump's three-phase plan towards restoring democracy in the South American country.\nThe post U.S. En…",
-        "url": "https://www.breitbart.com/latin-america/2026/04/24/new-u-s-envoy-arrives-in-caracas-to-continue-trumps-plans-in-venezuela/",
-        "publishedAt": "2026-04-24T20:55:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iran and its allies are committing epic financial fraud in America. I watch it happen every day",
-        "description": "State actors from Iran, North Korea, Russia and China run coordinated financial fraud operations inside the U.S. system using stolen identity data.",
-        "url": "https://www.foxnews.com/opinion/iran-allies-committing-fraud-inside-americas-financial-system-watch-happen-every-day",
-        "publishedAt": "2026-04-24T09:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Federal judge says lawyer ‘lied repeatedly’ during Epstein-linked suit against billionaire Leon Black",
-        "description": "A federal judge sanctioned Wigdor LLP for misconduct in a lawsuit accusing billionaire Leon Black of sexual assault linked to Jeffrey Epstein.",
-        "url": "https://www.foxnews.com/us/federal-judge-says-lawyer-lied-repeatedly-epstein-linked-suit-billionaire-leon-black",
-        "publishedAt": "2026-04-24T22:56:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Your daily coffee habit may be quietly reshaping your gut and mood, study finds",
-        "description": "A new study from APC Microbiome Ireland finds that habitual coffee consumption alters gut bacteria, influencing mood, stress and cognitive sharpness.",
-        "url": "https://www.foxnews.com/health/daily-coffee-habit-may-quietly-reshaping-gut-mood-study-finds",
-        "publishedAt": "2026-04-24T21:40:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Panama Canal Experiencing Surge in Traffic Due to Middle East War",
-        "description": "The Administrator of the Panama Canal Authority said Thursday that the ongoing conflict in the Middle East has led to a surge in traffic through the Panama Canal.\nThe post Panama Canal Experiencing Surge in Traffic Due to Middle East War appeared first on Bre…",
-        "url": "https://www.breitbart.com/latin-america/2026/04/24/panama-canal-experiencing-surge-traffic-middle-east-war/",
-        "publishedAt": "2026-04-24T20:55:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump on Betting Activity Tied to Global Conflicts: 'I’m Not Happy with Any of That Stuff'",
-        "description": "President Donald Trump addressed concerns about potential insider trading in global betting markets after being asked about suspected wagering tied to the Iran conflict, following a case involving a U.S. Special Forces soldier accused of using classified info…",
-        "url": "https://www.breitbart.com/politics/2026/04/24/trump-on-betting-activity-tied-to-global-conflicts-im-not-happy-with-any-of-that-stuff/",
-        "publishedAt": "2026-04-24T19:28:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US targets China refinery in sweeping Iran oil crackdown, sanctions ‘shadow fleet’ tankers",
-        "description": "The OFAC sanctioned a major Chinese oil refinery and dozens of Iran-linked shadow fleet vessels in an escalation of a maximum pressure campaign on Tehran.",
-        "url": "https://www.foxnews.com/world/us-targets-china-refinery-sweeping-iran-oil-crackdown-sanctions-shadow-fleet-tankers",
-        "publishedAt": "2026-04-24T19:19:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
