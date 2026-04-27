@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-27T04:43:16.257610+00:00",
+  "generated_at": "2026-04-27T07:26:31.469874+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
+        "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/reliance-s-profit-meets-estimate-on-steady-telecom-retail-units",
+        "publishedAt": "2026-04-26T05:31:41Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Reports of gunfire heard at White House Correspondents' Dinner | Fox News Video",
         "description": "Reports of gunfire heard at White House Correspondents' Dinner | Fox News Videofoxnews.com",
@@ -43,21 +53,32 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Think we're losing the war in Iran? Consider where things really stand",
-        "description": "Iran's regime persists but is strategically hollowed out, with its nuclear program, missile arsenal, proxy network, and economy all badly damaged.",
-        "url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
-        "publishedAt": "2026-04-25T19:23:03Z",
+        "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
+        "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/reliance-s-profit-meets-estimate-on-steady-telecom-retail-units",
+        "publishedAt": "2026-04-26T05:31:41Z",
         "source": {
-          "name": "Fox News"
+          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
+        "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/reliance-s-profit-meets-estimate-on-steady-telecom-retail-units",
+        "publishedAt": "2026-04-26T05:31:41Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Airline CEO sparks backlash after revealing what’s really driving sky-high ticket prices",
         "description": "Airlines face backlash over high fares as Delta and United reportedly signal ticket prices may stay elevated even if fuel costs eventually stabilize.",
@@ -97,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "20"
-      },
-      {
-        "title": "Trump Cancels Witkoff, Kushner Islamabad Trip for Iran Talks: ‘Nobody Knows Who Is in Charge’",
-        "description": "President Donald Trump announced Saturday that he has canceled a planned trip by U.S. representatives, including Special Envoy Steve Witkoff and adviser Jared Kushner, to Pakistan for talks with Iranian officials, citing time wasted on traveling and work and …",
-        "url": "https://www.breitbart.com/national-security/2026/04/25/trump-cancels-witkoff-kushner-islamabad-trip-for-iran-talks-nobody-knows-who-is-in-charge/",
-        "publishedAt": "2026-04-25T17:52:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
