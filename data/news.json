@@ -1,136 +1,19 @@
 {
-  "generated_at": "2026-04-27T11:26:17.947922+00:00",
+  "generated_at": "2026-04-27T13:04:47.320712+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
-        "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-24/reliance-s-profit-meets-estimate-on-steady-telecom-retail-units",
-        "publishedAt": "2026-04-26T05:31:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Reports of gunfire heard at White House Correspondents' Dinner | Fox News Video",
-        "description": "Reports of gunfire heard at White House Correspondents' Dinner | Fox News Videofoxnews.com",
-        "url": "https://www.foxnews.com/video/6393896878112",
-        "publishedAt": "2026-04-26T00:47:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Marilyn Monroe's former home declared historic monument, owners say it killed their $8M investment",
-        "description": "A California couple is suing Los Angeles after the city designated Marilyn Monroe's former home a historic monument, blocking their demolition plans.",
-        "url": "https://www.foxnews.com/media/marilyn-monroes-former-home-declared-historic-monument-owners-say-killed-8m-investment",
-        "publishedAt": "2026-04-25T23:00:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Trump vows to 'get to the bottom' of Fed's multibillion-dollar building renovation after probe shift",
-        "description": "President says the Federal Reserve investigation is \"not dropped\" and vows to find out why costs went above budget for the project.",
-        "url": "https://www.foxnews.com/politics/trump-vows-get-bottom-feds-multibillion-dollar-building-renovation-probe-shift",
-        "publishedAt": "2026-04-25T22:26:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "2026 Kentucky Derby: Post position draw, opening morning-line odds",
-        "description": "The 152nd Kentucky Derby post position draw and morning-line odds are here as contenders line up at Churchill Downs for the 2026 Triple Crown chase.",
-        "url": "https://www.foxnews.com/outkick-sports/2026-kentucky-derby-post-position-draw-opening-morning-line-odds",
-        "publishedAt": "2026-04-25T20:05:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Work of scientists in ‘suspicious’ disappearances is prime target for hostile foes: retired FBI agent",
-        "description": "Retired high-level FBI official says American nuclear scientist disappearances fit a suspicious pattern potentially linked to foreign intelligence threats.",
-        "url": "https://www.foxnews.com/us/work-scientists-suspicious-disappearances-prime-target-hostile-foes-retired-fbi-agent",
-        "publishedAt": "2026-04-26T10:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
-        "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-24/reliance-s-profit-meets-estimate-on-steady-telecom-retail-units",
-        "publishedAt": "2026-04-26T05:31:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
-        "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-24/reliance-s-profit-meets-estimate-on-steady-telecom-retail-units",
-        "publishedAt": "2026-04-26T05:31:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Airline CEO sparks backlash after revealing what’s really driving sky-high ticket prices",
-        "description": "Airlines face backlash over high fares as Delta and United reportedly signal ticket prices may stay elevated even if fuel costs eventually stabilize.",
-        "url": "https://www.foxnews.com/travel/airline-ceo-sparks-backlash-revealing-whats-really-driving-sky-high-ticket-prices",
-        "publishedAt": "2026-04-25T22:24:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Think we're losing the war in Iran? Consider where things really stand",
-        "description": "Iran's regime persists but is strategically hollowed out, with its nuclear program, missile arsenal, proxy network, and economy all badly damaged.",
-        "url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
-        "publishedAt": "2026-04-25T19:23:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Two Police Officers Shot at Chicago's Swedish Hospital",
-        "description": "Two police officers were shot Saturday morning at the Swedish Hospital in Chicago's Ravenswood neighborhood. \nThe post Two Police Officers Shot at Chicago’s Swedish Hospital appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/04/25/two-police-officers-shot-chicago-s-swedish-hospital/",
-        "publishedAt": "2026-04-25T18:36:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "20 years later, Al Gore and his director defend their controversial climate movie 'An Inconvenient Truth'",
-        "description": "Al Gore and filmmaker Davis Guggenheim defend their climate documentary \"An Inconvenient Truth\" in an interview marking its 20th anniversary release.",
-        "url": "https://www.foxnews.com/media/20-years-later-al-gore-his-director-defend-controversial-climate-movie-an-inconvenient-truth",
-        "publishedAt": "2026-04-25T18:00:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
