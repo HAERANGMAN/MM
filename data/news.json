@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T09:37:47.836200+00:00",
+  "generated_at": "2026-04-27T11:26:17.947922+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -56,6 +56,16 @@
       }
     ],
     "news-korea-soc": [
+      {
+        "title": "Work of scientists in ‘suspicious’ disappearances is prime target for hostile foes: retired FBI agent",
+        "description": "Retired high-level FBI official says American nuclear scientist disappearances fit a suspicious pattern potentially linked to foreign intelligence threats.",
+        "url": "https://www.foxnews.com/us/work-scientists-suspicious-disappearances-prime-target-hostile-foes-retired-fbi-agent",
+        "publishedAt": "2026-04-26T10:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Ambani flags ‘unprecedented dislocation’ as Reliance net slips",
         "description": "Billionaire Mukesh Ambani flagged the “unprecedented dislocation” unleashed by the US-Iran war after Reliance Industries Ltd.’s quarterly profit slipped but managed to meet analyst expectations due to a strong show by its consumer units.",
