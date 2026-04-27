@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-04-27T01:15:38.344596+00:00",
+  "generated_at": "2026-04-27T04:43:16.257610+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Reports of gunfire heard at White House Correspondents' Dinner | Fox News Video",
+        "description": "Reports of gunfire heard at White House Correspondents' Dinner | Fox News Videofoxnews.com",
+        "url": "https://www.foxnews.com/video/6393896878112",
+        "publishedAt": "2026-04-26T00:47:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Marilyn Monroe's former home declared historic monument, owners say it killed their $8M investment",
+        "description": "A California couple is suing Los Angeles after the city designated Marilyn Monroe's former home a historic monument, blocking their demolition plans.",
+        "url": "https://www.foxnews.com/media/marilyn-monroes-former-home-declared-historic-monument-owners-say-killed-8m-investment",
+        "publishedAt": "2026-04-25T23:00:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump vows to 'get to the bottom' of Fed's multibillion-dollar building renovation after probe shift",
+        "description": "President says the Federal Reserve investigation is \"not dropped\" and vows to find out why costs went above budget for the project.",
+        "url": "https://www.foxnews.com/politics/trump-vows-get-bottom-feds-multibillion-dollar-building-renovation-probe-shift",
+        "publishedAt": "2026-04-25T22:26:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "2026 Kentucky Derby: Post position draw, opening morning-line odds",
+        "description": "The 152nd Kentucky Derby post position draw and morning-line odds are here as contenders line up at Churchill Downs for the 2026 Triple Crown chase.",
+        "url": "https://www.foxnews.com/outkick-sports/2026-kentucky-derby-post-position-draw-opening-morning-line-odds",
+        "publishedAt": "2026-04-25T20:05:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Think we're losing the war in Iran? Consider where things really stand",
+        "description": "Iran's regime persists but is strategically hollowed out, with its nuclear program, missile arsenal, proxy network, and economy all badly damaged.",
+        "url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
+        "publishedAt": "2026-04-25T19:23:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Airline CEO sparks backlash after revealing what’s really driving sky-high ticket prices",
+        "description": "Airlines face backlash over high fares as Delta and United reportedly signal ticket prices may stay elevated even if fuel costs eventually stabilize.",
+        "url": "https://www.foxnews.com/travel/airline-ceo-sparks-backlash-revealing-whats-really-driving-sky-high-ticket-prices",
+        "publishedAt": "2026-04-25T22:24:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Think we're losing the war in Iran? Consider where things really stand",
+        "description": "Iran's regime persists but is strategically hollowed out, with its nuclear program, missile arsenal, proxy network, and economy all badly damaged.",
+        "url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
+        "publishedAt": "2026-04-25T19:23:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Two Police Officers Shot at Chicago's Swedish Hospital",
+        "description": "Two police officers were shot Saturday morning at the Swedish Hospital in Chicago's Ravenswood neighborhood. \nThe post Two Police Officers Shot at Chicago’s Swedish Hospital appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/crime/2026/04/25/two-police-officers-shot-chicago-s-swedish-hospital/",
+        "publishedAt": "2026-04-25T18:36:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "20 years later, Al Gore and his director defend their controversial climate movie 'An Inconvenient Truth'",
+        "description": "Al Gore and filmmaker Davis Guggenheim defend their climate documentary \"An Inconvenient Truth\" in an interview marking its 20th anniversary release.",
+        "url": "https://www.foxnews.com/media/20-years-later-al-gore-his-director-defend-controversial-climate-movie-an-inconvenient-truth",
+        "publishedAt": "2026-04-25T18:00:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "20"
+      },
+      {
+        "title": "Trump Cancels Witkoff, Kushner Islamabad Trip for Iran Talks: ‘Nobody Knows Who Is in Charge’",
+        "description": "President Donald Trump announced Saturday that he has canceled a planned trip by U.S. representatives, including Special Envoy Steve Witkoff and adviser Jared Kushner, to Pakistan for talks with Iranian officials, citing time wasted on traveling and work and …",
+        "url": "https://www.breitbart.com/national-security/2026/04/25/trump-cancels-witkoff-kushner-islamabad-trip-for-iran-talks-nobody-knows-who-is-in-charge/",
+        "publishedAt": "2026-04-25T17:52:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
