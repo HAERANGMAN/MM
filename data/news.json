@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-04-28T07:20:40.626747+00:00",
+  "generated_at": "2026-04-28T09:37:49.808797+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "The great wealth lie: Millennials are richer than you or they think",
+        "description": "Baby boomers still control over $85 trillion in wealth, but millennials are catching up faster than any generation with a 374% surge since 2019.",
+        "url": "https://www.foxnews.com/opinion/great-wealth-lie-millennials-richer-think",
+        "publishedAt": "2026-04-27T09:00:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "JSW Motors plans to open own showrooms before India car debut",
+        "description": "JSW Motors plans to establish four experience centers in major Indian cities like Mumbai, New Delhi, and Ahmedabad before launching its first product in the second half of the year",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/jsw-motors-plans-its-own-showrooms-to-debut-its-india-car-brand",
+        "publishedAt": "2026-04-27T07:43:09Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "How Trump survives: Battling the media, former allies and assassination attempts",
+        "description": "President Trump faces mounting political problems including low poll numbers and an unpopular war, but his survival of a third assassination attempt fuels empathy from opponents.",
+        "url": "https://www.foxnews.com/opinion/how-trump-survives-battling-media-former-allies-assassination-attempts",
+        "publishedAt": "2026-04-27T07:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Emerging stocks rise to record high on AI, Iran’s Hormuz offer",
+        "description": "Easing West Asia tensions have bolstered sentiment thanks to an extended US-Iran ceasefire, while a developing-market currency gauge rose around 0.3%",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/emerging-stocks-rise-to-record-high-on-ai-iran-offer",
+        "publishedAt": "2026-04-27T04:05:43Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.3"
+      },
+      {
+        "title": "BYD, Geely see more EV demand as oil prices climb from Iran War",
+        "description": "Cambricon Technologies Corp. and Foxconn Industrial Internet Co. will also continue to offer a glimpse of how China’s hardware players are responding to the artificial intelligence boom",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-24/byd-geely-see-more-ev-demand-as-oil-prices-climb-from-iran-war",
+        "publishedAt": "2026-04-27T03:42:14Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Work of scientists in ‘suspicious’ disappearances is prime target for hostile foes: retired FBI agent",
+        "description": "Retired high-level FBI official says American nuclear scientist disappearances fit a suspicious pattern potentially linked to foreign intelligence threats.",
+        "url": "https://www.foxnews.com/us/work-scientists-suspicious-disappearances-prime-target-hostile-foes-retired-fbi-agent",
+        "publishedAt": "2026-04-26T10:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Clearing Corporation revamps trade reporting system, including offshore rupee",
+        "description": "The revamp is aimed at reporting more details of trades and to create a more uniform format aligned with standards used elsewhere",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/india-revamps-trade-reporting-system-including-offshore-rupee",
+        "publishedAt": "2026-04-27T05:49:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DeepSeek slashes fees for new AI model in Chinese price war",
+        "description": "The Hangzhou-headquartered AI lab is offering a 75 per cent discount to developers using the DeepSeek-V4-Pro, released last week",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/deepseek-slashes-fees-for-new-ai-model-in-chinese-price-war",
+        "publishedAt": "2026-04-27T05:02:18Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "75"
+      },
+      {
+        "title": "Emerging stocks rise to record high on AI, Iran’s Hormuz offer",
+        "description": "Easing West Asia tensions have bolstered sentiment thanks to an extended US-Iran ceasefire, while a developing-market currency gauge rose around 0.3%",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/emerging-stocks-rise-to-record-high-on-ai-iran-offer",
+        "publishedAt": "2026-04-27T04:05:43Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.3"
+      },
+      {
+        "title": "Democrat Pushes 'Military-Grade Weapons' Ban After WHCD Handgun/Shotgun Attack",
+        "description": "Pennsylvania state Rep. and former Democratic Party Vice Chair Malcolm Kenyatta pushed a ban on \"military-grade weapons\" after the handgun/shotgun attack that occurred at the White House Correspondents' Dinner.\nThe post Democrat Pushes ‘Military-Grade Weapons…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/26/democrat-pushes-military-grade-weapons-ban-whcd-handgun-shotgun-attack/",
+        "publishedAt": "2026-04-27T02:28:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sun Pharma inks agreement to buy US-based Organon for $11.75 billion",
+        "description": "The transaction has been approved by the boards of both Sun Pharma and Organon, and is expected to close in early 2027, pending closing conditions such as regulatory and Organon shareholder approvals",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/sun-pharma-to-acquire-us-listed-organon-in-12-billion-deal",
+        "publishedAt": "2026-04-27T01:28:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
