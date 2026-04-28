@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-28T11:25:50.406883+00:00",
+  "generated_at": "2026-04-28T13:12:23.436679+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "I’m a university president. Trump is right to make colleges deliver for students",
+        "description": "The Department of Education proposes requiring colleges to prove graduates outearn high school graduates or risk losing federal student loan access.",
+        "url": "https://www.foxnews.com/opinion/im-university-president-trump-right-make-colleges-deliver-students",
+        "publishedAt": "2026-04-27T13:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Half of British Public Want Prime Minsiter Starmer to Resign Amid Rolling Mandelson-Epstein Scandal",
         "description": "The clock appears to be ticking on the scandal-ridden government of Prime Minister Sir Keir Starmer, with half of the UK public believing he should resign, as controversy reigns over his decision to appoint Lord Peter Mandelson as ambassador to the United Sta…",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Emerging stocks rise to record high on AI, Iran’s Hormuz offer",
-        "description": "Easing West Asia tensions have bolstered sentiment thanks to an extended US-Iran ceasefire, while a developing-market currency gauge rose around 0.3%",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/emerging-stocks-rise-to-record-high-on-ai-iran-offer",
-        "publishedAt": "2026-04-27T04:05:43Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "0.3"
       }
     ],
     "news-korea-soc": [],
