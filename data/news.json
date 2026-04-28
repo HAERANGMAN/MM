@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-28T09:37:49.808797+00:00",
+  "generated_at": "2026-04-28T11:25:50.406883+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Half of British Public Want Prime Minsiter Starmer to Resign Amid Rolling Mandelson-Epstein Scandal",
+        "description": "The clock appears to be ticking on the scandal-ridden government of Prime Minister Sir Keir Starmer, with half of the UK public believing he should resign, as controversy reigns over his decision to appoint Lord Peter Mandelson as ambassador to the United Sta…",
+        "url": "https://www.breitbart.com/europe/2026/04/27/half-of-british-public-want-prime-minsiter-starmer-to-resign-amid-rolling-mandelson-scandal/",
+        "publishedAt": "2026-04-27T09:56:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "The great wealth lie: Millennials are richer than you or they think",
         "description": "Baby boomers still control over $85 trillion in wealth, but millennials are catching up faster than any generation with a 374% surge since 2019.",
@@ -43,30 +53,9 @@
           "name": "Bloomberg"
         },
         "numericHint": "0.3"
-      },
-      {
-        "title": "BYD, Geely see more EV demand as oil prices climb from Iran War",
-        "description": "Cambricon Technologies Corp. and Foxconn Industrial Internet Co. will also continue to offer a glimpse of how China’s hardware players are responding to the artificial intelligence boom",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-24/byd-geely-see-more-ev-demand-as-oil-prices-climb-from-iran-war",
-        "publishedAt": "2026-04-27T03:42:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [
-      {
-        "title": "Work of scientists in ‘suspicious’ disappearances is prime target for hostile foes: retired FBI agent",
-        "description": "Retired high-level FBI official says American nuclear scientist disappearances fit a suspicious pattern potentially linked to foreign intelligence threats.",
-        "url": "https://www.foxnews.com/us/work-scientists-suspicious-disappearances-prime-target-hostile-foes-retired-fbi-agent",
-        "publishedAt": "2026-04-26T10:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
