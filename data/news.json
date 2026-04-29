@@ -1,9 +1,40 @@
 {
-  "generated_at": "2026-04-29T18:10:02.840436+00:00",
+  "generated_at": "2026-04-29T19:53:00.558126+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Japanese PM Begins Defense Review amid Growing Threats from China and Russia",
+        "description": "Japanese Prime Minister Takaichi Sanae on Monday inaugurated a panel to review Japan’s defense posture in a time of growing threats from China, North Korea, and Russia.\nThe post Japanese PM Begins Defense Review amid Growing Threats from China and Russia appe…",
+        "url": "https://www.breitbart.com/asia/2026/04/28/japanese-pm-begins-defense-review-amid-growing-threats-from-china-and-russia/",
+        "publishedAt": "2026-04-28T19:38:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Gold Donald Trump statue installed at Doral ahead of PGA Tour's return to president's golf course",
+        "description": "A gold statue of President Trump now overlooks Trump National Doral ahead of the PGA Tour's inaugural Cadillac Championship signature event this week.",
+        "url": "https://www.foxnews.com/outkick-sports/gold-donald-trump-statue-installed-doral-ahead-pga-tours-return-presidents-golf-course",
+        "publishedAt": "2026-04-28T19:38:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Top Texas Tech football donor says nobody has 'authority' to 'enforce any rules' in college sports right now",
+        "description": "Texas Tech booster Cody Campbell told Fox News Digital he has concerns about college sports rule enforcement, calling the governance model broken.",
+        "url": "https://www.foxnews.com/sports/top-texas-tech-football-donor-says-nobody-authority-enforce-rules-college-sports-right",
+        "publishedAt": "2026-04-28T19:28:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "United Arab Emirates Leaves OPEC amid Tensions over Production Caps and Iran",
         "description": "The United Arab Emirates (UAE) announced on Tuesday that its 59 years of membership in the Organization of the Petroleum Exporting Countries (OPEC) will come to an end, effective May 1.\nThe post United Arab Emirates Leaves OPEC amid Tensions over Production C…",
@@ -33,31 +64,32 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Amazon AWS launches AI-powered office tools to challenge Microsoft and Salesforce",
-        "description": "Amazon AWS launches AI-powered office tools using AI agents, aiming to compete with Microsoft and Salesforce in the $300 billion business software market.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-28/amazon-launches-ai-productivity-software-for-office-workers",
-        "publishedAt": "2026-04-28T16:44:59Z",
+        "title": "Japanese PM Begins Defense Review amid Growing Threats from China and Russia",
+        "description": "Japanese Prime Minister Takaichi Sanae on Monday inaugurated a panel to review Japan’s defense posture in a time of growing threats from China, North Korea, and Russia.\nThe post Japanese PM Begins Defense Review amid Growing Threats from China and Russia appe…",
+        "url": "https://www.breitbart.com/asia/2026/04/28/japanese-pm-begins-defense-review-amid-growing-threats-from-china-and-russia/",
+        "publishedAt": "2026-04-28T19:38:35Z",
         "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Trevor Bauer says no MLB team will sign him despite throwing a no-hitter and offering to play for free",
-        "description": "Former Cy Young Award winner Trevor Bauer says nothing he does feels sufficient to earn an MLB return, despite a seven-inning no-hitter on Sunday.",
-        "url": "https://www.foxnews.com/outkick-sports/trevor-bauer-mlb-team-no-hitter-dakich-outkick",
-        "publishedAt": "2026-04-28T16:37:58Z",
-        "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Melania Trump, Queen Camilla team up at White House youth event spotlighting US-UK bond",
+        "description": "First lady Melania Trump and Queen Camilla hosted students at the White House for hands-on VR and history activities focused on children's well-being.",
+        "url": "https://www.foxnews.com/politics/melania-trump-queen-camilla-team-up-white-house-youth-event-spotlighting-us-uk-bond",
+        "publishedAt": "2026-04-28T18:52:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Taylor Swift fires back at critics, says backlash was ‘huge fuel’ for her biggest hits",
         "description": "Taylor Swift says criticism fueled major hits like \"Blank Space\" and \"Antihero,\" turning public scrutiny of her dating life and personality into creative fuel.",
@@ -97,16 +129,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pentagon jumps from $225M to $55B on drones as cheap attacks overwhelm US defenses",
-        "description": "The Pentagon seeks roughly $55 billion for drone and autonomous warfare programs in its fiscal year 2027 budget, a dramatic surge from $225 million.",
-        "url": "https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses",
-        "publishedAt": "2026-04-28T16:57:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ]
   },
