@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T19:53:00.558126+00:00",
+  "generated_at": "2026-04-29T20:54:30.532857+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Gold Donald Trump statue installed at Doral ahead of PGA Tour's return to president's golf course",
-        "description": "A gold statue of President Trump now overlooks Trump National Doral ahead of the PGA Tour's inaugural Cadillac Championship signature event this week.",
-        "url": "https://www.foxnews.com/outkick-sports/gold-donald-trump-statue-installed-doral-ahead-pga-tours-return-presidents-golf-course",
-        "publishedAt": "2026-04-28T19:38:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Top Texas Tech football donor says nobody has 'authority' to 'enforce any rules' in college sports right now",
-        "description": "Texas Tech booster Cody Campbell told Fox News Digital he has concerns about college sports rule enforcement, calling the governance model broken.",
-        "url": "https://www.foxnews.com/sports/top-texas-tech-football-donor-says-nobody-authority-enforce-rules-college-sports-right",
-        "publishedAt": "2026-04-28T19:28:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "United Arab Emirates Leaves OPEC amid Tensions over Production Caps and Iran",
-        "description": "The United Arab Emirates (UAE) announced on Tuesday that its 59 years of membership in the Organization of the Petroleum Exporting Countries (OPEC) will come to an end, effective May 1.\nThe post United Arab Emirates Leaves OPEC amid Tensions over Production C…",
-        "url": "https://www.breitbart.com/middle-east/2026/04/28/united-arab-emirates-leaves-opec-amid-tensions-over-production-caps-and-iran/",
-        "publishedAt": "2026-04-28T17:25:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "59"
-      },
-      {
-        "title": "Gone in 9 Seconds: AI Coding Agent Deletes Entire Company Database and All Backups",
-        "description": "The founder of a software company has issued a public warning after an AI coding assistant erased his company's entire production database and all backups in just nine seconds.\nThe post Gone in 9 Seconds: AI Coding Agent Deletes Entire Company Database and Al…",
-        "url": "https://www.breitbart.com/tech/2026/04/28/gone-in-9-seconds-ai-coding-agent-deletes-entire-company-database-and-all-backups/",
-        "publishedAt": "2026-04-28T17:20:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Google Co-Founder Sergey Brin Shifts to the Right Thanks to 'Really Wonderful MAGA Girlfriend'",
-        "description": "Google co-founder Sergey Brin, whose company serves as the highwater mark of woke leftist hysteria in Silicon Valley, is now taking positions contrary to his left-wing peers, including standing against California's proposed wealth tax. He is reportedly been p…",
-        "url": "https://www.breitbart.com/tech/2026/04/28/google-co-founder-sergey-brin-shifts-rightward-spending-millions-to-fight-california-billionaire-tax/",
-        "publishedAt": "2026-04-28T16:48:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Japanese PM Begins Defense Review amid Growing Threats from China and Russia",
-        "description": "Japanese Prime Minister Takaichi Sanae on Monday inaugurated a panel to review Japan’s defense posture in a time of growing threats from China, North Korea, and Russia.\nThe post Japanese PM Begins Defense Review amid Growing Threats from China and Russia appe…",
-        "url": "https://www.breitbart.com/asia/2026/04/28/japanese-pm-begins-defense-review-amid-growing-threats-from-china-and-russia/",
-        "publishedAt": "2026-04-28T19:38:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Melania Trump, Queen Camilla team up at White House youth event spotlighting US-UK bond",
-        "description": "First lady Melania Trump and Queen Camilla hosted students at the White House for hands-on VR and history activities focused on children's well-being.",
-        "url": "https://www.foxnews.com/politics/melania-trump-queen-camilla-team-up-white-house-youth-event-spotlighting-us-uk-bond",
-        "publishedAt": "2026-04-28T18:52:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Taylor Swift fires back at critics, says backlash was ‘huge fuel’ for her biggest hits",
-        "description": "Taylor Swift says criticism fueled major hits like \"Blank Space\" and \"Antihero,\" turning public scrutiny of her dating life and personality into creative fuel.",
-        "url": "https://www.foxnews.com/entertainment/taylor-swift-fires-back-critics-says-backlash-huge-fuel-biggest-hits",
-        "publishedAt": "2026-04-28T18:08:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "United Arab Emirates Leaves OPEC amid Tensions over Production Caps and Iran",
-        "description": "The United Arab Emirates (UAE) announced on Tuesday that its 59 years of membership in the Organization of the Petroleum Exporting Countries (OPEC) will come to an end, effective May 1.\nThe post United Arab Emirates Leaves OPEC amid Tensions over Production C…",
-        "url": "https://www.breitbart.com/middle-east/2026/04/28/united-arab-emirates-leaves-opec-amid-tensions-over-production-caps-and-iran/",
-        "publishedAt": "2026-04-28T17:25:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "59"
-      },
-      {
-        "title": "Five contestants emerge from 90 days of total isolation to face Gutfeld's real-vs-fake news challenge",
-        "description": "\"What Did I Miss?\" season 2 premieres as five new contestants emerge from 90 days of isolation to compete for $50,000 on Greg Gutfeld's game show.",
-        "url": "https://www.foxnews.com/media/five-contestants-emerge-90-days-total-isolation-face-gutfelds-real-vs-fake-news-challenge",
-        "publishedAt": "2026-04-28T17:25:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "90"
-      },
-      {
-        "title": "Trump hosts King Charles at White House as UK-US ties hit low point",
-        "description": "Trump and King Charles meet at the White House to reaffirm UK-US ties amid tensions, with the king set to address US Congress on global cooperation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-28/king-charles-meets-trump-in-bid-to-repair-ailing-uk-us-relations",
-        "publishedAt": "2026-04-28T16:57:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
