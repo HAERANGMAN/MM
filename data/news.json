@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-04-29T20:54:30.532857+00:00",
+  "generated_at": "2026-04-29T21:57:06.018432+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Japanese PM Begins Defense Review amid Growing Threats from China and Russia",
-        "description": "Japanese Prime Minister Takaichi Sanae on Monday inaugurated a panel to review Japan’s defense posture in a time of growing threats from China, North Korea, and Russia.\nThe post Japanese PM Begins Defense Review amid Growing Threats from China and Russia appe…",
-        "url": "https://www.breitbart.com/asia/2026/04/28/japanese-pm-begins-defense-review-amid-growing-threats-from-china-and-russia/",
-        "publishedAt": "2026-04-28T19:38:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
