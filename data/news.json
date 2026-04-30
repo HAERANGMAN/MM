@@ -1,157 +1,19 @@
 {
-  "generated_at": "2026-04-30T20:05:25.002580+00:00",
+  "generated_at": "2026-04-30T21:13:39.900917+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "'Shark Tank' star backs Trump's White House ballroom plan amid security concerns: ‘It’s bipartisan’",
-        "description": "'Shark Tank' star Kevin O'Leary supports Trump's White House ballroom plan, citing security concerns after the Correspondents' Dinner shooting.",
-        "url": "https://www.foxnews.com/politics/shark-tank-star-backs-white-house-ballroom-plan-amid-security-concerns-bipartisan",
-        "publishedAt": "2026-04-29T19:51:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DAVID MARCUS: Why I'll take my clunker over any new car with a government kill switch",
-        "description": "Congressional Republicans split over repealing Biden-era car kill switch mandate as critics warn it gives the government Orwellian control over vehicles.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-why-ill-take-my-clunker-over-any-new-car-government-kill-switch",
-        "publishedAt": "2026-04-29T19:37:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jerome Powell Says He Will Continue to Serve as Governor After Chair Term Ends",
-        "description": "Jerome Powell said Wednesday that he will continue to serve on the board of governors of the Federal Reserve after his chairmanship of the central bank ends next month. Powell said his decision to remain as governor is based on\nThe post Jerome Powell Says He …",
-        "url": "https://www.breitbart.com/economy/2026/04/29/powell-says-he-will-continue-to-serve-a-governor-as-chair-term-ends/",
-        "publishedAt": "2026-04-29T19:00:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russia built global recruitment pipeline targeting vulnerable migrants for Ukraine war: report",
-        "description": "Human rights groups allege Russia recruits tens of thousands of vulnerable migrants from over 130 countries to fight in its ongoing war against Ukraine.",
-        "url": "https://www.foxnews.com/world/russia-built-global-recruitment-pipeline-targeting-vulnerable-migrants-ukraine-war-report",
-        "publishedAt": "2026-04-29T18:38:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "130"
-      },
-      {
-        "title": "Fed Leaves Interest Rates Unchanged, Saying Economy is Expanding at Solid Pace",
-        "description": "The central bank has maintained its benchmark interest rate target at a range of 3.5 percent to 3.75 percent since its last cut in December. \nThe post Fed Leaves Interest Rates Unchanged, Saying Economy is Expanding at Solid Pace appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/04/29/fed-leaves-interest-rates-unchanged-saying-economy-is-expanding-at-solid-pace/",
-        "publishedAt": "2026-04-29T18:17:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3.5"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Report: Israel Used Iron Dome to Protect United Arab Emirates from Iranian Attacks",
-        "description": "A report from Axios on Sunday claimed Israel deployed its famed Iron Dome defense system to the United Arab Emirates (UAE) early in Operation Epic Fury, and the system was able to intercept many of the missiles and drones Iran launched at its neighbor.\nThe po…",
-        "url": "https://www.breitbart.com/middle-east/2026/04/29/report-israel-used-iron-dome-to-protect-united-arab-emirates-from-iranian-attacks/",
-        "publishedAt": "2026-04-29T20:00:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global task force dismantles 'pig-butchering' crypto fraud rings preying on Americans",
-        "description": "The FBI and international police forces arrested 276 suspects in a global operation targeting cryptocurrency pig-butchering scam centers overseas.",
-        "url": "https://www.foxnews.com/us/global-task-force-dismantles-pig-butchering-crypto-fraud-rings-preying-americans",
-        "publishedAt": "2026-04-29T18:39:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "276"
-      },
-      {
-        "title": "Court sentences former world leader to 7 years in prison for resisting arrest, other charges",
-        "description": "Ousted South Korean President Yoon Suk Yeol sentenced to seven years in prison after martial law decree that triggered a severe political crisis.",
-        "url": "https://www.foxnews.com/world/court-sentences-former-world-leader-7-years-prison-resisting-arrest-charges",
-        "publishedAt": "2026-04-29T11:43:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Global task force dismantles 'pig-butchering' crypto fraud rings preying on Americans",
-        "description": "The FBI and international police forces arrested 276 suspects in a global operation targeting cryptocurrency pig-butchering scam centers overseas.",
-        "url": "https://www.foxnews.com/us/global-task-force-dismantles-pig-butchering-crypto-fraud-rings-preying-americans",
-        "publishedAt": "2026-04-29T18:39:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "276"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "ATF Director Robert Cekada Takes Jackhammer to Biden-Era Gun Regs",
-        "description": "Acting AG Todd Blanche presided over the signing of a “landmark rulemaking package” that rolls back numerous gun regulations enacted under Biden.\nThe post ATF Director Robert Cekada Takes Jackhammer to Biden-Era Gun Regs appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/29/atf-director-robert-cekada-takes-jackhammer-biden-era-gun-regs/",
-        "publishedAt": "2026-04-29T20:01:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Reporter’s Notebook: King Charles’ visit puts fraying US-UK alliance in the spotlight",
-        "description": "King Charles delivers a historic speech to Congress celebrating America's semiquincentennial while navigating tensions in the US-UK relationship.",
-        "url": "https://www.foxnews.com/politics/reporters-notebook-king-charles-visit-puts-fraying-us-uk-alliance-spotlight",
-        "publishedAt": "2026-04-29T19:28:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global task force dismantles 'pig-butchering' crypto fraud rings preying on Americans",
-        "description": "The FBI and international police forces arrested 276 suspects in a global operation targeting cryptocurrency pig-butchering scam centers overseas.",
-        "url": "https://www.foxnews.com/us/global-task-force-dismantles-pig-butchering-crypto-fraud-rings-preying-americans",
-        "publishedAt": "2026-04-29T18:39:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "276"
-      },
-      {
-        "title": "WATCH: Trump EPA chief sparks explosive hearing showdown over global warming alarm from Dems: 'I'm talking'",
-        "description": "Menendez Jr. sparred with EPA chief Lee Zeldin over climate change, energy prices and government waste in another fiery congressional hearing Tuesday.",
-        "url": "https://www.foxnews.com/politics/watch-trump-epa-chief-sparks-explosive-hearing-showdown-global-warming-alarm-dems-im-talking",
-        "publishedAt": "2026-04-29T18:38:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russia built global recruitment pipeline targeting vulnerable migrants for Ukraine war: report",
-        "description": "Human rights groups allege Russia recruits tens of thousands of vulnerable migrants from over 130 countries to fight in its ongoing war against Ukraine.",
-        "url": "https://www.foxnews.com/world/russia-built-global-recruitment-pipeline-targeting-vulnerable-migrants-ukraine-war-report",
-        "publishedAt": "2026-04-29T18:38:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "130"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
