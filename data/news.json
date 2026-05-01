@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-05-01T22:27:35.308778+00:00",
+  "generated_at": "2026-05-01T23:28:01.665557+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: The Best Month for Stocks in Five Years",
+        "description": "The nattering nabobs of negativity who had spent March sharpening their claws discovered in April that they had been preparing for a fight the market had no intention of having.\nThe post Breitbart Business Digest: The Best Month for Stocks in Five Years appea…",
+        "url": "https://www.breitbart.com/economy/2026/04/30/breitbart-business-digest-the-best-month-for-stocks-in-five-years/",
+        "publishedAt": "2026-04-30T23:03:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Did Boston Red Sox GM replace most of their coaching staff because of one player?",
+        "description": "Boston Red Sox front office chief Craig Breslow fired manager Alex Cora and multiple coaches amid reports linking the moves to one player's struggles.",
+        "url": "https://www.foxnews.com/outkick-sports/boston-red-sox-gm-replace-coaching-staff-one-player",
+        "publishedAt": "2026-04-30T22:12:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Robert Downey Jr. slams modern celebrity culture as 'absolute horses---'",
+        "description": "Robert Downey Jr. calls the idea that influencers are the future of stardom 'absolute horses--t,' saying real stars will be defined by what they create",
+        "url": "https://www.foxnews.com/entertainment/robert-downey-jr-slams-modern-celebrity-culture-absolute-horses-",
+        "publishedAt": "2026-04-30T22:06:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China Claims to Find Substantial Domestic Oil and Gas Fields",
+        "description": "The Chinese Communist Party announced on Wednesday that it had dramatically expanded the scope of the country's known oil and gas reserves, claiming to have found 225 \"large and medium-sized crude oil and natural gas fields\" between 2021 and 2025.\nThe post Ch…",
+        "url": "https://www.breitbart.com/asia/2026/04/30/china-claims-to-find-substantial-domestic-oil-and-gas-fields/",
+        "publishedAt": "2026-04-30T20:09:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "225"
+      },
+      {
+        "title": "Hegseth fires back at Warren’s insider trading comments tied to Iran war: ‘No one owns me’",
+        "description": "War Secretary Pete Hegseth denies insider trading allegations during a heated Senate exchange with Sen. Elizabeth Warren over Iran war oil trades.",
+        "url": "https://www.foxnews.com/politics/hegseth-fires-back-warrens-insider-trading-comments-tied-iran-war-no-one-owns-me",
+        "publishedAt": "2026-04-30T19:54:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Nina Dobrev, Martha Stewart turn heads at King Charles’ star-studded charity gala",
+        "description": "King Charles and Queen Camilla hosted the King's Trust Global Gala at Christie's New York, drawing Hollywood stars to celebrate the charity's 50th year.",
+        "url": "https://www.foxnews.com/entertainment/nina-dobrev-martha-stewart-turn-heads-king-charles-star-studded-charity-gala",
+        "publishedAt": "2026-04-30T22:47:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "China Claims to Find Substantial Domestic Oil and Gas Fields",
+        "description": "The Chinese Communist Party announced on Wednesday that it had dramatically expanded the scope of the country's known oil and gas reserves, claiming to have found 225 \"large and medium-sized crude oil and natural gas fields\" between 2021 and 2025.\nThe post Ch…",
+        "url": "https://www.breitbart.com/asia/2026/04/30/china-claims-to-find-substantial-domestic-oil-and-gas-fields/",
+        "publishedAt": "2026-04-30T20:09:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "225"
+      },
+      {
+        "title": "Brady Campaign: Rollback of Biden-Era ATF Regs Fulfills 'Gun Industry's Wish List'",
+        "description": "The Brady Campaign reacted to the rollback of Biden-era ATF regulations by claiming it was intended to \"fulfill the gun industry's wish list.\"\nThe post Brady Campaign: Rollback of Biden-Era ATF Regs Fulfills ‘Gun Industry’s Wish List’ appeared first on Breitb…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/04/30/brady-campaign-rollback-biden-era-atf-regs-fulfills-gun-industrys-wish-list/",
+        "publishedAt": "2026-04-30T16:32:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nolte: ‘Michael’ Sequel Could Start Shooting This Year",
+        "description": "Lionsgate studio chief Adam Fogelson says a sequel to this weekend’s smash hit biopic \"Michael\" could begin shooting this year.\nThe post Nolte: ‘Michael’ Sequel Could Start Shooting This Year appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/04/30/nolte-michael-sequel-could-start-shooting-this-year/",
+        "publishedAt": "2026-04-30T16:01:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Lox and loaded against hate",
+        "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+        "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-lox-loaded-against-hate",
+        "publishedAt": "2026-04-30T15:35:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
