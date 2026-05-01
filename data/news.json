@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-04-30T23:10:32.502327+00:00",
+  "generated_at": "2026-05-01T00:05:33.527960+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "US keeps Iran blockade; Trump links move to nuclear deal as oil nears $120",
+        "description": "Trump maintains Iran blockade amid rising oil prices, linking the move to nuclear negotiations and escalating tensions in the Middle East.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-29/trump-tells-axios-he-rejects-iran-hormuz-offer-keeps-blockade",
+        "publishedAt": "2026-04-29T23:44:06Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Cowboys lock in George Pickens on $27.3M franchise tag despite failing to reach long-term contract",
+        "description": "George Pickens signed his franchise tag with the Dallas Cowboys for the 2026 season, securing a guaranteed $27.3 million after a Pro Bowl 2025 campaign.",
+        "url": "https://www.foxnews.com/sports/cowboys-lock-george-pickens-273m-franchise-tag-despite-failing-reach-long-term-contract",
+        "publishedAt": "2026-04-29T23:44:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump Vows to Maintain Iran Blockade Until Nuclear Terms Met -- Tehran Threatens ‘Unprecedented’ Response",
+        "description": "President Donald Trump said Wednesday that he will maintain the U.S. naval blockade on Iran until the regime “cries uncle” and agrees to a deal ensuring it will never obtain nuclear weapons.\nThe post Trump Vows to Maintain Iran Blockade Until Nuclear Terms Me…",
+        "url": "https://www.breitbart.com/middle-east/2026/04/29/trump-vows-to-maintain-iran-blockade-until-nuclear-terms-met-tehran-threatens-unprecedented-response/",
+        "publishedAt": "2026-04-29T23:15:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Breitbart Business Digest: The AI Boom Is a Made-in-America Boom",
         "description": "The AI investment wave is translating directly into orders at American factories.\nThe post Breitbart Business Digest: The AI Boom Is a Made-in-America Boom appeared first on Breitbart.",
@@ -21,36 +51,6 @@
         "publishedAt": "2026-04-29T20:44:12Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gallup Survey: Cost of Living Top Financial Problem for Americans",
-        "description": "The cost of living stands as the top financial problem for Americans, an April 2026 Gallup survey revealed.\nThe post Gallup Survey: Cost of Living Top Financial Problem for Americans appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/04/29/gallup-survey-cost-living-top-financial-problem-americans/",
-        "publishedAt": "2026-04-29T20:40:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Vance pushes back on report of stockpile concerns as US races to boost missile production",
-        "description": "JD Vance disputed a report on U.S. missile stockpile concerns as the Pentagon races to ramp up production after years of lagging output strained supplies.",
-        "url": "https://www.foxnews.com/politics/vance-pushes-back-report-stockpile-concerns-us-races-boost-missile-production",
-        "publishedAt": "2026-04-29T20:32:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'America First' immigration overhaul bill would codify Trump's campaign promises once and for all",
-        "description": "A new House Republican bill seeks to narrow legal immigration by ending the diversity visa lottery and shifting to a merit-based points system.",
-        "url": "https://www.foxnews.com/politics/america-first-immigration-overhaul-bill-would-codify-trumps-campaign-promises",
-        "publishedAt": "2026-04-29T20:13:57Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
@@ -101,6 +101,16 @@
     ],
     "news-global-soc": [
       {
+        "title": "US keeps Iran blockade; Trump links move to nuclear deal as oil nears $120",
+        "description": "Trump maintains Iran blockade amid rising oil prices, linking the move to nuclear negotiations and escalating tensions in the Middle East.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-29/trump-tells-axios-he-rejects-iran-hormuz-offer-keeps-blockade",
+        "publishedAt": "2026-04-29T23:44:06Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
         "title": "US charges Mexican governor, top officials in cartel conspiracy as Mexico fires back over proof",
         "description": "Mexico pushes back against a U.S. indictment accusing Sinaloa's governor and ten officials of allegedly running a drug trafficking cartel conspiracy.",
         "url": "https://www.foxnews.com/us/us-charges-mexican-governor-top-officials-cartel-conspiracy-mexico-fires-back-proof",
@@ -135,16 +145,6 @@
         "description": "Robert Cekada was confirmed as ATF Director Wednesday afternoon and began his tenure by rolling back and/or revising Biden-era gun regs.\nThe post A New Era: Robert Cekada Confirmed as Director of ATF appeared first on Breitbart.",
         "url": "https://www.breitbart.com/politics/2026/04/29/new-era-robert-cekada-confirmed-director-atf/",
         "publishedAt": "2026-04-29T20:30:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "ATF Director Robert Cekada Takes Jackhammer to Biden-Era Gun Regs",
-        "description": "Acting AG Todd Blanche presided over the signing of a “landmark rulemaking package” that rolls back numerous gun regulations enacted under Biden.\nThe post ATF Director Robert Cekada Takes Jackhammer to Biden-Era Gun Regs appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/04/29/atf-director-robert-cekada-takes-jackhammer-biden-era-gun-regs/",
-        "publishedAt": "2026-04-29T20:01:56Z",
         "source": {
           "name": "Breitbart News"
         },
