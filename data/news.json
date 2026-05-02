@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T04:28:03.041695+00:00",
+  "generated_at": "2026-05-02T06:25:59.993128+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Artemis crew says they wanted to 'connect with humanity,' show what can be done when they put their mind to it",
+        "description": "The Artemis II crew spoke with U.S. Ambassador to the U.N. Mike Waltz after their historic 10-day lunar flyby, calling the record-breaking mission a glorious experience.",
+        "url": "https://www.foxnews.com/science/artemis-crew-says-wanted-connect-humanity-show-what-can-done-when-put-mind",
+        "publishedAt": "2026-05-01T05:38:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
         "title": "Global famine fears rise as Hormuz crisis threatens ‘eight-year' Suez-scale disruption",
         "description": "Global famine fears are rising as the Strait of Hormuz crisis strains food supply chains, drives up fertilizer prices and threatens harvests worldwide.",
         "url": "https://www.foxnews.com/world/global-famine-fears-rise-hormuz-crisis-threatens-eight-year-suez-scale-disruption-",
@@ -93,16 +103,6 @@
         "description": "The Brady Campaign reacted to the rollback of Biden-era ATF regulations by claiming it was intended to \"fulfill the gun industry's wish list.\"\nThe post Brady Campaign: Rollback of Biden-Era ATF Regs Fulfills ‘Gun Industry’s Wish List’ appeared first on Breitb…",
         "url": "https://www.breitbart.com/2nd-amendment/2026/04/30/brady-campaign-rollback-biden-era-atf-regs-fulfills-gun-industrys-wish-list/",
         "publishedAt": "2026-04-30T16:32:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: ‘Michael’ Sequel Could Start Shooting This Year",
-        "description": "Lionsgate studio chief Adam Fogelson says a sequel to this weekend’s smash hit biopic \"Michael\" could begin shooting this year.\nThe post Nolte: ‘Michael’ Sequel Could Start Shooting This Year appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/04/30/nolte-michael-sequel-could-start-shooting-this-year/",
-        "publishedAt": "2026-04-30T16:01:40Z",
         "source": {
           "name": "Breitbart News"
         },
