@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T08:17:06.370560+00:00",
+  "generated_at": "2026-05-03T09:41:11.576892+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -91,6 +91,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Alleged WHCA shooter Cole Allen's education history scrutinized as a leftist hotbed",
+        "description": "The educational background of alleged WHCA shooter Cole Allen sparks scrutiny of far-left campus culture at Cal State University Dominguez Hills.",
+        "url": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-shooter-called-home-years",
+        "publishedAt": "2026-05-02T09:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Inside the far left 'breeding ground' universities alleged WHCD called home for years",
+        "description": "The educational background of alleged WHCA shooter Cole Allen sparks scrutiny of far-left campus culture at Cal State University Dominguez Hills.",
+        "url": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-called-home-years",
+        "publishedAt": "2026-05-02T09:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Lower valuations may see India outflows moderate: RBI Governor",
         "description": "The rupee has declined more than 5% so far this year, ranking as Asia’s worst performer, while the benchmark Nifty 50 stock index has lost 8%",
         "url": "https://www.bloomberg.com/news/articles/2026-05-01/lower-valuations-may-see-india-outflows-moderate-rbi-head-says",
@@ -119,26 +139,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive – Christian Revival in Cuba: Inside Regime-Defying Prayer Events for Freedom",
-        "description": "Cubans in nearly two dozen churches of different denominations nationwide joined a global prayer effort on April 26 calling on God to bless the island and free it from communist tyranny.\nThe post Exclusive – Christian Revival in Cuba: Inside Regime-Defying Pr…",
-        "url": "https://www.breitbart.com/faith/2026/05/01/exclusive-christian-revival-cuba-inside-regime-defying-prayer-events-freedom/",
-        "publishedAt": "2026-05-01T20:39:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "26"
-      },
-      {
-        "title": "Canadian Olympic bronze medalist Alysha Newman banned after missed drug tests",
-        "description": "Olympic bronze medalist Alysha Newman has been banned for 20 months after missed drug tests, though investigators accepted she had ended her career.",
-        "url": "https://www.foxnews.com/sports/canadian-olympic-bronze-medalist-alysha-newman-banned-missed-drug-tests",
-        "publishedAt": "2026-05-01T20:10:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
       }
     ]
   },
