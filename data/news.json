@@ -1,20 +1,147 @@
 {
-  "generated_at": "2026-05-03T03:48:51.641213+00:00",
+  "generated_at": "2026-05-03T06:18:43.114136+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "May Day protests across Europe and Asia turn into anti-American, anti-Israel political battlegrounds",
+        "description": "May Day demonstrations across multiple continents escalated into clashes as traditional labor protests increasingly became vehicles for anti-war and anti-Israel political movements.",
+        "url": "https://www.foxnews.com/world/may-day-protests-across-europe-asia-turn-anti-american-anti-israel-political-battlegrounds",
+        "publishedAt": "2026-05-01T16:47:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "North Korea's extreme battlefield doctrine revealed by Kim Jong Un during speech",
+        "description": "Kim Jong Un publicly praised North Korean soldiers who chose self-destruction over capture in Ukraine War, marking a stark confirmation of battlefield policy.",
+        "url": "https://www.foxnews.com/world/north-koreas-extreme-battlefield-doctrine-revealed-kim-jong-un-during-speech",
+        "publishedAt": "2026-05-01T14:07:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Trump ‘Not Satisfied’ with Latest Iranian Proposal: ‘May Never Be a Deal’",
+        "description": "President Donald Trump said Friday that he is “not satisfied” with Iran’s latest proposal to end the conflict, warning there “may never be a deal” as he described Tehran’s leadership as “very disjointed” and confirmed he was briefed on potential military opti…",
+        "url": "https://www.breitbart.com/politics/2026/05/01/trump-not-satisfied-latest-iranian-proposal-never-deal/",
+        "publishedAt": "2026-05-02T00:50:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Federal appeals court blocks mailing of abortion pills in ruling with nationwide effect",
+        "description": "A federal appeals court blocks mifepristone mail distribution nationwide, ending pandemic-era rules and likely sending the abortion pill fight to the Supreme Court.",
+        "url": "https://www.foxnews.com/politics/federal-appeals-court-blocks-mailing-abortion-pills-ruling-nationwide-effect",
+        "publishedAt": "2026-05-02T00:47:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Jerome Powell, Will You Please Go Now?",
+        "description": "This week, Jay Powell told us that we can take the Fed chair away from him, but we can't take him away from the Fed.\nThe post Breitbart Business Digest: Jerome Powell, Will You Please Go Now? appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/05/01/breitbart-business-digest-jerome-powell-will-you-please-go-now/",
+        "publishedAt": "2026-05-02T00:14:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Strait of Hormuz Crisis Sparks Fears of Global Famine",
+        "description": "The crisis in the Strait of Hormuz caused immediate shocks to the world oil market, but analysts are also afraid that rising food prices and fertilizer shortages could increase the risk of famine in struggling nations.\nThe post Strait of Hormuz Crisis Sparks …",
+        "url": "https://www.breitbart.com/middle-east/2026/05/01/strait-of-hormuz-crisis-sparks-fears-of-global-famine/",
+        "publishedAt": "2026-05-01T22:57:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump jokes about security concerns, mic problems and Dr Oz during freewheeling Florida speech",
+        "description": "Trump turned a microphone malfunction into a comic riff at The Villages in Florida, joking that he was screaming his \"a-- off\" over the bad mic.",
+        "url": "https://www.foxnews.com/politics/trump-jokes-security-concerns-mic-problems-dr-oz-freewheeling-florida-speech",
+        "publishedAt": "2026-05-01T22:52:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Eric Nuttall: We’re weeks away from rationing oil demand as prices rise",
+        "description": "The world is heading toward what could become the largest energy crisis in modern history, with oil shortages potentially forcing demand rationing within weeks, according to Eric Nuttall.",
+        "url": "https://www.bnnbloomberg.ca/business/2026/05/01/the-world-is-weeks-away-from-rationing-oil-demand-as-prices-rise-eric-nuttall/",
+        "publishedAt": "2026-05-01T17:05:30Z",
+        "source": {
+          "name": "BNNBloomberg.ca"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Ambient Arms: Suppressors that Run Nearly 400 Degrees Cooler than Other Suppressors",
+        "description": "Ambient Arms suppressors operate with a proprietary system drawing air into the suppressor to dramatically drop post-shooting temperatures.\nThe post Ambient Arms: Suppressors that Run Nearly 400 Degrees Cooler than Other Suppressors appeared first on Breitbar…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/01/ambient-arms-suppressors-that-run-nearly-400-degrees-cooler-other-suppressors/",
+        "publishedAt": "2026-05-01T23:00:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "400"
+      },
+      {
+        "title": "Strait of Hormuz Crisis Sparks Fears of Global Famine",
+        "description": "The crisis in the Strait of Hormuz caused immediate shocks to the world oil market, but analysts are also afraid that rising food prices and fertilizer shortages could increase the risk of famine in struggling nations.\nThe post Strait of Hormuz Crisis Sparks …",
+        "url": "https://www.breitbart.com/middle-east/2026/05/01/strait-of-hormuz-crisis-sparks-fears-of-global-famine/",
+        "publishedAt": "2026-05-01T22:57:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive – Christian Revival in Cuba: Inside Regime-Defying Prayer Events for Freedom",
+        "description": "Cubans in nearly two dozen churches of different denominations nationwide joined a global prayer effort on April 26 calling on God to bless the island and free it from communist tyranny.\nThe post Exclusive – Christian Revival in Cuba: Inside Regime-Defying Pr…",
+        "url": "https://www.breitbart.com/faith/2026/05/01/exclusive-christian-revival-cuba-inside-regime-defying-prayer-events-freedom/",
+        "publishedAt": "2026-05-01T20:39:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "26"
+      },
+      {
+        "title": "Canadian Olympic bronze medalist Alysha Newman banned after missed drug tests",
+        "description": "Olympic bronze medalist Alysha Newman has been banned for 20 months after missed drug tests, though investigators accepted she had ended her career.",
+        "url": "https://www.foxnews.com/sports/canadian-olympic-bronze-medalist-alysha-newman-banned-missed-drug-tests",
+        "publishedAt": "2026-05-01T20:10:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "20"
+      },
+      {
+        "title": "UAE Warns ‘No Iranian Arrangements Can Be Trusted’ on Strait of Hormuz",
+        "description": "“No unilateral Iranian arrangements can be trusted following its treacherous aggression against all its neighbors,” the UAE warned\nThe post UAE Warns ‘No Iranian Arrangements Can Be Trusted’ on Strait of Hormuz appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/05/01/uae-warns-no-iranian-arrangements-can-be-trusted-strait-hormuz/",
+        "publishedAt": "2026-05-01T18:56:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
