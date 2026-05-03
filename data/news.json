@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T09:41:11.576892+00:00",
+  "generated_at": "2026-05-03T10:37:08.503830+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -77,6 +77,16 @@
       }
     ],
     "news-korea-soc": [
+      {
+        "title": "Universities face funding threat as lawmakers target schools with ties to adversarial nations",
+        "description": "A bipartisan group of lawmakers introduces bills to crack down on foreign influence in American higher education by targeting ties to adversarial nations.",
+        "url": "https://www.foxnews.com/politics/universities-face-funding-threat-lawmakers-target-schools-ties-adversarial-nations",
+        "publishedAt": "2026-05-02T10:00:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Eric Nuttall: We’re weeks away from rationing oil demand as prices rise",
         "description": "The world is heading toward what could become the largest energy crisis in modern history, with oil shortages potentially forcing demand rationing within weeks, according to Eric Nuttall.",
