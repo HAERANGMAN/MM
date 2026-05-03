@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-05-03T11:24:44.053074+00:00",
+  "generated_at": "2026-05-03T12:05:21.554193+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "May Day protests across Europe and Asia turn into anti-American, anti-Israel political battlegrounds",
-        "description": "May Day demonstrations across multiple continents escalated into clashes as traditional labor protests increasingly became vehicles for anti-war and anti-Israel political movements.",
-        "url": "https://www.foxnews.com/world/may-day-protests-across-europe-asia-turn-anti-american-anti-israel-political-battlegrounds",
-        "publishedAt": "2026-05-01T16:47:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "North Korea's extreme battlefield doctrine revealed by Kim Jong Un during speech",
-        "description": "Kim Jong Un publicly praised North Korean soldiers who chose self-destruction over capture in Ukraine War, marking a stark confirmation of battlefield policy.",
-        "url": "https://www.foxnews.com/world/north-koreas-extreme-battlefield-doctrine-revealed-kim-jong-un-during-speech",
-        "publishedAt": "2026-05-01T14:07:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
