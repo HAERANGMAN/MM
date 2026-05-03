@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T10:37:08.503830+00:00",
+  "generated_at": "2026-05-03T11:24:44.053074+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,134 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Lower valuations may see India outflows moderate: RBI Governor",
-        "description": "The rupee has declined more than 5% so far this year, ranking as Asia’s worst performer, while the benchmark Nifty 50 stock index has lost 8%",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-01/lower-valuations-may-see-india-outflows-moderate-rbi-head-says",
-        "publishedAt": "2026-05-02T07:11:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Trump ‘Not Satisfied’ with Latest Iranian Proposal: ‘May Never Be a Deal’",
-        "description": "President Donald Trump said Friday that he is “not satisfied” with Iran’s latest proposal to end the conflict, warning there “may never be a deal” as he described Tehran’s leadership as “very disjointed” and confirmed he was briefed on potential military opti…",
-        "url": "https://www.breitbart.com/politics/2026/05/01/trump-not-satisfied-latest-iranian-proposal-never-deal/",
-        "publishedAt": "2026-05-02T00:50:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Federal appeals court blocks mailing of abortion pills in ruling with nationwide effect",
-        "description": "A federal appeals court blocks mifepristone mail distribution nationwide, ending pandemic-era rules and likely sending the abortion pill fight to the Supreme Court.",
-        "url": "https://www.foxnews.com/politics/federal-appeals-court-blocks-mailing-abortion-pills-ruling-nationwide-effect",
-        "publishedAt": "2026-05-02T00:47:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Jerome Powell, Will You Please Go Now?",
-        "description": "This week, Jay Powell told us that we can take the Fed chair away from him, but we can't take him away from the Fed.\nThe post Breitbart Business Digest: Jerome Powell, Will You Please Go Now? appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/01/breitbart-business-digest-jerome-powell-will-you-please-go-now/",
-        "publishedAt": "2026-05-02T00:14:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Strait of Hormuz Crisis Sparks Fears of Global Famine",
-        "description": "The crisis in the Strait of Hormuz caused immediate shocks to the world oil market, but analysts are also afraid that rising food prices and fertilizer shortages could increase the risk of famine in struggling nations.\nThe post Strait of Hormuz Crisis Sparks …",
-        "url": "https://www.breitbart.com/middle-east/2026/05/01/strait-of-hormuz-crisis-sparks-fears-of-global-famine/",
-        "publishedAt": "2026-05-01T22:57:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Universities face funding threat as lawmakers target schools with ties to adversarial nations",
-        "description": "A bipartisan group of lawmakers introduces bills to crack down on foreign influence in American higher education by targeting ties to adversarial nations.",
-        "url": "https://www.foxnews.com/politics/universities-face-funding-threat-lawmakers-target-schools-ties-adversarial-nations",
-        "publishedAt": "2026-05-02T10:00:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Eric Nuttall: We’re weeks away from rationing oil demand as prices rise",
-        "description": "The world is heading toward what could become the largest energy crisis in modern history, with oil shortages potentially forcing demand rationing within weeks, according to Eric Nuttall.",
-        "url": "https://www.bnnbloomberg.ca/business/2026/05/01/the-world-is-weeks-away-from-rationing-oil-demand-as-prices-rise-eric-nuttall/",
-        "publishedAt": "2026-05-01T17:05:30Z",
-        "source": {
-          "name": "BNNBloomberg.ca"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Alleged WHCA shooter Cole Allen's education history scrutinized as a leftist hotbed",
-        "description": "The educational background of alleged WHCA shooter Cole Allen sparks scrutiny of far-left campus culture at Cal State University Dominguez Hills.",
-        "url": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-shooter-called-home-years",
-        "publishedAt": "2026-05-02T09:00:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Inside the far left 'breeding ground' universities alleged WHCD called home for years",
-        "description": "The educational background of alleged WHCA shooter Cole Allen sparks scrutiny of far-left campus culture at Cal State University Dominguez Hills.",
-        "url": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-called-home-years",
-        "publishedAt": "2026-05-02T09:00:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Lower valuations may see India outflows moderate: RBI Governor",
-        "description": "The rupee has declined more than 5% so far this year, ranking as Asia’s worst performer, while the benchmark Nifty 50 stock index has lost 8%",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-01/lower-valuations-may-see-india-outflows-moderate-rbi-head-says",
-        "publishedAt": "2026-05-02T07:11:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Ambient Arms: Suppressors that Run Nearly 400 Degrees Cooler than Other Suppressors",
-        "description": "Ambient Arms suppressors operate with a proprietary system drawing air into the suppressor to dramatically drop post-shooting temperatures.\nThe post Ambient Arms: Suppressors that Run Nearly 400 Degrees Cooler than Other Suppressors appeared first on Breitbar…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/01/ambient-arms-suppressors-that-run-nearly-400-degrees-cooler-other-suppressors/",
-        "publishedAt": "2026-05-01T23:00:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "400"
-      },
-      {
-        "title": "Strait of Hormuz Crisis Sparks Fears of Global Famine",
-        "description": "The crisis in the Strait of Hormuz caused immediate shocks to the world oil market, but analysts are also afraid that rising food prices and fertilizer shortages could increase the risk of famine in struggling nations.\nThe post Strait of Hormuz Crisis Sparks …",
-        "url": "https://www.breitbart.com/middle-east/2026/05/01/strait-of-hormuz-crisis-sparks-fears-of-global-famine/",
-        "publishedAt": "2026-05-01T22:57:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
