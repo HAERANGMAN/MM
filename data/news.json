@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T15:14:25.493578+00:00",
+  "generated_at": "2026-05-04T17:02:40.300984+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -58,6 +58,16 @@
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Police: 3 Shot, 1 Fatally, at Post-Prom Party in Indianapolis",
+        "description": "Three people were shot, one of them fatally, around 12:45 a.m. Sunday at a post-prom party in Indianapolis, Indiana.\nThe post Police: 3 Shot, 1 Fatally, at Post-Prom Party in Indianapolis appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/03/police-3-shot-1-fatally-at-post-prom-party-in-indianapolis/",
+        "publishedAt": "2026-05-03T15:37:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
       {
         "title": "The surprising cost of renting a horse stall at Churchill Downs during the Kentucky Derby",
         "description": "Stabling a horse at Churchill Downs costs just $7.50 per stall, a surprising contrast to the millions spent preparing thoroughbreds for the Derby.",
