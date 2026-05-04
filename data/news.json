@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T12:59:34.599001+00:00",
+  "generated_at": "2026-05-04T15:14:25.493578+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "The surprising cost of renting a horse stall at Churchill Downs during the Kentucky Derby",
+        "description": "Stabling a horse at Churchill Downs costs just $7.50 per stall, a surprising contrast to the millions spent preparing thoroughbreds for the Derby.",
+        "url": "https://www.foxnews.com/sports/surprising-cost-renting-horse-stall-churchill-downs-kentucky-derby",
+        "publishedAt": "2026-05-03T12:59:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
         "title": "2 US service members missing in Morocco after multinational military exercise, search underway",
         "description": "A search-and-rescue effort is underway after two U.S. service members went missing during the African Lion military exercise in southwestern Morocco.",
         "url": "https://www.foxnews.com/us/2-us-service-members-missing-morocco-multinational-military-exercise-search-underway",
@@ -77,16 +87,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "'The Devil Wears Prada 2' Review: Meryl Streep, Anne Hathaway return for a chic but bland sequel",
-        "description": "Fox News Digital reviews 20th Century Studios' \"The Devil Wears Prada 2\" starring Meryl Streep, Anne Hathaway, Stanley Tucci and Emily Blunt. Directed by David Frankel.",
-        "url": "https://www.foxnews.com/opinion/the-devil-wears-prada-2-review-meryl-streep-anne-hathaway-return-chic-but-bland-sequel",
-        "publishedAt": "2026-05-02T13:00:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
       }
     ]
   },
