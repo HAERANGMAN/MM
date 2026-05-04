@@ -1,105 +1,19 @@
 {
-  "generated_at": "2026-05-04T17:02:40.300984+00:00",
+  "generated_at": "2026-05-04T18:25:34.922437+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump Says U.S. Will Withdraw 'A Lot' More Than 5,000 Troops From Germany",
-        "description": "President Donald Trump has said that far more troop reductions are in the offing after the Pentagon announced on Friday that some 5,000 U.S. soldiers would be withdrawn from bases in Germany over the coming year.\nThe post Trump Says U.S. Will Withdraw ‘A Lot’…",
-        "url": "https://www.breitbart.com/europe/2026/05/03/trump-says-u-s-will-withdraw-a-lot-more-than-5000-troops-from-germany/",
-        "publishedAt": "2026-05-03T12:20:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Exclusive -- Deputy Italian Prime Minister Matteo Salvini: Trump’s ‘Courage’ for ‘Cultural Foundation’ Critical to Survival of the West",
-        "description": "MILAN, Italy — While President Donald Trump and Italian Prime Minister Giorgia Meloni may have been somewhat feuding over Trump’s criticisms of Pope Leo XIV and NATO during the Iran war, there remains deep ties between the movements that elected both of the l…",
-        "url": "https://www.breitbart.com/politics/2026/05/03/exclusive-deputy-italian-prime-minister-matteo-salvini-trumps-courage-for-cultural-foundation-critical-to-survival-of-the-west/",
-        "publishedAt": "2026-05-03T10:59:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New RBI rules for shadow banks may put Tata Sons IPO on radar",
-        "description": "The Reserve Bank of India this week said shadow lenders that are accepting money from associates and group entities will be counted as having indirect access to public funds",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-02/new-rules-for-india-shadow-banks-may-put-tata-sons-ipo-on-radar",
-        "publishedAt": "2026-05-03T04:11:33Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mark Levin: Hakeem Jeffries seems to think he owns the Constitution | Fox News Video",
-        "description": "Fox News host Mark Levin analyzes House Minority Leader Hakeem Jeffries' Supreme Court criticism, voting access and more on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6394456270112",
-        "publishedAt": "2026-05-03T01:04:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Republican Senate Candidate Mike Rogers Warns Democrats 'Want to Mandami Michigan'",
-        "description": "Michigan Republican Senate candidate and former House Intelligence Committee chairman Mike Rogers outlined his view of the state’s political landscape during a radio interview, as host Matthew Boyle described the race as “arguably the number one Republican pi…",
-        "url": "https://www.breitbart.com/politics/2026/05/02/exclusive-republican-senate-candidate-mike-rogers-warns-democrats-want-to-mandami-michigan/",
-        "publishedAt": "2026-05-03T00:21:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Police: 3 Shot, 1 Fatally, at Post-Prom Party in Indianapolis",
-        "description": "Three people were shot, one of them fatally, around 12:45 a.m. Sunday at a post-prom party in Indianapolis, Indiana.\nThe post Police: 3 Shot, 1 Fatally, at Post-Prom Party in Indianapolis appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/03/police-3-shot-1-fatally-at-post-prom-party-in-indianapolis/",
-        "publishedAt": "2026-05-03T15:37:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "The surprising cost of renting a horse stall at Churchill Downs during the Kentucky Derby",
-        "description": "Stabling a horse at Churchill Downs costs just $7.50 per stall, a surprising contrast to the millions spent preparing thoroughbreds for the Derby.",
-        "url": "https://www.foxnews.com/sports/surprising-cost-renting-horse-stall-churchill-downs-kentucky-derby",
-        "publishedAt": "2026-05-03T12:59:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "2 US service members missing in Morocco after multinational military exercise, search underway",
-        "description": "A search-and-rescue effort is underway after two U.S. service members went missing during the African Lion military exercise in southwestern Morocco.",
-        "url": "https://www.foxnews.com/us/2-us-service-members-missing-morocco-multinational-military-exercise-search-underway",
-        "publishedAt": "2026-05-03T12:48:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Nvidia’s push into physical AI sparks rally in Asian partners",
-        "description": "Nvidia's expansion into physical AI boosts Asian partners, driving stock rallies and highlighting the region's critical role in AI supply chains.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia",
-        "publishedAt": "2026-05-03T05:22:19Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
