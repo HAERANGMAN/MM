@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-05-04T09:09:15.716527+00:00",
+  "generated_at": "2026-05-04T11:17:26.363832+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Exclusive -- Deputy Italian Prime Minister Matteo Salvini: Trump’s ‘Courage’ for ‘Cultural Foundation’ Critical to Survival of the West",
+        "description": "MILAN, Italy — While President Donald Trump and Italian Prime Minister Giorgia Meloni may have been somewhat feuding over Trump’s criticisms of Pope Leo XIV and NATO during the Iran war, there remains deep ties between the movements that elected both of the l…",
+        "url": "https://www.breitbart.com/politics/2026/05/03/exclusive-deputy-italian-prime-minister-matteo-salvini-trumps-courage-for-cultural-foundation-critical-to-survival-of-the-west/",
+        "publishedAt": "2026-05-03T10:59:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New RBI rules for shadow banks may put Tata Sons IPO on radar",
+        "description": "The Reserve Bank of India this week said shadow lenders that are accepting money from associates and group entities will be counted as having indirect access to public funds",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-02/new-rules-for-india-shadow-banks-may-put-tata-sons-ipo-on-radar",
+        "publishedAt": "2026-05-03T04:11:33Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mark Levin: Hakeem Jeffries seems to think he owns the Constitution | Fox News Video",
+        "description": "Fox News host Mark Levin analyzes House Minority Leader Hakeem Jeffries' Supreme Court criticism, voting access and more on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6394456270112",
+        "publishedAt": "2026-05-03T01:04:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Republican Senate Candidate Mike Rogers Warns Democrats 'Want to Mandami Michigan'",
+        "description": "Michigan Republican Senate candidate and former House Intelligence Committee chairman Mike Rogers outlined his view of the state’s political landscape during a radio interview, as host Matthew Boyle described the race as “arguably the number one Republican pi…",
+        "url": "https://www.breitbart.com/politics/2026/05/02/exclusive-republican-senate-candidate-mike-rogers-warns-democrats-want-to-mandami-michigan/",
+        "publishedAt": "2026-05-03T00:21:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Minnesota fraud revelations are shocking, but not surprising: Heritage Foundation research fellow | Fox News Video",
+        "description": "Heritage Foundation research fellow Rachel Sheffield discusses the Trump administration’s Minnesota Medicaid pause on ‘Fox Report.’",
+        "url": "https://www.foxnews.com/video/6394442081112",
+        "publishedAt": "2026-05-02T22:44:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Nvidia’s push into physical AI sparks rally in Asian partners",
+        "description": "Nvidia's expansion into physical AI boosts Asian partners, driving stock rallies and highlighting the region's critical role in AI supply chains.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia",
+        "publishedAt": "2026-05-03T05:22:19Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'The Devil Wears Prada 2' Review: Meryl Streep, Anne Hathaway return for a chic but bland sequel",
+        "description": "Fox News Digital reviews 20th Century Studios' \"The Devil Wears Prada 2\" starring Meryl Streep, Anne Hathaway, Stanley Tucci and Emily Blunt. Directed by David Frankel.",
+        "url": "https://www.foxnews.com/opinion/the-devil-wears-prada-2-review-meryl-streep-anne-hathaway-return-chic-but-bland-sequel",
+        "publishedAt": "2026-05-02T13:00:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "U.S. Threatens Sanctions Against Ships That Pay Strait of Hormuz Tolls to Iran",
+        "description": "The United States is warning shipping companies that they could face sanctions for making payments to Iran to safely pass through the Strait of Hormuz.\nThe post U.S. Threatens Sanctions Against Ships That Pay Strait of Hormuz Tolls to Iran appeared first on B…",
+        "url": "https://www.breitbart.com/europe/2026/05/02/u-s-threatens-sanctions-against-ships-that-pay-strait-of-hormuz-tolls-to-iran/",
+        "publishedAt": "2026-05-02T12:42:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ukraine Strikes Oil Depots Deep Inside Russia, Sending Prices Soaring",
+        "description": "Ukrainian drones are flying deep into Russia to strike oil facilities, sending up plumes of smoke that can be seen from space and bringing toxic rain to tourist destinations on the Black Sea.\nThe post Ukraine Strikes Oil Depots Deep Inside Russia, Sending Pri…",
+        "url": "https://www.breitbart.com/europe/2026/05/02/ukraine-strikes-oil-depots-deep-inside-russia-sending-prices-soaring/",
+        "publishedAt": "2026-05-02T12:24:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Michael Jackson biopic ends before his most controversial chapter: What happened next",
+        "description": "The hit Michael Jackson biopic ended in 1988, but his life grew far more controversial. Explore the allegations, trial and events that followed.",
+        "url": "https://www.foxnews.com/entertainment/michael-jackson-biopic-ends-controversial-chapter-happened-next",
+        "publishedAt": "2026-05-02T12:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1988"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
