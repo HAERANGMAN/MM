@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-05T20:54:02.051079+00:00",
+  "generated_at": "2026-05-05T21:57:34.473705+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria",
-        "description": "Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups.",
-        "url": "https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria",
-        "publishedAt": "2026-05-04T18:23:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive – Michael Whatley: Gas Prices Would Be Much Worse If Trump Had Not Unleashed American Energy",
-        "description": "Gas prices would be far worse if President Donald Trump had not unleashed American energy after it was stifled by the Biden administration, Michael Whatley said.\nThe post Exclusive – Michael Whatley: Gas Prices Would Be Much Worse If Trump Had Not Unleashed A…",
-        "url": "https://www.breitbart.com/politics/2026/05/04/exclusive-michael-whatley-gas-prices-would-be-much-worse-if-trump-had-not-unleashed-american-energy/",
-        "publishedAt": "2026-05-04T17:56:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Minnesota T-Wolves at San Antonio Spurs best bet for Game 1 of the 2026 Western Conference Semifinals",
-        "description": "The Timberwolves and Spurs should see a slower pace and a defensive battle in Game 1 of their semifinal matchup.",
-        "url": "https://www.foxnews.com/outkick-sports/minnesota-wolves-san-antonio-spurs-best-bet-game-1-2026-western-conference-semifinals",
-        "publishedAt": "2026-05-04T17:32:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Factory Orders Jump on AI Surge",
-        "description": "New orders for U.S. factory goods rose more than expected in March, driven by surging demand for electronics products amid the artificial intelligence investment boom. Factory orders climbed 1.5 percent last month, the biggest gain since November, the Census …",
-        "url": "https://www.breitbart.com/economy/2026/05/04/factory-orders-jump-on-surge-in-ai-demand/",
-        "publishedAt": "2026-05-04T17:24:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1.5"
-      },
-      {
-        "title": "Driver Arrested After Two Killed, Several Injured by Car Driven Through Crowd in German City",
-        "description": "Two people have died and others are in life-threatening condition after a car was driven at \"high speed\" through a crowd in Germany.\nThe post Driver Arrested After Two Killed, Several Injured by Car Driven Through Crowd in German City appeared first on Breitb…",
-        "url": "https://www.breitbart.com/europe/2026/05/04/driver-arrested-after-two-killed-by-car-driven-through-crowd/",
-        "publishedAt": "2026-05-04T17:01:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump Says Iran Attacked South Korean Ship in the Strait of Hormuz",
-        "description": "A South Korean cargo ship called HMM Namu reported a fire and explosion on Monday near the Strait of Hormuz.\nThe post Trump Says Iran Attacked South Korean Ship in the Strait of Hormuz appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/05/04/trump-says-iran-attacked-south-korean-ship-in-the-strait-of-hormuz/",
-        "publishedAt": "2026-05-04T19:45:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Mike Waltz pushes UN resolution to stop Iran mining key global shipping route",
-        "description": "The U.S. is advancing a UN resolution against Iran's actions in the Strait of Hormuz as military forces secure shipping under Project Freedom.",
-        "url": "https://www.foxnews.com/world/mike-waltz-pushes-un-resolution-stop-iran-mining-key-global-shipping-route",
-        "publishedAt": "2026-05-04T19:52:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Met Gala: Hollywood Elite, Fashion World's Biggest Night Bombarded by Boycott Calls over Bezos Sponsorship",
-        "description": "This year’s Met Gala has drawn controversy after Amazon boss Jeff Bezos and his wife Lauren Sanchez Bezos were announced as the lead sponsors and honorary co-chairs of the gala.\nThe post Met Gala: Hollywood Elite, Fashion World’s Biggest Night Bombarded by Bo…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/04/met-gala-hollywood-elite-fashion-worlds-biggest-night-bombarded-by-boycott-calls-over-bezos-sponsorship/",
-        "publishedAt": "2026-05-04T19:32:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria",
-        "description": "Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups.",
-        "url": "https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria",
-        "publishedAt": "2026-05-04T18:23:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "National Association for Gun Rights: Minnesota Dems Pushing Gun Ban via Omnibus Bill",
-        "description": "The National Association for Gun Rights is warning Minnesotans that Democrat lawmakers are trying to push a gun ban via SF 4067.\nThe post National Association for Gun Rights: Minnesota Dems Pushing Gun Ban via Omnibus Bill appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/04/national-association-gun-rights-minnesota-dems-pushing-gun-ban-omnibus-bill/",
-        "publishedAt": "2026-05-04T16:59:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4067"
-      },
-      {
-        "title": "China blocks Meta AI deal over security concerns",
-        "description": "China's regulators stopped Meta's reported $2 billion deal to acquire Manus, an AI startup, requiring all parties to withdraw amid a growing U.S.-China tech rivalry.",
-        "url": "https://www.foxnews.com/tech/china-blocks-meta-ai-deal-over-security-concerns",
-        "publishedAt": "2026-05-04T15:08:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
