@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T19:52:42.905265+00:00",
+  "generated_at": "2026-05-05T20:54:02.051079+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Mike Waltz pushes UN resolution to stop Iran mining key global shipping route",
+        "description": "The U.S. is advancing a UN resolution against Iran's actions in the Strait of Hormuz as military forces secure shipping under Project Freedom.",
+        "url": "https://www.foxnews.com/world/mike-waltz-pushes-un-resolution-stop-iran-mining-key-global-shipping-route",
+        "publishedAt": "2026-05-04T19:52:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Met Gala: Hollywood Elite, Fashion World's Biggest Night Bombarded by Boycott Calls over Bezos Sponsorship",
         "description": "This year’s Met Gala has drawn controversy after Amazon boss Jeff Bezos and his wife Lauren Sanchez Bezos were announced as the lead sponsors and honorary co-chairs of the gala.\nThe post Met Gala: Hollywood Elite, Fashion World’s Biggest Night Bombarded by Bo…",
         "url": "https://www.breitbart.com/entertainment/2026/05/04/met-gala-hollywood-elite-fashion-worlds-biggest-night-bombarded-by-boycott-calls-over-bezos-sponsorship/",
@@ -106,16 +116,6 @@
         "publishedAt": "2026-05-04T15:08:06Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Nolte: Anti-Capitalist ‘Animal Farm’ Bombs, ‘Michael’ Still Defying Woke Critics",
-        "description": "Director Andy Serkis took the anti-communist classic Animal Farm and turned it into an anti-capitalist children’s movie complete with fart jokes. The result? Well, God bless America, it was humiliated at the box office with a catastrophic $3.4 million debut w…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/04/nolte-anti-capitalist-animal-farm-bombs-michael-still-defying-woke-critics/",
-        "publishedAt": "2026-05-04T15:04:55Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "$"
       }
