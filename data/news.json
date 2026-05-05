@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-05-05T16:56:08.654458+00:00",
+  "generated_at": "2026-05-05T18:11:35.178016+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Exclusive – Michael Whatley: Gas Prices Would Be Much Worse If Trump Had Not Unleashed American Energy",
+        "description": "Gas prices would be far worse if President Donald Trump had not unleashed American energy after it was stifled by the Biden administration, Michael Whatley said.\nThe post Exclusive – Michael Whatley: Gas Prices Would Be Much Worse If Trump Had Not Unleashed A…",
+        "url": "https://www.breitbart.com/politics/2026/05/04/exclusive-michael-whatley-gas-prices-would-be-much-worse-if-trump-had-not-unleashed-american-energy/",
+        "publishedAt": "2026-05-04T17:56:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Minnesota T-Wolves at San Antonio Spurs best bet for Game 1 of the 2026 Western Conference Semifinals",
+        "description": "The Timberwolves and Spurs should see a slower pace and a defensive battle in Game 1 of their semifinal matchup.",
+        "url": "https://www.foxnews.com/outkick-sports/minnesota-wolves-san-antonio-spurs-best-bet-game-1-2026-western-conference-semifinals",
+        "publishedAt": "2026-05-04T17:32:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Factory Orders Jump on AI Surge",
+        "description": "New orders for U.S. factory goods rose more than expected in March, driven by surging demand for electronics products amid the artificial intelligence investment boom. Factory orders climbed 1.5 percent last month, the biggest gain since November, the Census …",
+        "url": "https://www.breitbart.com/economy/2026/05/04/factory-orders-jump-on-surge-in-ai-demand/",
+        "publishedAt": "2026-05-04T17:24:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1.5"
+      },
+      {
+        "title": "Driver Arrested After Two Killed, Several Injured by Car Driven Through Crowd in German City",
+        "description": "Two people have died and others are in life-threatening condition after a car was driven at \"high speed\" through a crowd in Germany.\nThe post Driver Arrested After Two Killed, Several Injured by Car Driven Through Crowd in German City appeared first on Breitb…",
+        "url": "https://www.breitbart.com/europe/2026/05/04/driver-arrested-after-two-killed-by-car-driven-through-crowd/",
+        "publishedAt": "2026-05-04T17:01:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Revenge of the Meme Stock: GameStop Proposes $56 Billion Acquisition of eBay to Compete with Amazon",
         "description": "Video game retailer GameStop announced Sunday it has made an unsolicited offer to acquire online marketplace eBay for approximately $56 billion in a cash-and-stock transaction, marking one of the most ambitious takeover attempts in recent corporate history.\nT…",
@@ -13,51 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Bessent: 'We Have Absolute Control of the Strait'",
-        "description": "Monday on FNC's \"America's Newsroom,\" Treasury Secretary Scott Bessent argued Iranian efforts to shut down the Strait of Hormuz were ineffective and that the United States had control of the strait.\nThe post Bessent: ‘We Have Absolute Control of the Strait’ a…",
-        "url": "https://www.breitbart.com/clips/2026/05/04/bessent-we-have-absolute-control-of-the-strait/",
-        "publishedAt": "2026-05-04T16:06:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tenn Gov Lee calls special session to redraw House map in GOP's favor 9-0",
-        "description": "Gov. Bill Lee called a special legislative session after speaking with Trump to potentially redraw Tennessee's lone blue district before 2026 midterms.",
-        "url": "https://www.foxnews.com/politics/tenn-gov-lee-calls-special-session-redraw-house-map-gops-favor-9-0",
-        "publishedAt": "2026-05-04T16:04:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "6 months to midterms: The Senate seats that could tip the balance of power",
-        "description": "The 2026 midterm elections feature ten competitive Senate races that could determine whether Republicans hold or lose their current 53-47 majority.",
-        "url": "https://www.foxnews.com/politics/six-months-midterms-senate-seats-could-tip-balance-power",
-        "publishedAt": "2026-05-04T15:38:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "6"
-      },
-      {
-        "title": "Nissan Abandons American EV Production Plans, Shifts Focus to Truck Manufacturing",
-        "description": "Nissan has officially canceled its plans to manufacture electric vehicles at its Mississippi assembly plant, opting instead to produce a lineup of body-on-frame trucks and SUVs.\nThe post Nissan Abandons American EV Production Plans, Shifts Focus to Truck Manu…",
-        "url": "https://www.breitbart.com/tech/2026/05/04/nissan-abandons-american-ev-production-plans-shifts-focus-to-truck-manufacturing/",
-        "publishedAt": "2026-05-04T15:30:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "National Association for Gun Rights: Minnesota Dems Pushing Gun Ban via Omnibus Bill",
+        "description": "The National Association for Gun Rights is warning Minnesotans that Democrat lawmakers are trying to push a gun ban via SF 4067.\nThe post National Association for Gun Rights: Minnesota Dems Pushing Gun Ban via Omnibus Bill appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/04/national-association-gun-rights-minnesota-dems-pushing-gun-ban-omnibus-bill/",
+        "publishedAt": "2026-05-04T16:59:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4067"
+      },
       {
         "title": "China blocks Meta AI deal over security concerns",
         "description": "China's regulators stopped Meta's reported $2 billion deal to acquire Manus, an AI startup, requiring all parties to withdraw amid a growing U.S.-China tech rivalry.",
@@ -93,16 +103,6 @@
         "description": "The Nexstar-Tegna transaction could bolster local television journalism by providing the scale needed to compete with Big Tech and streaming giants.",
         "url": "https://www.foxnews.com/opinion/steve-forbes-regulators-risk-destroying-local-tv-blocking-key-media-merger",
         "publishedAt": "2026-05-04T13:00:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Treasury Secretary Bessent warns Americans about AI-driven bank account hacks as threats rapidly evolve",
-        "description": "Treasury Secretary Bessent warns Americans about AI-driven bank account hacks as powerful new AI models expose vulnerabilities in financial systems.",
-        "url": "https://www.foxnews.com/media/treasury-secretary-bessent-warns-americans-about-ai-driven-bank-account-hacks-threats-rapidly-evolve",
-        "publishedAt": "2026-05-04T12:41:49Z",
         "source": {
           "name": "Fox News"
         },
