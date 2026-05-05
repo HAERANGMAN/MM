@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-05T18:11:35.178016+00:00",
+  "generated_at": "2026-05-05T19:52:42.905265+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria",
+        "description": "Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups.",
+        "url": "https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria",
+        "publishedAt": "2026-05-04T18:23:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Exclusive – Michael Whatley: Gas Prices Would Be Much Worse If Trump Had Not Unleashed American Energy",
         "description": "Gas prices would be far worse if President Donald Trump had not unleashed American energy after it was stifled by the Biden administration, Michael Whatley said.\nThe post Exclusive – Michael Whatley: Gas Prices Would Be Much Worse If Trump Had Not Unleashed A…",
@@ -43,21 +53,42 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Revenge of the Meme Stock: GameStop Proposes $56 Billion Acquisition of eBay to Compete with Amazon",
-        "description": "Video game retailer GameStop announced Sunday it has made an unsolicited offer to acquire online marketplace eBay for approximately $56 billion in a cash-and-stock transaction, marking one of the most ambitious takeover attempts in recent corporate history.\nT…",
-        "url": "https://www.breitbart.com/tech/2026/05/04/revenge-of-the-meme-stock-gamestop-proposes-56-billion-acquisition-of-ebay-to-compete-with-amazon/",
-        "publishedAt": "2026-05-04T16:47:50Z",
+        "title": "Trump Says Iran Attacked South Korean Ship in the Strait of Hormuz",
+        "description": "A South Korean cargo ship called HMM Namu reported a fire and explosion on Monday near the Strait of Hormuz.\nThe post Trump Says Iran Attacked South Korean Ship in the Strait of Hormuz appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/05/04/trump-says-iran-attacked-south-korean-ship-in-the-strait-of-hormuz/",
+        "publishedAt": "2026-05-04T19:45:02Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "$"
+        "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Met Gala: Hollywood Elite, Fashion World's Biggest Night Bombarded by Boycott Calls over Bezos Sponsorship",
+        "description": "This year’s Met Gala has drawn controversy after Amazon boss Jeff Bezos and his wife Lauren Sanchez Bezos were announced as the lead sponsors and honorary co-chairs of the gala.\nThe post Met Gala: Hollywood Elite, Fashion World’s Biggest Night Bombarded by Bo…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/04/met-gala-hollywood-elite-fashion-worlds-biggest-night-bombarded-by-boycott-calls-over-bezos-sponsorship/",
+        "publishedAt": "2026-05-04T19:32:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria",
+        "description": "Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups.",
+        "url": "https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria",
+        "publishedAt": "2026-05-04T18:23:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "National Association for Gun Rights: Minnesota Dems Pushing Gun Ban via Omnibus Bill",
         "description": "The National Association for Gun Rights is warning Minnesotans that Democrat lawmakers are trying to push a gun ban via SF 4067.\nThe post National Association for Gun Rights: Minnesota Dems Pushing Gun Ban via Omnibus Bill appeared first on Breitbart.",
@@ -87,26 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "At Least 10 Injured When 2 Masked Gunmen Open Fire at Oklahoma Lake",
-        "description": "At least 10 people were injured Sunday night in Oklahoma when two masked gunman opened fire \"at a park near Arcadia Lake,\" according to FOX 25.\nThe post At Least 10 Injured When 2 Masked Gunmen Open Fire at Oklahoma Lake appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/04/at-least-10-injured-when-2-masked-gunmen-open-fire-at-oklahoma-lake/",
-        "publishedAt": "2026-05-04T13:09:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "STEVE FORBES: Regulators risk destroying local TV by blocking key media merger",
-        "description": "The Nexstar-Tegna transaction could bolster local television journalism by providing the scale needed to compete with Big Tech and streaming giants.",
-        "url": "https://www.foxnews.com/opinion/steve-forbes-regulators-risk-destroying-local-tv-blocking-key-media-merger",
-        "publishedAt": "2026-05-04T13:00:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
