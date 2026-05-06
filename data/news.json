@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-06T21:18:23.354323+00:00",
+  "generated_at": "2026-05-06T22:10:33.671170+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "RFK Jr. unveils initiative targeting 'overuse' of psychiatric medications, especially among children",
-        "description": "RFK Jr. unveiled a new HHS initiative targeting overuse of psychiatric medications, especially among children, as part of a broader mental health strategy.",
-        "url": "https://www.foxnews.com/politics/rfk-jr-unveils-initiative-targeting-overuse-psychiatric-medications-especially-children",
-        "publishedAt": "2026-05-05T20:45:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis",
-        "description": "The United States overtook Saudi Arabia to become the world’s largest exporter of crude oil over the past nine weeks.\nThe post U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/05/05/u-s-becomes-worlds-biggest-oil-producer-during-strait-hormuz-crisis/",
-        "publishedAt": "2026-05-05T20:33:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "LeBron James facing something against Thunder he's never seen in his 23-year career",
-        "description": "The Lakers are historic 15.5-point underdogs against Oklahoma City in their Western Conference semifinal, a first in LeBron's 23-season NBA career.",
-        "url": "https://www.foxnews.com/outkick-sports/lebron-james-facing-something-thunder-hes-never-seen-23-year-career",
-        "publishedAt": "2026-05-05T20:28:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "23"
-      },
-      {
-        "title": "WATCH LIVE: Secretary of State Rubio holds White House press briefing | Fox News Video",
-        "description": "Secretary of State Marco Rubio joins the White House press briefing to provide updates on the latest administration priorities.",
-        "url": "https://www.foxnews.com/video/6394700449112",
-        "publishedAt": "2026-05-05T19:12:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats",
-        "description": "The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.",
-        "url": "https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats",
-        "publishedAt": "2026-05-05T18:32:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Reports: Brazil's Lula da Silva to Meet Trump at White House",
-        "description": "Socialist President of Brazil Luiz Inácio Lula da Silva will meet with President Donald Trump at the White House on Thursday, May 7, Brazilian government sources claimed to several outlets on Monday.\nThe post Reports: Brazil’s Lula da Silva to Meet Trump at W…",
-        "url": "https://www.breitbart.com/latin-america/2026/05/05/reports-brazils-lula-da-silva-to-meet-with-trump-this-week/",
-        "publishedAt": "2026-05-05T18:21:55Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "7"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis",
-        "description": "The United States overtook Saudi Arabia to become the world’s largest exporter of crude oil over the past nine weeks.\nThe post U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/05/05/u-s-becomes-worlds-biggest-oil-producer-during-strait-hormuz-crisis/",
-        "publishedAt": "2026-05-05T20:33:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Bombs UAE Oil Facility, Announces Plans to Take Control of Emirati Ports",
-        "description": "Iran ramped up its missile and drone attacks on the United Arab Emirates (UAE) on Monday night, setting a major oil port known as the Fujairah Oil Industry Zone ablaze. Three Indian nationals were injured, prompting Indian Prime Minister Narendra Modi to deno…",
-        "url": "https://www.breitbart.com/economy/2026/05/05/iran-bombs-uae-oil-facility-announces-plans-to-take-control-of-emirati-ports/",
-        "publishedAt": "2026-05-05T20:24:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Three Passengers Dead After Outbreak of Hantavirus on Cruise Ship",
-        "description": "The World Health Organization says risk to the general public was “low” from the outbreak of deadly hantavirus aboard a cruise ship.",
-        "url": "https://www.breitbart.com/health/2026/05/05/three-passengers-dead-after-outbreak-of-hantavirus-disease-spread-by-rodents-on-cruise-ship-baffles-experts/",
-        "publishedAt": "2026-05-05T20:17:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Agent Rich Paul further pushes lazy talking point that the media favors Jokic over LeBron",
-        "description": "Agent Rich Paul claims the press treats Nikola Jokic more easily than LeBron James after Denver's playoff loss, sparking debate over media double standards.",
-        "url": "https://www.foxnews.com/outkick-sports/agent-rich-paul-pushes-lazy-talking-point-media-favors-jokic-lebron",
-        "publishedAt": "2026-05-05T20:01:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats",
-        "description": "The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.",
-        "url": "https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats",
-        "publishedAt": "2026-05-05T18:32:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
