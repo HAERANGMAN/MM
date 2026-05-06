@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-06T18:10:30.639825+00:00",
+  "generated_at": "2026-05-06T20:00:50.865727+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "WATCH LIVE: Secretary of State Rubio holds White House press briefing | Fox News Video",
+        "description": "Secretary of State Marco Rubio joins the White House press briefing to provide updates on the latest administration priorities.",
+        "url": "https://www.foxnews.com/video/6394700449112",
+        "publishedAt": "2026-05-05T19:12:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats",
+        "description": "The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.",
+        "url": "https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats",
+        "publishedAt": "2026-05-05T18:32:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bet on the Pistons bullying the Cavaliers in the 2026 Eastern Conference Semifinals",
+        "description": "Despite Cleveland's All-Star scorers, the No. 1-seed Detroit Pistons are favored to beat the No. 4-seed Cavaliers in the 2026 Eastern Conference Semifinals.",
+        "url": "https://www.foxnews.com/outkick-sports/bet-pistons-bullying-cavaliers-2026-eastern-conference-semifinals",
+        "publishedAt": "2026-05-05T18:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Top airline offers $99 rescue fares as thousands are left stranded by Spirit shutdown",
+        "description": "JetBlue offers $99 rescue fares to stranded Spirit Airlines customers and expands service in Fort Lauderdale and San Juan after Spirit's shutdown.",
+        "url": "https://www.foxnews.com/travel/top-airline-offers-99-rescue-fares-thousands-left-stranded-spirit-shutdown",
+        "publishedAt": "2026-05-05T17:54:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Coinbase Lays Off 14% of Employees in AI Transformation",
+        "description": "Cryptocurrency exchange Coinbase has revealed plans to lay off about 14 percent of its workforce, with CEO Brian Armstrong citing market volatility and the accelerating impact of artificial intelligence on company operations.\nThe post Coinbase Lays Off 14% of…",
+        "url": "https://www.breitbart.com/tech/2026/05/05/coinbase-lays-off-14-of-employees-in-ai-transformation/",
+        "publishedAt": "2026-05-05T17:53:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "14"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Reports: Brazil's Lula da Silva to Meet Trump at White House",
+        "description": "Socialist President of Brazil Luiz Inácio Lula da Silva will meet with President Donald Trump at the White House on Thursday, May 7, Brazilian government sources claimed to several outlets on Monday.\nThe post Reports: Brazil’s Lula da Silva to Meet Trump at W…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/05/reports-brazils-lula-da-silva-to-meet-with-trump-this-week/",
+        "publishedAt": "2026-05-05T18:21:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "7"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats",
+        "description": "The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.",
+        "url": "https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats",
+        "publishedAt": "2026-05-05T18:32:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fashion Notes: Once Fashion's Most Elegant Evening, Met Gala Circus Brings Out the Clowns",
+        "description": "What started as a ravishing benefit for the Metropolitan Museum of Art's Costume Institute -- featuring New York City's upper crust, the fashion industry's top tier, starlets as style muses, and supermodels -- has spiraled into a circus with Condé Nast's Anna…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/05/fashion-notes-once-fashions-most-elegant-evening-met-gala-circus-brings-out-the-clowns/",
+        "publishedAt": "2026-05-05T17:50:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Critic German Chancellor Merz Plunges to Least Popular Leader in Europe",
+        "description": "Chancellor Merz's bid to bolster his domestic image by appearing tough on President Trump appears to have gained him little traction, with the German leader enjoying rock-bottom approval domestically and the lowest approval of any major European leader.\nThe p…",
+        "url": "https://www.breitbart.com/europe/2026/05/05/trump-critic-german-chancellor-plunges-to-least-popular-in-europe/",
+        "publishedAt": "2026-05-05T17:09:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart News to Host Policy Event with Secretary Doug Burgum on Harnessing American Power",
+        "description": "Breitbart News is hosting a policy event with Interior Secretary and Chairman of the National Energy Dominance Council Doug Burgum focused on American energy dominance and artificial intelligence.\nThe post Breitbart News to Host Policy Event with Secretary Do…",
+        "url": "https://www.breitbart.com/politics/2026/05/05/breitbart-news-to-host-policy-event-with-secretary-doug-burgum-on-harnessing-american-power/",
+        "publishedAt": "2026-05-05T16:12:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran's Foreign Minister Preempts Trump Visit with His Own Stop in China",
+        "description": "The Chinese Foreign Ministry confirmed on Tuesday that Iranian Foreign Minister Abbas Araghchi was flying to Beijing for a meeting \"upon invitation\" with his Chinese counterpart, Foreign Minister Wang Yi, on May 6.\nThe post Iran’s Foreign Minister Preempts Tr…",
+        "url": "https://www.breitbart.com/asia/2026/05/05/irans-foreign-minister-preempts-trump-visit-with-his-own-stop-in-china/",
+        "publishedAt": "2026-05-05T15:55:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "6"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
