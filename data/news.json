@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-05-06T23:06:17.822479+00:00",
+  "generated_at": "2026-05-07T00:01:37.536575+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Why Starbucks picked Nashville over Seattle for expansion, according to local business reporter",
+        "description": "A Seattle business reporter questions why Starbucks is expanding in Nashville over Washington, suggesting the state's tax climate may be driving the move.",
+        "url": "https://www.foxnews.com/media/why-starbucks-picked-nashville-over-seattle-expansion-according-local-business-reporter",
+        "publishedAt": "2026-05-06T00:00:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: JOLTS Says the Labor Market Is Healthy",
+        "description": "The March JOLTS report reveals a healthy labor market operating under new structural conditions.\nThe post Breitbart Business Digest: JOLTS Says the Labor Market Is Healthy appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/05/05/breitbart-business-digest-jolts-says-the-labor-market-is-healthy/",
+        "publishedAt": "2026-05-05T21:34:20Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bernie Sanders’ anti-Netflix crusade hits the skids after filings expose awkward twist",
+        "description": "Bernie Sanders' campaign paid for a Netflix subscription with donor money despite the senator's repeated criticism of the streaming service, records show.",
+        "url": "https://www.foxnews.com/politics/bernie-sanders-anti-netflix-crusade-hits-skids-after-filings-expose-awkward-twist",
+        "publishedAt": "2026-05-05T21:30:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DC police officials face termination after federal probe found department manipulated crime data: report",
+        "description": "Several high-ranking D.C. police officials face termination amid a federal probe alleging leaders manipulated crime data to appear much safer.",
+        "url": "https://www.foxnews.com/politics/dc-police-officials-face-termination-federal-probe-found-department-manipulated-crime-data",
+        "publishedAt": "2026-05-05T21:23:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Angels seem completely unaware they are the worst team in MLB: 'Our best baseball is ahead of us'",
+        "description": "Mike Trout is thriving at 34, but the last-place Angels refuse to pivot toward a rebuild, raising questions about the franchise's future direction.",
+        "url": "https://www.foxnews.com/outkick-sports/angels-seem-completely-unaware-theyre-worst-team-mlb-best-baseball-ahead-us",
+        "publishedAt": "2026-05-05T21:19:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "34"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Pete Hegseth Calls on South Korea to Join Project Freedom After Cargo Ship Suffers Explosion in Strait of Hormuz",
+        "description": "Sec. of War Pete Hegseth echoed calls from President Trump for South Korea to join \"Project Freedom\" after a ship operated by a Seoul firm suffered an explosion in the Strait of Hormuz. \nThe post Pete Hegseth Calls on South Korea to Join Project Freedom After…",
+        "url": "https://www.breitbart.com/middle-east/2026/05/05/pete-hegseth-calls-on-south-korea-join-project-freedom-after-cargo-ship-suffers-explosion-strait-hormuz/",
+        "publishedAt": "2026-05-05T21:25:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Reports: Brazil's Lula da Silva to Meet Trump at White House",
+        "description": "Socialist President of Brazil Luiz Inácio Lula da Silva will meet with President Donald Trump at the White House on Thursday, May 7, Brazilian government sources claimed to several outlets on Monday.\nThe post Reports: Brazil’s Lula da Silva to Meet Trump at W…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/05/reports-brazils-lula-da-silva-to-meet-with-trump-this-week/",
+        "publishedAt": "2026-05-05T18:21:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "7"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Why Starbucks picked Nashville over Seattle for expansion, according to local business reporter",
+        "description": "A Seattle business reporter questions why Starbucks is expanding in Nashville over Washington, suggesting the state's tax climate may be driving the move.",
+        "url": "https://www.foxnews.com/media/why-starbucks-picked-nashville-over-seattle-expansion-according-local-business-reporter",
+        "publishedAt": "2026-05-06T00:00:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis",
+        "description": "The United States overtook Saudi Arabia to become the world’s largest exporter of crude oil over the past nine weeks.\nThe post U.S. Becomes World’s Biggest Oil Producer During Strait of Hormuz Crisis appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/05/05/u-s-becomes-worlds-biggest-oil-producer-during-strait-hormuz-crisis/",
+        "publishedAt": "2026-05-05T20:33:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran Bombs UAE Oil Facility, Announces Plans to Take Control of Emirati Ports",
+        "description": "Iran ramped up its missile and drone attacks on the United Arab Emirates (UAE) on Monday night, setting a major oil port known as the Fujairah Oil Industry Zone ablaze. Three Indian nationals were injured, prompting Indian Prime Minister Narendra Modi to deno…",
+        "url": "https://www.breitbart.com/economy/2026/05/05/iran-bombs-uae-oil-facility-announces-plans-to-take-control-of-emirati-ports/",
+        "publishedAt": "2026-05-05T20:24:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Three Passengers Dead After Outbreak of Hantavirus on Cruise Ship",
+        "description": "The World Health Organization says risk to the general public was “low” from the outbreak of deadly hantavirus aboard a cruise ship.",
+        "url": "https://www.breitbart.com/health/2026/05/05/three-passengers-dead-after-outbreak-of-hantavirus-disease-spread-by-rodents-on-cruise-ship-baffles-experts/",
+        "publishedAt": "2026-05-05T20:17:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Agent Rich Paul further pushes lazy talking point that the media favors Jokic over LeBron",
+        "description": "Agent Rich Paul claims the press treats Nikola Jokic more easily than LeBron James after Denver's playoff loss, sparking debate over media double standards.",
+        "url": "https://www.foxnews.com/outkick-sports/agent-rich-paul-pushes-lazy-talking-point-media-favors-jokic-lebron",
+        "publishedAt": "2026-05-05T20:01:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
