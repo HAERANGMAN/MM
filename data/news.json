@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-05-07T00:01:37.536575+00:00",
+  "generated_at": "2026-05-07T03:57:26.700857+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Robert Garcia: 'Much of' California's Affordability Issues Are on Trump, 'He's Never Focused On' Affordability",
+        "description": "On Tuesday’s broadcast of CNN’s “The Arena,” Rep. Robert Garcia (D-CA) responded to arguments that Democrats have created cost of living issues in California since they run the state by saying that “much of that is also, I’m going to\nThe post Robert Garcia: ‘…",
+        "url": "https://www.breitbart.com/clips/2026/05/05/robert-garcia-much-of-californias-affordability-issues-are-on-trump-hes-never-focused-on-affordability/",
+        "publishedAt": "2026-05-06T03:04:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Cameron Brink says being white and blonde gives her a marketing privilege over other WNBA players",
+        "description": "Cameron Brink opens up about WNBA marketing privilege, endorsement gaps and financial challenges many players face despite the league's growth.",
+        "url": "https://www.foxnews.com/outkick-sports/cameron-brink-says-white-blonde-gives-marketing-privilege-wnba-players",
+        "publishedAt": "2026-05-06T02:50:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Vivek Ramaswamy Wins Ohio Gubernatorial Republican Primary",
+        "description": "Businessman Vivek Ramaswamy soared to victory over his opponent, Casey Putsch, in Ohio's Republican gubernatorial primary race on Tuesday evening.\nThe post Vivek Ramaswamy Wins Ohio Gubernatorial Republican Primary appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/05/05/vivek-ramaswamy-wins-ohio-gubernatorial-republican-primary/",
+        "publishedAt": "2026-05-06T02:31:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Why Starbucks picked Nashville over Seattle for expansion, according to local business reporter",
         "description": "A Seattle business reporter questions why Starbucks is expanding in Nashville over Washington, suggesting the state's tax climate may be driving the move.",
@@ -23,36 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bernie Sanders’ anti-Netflix crusade hits the skids after filings expose awkward twist",
-        "description": "Bernie Sanders' campaign paid for a Netflix subscription with donor money despite the senator's repeated criticism of the streaming service, records show.",
-        "url": "https://www.foxnews.com/politics/bernie-sanders-anti-netflix-crusade-hits-skids-after-filings-expose-awkward-twist",
-        "publishedAt": "2026-05-05T21:30:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DC police officials face termination after federal probe found department manipulated crime data: report",
-        "description": "Several high-ranking D.C. police officials face termination amid a federal probe alleging leaders manipulated crime data to appear much safer.",
-        "url": "https://www.foxnews.com/politics/dc-police-officials-face-termination-federal-probe-found-department-manipulated-crime-data",
-        "publishedAt": "2026-05-05T21:23:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Angels seem completely unaware they are the worst team in MLB: 'Our best baseball is ahead of us'",
-        "description": "Mike Trout is thriving at 34, but the last-place Angels refuse to pivot toward a rebuild, raising questions about the franchise's future direction.",
-        "url": "https://www.foxnews.com/outkick-sports/angels-seem-completely-unaware-theyre-worst-team-mlb-best-baseball-ahead-us",
-        "publishedAt": "2026-05-05T21:19:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "34"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Woke Overload: Transvestite Quadriplegic Aariana Rose Philip Is Met Gala's First Wheelchair-Bound Guest",
+        "description": "Transgender model Aariana Rose Philip is reportedly the first user of a wheelchair to attend the Met Gala in its 78-year history. Philip — an Antiguan-American model and musician who has quadriplegic cerebral palsy — also became the first-ever black, transgen…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/05/woke-overload-transvestite-quadriplegic-aariana-rose-philip-is-met-galas-first-wheelchair-bound-guest/",
+        "publishedAt": "2026-05-06T02:00:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "78"
+      },
+      {
+        "title": "Zelenskyy blasts ‘absolute cynicism’ as deadly Russian barrage hits Ukraine before planned ceasefire",
+        "description": "Russian drone and missile strikes killed at least 22 people and wounded more than 80 across Ukraine, as President Volodymyr Zelenskyy blasted Moscow’s “absolute cynicism.\"",
+        "url": "https://www.foxnews.com/world/zelenskyy-blasts-absolute-cynicism-deadly-russian-barrage-hits-ukraine-planned-ceasefire",
+        "publishedAt": "2026-05-06T00:39:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "22"
+      },
+      {
         "title": "Why Starbucks picked Nashville over Seattle for expansion, according to local business reporter",
         "description": "A Seattle business reporter questions why Starbucks is expanding in Nashville over Washington, suggesting the state's tax climate may be driving the move.",
         "url": "https://www.foxnews.com/media/why-starbucks-picked-nashville-over-seattle-expansion-according-local-business-reporter",
@@ -106,26 +126,6 @@
         "publishedAt": "2026-05-05T20:24:56Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Three Passengers Dead After Outbreak of Hantavirus on Cruise Ship",
-        "description": "The World Health Organization says risk to the general public was “low” from the outbreak of deadly hantavirus aboard a cruise ship.",
-        "url": "https://www.breitbart.com/health/2026/05/05/three-passengers-dead-after-outbreak-of-hantavirus-disease-spread-by-rodents-on-cruise-ship-baffles-experts/",
-        "publishedAt": "2026-05-05T20:17:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Agent Rich Paul further pushes lazy talking point that the media favors Jokic over LeBron",
-        "description": "Agent Rich Paul claims the press treats Nikola Jokic more easily than LeBron James after Denver's playoff loss, sparking debate over media double standards.",
-        "url": "https://www.foxnews.com/outkick-sports/agent-rich-paul-pushes-lazy-talking-point-media-favors-jokic-lebron",
-        "publishedAt": "2026-05-05T20:01:02Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
