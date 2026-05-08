@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-07T23:35:38.678116+00:00",
+  "generated_at": "2026-05-08T01:22:12.717934+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Schumer’s ‘number one target’ says voters will see her Democrat Senate challenger as too extreme",
+        "description": "Sen. Susan Collins seeks reelection in Maine's high-profile 2026 Senate race against military veteran and oyster farmer Graham Platner in a key contest.",
+        "url": "https://www.foxnews.com/politics/schumers-number-one-target-says-voters-see-democrat-senate-challenger-extreme",
+        "publishedAt": "2026-05-07T00:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "University of Washington director booted after calling Zionism ‘cancerous’ in explosive remarks",
+        "description": "University of Washington removes Persian and Iranian Studies Program director after he called Zionism a \"cancerous\" outgrowth in remarks on Israel.",
+        "url": "https://www.foxnews.com/media/university-washington-director-booted-calling-zionism-cancerous-explosive-remarks",
+        "publishedAt": "2026-05-07T00:00:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kenneth Walker focused on new Chiefs chapter despite Seahawks GM's replacement comment: 'That's on him'",
+        "description": "Kenneth Walker III told Fox News Digital he doesn't care about the Seahawks GM's comments after signing a three-year, $43.1 million deal with the Chiefs.",
+        "url": "https://www.foxnews.com/sports/kenneth-walker-focused-new-chiefs-chapter-despite-seahawks-gms-replacement-comment-thats",
+        "publishedAt": "2026-05-06T23:25:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Breibart Business Digest: Chutes and Ladders in the American Economy",
+        "description": "A new economics paper puts its finger on something that American workers have felt for years: it has become much harder to use one job as a springboard to a better one.\nThe post Breibart Business Digest: Chutes and Ladders in the American Economy appeared fir…",
+        "url": "https://www.breitbart.com/economy/2026/05/06/breibart-business-digest-chutes-and-ladders-in-the-american-economy/",
+        "publishedAt": "2026-05-06T22:05:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dem representative admits to working with Mexico to sneak oil into Cuba, despite blockade",
+        "description": "Rep. Pramila Jayapal faces backlash after saying she spoke with foreign ambassadors about getting oil to Cuba despite U.S. sanctions on the island.",
+        "url": "https://www.foxnews.com/politics/dem-representative-admits-working-mexico-sneak-oil-cuba-blockade",
+        "publishedAt": "2026-05-06T21:36:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "China Seethes After U.S. Ambassador Says Huawei Is Not Trustworthy",
+        "description": "The Chinese communist regime, through its embassy in Panama, accused U.S. ambassador Kevin Marino Cabrera of \"denigrating\" Huawei and spreading rumors about China after he suggested that the Chinese companies like Huawei are not trustworthy.\nThe post China Se…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/06/china-seethes-after-u-s-ambassador-says-huawei-is-not-trustworthy/",
+        "publishedAt": "2026-05-06T16:55:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Harmeet Dhillon: SCOTUS Will Rule AR-15s 'Legal All over America'",
+        "description": "On Tuesday, Just The News published an interview with Assistant Attorney General for Civil Rights Harmeet Dhillon in which she predicted that the Supreme Court would rule AR-15s are \"legal all over America.\"\nThe post Harmeet Dhillon: SCOTUS Will Rule AR-15s ‘…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/06/harmeet-dhillon-scotus-will-rule-ar-15s-legal-allover-america/",
+        "publishedAt": "2026-05-07T00:13:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Mamdani Doubles Down on NYC 'Tax the Rich' Plan as Hedge Fund CEO Ken Griffin Eyes Miami Investments",
+        "description": "New York City (NYC) Mayor Zohran Mamdani (D) doubled down on his \"Tax the Rich\" plan as hedge fund CEO Ken Griffin has expressed interest in furthering his Miami investments.\nThe post Mamdani Doubles Down on NYC ‘Tax the Rich’ Plan as Hedge Fund CEO Ken Griff…",
+        "url": "https://www.breitbart.com/politics/2026/05/06/mamdani-doubles-down-on-nyc-tax-the-rich-plan-as-hedge-fund-ceo-ken-griffin-eyes-miami-investments/",
+        "publishedAt": "2026-05-06T23:10:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Special Forces Veteran Wanted for Murder Found Dead in Tennessee Woods",
+        "description": "A special forces veteran wanted for second degree attempted murder was found dead Wednesday in woods \"several miles from his home,\" according to CNN.\nThe post Special Forces Veteran Wanted for Murder Found Dead in Tennessee Woods appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/06/special-forces-veteran-wanted-for-murder-found-dead-in-tennessee-woods/",
+        "publishedAt": "2026-05-06T22:57:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Colbert lashes out at CBS, says cancellation ‘reinforced a narrative’ of ‘knee bending’ to Trump",
+        "description": "Stephen Colbert lashed out at CBS in an interview with The Hollywood Reporter, saying his \"Late Show\" cancellation reinforced a narrative of bending the knee to President Donald Trump.",
+        "url": "https://www.foxnews.com/media/colbert-lashes-cbs-says-cancellation-reinforced-narrative-knee-bending-trump",
+        "publishedAt": "2026-05-06T21:22:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FIFA's World Cup ticket defense falls apart when compared to college football and NFL playoff prices",
+        "description": "FIFA president Infantino defends expensive World Cup ticket prices by comparing them to college football costs, but the actual numbers don't add up.",
+        "url": "https://www.foxnews.com/outkick-sports/fifa-world-cup-tickets-compared-college-football-nfl-playoff-prices",
+        "publishedAt": "2026-05-06T19:29:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
