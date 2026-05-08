@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T04:28:38.629806+00:00",
+  "generated_at": "2026-05-08T06:17:04.679721+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Noel Tata’s resistance to IPO creates rift atop Tata Group",
+        "description": "Noel Tata’s opposition to taking his family empire’s parent firm public is creating discord atop one of India’s most storied conglomerates, according to people familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/tata-patriarch-s-resistance-to-ipo-creates-rift-atop-india-group",
+        "publishedAt": "2026-05-07T05:45:23Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Harmeet Dhillon: SCOTUS Will Rule AR-15s 'Legal All over America'",
         "description": "On Tuesday, Just The News published an interview with Assistant Attorney General for Civil Rights Harmeet Dhillon in which she predicted that the Supreme Court would rule AR-15s are \"legal all over America.\"\nThe post Harmeet Dhillon: SCOTUS Will Rule AR-15s ‘…",
         "url": "https://www.breitbart.com/2nd-amendment/2026/05/06/harmeet-dhillon-scotus-will-rule-ar-15s-legal-allover-america/",
@@ -104,16 +114,6 @@
         "description": "Stephen Colbert lashed out at CBS in an interview with The Hollywood Reporter, saying his \"Late Show\" cancellation reinforced a narrative of bending the knee to President Donald Trump.",
         "url": "https://www.foxnews.com/media/colbert-lashes-cbs-says-cancellation-reinforced-narrative-knee-bending-trump",
         "publishedAt": "2026-05-06T21:22:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FIFA's World Cup ticket defense falls apart when compared to college football and NFL playoff prices",
-        "description": "FIFA president Infantino defends expensive World Cup ticket prices by comparing them to college football costs, but the actual numbers don't add up.",
-        "url": "https://www.foxnews.com/outkick-sports/fifa-world-cup-tickets-compared-college-football-nfl-playoff-prices",
-        "publishedAt": "2026-05-06T19:29:52Z",
         "source": {
           "name": "Fox News"
         },
