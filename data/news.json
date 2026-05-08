@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-08T01:22:12.717934+00:00",
+  "generated_at": "2026-05-08T04:28:38.629806+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "MLB television ratings surge 44% through early part of the season ahead of potential lockout",
+        "description": "MLB ratings have surged 44% this season, the best start in nine years, as rule changes and pace of play improvements fuel baseball's impressive growth.",
+        "url": "https://www.foxnews.com/outkick-sports/mlb-television-ratings-surge-44-early-part-season-ahead-potential-lockout",
+        "publishedAt": "2026-05-07T02:49:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "44"
+      },
       {
         "title": "Schumer’s ‘number one target’ says voters will see her Democrat Senate challenger as too extreme",
         "description": "Sen. Susan Collins seeks reelection in Maine's high-profile 2026 Senate race against military veteran and oyster farmer Graham Platner in a key contest.",
@@ -41,16 +51,6 @@
         "publishedAt": "2026-05-06T22:05:30Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dem representative admits to working with Mexico to sneak oil into Cuba, despite blockade",
-        "description": "Rep. Pramila Jayapal faces backlash after saying she spoke with foreign ambassadors about getting oil to Cuba despite U.S. sanctions on the island.",
-        "url": "https://www.foxnews.com/politics/dem-representative-admits-working-mexico-sneak-oil-cuba-blockade",
-        "publishedAt": "2026-05-06T21:36:19Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
