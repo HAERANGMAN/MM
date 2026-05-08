@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-08T06:17:04.679721+00:00",
+  "generated_at": "2026-05-08T08:00:58.508920+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Rubio heads to Rome with Trump’s Iran clash looming over Pope, Meloni talks",
+        "description": "Rubio led a White House briefing with pointed remarks on Iran before traveling to Italy for meetings with Pope Leo and Prime Minister Giorgia Meloni.",
+        "url": "https://www.foxnews.com/politics/rubio-heads-rome-trumps-iran-clash-looming-over-pope-meloni-talks",
+        "publishedAt": "2026-05-07T08:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "MLB television ratings surge 44% through early part of the season ahead of potential lockout",
         "description": "MLB ratings have surged 44% this season, the best start in nine years, as rule changes and pace of play improvements fuel baseball's impressive growth.",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Breibart Business Digest: Chutes and Ladders in the American Economy",
-        "description": "A new economics paper puts its finger on something that American workers have felt for years: it has become much harder to use one job as a springboard to a better one.\nThe post Breibart Business Digest: Chutes and Ladders in the American Economy appeared fir…",
-        "url": "https://www.breitbart.com/economy/2026/05/06/breibart-business-digest-chutes-and-ladders-in-the-american-economy/",
-        "publishedAt": "2026-05-06T22:05:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
