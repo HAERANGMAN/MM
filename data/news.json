@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-05-09T06:12:54.420983+00:00",
+  "generated_at": "2026-05-09T08:12:23.101831+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Gold rises as buying interest counters concern over Hormuz clash",
+        "description": "Bullion traded near $4,720 an ounce, after ending the previous session marginally lower; the US struck military targets in Iran after the country fired on three navy destroyers sailing in the strait",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/gold-steadies-as-us-iran-clashes-dim-truce-prospects-in-mideast",
+        "publishedAt": "2026-05-08T04:18:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Stocks drop, oil rises: Asian markets react to rising Iran tensions",
+        "description": "Asian markets decline as Iran tensions rise, impacting stocks while oil prices increase amid concerns over energy supply disruptions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap",
+        "publishedAt": "2026-05-08T03:47:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "James Talarico Said 'If Only George Floyd Was a Blonde Salon Owner' and Backed Austin Police Defunding",
+        "description": "Democratic Senate nominee James Talarico, who posted during the 2020 unrest that “If only George Floyd was a blonde salon owner,” donated to a group that advocated cutting Austin police funding, campaigned against a ballot initiative to increase police staffi…",
+        "url": "https://www.breitbart.com/politics/2026/05/07/james-talarico-george-floyd-blonde-salon-owner/",
+        "publishedAt": "2026-05-08T03:44:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2020"
+      },
+      {
+        "title": "Dem Rep. Cisneros: CA Gubernatorial Candidates 'Should Be Attacking' Trump, He Caused 'a Lot of Our Problems'",
+        "description": "On Thursday’s broadcast of “CNN News Central,” Rep. Gil Cisneros (D-CA) responded to a question on if candidates for California’s governorship are too focused on President Donald Trump instead of fixing the state’s issues by saying that “the President is\nThe …",
+        "url": "https://www.breitbart.com/clips/2026/05/07/dem-rep-cisneros-ca-gubernatorial-candidates-should-be-attacking-trump-he-caused-a-lot-of-our-problems/",
+        "publishedAt": "2026-05-08T02:11:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Anthony Fauci blames Americans for not hitting his COVID vaccine target while ignoring other countries",
+        "description": "Fauci says anti-vax culture kept the US from reaching 72% vaccination, but highly vaccinated countries still saw record COVID hospitalizations.",
+        "url": "https://www.foxnews.com/outkick-analysis/anthony-fauci-blames-americans-hitting-covid-vaccine-target-ignoring-countries",
+        "publishedAt": "2026-05-08T00:33:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "72"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "SoftBank cuts target for OpenAI margin loan by 40% to $6 billion",
+        "description": "The Japanese conglomerate is now seeking about $6 billion, down from the earlier $10 billion plan; Downsizing reflects hesitation among potential lenders over private AI valuations",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
+        "publishedAt": "2026-05-08T08:07:34Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "Goldman Sachs private credit fund’s share of bad loans rises",
+        "description": "Investments typically reserved for a fund’s troubled holdings now make up 4.7% of Goldman Sachs BDC Inc.’s portfolio at cost, according to a filing on Thursday",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/goldman-sachs-private-credit-fund-s-share-of-bad-loans-increases",
+        "publishedAt": "2026-05-08T04:17:18Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "4.7"
+      },
+      {
+        "title": "Stocks drop, oil rises: Asian markets react to rising Iran tensions",
+        "description": "Asian markets decline as Iran tensions rise, impacting stocks while oil prices increase amid concerns over energy supply disruptions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap",
+        "publishedAt": "2026-05-08T03:47:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "UAE Slips Oil Tankers Through Strait of Hormuz with 'Shadow Fleet' Tactics",
+        "description": "Reuters on Thursday reported that several tankers loaded with oil from the United Arab Emirates (UAE) have been able to pass safely through the Strait of Hormuz, evading detection by Iranian terrorists using the same techniques Iranian and Russian “shadow fle…",
+        "url": "https://www.breitbart.com/middle-east/2026/05/07/uae-slips-oil-tankers-through-strait-of-hormuz-with-shadow-fleet-tactics/",
+        "publishedAt": "2026-05-07T22:54:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "UFO investigator warns Trump disclosure could hand sensitive military secrets to China, Russia",
+        "description": "The executive producer behind \"S4: The Bob Lazar Story\" says he does not want the government to reveal all UFO secrets due to national security.",
+        "url": "https://www.foxnews.com/media/ufo-investigator-warns-trump-disclosure-could-hand-sensitive-military-secrets-china-russia",
+        "publishedAt": "2026-05-07T19:33:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
