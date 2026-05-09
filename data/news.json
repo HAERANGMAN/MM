@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T08:12:23.101831+00:00",
+  "generated_at": "2026-05-09T09:44:01.255465+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Kash Patel reveals the chilling holiday terror plots FBI federal agents quietly stopped",
+        "description": "FBI Director Kash Patel says agents disrupted four major terrorist plots over the holidays, warning a future 9/11-style attack remains a concern.",
+        "url": "https://www.foxnews.com/media/kash-patel-reveals-chilling-holiday-terror-plots-fbi-federal-agents-quietly-stopped",
+        "publishedAt": "2026-05-08T09:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "Round one of Iran fight went to the US military. But ending things is much harder",
+        "description": "Trump cited the War Powers Resolution to declare the Iran conflict over, but Iranian attacks on U.S. ships during Project Freedom tell a different story.",
+        "url": "https://www.foxnews.com/opinion/round-one-iran-fight-went-us-military-ending-things-much-harder",
+        "publishedAt": "2026-05-08T09:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "SoftBank cuts target for OpenAI margin loan by 40% to $6 billion",
         "description": "The Japanese conglomerate is now seeking about $6 billion, down from the earlier $10 billion plan; Downsizing reflects hesitation among potential lenders over private AI valuations",
         "url": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
@@ -87,26 +107,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "UAE Slips Oil Tankers Through Strait of Hormuz with 'Shadow Fleet' Tactics",
-        "description": "Reuters on Thursday reported that several tankers loaded with oil from the United Arab Emirates (UAE) have been able to pass safely through the Strait of Hormuz, evading detection by Iranian terrorists using the same techniques Iranian and Russian “shadow fle…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/07/uae-slips-oil-tankers-through-strait-of-hormuz-with-shadow-fleet-tactics/",
-        "publishedAt": "2026-05-07T22:54:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "UFO investigator warns Trump disclosure could hand sensitive military secrets to China, Russia",
-        "description": "The executive producer behind \"S4: The Bob Lazar Story\" says he does not want the government to reveal all UFO secrets due to national security.",
-        "url": "https://www.foxnews.com/media/ufo-investigator-warns-trump-disclosure-could-hand-sensitive-military-secrets-china-russia",
-        "publishedAt": "2026-05-07T19:33:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
       }
     ]
   },
