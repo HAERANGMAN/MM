@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-09T09:44:01.255465+00:00",
+  "generated_at": "2026-05-09T10:39:35.373953+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Farage Kills The Two Party System: Reform Dominates in 'British Midterms', Taking Seats From Both Left and Right",
+        "description": "\"Truly historic shift in British politics\" has taken place where national political question is no longer about \"left or right\", Farage said\nThe post Farage Kills The Two Party System: Reform Dominates in ‘British Midterms’, Taking Seats From Both Left and Ri…",
+        "url": "https://www.breitbart.com/europe/2026/05/08/farage-kills-the-two-party-system-reform-dominates-in-british-midterms-taking-seats-from-both-left-and-right/",
+        "publishedAt": "2026-05-08T10:22:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Gold rises as buying interest counters concern over Hormuz clash",
         "description": "Bullion traded near $4,720 an ounce, after ending the previous session marginally lower; the US struck military targets in Iran after the country fired on three navy destroyers sailing in the strait",
@@ -43,21 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Anthony Fauci blames Americans for not hitting his COVID vaccine target while ignoring other countries",
-        "description": "Fauci says anti-vax culture kept the US from reaching 72% vaccination, but highly vaccinated countries still saw record COVID hospitalizations.",
-        "url": "https://www.foxnews.com/outkick-analysis/anthony-fauci-blames-americans-hitting-covid-vaccine-target-ignoring-countries",
-        "publishedAt": "2026-05-08T00:33:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "72"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Pro wrestling star Ben Bishop on changes he'd make to independent scene: 'It's little things'",
+        "description": "Ben Bishop opened up about independent wrestling's challenges, from water in locker rooms to show length, ahead of ACW Reckoning in Poughkeepsie, New York.",
+        "url": "https://www.foxnews.com/sports/pro-wrestling-star-ben-bishop-changes-hed-make-independent-scene-little-things",
+        "publishedAt": "2026-05-08T10:36:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Kash Patel reveals the chilling holiday terror plots FBI federal agents quietly stopped",
         "description": "FBI Director Kash Patel says agents disrupted four major terrorist plots over the holidays, warning a future 9/11-style attack remains a concern.",
@@ -97,16 +107,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "4.7"
-      },
-      {
-        "title": "Stocks drop, oil rises: Asian markets react to rising Iran tensions",
-        "description": "Asian markets decline as Iran tensions rise, impacting stocks while oil prices increase amid concerns over energy supply disruptions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap",
-        "publishedAt": "2026-05-08T03:47:20Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
