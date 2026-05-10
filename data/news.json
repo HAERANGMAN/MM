@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-10T10:39:15.621563+00:00",
+  "generated_at": "2026-05-10T11:33:03.181534+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "American women have been lied to about motherhood and it’s time to fix it",
+        "description": "Most women seeking abortions aren't certain they want one, according to Human Coalition. They need solutions to barriers like housing and childcare.",
+        "url": "https://www.foxnews.com/opinion/american-women-lied-motherhood-time-fix",
+        "publishedAt": "2026-05-09T11:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Dept. of Energy Fact-Checks Gavin Newsom's Clean Energy Claim: 'FALSE'",
         "description": "The U.S. Department of Energy (DOE) shot back at California Gov. Gavin Newsom (D) for making a misleading claim about his state's renewable energy usage while calling the agency's secretary an \"oil shill.\"\nThe post Dept. of Energy Fact-Checks Gavin Newsom’s C…",
@@ -43,32 +53,31 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": [
       {
-        "title": "Iranian tankers struck by US Super Hornet for testing Strait of Hormuz blockade | Fox News Video",
-        "description": "Fox News chief national security correspondent Jennifer Griffin has the latest on conflict in the Strait of Hormuz on ‘The Story.’",
-        "url": "https://www.foxnews.com/video/6394999525112",
-        "publishedAt": "2026-05-08T21:55:34Z",
+        "title": "American women have been lied to about motherhood and it’s time to fix it",
+        "description": "Most women seeking abortions aren't certain they want one, according to Human Coalition. They need solutions to barriers like housing and childcare.",
+        "url": "https://www.foxnews.com/opinion/american-women-lied-motherhood-time-fix",
+        "publishedAt": "2026-05-09T11:00:34Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [],
-    "news-thai-soc": [
+      },
       {
-        "title": "Global scam crackdown leads to 276 arrests",
-        "description": "A sweeping DOJ and FBI operation led to 276 arrests and dismantled nine scam centers tied to cryptocurrency fraud targeting Americans across the globe.",
-        "url": "https://www.foxnews.com/tech/global-scam-crackdown-leads-276-arrests",
-        "publishedAt": "2026-05-08T10:48:32Z",
+        "title": "Live Updates: Iran says it will respond to US peace offer ‘at the appropriate time’",
+        "description": "Iranian foreign ministry spokesman Esmaeil Baghaei said Iran is still looking over a proposal from the U.S. regarding an end to the war, adding that Tehran will not respond to “deadlines or ultimatums\" and that those \"mean nothing.\"",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-9",
+        "publishedAt": "2026-05-09T10:40:17Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "276"
-      }
-    ],
-    "news-global-soc": [
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Three hikers killed after climbing restricted Indonesian volcano to create online content, police say",
         "description": "Mount Dukono eruption in Indonesia kills three hikers, including two Singaporeans, who authorities say entered a restricted zone despite warnings.",
@@ -98,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "3"
-      },
-      {
-        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
-        "description": "Experts say Trump's blockade is squeezing Iran so hard the regime may be dumping excess crude into the Persian Gulf as storage capacity runs out.",
-        "url": "https://www.foxnews.com/world/trump-blockade-squeezing-iran-so-hard-regime-may-dumping-oil-gulf-experts-say",
-        "publishedAt": "2026-05-08T19:42:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NYC business owner kickstarts million dollar campaign to combat Mamdani-driven business exodus",
-        "description": "Andrew Murstein pledges $1 million for Operation Boomerang, an effort to lure businesses back to NYC amid Mayor Mamdani's policies targeting the wealthy.",
-        "url": "https://www.foxnews.com/politics/nyc-business-owner-kickstarts-million-dollar-campaign-combat-mamdani-driven-business-exodus",
-        "publishedAt": "2026-05-08T18:44:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ]
   },
