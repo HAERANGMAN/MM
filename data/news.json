@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T15:08:44.530724+00:00",
+  "generated_at": "2026-05-10T16:07:34.959906+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Starmer Doubles Down After Election Drubbing, Taps Ex-PM Gordon Brown in Bid to Save Government",
+        "description": "In the wake of being hammered at the polls by the British electorate during this week's local elections, Prime Minister Sir Keir Starmer vowed to push forward with his unpopular agenda while wrapping himself in the cloak of the Labour establishment in a bid t…",
+        "url": "https://www.breitbart.com/europe/2026/05/09/starmer-doubles-down-after-election-drubbing-taps-ex-pm-gordon-brown-in-bid-to-save-government/",
+        "publishedAt": "2026-05-09T15:56:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump ATF Releases New 4473 Draft: Gun Buyers Must Choose Biological Sex",
+        "description": "President Trump’s ATF released a draft of its revised Form 4473 yesterday and an immediate change between it and the Biden-era form is the absence of a “non-binary” option when choosing sex. Form 4473 is the Firearms Transaction Record used\nThe post Trump ATF…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/09/trump-atf-releases-new-4473-draft-gun-buyers-must-choose-biological-sex/",
+        "publishedAt": "2026-05-09T15:36:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4473"
+      },
+      {
         "title": "Inside the US military playbook to cripple Iran if nuclear talks collapse",
         "description": "Deep mistrust between the U.S. and Iran leaves nuclear talks fragile, with analysts warning of a phased military campaign if diplomacy fails entirely.",
         "url": "https://www.foxnews.com/politics/inside-us-military-playbook-cripple-iran-nuclear-talks-collapse",
@@ -96,26 +116,6 @@
         "publishedAt": "2026-05-09T12:33:57Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "American women have been lied to about motherhood and it’s time to fix it",
-        "description": "Most women seeking abortions aren't certain they want one, according to Human Coalition. They need solutions to barriers like housing and childcare.",
-        "url": "https://www.foxnews.com/opinion/american-women-lied-motherhood-time-fix",
-        "publishedAt": "2026-05-09T11:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Live Updates: Iran says it will respond to US peace offer ‘at the appropriate time’",
-        "description": "Iranian foreign ministry spokesman Esmaeil Baghaei said Iran is still looking over a proposal from the U.S. regarding an end to the war, adding that Tehran will not respond to “deadlines or ultimatums\" and that those \"mean nothing.\"",
-        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-9",
-        "publishedAt": "2026-05-09T10:40:17Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
