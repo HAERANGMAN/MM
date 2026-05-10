@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-10T09:13:07.773707+00:00",
+  "generated_at": "2026-05-10T10:39:15.621563+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Dept. of Energy Fact-Checks Gavin Newsom's Clean Energy Claim: 'FALSE'",
+        "description": "The U.S. Department of Energy (DOE) shot back at California Gov. Gavin Newsom (D) for making a misleading claim about his state's renewable energy usage while calling the agency's secretary an \"oil shill.\"\nThe post Dept. of Energy Fact-Checks Gavin Newsom’s C…",
+        "url": "https://www.breitbart.com/politics/2026/05/08/dept-of-energy-fact-checks-gavin-newsoms-clean-energy-claim-false/",
+        "publishedAt": "2026-05-09T02:41:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mark Levin: Arm the Iranian people and give them a chance against the regime | Fox News Video",
+        "description": "Mark Levin: Arm the Iranian people and give them a chance against the regime | Fox News Videofoxnews.com",
+        "url": "https://www.foxnews.com/video/6395025138112",
+        "publishedAt": "2026-05-09T02:05:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "‘Seditious’ Sen. Slotkin Travels to Canada to Discuss Anti-Right Strategy",
+        "description": "Prospective presidential candidate Sen. Elissa Slotkin (D-MI) is set to travel to Canada on Saturday for a summit with Canadian Prime Minister Mark Carney and other center-left politicians focused on “how to battle right-wing politicians on affordability,” as…",
+        "url": "https://www.breitbart.com/politics/2026/05/08/seditious-sen-slotkin-travels-to-canada-to-discuss-anti-right-strategy/",
+        "publishedAt": "2026-05-09T00:15:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Terrell Owens declares he 'couldn't care less' about the Cowboys years after tumultuous exit",
+        "description": "Terrell Owens reveals in a new interview that he and the Dallas Cowboys have no relationship, saying he has nothing left to say about the organization.",
+        "url": "https://www.foxnews.com/sports/terrell-owens-declares-couldnt-care-less-cowboys-years-tumultuous-exit",
+        "publishedAt": "2026-05-08T23:55:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iranian tankers struck by US Super Hornet for testing Strait of Hormuz blockade | Fox News Video",
+        "description": "Fox News chief national security correspondent Jennifer Griffin has the latest on conflict in the Strait of Hormuz on ‘The Story.’",
+        "url": "https://www.foxnews.com/video/6394999525112",
+        "publishedAt": "2026-05-08T21:55:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-thai-soc": [
+      {
+        "title": "Global scam crackdown leads to 276 arrests",
+        "description": "A sweeping DOJ and FBI operation led to 276 arrests and dismantled nine scam centers tied to cryptocurrency fraud targeting Americans across the globe.",
+        "url": "https://www.foxnews.com/tech/global-scam-crackdown-leads-276-arrests",
+        "publishedAt": "2026-05-08T10:48:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "276"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Three hikers killed after climbing restricted Indonesian volcano to create online content, police say",
+        "description": "Mount Dukono eruption in Indonesia kills three hikers, including two Singaporeans, who authorities say entered a restricted zone despite warnings.",
+        "url": "https://www.foxnews.com/world/three-hikers-killed-climbing-restricted-indonesian-volcano-create-online-content-police-say",
+        "publishedAt": "2026-05-08T22:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "French Cybercrime Authorities Elevate Investigation of Elon Musk and X to Criminal Probe",
+        "description": "French cybercrime prosecutors have announced that their investigation into Elon Musk and his social media platform X has been upgraded to a criminal probe, marking a significant escalation in the ongoing legal scrutiny of the tech tycoon's deepfake porn scand…",
+        "url": "https://www.breitbart.com/tech/2026/05/08/french-cybercrime-authorities-elevate-investigation-of-elon-musk-and-x-to-criminal-probe/",
+        "publishedAt": "2026-05-08T20:08:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Almost Half the 3,500 Criminals Former NC Dem Gov. Roy Cooper Released Went on to Reoffend -- and Now He's Running for Senate",
+        "description": "More than one thousand criminals who were released back into the streets on former Gov. Roy Cooper's (D-NC) watch went on to reoffend, according to an analysis.\nThe post Almost Half the 3,500 Criminals Former NC Dem Gov. Roy Cooper Released Went on to Reoffen…",
+        "url": "https://www.breitbart.com/politics/2026/05/08/almost-half-3500-criminals-former-nc-dem-gov-roy-cooper-released-went-on-reoffend-now-hes-running-senate/",
+        "publishedAt": "2026-05-08T19:59:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "description": "Experts say Trump's blockade is squeezing Iran so hard the regime may be dumping excess crude into the Persian Gulf as storage capacity runs out.",
+        "url": "https://www.foxnews.com/world/trump-blockade-squeezing-iran-so-hard-regime-may-dumping-oil-gulf-experts-say",
+        "publishedAt": "2026-05-08T19:42:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NYC business owner kickstarts million dollar campaign to combat Mamdani-driven business exodus",
+        "description": "Andrew Murstein pledges $1 million for Operation Boomerang, an effort to lure businesses back to NYC amid Mayor Mamdani's policies targeting the wealthy.",
+        "url": "https://www.foxnews.com/politics/nyc-business-owner-kickstarts-million-dollar-campaign-combat-mamdani-driven-business-exodus",
+        "publishedAt": "2026-05-08T18:44:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
