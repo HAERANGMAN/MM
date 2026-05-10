@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-10T14:04:30.817856+00:00",
+  "generated_at": "2026-05-10T15:08:44.530724+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Jeremiyah Love signs rookie deal that gives him most guaranteed money by running back before taking NFL snap",
+        "description": "Jeremiyah Love officially signed his $53 million rookie deal with the Arizona Cardinals, setting the record for guaranteed money for an NFL running back.",
+        "url": "https://www.foxnews.com/sports/jeremiyah-love-signs-rookie-deal-gives-guaranteed-money-running-back-taking-nfl-snap",
+        "publishedAt": "2026-05-09T14:50:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "American women have been lied to about motherhood and it’s time to fix it",
+        "description": "Most women seeking abortions aren't certain they want one, according to Human Coalition. They need solutions to barriers like housing and childcare.",
+        "url": "https://www.foxnews.com/opinion/american-women-lied-motherhood-time-fix",
+        "publishedAt": "2026-05-09T11:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dept. of Energy Fact-Checks Gavin Newsom's Clean Energy Claim: 'FALSE'",
+        "description": "The U.S. Department of Energy (DOE) shot back at California Gov. Gavin Newsom (D) for making a misleading claim about his state's renewable energy usage while calling the agency's secretary an \"oil shill.\"\nThe post Dept. of Energy Fact-Checks Gavin Newsom’s C…",
+        "url": "https://www.breitbart.com/politics/2026/05/08/dept-of-energy-fact-checks-gavin-newsoms-clean-energy-claim-false/",
+        "publishedAt": "2026-05-09T02:41:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mark Levin: Arm the Iranian people and give them a chance against the regime | Fox News Video",
+        "description": "Mark Levin: Arm the Iranian people and give them a chance against the regime | Fox News Videofoxnews.com",
+        "url": "https://www.foxnews.com/video/6395025138112",
+        "publishedAt": "2026-05-09T02:05:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "‘Seditious’ Sen. Slotkin Travels to Canada to Discuss Anti-Right Strategy",
+        "description": "Prospective presidential candidate Sen. Elissa Slotkin (D-MI) is set to travel to Canada on Saturday for a summit with Canadian Prime Minister Mark Carney and other center-left politicians focused on “how to battle right-wing politicians on affordability,” as…",
+        "url": "https://www.breitbart.com/politics/2026/05/08/seditious-sen-slotkin-travels-to-canada-to-discuss-anti-right-strategy/",
+        "publishedAt": "2026-05-09T00:15:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Putin Presides over Pared Down Victory Day Military Parade in Moscow's Red Square",
+        "description": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II - a show that didn't include heavy weapons for the first time in nearly…",
+        "url": "https://www.breitbart.com/europe/2026/05/09/putin-presides-over-pared-down-victory-day-military-parade-in-moscows-red-square/",
+        "publishedAt": "2026-05-09T12:33:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Inside the US military playbook to cripple Iran if nuclear talks collapse",
+        "description": "Deep mistrust between the U.S. and Iran leaves nuclear talks fragile, with analysts warning of a phased military campaign if diplomacy fails entirely.",
+        "url": "https://www.foxnews.com/politics/inside-us-military-playbook-cripple-iran-nuclear-talks-collapse",
+        "publishedAt": "2026-05-09T14:13:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fitness expert visits gyms nationwide, shouts out 4 clubs for 'getting it right’",
+        "description": "New York City-based fitness expert Kenny Santucci reveals his favorite gyms across the U.S., and explains what makes a great workout space beyond bells and whistles.",
+        "url": "https://www.foxnews.com/health/fitness-expert-visits-gyms-nationwide-shouts-4-clubs-getting-right",
+        "publishedAt": "2026-05-09T13:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "Putin Presides over Pared Down Victory Day Military Parade in Moscow's Red Square",
+        "description": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II - a show that didn't include heavy weapons for the first time in nearly…",
+        "url": "https://www.breitbart.com/europe/2026/05/09/putin-presides-over-pared-down-victory-day-military-parade-in-moscows-red-square/",
+        "publishedAt": "2026-05-09T12:33:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "American women have been lied to about motherhood and it’s time to fix it",
+        "description": "Most women seeking abortions aren't certain they want one, according to Human Coalition. They need solutions to barriers like housing and childcare.",
+        "url": "https://www.foxnews.com/opinion/american-women-lied-motherhood-time-fix",
+        "publishedAt": "2026-05-09T11:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Live Updates: Iran says it will respond to US peace offer ‘at the appropriate time’",
+        "description": "Iranian foreign ministry spokesman Esmaeil Baghaei said Iran is still looking over a proposal from the U.S. regarding an end to the war, adding that Tehran will not respond to “deadlines or ultimatums\" and that those \"mean nothing.\"",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-9",
+        "publishedAt": "2026-05-09T10:40:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
