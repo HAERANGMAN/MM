@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T16:17:02.262068+00:00",
+  "generated_at": "2026-05-11T18:11:36.563125+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,54 +16,54 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Madison Beer put Justin Herbert in new steamy music video, Xandra Pohl threw out first pitch & grilling season",
-        "description": "Mother's Day gifts, Front Row Amy stealing a New York Yankees debut, and Justin Herbert in Madison Beer's music video highlight this weekend's coverage.",
-        "url": "https://www.foxnews.com/outkick-culture/madison-beer-put-justin-herbert-new-steamy-music-video-xandra-pohl-threw-first-pitch-grilling-season",
-        "publishedAt": "2026-05-10T13:06:18Z",
+        "title": "White House economist projects GDP growth could top 5% amid capital spending boom",
+        "description": "Kevin Hassett says capital spending boom could push U.S. GDP growth north of 5% or 6%, driven by tax policies and onshoring efforts under Trump.",
+        "url": "https://www.foxnews.com/media/white-house-economist-projects-gdp-growth-could-top-5-amid-capital-spending-boom",
+        "publishedAt": "2026-05-10T17:37:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Trump unhappy about NFL streaming costs for fans as government probes league's antitrust exemption",
+        "description": "Trump weighs in on the NFL's antitrust exemption fight, saying the league's costly streaming deals are hurting fans who live for Sunday football games.",
+        "url": "https://www.foxnews.com/outkick-sports/trump-unhappy-nfl-streaming-costs-fans-government-probes-leagues-antitrust-exemption",
+        "publishedAt": "2026-05-10T17:21:19Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Mother's Day brunch reservations surge as new ranking shows many Americans shut out of top restaurants",
-        "description": "Brunch has evolved from a simple meal into an experience economy moment, with Mother's Day driving reservations up 30-40% or more, restaurant experts say.",
-        "url": "https://www.foxnews.com/food-drink/mothers-day-brunch-reservations-surge-ranking-shows-americans-shut-out-top-restaurants",
-        "publishedAt": "2026-05-10T11:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "30"
-      },
-      {
-        "title": "Mark Levin: Iran's regime has violated every deal it's signed | Fox News Video",
-        "description": "Fox News host Mark Levin examines the impact midterms will have regarding Iran, what will happen after the Trump administration and more on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6395101247112",
-        "publishedAt": "2026-05-10T01:28:26Z",
+        "title": "California’s alleged billion-dollar migrant healthcare spending under scrutiny | Fox News Video",
+        "description": "California Republican gubernatorial candidate Steve Hilton discusses the state’s spending on healthcare for migrants and his plans to improve affordability on ‘Sunday Morning Futures.’",
+        "url": "https://www.foxnews.com/video/6395152751112",
+        "publishedAt": "2026-05-10T17:18:00Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Trump ‘Vaporizing’ Government Jobs, Wages Up Higher than Inflation",
-        "description": "Friday on “The Alex Marlow Show,” Breitbart Editor-in-Chief Alex Marlow talked about jobs. Marlow said, “Just vaporizing government jobs, which is just fantastic, because it’s not slowing down the economy. Wages are beating inflation.” The Alex Marlow Show, h…",
-        "url": "https://www.breitbart.com/clips/2026/05/09/trump-vaporizing-government-jobs-wages-up-higher-than-inflation/",
-        "publishedAt": "2026-05-10T01:08:55Z",
+        "title": "Dem Rep. Lieu: 'The Trump Coalition Has Completely Collapsed'",
+        "description": "Sunday on CBS's \"Face the Nation,\" Rep. Ted Lieu (D-CA) said President Donald Trump's coalition of voters \"has completely collapsed.\"\nThe post Dem Rep. Lieu: ‘The Trump Coalition Has Completely Collapsed’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/clips/2026/05/10/dem-rep-lieu-the-trump-coalition-has-completely-collapsed/",
+        "publishedAt": "2026-05-10T17:13:03Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Kevin Durant's media company says Caitlin Clark is the third most marketable WNBA player",
-        "description": "Boardroom's ranking of the most marketable WNBA players puts Caitlin Clark third behind A'ja Wilson and Angel Reese, drawing online criticism.",
-        "url": "https://www.foxnews.com/outkick-sports/kevin-durants-media-company-says-caitlin-clark-third-marketable-wnba-player",
-        "publishedAt": "2026-05-09T17:27:42Z",
+        "title": "Drone delivers 2 pizzas in minutes",
+        "description": "Flytrex and Little Caesars partner to deliver hot pizza by drone in just over four minutes, launching the service in Wylie, Texas for nearby residents.",
+        "url": "https://www.foxnews.com/tech/drone-delivers-2-pizzas-minutes",
+        "publishedAt": "2026-05-10T17:00:22Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "2"
       }
     ],
     "news-korea-soc": [],
@@ -80,6 +80,26 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Harmeet Dhillon: The Term 'Assault Weapons' Is 'Just a Made-Up Category'",
+        "description": "During an interview with Washington Gun Law, Assistant Attorney General for Civil Rights Harmeet Dhillon noted that the term \"assault weapons\" is \"just a made-up category.\"\nThe post Harmeet Dhillon: The Term ‘Assault Weapons’ Is ‘Just a Made-Up Category’ appe…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/10/harmeet-dhillon-the-term-assault-weapons-is-just-a-made-up-category/",
+        "publishedAt": "2026-05-10T16:48:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mississippi Billboard Reminds Would-Be Criminals: 'Firing Squad Is Legal. Think Twice'",
+        "description": "A billboard standing next to I-55 in DeSoto County, Mississippi, reminds would-be criminals entering the state that a \"firing squad is legal\" for executions and urges them to \"think twice.\"\nThe post Mississippi Billboard Reminds Would-Be Criminals: ‘Firing Sq…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/10/mississippi-billboard-reminds-would-be-criminals-firing-squad-is-legal-think-twice/",
+        "publishedAt": "2026-05-10T16:29:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "55"
+      },
       {
         "title": "Energy Secretary Wright says Trump administration open to suspending federal gas tax amid price surge",
         "description": "Energy Secretary Chris Wright says the Trump administration is open to suspending the federal gas tax as fuel prices rise amid the Iran conflict.",
@@ -109,26 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "7"
-      },
-      {
-        "title": "Iran Ceasefire Tested as Cargo Ship Catches Fire in Reported Drone Attack of Qatar",
-        "description": "The shaky ceasefire in the Iran war was tested again on Sunday when drones of unclear origin set fire to a cargo ship off Qatar's coast and entered Kuwaiti airspace before dawn, authorities said.\nThe post Iran Ceasefire Tested as Cargo Ship Catches Fire in Re…",
-        "url": "https://www.breitbart.com/europe/2026/05/10/iran-ceasefire-tested-as-cargo-ship-catches-fire-in-reported-drone-attack-of-qatar/",
-        "publishedAt": "2026-05-10T12:05:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Over 100 Labour Politicians Call on Prime Minister Starmer to Resign After Election Disaster",
-        "description": "More than a hundred Labour Party politicians have called on Prime Minister Sir Kier Starmer to set out plans to resign from his post following this week's disastrous defeat in the local elections to Nigel Farage's Reform UK party.\nThe post Over 100 Labour Pol…",
-        "url": "https://www.breitbart.com/europe/2026/05/10/over-100-labour-politicians-call-on-prime-minister-starmer-to-resign-after-election-disaster/",
-        "publishedAt": "2026-05-10T11:46:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "100"
       }
     ]
   },
