@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-11T22:38:09.362465+00:00",
+  "generated_at": "2026-05-11T23:38:33.210204+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
-        "description": "North Korea's revised constitution reportedly requires an automatic nuclear strike if Kim Jong Un is killed, according to intelligence briefings.",
-        "url": "https://www.foxnews.com/world/north-korea-updates-constitution-require-automatic-nuclear-strike-kim-jong-un-assassinated-report",
-        "publishedAt": "2026-05-10T03:56:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
