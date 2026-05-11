@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-11T13:31:34.818865+00:00",
+  "generated_at": "2026-05-11T16:17:02.262068+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
+        "description": "North Korea's revised constitution reportedly requires an automatic nuclear strike if Kim Jong Un is killed, according to intelligence briefings.",
+        "url": "https://www.foxnews.com/world/north-korea-updates-constitution-require-automatic-nuclear-strike-kim-jong-un-assassinated-report",
+        "publishedAt": "2026-05-10T03:56:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Madison Beer put Justin Herbert in new steamy music video, Xandra Pohl threw out first pitch & grilling season",
+        "description": "Mother's Day gifts, Front Row Amy stealing a New York Yankees debut, and Justin Herbert in Madison Beer's music video highlight this weekend's coverage.",
+        "url": "https://www.foxnews.com/outkick-culture/madison-beer-put-justin-herbert-new-steamy-music-video-xandra-pohl-threw-first-pitch-grilling-season",
+        "publishedAt": "2026-05-10T13:06:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mother's Day brunch reservations surge as new ranking shows many Americans shut out of top restaurants",
+        "description": "Brunch has evolved from a simple meal into an experience economy moment, with Mother's Day driving reservations up 30-40% or more, restaurant experts say.",
+        "url": "https://www.foxnews.com/food-drink/mothers-day-brunch-reservations-surge-ranking-shows-americans-shut-out-top-restaurants",
+        "publishedAt": "2026-05-10T11:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "30"
+      },
+      {
+        "title": "Mark Levin: Iran's regime has violated every deal it's signed | Fox News Video",
+        "description": "Fox News host Mark Levin examines the impact midterms will have regarding Iran, what will happen after the Trump administration and more on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6395101247112",
+        "publishedAt": "2026-05-10T01:28:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump ‘Vaporizing’ Government Jobs, Wages Up Higher than Inflation",
+        "description": "Friday on “The Alex Marlow Show,” Breitbart Editor-in-Chief Alex Marlow talked about jobs. Marlow said, “Just vaporizing government jobs, which is just fantastic, because it’s not slowing down the economy. Wages are beating inflation.” The Alex Marlow Show, h…",
+        "url": "https://www.breitbart.com/clips/2026/05/09/trump-vaporizing-government-jobs-wages-up-higher-than-inflation/",
+        "publishedAt": "2026-05-10T01:08:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kevin Durant's media company says Caitlin Clark is the third most marketable WNBA player",
+        "description": "Boardroom's ranking of the most marketable WNBA players puts Caitlin Clark third behind A'ja Wilson and Angel Reese, drawing online criticism.",
+        "url": "https://www.foxnews.com/outkick-sports/kevin-durants-media-company-says-caitlin-clark-third-marketable-wnba-player",
+        "publishedAt": "2026-05-09T17:27:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-thai-soc": [
+      {
+        "title": "Woman who spent 7 years in Chinese prison describes torture, surveillance and loss of her husband",
+        "description": "Wang Chunyan claims the the CCP destroyed her family, imprisoned her for seven years and killed her husband in its campaign against Falun Gong practitioners.",
+        "url": "https://www.foxnews.com/world/woman-who-spent-7-years-chinese-prison-describes-torture-surveillance-loss-her-husband",
+        "publishedAt": "2026-05-10T14:16:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "7"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Energy Secretary Wright says Trump administration open to suspending federal gas tax amid price surge",
+        "description": "Energy Secretary Chris Wright says the Trump administration is open to suspending the federal gas tax as fuel prices rise amid the Iran conflict.",
+        "url": "https://www.foxnews.com/media/energy-secretary-wright-says-trump-administration-open-suspending-federal-gas-tax-amid-price-surge",
+        "publishedAt": "2026-05-10T16:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DAVID MARCUS: New York Times announces the end of the climate change hoax",
+        "description": "The New York Times says Democrats don't have to campaign on climate change anymore, suggesting 50 years of climate alarmism may finally be cooling.",
+        "url": "https://www.foxnews.com/opinion/david-marcus-new-york-times-announces-end-climate-change-hoax",
+        "publishedAt": "2026-05-10T15:59:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "Woman who spent 7 years in Chinese prison describes torture, surveillance and loss of her husband",
+        "description": "Wang Chunyan claims the the CCP destroyed her family, imprisoned her for seven years and killed her husband in its campaign against Falun Gong practitioners.",
+        "url": "https://www.foxnews.com/world/woman-who-spent-7-years-chinese-prison-describes-torture-surveillance-loss-her-husband",
+        "publishedAt": "2026-05-10T14:16:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "7"
+      },
+      {
+        "title": "Iran Ceasefire Tested as Cargo Ship Catches Fire in Reported Drone Attack of Qatar",
+        "description": "The shaky ceasefire in the Iran war was tested again on Sunday when drones of unclear origin set fire to a cargo ship off Qatar's coast and entered Kuwaiti airspace before dawn, authorities said.\nThe post Iran Ceasefire Tested as Cargo Ship Catches Fire in Re…",
+        "url": "https://www.breitbart.com/europe/2026/05/10/iran-ceasefire-tested-as-cargo-ship-catches-fire-in-reported-drone-attack-of-qatar/",
+        "publishedAt": "2026-05-10T12:05:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Over 100 Labour Politicians Call on Prime Minister Starmer to Resign After Election Disaster",
+        "description": "More than a hundred Labour Party politicians have called on Prime Minister Sir Kier Starmer to set out plans to resign from his post following this week's disastrous defeat in the local elections to Nigel Farage's Reform UK party.\nThe post Over 100 Labour Pol…",
+        "url": "https://www.breitbart.com/europe/2026/05/10/over-100-labour-politicians-call-on-prime-minister-starmer-to-resign-after-election-disaster/",
+        "publishedAt": "2026-05-10T11:46:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "100"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
