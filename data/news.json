@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T21:38:42.670373+00:00",
+  "generated_at": "2026-05-11T22:38:09.362465+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Aaron Judge is once again on pace to make history, threaten his own AL single-season home run record",
-        "description": "Yankees superstar Aaron Judge remains on a historic home run pace in 2026, years after setting the AL single-season record with 62 homers in 2022.",
-        "url": "https://www.foxnews.com/outkick-sports/aaron-judge-pace-make-history-threaten-al-single-season-home-run-record",
-        "publishedAt": "2026-05-10T19:29:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Strange betting behavior for Sean Brady vs. Joaquin Buckley fight turns out to be meaningless",
-        "description": "Sean Brady pummeled Joaquin Buckley at UFC 328 despite sketchy betting behavior that saw Buckley move from a +150 underdog to a -220 favorite.",
-        "url": "https://www.foxnews.com/outkick-sports/strange-betting-behavior-sean-brady-vs-joaquin-buckley-fight-turns-meaningless",
-        "publishedAt": "2026-05-10T19:13:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "328"
-      },
-      {
-        "title": "Exclusive -- Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom",
-        "description": "DELPHI, Greece — Qubad Talabani, the Deputy Prime Minister of the Kurdistan Regional Government (KRG) in Iraq, told Breitbart News exclusively here last month that President Donald Trump can secure a massive deal with Iran that creates a worldwide economic bo…",
-        "url": "https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/",
-        "publishedAt": "2026-05-10T19:04:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fetterman says Democrats have become ‘anti-men,’ warns of young male voter exodus",
-        "description": "Sen. Fetterman claims Democrats alienated young men by describing them as the problem, contributing to the party's losses with male voters since 2016.",
-        "url": "https://www.foxnews.com/media/fetterman-says-democrats-become-anti-men-warns-young-male-voter-exodus",
-        "publishedAt": "2026-05-10T18:39:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2016"
-      },
-      {
-        "title": "CBS host gives Dem rep brutal reality check on DHS shutdown: 'You lost that fight'",
-        "description": "CBS host Margaret Brennan pressed Rep. Ted Lieu on Democrats' midterm strategy, saying they lost the DHS shutdown battle without policy concessions.",
-        "url": "https://www.foxnews.com/media/cbs-host-gives-dem-rep-brutal-reality-check-dhs-shutdown-lost-fight",
-        "publishedAt": "2026-05-10T18:23:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
-    "news-thai-soc": [
-      {
-        "title": "Woman who spent 7 years in Chinese prison describes torture, surveillance and loss of her husband",
-        "description": "Wang Chunyan claims the the CCP destroyed her family, imprisoned her for seven years and killed her husband in its campaign against Falun Gong practitioners.",
-        "url": "https://www.foxnews.com/world/woman-who-spent-7-years-chinese-prison-describes-torture-surveillance-loss-her-husband",
-        "publishedAt": "2026-05-10T14:16:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Exclusive -- Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom",
-        "description": "DELPHI, Greece — Qubad Talabani, the Deputy Prime Minister of the Kurdistan Regional Government (KRG) in Iraq, told Breitbart News exclusively here last month that President Donald Trump can secure a massive deal with Iran that creates a worldwide economic bo…",
-        "url": "https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/",
-        "publishedAt": "2026-05-10T19:04:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Harmeet Dhillon: The Term 'Assault Weapons' Is 'Just a Made-Up Category'",
-        "description": "During an interview with Washington Gun Law, Assistant Attorney General for Civil Rights Harmeet Dhillon noted that the term \"assault weapons\" is \"just a made-up category.\"\nThe post Harmeet Dhillon: The Term ‘Assault Weapons’ Is ‘Just a Made-Up Category’ appe…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/10/harmeet-dhillon-the-term-assault-weapons-is-just-a-made-up-category/",
-        "publishedAt": "2026-05-10T16:48:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mississippi Billboard Reminds Would-Be Criminals: 'Firing Squad Is Legal. Think Twice'",
-        "description": "A billboard standing next to I-55 in DeSoto County, Mississippi, reminds would-be criminals entering the state that a \"firing squad is legal\" for executions and urges them to \"think twice.\"\nThe post Mississippi Billboard Reminds Would-Be Criminals: ‘Firing Sq…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/10/mississippi-billboard-reminds-would-be-criminals-firing-squad-is-legal-think-twice/",
-        "publishedAt": "2026-05-10T16:29:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "55"
-      },
-      {
-        "title": "Energy Secretary Wright says Trump administration open to suspending federal gas tax amid price surge",
-        "description": "Energy Secretary Chris Wright says the Trump administration is open to suspending the federal gas tax as fuel prices rise amid the Iran conflict.",
-        "url": "https://www.foxnews.com/media/energy-secretary-wright-says-trump-administration-open-suspending-federal-gas-tax-amid-price-surge",
-        "publishedAt": "2026-05-10T16:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DAVID MARCUS: New York Times announces the end of the climate change hoax",
-        "description": "The New York Times says Democrats don't have to campaign on climate change anymore, suggesting 50 years of climate alarmism may finally be cooling.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-new-york-times-announces-end-climate-change-hoax",
-        "publishedAt": "2026-05-10T15:59:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      }
-    ]
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
