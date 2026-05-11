@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T18:11:36.563125+00:00",
+  "generated_at": "2026-05-11T20:04:00.241090+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,54 +16,54 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "White House economist projects GDP growth could top 5% amid capital spending boom",
-        "description": "Kevin Hassett says capital spending boom could push U.S. GDP growth north of 5% or 6%, driven by tax policies and onshoring efforts under Trump.",
-        "url": "https://www.foxnews.com/media/white-house-economist-projects-gdp-growth-could-top-5-amid-capital-spending-boom",
-        "publishedAt": "2026-05-10T17:37:10Z",
+        "title": "Aaron Judge is once again on pace to make history, threaten his own AL single-season home run record",
+        "description": "Yankees superstar Aaron Judge remains on a historic home run pace in 2026, years after setting the AL single-season record with 62 homers in 2022.",
+        "url": "https://www.foxnews.com/outkick-sports/aaron-judge-pace-make-history-threaten-al-single-season-home-run-record",
+        "publishedAt": "2026-05-10T19:29:07Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "5"
+        "numericHint": "2026"
       },
       {
-        "title": "Trump unhappy about NFL streaming costs for fans as government probes league's antitrust exemption",
-        "description": "Trump weighs in on the NFL's antitrust exemption fight, saying the league's costly streaming deals are hurting fans who live for Sunday football games.",
-        "url": "https://www.foxnews.com/outkick-sports/trump-unhappy-nfl-streaming-costs-fans-government-probes-leagues-antitrust-exemption",
-        "publishedAt": "2026-05-10T17:21:19Z",
+        "title": "Strange betting behavior for Sean Brady vs. Joaquin Buckley fight turns out to be meaningless",
+        "description": "Sean Brady pummeled Joaquin Buckley at UFC 328 despite sketchy betting behavior that saw Buckley move from a +150 underdog to a -220 favorite.",
+        "url": "https://www.foxnews.com/outkick-sports/strange-betting-behavior-sean-brady-vs-joaquin-buckley-fight-turns-meaningless",
+        "publishedAt": "2026-05-10T19:13:56Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "328"
       },
       {
-        "title": "California’s alleged billion-dollar migrant healthcare spending under scrutiny | Fox News Video",
-        "description": "California Republican gubernatorial candidate Steve Hilton discusses the state’s spending on healthcare for migrants and his plans to improve affordability on ‘Sunday Morning Futures.’",
-        "url": "https://www.foxnews.com/video/6395152751112",
-        "publishedAt": "2026-05-10T17:18:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dem Rep. Lieu: 'The Trump Coalition Has Completely Collapsed'",
-        "description": "Sunday on CBS's \"Face the Nation,\" Rep. Ted Lieu (D-CA) said President Donald Trump's coalition of voters \"has completely collapsed.\"\nThe post Dem Rep. Lieu: ‘The Trump Coalition Has Completely Collapsed’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/clips/2026/05/10/dem-rep-lieu-the-trump-coalition-has-completely-collapsed/",
-        "publishedAt": "2026-05-10T17:13:03Z",
+        "title": "Exclusive -- Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom",
+        "description": "DELPHI, Greece — Qubad Talabani, the Deputy Prime Minister of the Kurdistan Regional Government (KRG) in Iraq, told Breitbart News exclusively here last month that President Donald Trump can secure a massive deal with Iran that creates a worldwide economic bo…",
+        "url": "https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/",
+        "publishedAt": "2026-05-10T19:04:37Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Drone delivers 2 pizzas in minutes",
-        "description": "Flytrex and Little Caesars partner to deliver hot pizza by drone in just over four minutes, launching the service in Wylie, Texas for nearby residents.",
-        "url": "https://www.foxnews.com/tech/drone-delivers-2-pizzas-minutes",
-        "publishedAt": "2026-05-10T17:00:22Z",
+        "title": "Fetterman says Democrats have become ‘anti-men,’ warns of young male voter exodus",
+        "description": "Sen. Fetterman claims Democrats alienated young men by describing them as the problem, contributing to the party's losses with male voters since 2016.",
+        "url": "https://www.foxnews.com/media/fetterman-says-democrats-become-anti-men-warns-young-male-voter-exodus",
+        "publishedAt": "2026-05-10T18:39:41Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "2"
+        "numericHint": "2016"
+      },
+      {
+        "title": "CBS host gives Dem rep brutal reality check on DHS shutdown: 'You lost that fight'",
+        "description": "CBS host Margaret Brennan pressed Rep. Ted Lieu on Democrats' midterm strategy, saying they lost the DHS shutdown battle without policy concessions.",
+        "url": "https://www.foxnews.com/media/cbs-host-gives-dem-rep-brutal-reality-check-dhs-shutdown-lost-fight",
+        "publishedAt": "2026-05-10T18:23:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
@@ -80,6 +80,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Exclusive -- Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom",
+        "description": "DELPHI, Greece — Qubad Talabani, the Deputy Prime Minister of the Kurdistan Regional Government (KRG) in Iraq, told Breitbart News exclusively here last month that President Donald Trump can secure a massive deal with Iran that creates a worldwide economic bo…",
+        "url": "https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/",
+        "publishedAt": "2026-05-10T19:04:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Harmeet Dhillon: The Term 'Assault Weapons' Is 'Just a Made-Up Category'",
         "description": "During an interview with Washington Gun Law, Assistant Attorney General for Civil Rights Harmeet Dhillon noted that the term \"assault weapons\" is \"just a made-up category.\"\nThe post Harmeet Dhillon: The Term ‘Assault Weapons’ Is ‘Just a Made-Up Category’ appe…",
@@ -119,16 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "50"
-      },
-      {
-        "title": "Woman who spent 7 years in Chinese prison describes torture, surveillance and loss of her husband",
-        "description": "Wang Chunyan claims the the CCP destroyed her family, imprisoned her for seven years and killed her husband in its campaign against Falun Gong practitioners.",
-        "url": "https://www.foxnews.com/world/woman-who-spent-7-years-chinese-prison-describes-torture-surveillance-loss-her-husband",
-        "publishedAt": "2026-05-10T14:16:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
       }
     ]
   },
