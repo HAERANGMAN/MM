@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-12T19:17:01.218226+00:00",
+  "generated_at": "2026-05-12T20:53:30.875022+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Indian Prime Minister Demands Pandemic-Era 'Work from Home' over Strait of Hormuz Fuel Crisis",
+        "description": "Indian Prime Minister Narendra Modi wants coronavirus-era work from home practices to save fuel during the Strait of Hormuz oil crisis.\nThe post Indian Prime Minister Demands Pandemic-Era ‘Work from Home’ over Strait of Hormuz Fuel Crisis appeared first on Br…",
+        "url": "https://www.breitbart.com/asia/2026/05/11/indian-prime-minister-demands-pandemic-era-work-home-over-strait-hormuz-fuel-crisis/",
+        "publishedAt": "2026-05-11T17:31:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Mega-mansion built on Manson murder site now a luxury rental after years of failing to find buyer",
+        "description": "A Beverly Hills mansion on the site of the infamous 1969 Sharon Tate murder is now a luxury rental asking nearly $250,000 a month after failing to sell.",
+        "url": "https://www.foxnews.com/us/mega-mansion-built-manson-murder-site-now-luxury-rental-years-failing-find-buyer",
+        "publishedAt": "2026-05-11T20:37:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1969"
+      },
+      {
+        "title": "WNBA media rights deal balloons past $3 billion after adding new broadcast partners to 11-year portfolio",
+        "description": "The WNBA's media rights deal has expanded from $2.2 billion to over $3 billion, with an average annual value of roughly $281 million over 11 years.",
+        "url": "https://www.foxnews.com/outkick-sports/wnba-media-rights-deal-balloons-past-3-billion-adding-new-broadcast-partners-11-year-portfolio",
+        "publishedAt": "2026-05-11T20:26:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Maine progressive says he won’t back Schumer even after Democrats unite behind Collins challenger",
+        "description": "Democrat Graham Platner says he won't back Schumer as Senate leader despite a cordial call, as he gears up to challenge Sen. Collins in Maine.",
+        "url": "https://www.foxnews.com/politics/maine-progressive-says-he-wont-back-schumer-even-after-democrats-unite-behind-collins-challenger",
+        "publishedAt": "2026-05-11T19:46:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "AOC’s housing agenda under fire after NYC hotel rates jump 12%",
+        "description": "Rep. Alexandria Ocasio-Cortez escalated her criticism of billionaires and Airbnb in a public debate over housing affordability, wealth creation, and corporate market power.",
+        "url": "https://www.foxnews.com/media/aocs-housing-agenda-fire-nyc-hotel-rates-jump-12",
+        "publishedAt": "2026-05-11T19:28:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "12"
+      },
+      {
+        "title": "Georgia Pride group recruiting kids as young as 13 into drag shows sparks backlash",
+        "description": "An Atlanta drag group called House of ALXNDR is recruiting teenagers as young as 13 to perform in drag shows during a Pride Month event in Georgia.",
+        "url": "https://www.foxnews.com/culture/georgia-pride-group-recruiting-kids-young-13-drag-shows-sparks-backlash",
+        "publishedAt": "2026-05-11T19:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "13"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "LIV Golf CEO teases announcements in 'next 10 days,' talks Bryson DeChambeau's future with LIV",
+        "description": "Bryson DeChambeau is \"more pro-LIV than I am,\" says CEO Scott O'Neil, as the golf league races to secure new funding after PIF's planned exit in 2026.",
+        "url": "https://www.foxnews.com/outkick-sports/liv-golf-ceo-teases-announcements-next-10-days-talks-bryson-dechambeaus-future-liv",
+        "publishedAt": "2026-05-11T19:26:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Exclusive – Sen. Dave McCormick Says 'Existential Battle with China' Requires Government and Industry Teamwork: 'This is Like Winning World War 2'",
+        "description": "Breitbart News hosted a policy discussion on Monday titled \"Harnessing American Power\" with Interior Secretary Doug Burgum and Sen. Dave McCormick (R-PA), where McCormick said America’s competition with China requires coordinated work across government, energ…",
+        "url": "https://www.breitbart.com/politics/2026/05/11/exclusive-sen-dave-mccormick-says-existential-battle-with-china-requires-government-and-industry-teamwork-this-is-like-winning-world-war-2/",
+        "publishedAt": "2026-05-11T17:49:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Indian Prime Minister Demands Pandemic-Era 'Work from Home' over Strait of Hormuz Fuel Crisis",
+        "description": "Indian Prime Minister Narendra Modi wants coronavirus-era work from home practices to save fuel during the Strait of Hormuz oil crisis.\nThe post Indian Prime Minister Demands Pandemic-Era ‘Work from Home’ over Strait of Hormuz Fuel Crisis appeared first on Br…",
+        "url": "https://www.breitbart.com/asia/2026/05/11/indian-prime-minister-demands-pandemic-era-work-home-over-strait-hormuz-fuel-crisis/",
+        "publishedAt": "2026-05-11T17:31:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China Confirms Trump Visit, Teasing 'In-Depth Exchanges' with Xi Jinping",
+        "description": "The Chinese Foreign Ministry confirmed on Monday that Beijing expects President Donald Trump to visit from May 13 to 15, spending much of that time in personal exchanges with genocidal dictator Xi Jinping.\nThe post China Confirms Trump Visit, Teasing ‘In-Dept…",
+        "url": "https://www.breitbart.com/asia/2026/05/11/china-confirms-trump-visit-teasing-in-depth-exchanges-with-xi-jinping/",
+        "publishedAt": "2026-05-11T17:16:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "13"
+      },
+      {
+        "title": "EXCLUSIVE—NRA CEO Doug Hamlin: 'Trump Administration Is in Lockstep With the Pro-2A Movement'",
+        "description": "NRA executive vice president and CEO Doug Hamlin talked exclusively with Breitbart News and assured us that \"the Trump administration is in lockstep with the pro-Second Amendment movement.\"\nThe post EXCLUSIVE—NRA CEO Doug Hamlin: ‘Trump Administration Is in L…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/11/exclusive-nra-ceo-doug-hamlin-trump-administration-is-in-lockstep-with-the-pro-2a-movement/",
+        "publishedAt": "2026-05-11T16:42:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
