@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-13T00:15:19.051135+00:00",
+  "generated_at": "2026-05-13T04:15:28.451482+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Indian Prime Minister Demands Pandemic-Era 'Work from Home' over Strait of Hormuz Fuel Crisis",
+        "description": "Indian Prime Minister Narendra Modi wants coronavirus-era work from home practices to save fuel during the Strait of Hormuz oil crisis.\nThe post Indian Prime Minister Demands Pandemic-Era ‘Work from Home’ over Strait of Hormuz Fuel Crisis appeared first on Br…",
+        "url": "https://www.breitbart.com/asia/2026/05/11/indian-prime-minister-demands-pandemic-era-work-home-over-strait-hormuz-fuel-crisis/",
+        "publishedAt": "2026-05-11T17:31:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Cola wars in India fuel booming demand for visi-coolers and retail fridges",
+        "description": "Beverage companies are aggressively expanding distribution by installing fridges in mom-and-pop shops across the country, turning cold storage units into key marketing and sales tools.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-12/ambani-s-cola-war-with-coke-pepsi-spurs-fridge-bonanza-in-india",
+        "publishedAt": "2026-05-12T04:00:13Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Franklin Templeton bets on fixed income growth to rebuild India business",
+        "description": "Franklin Templeton is shifting focus to fixed income in India, aiming to reduce equity exposure and expand debt funds amid rising investor interest and competition.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-12/franklin-templeton-turns-to-fixed-income-to-fuel-india-growth",
+        "publishedAt": "2026-05-12T03:43:25Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive – Sec. Burgum on Economy-Crushing Bureaucratic Creep: '80% of What People Were Being Held Accountable for' Not Original Law",
+        "description": "Interior Secretary Doug Burgum argued while speaking at a Breitbart News policy event that the vast majority of the legal hoops the American energy industry has to jump through are setting the U.S. back, while China skips over bureaucracy in the race for AI d…",
+        "url": "https://www.breitbart.com/tech/2026/05/11/exclusive-sec-doug-burgum-economy-crushing-bureaucratic-creep/",
+        "publishedAt": "2026-05-12T02:07:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "80"
+      },
+      {
+        "title": "Ted Cruz labels AOC's billionaire comments on American Revolution as 'bizarrely foolish'",
+        "description": "Sen. Ted Cruz called AOC a \"little Marxist\" and blasted her claims that billionaires didn't earn their wealth, saying her ideology leads to communism.",
+        "url": "https://www.foxnews.com/media/ted-cruz-labels-aocs-billionaire-comments-american-revolution-bizarrely-foolish",
+        "publishedAt": "2026-05-12T00:21:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Members of Congress using online prediction markets? Don't bet on it",
+        "description": "The Senate voted unanimously to ban prediction markets for senators and aides, while a broader congressional stock trading ban remains seemingly out of reach.",
+        "url": "https://www.foxnews.com/politics/members-congress-using-online-prediction-markets-dont-bet-it",
+        "publishedAt": "2026-05-11T23:16:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Cola wars in India fuel booming demand for visi-coolers and retail fridges",
+        "description": "Beverage companies are aggressively expanding distribution by installing fridges in mom-and-pop shops across the country, turning cold storage units into key marketing and sales tools.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-12/ambani-s-cola-war-with-coke-pepsi-spurs-fridge-bonanza-in-india",
+        "publishedAt": "2026-05-12T04:00:13Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Franklin Templeton bets on fixed income growth to rebuild India business",
+        "description": "Franklin Templeton is shifting focus to fixed income in India, aiming to reduce equity exposure and expand debt funds amid rising investor interest and competition.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-12/franklin-templeton-turns-to-fixed-income-to-fuel-india-growth",
+        "publishedAt": "2026-05-12T03:43:25Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump administration rejects UN migration declaration, says 'mass migration was never safe'",
+        "description": "The State Department said it objects to U.N. efforts to \"advocate and facilitate replacement immigration in the United States and across the broader West.\"",
+        "url": "https://www.foxnews.com/world/trump-administration-rejects-un-migration-declaration-says-mass-migration-never-safe",
+        "publishedAt": "2026-05-12T01:36:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Man with Gun Allegedly Shoots at Cars in Stringently Gun-Controlled Massachusetts",
+        "description": "A man with a long gun allegedly shot at numerous cars on Memorial Drive in Cambridge, Massachusetts, around 1:30 p.m. Monday.\nThe post Man with Gun Allegedly Shoots at Cars in Stringently Gun-Controlled Massachusetts appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/11/man-with-gun-allegedly-shoots-at-cars-in-stringently-gun-controlled-massachusetts/",
+        "publishedAt": "2026-05-11T23:03:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Retired pastor, 78, convicted and fined for preaching Bible verse near Northern Ireland hospital",
+        "description": "A 78-year-old retired pastor was convicted for preaching near a Northern Ireland hospital, raising concerns about free speech and religious freedom.",
+        "url": "https://www.foxnews.com/culture/retired-pastor-78-convicted-fined-preaching-bible-verse-near-northern-ireland-hospital",
+        "publishedAt": "2026-05-11T22:30:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "78"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
