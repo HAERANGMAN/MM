@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T04:15:28.451482+00:00",
+  "generated_at": "2026-05-13T07:30:27.247215+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "'She's Looking Towards a Global Communist Revolution': GOP Rep. Gill Urges AOC to Seek Presidency",
+        "description": "During an appearance on FNC's \"The Ingraham Angle,\" Rep. Brandon Gill (R-TX) reacted to the suggestion that his colleague Rep. Alexandria Ocasio-Cortez was seeking the White House in 2028.\nThe post ‘She’s Looking Towards a Global Communist Revolution’: GOP Re…",
+        "url": "https://www.breitbart.com/clips/2026/05/11/shes-looking-towards-a-global-communist-revolution-gop-rep-gill-urges-aoc-to-seek-presidency/",
+        "publishedAt": "2026-05-12T04:54:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2028"
+      },
+      {
         "title": "Cola wars in India fuel booming demand for visi-coolers and retail fridges",
         "description": "Beverage companies are aggressively expanding distribution by installing fridges in mom-and-pop shops across the country, turning cold storage units into key marketing and sales tools.",
         "url": "https://www.bloomberg.com/news/articles/2026-05-12/ambani-s-cola-war-with-coke-pepsi-spurs-fridge-bonanza-in-india",
@@ -108,16 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "1"
-      },
-      {
-        "title": "Retired pastor, 78, convicted and fined for preaching Bible verse near Northern Ireland hospital",
-        "description": "A 78-year-old retired pastor was convicted for preaching near a Northern Ireland hospital, raising concerns about free speech and religious freedom.",
-        "url": "https://www.foxnews.com/culture/retired-pastor-78-convicted-fined-preaching-bible-verse-near-northern-ireland-hospital",
-        "publishedAt": "2026-05-11T22:30:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "78"
       }
     ]
   },
