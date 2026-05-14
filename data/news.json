@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:09:33.812476+00:00",
+  "generated_at": "2026-05-14T10:32:25.167756+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,54 +16,54 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "RBI Governor sees fuel price hike if crude oil stays high",
-        "description": "His remarks came after Prime Minister Narendra Modi urged voluntary austerity, including cutting down on petrol and diesel use and putting off gold purchases, to preserve foreign exchange reserves.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-13/india-s-rbi-governor-sees-fuel-price-hike-if-oil-stays-high",
-        "publishedAt": "2026-05-13T06:46:29Z",
+        "title": "E.U. to Ban Brazilian Meat Imports from September over Use of Antibiotics",
+        "description": "The European Union (E.U.) is set to ban Brazilian meat imports on September 3 over the use of antibiotics to stimulate growth unless producers show compliance with safety regulations before the deadline — an announcement that comes roughly two weeks after the…",
+        "url": "https://www.breitbart.com/europe/2026/05/13/eu-to-ban-brazilian-meat-imports-in-september-over-use-of-antibiotics/",
+        "publishedAt": "2026-05-13T10:18:30Z",
         "source": {
-          "name": "Bloomberg"
+          "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "3"
       },
       {
-        "title": "MLB owners and players begin CBA negotiations in New York as salary cap fight looms over 2026 season",
-        "description": "MLB labor negotiations are officially underway as the league and MLBPA meet to discuss the next CBA, with a potential lockout on the horizon.",
-        "url": "https://www.foxnews.com/outkick-sports/mlb-owners-players-begin-cba-negotiations-new-york-salary-cap-fight-looms-2026-season",
-        "publishedAt": "2026-05-13T00:01:25Z",
+        "title": "Netflix co-CEO clarifies streaming giant’s live sports strategy amid NFL lineup expansion, federal scrutiny",
+        "description": "Ted Sarandos says Netflix is not pursuing full-season sports rights as the streaming giant expands its live NFL and sports event offerings in 2026.",
+        "url": "https://www.foxnews.com/sports/netflix-co-ceo-clarifies-streaming-giants-live-sports-strategy-amid-nfl-lineup-expansion-federal-scrutiny",
+        "publishedAt": "2026-05-13T10:13:24Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "2026"
       },
       {
-        "title": "Seattle Democrat rejects wealth 'exodus’ concerns as businesses flee for lower-tax states",
-        "description": "As Starbucks moves jobs to Nashville, Washington Democrats push a new 9.9% tax on high earners, ignoring warnings of a massive taxpayer flight.",
-        "url": "https://www.foxnews.com/media/seattle-democrat-rejects-wealth-exodus-concerns-businesses-flee-lower-tax-states",
-        "publishedAt": "2026-05-13T00:00:22Z",
+        "title": "Doug Burgum says Trump enters China summit in 'strongest position' of any US leader ever",
+        "description": "Interior Secretary Doug Burgum says Trump enters China summit in the \"strongest position\" of any U.S. leader, citing energy dominance and food security.",
+        "url": "https://www.foxnews.com/media/doug-burgum-says-trump-enters-china-summit-strongest-position-any-us-leader-ever",
+        "publishedAt": "2026-05-13T10:00:28Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "9.9"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Seattle Democrat rejects wealth 'exodus’ concerns as businesses blee for lower-tax states",
-        "description": "As Starbucks moves jobs to Nashville, Washington Democrats push a new 9.9% tax on high earners, ignoring warnings of a massive taxpayer flight.",
-        "url": "https://www.foxnews.com/media/seattle-democrat-rejects-wealth-exodus-concerns-businesses-blee-lower-tax-states",
-        "publishedAt": "2026-05-13T00:00:22Z",
+        "title": "Dallas mayor blasts NYC for ‘punishing success' as he pitches ‘Y’all Street’ to fleeing billionaires",
+        "description": "Dallas Mayor Eric Johnson touts \"Y'all Street\" as a rising rival to Wall Street, blasting NYC Mayor Mamdani for what he calls punishing success.",
+        "url": "https://www.foxnews.com/politics/dallas-mayor-blasts-nyc-punishing-success-he-pitches-yall-street-fleeing-billionaires",
+        "publishedAt": "2026-05-13T10:00:27Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "9.9"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Washington manufacturer leaving state after 48 years, citing crime, taxes, political climate",
-        "description": "Washington manufacturer Delta Camshaft announced it is leaving the state after nearly 50 years, with its owner citing rising crime, skyrocketing taxes and insurance.",
-        "url": "https://www.foxnews.com/media/washington-manufacturer-leaving-state-48-years-citing-crime-taxes-political-climate",
-        "publishedAt": "2026-05-12T22:05:09Z",
+        "title": "Trump faces split among retired US commanders over whether to resume Iran strikes",
+        "description": "Trump says Iran ceasefire is on \"massive life support\" as retired U.S. commanders debate whether to resume military operations against Tehran.",
+        "url": "https://www.foxnews.com/world/trump-faces-split-among-retired-us-commanders-over-whether-resume-iran-strikes",
+        "publishedAt": "2026-05-13T10:00:03Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "48"
+        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump heads to Beijing for high-stakes Xi talks as Taiwan tensions, trade disputes test US strength",
+        "description": "President Donald Trump meets with Xi Jinping in Beijing for talks on Taiwan, trade, Iran and China's support for Russia amid rising U.S.–China tensions.",
+        "url": "https://www.foxnews.com/politics/trump-heads-beijing-high-stakes-xi-talks-taiwan-tensions-trade-disputes-test-u-s-strength",
+        "publishedAt": "2026-05-13T09:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump heads to China with the upper hand — and Xi knows it",
+        "description": "President Trump's economic policies on trade, energy and manufacturing position the U.S. to negotiate with China from a place of unprecedented strength.",
+        "url": "https://www.foxnews.com/opinion/trump-heads-china-upper-hand-xi-knows",
+        "publishedAt": "2026-05-13T08:45:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "#769 – “Espresso” – Game Show Legends, Legal Briefs & Global Diplomacy | The Quiz",
         "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from legendary TV icons to the secrets of your morning caffeine fix. Can you answer these? Coffee Culture: Most people know “Grande,” but do you know the specific name for the even lar…",
@@ -109,26 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
-      {
-        "title": "Florida AG Sues Jacksonville for Allegedly Keeping Registry of Guns Brought into City Buildings",
-        "description": "On Tuesday, Florida Attorney General James Uthmeier announced a lawsuit against the city of Jacksonville over the alleged compilation of a registry of guns brought into city buildings.\nThe post Florida AG Sues Jacksonville for Allegedly Keeping Registry of Gu…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/12/florida-ag-sues-jacksonville-allegedly-keeping-registry-guns-brought-city-buildings/",
-        "publishedAt": "2026-05-13T00:28:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Harvey Weinstein Defense Seeks Acquittal as Rape Retrial Comes to Close",
-        "description": "NEW YORK (AP) — Harvey Weinstein’s defense urged jurors Tuesday to put an end to a #MeToo-era rape case that has gone to trial three times, arguing that the former Hollywood honcho should be acquitted.\nThe post Harvey Weinstein Defense Seeks Acquittal as Rape…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/12/harvey-weinstein-defense-seeks-acquittal-as-rape-retrial-comes-to-close/",
-        "publishedAt": "2026-05-12T22:20:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
