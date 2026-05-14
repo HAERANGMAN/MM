@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T10:32:25.167756+00:00",
+  "generated_at": "2026-05-14T12:13:11.948803+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "E.U. to Ban Brazilian Meat Imports from September over Use of Antibiotics",
-        "description": "The European Union (E.U.) is set to ban Brazilian meat imports on September 3 over the use of antibiotics to stimulate growth unless producers show compliance with safety regulations before the deadline — an announcement that comes roughly two weeks after the…",
-        "url": "https://www.breitbart.com/europe/2026/05/13/eu-to-ban-brazilian-meat-imports-in-september-over-use-of-antibiotics/",
-        "publishedAt": "2026-05-13T10:18:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Netflix co-CEO clarifies streaming giant’s live sports strategy amid NFL lineup expansion, federal scrutiny",
-        "description": "Ted Sarandos says Netflix is not pursuing full-season sports rights as the streaming giant expands its live NFL and sports event offerings in 2026.",
-        "url": "https://www.foxnews.com/sports/netflix-co-ceo-clarifies-streaming-giants-live-sports-strategy-amid-nfl-lineup-expansion-federal-scrutiny",
-        "publishedAt": "2026-05-13T10:13:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Doug Burgum says Trump enters China summit in 'strongest position' of any US leader ever",
-        "description": "Interior Secretary Doug Burgum says Trump enters China summit in the \"strongest position\" of any U.S. leader, citing energy dominance and food security.",
-        "url": "https://www.foxnews.com/media/doug-burgum-says-trump-enters-china-summit-strongest-position-any-us-leader-ever",
-        "publishedAt": "2026-05-13T10:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dallas mayor blasts NYC for ‘punishing success' as he pitches ‘Y’all Street’ to fleeing billionaires",
-        "description": "Dallas Mayor Eric Johnson touts \"Y'all Street\" as a rising rival to Wall Street, blasting NYC Mayor Mamdani for what he calls punishing success.",
-        "url": "https://www.foxnews.com/politics/dallas-mayor-blasts-nyc-punishing-success-he-pitches-yall-street-fleeing-billionaires",
-        "publishedAt": "2026-05-13T10:00:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump faces split among retired US commanders over whether to resume Iran strikes",
-        "description": "Trump says Iran ceasefire is on \"massive life support\" as retired U.S. commanders debate whether to resume military operations against Tehran.",
-        "url": "https://www.foxnews.com/world/trump-faces-split-among-retired-us-commanders-over-whether-resume-iran-strikes",
-        "publishedAt": "2026-05-13T10:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "DHS Sec Mullin points finger at Newsom over alleged Chinese infiltration of California after CCP mayor charged",
-        "description": "DHS Secretary Markwayne Mullin blames Gov. Gavin Newsom's policies for leading to alleged Chinese infiltration of California after a local mayor was charged as a China agent.",
-        "url": "https://www.foxnews.com/media/dhs-sec-mullin-points-finger-newsom-alleged-chinese-infiltration-california-ccp-mayor-charged",
-        "publishedAt": "2026-05-13T01:00:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump heads to Beijing for high-stakes Xi talks as Taiwan tensions, trade disputes test US strength",
-        "description": "President Donald Trump meets with Xi Jinping in Beijing for talks on Taiwan, trade, Iran and China's support for Russia amid rising U.S.–China tensions.",
-        "url": "https://www.foxnews.com/politics/trump-heads-beijing-high-stakes-xi-talks-taiwan-tensions-trade-disputes-test-u-s-strength",
-        "publishedAt": "2026-05-13T09:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump heads to China with the upper hand — and Xi knows it",
-        "description": "President Trump's economic policies on trade, energy and manufacturing position the U.S. to negotiate with China from a place of unprecedented strength.",
-        "url": "https://www.foxnews.com/opinion/trump-heads-china-upper-hand-xi-knows",
-        "publishedAt": "2026-05-13T08:45:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "#769 – “Espresso” – Game Show Legends, Legal Briefs & Global Diplomacy | The Quiz",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from legendary TV icons to the secrets of your morning caffeine fix. Can you answer these? Coffee Culture: Most people know “Grande,” but do you know the specific name for the even lar…",
-        "url": "https://radio.foxnews.com/2026/05/13/769-espresso-game-show-legends-legal-briefs-global-diplomacy-the-quiz/",
-        "publishedAt": "2026-05-13T07:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "769"
-      },
-      {
-        "title": "Murphy: Trump Has Made Iran Two to Three Times More Powerful",
-        "description": "Tuesday on MS NOW's \"All In,\" Sen. Chris Murphy (D-CT) claimed President Donald Trump's military operation in Iran has made them \"two to three times more powerful.\"\nThe post Murphy: Trump Has Made Iran Two to Three Times More Powerful appeared first on Breitb…",
-        "url": "https://www.breitbart.com/clips/2026/05/12/murphy-trump-has-made-iran-two-to-three-times-more-powerful/",
-        "publishedAt": "2026-05-13T01:59:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New Jersey Gov. Mikie Sherrill announces another NJ Transit World Cup ticket cut days after first reduction",
-        "description": "NJ Transit 2026 FIFA World Cup train ticket prices cut again to $98 round-trip after Gov. Mikie Sherrill revealed sponsors that helped lower costs for fans.",
-        "url": "https://www.foxnews.com/sports/new-jersey-gov-mikie-sherrill-announces-another-nj-transit-world-cup-ticket-cut-days-first-reduction",
-        "publishedAt": "2026-05-13T01:14:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
