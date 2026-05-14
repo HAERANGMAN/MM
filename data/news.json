@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-14T12:13:11.948803+00:00",
+  "generated_at": "2026-05-14T14:43:26.920467+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "DHS Sec Mullin points finger at Newsom over alleged Chinese infiltration of California after CCP mayor charged",
-        "description": "DHS Secretary Markwayne Mullin blames Gov. Gavin Newsom's policies for leading to alleged Chinese infiltration of California after a local mayor was charged as a China agent.",
-        "url": "https://www.foxnews.com/media/dhs-sec-mullin-points-finger-newsom-alleged-chinese-infiltration-california-ccp-mayor-charged",
-        "publishedAt": "2026-05-13T01:00:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
