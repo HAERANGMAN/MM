@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T05:28:13.420545+00:00",
+  "generated_at": "2026-05-14T08:09:33.812476+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "RBI Governor sees fuel price hike if crude oil stays high",
+        "description": "His remarks came after Prime Minister Narendra Modi urged voluntary austerity, including cutting down on petrol and diesel use and putting off gold purchases, to preserve foreign exchange reserves.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-13/india-s-rbi-governor-sees-fuel-price-hike-if-oil-stays-high",
+        "publishedAt": "2026-05-13T06:46:29Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "MLB owners and players begin CBA negotiations in New York as salary cap fight looms over 2026 season",
         "description": "MLB labor negotiations are officially underway as the league and MLBPA meet to discuss the next CBA, with a potential lockout on the horizon.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "48"
-      },
-      {
-        "title": "Golden Knights reportedly block Oilers from interviewing their former head coach Bruce Cassidy",
-        "description": "The Vegas Golden Knights reportedly denied the Edmonton Oilers permission to speak with fired head coach Bruce Cassidy about a coaching opportunity.",
-        "url": "https://www.foxnews.com/outkick-sports/golden-knights-reportedly-block-oilers-interviewing-former-head-coach-bruce-cassidy",
-        "publishedAt": "2026-05-12T21:48:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "#769 – “Espresso” – Game Show Legends, Legal Briefs & Global Diplomacy | The Quiz",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from legendary TV icons to the secrets of your morning caffeine fix. Can you answer these? Coffee Culture: Most people know “Grande,” but do you know the specific name for the even lar…",
+        "url": "https://radio.foxnews.com/2026/05/13/769-espresso-game-show-legends-legal-briefs-global-diplomacy-the-quiz/",
+        "publishedAt": "2026-05-13T07:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "769"
+      },
       {
         "title": "Murphy: Trump Has Made Iran Two to Three Times More Powerful",
         "description": "Tuesday on MS NOW's \"All In,\" Sen. Chris Murphy (D-CT) claimed President Donald Trump's military operation in Iran has made them \"two to three times more powerful.\"\nThe post Murphy: Trump Has Made Iran Two to Three Times More Powerful appeared first on Breitb…",
@@ -117,16 +127,6 @@
         "publishedAt": "2026-05-12T22:20:18Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Taiwan watches Trump-Xi meeting for signs China will test US resolve",
-        "description": "Experts say Xi Jinping may seek to influence President Trump to make certain concessions over Taiwan in exchange for cooperation on tariffs, fentanyl and global flashpoints like Iran.",
-        "url": "https://www.foxnews.com/world/taiwan-watches-trump-xi-meeting-signs-china-test-us-resolve",
-        "publishedAt": "2026-05-12T22:00:16Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
