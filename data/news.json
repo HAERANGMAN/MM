@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-14T01:29:35.045512+00:00",
+  "generated_at": "2026-05-14T05:28:13.420545+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "DHS Sec Mullin points finger at Newsom over alleged Chinese infiltration of California after CCP mayor charged",
+        "description": "DHS Secretary Markwayne Mullin blames Gov. Gavin Newsom's policies for leading to alleged Chinese infiltration of California after a local mayor was charged as a China agent.",
+        "url": "https://www.foxnews.com/media/dhs-sec-mullin-points-finger-newsom-alleged-chinese-infiltration-california-ccp-mayor-charged",
+        "publishedAt": "2026-05-13T01:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "MLB owners and players begin CBA negotiations in New York as salary cap fight looms over 2026 season",
+        "description": "MLB labor negotiations are officially underway as the league and MLBPA meet to discuss the next CBA, with a potential lockout on the horizon.",
+        "url": "https://www.foxnews.com/outkick-sports/mlb-owners-players-begin-cba-negotiations-new-york-salary-cap-fight-looms-2026-season",
+        "publishedAt": "2026-05-13T00:01:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Seattle Democrat rejects wealth 'exodus’ concerns as businesses flee for lower-tax states",
+        "description": "As Starbucks moves jobs to Nashville, Washington Democrats push a new 9.9% tax on high earners, ignoring warnings of a massive taxpayer flight.",
+        "url": "https://www.foxnews.com/media/seattle-democrat-rejects-wealth-exodus-concerns-businesses-flee-lower-tax-states",
+        "publishedAt": "2026-05-13T00:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9.9"
+      },
+      {
+        "title": "Seattle Democrat rejects wealth 'exodus’ concerns as businesses blee for lower-tax states",
+        "description": "As Starbucks moves jobs to Nashville, Washington Democrats push a new 9.9% tax on high earners, ignoring warnings of a massive taxpayer flight.",
+        "url": "https://www.foxnews.com/media/seattle-democrat-rejects-wealth-exodus-concerns-businesses-blee-lower-tax-states",
+        "publishedAt": "2026-05-13T00:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9.9"
+      },
+      {
+        "title": "Washington manufacturer leaving state after 48 years, citing crime, taxes, political climate",
+        "description": "Washington manufacturer Delta Camshaft announced it is leaving the state after nearly 50 years, with its owner citing rising crime, skyrocketing taxes and insurance.",
+        "url": "https://www.foxnews.com/media/washington-manufacturer-leaving-state-48-years-citing-crime-taxes-political-climate",
+        "publishedAt": "2026-05-12T22:05:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "48"
+      },
+      {
+        "title": "Golden Knights reportedly block Oilers from interviewing their former head coach Bruce Cassidy",
+        "description": "The Vegas Golden Knights reportedly denied the Edmonton Oilers permission to speak with fired head coach Bruce Cassidy about a coaching opportunity.",
+        "url": "https://www.foxnews.com/outkick-sports/golden-knights-reportedly-block-oilers-interviewing-former-head-coach-bruce-cassidy",
+        "publishedAt": "2026-05-12T21:48:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "DHS Sec Mullin points finger at Newsom over alleged Chinese infiltration of California after CCP mayor charged",
+        "description": "DHS Secretary Markwayne Mullin blames Gov. Gavin Newsom's policies for leading to alleged Chinese infiltration of California after a local mayor was charged as a China agent.",
+        "url": "https://www.foxnews.com/media/dhs-sec-mullin-points-finger-newsom-alleged-chinese-infiltration-california-ccp-mayor-charged",
+        "publishedAt": "2026-05-13T01:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Murphy: Trump Has Made Iran Two to Three Times More Powerful",
+        "description": "Tuesday on MS NOW's \"All In,\" Sen. Chris Murphy (D-CT) claimed President Donald Trump's military operation in Iran has made them \"two to three times more powerful.\"\nThe post Murphy: Trump Has Made Iran Two to Three Times More Powerful appeared first on Breitb…",
+        "url": "https://www.breitbart.com/clips/2026/05/12/murphy-trump-has-made-iran-two-to-three-times-more-powerful/",
+        "publishedAt": "2026-05-13T01:59:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New Jersey Gov. Mikie Sherrill announces another NJ Transit World Cup ticket cut days after first reduction",
+        "description": "NJ Transit 2026 FIFA World Cup train ticket prices cut again to $98 round-trip after Gov. Mikie Sherrill revealed sponsors that helped lower costs for fans.",
+        "url": "https://www.foxnews.com/sports/new-jersey-gov-mikie-sherrill-announces-another-nj-transit-world-cup-ticket-cut-days-first-reduction",
+        "publishedAt": "2026-05-13T01:14:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Florida AG Sues Jacksonville for Allegedly Keeping Registry of Guns Brought into City Buildings",
+        "description": "On Tuesday, Florida Attorney General James Uthmeier announced a lawsuit against the city of Jacksonville over the alleged compilation of a registry of guns brought into city buildings.\nThe post Florida AG Sues Jacksonville for Allegedly Keeping Registry of Gu…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/12/florida-ag-sues-jacksonville-allegedly-keeping-registry-guns-brought-city-buildings/",
+        "publishedAt": "2026-05-13T00:28:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Harvey Weinstein Defense Seeks Acquittal as Rape Retrial Comes to Close",
+        "description": "NEW YORK (AP) — Harvey Weinstein’s defense urged jurors Tuesday to put an end to a #MeToo-era rape case that has gone to trial three times, arguing that the former Hollywood honcho should be acquitted.\nThe post Harvey Weinstein Defense Seeks Acquittal as Rape…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/12/harvey-weinstein-defense-seeks-acquittal-as-rape-retrial-comes-to-close/",
+        "publishedAt": "2026-05-12T22:20:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Taiwan watches Trump-Xi meeting for signs China will test US resolve",
+        "description": "Experts say Xi Jinping may seek to influence President Trump to make certain concessions over Taiwan in exchange for cooperation on tariffs, fentanyl and global flashpoints like Iran.",
+        "url": "https://www.foxnews.com/world/taiwan-watches-trump-xi-meeting-signs-china-test-us-resolve",
+        "publishedAt": "2026-05-12T22:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
