@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-15T12:25:30.506163+00:00",
+  "generated_at": "2026-05-15T14:59:08.119207+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
-        "description": "America's new defense strategy rewrites the transatlantic bargain, prioritizing China deterrence and allied burden-sharing over old commitments to Europe.",
-        "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
-        "publishedAt": "2026-05-13T14:45:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Waymo vehicles 'putting American lives at risk,' source warns amid autonomous vehicle company's massive recall",
-        "description": "Waymo faces mounting scrutiny over passenger safety and espionage risks after it recalled of 3,791 autonomous vehicles for flood-related issues.",
-        "url": "https://www.foxnews.com/media/waymo-vehicles-putting-american-lives-risk-source-warns-amid-autonomous-vehicle-companys-massive-recall",
-        "publishedAt": "2026-05-14T12:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Exclusive--O'Donnell: The Deal Is No Deal – Strangle the IRGC, Attack the Jugular, The Revenue that Fuels the Iranian Terror State",
-        "description": "A recent leaked CIA report stated the Iranian regime can hold out against the blockade for three or four months. We cannot throw them a lifeline in the form of a deal that leaves them in power. Now is the time to crush them.\nThe post Exclusive–O’Donnell: The …",
-        "url": "https://www.breitbart.com/national-security/2026/05/14/exclusive-odonnell-the-deal-is-no-deal-strangle-the-irgc-attack-the-jugular-the-revenue-that-fuels-the-iranian-terror-state/",
-        "publishedAt": "2026-05-14T12:00:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dem Rep. Schrier: Inflation's Worse in My Blue State -- Need to End War, Deal with Gouging",
-        "description": "During an interview with Seattle ABC affiliate KOMO on Wednesday, Rep. Kim Schrier (D-WA) stated that the latest inflation numbers are “Really bad” but Washington has it worse, “about 1% worse than the rest of the country,” and “the tariffs did\nThe post Dem R…",
-        "url": "https://www.breitbart.com/clips/2026/05/14/dem-rep-schrier-inflations-worse-in-my-blue-state-need-to-end-war-deal-with-gouging/",
-        "publishedAt": "2026-05-14T11:42:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Former Pilot Lambasts Elite Celebrities Flying to Cannes Film Fest on Private Jets as ‘Obscene’",
-        "description": "Climate activists are urging movie stars to fly economy or take the train to Cannes after saying private jets burned two millions of litres of kerosene getting them to the film festival last year.\nThe post Former Pilot Lambasts Elite Celebrities Flying to Can…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/14/spoilt-film-stars-flying-to-cannes-in-private-jets-obscene-say-ex-pilots/",
-        "publishedAt": "2026-05-14T11:42:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
-        "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/india-s-second-biggest-state-bank-aims-to-double-size-in-5-years",
-        "publishedAt": "2026-05-14T10:38:57Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "5"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Exclusive--O'Donnell: The Deal Is No Deal – Strangle the IRGC, Attack the Jugular, The Revenue that Fuels the Iranian Terror State",
-        "description": "A recent leaked CIA report stated the Iranian regime can hold out against the blockade for three or four months. We cannot throw them a lifeline in the form of a deal that leaves them in power. Now is the time to crush them.\nThe post Exclusive–O’Donnell: The …",
-        "url": "https://www.breitbart.com/national-security/2026/05/14/exclusive-odonnell-the-deal-is-no-deal-strangle-the-irgc-attack-the-jugular-the-revenue-that-fuels-the-iranian-terror-state/",
-        "publishedAt": "2026-05-14T12:00:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iranian sleeper cells pose World Cup threat, former FBI agent warns, urges Trump to send stark warning",
-        "description": "A former FBI agent urges President Trump to send Iran a stark warning over potential sleeper cell threats ahead of the 2026 FIFA World Cup in June.",
-        "url": "https://www.foxnews.com/us/iranian-sleeper-cells-pose-world-cup-threat-former-fbi-agent-warns-urges-trump-send-stark-warning",
-        "publishedAt": "2026-05-14T12:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Former Pilot Lambasts Elite Celebrities Flying to Cannes Film Fest on Private Jets as ‘Obscene’",
-        "description": "Climate activists are urging movie stars to fly economy or take the train to Cannes after saying private jets burned two millions of litres of kerosene getting them to the film festival last year.\nThe post Former Pilot Lambasts Elite Celebrities Flying to Can…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/14/spoilt-film-stars-flying-to-cannes-in-private-jets-obscene-say-ex-pilots/",
-        "publishedAt": "2026-05-14T11:42:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
-        "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/india-s-second-biggest-state-bank-aims-to-double-size-in-5-years",
-        "publishedAt": "2026-05-14T10:38:57Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
-        "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
-        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
-        "publishedAt": "2026-05-14T09:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "14"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
