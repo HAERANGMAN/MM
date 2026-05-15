@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-15T05:33:06.726692+00:00",
+  "generated_at": "2026-05-15T08:23:43.630022+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
+        "description": "America's new defense strategy rewrites the transatlantic bargain, prioritizing China deterrence and allied burden-sharing over old commitments to Europe.",
+        "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
+        "publishedAt": "2026-05-13T14:45:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Tim Kaine: 'The Senate Will Vote to End this War'",
+        "description": "Wednesday on CNN's \"The Source,\" Sen. Tim Kaine (D-VA) predicted the Senate would vote to end the war against Iran.\nThe post Tim Kaine: ‘The Senate Will Vote to End this War’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/clips/2026/05/13/tim-kaine-the-senate-will-vote-to-end-this-war/",
+        "publishedAt": "2026-05-14T05:33:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Graham: We Should Tariff China if They Keep Buying Iranian Oil",
+        "description": "On Wednesday’s broadcast of the Fox News Channel’s “Hannity,” Sen. Lindsey Graham (R-SC) said that “I’ve got legislation that will allow President Trump to put tariffs on China for buying Russian oil and gas, and I’ll do the same thing\nThe post Graham: We Sho…",
+        "url": "https://www.breitbart.com/clips/2026/05/13/graham-we-should-tariff-china-if-they-keep-buying-iranian-oil/",
+        "publishedAt": "2026-05-14T04:38:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US lifts costly visa bond requirement for some World Cup travelers, Trump administration says",
+        "description": "The State Department says it is waiving visa bonds for qualified World Cup fans from five countries that had faced fees up to $15,000 to enter the U.S.",
+        "url": "https://www.foxnews.com/sports/us-lifts-costly-visa-bond-requirement-world-cup-travelers-trump-administration-says",
+        "publishedAt": "2026-05-14T02:16:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Tech entrepreneur flees Washington due to companies being 'villainized'",
+        "description": "Washington tech mogul Jesse Proudman joined the exodus to Austin, blasting the state's new \"millionaire tax\" as an unconstitutional job-killer.",
+        "url": "https://www.foxnews.com/media/tech-entrepreneur-flees-washington-due-companies-being-villainized",
+        "publishedAt": "2026-05-14T01:00:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "First clade I mpox case confirmed in Connecticut after patient traveled to Western Europe",
+        "description": "A clade I mpox case is confirmed in Connecticut as global health officials also monitor newly reported hantavirus cases in Spain and France.",
+        "url": "https://www.foxnews.com/health/first-clade-mpox-case-confirmed-connecticut-patient-traveled-western-europe",
+        "publishedAt": "2026-05-14T00:23:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
+        "description": "America's new defense strategy rewrites the transatlantic bargain, prioritizing China deterrence and allied burden-sharing over old commitments to Europe.",
+        "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
+        "publishedAt": "2026-05-13T14:45:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Shakira, Madonna and BTS co-headline first-ever World Cup Final halftime show",
+        "description": "BTS, Madonna and Shakira will perform at the 2026 FIFA World Cup Final halftime show, curated by Coldplay's Chris Martin, the first ever for the tournament.",
+        "url": "https://www.foxnews.com/outkick-sports/fifa-announces-first-ever-world-cup-final-halftime-show-featuring-madonna-bts-shakira",
+        "publishedAt": "2026-05-14T04:34:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Trump’s upbeat China message collides with deepening Beijing rivalry",
+        "description": "President Trump and Chinese President Xi Jinping strike a warm tone in Beijing, emphasizing cooperation as trade and investment talks get underway.",
+        "url": "https://www.foxnews.com/politics/trumps-upbeat-china-message-collides-deepening-beijing-rivalry",
+        "publishedAt": "2026-05-14T03:39:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US lifts costly visa bond requirement for some World Cup travelers, Trump administration says",
+        "description": "The State Department says it is waiving visa bonds for qualified World Cup fans from five countries that had faced fees up to $15,000 to enter the U.S.",
+        "url": "https://www.foxnews.com/sports/us-lifts-costly-visa-bond-requirement-world-cup-travelers-trump-administration-says",
+        "publishedAt": "2026-05-14T02:16:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Iran says its small subs deployed to Strait of Hormuz as expert explains threat: ‘Vulnerable to detection’",
+        "description": "Iran claims it has deployed small submarines as an \"invisible guardian\" of the Strait of Hormuz, but analyst says the vessels pose limited strategic threat.",
+        "url": "https://www.foxnews.com/world/iran-says-small-subs-deployed-strait-hormuz-expert-explains-threat-vulnerable-detection",
+        "publishedAt": "2026-05-14T01:58:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "First clade I mpox case confirmed in Connecticut after patient traveled to Western Europe",
+        "description": "A clade I mpox case is confirmed in Connecticut as global health officials also monitor newly reported hantavirus cases in Spain and France.",
+        "url": "https://www.foxnews.com/health/first-clade-mpox-case-confirmed-connecticut-patient-traveled-western-europe",
+        "publishedAt": "2026-05-14T00:23:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
