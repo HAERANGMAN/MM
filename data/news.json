@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T08:23:43.630022+00:00",
+  "generated_at": "2026-05-15T10:43:29.652714+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,50 +16,50 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Tim Kaine: 'The Senate Will Vote to End this War'",
-        "description": "Wednesday on CNN's \"The Source,\" Sen. Tim Kaine (D-VA) predicted the Senate would vote to end the war against Iran.\nThe post Tim Kaine: ‘The Senate Will Vote to End this War’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/clips/2026/05/13/tim-kaine-the-senate-will-vote-to-end-this-war/",
-        "publishedAt": "2026-05-14T05:33:33Z",
+        "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
+        "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/india-s-second-biggest-state-bank-aims-to-double-size-in-5-years",
+        "publishedAt": "2026-05-14T10:38:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Honda's Costly EV Fiasco Drives First-Ever Annual Loss",
+        "description": "Honda announced a 423.9 billion yen ($2.7 billion) loss Thursday in a first-ever negative result for the fabled Japanese automaker, reportedly driven by heavy costs for its electric-vehicle plans underscored by President Donald Trump’s pro-U.S. manufacturing …",
+        "url": "https://www.breitbart.com/tech/2026/05/14/hondas-costly-ev-fiasco-drives-first-ever-annual-loss/",
+        "publishedAt": "2026-05-14T09:48:30Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "423.9"
       },
       {
-        "title": "Graham: We Should Tariff China if They Keep Buying Iranian Oil",
-        "description": "On Wednesday’s broadcast of the Fox News Channel’s “Hannity,” Sen. Lindsey Graham (R-SC) said that “I’ve got legislation that will allow President Trump to put tariffs on China for buying Russian oil and gas, and I’ll do the same thing\nThe post Graham: We Sho…",
-        "url": "https://www.breitbart.com/clips/2026/05/13/graham-we-should-tariff-china-if-they-keep-buying-iranian-oil/",
-        "publishedAt": "2026-05-14T04:38:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US lifts costly visa bond requirement for some World Cup travelers, Trump administration says",
-        "description": "The State Department says it is waiving visa bonds for qualified World Cup fans from five countries that had faced fees up to $15,000 to enter the U.S.",
-        "url": "https://www.foxnews.com/sports/us-lifts-costly-visa-bond-requirement-world-cup-travelers-trump-administration-says",
-        "publishedAt": "2026-05-14T02:16:28Z",
+        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
+        "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
+        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
+        "publishedAt": "2026-05-14T09:00:58Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "$"
+        "numericHint": "14"
       },
       {
-        "title": "Tech entrepreneur flees Washington due to companies being 'villainized'",
-        "description": "Washington tech mogul Jesse Proudman joined the exodus to Austin, blasting the state's new \"millionaire tax\" as an unconstitutional job-killer.",
-        "url": "https://www.foxnews.com/media/tech-entrepreneur-flees-washington-due-companies-being-villainized",
-        "publishedAt": "2026-05-14T01:00:31Z",
+        "title": "MORNING GLORY: President Trump needs to finish the war against Iran once and for all",
+        "description": "Iran has reportedly regained operational access to most of its missile sites and launchers, according to leaked U.S. intelligence assessments.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-president-trump-needs-finish-war-iran",
+        "publishedAt": "2026-05-14T09:00:30Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "First clade I mpox case confirmed in Connecticut after patient traveled to Western Europe",
-        "description": "A clade I mpox case is confirmed in Connecticut as global health officials also monitor newly reported hantavirus cases in Spain and France.",
-        "url": "https://www.foxnews.com/health/first-clade-mpox-case-confirmed-connecticut-patient-traveled-western-europe",
-        "publishedAt": "2026-05-14T00:23:38Z",
+        "title": "JONATHAN TURLEY: AOC's war on billionaires twists America's birth into a socialist myth",
+        "description": "Alexandria Ocasio-Cortez claims the American Revolution was against billionaires, but the Founders believed in capitalism and free markets, Turley says.",
+        "url": "https://www.foxnews.com/opinion/jonathan-turley-aocs-war-billionaires-twists-americas-birth-socialist-myth",
+        "publishedAt": "2026-05-14T09:00:19Z",
         "source": {
           "name": "Fox News"
         },
@@ -81,6 +81,36 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
+        "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/india-s-second-biggest-state-bank-aims-to-double-size-in-5-years",
+        "publishedAt": "2026-05-14T10:38:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
+        "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
+        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
+        "publishedAt": "2026-05-14T09:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "14"
+      },
+      {
+        "title": "What Xi wants from Trump as Beijing seeks leverage in high-stakes summit",
+        "description": "President Donald Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping at a moment when both Washington and Beijing are trying to stabilize one of the world’s most consequential rivalries.",
+        "url": "https://www.foxnews.com/world/what-xi-wants-from-trump-beijing-seeks-leverage-high-stakes-summit",
+        "publishedAt": "2026-05-14T09:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Shakira, Madonna and BTS co-headline first-ever World Cup Final halftime show",
         "description": "BTS, Madonna and Shakira will perform at the 2026 FIFA World Cup Final halftime show, curated by Coldplay's Chris Martin, the first ever for the tournament.",
         "url": "https://www.foxnews.com/outkick-sports/fifa-announces-first-ever-world-cup-final-halftime-show-featuring-madonna-bts-shakira",
@@ -95,36 +125,6 @@
         "description": "President Trump and Chinese President Xi Jinping strike a warm tone in Beijing, emphasizing cooperation as trade and investment talks get underway.",
         "url": "https://www.foxnews.com/politics/trumps-upbeat-china-message-collides-deepening-beijing-rivalry",
         "publishedAt": "2026-05-14T03:39:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US lifts costly visa bond requirement for some World Cup travelers, Trump administration says",
-        "description": "The State Department says it is waiving visa bonds for qualified World Cup fans from five countries that had faced fees up to $15,000 to enter the U.S.",
-        "url": "https://www.foxnews.com/sports/us-lifts-costly-visa-bond-requirement-world-cup-travelers-trump-administration-says",
-        "publishedAt": "2026-05-14T02:16:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Iran says its small subs deployed to Strait of Hormuz as expert explains threat: ‘Vulnerable to detection’",
-        "description": "Iran claims it has deployed small submarines as an \"invisible guardian\" of the Strait of Hormuz, but analyst says the vessels pose limited strategic threat.",
-        "url": "https://www.foxnews.com/world/iran-says-small-subs-deployed-strait-hormuz-expert-explains-threat-vulnerable-detection",
-        "publishedAt": "2026-05-14T01:58:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "First clade I mpox case confirmed in Connecticut after patient traveled to Western Europe",
-        "description": "A clade I mpox case is confirmed in Connecticut as global health officials also monitor newly reported hantavirus cases in Spain and France.",
-        "url": "https://www.foxnews.com/health/first-clade-mpox-case-confirmed-connecticut-patient-traveled-western-europe",
-        "publishedAt": "2026-05-14T00:23:38Z",
         "source": {
           "name": "Fox News"
         },
