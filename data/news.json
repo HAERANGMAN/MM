@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:43:29.652714+00:00",
+  "generated_at": "2026-05-15T12:25:30.506163+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,70 +16,45 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
-        "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/india-s-second-biggest-state-bank-aims-to-double-size-in-5-years",
-        "publishedAt": "2026-05-14T10:38:57Z",
+        "title": "Waymo vehicles 'putting American lives at risk,' source warns amid autonomous vehicle company's massive recall",
+        "description": "Waymo faces mounting scrutiny over passenger safety and espionage risks after it recalled of 3,791 autonomous vehicles for flood-related issues.",
+        "url": "https://www.foxnews.com/media/waymo-vehicles-putting-american-lives-risk-source-warns-amid-autonomous-vehicle-companys-massive-recall",
+        "publishedAt": "2026-05-14T12:00:58Z",
         "source": {
-          "name": "Bloomberg"
+          "name": "Fox News"
         },
-        "numericHint": "5"
+        "numericHint": "3"
       },
       {
-        "title": "Honda's Costly EV Fiasco Drives First-Ever Annual Loss",
-        "description": "Honda announced a 423.9 billion yen ($2.7 billion) loss Thursday in a first-ever negative result for the fabled Japanese automaker, reportedly driven by heavy costs for its electric-vehicle plans underscored by President Donald Trump’s pro-U.S. manufacturing …",
-        "url": "https://www.breitbart.com/tech/2026/05/14/hondas-costly-ev-fiasco-drives-first-ever-annual-loss/",
-        "publishedAt": "2026-05-14T09:48:30Z",
+        "title": "Exclusive--O'Donnell: The Deal Is No Deal – Strangle the IRGC, Attack the Jugular, The Revenue that Fuels the Iranian Terror State",
+        "description": "A recent leaked CIA report stated the Iranian regime can hold out against the blockade for three or four months. We cannot throw them a lifeline in the form of a deal that leaves them in power. Now is the time to crush them.\nThe post Exclusive–O’Donnell: The …",
+        "url": "https://www.breitbart.com/national-security/2026/05/14/exclusive-odonnell-the-deal-is-no-deal-strangle-the-irgc-attack-the-jugular-the-revenue-that-fuels-the-iranian-terror-state/",
+        "publishedAt": "2026-05-14T12:00:56Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "423.9"
-      },
-      {
-        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
-        "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
-        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
-        "publishedAt": "2026-05-14T09:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "14"
-      },
-      {
-        "title": "MORNING GLORY: President Trump needs to finish the war against Iran once and for all",
-        "description": "Iran has reportedly regained operational access to most of its missile sites and launchers, according to leaked U.S. intelligence assessments.",
-        "url": "https://www.foxnews.com/opinion/morning-glory-president-trump-needs-finish-war-iran",
-        "publishedAt": "2026-05-14T09:00:30Z",
-        "source": {
-          "name": "Fox News"
-        },
         "numericHint": "데이터없음"
       },
       {
-        "title": "JONATHAN TURLEY: AOC's war on billionaires twists America's birth into a socialist myth",
-        "description": "Alexandria Ocasio-Cortez claims the American Revolution was against billionaires, but the Founders believed in capitalism and free markets, Turley says.",
-        "url": "https://www.foxnews.com/opinion/jonathan-turley-aocs-war-billionaires-twists-americas-birth-socialist-myth",
-        "publishedAt": "2026-05-14T09:00:19Z",
+        "title": "Dem Rep. Schrier: Inflation's Worse in My Blue State -- Need to End War, Deal with Gouging",
+        "description": "During an interview with Seattle ABC affiliate KOMO on Wednesday, Rep. Kim Schrier (D-WA) stated that the latest inflation numbers are “Really bad” but Washington has it worse, “about 1% worse than the rest of the country,” and “the tariffs did\nThe post Dem R…",
+        "url": "https://www.breitbart.com/clips/2026/05/14/dem-rep-schrier-inflations-worse-in-my-blue-state-need-to-end-war-deal-with-gouging/",
+        "publishedAt": "2026-05-14T11:42:49Z",
         "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
+        "numericHint": "1"
+      },
       {
-        "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
-        "description": "America's new defense strategy rewrites the transatlantic bargain, prioritizing China deterrence and allied burden-sharing over old commitments to Europe.",
-        "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
-        "publishedAt": "2026-05-13T14:45:55Z",
+        "title": "Former Pilot Lambasts Elite Celebrities Flying to Cannes Film Fest on Private Jets as ‘Obscene’",
+        "description": "Climate activists are urging movie stars to fly economy or take the train to Cannes after saying private jets burned two millions of litres of kerosene getting them to the film festival last year.\nThe post Former Pilot Lambasts Elite Celebrities Flying to Can…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/14/spoilt-film-stars-flying-to-cannes-in-private-jets-obscene-say-ex-pilots/",
+        "publishedAt": "2026-05-14T11:42:41Z",
         "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [],
-    "news-global-soc": [
+      },
       {
         "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
         "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
@@ -89,46 +64,60 @@
           "name": "Bloomberg"
         },
         "numericHint": "5"
-      },
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": [
       {
-        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
-        "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
-        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
-        "publishedAt": "2026-05-14T09:00:58Z",
+        "title": "Exclusive--O'Donnell: The Deal Is No Deal – Strangle the IRGC, Attack the Jugular, The Revenue that Fuels the Iranian Terror State",
+        "description": "A recent leaked CIA report stated the Iranian regime can hold out against the blockade for three or four months. We cannot throw them a lifeline in the form of a deal that leaves them in power. Now is the time to crush them.\nThe post Exclusive–O’Donnell: The …",
+        "url": "https://www.breitbart.com/national-security/2026/05/14/exclusive-odonnell-the-deal-is-no-deal-strangle-the-irgc-attack-the-jugular-the-revenue-that-fuels-the-iranian-terror-state/",
+        "publishedAt": "2026-05-14T12:00:56Z",
         "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "14"
-      },
-      {
-        "title": "What Xi wants from Trump as Beijing seeks leverage in high-stakes summit",
-        "description": "President Donald Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping at a moment when both Washington and Beijing are trying to stabilize one of the world’s most consequential rivalries.",
-        "url": "https://www.foxnews.com/world/what-xi-wants-from-trump-beijing-seeks-leverage-high-stakes-summit",
-        "publishedAt": "2026-05-14T09:00:16Z",
-        "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Shakira, Madonna and BTS co-headline first-ever World Cup Final halftime show",
-        "description": "BTS, Madonna and Shakira will perform at the 2026 FIFA World Cup Final halftime show, curated by Coldplay's Chris Martin, the first ever for the tournament.",
-        "url": "https://www.foxnews.com/outkick-sports/fifa-announces-first-ever-world-cup-final-halftime-show-featuring-madonna-bts-shakira",
-        "publishedAt": "2026-05-14T04:34:15Z",
+        "title": "Iranian sleeper cells pose World Cup threat, former FBI agent warns, urges Trump to send stark warning",
+        "description": "A former FBI agent urges President Trump to send Iran a stark warning over potential sleeper cell threats ahead of the 2026 FIFA World Cup in June.",
+        "url": "https://www.foxnews.com/us/iranian-sleeper-cells-pose-world-cup-threat-former-fbi-agent-warns-urges-trump-send-stark-warning",
+        "publishedAt": "2026-05-14T12:00:09Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "2026"
       },
       {
-        "title": "Trump’s upbeat China message collides with deepening Beijing rivalry",
-        "description": "President Trump and Chinese President Xi Jinping strike a warm tone in Beijing, emphasizing cooperation as trade and investment talks get underway.",
-        "url": "https://www.foxnews.com/politics/trumps-upbeat-china-message-collides-deepening-beijing-rivalry",
-        "publishedAt": "2026-05-14T03:39:47Z",
+        "title": "Former Pilot Lambasts Elite Celebrities Flying to Cannes Film Fest on Private Jets as ‘Obscene’",
+        "description": "Climate activists are urging movie stars to fly economy or take the train to Cannes after saying private jets burned two millions of litres of kerosene getting them to the film festival last year.\nThe post Former Pilot Lambasts Elite Celebrities Flying to Can…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/14/spoilt-film-stars-flying-to-cannes-in-private-jets-obscene-say-ex-pilots/",
+        "publishedAt": "2026-05-14T11:42:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bank of Baroda, India’s second-biggest state bank, aims to double size in 5 years",
+        "description": "Bank of Baroda plans to double its size in five years, focusing on global competitiveness and expanding its balance sheet.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/india-s-second-biggest-state-bank-aims-to-double-size-in-5-years",
+        "publishedAt": "2026-05-14T10:38:57Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
+        "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
+        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
+        "publishedAt": "2026-05-14T09:00:58Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "14"
       }
     ]
   },
