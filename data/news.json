@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T11:01:27.704176+00:00",
+  "generated_at": "2026-05-16T12:00:26.416786+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Trump departs China after touting trade deals, agreement with Xi on Iran and more top headlines",
+        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+        "url": "https://www.foxnews.com/us/trump-departs-china-after-touting-trade-deals-agreement-xi-iran-more-top-headlines",
+        "publishedAt": "2026-05-15T11:39:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Israel, Jews targeted worldwide as well-funded leftist, Islamist groups join for ‘Nakba 78’ protests",
         "description": "About 425 anti-Israel groups are mobilizing coordinated Nakba 78 protests worldwide, with 736 events planned across 39 countries this weekend.",
         "url": "https://www.foxnews.com/politics/israel-jews-targeted-worldwide-well-funded-leftist-islamist-groups-join-nakba-78-protests",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-05-15T02:07:39Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Sens. Cotton, Boozman, Cruz Ask Department of War to Invest in Untapped Domestic Lithium Supply",
-        "description": "A letter to the Department of War in support of investment into domestic lithium supply chains, including a massive, untapped lithium deposit that stretches across the southern United States, was led by Sen. Tom Cotton (R-AR).\nThe post Exclusive: Sens. Cotton…",
-        "url": "https://www.breitbart.com/national-security/2026/05/14/exclusive-sens-cotton-boozman-cruz-ask-dow-to-invest-in-untapped-domestic-lithium-supply/",
-        "publishedAt": "2026-05-14T23:49:01Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
