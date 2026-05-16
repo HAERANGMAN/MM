@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T16:38:37.513676+00:00",
+  "generated_at": "2026-05-16T17:39:11.175661+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Bishop Barron slams 'borderline communists' Sanders, Mamdani ahead of Trump prayer event: 'Economy that kills'",
-        "description": "Bishop Robert Barron slams borderline communists in the Democratic Party, warning that the extreme leftward shift poses a danger to American society.",
-        "url": "https://www.foxnews.com/politics/bishop-barron-slams-borderline-communists-sanders-mamdani-ahead-trump-prayer-event-economy-kills",
-        "publishedAt": "2026-05-15T16:20:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nvidia's AI Chip Sales to China Remain Uncertain Following Trump-Xi Summit",
-        "description": "The future of Nvidia's AI chip sales in China remains unclear after President Trump's summit with Chinese leader Xi Jinping concluded on Friday, despite the last-minute addition of Nvidia CEO Jensen Huang to the American business delegation.\nThe post Nvidia’s…",
-        "url": "https://www.breitbart.com/tech/2026/05/15/nvidias-ai-chip-sales-to-china-remain-uncertain-following-trump-xi-summit/",
-        "publishedAt": "2026-05-15T15:49:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump: Starmer Could Survive by Cracking Down on Migration and Slashing Energy Prices",
-        "description": "It is in the power of the British government to save itself by giving its own voters what they clearly want, President Donald Trump reminded. \nThe post Trump: Starmer Could Survive by Cracking Down on Migration and Slashing Energy Prices appeared first on Bre…",
-        "url": "https://www.breitbart.com/europe/2026/05/15/trump-save-britain-by-cracking-down-on-migration-and-energy-prices/",
-        "publishedAt": "2026-05-15T14:42:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: Weak Early Reviews for ‘Mandalorian and Grogu,’ Critic Screenings Limited",
-        "description": "Fearing lousy reviews, the Disney Grooming Syndicate is reportedly limiting critic screenings for The Mandalorian & Grogu.",
-        "url": "https://www.breitbart.com/entertainment/2026/05/15/nolte-weak-early-reviews-for-mandalorian-and-grogu-critic-screenings-limited/",
-        "publishedAt": "2026-05-15T13:16:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Key China-Iran infrastructure exposes critical hole in Trump's war strategy",
-        "description": "The U.S. strategy to choke Iran's economy at sea faces a new challenge as China-linked rail traffic reportedly doubles along an overland corridor.",
-        "url": "https://www.foxnews.com/politics/key-china-iran-infrastructure-exposes-critical-hole-trumps-war-strategy",
-        "publishedAt": "2026-05-15T12:56:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump warns Taiwan not to expect blank check from US military after intense Xi summit",
-        "description": "President Trump warns Taiwan not to expect unconditional U.S. military support, saying he does not want to travel 9,500 miles to fight a war with China.",
-        "url": "https://www.foxnews.com/media/trump-warns-taiwan-expect-blank-check-us-military-intense-xi-summit",
-        "publishedAt": "2026-05-15T14:55:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Confirmed Ebola Outbreak in DR Congo Surpasses 200 Suspected Infections",
-        "description": "The Africa Centers for Disease Control and Prevention released a statement on Friday that attributed 246 suspected infections and 65 deaths to a new Ebola outbreak in the remote Ituri province of the Democratic Republic of the Congo (DRC). \nThe post Confirmed…",
-        "url": "https://www.breitbart.com/africa/2026/05/15/confirmed-ebola-outbreak-in-dr-congo-surpasses-200-suspected-infections/",
-        "publishedAt": "2026-05-15T16:04:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "200"
-      },
-      {
-        "title": "The Breitbart Guide to the Best and Worst of Eurovision 2026",
-        "description": "The glitteriest night of the year in Eurasia and Australia will soon be upon us: the Eurovision Song Contest, a now 70-year-old music extravaganza beloved around the world for its shameless embrace of feather boas, sequins, pyrotechnics, and all brands of kit…",
-        "url": "https://www.breitbart.com/europe/2026/05/15/the-breitbart-guide-to-the-best-and-worst-of-eurovision-2026/",
-        "publishedAt": "2026-05-15T15:21:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Fox News Digital trounces broadcast news brands, along with CNN, MS NOW, NY Times, in key metrics during April",
-        "description": "Fox News Digital drove 3.6 billon multiplatform minutes to thump runner-up The New York Times by over two billion minutes during the news-heavy month of April.",
-        "url": "https://www.foxnews.com/media/fox-news-digital-trounces-broadcast-news-brands-along-cnn-ms-now-ny-times-key-metrics-during-april",
-        "publishedAt": "2026-05-15T15:05:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3.6"
-      },
-      {
-        "title": "Trump warns Taiwan not to expect blank check from US military after intense Xi summit",
-        "description": "President Trump warns Taiwan not to expect unconditional U.S. military support, saying he does not want to travel 9,500 miles to fight a war with China.",
-        "url": "https://www.foxnews.com/media/trump-warns-taiwan-expect-blank-check-us-military-intense-xi-summit",
-        "publishedAt": "2026-05-15T14:55:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Hizb ut-Tahrir Praises Islamist Practices Being Enforced in Danish High Schools by Students",
-        "description": "Hizb ut-Tahrir celebrated reports of adherence to hardline Qur'anic principles being socially enforced by students in Danish high schools.\nThe post Hizb ut-Tahrir Praises Islamist Practices Being Enforced in Danish High Schools by Students appeared first on B…",
-        "url": "https://www.breitbart.com/europe/2026/05/15/hizb-ut-tahrir-praises-islamist-practices-being-enforced-in-danish-high-schools-by-students/",
-        "publishedAt": "2026-05-15T14:47:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
