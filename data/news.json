@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:43:03.330788+00:00",
+  "generated_at": "2026-05-16T16:38:37.513676+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Bishop Barron slams 'borderline communists' Sanders, Mamdani ahead of Trump prayer event: 'Economy that kills'",
+        "description": "Bishop Robert Barron slams borderline communists in the Democratic Party, warning that the extreme leftward shift poses a danger to American society.",
+        "url": "https://www.foxnews.com/politics/bishop-barron-slams-borderline-communists-sanders-mamdani-ahead-trump-prayer-event-economy-kills",
+        "publishedAt": "2026-05-15T16:20:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nvidia's AI Chip Sales to China Remain Uncertain Following Trump-Xi Summit",
+        "description": "The future of Nvidia's AI chip sales in China remains unclear after President Trump's summit with Chinese leader Xi Jinping concluded on Friday, despite the last-minute addition of Nvidia CEO Jensen Huang to the American business delegation.\nThe post Nvidia’s…",
+        "url": "https://www.breitbart.com/tech/2026/05/15/nvidias-ai-chip-sales-to-china-remain-uncertain-following-trump-xi-summit/",
+        "publishedAt": "2026-05-15T15:49:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Trump: Starmer Could Survive by Cracking Down on Migration and Slashing Energy Prices",
         "description": "It is in the power of the British government to save itself by giving its own voters what they clearly want, President Donald Trump reminded. \nThe post Trump: Starmer Could Survive by Cracking Down on Migration and Slashing Energy Prices appeared first on Bre…",
@@ -44,26 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Retired Navy admiral makes bombshell claim about UFOs and 'non-human intelligence' controlling them",
-        "description": "Are UFOs controlled by non-human entities? Retired Rear Admiral Tim Gallaudet says the UAP phenomenon might not have a human explanation at all.",
-        "url": "https://www.foxnews.com/outkick-culture/retired-navy-admiral-makes-bombshell-claim-ufos-non-human-intelligence-controlling",
-        "publishedAt": "2026-05-15T12:55:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Joe Rogan stunned at how many Americans think Trump assassination attempts were staged",
-        "description": "Joe Rogan and Brendan Schaub discuss survey showing how many Americans think assassination attempts on Trump are fake, blaming TikTok culture.",
-        "url": "https://www.foxnews.com/media/joe-rogan-stunned-how-many-americans-think-trump-assassination-attempts-were-staged",
-        "publishedAt": "2026-05-15T12:44:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Confirmed Ebola Outbreak in DR Congo Surpasses 200 Suspected Infections",
+        "description": "The Africa Centers for Disease Control and Prevention released a statement on Friday that attributed 246 suspected infections and 65 deaths to a new Ebola outbreak in the remote Ituri province of the Democratic Republic of the Congo (DRC). \nThe post Confirmed…",
+        "url": "https://www.breitbart.com/africa/2026/05/15/confirmed-ebola-outbreak-in-dr-congo-surpasses-200-suspected-infections/",
+        "publishedAt": "2026-05-15T16:04:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "200"
+      },
       {
         "title": "The Breitbart Guide to the Best and Worst of Eurovision 2026",
         "description": "The glitteriest night of the year in Eurasia and Australia will soon be upon us: the Eurovision Song Contest, a now 70-year-old music extravaganza beloved around the world for its shameless embrace of feather boas, sequins, pyrotechnics, and all brands of kit…",
@@ -115,16 +125,6 @@
         "description": "Hizb ut-Tahrir celebrated reports of adherence to hardline Qur'anic principles being socially enforced by students in Danish high schools.\nThe post Hizb ut-Tahrir Praises Islamist Practices Being Enforced in Danish High Schools by Students appeared first on B…",
         "url": "https://www.breitbart.com/europe/2026/05/15/hizb-ut-tahrir-praises-islamist-practices-being-enforced-in-danish-high-schools-by-students/",
         "publishedAt": "2026-05-15T14:47:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: Spencer Pratt Roasts Nithya Raman for Proposing Backyard BBQ Ban",
-        "description": "Republican Los Angeles mayoral candidate Spencer Pratt ridiculed Democrat Councilwoman Nithya Raman over her fascist proposal to ban backyard grilling.\nThe post Nolte: Spencer Pratt Roasts Nithya Raman for Proposing Backyard BBQ Ban appeared first on Breitbar…",
-        "url": "https://www.breitbart.com/politics/2026/05/15/nolte-spencer-pratt-roasts-nithya-raman-for-proposing-backyard-bbq-ban/",
-        "publishedAt": "2026-05-15T14:42:24Z",
         "source": {
           "name": "Breitbart News"
         },
