@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-05-16T09:55:33.057920+00:00",
+  "generated_at": "2026-05-16T11:01:27.704176+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "GOP can't agree on key part of Trump's housing affordability push as infighting continues",
+        "description": "Trump urged Congress to pass housing affordability legislation, but House Republicans balked at the Senate bill and pitched a modified rival proposal.",
+        "url": "https://www.foxnews.com/politics/gop-cant-agree-key-part-trumps-housing-affordability-push-infighting-continues",
+        "publishedAt": "2026-05-15T10:30:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "This Midwestern state leads the nation in home foreclosures as US filings jump by 26%",
+        "description": "Indiana records the highest foreclosure rate in the nation as rising costs and mortgage rates put increasing financial pressure on homeowners nationwide.",
+        "url": "https://www.foxnews.com/politics/midwestern-state-leads-nation-home-foreclosures-us-filings-jump-26",
+        "publishedAt": "2026-05-15T10:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "26"
+      },
+      {
+        "title": "The CCP controls the most intimate elements of our life. Most Americans have no idea",
+        "description": "Critical minerals power daily life and U.S. defense. The DOMINANCE Act passed committee to counter China's grip on rare earth mining and refining.",
+        "url": "https://www.foxnews.com/opinion/ccp-controls-intimate-elements-life-americans-idea",
+        "publishedAt": "2026-05-15T09:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Musk’s xAI unveils first coding agent in bid to rival Anthropic",
+        "description": "Musk and xAI are racing to catch up to other AI companies on coding, a lucrative market for AI and an area where the billionaire admits his firm has fallen behind",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic",
+        "publishedAt": "2026-05-15T03:24:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Xi’s threat to Trump cements Taiwan as top US-China risk",
+        "description": "Xi’s assertion that interfering with Taiwan could trigger a ‘highly dangerous situation’ for the world’s biggest economies marked his bluntest language yet on the topic",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/xi-s-threat-to-trump-cements-taiwan-as-top-risk-to-us-china-ties",
+        "publishedAt": "2026-05-15T03:19:24Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Israel, Jews targeted worldwide as well-funded leftist, Islamist groups join for ‘Nakba 78’ protests",
+        "description": "About 425 anti-Israel groups are mobilizing coordinated Nakba 78 protests worldwide, with 736 events planned across 39 countries this weekend.",
+        "url": "https://www.foxnews.com/politics/israel-jews-targeted-worldwide-well-funded-leftist-islamist-groups-join-nakba-78-protests",
+        "publishedAt": "2026-05-15T10:27:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "78"
+      },
+      {
+        "title": "The CCP controls the most intimate elements of our life. Most Americans have no idea",
+        "description": "Critical minerals power daily life and U.S. defense. The DOMINANCE Act passed committee to counter China's grip on rare earth mining and refining.",
+        "url": "https://www.foxnews.com/opinion/ccp-controls-intimate-elements-life-americans-idea",
+        "publishedAt": "2026-05-15T09:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump touts ‘fantastic trade deals’ in final Xi meeting amid tariff standoff",
+        "description": "President Donald Trump touts an incredible visit and fantastic trade deals with China after his final meeting with Xi, as Beijing agrees to order 200 Boeing jets.",
+        "url": "https://www.foxnews.com/politics/trump-touts-fantastic-trade-deals-final-xi-meeting-amid-tariff-standoff",
+        "publishedAt": "2026-05-15T05:02:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "200"
+      },
+      {
+        "title": "Trump says Xi agreed US became a ‘declining nation’ during Biden years",
+        "description": "President Donald Trump turns Xi Jinping's apparent swipe at Western decline into an attack on Biden, saying the U.S. \"suffered immeasurably\" under the prior administration.",
+        "url": "https://www.foxnews.com/politics/trump-says-xi-agreed-us-became-declining-nation-during-biden-years",
+        "publishedAt": "2026-05-15T02:07:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: Sens. Cotton, Boozman, Cruz Ask Department of War to Invest in Untapped Domestic Lithium Supply",
+        "description": "A letter to the Department of War in support of investment into domestic lithium supply chains, including a massive, untapped lithium deposit that stretches across the southern United States, was led by Sen. Tom Cotton (R-AR).\nThe post Exclusive: Sens. Cotton…",
+        "url": "https://www.breitbart.com/national-security/2026/05/14/exclusive-sens-cotton-boozman-cruz-ask-dow-to-invest-in-untapped-domestic-lithium-supply/",
+        "publishedAt": "2026-05-14T23:49:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
