@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-16T17:39:11.175661+00:00",
+  "generated_at": "2026-05-16T18:39:22.198832+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump warns Taiwan not to expect blank check from US military after intense Xi summit",
-        "description": "President Trump warns Taiwan not to expect unconditional U.S. military support, saying he does not want to travel 9,500 miles to fight a war with China.",
-        "url": "https://www.foxnews.com/media/trump-warns-taiwan-expect-blank-check-us-military-intense-xi-summit",
-        "publishedAt": "2026-05-15T14:55:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
