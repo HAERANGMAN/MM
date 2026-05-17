@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T17:18:24.703484+00:00",
+  "generated_at": "2026-05-17T18:14:32.432921+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump holds 'all the cards' after high-stakes summit with China, says Victor Davis Hanson",
-        "description": "Victor Davis Hanson says Trump holds all the cards in China negotiations, citing U.S. energy dominance, AI growth and China's declining birth rate.",
-        "url": "https://www.foxnews.com/media/trump-holds-cards-high-stakes-summit-china-says-victor-davis-hanson",
-        "publishedAt": "2026-05-16T16:03:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "State championship high school baseball game ends in chaos as player does something rare, but beautiful",
-        "description": "South Walton High School executed a suicide squeeze with the bases loaded in a tie game to win the Florida state baseball championship in Fort Myers.",
-        "url": "https://www.foxnews.com/outkick-sports/state-championship-high-school-baseball-game-ends-chaos-player-something-rare-beautiful",
-        "publishedAt": "2026-05-16T13:38:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Inside the teen takeovers threatening to explode this summer as cities remain on edge: 'Very worried'",
-        "description": "Cities nationwide brace for a summer surge in teen takeovers as experts warn social media is fueling violence, prompting curfews and mass arrests.",
-        "url": "https://www.foxnews.com/politics/inside-teen-takeovers-threatening-explode-summer-cities-remain-edge-very-worried",
-        "publishedAt": "2026-05-16T13:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Diners ditching bottles of wine for the table as healthy living and rising costs reshape restaurant habits",
-        "description": "A new report says fewer diners are ordering bottles of wine for the table, prompting restaurants to boost revenue through premium mocktails and pricing.",
-        "url": "https://www.foxnews.com/food-drink/diners-ditching-bottles-wine-table-healthy-living-rising-costs-reshape-restaurant-habits",
-        "publishedAt": "2026-05-16T12:00:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese espionage steals $600 billion from US firms yearly. It’s time for government to act",
-        "description": "I spoke with former CIA colleague Tom Lyons about how China's systematic espionage threatens U.S. companies and what reforms could harden defenses.",
-        "url": "https://www.foxnews.com/opinion/chinese-espionage-steals-600-billion-us-firms-yearly-time-government-act",
-        "publishedAt": "2026-05-16T12:00:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Pope Creates Artificial Intelligence Study Group in Preparation For First Encyclical",
-        "description": "Pope Leo XIV has created a study group on artificial intelligence, the Vatican said Saturday, as he gears up to release his first encyclical that is expected to emphasize the need for an ethics-based approach to the technology that prioritizes human dignity a…",
-        "url": "https://www.breitbart.com/europe/2026/05/16/pope-creates-artificial-intelligence-study-group-in-preparation-for-first-encyclical/",
-        "publishedAt": "2026-05-16T12:57:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump holds 'all the cards' after high-stakes summit with China, says Victor Davis Hanson",
-        "description": "Victor Davis Hanson says Trump holds all the cards in China negotiations, citing U.S. energy dominance, AI growth and China's declining birth rate.",
-        "url": "https://www.foxnews.com/media/trump-holds-cards-high-stakes-summit-china-says-victor-davis-hanson",
-        "publishedAt": "2026-05-16T16:03:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump: U.S. and Nigerian Forces Take Out Top ISIS Terrorist in Africa",
-        "description": "The second in command of ISIS globally, Abu-Bilal al-Minuki, was killed by U.S. and Nigerian forces targeting the top terrorist in the northeast region of the African country, President Donald Trump announced.\nThe post Trump: U.S. and Nigerian Forces Take Out…",
-        "url": "https://www.breitbart.com/national-security/2026/05/16/trump-u-s-and-nigerian-forces-take-out-top-isis-terrorist-in-africa/",
-        "publishedAt": "2026-05-16T14:54:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Think Tank: Warner-Paramount Merger Could Add 40,000 Jobs and Boost Struggling Movie Theaters",
-        "description": "A proposed $110 billion merger of Paramount Global and Warner Bros. Discovery could result in 40,000 jobs and provide a massive \"boost to the industry.\"\nThe post Think Tank: Warner-Paramount Merger Could Add 40,000 Jobs and Boost Struggling Movie Theaters app…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/16/think-tank-warner-paramount-merger-could-add-40000-jobs-and-boost-struggling-movie-theaters/",
-        "publishedAt": "2026-05-16T14:50:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "40"
-      },
-      {
-        "title": "Exiled Muslim scholar warns far-left–Islamist alliance behind anti-Israel protests echoes Iran’s rise",
-        "description": "Muslim scholar who fled Egypt warns America's far-left alliance with Islamist extremism could repeat Iran's 1979 revolution pattern in the U.S. today.",
-        "url": "https://www.foxnews.com/politics/exiled-muslim-scholar-warns-far-leftislamist-alliance-behind-anti-israel-protests-echoes-irans-rise",
-        "publishedAt": "2026-05-16T13:02:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1979"
-      },
-      {
-        "title": "Putin to Visit Chinese Leader Xi Jinping Days After Trump's Trip to Beijing",
-        "description": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping on a two-day trip to Beijing next week, the Kremlin said Saturday.\nThe post Putin to Visit Chinese Leader Xi Jinping Days After Trump’s Trip to Beijing appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/05/16/putin-to-visit-chinese-leader-xi-jinping-days-after-trumps-trip-to-beijing/",
-        "publishedAt": "2026-05-16T12:42:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
