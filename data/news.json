@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T21:29:27.606887+00:00",
+  "generated_at": "2026-05-17T22:28:12.994663+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -81,6 +81,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Masked suspect charged with using fuel, fireworks in Walmart kids section as cover for massive jewelry heist",
+        "description": "A NJ man allegedly sparked a massive fire inside a Maryland Walmart with camping fuel and fireworks to pull off a $10,000 jewelry heist, police said.",
+        "url": "https://www.foxnews.com/us/masked-suspect-charged-using-fuel-fireworks-walmart-kids-section-cover-massive-jewelry-heist",
+        "publishedAt": "2026-05-16T21:36:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
         "title": "UK defense shortfalls highlighted as Britain avoids Iran offensive role amid Trump criticism",
         "description": "While Starmer opposed joining offensive action against Iran, reports suggest politics aside, Britain’s military may lack the capacity for a major combat role.",
         "url": "https://www.foxnews.com/world/uk-defense-shortfalls-highlighted-britain-avoids-iran-offensive-role-amid-trump-criticism",
@@ -119,16 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "40"
-      },
-      {
-        "title": "Exiled Muslim scholar warns far-left–Islamist alliance behind anti-Israel protests echoes Iran’s rise",
-        "description": "Muslim scholar who fled Egypt warns America's far-left alliance with Islamist extremism could repeat Iran's 1979 revolution pattern in the U.S. today.",
-        "url": "https://www.foxnews.com/politics/exiled-muslim-scholar-warns-far-leftislamist-alliance-behind-anti-israel-protests-echoes-irans-rise",
-        "publishedAt": "2026-05-16T13:02:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1979"
       }
     ]
   },
