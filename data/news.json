@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-05-17T22:28:12.994663+00:00",
+  "generated_at": "2026-05-17T23:31:47.927386+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Navy veteran Rocky Rochford seeks to turn Tampa Bay red, unseat 20-year House incumbent",
-        "description": "Retired Commodore Rocky Rochford pledges to be ready to lead on day one, with legislation ready to introduce into Congress.",
-        "url": "https://www.foxnews.com/politics/navy-veteran-rocky-rochford-seeks-turn-tampa-bay-red-unseat-20-year-house-incumbent",
-        "publishedAt": "2026-05-15T22:42:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Wash Post editorial board accuses Maine progressive Graham Platner of offering voters 'fantastical solutions'",
-        "description": "The Washington Post editorial board takes aim at progressive Maine Senate candidate Graham Platner's energy plan, calling it a recipe for shortages.",
-        "url": "https://www.foxnews.com/media/wash-post-editorial-board-accuses-maine-progressive-graham-platner-offering-voters-fantastical-solutions",
-        "publishedAt": "2026-05-16T21:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Pawn Stars' icon Rick Harrison says Trump tax policies change everything for small businesses",
-        "description": "Rick Harrison of \"Pawn Stars\" told Fox News that workers at his Las Vegas businesses are seeing astronomical tax returns thanks to Trump's small business tax policies.",
-        "url": "https://www.foxnews.com/media/pawn-stars-icon-rick-harrison-says-trump-tax-policies-change-everything-small-businesses",
-        "publishedAt": "2026-05-16T20:25:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Five-star Texas A&M offensive line commit gets torched on social media for awkward hat ritual",
-        "description": "Five-star offensive tackle Mark Matthews committed to Texas A&M, and his hat ceremony has drawn the ire of fans across college football.",
-        "url": "https://www.foxnews.com/outkick-sports/five-star-texas-offensive-line-commit-gets-torched-social-media-awkward-hat-ritual",
-        "publishedAt": "2026-05-16T18:01:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump holds 'all the cards' after high-stakes summit with China, says Victor Davis Hanson",
-        "description": "Victor Davis Hanson says Trump holds all the cards in China negotiations, citing U.S. energy dominance, AI growth and China's declining birth rate.",
-        "url": "https://www.foxnews.com/media/trump-holds-cards-high-stakes-summit-china-says-victor-davis-hanson",
-        "publishedAt": "2026-05-16T16:03:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "State championship high school baseball game ends in chaos as player does something rare, but beautiful",
-        "description": "South Walton High School executed a suicide squeeze with the bases loaded in a tie game to win the Florida state baseball championship in Fort Myers.",
-        "url": "https://www.foxnews.com/outkick-sports/state-championship-high-school-baseball-game-ends-chaos-player-something-rare-beautiful",
-        "publishedAt": "2026-05-16T13:38:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Pope Creates Artificial Intelligence Study Group in Preparation For First Encyclical",
-        "description": "Pope Leo XIV has created a study group on artificial intelligence, the Vatican said Saturday, as he gears up to release his first encyclical that is expected to emphasize the need for an ethics-based approach to the technology that prioritizes human dignity a…",
-        "url": "https://www.breitbart.com/europe/2026/05/16/pope-creates-artificial-intelligence-study-group-in-preparation-for-first-encyclical/",
-        "publishedAt": "2026-05-16T12:57:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Masked suspect charged with using fuel, fireworks in Walmart kids section as cover for massive jewelry heist",
-        "description": "A NJ man allegedly sparked a massive fire inside a Maryland Walmart with camping fuel and fireworks to pull off a $10,000 jewelry heist, police said.",
-        "url": "https://www.foxnews.com/us/masked-suspect-charged-using-fuel-fireworks-walmart-kids-section-cover-massive-jewelry-heist",
-        "publishedAt": "2026-05-16T21:36:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "UK defense shortfalls highlighted as Britain avoids Iran offensive role amid Trump criticism",
-        "description": "While Starmer opposed joining offensive action against Iran, reports suggest politics aside, Britain’s military may lack the capacity for a major combat role.",
-        "url": "https://www.foxnews.com/world/uk-defense-shortfalls-highlighted-britain-avoids-iran-offensive-role-amid-trump-criticism",
-        "publishedAt": "2026-05-16T20:17:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump holds 'all the cards' after high-stakes summit with China, says Victor Davis Hanson",
-        "description": "Victor Davis Hanson says Trump holds all the cards in China negotiations, citing U.S. energy dominance, AI growth and China's declining birth rate.",
-        "url": "https://www.foxnews.com/media/trump-holds-cards-high-stakes-summit-china-says-victor-davis-hanson",
-        "publishedAt": "2026-05-16T16:03:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump: U.S. and Nigerian Forces Take Out Top ISIS Terrorist in Africa",
-        "description": "The second in command of ISIS globally, Abu-Bilal al-Minuki, was killed by U.S. and Nigerian forces targeting the top terrorist in the northeast region of the African country, President Donald Trump announced.\nThe post Trump: U.S. and Nigerian Forces Take Out…",
-        "url": "https://www.breitbart.com/national-security/2026/05/16/trump-u-s-and-nigerian-forces-take-out-top-isis-terrorist-in-africa/",
-        "publishedAt": "2026-05-16T14:54:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Think Tank: Warner-Paramount Merger Could Add 40,000 Jobs and Boost Struggling Movie Theaters",
-        "description": "A proposed $110 billion merger of Paramount Global and Warner Bros. Discovery could result in 40,000 jobs and provide a massive \"boost to the industry.\"\nThe post Think Tank: Warner-Paramount Merger Could Add 40,000 Jobs and Boost Struggling Movie Theaters app…",
-        "url": "https://www.breitbart.com/entertainment/2026/05/16/think-tank-warner-paramount-merger-could-add-40000-jobs-and-boost-struggling-movie-theaters/",
-        "publishedAt": "2026-05-16T14:50:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "40"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
