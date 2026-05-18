@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-18T22:31:05.601192+00:00",
+  "generated_at": "2026-05-18T23:40:03.247057+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
+        "description": "U.S.-brokered Israel-UAE alliance shows signs of strain after Netanyahu's claimed secret UAE visit drew a swift denial amid rising Iran tensions.",
+        "url": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
+        "publishedAt": "2026-05-17T22:34:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Exclusive -- Greek Energy Minister: Trump’s ‘Trademark Move’ with Allies and Adversaries Alike Is Energy Diplomacy",
         "description": "DELPHI, Greece — Greek Minister of Environment and Energy Stavros Papastavrou told Breitbart News exclusively here in April that President Donald Trump’s “trademark move” as the leader of the West is to use energy deals to advance American interests with both…",
@@ -43,21 +53,31 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brexit Betrayal: Top Labour Leadership Challengers Would See Britain Rejoin the EU",
-        "description": "The leading contenders seeking to topple Prime Minister Sir Keir Starmer have both said that they would overturn the Brexit referendum and rejoin the European Union.\nThe post Brexit Betrayal: Top Labour Leadership Challengers Would See Britain Rejoin the EU a…",
-        "url": "https://www.breitbart.com/europe/2026/05/17/top-labour-leadership-challengers-would-see-britain-rejoin-the-eu/",
-        "publishedAt": "2026-05-17T12:05:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Four Injured After Suspects Open Fire on Numerous Locations in Austin, Texas",
+        "description": "Four people were injured when multiple suspects opened fire on numerous locations in Austin, Texas, on Saturday and Sunday.\nThe post Four Injured After Suspects Open Fire on Numerous Locations in Austin, Texas appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/17/four-injured-after-suspects-open-fire-on-numerous-locations-in-austin-texas/",
+        "publishedAt": "2026-05-17T23:21:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
+        "description": "U.S.-brokered Israel-UAE alliance shows signs of strain after Netanyahu's claimed secret UAE visit drew a swift denial amid rising Iran tensions.",
+        "url": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
+        "publishedAt": "2026-05-17T22:34:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "ISIS terror leader at large after US strike kills top commander amid rising Africa threat: analyst",
         "description": "Human intelligence penetrated deep local networks to kill ISIS West Africa commander al-Minuki, described as the group's biggest loss in years.",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Homeowner Fires Through Door, Kills Alleged Would-Be Intruder",
-        "description": "A Hopkins County, Texas, homeowner spotted a would-be intruder via a Ring camera Tuesday and shot him as the suspect was allegedly reaching into the house via a broken window in the door.\nThe post Homeowner Fires Through Door, Kills Alleged Would-Be Intruder …",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/17/homeowner-fires-through-door-kills-alleged-would-be-intruder/",
-        "publishedAt": "2026-05-17T15:04:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brexit Betrayal: Top Labour Leadership Challengers Would See Britain Rejoin the EU",
-        "description": "The leading contenders seeking to topple Prime Minister Sir Keir Starmer have both said that they would overturn the Brexit referendum and rejoin the European Union.\nThe post Brexit Betrayal: Top Labour Leadership Challengers Would See Britain Rejoin the EU a…",
-        "url": "https://www.breitbart.com/europe/2026/05/17/top-labour-leadership-challengers-would-see-britain-rejoin-the-eu/",
-        "publishedAt": "2026-05-17T12:05:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
