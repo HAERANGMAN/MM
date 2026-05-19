@@ -1,19 +1,115 @@
 {
-  "generated_at": "2026-05-19T01:34:34.974765+00:00",
+  "generated_at": "2026-05-19T05:47:47.456692+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Victor Davis Hanson: China Is The Latest Phase That ‘We’re All Supposed To Be Upset About’",
+        "description": "Hoover Institution senior fellow Victor Davis Hanson says there are ‘fundamental, existential problems’ plaguing China on ‘The Ingraham Angle.’",
+        "url": "https://www.foxnews.com/video/6395746142112",
+        "publishedAt": "2026-05-18T00:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Elizabeth Economy: China's Energy Boom Could Give It The AI Edge",
+        "description": "As the United States and China compete for dominance in artificial intelligence, energy is emerging as a critical battleground. Former Treasury Secretary Hank Paulson warns that while the US still leads in AI technology, electricity shortages could become a m…",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video",
+        "publishedAt": "2026-05-18T00:00:00Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
+        "description": "U.S.-brokered Israel-UAE alliance shows signs of strain after Netanyahu's claimed secret UAE visit drew a swift denial amid rising Iran tensions.",
+        "url": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
+        "publishedAt": "2026-05-17T22:34:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive -- Greek Energy Minister: Trump’s ‘Trademark Move’ with Allies and Adversaries Alike Is Energy Diplomacy",
+        "description": "DELPHI, Greece — Greek Minister of Environment and Energy Stavros Papastavrou told Breitbart News exclusively here in April that President Donald Trump’s “trademark move” as the leader of the West is to use energy deals to advance American interests with both…",
+        "url": "https://www.breitbart.com/politics/2026/05/17/exclusive-greek-energy-minister-trumps-trademark-move-with-allies-and-adversaries-alike-is-energy-diplomacy/",
+        "publishedAt": "2026-05-17T20:05:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Van Hollen: Dems Have Midterm 'Momentum' to Beat Trump's 'Personality Cult'",
+        "description": "Sunday on NBC's \"Meet the Press,\" Sen. Chris Van Hollen (D-MD) claimed Democrats had \"momentum” in the upcoming midterm election to beat President Donald Trump's \"personality cult.\"\nThe post Van Hollen: Dems Have Midterm ‘Momentum’ to Beat Trump’s ‘Personalit…",
+        "url": "https://www.breitbart.com/clips/2026/05/17/van-hollen-dems-have-midterm-momentum-to-beat-trumps-personality-cult/",
+        "publishedAt": "2026-05-17T15:28:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Arkansas man allegedly threatened Walmart mass shooting over hantavirus lockdown fears, authorities say",
+        "description": "Arkansas man arrested for allegedly threatening a Walmart mass shooting over a potential hantavirus lockdown, according to the Marion County Sheriff.",
+        "url": "https://www.foxnews.com/us/arkansas-man-allegedly-threatened-walmart-mass-shooting-hantavirus-lockdown-fears-authorities-say",
+        "publishedAt": "2026-05-18T05:11:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Alleged Austin Gunmen, Ages 15 and 17, Used Stolen Guns",
+        "description": "The two alleged gunmen who carried out at least ten shootings in Austin, Texas, from Saturday into Sunday are identified as 15- and 17-year-olds who used stolen guns.\nThe post Report: Alleged Austin Gunmen, Ages 15 and 17, Used Stolen Guns appeared first on B…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/17/report-alleged-austin-gunmen-ages-15-and-17-used-stolen-guns/",
+        "publishedAt": "2026-05-18T02:22:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
+        "description": "Canada confirms a hantavirus case linked to the MV Hondius cruise ship outbreak that has killed three people and sickened multiple passengers.",
+        "url": "https://www.foxnews.com/world/canada-confirms-hantavirus-case-linked-cruise-ship-outbreak-killed-three-passengers",
+        "publishedAt": "2026-05-18T02:17:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Elizabeth Economy: China's Energy Boom Could Give It The AI Edge",
+        "description": "As the United States and China compete for dominance in artificial intelligence, energy is emerging as a critical battleground. Former Treasury Secretary Hank Paulson warns that while the US still leads in AI technology, electricity shortages could become a m…",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video",
+        "publishedAt": "2026-05-18T00:00:00Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Four Injured After Suspects Open Fire on Numerous Locations in Austin, Texas",
+        "description": "Four people were injured when multiple suspects opened fire on numerous locations in Austin, Texas, on Saturday and Sunday.\nThe post Four Injured After Suspects Open Fire on Numerous Locations in Austin, Texas appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/17/four-injured-after-suspects-open-fire-on-numerous-locations-in-austin-texas/",
+        "publishedAt": "2026-05-17T23:21:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
