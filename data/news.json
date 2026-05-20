@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T05:48:51.220895+00:00",
+  "generated_at": "2026-05-20T08:46:41.659613+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,6 +16,36 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
+        "title": "Reliance in talks with CATL, others for big battery system parts",
+        "description": "Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/reliance-in-talks-with-catl-others-for-big-battery-system-parts",
+        "publishedAt": "2026-05-19T07:54:03Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "AOC, Ro Khanna and the media’s rush to flog a contest that is 18 months away",
+        "description": "President Trump's approval hits a second-term low of 37% amid Iran war disapproval, as a progressive rift between Reps. Alexandria Ocasio-Cortez and Ro Khanna reportedly opens.",
+        "url": "https://www.foxnews.com/media/aoc-ro-khanna-medias-rush-flog-contest-18-months-away",
+        "publishedAt": "2026-05-19T07:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "Airlines plead with oil majors to postpone jet fuel hikes",
+        "description": "India’s airlines have asked state-run oil refiners to hold off on hiking jet fuel prices for domestic flights until the conflict in the Middle East ends, people familiar with the matter said, in a bid to alleviate their rising cost pressures and mounting loss…",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/indian-airlines-plead-with-oil-majors-to-postpone-jet-fuel-hikes",
+        "publishedAt": "2026-05-19T06:49:16Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "WATCH: Mamdani bashed for going 'full deranged marxist' with rip on famous Ronald Reagan line",
         "description": "New York City socialist Mayor Zohran Mamdani faces scorn from conservatives after countering Reagan's famous quote at a government-run grocery store announcement.",
         "url": "https://www.foxnews.com/politics/watch-mamdani-bashed-going-full-deranged-marxist-rip-famous-ronald-reagan-line",
@@ -30,36 +60,6 @@
         "description": "Rate cuts are usually defended as insurance against recession. The incoming Fed Chair Kevin Warsh can defend them as insurance for productivity.\nThe post Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates appeared first on Breitbart.",
         "url": "https://www.breitbart.com/economy/2026/05/18/breitbart-business-digest-warshs-supply-side-case-for-cutting-rates/",
         "publishedAt": "2026-05-18T21:41:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Billionaire Eric Schmidt Wants More AI Tech AND More Immigration",
-        "description": "Tech Billionaire Eric Schmidt is rejecting any immigration compromise that would help Americans cope with the mass layoffs being caused by Artificial Intelligence technology. \nThe post Billionaire Eric Schmidt Wants More AI Tech AND More Immigration appeared …",
-        "url": "https://www.breitbart.com/economy/2026/05/18/eric-schmidt-wants-more-ai-and-more-immigration/",
-        "publishedAt": "2026-05-18T20:45:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEC, Big Ten are dominating college football thanks to massive advantages over other conferences",
-        "description": "New data reveals massive revenue gaps between college football conferences, showing why realignment happened and why programs may still jump ship.",
-        "url": "https://www.foxnews.com/outkick-sports/sec-big-ten-dominating-college-football-thanks-massive-advantages-conferences",
-        "publishedAt": "2026-05-18T19:48:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rick Scott: 'Trump Is Going to Have to Go in and Bomb the Daylights Out of Iran'",
-        "description": "Monday on FBN's \"Mornings with Maria,\" Sen. Rick Scott (R-FL) expressed his skepticism that Chinese President Xi Jinping would be helpful in resolving the Iran conflict, especially regarding the Strait of Hormuz.\nThe post Rick Scott: ‘Trump Is Going to Have t…",
-        "url": "https://www.breitbart.com/clips/2026/05/18/rick-scott-trump-is-going-to-have-to-go-in-and-bomb-the-daylights-out-of-iran/",
-        "publishedAt": "2026-05-18T18:45:21Z",
         "source": {
           "name": "Breitbart News"
         },
@@ -80,6 +80,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Reliance in talks with CATL, others for big battery system parts",
+        "description": "Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/reliance-in-talks-with-catl-others-for-big-battery-system-parts",
+        "publishedAt": "2026-05-19T07:54:03Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Airlines plead with oil majors to postpone jet fuel hikes",
+        "description": "India’s airlines have asked state-run oil refiners to hold off on hiking jet fuel prices for domestic flights until the conflict in the Middle East ends, people familiar with the matter said, in a bid to alleviate their rising cost pressures and mounting loss…",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/indian-airlines-plead-with-oil-majors-to-postpone-jet-fuel-hikes",
+        "publishedAt": "2026-05-19T06:49:16Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Putin to Visit China a Week After Trump’s Trip to Beijing",
         "description": "The Kremlin announced on Saturday that Russian President Vladimir Putin will travel to Beijing on Tuesday and Wednesday to meet with Chinese dictator Xi Jinping, less than a week after President Donald Trump’s high-profile meeting with Xi.\nThe post Putin to V…",
@@ -107,26 +127,6 @@
         "publishedAt": "2026-05-18T20:45:01Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Murdoch Children’s Research Institute secures $5M grant to prevent childhood disease",
-        "description": "Prime Minister Albanese announces a $5 million grant for MCRI to launch a pioneering research team focused on preventing childhood health conditions.",
-        "url": "https://www.foxnews.com/health/murdoch-childrens-research-institute-secures-5m-grant-prevent-childhood-disease",
-        "publishedAt": "2026-05-18T20:32:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Report: Chinese propaganda, Singham network, foreign dark money linked to campaigns against data centers",
-        "description": "A report alleges foreign influence from China, dark money billionaires and activist networks is fueling opposition to American AI data center projects.",
-        "url": "https://www.foxnews.com/us/report-chinese-propaganda-singham-network-foreign-dark-money-linked-campaigns-data-centers",
-        "publishedAt": "2026-05-18T19:56:02Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
