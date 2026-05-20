@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T08:46:41.659613+00:00",
+  "generated_at": "2026-05-20T11:37:36.012717+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,119 +16,108 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Reliance in talks with CATL, others for big battery system parts",
-        "description": "Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/reliance-in-talks-with-catl-others-for-big-battery-system-parts",
-        "publishedAt": "2026-05-19T07:54:03Z",
+        "title": "RBI set to pay government record dividend to cushion war shock",
+        "description": "India's central bank plans to transfer nearly 3 trillion rupees to the government, bolstering finances amid rising energy prices.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/india-set-for-record-central-bank-dividend-to-cushion-war-shock",
+        "publishedAt": "2026-05-19T10:29:22Z",
         "source": {
           "name": "Bloomberg"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "3"
       },
       {
-        "title": "AOC, Ro Khanna and the media’s rush to flog a contest that is 18 months away",
-        "description": "President Trump's approval hits a second-term low of 37% amid Iran war disapproval, as a progressive rift between Reps. Alexandria Ocasio-Cortez and Ro Khanna reportedly opens.",
-        "url": "https://www.foxnews.com/media/aoc-ro-khanna-medias-rush-flog-contest-18-months-away",
-        "publishedAt": "2026-05-19T07:00:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "Airlines plead with oil majors to postpone jet fuel hikes",
-        "description": "India’s airlines have asked state-run oil refiners to hold off on hiking jet fuel prices for domestic flights until the conflict in the Middle East ends, people familiar with the matter said, in a bid to alleviate their rising cost pressures and mounting loss…",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/indian-airlines-plead-with-oil-majors-to-postpone-jet-fuel-hikes",
-        "publishedAt": "2026-05-19T06:49:16Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "WATCH: Mamdani bashed for going 'full deranged marxist' with rip on famous Ronald Reagan line",
-        "description": "New York City socialist Mayor Zohran Mamdani faces scorn from conservatives after countering Reagan's famous quote at a government-run grocery store announcement.",
-        "url": "https://www.foxnews.com/politics/watch-mamdani-bashed-going-full-deranged-marxist-rip-famous-ronald-reagan-line",
-        "publishedAt": "2026-05-18T22:00:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates",
-        "description": "Rate cuts are usually defended as insurance against recession. The incoming Fed Chair Kevin Warsh can defend them as insurance for productivity.\nThe post Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/18/breitbart-business-digest-warshs-supply-side-case-for-cutting-rates/",
-        "publishedAt": "2026-05-18T21:41:43Z",
+        "title": "Fmr. Trump Counterterror Official: We Need More Pressure on Iran, Can Move to Reopen Strait",
+        "description": "On Monday’s broadcast of NewsNation’s “Elizabeth Vargas Reports,” Amb. Nathan Sales, who served as Coordinator for Counterterrorism during the first Trump administration, argued that there needs to be more pressure on Iran and, “We can reopen the strait, or a…",
+        "url": "https://www.breitbart.com/clips/2026/05/19/fmr-trump-counterterror-official-we-need-more-pressure-on-iran-can-move-to-reopen-strait/",
+        "publishedAt": "2026-05-19T10:24:35Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
+      },
       {
-        "title": "Trump’s China thaw leaves Taiwan decision looming as ex-NBA star warns island holds key to US AI race",
-        "description": "Trump-Xi summit produced no progress on Taiwan or semiconductors, says Enes Kanter Freedom, calling it America's biggest geopolitical challenge.",
-        "url": "https://www.foxnews.com/politics/trumps-china-thaw-leaves-taiwan-decision-looming-ex-nba-star-warns-island-holds-key-us-ai-race",
-        "publishedAt": "2026-05-18T13:54:50Z",
+        "title": "Exclusive Poll: Supermajority of Voters Favor Candidates Who Make Fighting Alzheimer's a Priority",
+        "description": "A supermajority of voters, including those in key swing states, said that they prefer candidates who fight for early diagnosis of Alzheimer's disease by scrapping coverage barriers that limit access to diagnostic tools and treatments.\nThe post Exclusive Poll:…",
+        "url": "https://www.breitbart.com/health/2026/05/19/exclusive-poll-supermajority-voters-favor-candidates-fight-alzheimers/",
+        "publishedAt": "2026-05-19T10:00:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Blue-state tax burden fuels Americans fleeing to Republican-led southern states",
+        "description": "The widening fiscal gap between red and blue America is driving migration patterns as states compete for residents with vastly different tax models.",
+        "url": "https://www.foxnews.com/politics/blue-state-tax-burden-fuels-americans-fleeing-republican-led-southern-states",
+        "publishedAt": "2026-05-19T10:00:21Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dems demand release of hidden DNC autopsy after 2024 collapse: ‘We got our butts kicked’",
+        "description": "House Democrats publicly question why the DNC has not released its 2024 election autopsy, with some calling the delay embarrassing for party leaders.",
+        "url": "https://www.foxnews.com/politics/dems-demand-release-hidden-dnc-autopsy-2024-collapse-got-butts-kicked",
+        "publishedAt": "2026-05-19T10:00:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2024"
       }
     ],
+    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "Reliance in talks with CATL, others for big battery system parts",
-        "description": "Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/reliance-in-talks-with-catl-others-for-big-battery-system-parts",
-        "publishedAt": "2026-05-19T07:54:03Z",
+        "title": "'Longevity gene' may protect the brain from Alzheimer's by boosting DNA repair, study finds",
+        "description": "A new study suggests the APOE2 longevity gene may protect the brain from Alzheimer's by helping neurons repair DNA damage and resist cell aging.",
+        "url": "https://www.foxnews.com/health/longevity-gene-may-protect-brain-alzheimers-boosting-dna-repair-study-finds",
+        "publishedAt": "2026-05-19T11:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "RBI set to pay government record dividend to cushion war shock",
+        "description": "India's central bank plans to transfer nearly 3 trillion rupees to the government, bolstering finances amid rising energy prices.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/india-set-for-record-central-bank-dividend-to-cushion-war-shock",
+        "publishedAt": "2026-05-19T10:29:22Z",
         "source": {
           "name": "Bloomberg"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "3"
       },
       {
-        "title": "Airlines plead with oil majors to postpone jet fuel hikes",
-        "description": "India’s airlines have asked state-run oil refiners to hold off on hiking jet fuel prices for domestic flights until the conflict in the Middle East ends, people familiar with the matter said, in a bid to alleviate their rising cost pressures and mounting loss…",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/indian-airlines-plead-with-oil-majors-to-postpone-jet-fuel-hikes",
-        "publishedAt": "2026-05-19T06:49:16Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Putin to Visit China a Week After Trump’s Trip to Beijing",
-        "description": "The Kremlin announced on Saturday that Russian President Vladimir Putin will travel to Beijing on Tuesday and Wednesday to meet with Chinese dictator Xi Jinping, less than a week after President Donald Trump’s high-profile meeting with Xi.\nThe post Putin to V…",
-        "url": "https://www.breitbart.com/national-security/2026/05/18/putin-to-visit-china-a-week-after-trumps-trip-to-beijing/",
-        "publishedAt": "2026-05-18T21:17:18Z",
+        "title": "Nobody Panic (Yet) -- W.H.O Fears Ebola May Be Spreading Faster and Further Than First Thought",
+        "description": "As the world watches an Ebola outbreak which has claimed 131 lives in the Democratic Republic of Congo, a World Health Organization (W.H.O). representative warned Tuesday the deadly malady may be disseminating faster than first thought.\nThe post Nobody Panic …",
+        "url": "https://www.breitbart.com/europe/2026/05/19/nobody-panic-yet-w-h-o-fears-ebola-may-be-spreading-faster-and-further-than-first-thought/",
+        "publishedAt": "2026-05-19T10:26:06Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "131"
       },
       {
-        "title": "Report: At Least One Suspect Down in San Diego Mosque Shooting",
-        "description": "At least one gunman is dead after a shooting Monday at the Islamic Center of San Diego, a report from NBC News indicated.\nThe post Report: At Least One Suspect Down in San Diego Mosque Shooting appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/05/18/report-at-least-one-suspect-down-san-diego-mosque-shooting/",
-        "publishedAt": "2026-05-18T21:03:39Z",
+        "title": "Prince Harry and Meghan Markle face renewed criticism over ‘half-in, half-out’ royal role: experts",
+        "description": "Prince Harry and Meghan Markle, the Duke and Duchess of Sussex, continue leveraging royal connections after their exit, with experts divided on whether it helps or hurts.",
+        "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-face-renewed-criticism-half-half-royal-role-experts",
+        "publishedAt": "2026-05-19T10:00:40Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Billionaire Eric Schmidt Wants More AI Tech AND More Immigration",
-        "description": "Tech Billionaire Eric Schmidt is rejecting any immigration compromise that would help Americans cope with the mass layoffs being caused by Artificial Intelligence technology. \nThe post Billionaire Eric Schmidt Wants More AI Tech AND More Immigration appeared …",
-        "url": "https://www.breitbart.com/economy/2026/05/18/eric-schmidt-wants-more-ai-and-more-immigration/",
-        "publishedAt": "2026-05-18T20:45:01Z",
+        "title": "Ireland’s President Connolly ‘Very Proud’ of Sister Detained by Israel en-Route to Gaza",
+        "description": "Socialist President of Ireland Catherine Connolly said she is \"very proud\" of her sister, Dr. Margaret Connolly, one of the individuals detained by Israeli forces after they intercepted a 60-vessel Gaza-bound flotilla.\nThe post Ireland’s President Connolly ‘V…",
+        "url": "https://www.breitbart.com/europe/2026/05/19/irelands-connolly-very-proud-of-sister-detained-by-israel-en-route-to-gaza/",
+        "publishedAt": "2026-05-19T09:04:16Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "60"
       }
     ]
   },
