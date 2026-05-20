@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-20T11:37:36.012717+00:00",
+  "generated_at": "2026-05-20T14:15:56.480374+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump’s China thaw leaves Taiwan decision looming as ex-NBA star warns island holds key to US AI race",
-        "description": "Trump-Xi summit produced no progress on Taiwan or semiconductors, says Enes Kanter Freedom, calling it America's biggest geopolitical challenge.",
-        "url": "https://www.foxnews.com/politics/trumps-china-thaw-leaves-taiwan-decision-looming-ex-nba-star-warns-island-holds-key-us-ai-race",
-        "publishedAt": "2026-05-18T13:54:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "RBI set to pay government record dividend to cushion war shock",
-        "description": "India's central bank plans to transfer nearly 3 trillion rupees to the government, bolstering finances amid rising energy prices.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/india-set-for-record-central-bank-dividend-to-cushion-war-shock",
-        "publishedAt": "2026-05-19T10:29:22Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Fmr. Trump Counterterror Official: We Need More Pressure on Iran, Can Move to Reopen Strait",
-        "description": "On Monday’s broadcast of NewsNation’s “Elizabeth Vargas Reports,” Amb. Nathan Sales, who served as Coordinator for Counterterrorism during the first Trump administration, argued that there needs to be more pressure on Iran and, “We can reopen the strait, or a…",
-        "url": "https://www.breitbart.com/clips/2026/05/19/fmr-trump-counterterror-official-we-need-more-pressure-on-iran-can-move-to-reopen-strait/",
-        "publishedAt": "2026-05-19T10:24:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive Poll: Supermajority of Voters Favor Candidates Who Make Fighting Alzheimer's a Priority",
-        "description": "A supermajority of voters, including those in key swing states, said that they prefer candidates who fight for early diagnosis of Alzheimer's disease by scrapping coverage barriers that limit access to diagnostic tools and treatments.\nThe post Exclusive Poll:…",
-        "url": "https://www.breitbart.com/health/2026/05/19/exclusive-poll-supermajority-voters-favor-candidates-fight-alzheimers/",
-        "publishedAt": "2026-05-19T10:00:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Blue-state tax burden fuels Americans fleeing to Republican-led southern states",
-        "description": "The widening fiscal gap between red and blue America is driving migration patterns as states compete for residents with vastly different tax models.",
-        "url": "https://www.foxnews.com/politics/blue-state-tax-burden-fuels-americans-fleeing-republican-led-southern-states",
-        "publishedAt": "2026-05-19T10:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dems demand release of hidden DNC autopsy after 2024 collapse: ‘We got our butts kicked’",
-        "description": "House Democrats publicly question why the DNC has not released its 2024 election autopsy, with some calling the delay embarrassing for party leaders.",
-        "url": "https://www.foxnews.com/politics/dems-demand-release-hidden-dnc-autopsy-2024-collapse-got-butts-kicked",
-        "publishedAt": "2026-05-19T10:00:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2024"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "'Longevity gene' may protect the brain from Alzheimer's by boosting DNA repair, study finds",
-        "description": "A new study suggests the APOE2 longevity gene may protect the brain from Alzheimer's by helping neurons repair DNA damage and resist cell aging.",
-        "url": "https://www.foxnews.com/health/longevity-gene-may-protect-brain-alzheimers-boosting-dna-repair-study-finds",
-        "publishedAt": "2026-05-19T11:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "RBI set to pay government record dividend to cushion war shock",
-        "description": "India's central bank plans to transfer nearly 3 trillion rupees to the government, bolstering finances amid rising energy prices.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/india-set-for-record-central-bank-dividend-to-cushion-war-shock",
-        "publishedAt": "2026-05-19T10:29:22Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Nobody Panic (Yet) -- W.H.O Fears Ebola May Be Spreading Faster and Further Than First Thought",
-        "description": "As the world watches an Ebola outbreak which has claimed 131 lives in the Democratic Republic of Congo, a World Health Organization (W.H.O). representative warned Tuesday the deadly malady may be disseminating faster than first thought.\nThe post Nobody Panic …",
-        "url": "https://www.breitbart.com/europe/2026/05/19/nobody-panic-yet-w-h-o-fears-ebola-may-be-spreading-faster-and-further-than-first-thought/",
-        "publishedAt": "2026-05-19T10:26:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "131"
-      },
-      {
-        "title": "Prince Harry and Meghan Markle face renewed criticism over ‘half-in, half-out’ royal role: experts",
-        "description": "Prince Harry and Meghan Markle, the Duke and Duchess of Sussex, continue leveraging royal connections after their exit, with experts divided on whether it helps or hurts.",
-        "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-face-renewed-criticism-half-half-royal-role-experts",
-        "publishedAt": "2026-05-19T10:00:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ireland’s President Connolly ‘Very Proud’ of Sister Detained by Israel en-Route to Gaza",
-        "description": "Socialist President of Ireland Catherine Connolly said she is \"very proud\" of her sister, Dr. Margaret Connolly, one of the individuals detained by Israeli forces after they intercepted a 60-vessel Gaza-bound flotilla.\nThe post Ireland’s President Connolly ‘V…",
-        "url": "https://www.breitbart.com/europe/2026/05/19/irelands-connolly-very-proud-of-sister-detained-by-israel-en-route-to-gaza/",
-        "publishedAt": "2026-05-19T09:04:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
