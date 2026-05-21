@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T19:17:04.330804+00:00",
+  "generated_at": "2026-05-21T21:00:20.036930+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,134 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Exclusive: Rick Scott's Bill Targets China’s ‘Six Little Dragons’ Tech Firms over Spy-Tech Risks",
-        "description": "Sen. Rick Scott (R-FL) is introducing legislation Wednesday that would require an appropriate national security agency to determine whether communications equipment or services tied to several fast-rising Chinese technology companies pose an unacceptable risk…",
-        "url": "https://www.breitbart.com/national-security/2026/05/20/exclusive-rick-scotts-bill-targets-chinas-six-little-dragons-tech-firms-over-spy-tech-risks/",
-        "publishedAt": "2026-05-20T18:49:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump jolts immigration hawks with surprising defense of Chinese students in USA",
-        "description": "Trump defends Chinese students at U.S. colleges and remarks on farmland ownership, sparking backlash from Marjorie Taylor Greene and immigration hawks.",
-        "url": "https://www.foxnews.com/politics/trump-jolts-immigration-hawks-surprising-defense-chinese-students-usa",
-        "publishedAt": "2026-05-20T18:41:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ortagus warns Iran trying to ‘buy time’ as Hezbollah blocks peace in Lebanon | Fox News Video",
-        "description": "Former Trump administration official Morgan Ortagus tells Fox News Digital that Iran has historically used negotiations to stall while arguing Hezbollah — not Lebanon itself — remains the biggest obstacle to peace between Israel and its neighbors.",
-        "url": "https://www.foxnews.com/video/6396146888112",
-        "publishedAt": "2026-05-20T17:16:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Senate plots permanent end to government shutdowns with bipartisan push",
-        "description": "The Senate moves to prevent government shutdowns permanently with bipartisan legislation that would strip lawmakers of recess and travel privileges.",
-        "url": "https://www.foxnews.com/politics/senate-plots-permanent-end-government-shutdowns-bipartisan-push",
-        "publishedAt": "2026-05-20T17:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rep. Wesley Hunt Endorses Ken Paxton in Texas Senate Race: 'NOW Is the Time to Come Together'",
-        "description": "Rep. Wesley Hunt (R-TX) formally threw his support behind Texas Attorney General Ken Paxton in the Senate race in Texas, urging Republican voters to rally together.\nThe post Rep. Wesley Hunt Endorses Ken Paxton in Texas Senate Race: ‘NOW Is the Time to Come T…",
-        "url": "https://www.breitbart.com/politics/2026/05/20/rep-wesley-hunt-endorses-ken-paxton-in-texas-senate-race-now-is-the-time-to-come-together/",
-        "publishedAt": "2026-05-20T16:29:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Mace targets Squad Dem with proposed constitutional ban on foreign-born lawmakers",
-        "description": "Rep. Nancy Mace proposes expanding the natural-born citizen requirement beyond the presidency to Congress, federal judges and cabinet appointees.",
-        "url": "https://www.foxnews.com/politics/mace-targets-squad-dem-proposed-constitutional-ban-foreign-born-lawmakers",
-        "publishedAt": "2026-05-20T14:00:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran is gambling that Trump will cave. It hasn’t gone well for them so far",
-        "description": "Tehran's ruling system still does not believe President Donald Trump is prepared to go beyond pressure and dismantle the Islamic Republic of Iran.",
-        "url": "https://www.foxnews.com/opinion/iran-gambling-trump-cave-hasnt-gone-well-far",
-        "publishedAt": "2026-05-20T09:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Biden Deputy AG Lisa Monaco Referred to DOJ over Alleged Microsoft Cover-Up",
-        "description": "The Biden Justice Department’s former second-in-command, Lisa Monaco, is facing a referral to the Department of Justice over allegations that she buried investigations into Microsoft’s cybersecurity failures before landing a top job at the tech giant, accordi…",
-        "url": "https://www.breitbart.com/tech/2026/05/20/biden-deputy-ag-lisa-monaco-referred-to-doj-over-alleged-microsoft-cover-up/",
-        "publishedAt": "2026-05-20T18:53:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Rick Scott's Bill Targets China’s ‘Six Little Dragons’ Tech Firms over Spy-Tech Risks",
-        "description": "Sen. Rick Scott (R-FL) is introducing legislation Wednesday that would require an appropriate national security agency to determine whether communications equipment or services tied to several fast-rising Chinese technology companies pose an unacceptable risk…",
-        "url": "https://www.breitbart.com/national-security/2026/05/20/exclusive-rick-scotts-bill-targets-chinas-six-little-dragons-tech-firms-over-spy-tech-risks/",
-        "publishedAt": "2026-05-20T18:49:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Baywatch' star Brooks Nader's conservative parents banned bikinis growing up as she slips into red swimsuit",
-        "description": "Brooks Nader says her conservative parents approve of her \"Baywatch\" reboot role because the iconic red swimsuit is a one-piece, following family rules.",
-        "url": "https://www.foxnews.com/entertainment/baywatch-star-brooks-naders-conservative-parents-banned-bikinis-growing-up-she-slips-red-swimsuit",
-        "publishedAt": "2026-05-20T14:00:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New drug approach offers hope for patients with recurrent aggressive cancers",
-        "description": "Merck announces that sac-TMT, a new cancer drug, demonstrated strong results in phase 3 trials for advanced or recurrent endometrial cancer patients.",
-        "url": "https://www.foxnews.com/health/new-drug-approach-offers-hope-patients-recurrent-aggressive-cancers",
-        "publishedAt": "2026-05-20T11:00:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Three Toronto Police Officers Arrested in Spain over Alleged Sexual Assault",
-        "description": "Three Canadian police officers were arrested in Spain over an alleged sexual assault of a sex worker in Barcelona, Toronto’s police force confirmed. The three officers — identified by Canadian outlets  as Evan Glennie, Rich Rand and Caglar Yigit —\nThe post Th…",
-        "url": "https://www.breitbart.com/europe/2026/05/20/three-toronto-police-officers-arrested-in-spain-over-alleged-sexual-assault/",
-        "publishedAt": "2026-05-20T10:19:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
