@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T11:41:18.171397+00:00",
+  "generated_at": "2026-05-21T14:24:19.468626+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,57 +16,67 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Extremist fanboys are glamorizing antisemitism — and some politicians keep playing along",
-        "description": "StopAntisemitism founder says extremist influencers across the political spectrum are normalizing antisemitism and violence, reshaping American politics and eroding moral boundaries.",
-        "url": "https://www.foxnews.com/opinion/extremist-fanboys-glamorizing-antisemitism-some-politicians-keep-playing-along",
-        "publishedAt": "2026-05-20T11:00:39Z",
+        "title": "Unions that paralyzed New York commute over pay spent millions on luxury travel, filings show",
+        "description": "LIRR strike union leaders spent over $3 million on luxury lodging and dining in 2025 while arguing workers couldn't make ends meet, records show.",
+        "url": "https://www.foxnews.com/politics/unions-paralyzed-new-york-commute-over-pay-spent-millions-luxury-travel-filings-show",
+        "publishedAt": "2026-05-20T14:12:05Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "$"
       },
       {
-        "title": "Congress must not derail the freight rail lifeline for America’s farmers",
-        "description": "Railroad and agricultural industry leaders share concerns about Congressional proposals they say could harm freight rail and the U.S. farm economy.",
-        "url": "https://www.foxnews.com/opinion/congress-must-derail-freight-rail-lifeline-americas-farmers",
-        "publishedAt": "2026-05-20T11:00:33Z",
+        "title": "Fmr Dem Rep Barney Frank, sharp-tongued liberal trailblazer, Dodd-Frank co-author dies",
+        "description": "Barney Frank, the liberal Massachusetts congressman behind the Dodd-Frank financial reform law and a gay rights pioneer, has died at age 86.",
+        "url": "https://www.foxnews.com/politics/fmr-dem-rep-barney-frank-sharp-tongued-liberal-trailblazer-dodd-frank-co-author-dies",
+        "publishedAt": "2026-05-20T14:06:33Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "86"
       },
       {
-        "title": "New drug approach offers hope for patients with recurrent aggressive cancers",
-        "description": "Merck announces that sac-TMT, a new cancer drug, demonstrated strong results in phase 3 trials for advanced or recurrent endometrial cancer patients.",
-        "url": "https://www.foxnews.com/health/new-drug-approach-offers-hope-patients-recurrent-aggressive-cancers",
-        "publishedAt": "2026-05-20T11:00:20Z",
+        "title": "India’s treasury-bill yields surge on rate-hike expectation",
+        "description": "Yield on the 364-day treasury bill rose 21 basis points to 5.9750% Wednesday, the most in nearly four years, according to data compiled by Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-s-treasury-bill-yields-surge-on-rate-hike-expectation",
+        "publishedAt": "2026-05-20T13:05:50Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "364"
+      },
+      {
+        "title": "Cargo theft hits everything from LEGO to tequila. We need the Senate to help stop it",
+        "description": "A $1 million LEGO heist in the Mojave Desert illustrates why Congress must pass CORCA to combat organized cargo theft costing Americans billions.",
+        "url": "https://www.foxnews.com/opinion/cargo-theft-hits-everything-lego-tequila-need-senate-help-stop",
+        "publishedAt": "2026-05-20T13:00:55Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "3"
+        "numericHint": "$"
       },
       {
-        "title": "Vice President JD Vance Tells Britons Protesting Against Mass Migration 'It's OK to Want to Defend' Your Country",
-        "description": "VP encouraged public protesting govt policy of flooding jobs market with migrants to remember \"it’s OK\" to want to live in a safe country.\nThe post Vice President JD Vance Tells Britons Protesting Against Mass Migration ‘It’s OK to Want to Defend’ Your Countr…",
-        "url": "https://www.breitbart.com/europe/2026/05/20/jd-vance-tells-britons-protesting-against-mass-migration-keep-going/",
-        "publishedAt": "2026-05-20T10:37:59Z",
+        "title": "Exclusive—Sen. Rick Scott & Rep. Andy Ogles: America’s Cybersecurity Cannot Be an Easy Target for Communist China",
+        "description": "We cannot allow Americans to be at the mercy of Chinese hackers. That’s why Congress must pass the Strengthening Cyber Resilience Against State-Sponsored Threats Act.\nThe post Exclusive—Sen. Rick Scott & Rep. Andy Ogles: America’s Cybersecurity Cannot Be an E…",
+        "url": "https://www.breitbart.com/politics/2026/05/20/exclusive-sen-rick-scott-rep-andy-ogles-americas-cybersecurity-cannot-be-an-easy-target-for-communist-china/",
+        "publishedAt": "2026-05-20T13:00:34Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tehran declares readiness for ‘every scenario,’ tightens grip as Trump delays military action",
-        "description": "Iran’s parliamentary National Security and Foreign Policy Committee chief said Tehran is prepared for “every scenario” as President Donald Trump pauses new military strikes to “save people from being killed.”",
-        "url": "https://www.foxnews.com/live-news/iran-war-trump-news-strait-hormuz-blockade-ceasefire-tensions-may-20",
-        "publishedAt": "2026-05-20T10:32:03Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
+      {
+        "title": "Mace targets Squad Dem with proposed constitutional ban on foreign-born lawmakers",
+        "description": "Rep. Nancy Mace proposes expanding the natural-born citizen requirement beyond the presidency to Congress, federal judges and cabinet appointees.",
+        "url": "https://www.foxnews.com/politics/mace-targets-squad-dem-proposed-constitutional-ban-foreign-born-lawmakers",
+        "publishedAt": "2026-05-20T14:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Iran is gambling that Trump will cave. It hasn’t gone well for them so far",
         "description": "Tehran's ruling system still does not believe President Donald Trump is prepared to go beyond pressure and dismantle the Islamic Republic of Iran.",
@@ -80,6 +90,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "'Baywatch' star Brooks Nader's conservative parents banned bikinis growing up as she slips into red swimsuit",
+        "description": "Brooks Nader says her conservative parents approve of her \"Baywatch\" reboot role because the iconic red swimsuit is a one-piece, following family rules.",
+        "url": "https://www.foxnews.com/entertainment/baywatch-star-brooks-naders-conservative-parents-banned-bikinis-growing-up-she-slips-red-swimsuit",
+        "publishedAt": "2026-05-20T14:00:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "New drug approach offers hope for patients with recurrent aggressive cancers",
         "description": "Merck announces that sac-TMT, a new cancer drug, demonstrated strong results in phase 3 trials for advanced or recurrent endometrial cancer patients.",
@@ -117,16 +137,6 @@
         "publishedAt": "2026-05-20T09:00:59Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "RBI intervenes as Rupee drops to record low",
-        "description": "RBI intervenes as the rupee hits a record low, pressured by high oil prices and significant foreign investor withdrawals.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-20/inr-usd-indian-central-bank-intervenes-as-rupee-drops-to-record-low",
-        "publishedAt": "2026-05-20T05:42:50Z",
-        "source": {
-          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       }
