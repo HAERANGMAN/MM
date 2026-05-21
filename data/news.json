@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T17:11:00.565921+00:00",
+  "generated_at": "2026-05-21T19:17:04.330804+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,36 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Exclusive: Rick Scott's Bill Targets China’s ‘Six Little Dragons’ Tech Firms over Spy-Tech Risks",
+        "description": "Sen. Rick Scott (R-FL) is introducing legislation Wednesday that would require an appropriate national security agency to determine whether communications equipment or services tied to several fast-rising Chinese technology companies pose an unacceptable risk…",
+        "url": "https://www.breitbart.com/national-security/2026/05/20/exclusive-rick-scotts-bill-targets-chinas-six-little-dragons-tech-firms-over-spy-tech-risks/",
+        "publishedAt": "2026-05-20T18:49:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump jolts immigration hawks with surprising defense of Chinese students in USA",
+        "description": "Trump defends Chinese students at U.S. colleges and remarks on farmland ownership, sparking backlash from Marjorie Taylor Greene and immigration hawks.",
+        "url": "https://www.foxnews.com/politics/trump-jolts-immigration-hawks-surprising-defense-chinese-students-usa",
+        "publishedAt": "2026-05-20T18:41:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ortagus warns Iran trying to ‘buy time’ as Hezbollah blocks peace in Lebanon | Fox News Video",
+        "description": "Former Trump administration official Morgan Ortagus tells Fox News Digital that Iran has historically used negotiations to stall while arguing Hezbollah — not Lebanon itself — remains the biggest obstacle to peace between Israel and its neighbors.",
+        "url": "https://www.foxnews.com/video/6396146888112",
+        "publishedAt": "2026-05-20T17:16:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Senate plots permanent end to government shutdowns with bipartisan push",
         "description": "The Senate moves to prevent government shutdowns permanently with bipartisan legislation that would strip lawmakers of recess and travel privileges.",
@@ -34,36 +64,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Business Inflation Expectations Climb For Third Straight Month",
-        "description": "Rising expectations of inflation give the Fed another reason to stay on hold.\nThe post Business Inflation Expectations Climb For Third Straight Month appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/20/biz-inflation-expectations-may-2026/",
-        "publishedAt": "2026-05-20T15:41:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Expert urges US to ‘flip the script’ and 'empower' Iranian people against regime | Fox News Video",
-        "description": "FDD senior director of the Iran Program Behnam Ben Taleblu discusses potential U.S. strikes on Iran, the fragile ceasefire between the two countries, and efforts to pressure the regime on ‘Fox & Friends.’",
-        "url": "https://www.foxnews.com/video/6396144979112",
-        "publishedAt": "2026-05-20T15:15:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Unions that paralyzed New York commute over pay spent millions on luxury travel, filings show",
-        "description": "LIRR strike union leaders spent over $3 million on luxury lodging and dining in 2025 while arguing workers couldn't make ends meet, records show.",
-        "url": "https://www.foxnews.com/politics/unions-paralyzed-new-york-commute-over-pay-spent-millions-luxury-travel-filings-show",
-        "publishedAt": "2026-05-20T14:12:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
@@ -91,6 +91,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Biden Deputy AG Lisa Monaco Referred to DOJ over Alleged Microsoft Cover-Up",
+        "description": "The Biden Justice Department’s former second-in-command, Lisa Monaco, is facing a referral to the Department of Justice over allegations that she buried investigations into Microsoft’s cybersecurity failures before landing a top job at the tech giant, accordi…",
+        "url": "https://www.breitbart.com/tech/2026/05/20/biden-deputy-ag-lisa-monaco-referred-to-doj-over-alleged-microsoft-cover-up/",
+        "publishedAt": "2026-05-20T18:53:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: Rick Scott's Bill Targets China’s ‘Six Little Dragons’ Tech Firms over Spy-Tech Risks",
+        "description": "Sen. Rick Scott (R-FL) is introducing legislation Wednesday that would require an appropriate national security agency to determine whether communications equipment or services tied to several fast-rising Chinese technology companies pose an unacceptable risk…",
+        "url": "https://www.breitbart.com/national-security/2026/05/20/exclusive-rick-scotts-bill-targets-chinas-six-little-dragons-tech-firms-over-spy-tech-risks/",
+        "publishedAt": "2026-05-20T18:49:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "'Baywatch' star Brooks Nader's conservative parents banned bikinis growing up as she slips into red swimsuit",
         "description": "Brooks Nader says her conservative parents approve of her \"Baywatch\" reboot role because the iconic red swimsuit is a one-piece, following family rules.",
         "url": "https://www.foxnews.com/entertainment/baywatch-star-brooks-naders-conservative-parents-banned-bikinis-growing-up-she-slips-red-swimsuit",
@@ -117,26 +137,6 @@
         "publishedAt": "2026-05-20T10:19:42Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump admin accuses Hamas of backing Gaza flotilla, sanctions activist and Muslim Brotherhood networks",
-        "description": "The Trump administration accuses Hamas of backing a Gaza flotilla and sanctions several organizers tied to the effort and related activist networks.",
-        "url": "https://www.foxnews.com/politics/trump-admin-accuses-hamas-backing-gaza-flotilla-sanctions-activist-muslim-brotherhood-networks",
-        "publishedAt": "2026-05-20T10:00:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Platner doesn’t want to wave the green flag with China, he prefers the white flag",
-        "description": "Progressive Maine Senate candidate Graham Platner advocates cooperating with China on clean energy, but that's naive about national security risks.",
-        "url": "https://www.foxnews.com/opinion/platner-doesnt-want-wave-green-flag-china-prefers-white-flag",
-        "publishedAt": "2026-05-20T09:00:59Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
