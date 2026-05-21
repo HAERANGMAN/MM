@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-21T08:20:43.249899+00:00",
+  "generated_at": "2026-05-21T11:41:18.171397+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Iran is gambling that Trump will cave. It hasn’t gone well for them so far",
+        "description": "Tehran's ruling system still does not believe President Donald Trump is prepared to go beyond pressure and dismantle the Islamic Republic of Iran.",
+        "url": "https://www.foxnews.com/opinion/iran-gambling-trump-cave-hasnt-gone-well-far",
+        "publishedAt": "2026-05-20T09:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Extremist fanboys are glamorizing antisemitism — and some politicians keep playing along",
+        "description": "StopAntisemitism founder says extremist influencers across the political spectrum are normalizing antisemitism and violence, reshaping American politics and eroding moral boundaries.",
+        "url": "https://www.foxnews.com/opinion/extremist-fanboys-glamorizing-antisemitism-some-politicians-keep-playing-along",
+        "publishedAt": "2026-05-20T11:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Congress must not derail the freight rail lifeline for America’s farmers",
+        "description": "Railroad and agricultural industry leaders share concerns about Congressional proposals they say could harm freight rail and the U.S. farm economy.",
+        "url": "https://www.foxnews.com/opinion/congress-must-derail-freight-rail-lifeline-americas-farmers",
+        "publishedAt": "2026-05-20T11:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New drug approach offers hope for patients with recurrent aggressive cancers",
+        "description": "Merck announces that sac-TMT, a new cancer drug, demonstrated strong results in phase 3 trials for advanced or recurrent endometrial cancer patients.",
+        "url": "https://www.foxnews.com/health/new-drug-approach-offers-hope-patients-recurrent-aggressive-cancers",
+        "publishedAt": "2026-05-20T11:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Vice President JD Vance Tells Britons Protesting Against Mass Migration 'It's OK to Want to Defend' Your Country",
+        "description": "VP encouraged public protesting govt policy of flooding jobs market with migrants to remember \"it’s OK\" to want to live in a safe country.\nThe post Vice President JD Vance Tells Britons Protesting Against Mass Migration ‘It’s OK to Want to Defend’ Your Countr…",
+        "url": "https://www.breitbart.com/europe/2026/05/20/jd-vance-tells-britons-protesting-against-mass-migration-keep-going/",
+        "publishedAt": "2026-05-20T10:37:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Tehran declares readiness for ‘every scenario,’ tightens grip as Trump delays military action",
+        "description": "Iran’s parliamentary National Security and Foreign Policy Committee chief said Tehran is prepared for “every scenario” as President Donald Trump pauses new military strikes to “save people from being killed.”",
+        "url": "https://www.foxnews.com/live-news/iran-war-trump-news-strait-hormuz-blockade-ceasefire-tensions-may-20",
+        "publishedAt": "2026-05-20T10:32:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Iran is gambling that Trump will cave. It hasn’t gone well for them so far",
+        "description": "Tehran's ruling system still does not believe President Donald Trump is prepared to go beyond pressure and dismantle the Islamic Republic of Iran.",
+        "url": "https://www.foxnews.com/opinion/iran-gambling-trump-cave-hasnt-gone-well-far",
+        "publishedAt": "2026-05-20T09:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "New drug approach offers hope for patients with recurrent aggressive cancers",
+        "description": "Merck announces that sac-TMT, a new cancer drug, demonstrated strong results in phase 3 trials for advanced or recurrent endometrial cancer patients.",
+        "url": "https://www.foxnews.com/health/new-drug-approach-offers-hope-patients-recurrent-aggressive-cancers",
+        "publishedAt": "2026-05-20T11:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Three Toronto Police Officers Arrested in Spain over Alleged Sexual Assault",
+        "description": "Three Canadian police officers were arrested in Spain over an alleged sexual assault of a sex worker in Barcelona, Toronto’s police force confirmed. The three officers — identified by Canadian outlets  as Evan Glennie, Rich Rand and Caglar Yigit —\nThe post Th…",
+        "url": "https://www.breitbart.com/europe/2026/05/20/three-toronto-police-officers-arrested-in-spain-over-alleged-sexual-assault/",
+        "publishedAt": "2026-05-20T10:19:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump admin accuses Hamas of backing Gaza flotilla, sanctions activist and Muslim Brotherhood networks",
+        "description": "The Trump administration accuses Hamas of backing a Gaza flotilla and sanctions several organizers tied to the effort and related activist networks.",
+        "url": "https://www.foxnews.com/politics/trump-admin-accuses-hamas-backing-gaza-flotilla-sanctions-activist-muslim-brotherhood-networks",
+        "publishedAt": "2026-05-20T10:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Platner doesn’t want to wave the green flag with China, he prefers the white flag",
+        "description": "Progressive Maine Senate candidate Graham Platner advocates cooperating with China on clean energy, but that's naive about national security risks.",
+        "url": "https://www.foxnews.com/opinion/platner-doesnt-want-wave-green-flag-china-prefers-white-flag",
+        "publishedAt": "2026-05-20T09:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "RBI intervenes as Rupee drops to record low",
+        "description": "RBI intervenes as the rupee hits a record low, pressured by high oil prices and significant foreign investor withdrawals.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/inr-usd-indian-central-bank-intervenes-as-rupee-drops-to-record-low",
+        "publishedAt": "2026-05-20T05:42:50Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
