@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-21T21:00:20.036930+00:00",
+  "generated_at": "2026-05-21T22:24:56.256352+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Iran is gambling that Trump will cave. It hasn’t gone well for them so far",
-        "description": "Tehran's ruling system still does not believe President Donald Trump is prepared to go beyond pressure and dismantle the Islamic Republic of Iran.",
-        "url": "https://www.foxnews.com/opinion/iran-gambling-trump-cave-hasnt-gone-well-far",
-        "publishedAt": "2026-05-20T09:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
