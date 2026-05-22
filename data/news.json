@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-22T21:37:26.760226+00:00",
+  "generated_at": "2026-05-22T22:39:11.451005+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Doomer Fail: New Coal-Fired Power Plants Surge to 10-Year Global High",
-        "description": "The world loves coal. That is the simple message from results showing new coal-fired power plants hit a global 10-year high in 2025, defying climate doomers who decry its use and long for wind farms, solar panels and hydro power everywhere.\nThe post Doomer Fa…",
-        "url": "https://www.breitbart.com/europe/2026/05/21/doomer-fail-new-coal-fired-power-plants-surge-to-10-year-global-high/",
-        "publishedAt": "2026-05-21T11:27:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
