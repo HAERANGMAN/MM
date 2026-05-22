@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-22T16:27:50.760142+00:00",
+  "generated_at": "2026-05-22T18:16:59.536495+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Doomer Fail: New Coal-Fired Power Plants Surge to 10-Year Global High",
+        "description": "The world loves coal. That is the simple message from results showing new coal-fired power plants hit a global 10-year high in 2025, defying climate doomers who decry its use and long for wind farms, solar panels and hydro power everywhere.\nThe post Doomer Fa…",
+        "url": "https://www.breitbart.com/europe/2026/05/21/doomer-fail-new-coal-fired-power-plants-surge-to-10-year-global-high/",
+        "publishedAt": "2026-05-21T11:27:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "What Wall Street Analysts Are Saying About Nvidia's Strong Earnings",
+        "description": "Nvidia reported better-than-expected Q1 results and provided optimistic guidance for the second quarter, with CEO Jensen Huang highlighting new product lines that could significantly expand the company's revenue beyond its flagship AI chip business. Despite t…",
+        "url": "https://www.breitbart.com/tech/2026/05/21/what-wall-street-analysts-are-saying-about-nvidias-strong-earnings/",
+        "publishedAt": "2026-05-21T17:39:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Exclusive: Chip Roy Issues Plan to Tax Illegal Aliens at 25% for Remittances",
+        "description": "Rep. Chip Roy is introducing legislation to tax illegal aliens at 25 percent on remittances they send back to their native countries.\nThe post Exclusive: Chip Roy Issues Plan to Tax Illegal Aliens at 25% for Remittances appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/immigration/2026/05/21/exclusive-chip-roy-issues-plan-tax-illegal-aliens-25-remittances/",
+        "publishedAt": "2026-05-21T16:38:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "25"
+      },
+      {
+        "title": "Leftist Riots Engulf Bolivia, Blocking Food, Medicine, and Fuel to Cities",
+        "description": "U.S. Secretary of State Marco Rubio on Wednesday reaffirmed America's support to the government of Bolivian President Rodrigo Paz amid a wave of violent blockades.\nThe post Leftist Riots Engulf Bolivia, Blocking Food, Medicine, and Fuel to Cities appeared fir…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/21/leftist-riots-engulf-bolivia-blocking-food-medicine-fuel-cities/",
+        "publishedAt": "2026-05-21T16:08:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Financial Software Giant Intuit Lays Off 17% of Workforce as It Embraces AI",
+        "description": "Enterprise software giant Intuit is eliminating approximately 3,000 positions, representing 17 percent of its workforce, as the company redirects resources toward integrating AI capabilities into its product lineup.\nThe post Financial Software Giant Intuit La…",
+        "url": "https://www.breitbart.com/tech/2026/05/21/financial-software-giant-intuit-lays-off-17-of-workforce-as-it-embraces-ai/",
+        "publishedAt": "2026-05-21T15:42:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "17"
+      },
+      {
+        "title": "Obama’s baseball outing with Castro reignites fury after Trump DOJ drops hammer on Cuban leader",
+        "description": "Photos of Obama embracing Raul Castro in Havana resurface after DOJ indictment charges the former Cuban president in the 1996 shootdown of two planes.",
+        "url": "https://www.foxnews.com/politics/obamas-baseball-outing-castro-reignites-fury-after-trump-doj-drops-hammer-cuban-leader",
+        "publishedAt": "2026-05-21T15:29:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1996"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Doomer Fail: New Coal-Fired Power Plants Surge to 10-Year Global High",
+        "description": "The world loves coal. That is the simple message from results showing new coal-fired power plants hit a global 10-year high in 2025, defying climate doomers who decry its use and long for wind farms, solar panels and hydro power everywhere.\nThe post Doomer Fa…",
+        "url": "https://www.breitbart.com/europe/2026/05/21/doomer-fail-new-coal-fired-power-plants-surge-to-10-year-global-high/",
+        "publishedAt": "2026-05-21T11:27:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Robot's lifeless corpse hauled off stage after fall during disastrous Michael Jackson impression",
+        "description": "A humanoid robot dancing to Michael Jackson's \"Billie Jean\" at a store in Shenzhen, China, wipes out on stage in a hilariously viral video clip.",
+        "url": "https://www.foxnews.com/outkick-culture/robots-lifeless-corpse-hauled-stage-disastrous-michael-jackson-impression",
+        "publishedAt": "2026-05-21T17:10:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Wall Street banks helped Chinese military-linked firm raise billions despite red flags, lawmakers find",
+        "description": "Congressional report alleges U.S. banks helped CATL, which partners with Stellantis and Ford, raise capital despite Chinese military designation.",
+        "url": "https://www.foxnews.com/politics/wall-street-banks-helped-chinese-military-linked-firm-raise-billions-despite-red-flags-congressional-probe-finds",
+        "publishedAt": "2026-05-21T15:00:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Mamdani snubs the Jews again",
+        "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+        "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-mamdani-snubs-jews-again",
+        "publishedAt": "2026-05-21T14:33:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: Wrightstone on U.N. Climate Panel Admission Apocalyptic Predictions Were Always 'Implausible'",
+        "description": "The United Nations' Climate Panel admitted that its apocalyptic predictions were always \"implausible,\" geologist Gregory Wrightstone, Executive Director of the CO2 Coalition and author of “A Very Convenient Warming: How Modest Warming And More CO2 Are Benefit…",
+        "url": "https://www.breitbart.com/politics/2026/05/21/exclusive-wrightstone-on-un-climate-panel-admission-that-apocalyptic-predictions-were-always-implausible/",
+        "publishedAt": "2026-05-21T14:00:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Josh Duhamel leans into Western cowboy role after decades of heartthrob roles",
+        "description": "Josh Duhamel is reviving his career with Western cowboy roles including Paramount's \"The Rescue\" after leaving Los Angeles for off-grid life in Montana.",
+        "url": "https://www.foxnews.com/entertainment/josh-duhamel-leans-western-cowboy-role-after-decades-heartthrob-roles",
+        "publishedAt": "2026-05-21T13:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
