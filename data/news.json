@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-23T19:54:35.937831+00:00",
+  "generated_at": "2026-05-23T20:44:16.865587+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Fox News Campus Radicals Newsletter: Schools silence kids, Harvard faculty's big decision, shocking curriculum",
-        "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
-        "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-schools-silence-kids-harvard-facultys-big-decision-shocking-curriculum",
-        "publishedAt": "2026-05-22T19:24:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "WATCH LIVE: President Trump lands in New York to deliver remarks | Fox News Video",
-        "description": "WATCH LIVE: President Trump lands in New York to deliver remarks | Fox News Videofoxnews.com",
-        "url": "https://www.foxnews.com/video/6396374672112",
-        "publishedAt": "2026-05-22T18:50:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony",
-        "description": "Kevin Warsh was sworn in as the 17th chairman of the Federal Reserve on Friday during a ceremony at the White House.\nThe post Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/22/kevin-warsh-sworn-in-federal-reserve-chairman-east-room-ceremony/",
-        "publishedAt": "2026-05-22T18:22:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "17"
-      },
-      {
-        "title": "Rubio: ICE Arrests Sister of Communist Running Cuba's Tourism Cash Cow, in U.S. Since Biden Era",
-        "description": "U.S. Secretary of State Marco Rubio on Thursday announced the arrest of Adys Lastres Morera, sister of the recently sanctioned President of the Cuban communist regime's GAESA conglomerate, Ania Guillermina Lastres.\nThe post Rubio: ICE Arrests Sister of Commun…",
-        "url": "https://www.breitbart.com/national-security/2026/05/22/rubio-ice-arrests-sister-of-communist-running-cubas-tourism-cash-cow-in-u-s-since-biden-era/",
-        "publishedAt": "2026-05-22T17:21:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Caitlin Clark's Jersey Sales Officially Pass LeBron James",
-        "description": "Jersey sales for WBA player Caitlin Clark have officially pushed LeBron James to third place as Clark's sales now rank second.\nThe post Caitlin Clark’s Jersey Sales Officially Pass LeBron James appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/sports/2026/05/22/caitlin-clarks-jersey-sales-officially-pass-lebron-james/",
-        "publishedAt": "2026-05-22T14:31:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iraq Investigates Drone Attack on UAE Nuclear Plant",
-        "description": "The United Arab Emirates (UAE) on Wednesday called on the government of Iraq to investigate the drone attack launched against the Barakah nuclear power plant from Iraqi soil, and to take all necessary steps to prevent Iranian proxies from using Iraq as the la…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/21/iraq-investigates-drone-attack-on-uae-nuclear-plant/",
-        "publishedAt": "2026-05-21T22:36:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Saudi Arabia Prepares to Welcome 1.5 Million for Hajj amid Ebola, Iran Fears",
-        "description": "The government of Saudi Arabia reassured visitors on Friday that it is prepared to screen for and otherwise address any public health threats during the upcoming Hajj season, responding to growing international concern about the spread of Ebola and hantavirus…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/22/saudi-arabia-prepares-to-welcome-1-5-million-for-hajj-amid-ebola-iran-fears/",
-        "publishedAt": "2026-05-22T19:44:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1.5"
-      },
-      {
-        "title": "Wuhan Factory Accused of Poisoning Villagers with Cancer-Causing Chemicals",
-        "description": "The government of the now-infamous city of Wuhan, China, is reportedly investigating a sodium silicate factory for dumping toxic chemicals into the water and soil of a village called Huangtupo, which is allegedly producing a massive spike in cancer and leukem…",
-        "url": "https://www.breitbart.com/environment/2026/05/22/wuhan-factory-accused-of-poisoning-villagers-with-cancer-causing-chemicals/",
-        "publishedAt": "2026-05-22T17:54:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Leading the Future Super PAC Expands House GOP Endorsements",
-        "description": "Leading the Future is backing ten more House Republicans in its latest slate of incumbent endorsements, including three members who are seeking Senate seats while continuing to serve in the House.\nThe post Exclusive — Leading the Future Super PAC Expands Hous…",
-        "url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
-        "publishedAt": "2026-05-22T13:20:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hantavirus exposure risk may be higher than believed in parts of US, study finds",
-        "description": "Washington State University researchers found unexpectedly high hantavirus levels in rodents across farms and forests in the Pacific Northwest region.",
-        "url": "https://www.foxnews.com/health/hantavirus-exposure-risk-may-higher-believed-parts-us-study-finds",
-        "publishedAt": "2026-05-22T11:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "AI layoffs may be backfiring on companies",
-        "description": "About 80% of companies deploying AI reported workforce reductions, but Gartner says those cuts did not translate into stronger returns on investment.",
-        "url": "https://www.foxnews.com/tech/ai-layoffs-may-backfiring-companies",
-        "publishedAt": "2026-05-22T10:52:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "80"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
