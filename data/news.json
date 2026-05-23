@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-05-23T18:45:36.258461+00:00",
+  "generated_at": "2026-05-23T19:54:35.937831+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Fox News Campus Radicals Newsletter: Schools silence kids, Harvard faculty's big decision, shocking curriculum",
+        "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
+        "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-schools-silence-kids-harvard-facultys-big-decision-shocking-curriculum",
+        "publishedAt": "2026-05-22T19:24:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "WATCH LIVE: President Trump lands in New York to deliver remarks | Fox News Video",
+        "description": "WATCH LIVE: President Trump lands in New York to deliver remarks | Fox News Videofoxnews.com",
+        "url": "https://www.foxnews.com/video/6396374672112",
+        "publishedAt": "2026-05-22T18:50:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony",
         "description": "Kevin Warsh was sworn in as the 17th chairman of the Federal Reserve on Friday during a ceremony at the White House.\nThe post Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony appeared first on Breitbart.",
@@ -33,26 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Consumer Sentiment Falls To Record Low on Gas Prices, Inflation Fears",
-        "description": "Both short-term and long-term inflation expectations are climbing as consumers fear price increases will not be confined to gasoline and energy.\nThe post Consumer Sentiment Falls To Record Low on Gas Prices, Inflation Fears appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/22/consumer-sentiment-falls-to-record-low-on-gas-prices-inflation-fears/",
-        "publishedAt": "2026-05-22T14:20:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Leading the Future Super PAC Expands House GOP Endorsements",
-        "description": "Leading the Future is backing ten more House Republicans in its latest slate of incumbent endorsements, including three members who are seeking Senate seats while continuing to serve in the House.\nThe post Exclusive — Leading the Future Super PAC Expands Hous…",
-        "url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
-        "publishedAt": "2026-05-22T13:20:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Saudi Arabia Prepares to Welcome 1.5 Million for Hajj amid Ebola, Iran Fears",
+        "description": "The government of Saudi Arabia reassured visitors on Friday that it is prepared to screen for and otherwise address any public health threats during the upcoming Hajj season, responding to growing international concern about the spread of Ebola and hantavirus…",
+        "url": "https://www.breitbart.com/middle-east/2026/05/22/saudi-arabia-prepares-to-welcome-1-5-million-for-hajj-amid-ebola-iran-fears/",
+        "publishedAt": "2026-05-22T19:44:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1.5"
+      },
       {
         "title": "Wuhan Factory Accused of Poisoning Villagers with Cancer-Causing Chemicals",
         "description": "The government of the now-infamous city of Wuhan, China, is reportedly investigating a sodium silicate factory for dumping toxic chemicals into the water and soil of a village called Huangtupo, which is allegedly producing a massive spike in cancer and leukem…",
@@ -108,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "80"
-      },
-      {
-        "title": "Army cuts helicopters, pushes ‘Amazon for war’ as drone combat reshapes military",
-        "description": "Army leaders signal drone warfare lessons from Ukraine and the Middle East are driving cuts to Apache, Black Hawk and Chinook helicopter programs.",
-        "url": "https://www.foxnews.com/politics/army-cuts-helicopters-pushes-amazon-war-drone-combat-reshapes-military",
-        "publishedAt": "2026-05-22T09:30:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
