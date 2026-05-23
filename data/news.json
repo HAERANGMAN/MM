@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-23T17:46:00.954434+00:00",
+  "generated_at": "2026-05-23T18:45:36.258461+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony",
+        "description": "Kevin Warsh was sworn in as the 17th chairman of the Federal Reserve on Friday during a ceremony at the White House.\nThe post Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/05/22/kevin-warsh-sworn-in-federal-reserve-chairman-east-room-ceremony/",
+        "publishedAt": "2026-05-22T18:22:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "17"
+      },
+      {
+        "title": "Rubio: ICE Arrests Sister of Communist Running Cuba's Tourism Cash Cow, in U.S. Since Biden Era",
+        "description": "U.S. Secretary of State Marco Rubio on Thursday announced the arrest of Adys Lastres Morera, sister of the recently sanctioned President of the Cuban communist regime's GAESA conglomerate, Ania Guillermina Lastres.\nThe post Rubio: ICE Arrests Sister of Commun…",
+        "url": "https://www.breitbart.com/national-security/2026/05/22/rubio-ice-arrests-sister-of-communist-running-cubas-tourism-cash-cow-in-u-s-since-biden-era/",
+        "publishedAt": "2026-05-22T17:21:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Caitlin Clark's Jersey Sales Officially Pass LeBron James",
+        "description": "Jersey sales for WBA player Caitlin Clark have officially pushed LeBron James to third place as Clark's sales now rank second.\nThe post Caitlin Clark’s Jersey Sales Officially Pass LeBron James appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/sports/2026/05/22/caitlin-clarks-jersey-sales-officially-pass-lebron-james/",
+        "publishedAt": "2026-05-22T14:31:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Consumer Sentiment Falls To Record Low on Gas Prices, Inflation Fears",
+        "description": "Both short-term and long-term inflation expectations are climbing as consumers fear price increases will not be confined to gasoline and energy.\nThe post Consumer Sentiment Falls To Record Low on Gas Prices, Inflation Fears appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/05/22/consumer-sentiment-falls-to-record-low-on-gas-prices-inflation-fears/",
+        "publishedAt": "2026-05-22T14:20:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Leading the Future Super PAC Expands House GOP Endorsements",
+        "description": "Leading the Future is backing ten more House Republicans in its latest slate of incumbent endorsements, including three members who are seeking Senate seats while continuing to serve in the House.\nThe post Exclusive — Leading the Future Super PAC Expands Hous…",
+        "url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+        "publishedAt": "2026-05-22T13:20:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Iraq Investigates Drone Attack on UAE Nuclear Plant",
+        "description": "The United Arab Emirates (UAE) on Wednesday called on the government of Iraq to investigate the drone attack launched against the Barakah nuclear power plant from Iraqi soil, and to take all necessary steps to prevent Iranian proxies from using Iraq as the la…",
+        "url": "https://www.breitbart.com/middle-east/2026/05/21/iraq-investigates-drone-attack-on-uae-nuclear-plant/",
+        "publishedAt": "2026-05-21T22:36:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Wuhan Factory Accused of Poisoning Villagers with Cancer-Causing Chemicals",
+        "description": "The government of the now-infamous city of Wuhan, China, is reportedly investigating a sodium silicate factory for dumping toxic chemicals into the water and soil of a village called Huangtupo, which is allegedly producing a massive spike in cancer and leukem…",
+        "url": "https://www.breitbart.com/environment/2026/05/22/wuhan-factory-accused-of-poisoning-villagers-with-cancer-causing-chemicals/",
+        "publishedAt": "2026-05-22T17:54:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Leading the Future Super PAC Expands House GOP Endorsements",
+        "description": "Leading the Future is backing ten more House Republicans in its latest slate of incumbent endorsements, including three members who are seeking Senate seats while continuing to serve in the House.\nThe post Exclusive — Leading the Future Super PAC Expands Hous…",
+        "url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+        "publishedAt": "2026-05-22T13:20:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hantavirus exposure risk may be higher than believed in parts of US, study finds",
+        "description": "Washington State University researchers found unexpectedly high hantavirus levels in rodents across farms and forests in the Pacific Northwest region.",
+        "url": "https://www.foxnews.com/health/hantavirus-exposure-risk-may-higher-believed-parts-us-study-finds",
+        "publishedAt": "2026-05-22T11:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "AI layoffs may be backfiring on companies",
+        "description": "About 80% of companies deploying AI reported workforce reductions, but Gartner says those cuts did not translate into stronger returns on investment.",
+        "url": "https://www.foxnews.com/tech/ai-layoffs-may-backfiring-companies",
+        "publishedAt": "2026-05-22T10:52:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "80"
+      },
+      {
+        "title": "Army cuts helicopters, pushes ‘Amazon for war’ as drone combat reshapes military",
+        "description": "Army leaders signal drone warfare lessons from Ukraine and the Middle East are driving cuts to Apache, Black Hawk and Chinook helicopter programs.",
+        "url": "https://www.foxnews.com/politics/army-cuts-helicopters-pushes-amazon-war-drone-combat-reshapes-military",
+        "publishedAt": "2026-05-22T09:30:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
