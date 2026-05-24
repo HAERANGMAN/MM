@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-05-24T21:58:20.705843+00:00",
+  "generated_at": "2026-05-24T23:02:53.684158+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "New details emerge in death of Kyle Busch as NASCAR world remains in shock | Fox News Video",
+        "description": "Fox News senior medical analyst Dr. Marc Siegel discusses the death of NASCAR star Kyle Busch on ‘The Ingraham Angle.’",
+        "url": "https://www.foxnews.com/video/6396433366112",
+        "publishedAt": "2026-05-23T21:08:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "House Dem Whip Clark Dodges on Need to Lower Spending to Lower Rates",
+        "description": "On Friday’s broadcast of CNBC’s “Squawk Box,” House Minority Whip Rep. Katherine Clark (D-MA) responded to a question on addressing affordability when the big issues are gas prices and interest rates, the latter of which will likely require decreasing governm…",
+        "url": "https://www.breitbart.com/clips/2026/05/23/house-dem-whip-clark-dodges-on-need-to-lower-spending-to-lower-rates/",
+        "publishedAt": "2026-05-23T18:22:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Blackburn: 'Let's Be Sure' Other Members of the Axis of Evil Don't Prop Iran Up",
+        "description": "Friday on FNC's \"Hannity,\" Sen. Marsha Blackburn (R-TN) expressed her support for President Donald Trump's actions against Iran.\nThe post Blackburn: ‘Let’s Be Sure’ Other Members of the Axis of Evil Don’t Prop Iran Up appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/clips/2026/05/23/blackburn-lets-be-sure-other-members-of-the-axis-of-evil-dont-prop-iran-up/",
+        "publishedAt": "2026-05-23T18:15:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Detransitioner details consequences of 'gender-affirming care' | Fox News Video",
+        "description": "Claire Abernathy shares her story of enduring hormone replacement and gender surgery at age 14, detailing the long-term physical and emotional consequences.",
+        "url": "https://www.foxnews.com/video/6396445901112",
+        "publishedAt": "2026-05-23T17:17:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "14"
+      },
+      {
+        "title": "Castro indictment fuels speculation Trump may be reviving Maduro playbook against Cuba",
+        "description": "The Trump administration's indictment of Raúl Castro fuels comparisons to the Venezuela pressure campaign involving sanctions and the military.",
+        "url": "https://www.foxnews.com/politics/castro-indictment-fuels-speculation-trump-may-reviving-maduro-playbook-against-cuba",
+        "publishedAt": "2026-05-23T16:25:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "EXCLUSIVE: Air Force debuts historic 8-ship bomber-fighter formation over Miami Beach",
+        "description": "A historic Memorial Day weekend flyover dubbed the \"Arsenal of Freedom\" featured B-52, B-1B, F-22 and F-35 aircraft soaring over Miami Beach crowds.",
+        "url": "https://www.foxnews.com/travel/exclusive-air-force-debuts-historic-8-ship-bomber-fighter-formation-miami-beach",
+        "publishedAt": "2026-05-23T22:18:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "Lindsay Lohan, Brooks Nader and Halsey heat up red carpets in sky-high slits and sheer gowns",
+        "description": "Hollywood's biggest stars stepped out in revealing black dresses this week, with sheer gowns and high slits dominating red carpets from Cannes to Milan.",
+        "url": "https://www.foxnews.com/entertainment/lindsay-lohan-brooks-nader-halsey-heat-up-red-carpets-sky-high-slits-sheer-gowns",
+        "publishedAt": "2026-05-23T20:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Congo team must isolate to enter United States for World Cup amid Ebola outbreak",
+        "description": "Andrew Giuliani said Congo's soccer team must isolate for 21 days before entering the U.S. for the World Cup amid the country's Ebola outbreak.",
+        "url": "https://www.foxnews.com/sports/congo-team-must-isolate-enter-united-states-world-cup-amid-ebola-outbreak",
+        "publishedAt": "2026-05-23T17:39:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "21"
+      },
+      {
+        "title": "France Bans Israeli National Security Chief over Treatment of Gaza Flotilla Activists",
+        "description": "France on Saturday banned Israel's far-right national security minister, Itamar Ben-Gvir, citing his \"unspeakable\" behavior targeting activists from a flotilla to Gaza who were detained by his police force.\nThe post France Bans Israeli National Security Chief…",
+        "url": "https://www.breitbart.com/europe/2026/05/23/france-bans-israeli-national-security-chief-over-treatment-of-gaza-flotilla-activists/",
+        "publishedAt": "2026-05-23T14:08:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DOJ, Treasury investigate nonprofits and leaders allegedly coordinating with Cuba in influence campaign",
+        "description": "Murder charges against Raúl Castro trigger a rapid activist response that federal officials investigate for ties to an alleged Cuban influence operation.",
+        "url": "https://www.foxnews.com/politics/doj-treasury-investigate-nonprofits-leaders-allegedly-coordinating-cuba-influence-campaign",
+        "publishedAt": "2026-05-23T13:47:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
