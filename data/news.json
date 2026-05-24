@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-23T23:39:35.772443+00:00",
+  "generated_at": "2026-05-24T01:35:38.834351+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Report: Turkey Sells Off U.S. Treasury Holdings as Iran Crisis Hurts Economy",
-        "description": "Bloomberg News reported on Thursday that Turkey sold almost all of its U.S. Treasury holdings in March as part of a strategy to prop up its currency during the Iran crisis.\nThe post Report: Turkey Sells Off U.S. Treasury Holdings as Iran Crisis Hurts Economy …",
-        "url": "https://www.breitbart.com/middle-east/2026/05/22/report-turkey-sells-off-u-s-treasury-holdings-as-iran-crisis-hurts-economy/",
-        "publishedAt": "2026-05-22T20:55:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US ‘friends and allies’ must help secure Strait of Hormuz, former Trump envoy says | Fox News Video",
-        "description": "Former deputy special presidential envoy Morgan Ortagus discusses Iran’s reported plan to charge ‘fees’ in the Strait of Hormuz and the potential for a peace deal with the regime on ‘The Story.’",
-        "url": "https://www.foxnews.com/video/6396380909112",
-        "publishedAt": "2026-05-22T20:16:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News Campus Radicals Newsletter: Schools silence kids, Harvard faculty's big decision, shocking curriculum",
-        "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
-        "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-schools-silence-kids-harvard-facultys-big-decision-shocking-curriculum",
-        "publishedAt": "2026-05-22T19:24:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "WATCH LIVE: President Trump lands in New York to deliver remarks | Fox News Video",
-        "description": "WATCH LIVE: President Trump lands in New York to deliver remarks | Fox News Videofoxnews.com",
-        "url": "https://www.foxnews.com/video/6396374672112",
-        "publishedAt": "2026-05-22T18:50:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony",
-        "description": "Kevin Warsh was sworn in as the 17th chairman of the Federal Reserve on Friday during a ceremony at the White House.\nThe post Kevin Warsh Sworn In as Federal Reserve Chairman in East Room Ceremony appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/22/kevin-warsh-sworn-in-federal-reserve-chairman-east-room-ceremony/",
-        "publishedAt": "2026-05-22T18:22:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "17"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Report: China's Xi Jinping Planning Trip to Estranged North Korea",
-        "description": "Reports in South Korean media this week claimed that genocidal Chinese dictator Xi Jinping is planning to visit North Korea.\nThe post Report: China’s Xi Jinping Planning Trip to Estranged North Korea appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/asia/2026/05/22/report-chinas-xi-jinping-planning-trip-estranged-north-korea/",
-        "publishedAt": "2026-05-22T21:07:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iran Trying to Convince Oman to Join Strait of Hormuz Toll Plan",
-        "description": "Speaking at a meeting of NATO foreign ministers in Helsingborg, Sweden on Friday, Secretary of State Marco Rubio said “no country in the world should accept” Iran’s latest scheme to control the Strait of Hormuz in perpetuity and extort “tolls” from internatio…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/22/iran-trying-to-convince-oman-to-join-strait-of-hormuz-toll-plan/",
-        "publishedAt": "2026-05-22T23:30:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The worst and most cringe-worthy moments from Stephen Colbert’s now-canceled 'Late Show'",
-        "description": "Stephen Colbert's run as CBS 'Late Show' host ends after years of liberal political activism, declining ratings and a reported $40 million annual loss.",
-        "url": "https://www.foxnews.com/outkick-analysis/worst-cringe-worthy-moments-stephen-colberts-canceled-late-show",
-        "publishedAt": "2026-05-22T23:03:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Ozzy Osbourne's latest reinvention is an AI-powered interactive hologram experience",
-        "description": "Jack and Sharon Osbourne say an AI hologram of the late Ozzy Osbourne created by HYPERREAL can speak in his voice and answer fans' questions.",
-        "url": "https://www.foxnews.com/outkick-culture/ozzy-osbournes-latest-reinvention-ai-powered-interactive-hologram-experience",
-        "publishedAt": "2026-05-22T21:31:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Saudi Arabia Prepares to Welcome 1.5 Million for Hajj amid Ebola, Iran Fears",
-        "description": "The government of Saudi Arabia reassured visitors on Friday that it is prepared to screen for and otherwise address any public health threats during the upcoming Hajj season, responding to growing international concern about the spread of Ebola and hantavirus…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/22/saudi-arabia-prepares-to-welcome-1-5-million-for-hajj-amid-ebola-iran-fears/",
-        "publishedAt": "2026-05-22T19:44:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1.5"
-      },
-      {
-        "title": "Wuhan Factory Accused of Poisoning Villagers with Cancer-Causing Chemicals",
-        "description": "The government of the now-infamous city of Wuhan, China, is reportedly investigating a sodium silicate factory for dumping toxic chemicals into the water and soil of a village called Huangtupo, which is allegedly producing a massive spike in cancer and leukem…",
-        "url": "https://www.breitbart.com/environment/2026/05/22/wuhan-factory-accused-of-poisoning-villagers-with-cancer-causing-chemicals/",
-        "publishedAt": "2026-05-22T17:54:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
