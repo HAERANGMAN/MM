@@ -1,115 +1,30 @@
 {
-  "generated_at": "2026-05-25T08:48:13.233215+00:00",
+  "generated_at": "2026-05-25T12:13:42.930627+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [
+    "news-korea-econ": [
       {
-        "title": "WATCH: Platner doesn't apologize to Purple Heart recipient, voters when confronted on post mocking soldier",
-        "description": "Maine Senate candidate Graham Platner declined to apologize for a deleted Reddit post saying a Purple Heart recipient \"didn't deserve to live.\"",
-        "url": "https://www.foxnews.com/politics/watch-platner-doesnt-apologize-purple-heart-recipient-voters-when-confronted-post-mocking-soldier",
-        "publishedAt": "2026-05-24T08:00:34Z",
+        "title": "Three key reasons why America cannot afford to lose Taiwan to Communist China",
+        "description": "Taiwan's importance to America goes far beyond semiconductors, encompassing geography, diplomacy and the symbolism of democracy near China's coast.",
+        "url": "https://www.foxnews.com/opinion/three-key-reasons-america-cannot-afford-lose-taiwan-communist-china",
+        "publishedAt": "2026-05-24T12:00:25Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "LNG tanker exits Hormuz for India for first time since war began",
-        "description": "LNG tanker departs Hormuz for India, marking the first shipment since the Iran war began amid ongoing regional tensions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began",
-        "publishedAt": "2026-05-24T04:33:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Secret Service reportedly takes down gunman outside White House after shots fired | Fox News Video",
-        "description": "Fox News chief congressional correspondent Chad Pergram reports on gunshots heard outside the White House on 'The Big Weekend Show.'",
-        "url": "https://www.foxnews.com/video/6396465734112",
-        "publishedAt": "2026-05-23T23:41:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New details emerge in death of Kyle Busch as NASCAR world remains in shock | Fox News Video",
-        "description": "Fox News senior medical analyst Dr. Marc Siegel discusses the death of NASCAR star Kyle Busch on ‘The Ingraham Angle.’",
-        "url": "https://www.foxnews.com/video/6396433366112",
-        "publishedAt": "2026-05-23T21:08:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "House Dem Whip Clark Dodges on Need to Lower Spending to Lower Rates",
-        "description": "On Friday’s broadcast of CNBC’s “Squawk Box,” House Minority Whip Rep. Katherine Clark (D-MA) responded to a question on addressing affordability when the big issues are gas prices and interest rates, the latter of which will likely require decreasing governm…",
-        "url": "https://www.breitbart.com/clips/2026/05/23/house-dem-whip-clark-dodges-on-need-to-lower-spending-to-lower-rates/",
-        "publishedAt": "2026-05-23T18:22:27Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
     ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "LNG tanker exits Hormuz for India for first time since war began",
-        "description": "LNG tanker departs Hormuz for India, marking the first shipment since the Iran war began amid ongoing regional tensions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began",
-        "publishedAt": "2026-05-24T04:33:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iranian national team to train in Mexico during World Cup after base camp switch, federation leader says",
-        "description": "Iran says its 2026 World Cup training camp has been moved from the United States to Mexico after getting approval from FIFA, the federation announced.",
-        "url": "https://www.foxnews.com/outkick-sports/iranian-national-team-train-mexico-world-cup-base-camp-switch-federation-leader-says",
-        "publishedAt": "2026-05-24T01:40:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Feds subpoena Hasan Piker, Medea Benjamin over Cuba trips",
-        "description": "Hasan Piker and CodePink cofounder Medea Benjamin face Treasury subpoenas in a federal probe into whether activists violated U.S. Cuba sanctions.",
-        "url": "https://www.foxnews.com/politics/feds-subpoena-hasan-piker-medea-benjamin-over-cuba-trips",
-        "publishedAt": "2026-05-24T00:25:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "bp"
-      },
-      {
-        "title": "EXCLUSIVE: Air Force debuts historic 8-ship bomber-fighter formation over Miami Beach",
-        "description": "A historic Memorial Day weekend flyover dubbed the \"Arsenal of Freedom\" featured B-52, B-1B, F-22 and F-35 aircraft soaring over Miami Beach crowds.",
-        "url": "https://www.foxnews.com/travel/exclusive-air-force-debuts-historic-8-ship-bomber-fighter-formation-miami-beach",
-        "publishedAt": "2026-05-23T22:18:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Lindsay Lohan, Brooks Nader and Halsey heat up red carpets in sky-high slits and sheer gowns",
-        "description": "Hollywood's biggest stars stepped out in revealing black dresses this week, with sheer gowns and high slits dominating red carpets from Cannes to Milan.",
-        "url": "https://www.foxnews.com/entertainment/lindsay-lohan-brooks-nader-halsey-heat-up-red-carpets-sky-high-slits-sheer-gowns",
-        "publishedAt": "2026-05-23T20:00:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
