@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-25T00:10:51.806382+00:00",
+  "generated_at": "2026-05-25T04:50:43.444344+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "LNG tanker exits Hormuz for India for first time since war began",
+        "description": "LNG tanker departs Hormuz for India, marking the first shipment since the Iran war began amid ongoing regional tensions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began",
+        "publishedAt": "2026-05-24T04:33:08Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Secret Service reportedly takes down gunman outside White House after shots fired | Fox News Video",
         "description": "Fox News chief congressional correspondent Chad Pergram reports on gunshots heard outside the White House on 'The Big Weekend Show.'",
@@ -43,21 +53,41 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Detransitioner details consequences of 'gender-affirming care' | Fox News Video",
-        "description": "Claire Abernathy shares her story of enduring hormone replacement and gender surgery at age 14, detailing the long-term physical and emotional consequences.",
-        "url": "https://www.foxnews.com/video/6396445901112",
-        "publishedAt": "2026-05-23T17:17:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "14"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "LNG tanker exits Hormuz for India for first time since war began",
+        "description": "LNG tanker departs Hormuz for India, marking the first shipment since the Iran war began amid ongoing regional tensions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began",
+        "publishedAt": "2026-05-24T04:33:08Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iranian national team to train in Mexico during World Cup after base camp switch, federation leader says",
+        "description": "Iran says its 2026 World Cup training camp has been moved from the United States to Mexico after getting approval from FIFA, the federation announced.",
+        "url": "https://www.foxnews.com/outkick-sports/iranian-national-team-train-mexico-world-cup-base-camp-switch-federation-leader-says",
+        "publishedAt": "2026-05-24T01:40:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Feds subpoena Hasan Piker, Medea Benjamin over Cuba trips",
+        "description": "Hasan Piker and CodePink cofounder Medea Benjamin face Treasury subpoenas in a federal probe into whether activists violated U.S. Cuba sanctions.",
+        "url": "https://www.foxnews.com/politics/feds-subpoena-hasan-piker-medea-benjamin-over-cuba-trips",
+        "publishedAt": "2026-05-24T00:25:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "bp"
+      },
       {
         "title": "EXCLUSIVE: Air Force debuts historic 8-ship bomber-fighter formation over Miami Beach",
         "description": "A historic Memorial Day weekend flyover dubbed the \"Arsenal of Freedom\" featured B-52, B-1B, F-22 and F-35 aircraft soaring over Miami Beach crowds.",
@@ -73,36 +103,6 @@
         "description": "Hollywood's biggest stars stepped out in revealing black dresses this week, with sheer gowns and high slits dominating red carpets from Cannes to Milan.",
         "url": "https://www.foxnews.com/entertainment/lindsay-lohan-brooks-nader-halsey-heat-up-red-carpets-sky-high-slits-sheer-gowns",
         "publishedAt": "2026-05-23T20:00:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Congo team must isolate to enter United States for World Cup amid Ebola outbreak",
-        "description": "Andrew Giuliani said Congo's soccer team must isolate for 21 days before entering the U.S. for the World Cup amid the country's Ebola outbreak.",
-        "url": "https://www.foxnews.com/sports/congo-team-must-isolate-enter-united-states-world-cup-amid-ebola-outbreak",
-        "publishedAt": "2026-05-23T17:39:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21"
-      },
-      {
-        "title": "France Bans Israeli National Security Chief over Treatment of Gaza Flotilla Activists",
-        "description": "France on Saturday banned Israel's far-right national security minister, Itamar Ben-Gvir, citing his \"unspeakable\" behavior targeting activists from a flotilla to Gaza who were detained by his police force.\nThe post France Bans Israeli National Security Chief…",
-        "url": "https://www.breitbart.com/europe/2026/05/23/france-bans-israeli-national-security-chief-over-treatment-of-gaza-flotilla-activists/",
-        "publishedAt": "2026-05-23T14:08:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DOJ, Treasury investigate nonprofits and leaders allegedly coordinating with Cuba in influence campaign",
-        "description": "Murder charges against Raúl Castro trigger a rapid activist response that federal officials investigate for ties to an alleged Cuban influence operation.",
-        "url": "https://www.foxnews.com/politics/doj-treasury-investigate-nonprofits-leaders-allegedly-coordinating-cuba-influence-campaign",
-        "publishedAt": "2026-05-23T13:47:51Z",
         "source": {
           "name": "Fox News"
         },
