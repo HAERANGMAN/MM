@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-25T12:13:42.930627+00:00",
+  "generated_at": "2026-05-25T15:29:50.888924+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Three key reasons why America cannot afford to lose Taiwan to Communist China",
-        "description": "Taiwan's importance to America goes far beyond semiconductors, encompassing geography, diplomacy and the symbolism of democracy near China's coast.",
-        "url": "https://www.foxnews.com/opinion/three-key-reasons-america-cannot-afford-lose-taiwan-communist-china",
-        "publishedAt": "2026-05-24T12:00:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
