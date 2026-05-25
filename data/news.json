@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-24T23:02:53.684158+00:00",
+  "generated_at": "2026-05-25T00:10:51.806382+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Secret Service reportedly takes down gunman outside White House after shots fired | Fox News Video",
+        "description": "Fox News chief congressional correspondent Chad Pergram reports on gunshots heard outside the White House on 'The Big Weekend Show.'",
+        "url": "https://www.foxnews.com/video/6396465734112",
+        "publishedAt": "2026-05-23T23:41:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "New details emerge in death of Kyle Busch as NASCAR world remains in shock | Fox News Video",
         "description": "Fox News senior medical analyst Dr. Marc Siegel discusses the death of NASCAR star Kyle Busch on ‘The Ingraham Angle.’",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "14"
-      },
-      {
-        "title": "Castro indictment fuels speculation Trump may be reviving Maduro playbook against Cuba",
-        "description": "The Trump administration's indictment of Raúl Castro fuels comparisons to the Venezuela pressure campaign involving sanctions and the military.",
-        "url": "https://www.foxnews.com/politics/castro-indictment-fuels-speculation-trump-may-reviving-maduro-playbook-against-cuba",
-        "publishedAt": "2026-05-23T16:25:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
