@@ -1,134 +1,112 @@
 {
-  "generated_at": "2026-05-26T08:58:16.141335+00:00",
+  "generated_at": "2026-05-26T16:12:36.528050+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Three key reasons why America cannot afford to lose Taiwan to Communist China",
-        "description": "Taiwan's importance to America goes far beyond semiconductors, encompassing geography, diplomacy and the symbolism of democracy near China's coast.",
-        "url": "https://www.foxnews.com/opinion/three-key-reasons-america-cannot-afford-lose-taiwan-communist-china",
-        "publishedAt": "2026-05-24T12:00:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Akasa Air adds flights while Iran war crimps rivals",
-        "description": "While IndiGo, Air India and Air India Express reduced services by 6%, Akasa Air expanded capacity by 13.2% per cent in March and April",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/india-s-youngest-airline-adds-flights-while-iran-war-crimps-rivals",
-        "publishedAt": "2026-05-25T06:00:56Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "6"
-      },
-      {
-        "title": "AI rally drives best run in global momentum stocks on record",
-        "description": "Bulls say the AI frenzy can continue luring money into the market’s biggest winners, though some caution that the scale of the outperformance is a warning sign",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/ai-rally-drives-best-run-in-global-momentum-stocks-on-record",
-        "publishedAt": "2026-05-25T04:44:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rupee climbs 0.4% to 95.3425 on oil relief, RBI valuation comment",
-        "description": "The currency may now be undervalued following its recent slide versus the dollar, RBI Governor Sanjay Malhotra said",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/india-rupee-climbs-on-oil-relief-central-bank-valuation-comment",
-        "publishedAt": "2026-05-25T04:20:58Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "0.4"
-      },
-      {
-        "title": "The rupee may be undervalued, Sanjay Malhotra tells Mint",
-        "description": "A gauge of the rupee’s competitiveness against other currencies stood at 90.96 in April, showing the currency is likely undervalued against peers",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/india-rupee-may-be-undervalued-rbi-governor-tells-mint",
-        "publishedAt": "2026-05-25T03:52:40Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "90.96"
-      },
-      {
-        "title": "Gold jumps as prospects of Iran deal temper inflation concerns",
-        "description": "Gold prices rise 1.6% to $4,580 as US-Iran deal prospects ease inflation worries amid ongoing negotiations.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
-        "publishedAt": "2026-05-25T03:50:59Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1.6"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Three key reasons why America cannot afford to lose Taiwan to Communist China",
-        "description": "Taiwan's importance to America goes far beyond semiconductors, encompassing geography, diplomacy and the symbolism of democracy near China's coast.",
-        "url": "https://www.foxnews.com/opinion/three-key-reasons-america-cannot-afford-lose-taiwan-communist-china",
-        "publishedAt": "2026-05-24T12:00:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "#781 – “Rocket Man” – Florida Landmarks, Presidential Decisions & Global Geography | The Quiz",
-        "description": "In today’s episode of The Quiz, we’re blasting off to test your knowledge on everything from legendary Hollywood stars to major moments in American wartime history. Can you answer these? Florida Landmarks: We take a drive down south to look at a famous stretc…",
-        "url": "https://radio.foxnews.com/2026/05/25/781-rocket-man-florida-landmarks-presidential-decisions-global-geography-the-quiz/",
-        "publishedAt": "2026-05-25T07:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "781"
-      },
-      {
-        "title": "AI rally drives best run in global momentum stocks on record",
-        "description": "Bulls say the AI frenzy can continue luring money into the market’s biggest winners, though some caution that the scale of the outperformance is a warning sign",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/ai-rally-drives-best-run-in-global-momentum-stocks-on-record",
-        "publishedAt": "2026-05-25T04:44:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gold jumps as prospects of Iran deal temper inflation concerns",
-        "description": "Gold prices rise 1.6% to $4,580 as US-Iran deal prospects ease inflation worries amid ongoing negotiations.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
-        "publishedAt": "2026-05-25T03:50:59Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1.6"
-      },
-      {
-        "title": "Marco Rubio Tell Indians: U.S. Migration Policy Must Be Pro-American",
-        "description": "Secretary of State Marco Rubio has rebuffed Indians' angry criticisms of President Donald Trump's migration policy, which threatens to curb the movement of many Indians into Americans' neighborhoods, jobs, and schools. \nThe post Marco Rubio Tell Indians: U.S.…",
-        "url": "https://www.breitbart.com/economy/2026/05/24/rubio-tell-indians-u-s-migration-policy-must-be-pro-american/",
-        "publishedAt": "2026-05-24T22:59:04Z",
+        "title": "Dem Rep. Dean: I'm Not So Much Against Trump, Just 'Against Everything He Is Doing, Everything He Is Standing For'",
+        "description": "On Monday’s broadcast of “CNN News Central,” Rep. Madeleine Dean (D-PA) said that she is “not so much against Mr. Trump. I’m against the things he has done and those who have enabled it.” And stated that “it’s less about\nThe post Dem Rep. Dean: I’m Not So Muc…",
+        "url": "https://www.breitbart.com/clips/2026/05/25/dem-rep-dean-im-not-so-much-against-trump-just-against-everything-he-is-doing-everything-he-is-standing-for/",
+        "publishedAt": "2026-05-25T16:05:18Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm",
-        "description": "Maritime tracking signals collapse near the UAE's Fujairah oil hub hours before President Trump announced progress on a bilateral peace deal with Iran, according to an AI maritime firm.",
-        "url": "https://www.foxnews.com/world/mass-tanker-blackout-rattles-gulf-ahead-1-35m-barrel-oil-transfer-amid-us-iran-talks-firm",
-        "publishedAt": "2026-05-24T20:11:58Z",
+        "title": "Google CEO Sundar Pichai: Graduates Booing AI Cheerleaders Will 'Deal with the Impact' of Technology",
+        "description": "Google CEO Sundar Pichai is preparing to face potential backlash from graduates worried about AI as he gets ready to deliver the commencement address at Stanford University next month.\nThe post Google CEO Sundar Pichai: Graduates Booing AI Cheerleaders Will ‘…",
+        "url": "https://www.breitbart.com/tech/2026/05/25/google-ceo-sundar-pichai-graduates-booing-ai-cheerleaders-will-deal-with-the-impact-of-technology/",
+        "publishedAt": "2026-05-25T15:58:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal",
+        "description": "Oil prices fell sharply and global stocks jumped on Monday as investors cheered the prospects of a peace deal between the U.S. and Iran.\nThe post Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/05/25/oil-plunges-stocks-surge/",
+        "publishedAt": "2026-05-25T14:55:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rubio pushes back on India's concerns over US visa curbs, says policy must be 'America First' under Trump",
+        "description": "Secretary of State Marco Rubio says Trump's immigration reforms are not targeted at India but applied globally during a news conference in New Delhi.",
+        "url": "https://www.foxnews.com/politics/rubio-pushes-back-indias-concerns-us-visa-curbs-says-policy-must-america-first-trump",
+        "publishedAt": "2026-05-25T14:40:10Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "1.35"
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democrats are powered by high gas prices, forgetting they loved expensive energy",
+        "description": "Gas prices spike amid the Iran conflict, but Trump says the pain won't last long as America weighs trade-offs between energy costs and security.",
+        "url": "https://www.foxnews.com/opinion/democrats-powered-high-gas-prices-forgetting-loved-expensive-energy",
+        "publishedAt": "2026-05-25T13:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": [
+      {
+        "title": "Iran Sends Negotiators to Qatar, Complaining That U.S. Demands Are 'Excessive'",
+        "description": "Iranian Parliament Speaker Mohammad Baqer Qalibaf and Foreign Minister Abbas Araghchi are in Doha, Qatar, as of Monday for negotiations with neighboring states in the service of finalizing a peace agreement with the United States.\nThe post Iran Sends Negotiat…",
+        "url": "https://www.breitbart.com/middle-east/2026/05/25/iran-sends-negotiators-to-qatar-complaining-that-u-s-demands-are-excessive/",
+        "publishedAt": "2026-05-25T15:04:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal",
+        "description": "Oil prices fell sharply and global stocks jumped on Monday as investors cheered the prospects of a peace deal between the U.S. and Iran.\nThe post Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/05/25/oil-plunges-stocks-surge/",
+        "publishedAt": "2026-05-25T14:55:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rubio pushes back on India's concerns over US visa curbs, says policy must be 'America First' under Trump",
+        "description": "Secretary of State Marco Rubio says Trump's immigration reforms are not targeted at India but applied globally during a news conference in New Delhi.",
+        "url": "https://www.foxnews.com/politics/rubio-pushes-back-indias-concerns-us-visa-curbs-says-policy-must-america-first-trump",
+        "publishedAt": "2026-05-25T14:40:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chicago Police Chief Faces Felony Charges for Allegedly Selling Crime Guns",
+        "description": "Chicago police chief Earl D. Mayo faces felony charges over accusations that he sold guns from police investigations to a pawn shop in Indiana.\nThe post Chicago Police Chief Faces Felony Charges for Allegedly Selling Crime Guns appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/25/chicago-police-chief-faces-felony-charges-for-allegedly-selling-crime-guns/",
+        "publishedAt": "2026-05-25T14:18:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democrats are powered by high gas prices, forgetting they loved expensive energy",
+        "description": "Gas prices spike amid the Iran conflict, but Trump says the pain won't last long as America weighs trade-offs between energy costs and security.",
+        "url": "https://www.foxnews.com/opinion/democrats-powered-high-gas-prices-forgetting-loved-expensive-energy",
+        "publishedAt": "2026-05-25T13:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
       }
     ]
   },
