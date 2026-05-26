@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-05-26T16:12:36.528050+00:00",
+  "generated_at": "2026-05-26T18:37:27.619127+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Dem Rep. Dean: I'm Not So Much Against Trump, Just 'Against Everything He Is Doing, Everything He Is Standing For'",
-        "description": "On Monday’s broadcast of “CNN News Central,” Rep. Madeleine Dean (D-PA) said that she is “not so much against Mr. Trump. I’m against the things he has done and those who have enabled it.” And stated that “it’s less about\nThe post Dem Rep. Dean: I’m Not So Muc…",
-        "url": "https://www.breitbart.com/clips/2026/05/25/dem-rep-dean-im-not-so-much-against-trump-just-against-everything-he-is-doing-everything-he-is-standing-for/",
-        "publishedAt": "2026-05-25T16:05:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Google CEO Sundar Pichai: Graduates Booing AI Cheerleaders Will 'Deal with the Impact' of Technology",
-        "description": "Google CEO Sundar Pichai is preparing to face potential backlash from graduates worried about AI as he gets ready to deliver the commencement address at Stanford University next month.\nThe post Google CEO Sundar Pichai: Graduates Booing AI Cheerleaders Will ‘…",
-        "url": "https://www.breitbart.com/tech/2026/05/25/google-ceo-sundar-pichai-graduates-booing-ai-cheerleaders-will-deal-with-the-impact-of-technology/",
-        "publishedAt": "2026-05-25T15:58:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal",
-        "description": "Oil prices fell sharply and global stocks jumped on Monday as investors cheered the prospects of a peace deal between the U.S. and Iran.\nThe post Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/25/oil-plunges-stocks-surge/",
-        "publishedAt": "2026-05-25T14:55:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rubio pushes back on India's concerns over US visa curbs, says policy must be 'America First' under Trump",
-        "description": "Secretary of State Marco Rubio says Trump's immigration reforms are not targeted at India but applied globally during a news conference in New Delhi.",
-        "url": "https://www.foxnews.com/politics/rubio-pushes-back-indias-concerns-us-visa-curbs-says-policy-must-america-first-trump",
-        "publishedAt": "2026-05-25T14:40:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrats are powered by high gas prices, forgetting they loved expensive energy",
-        "description": "Gas prices spike amid the Iran conflict, but Trump says the pain won't last long as America weighs trade-offs between energy costs and security.",
-        "url": "https://www.foxnews.com/opinion/democrats-powered-high-gas-prices-forgetting-loved-expensive-energy",
-        "publishedAt": "2026-05-25T13:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iran Sends Negotiators to Qatar, Complaining That U.S. Demands Are 'Excessive'",
-        "description": "Iranian Parliament Speaker Mohammad Baqer Qalibaf and Foreign Minister Abbas Araghchi are in Doha, Qatar, as of Monday for negotiations with neighboring states in the service of finalizing a peace agreement with the United States.\nThe post Iran Sends Negotiat…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/25/iran-sends-negotiators-to-qatar-complaining-that-u-s-demands-are-excessive/",
-        "publishedAt": "2026-05-25T15:04:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal",
-        "description": "Oil prices fell sharply and global stocks jumped on Monday as investors cheered the prospects of a peace deal between the U.S. and Iran.\nThe post Oil Prices Plunge and Stocks Soar on Hopes for Iran Deal appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/25/oil-plunges-stocks-surge/",
-        "publishedAt": "2026-05-25T14:55:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rubio pushes back on India's concerns over US visa curbs, says policy must be 'America First' under Trump",
-        "description": "Secretary of State Marco Rubio says Trump's immigration reforms are not targeted at India but applied globally during a news conference in New Delhi.",
-        "url": "https://www.foxnews.com/politics/rubio-pushes-back-indias-concerns-us-visa-curbs-says-policy-must-america-first-trump",
-        "publishedAt": "2026-05-25T14:40:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chicago Police Chief Faces Felony Charges for Allegedly Selling Crime Guns",
-        "description": "Chicago police chief Earl D. Mayo faces felony charges over accusations that he sold guns from police investigations to a pawn shop in Indiana.\nThe post Chicago Police Chief Faces Felony Charges for Allegedly Selling Crime Guns appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/25/chicago-police-chief-faces-felony-charges-for-allegedly-selling-crime-guns/",
-        "publishedAt": "2026-05-25T14:18:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrats are powered by high gas prices, forgetting they loved expensive energy",
-        "description": "Gas prices spike amid the Iran conflict, but Trump says the pain won't last long as America weighs trade-offs between energy costs and security.",
-        "url": "https://www.foxnews.com/opinion/democrats-powered-high-gas-prices-forgetting-loved-expensive-energy",
-        "publishedAt": "2026-05-25T13:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
