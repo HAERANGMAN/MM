@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-26T01:32:37.515665+00:00",
+  "generated_at": "2026-05-26T05:47:37.040935+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Three key reasons why America cannot afford to lose Taiwan to Communist China",
+        "description": "Taiwan's importance to America goes far beyond semiconductors, encompassing geography, diplomacy and the symbolism of democracy near China's coast.",
+        "url": "https://www.foxnews.com/opinion/three-key-reasons-america-cannot-afford-lose-taiwan-communist-china",
+        "publishedAt": "2026-05-24T12:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "AI rally drives best run in global momentum stocks on record",
+        "description": "Bulls say the AI frenzy can continue luring money into the market’s biggest winners, though some caution that the scale of the outperformance is a warning sign",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/ai-rally-drives-best-run-in-global-momentum-stocks-on-record",
+        "publishedAt": "2026-05-25T04:44:51Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rupee climbs 0.4% to 95.3425 on oil relief, RBI valuation comment",
+        "description": "The currency may now be undervalued following its recent slide versus the dollar, RBI Governor Sanjay Malhotra said",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/india-rupee-climbs-on-oil-relief-central-bank-valuation-comment",
+        "publishedAt": "2026-05-25T04:20:58Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.4"
+      },
+      {
+        "title": "The rupee may be undervalued, Sanjay Malhotra tells Mint",
+        "description": "A gauge of the rupee’s competitiveness against other currencies stood at 90.96 in April, showing the currency is likely undervalued against peers",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/india-rupee-may-be-undervalued-rbi-governor-tells-mint",
+        "publishedAt": "2026-05-25T03:52:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "90.96"
+      },
+      {
+        "title": "Gold jumps as prospects of Iran deal temper inflation concerns",
+        "description": "Gold prices rise 1.6% to $4,580 as US-Iran deal prospects ease inflation worries amid ongoing negotiations.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
+        "publishedAt": "2026-05-25T03:50:59Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "1.6"
+      },
+      {
+        "title": "Knicks fans already paying nearly $280K for courtside NBA Finals tickets as team nears historic berth",
+        "description": "Two courtside tickets at Madison Square Garden for the Knicks' potential NBA Finals Game 3 sold for a staggering $279,804 on the secondary market.",
+        "url": "https://www.foxnews.com/sports/knicks-fans-already-paying-nearly-280k-courtside-nba-finals-tickets-team-nears-historic-berth",
+        "publishedAt": "2026-05-25T01:02:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Three key reasons why America cannot afford to lose Taiwan to Communist China",
+        "description": "Taiwan's importance to America goes far beyond semiconductors, encompassing geography, diplomacy and the symbolism of democracy near China's coast.",
+        "url": "https://www.foxnews.com/opinion/three-key-reasons-america-cannot-afford-lose-taiwan-communist-china",
+        "publishedAt": "2026-05-24T12:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "AI rally drives best run in global momentum stocks on record",
+        "description": "Bulls say the AI frenzy can continue luring money into the market’s biggest winners, though some caution that the scale of the outperformance is a warning sign",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/ai-rally-drives-best-run-in-global-momentum-stocks-on-record",
+        "publishedAt": "2026-05-25T04:44:51Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gold jumps as prospects of Iran deal temper inflation concerns",
+        "description": "Gold prices rise 1.6% to $4,580 as US-Iran deal prospects ease inflation worries amid ongoing negotiations.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
+        "publishedAt": "2026-05-25T03:50:59Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "1.6"
+      },
+      {
+        "title": "Marco Rubio Tell Indians: U.S. Migration Policy Must Be Pro-American",
+        "description": "Secretary of State Marco Rubio has rebuffed Indians' angry criticisms of President Donald Trump's migration policy, which threatens to curb the movement of many Indians into Americans' neighborhoods, jobs, and schools. \nThe post Marco Rubio Tell Indians: U.S.…",
+        "url": "https://www.breitbart.com/economy/2026/05/24/rubio-tell-indians-u-s-migration-policy-must-be-pro-american/",
+        "publishedAt": "2026-05-24T22:59:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm",
+        "description": "Maritime tracking signals collapse near the UAE's Fujairah oil hub hours before President Trump announced progress on a bilateral peace deal with Iran, according to an AI maritime firm.",
+        "url": "https://www.foxnews.com/world/mass-tanker-blackout-rattles-gulf-ahead-1-35m-barrel-oil-transfer-amid-us-iran-talks-firm",
+        "publishedAt": "2026-05-24T20:11:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1.35"
+      },
+      {
+        "title": "Gordon Ramsay says the ‘most important thing’ he taught his 6 kids had nothing to do with cooking",
+        "description": "Gordon Ramsay tells Fox News Digital at the FOX Upfront 2026 red carpet the most important lesson he teaches his six children, he shares with wife Tana.",
+        "url": "https://www.foxnews.com/entertainment/gordon-ramsay-important-thing-taught-6-kids-cooking",
+        "publishedAt": "2026-05-24T18:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "6"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
