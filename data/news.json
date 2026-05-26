@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T05:47:37.040935+00:00",
+  "generated_at": "2026-05-26T08:58:16.141335+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Akasa Air adds flights while Iran war crimps rivals",
+        "description": "While IndiGo, Air India and Air India Express reduced services by 6%, Akasa Air expanded capacity by 13.2% per cent in March and April",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/india-s-youngest-airline-adds-flights-while-iran-war-crimps-rivals",
+        "publishedAt": "2026-05-25T06:00:56Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "6"
+      },
       {
         "title": "AI rally drives best run in global momentum stocks on record",
         "description": "Bulls say the AI frenzy can continue luring money into the market’s biggest winners, though some caution that the scale of the outperformance is a warning sign",
@@ -54,16 +64,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "1.6"
-      },
-      {
-        "title": "Knicks fans already paying nearly $280K for courtside NBA Finals tickets as team nears historic berth",
-        "description": "Two courtside tickets at Madison Square Garden for the Knicks' potential NBA Finals Game 3 sold for a staggering $279,804 on the secondary market.",
-        "url": "https://www.foxnews.com/sports/knicks-fans-already-paying-nearly-280k-courtside-nba-finals-tickets-team-nears-historic-berth",
-        "publishedAt": "2026-05-25T01:02:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "#781 – “Rocket Man” – Florida Landmarks, Presidential Decisions & Global Geography | The Quiz",
+        "description": "In today’s episode of The Quiz, we’re blasting off to test your knowledge on everything from legendary Hollywood stars to major moments in American wartime history. Can you answer these? Florida Landmarks: We take a drive down south to look at a famous stretc…",
+        "url": "https://radio.foxnews.com/2026/05/25/781-rocket-man-florida-landmarks-presidential-decisions-global-geography-the-quiz/",
+        "publishedAt": "2026-05-25T07:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "781"
+      },
       {
         "title": "AI rally drives best run in global momentum stocks on record",
         "description": "Bulls say the AI frenzy can continue luring money into the market’s biggest winners, though some caution that the scale of the outperformance is a warning sign",
@@ -119,16 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "1.35"
-      },
-      {
-        "title": "Gordon Ramsay says the ‘most important thing’ he taught his 6 kids had nothing to do with cooking",
-        "description": "Gordon Ramsay tells Fox News Digital at the FOX Upfront 2026 red carpet the most important lesson he teaches his six children, he shares with wife Tana.",
-        "url": "https://www.foxnews.com/entertainment/gordon-ramsay-important-thing-taught-6-kids-cooking",
-        "publishedAt": "2026-05-24T18:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "6"
       }
     ]
   },
