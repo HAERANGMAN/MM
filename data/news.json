@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-27T05:59:53.323486+00:00",
+  "generated_at": "2026-05-27T10:13:03.064593+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Trump pushed NATO to spend big — now comes the harder question: Can Europe actually fight?",
+        "description": "NATO defense spending hits Cold War highs after pressure from Trump and Russia's war in Ukraine, but experts say real military capability still lags.",
+        "url": "https://www.foxnews.com/politics/trump-pushed-nato-spend-big-now-comes-harder-question-can-europe-actually-fight",
+        "publishedAt": "2026-05-26T10:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trump pushed NATO to spend big — now comes the harder question: Can Europe actually fight?",
+        "description": "NATO defense spending hits Cold War highs after pressure from Trump and Russia's war in Ukraine, but experts say real military capability still lags.",
+        "url": "https://www.foxnews.com/politics/trump-pushed-nato-spend-big-now-comes-harder-question-can-europe-actually-fight",
+        "publishedAt": "2026-05-26T10:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Is farm-raised fish really worse than wild-caught seafood? Experts sounds off",
+        "description": "Wild-caught vs. farm-raised fish: Experts weigh in on omega-3 content, mercury levels, labeling confusion and how to choose the best seafood option.",
+        "url": "https://www.foxnews.com/food-drink/farm-raised-fish-really-worse-than-wild-caught-seafood-experts-sounds-off",
+        "publishedAt": "2026-05-26T10:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "CNBC anchor thinks CEOs are 'very scared' to criticize Trump because the fear of retaliation",
+        "description": "CNBC's Andrew Ross Sorkin told '60 Minutes' he believes a crash will happen, comparing current conditions to 1929 as CEOs stay silent on Trump policies.",
+        "url": "https://www.foxnews.com/media/cnbc-anchor-thinks-ceos-very-scared-criticize-trump-because-fear-retaliation",
+        "publishedAt": "2026-05-26T10:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "Trump-backed candidates score major boost from deep-pocketed AI Super PAC in upcoming primaries",
+        "description": "A pro-AI super PAC with over $125 million raised in 2025 is investing heavily in upcoming Senate and House primaries across multiple states.",
+        "url": "https://www.foxnews.com/politics/trump-backed-candidates-score-major-boost-deep-pocketed-ai-super-pac-upcoming-primaries",
+        "publishedAt": "2026-05-26T09:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump understands what Washington politicians forgot: Cuba is a major threat to America",
+        "description": "Trump's Cuba strategy targets GAESA sanctions, Raul Castro's indictment, and the LIBERTAD Act to confront the regime as a threat to American security.",
+        "url": "https://www.foxnews.com/opinion/trump-understands-washington-politicians-forgot-cuba-major-threat-america",
+        "publishedAt": "2026-05-26T09:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Inside Cuba’s foreign influence campaign: From the Venceremos Brigade of the 1960s to Saturday in a union hall",
+        "description": "Federal officials are probing Cuban Embassy diplomat David Ramírez Álvarez for allegedly coordinating a malign foreign influence campaign on U.S. soil.",
+        "url": "https://www.foxnews.com/politics/inside-cubas-foreign-influence-campaign-from-venceremos-brigade-1960s-saturday-union-hall",
+        "publishedAt": "2026-05-26T10:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1960"
+      },
+      {
+        "title": "The day after Memorial Day, America’s debt to the fallen still remains",
+        "description": "Memorial Day asks Americans to confront a hard truth: freedom was built through sacrifice, and honoring the fallen requires more than remembrance.",
+        "url": "https://www.foxnews.com/opinion/day-memorial-day-americas-debt-fallen-still-remains",
+        "publishedAt": "2026-05-26T09:00:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stocks pare gain, oil climbs as US strikes Iran: Markets Wrap",
+        "description": "The dollar strengthened against all its Group-of-10 peers, while gold erased earlier gains to fall 0.5% to about $4,545 an ounce",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/asian-stocks-set-to-extend-gains-on-us-iran-hopes-markets-wrap",
+        "publishedAt": "2026-05-26T03:59:42Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Quad diplomats meet in New Delhi to revive group after Trump tension",
+        "description": "Maritime security, supply chains, critical technologies and Indo-Pacific coordination top the agenda for the foreign ministers of the US, Japan, Australia and India would focus on",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-26/quad-diplomats-meet-in-india-to-revive-group-after-trump-tension",
+        "publishedAt": "2026-05-26T03:51:43Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Jacob Frey criticized for remembering George Floyd on Memorial Day, six years after death sparked riots",
+        "description": "Minneapolis Mayor Jacob Frey receives pushback for his social media post remembering George Floyd on Memorial Day, the sixth anniversary of his death.",
+        "url": "https://www.foxnews.com/us/jacob-frey-criticized-remembering-george-floyd-memorial-day-six-years-death-sparked-riots",
+        "publishedAt": "2026-05-26T00:04:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
