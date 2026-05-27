@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:13:03.064593+00:00",
+  "generated_at": "2026-05-27T13:49:23.735850+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Ozempic-style drugs linked to major slowdown in cancer spread, new study finds",
+        "description": "A Cleveland Clinic study finds Ozempic-style GLP-1 drugs may significantly slow the spread of several obesity-related cancers, including lung cancer.",
+        "url": "https://www.foxnews.com/health/ozempic-style-drugs-linked-major-slowdown-cancer-spread-new-study-finds",
+        "publishedAt": "2026-05-26T11:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
       {
         "title": "Trump pushed NATO to spend big — now comes the harder question: Can Europe actually fight?",
         "description": "NATO defense spending hits Cold War highs after pressure from Trump and Russia's war in Ukraine, but experts say real military capability still lags.",
@@ -54,21 +64,31 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Trump understands what Washington politicians forgot: Cuba is a major threat to America",
-        "description": "Trump's Cuba strategy targets GAESA sanctions, Raul Castro's indictment, and the LIBERTAD Act to confront the regime as a threat to American security.",
-        "url": "https://www.foxnews.com/opinion/trump-understands-washington-politicians-forgot-cuba-major-threat-america",
-        "publishedAt": "2026-05-26T09:00:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Bryson DeChambeau insists he is ‘optimistic’ about the future of LIV Golf despite Saudis pulling funding",
+        "description": "Bryson DeChambeau beats the drum for LIV Golf's team model ahead of the Korea event, saying one door closes and another opens after PIF pullout.",
+        "url": "https://www.foxnews.com/outkick-sports/bryson-dechambeau-insists-optimistic-future-liv-golf-despite-saudis-pulling-funding",
+        "publishedAt": "2026-05-26T12:05:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Any new Iran deal should be judged by results, not victory-lap rhetoric",
+        "description": "America achieved battlefield dominance over Iran, but the emerging nuclear deal may repeat the mistakes of the 2015 JCPOA by deferring key questions.",
+        "url": "https://www.foxnews.com/opinion/any-new-iran-deal-should-be-judged-by-results-not-victory-lap-rhetoric",
+        "publishedAt": "2026-05-26T11:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2015"
+      },
       {
         "title": "Inside Cuba’s foreign influence campaign: From the Venceremos Brigade of the 1960s to Saturday in a union hall",
         "description": "Federal officials are probing Cuban Embassy diplomat David Ramírez Álvarez for allegedly coordinating a malign foreign influence campaign on U.S. soil.",
@@ -98,26 +118,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "10"
-      },
-      {
-        "title": "Quad diplomats meet in New Delhi to revive group after Trump tension",
-        "description": "Maritime security, supply chains, critical technologies and Indo-Pacific coordination top the agenda for the foreign ministers of the US, Japan, Australia and India would focus on",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-26/quad-diplomats-meet-in-india-to-revive-group-after-trump-tension",
-        "publishedAt": "2026-05-26T03:51:43Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jacob Frey criticized for remembering George Floyd on Memorial Day, six years after death sparked riots",
-        "description": "Minneapolis Mayor Jacob Frey receives pushback for his social media post remembering George Floyd on Memorial Day, the sixth anniversary of his death.",
-        "url": "https://www.foxnews.com/us/jacob-frey-criticized-remembering-george-floyd-memorial-day-six-years-death-sparked-riots",
-        "publishedAt": "2026-05-26T00:04:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
