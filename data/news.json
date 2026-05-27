@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T13:49:23.735850+00:00",
+  "generated_at": "2026-05-27T16:54:54.074480+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,36 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Exclusive — Sen. Tom Cotton Targets Cybersecurity Risks of Medical Devices Made in China",
+        "description": "Sen. Tom Cotton (R-AR) voiced concerns to the Food and Drug Administration (FDA) on Tuesday about cybersecurity issues with networked medical devices made in China.\nThe post Exclusive — Sen. Tom Cotton Targets Cybersecurity Risks of Medical Devices Made in Ch…",
+        "url": "https://www.breitbart.com/politics/2026/05/26/exclusive-sen-tom-cotton-targets-cybersecurity-risks-of-medical-devices-made-in-china/",
+        "publishedAt": "2026-05-26T15:59:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'Remove the Prancing Horse': Ferrari Shares Drop 5% After Former Boss Slams Electric Vehicle",
+        "description": "Italian luxury automaker Ferrari saw its stock price tumble on Tuesday after unveiling the Luce, the company's first fully electric vehicle, marking a significant shift in the brand's traditional approach. Former Ferrari Chairman Luca Cordero di Montezemolo s…",
+        "url": "https://www.breitbart.com/tech/2026/05/26/remove-the-prancing-horse-ferrari-shares-drop-5-after-former-boss-slams-electric-vehicle/",
+        "publishedAt": "2026-05-26T15:57:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "FTC reveals where spam calls hit hardest",
+        "description": "Over 2.6 million Do Not Call complaints were filed with the FTC, with robocalls dominating. Here are the top states affected and how to stay safe.",
+        "url": "https://www.foxnews.com/tech/ftc-reveals-spam-calls-hit-hardest",
+        "publishedAt": "2026-05-26T13:57:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2.6"
+      },
       {
         "title": "Ozempic-style drugs linked to major slowdown in cancer spread, new study finds",
         "description": "A Cleveland Clinic study finds Ozempic-style GLP-1 drugs may significantly slow the spread of several obesity-related cancers, including lung cancer.",
@@ -34,41 +64,41 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Is farm-raised fish really worse than wild-caught seafood? Experts sounds off",
-        "description": "Wild-caught vs. farm-raised fish: Experts weigh in on omega-3 content, mercury levels, labeling confusion and how to choose the best seafood option.",
-        "url": "https://www.foxnews.com/food-drink/farm-raised-fish-really-worse-than-wild-caught-seafood-experts-sounds-off",
-        "publishedAt": "2026-05-26T10:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "CNBC anchor thinks CEOs are 'very scared' to criticize Trump because the fear of retaliation",
-        "description": "CNBC's Andrew Ross Sorkin told '60 Minutes' he believes a crash will happen, comparing current conditions to 1929 as CEOs stay silent on Trump policies.",
-        "url": "https://www.foxnews.com/media/cnbc-anchor-thinks-ceos-very-scared-criticize-trump-because-fear-retaliation",
-        "publishedAt": "2026-05-26T10:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Trump-backed candidates score major boost from deep-pocketed AI Super PAC in upcoming primaries",
-        "description": "A pro-AI super PAC with over $125 million raised in 2025 is investing heavily in upcoming Senate and House primaries across multiple states.",
-        "url": "https://www.foxnews.com/politics/trump-backed-candidates-score-major-boost-deep-pocketed-ai-super-pac-upcoming-primaries",
-        "publishedAt": "2026-05-26T09:00:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "World's humanitarian system buckling, 'no longer fit for purpose,' US-based researchers say",
+        "description": "A new Lancet report argues the global humanitarian system needs major reform as crises around the world overwhelm current aid delivery.",
+        "url": "https://www.foxnews.com/world/worlds-humanitarian-system-buckling-no-longer-fit-purpose-us-based-researchers-say",
+        "publishedAt": "2026-05-26T16:42:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nolte: Early Box Office Projections for ‘Supergirl’ Are Disastrous",
+        "description": "\"Supergirl: Woman of Tomorrow\" is looking at a $47 million to $65 million opening, which would be a disaster for a superhero tentpole that costs $175 million to produce and at least another $75 million to promote. | Entertainment \"Supergirl\" is looking at a $…",
+        "url": "https://www.breitbart.com/entertainment/2026/05/26/nolte-early-box-office-projections-for-supergirl-are-disastrous/",
+        "publishedAt": "2026-05-26T16:28:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Alleged Burglar Surrenders After Woman Puts Him in Leg Lock",
+        "description": "An alleged burglar in Kansas gave up early Sunday morning after a woman saw him going through her car and placed him in a leg lock. \nThe post Alleged Burglar Surrenders After Woman Puts Him in Leg Lock appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/26/alleged-burglar-surrenders-after-woman-puts-him-leg-lock/",
+        "publishedAt": "2026-05-26T14:50:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Bryson DeChambeau insists he is ‘optimistic’ about the future of LIV Golf despite Saudis pulling funding",
         "description": "Bryson DeChambeau beats the drum for LIV Golf's team model ahead of the Korea event, saying one door closes and another opens after PIF pullout.",
@@ -88,36 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "2015"
-      },
-      {
-        "title": "Inside Cuba’s foreign influence campaign: From the Venceremos Brigade of the 1960s to Saturday in a union hall",
-        "description": "Federal officials are probing Cuban Embassy diplomat David Ramírez Álvarez for allegedly coordinating a malign foreign influence campaign on U.S. soil.",
-        "url": "https://www.foxnews.com/politics/inside-cubas-foreign-influence-campaign-from-venceremos-brigade-1960s-saturday-union-hall",
-        "publishedAt": "2026-05-26T10:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1960"
-      },
-      {
-        "title": "The day after Memorial Day, America’s debt to the fallen still remains",
-        "description": "Memorial Day asks Americans to confront a hard truth: freedom was built through sacrifice, and honoring the fallen requires more than remembrance.",
-        "url": "https://www.foxnews.com/opinion/day-memorial-day-americas-debt-fallen-still-remains",
-        "publishedAt": "2026-05-26T09:00:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stocks pare gain, oil climbs as US strikes Iran: Markets Wrap",
-        "description": "The dollar strengthened against all its Group-of-10 peers, while gold erased earlier gains to fall 0.5% to about $4,545 an ounce",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/asian-stocks-set-to-extend-gains-on-us-iran-hopes-markets-wrap",
-        "publishedAt": "2026-05-26T03:59:42Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
       }
     ]
   },
