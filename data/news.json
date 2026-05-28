@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:58:13.173782+00:00",
+  "generated_at": "2026-05-28T22:00:09.248253+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,124 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Breitbart Business Digest: Businesses Are Betting on a Boom",
-        "description": "Gloom and doom is everywhere these days — except in the economic data or in business planning meetings.\nThe post Breitbart Business Digest: Businesses Are Betting on a Boom appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/27/breitbart-business-digest-businesses-are-betting-on-a-boom/",
-        "publishedAt": "2026-05-27T19:34:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Punk rock Dachsund goes rogue, Yeti cup vs lava, and was the sci-fi horror classic 'Alien' a cautionary tale?",
-        "description": "Bryce Harper gets toothpaste shamed on the Padres Jumbotron, a Yeti cup withstands molten lava, and a dachshund rebels at a dog agility competition.",
-        "url": "https://www.foxnews.com/outkick-culture/punk-rock-dachsund-goes-rogue-yeti-cup-vs-lava-sci-fi-horror-classic-alien-cautionary-tale",
-        "publishedAt": "2026-05-27T19:32:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hayward: Pope Leo’s ‘Magnifica Humanitas’ — The Word Became Flesh, But Can It Become Code?",
-        "description": "Pope Leo XIV’s encyclical Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence is unusual in its intense focus on a single new technology.\nThe post Hayward: Pope Leo’s ‘Magnifica Humanitas’ — The Word Became Flesh, But …",
-        "url": "https://www.breitbart.com/faith/2026/05/27/hayward-pope-leos-magnifica-humanitas-the-word-became-flesh-but-can-it-become-code/",
-        "publishedAt": "2026-05-27T19:08:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "ER doctor reveals how pneumonia can suddenly turn deadly after Kyle Busch’s death",
-        "description": "Kyle Busch's passing spotlights how pneumonia can lead to fatal sepsis. A doctor explains the warning signs and when to seek emergency care.",
-        "url": "https://www.foxnews.com/health/er-doctor-reveals-pneumonia-suddenly-turn-deadly-kyle-buschs-death",
-        "publishedAt": "2026-05-27T18:41:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DuckDuckGo Installs Surge 30% as Consumers Reject Google 'Force-Feeding' AI with Search Engine",
-        "description": "DuckDuckGo, which positions itself as a privacy-focused alternative to Google, has experienced a significant increase in user adoption following the search giant's announcement of major changes to its search platform that heavily incorporate AI.\nThe post Duck…",
-        "url": "https://www.breitbart.com/tech/2026/05/27/duckduckgo-installs-surge-30-as-consumers-reject-google-force-feeding-ai-with-search-engine/",
-        "publishedAt": "2026-05-27T18:33:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "30"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Pakistan: America’s most complicated ally — and why Trump is betting on it again",
-        "description": "Pakistan's army chief has become a key player in U.S.-Iran negotiations, reviving long-standing debates over whether Washington can trust Islamabad.",
-        "url": "https://www.foxnews.com/politics/pakistan-americas-most-complicated-ally-why-trump-betting-again",
-        "publishedAt": "2026-05-27T09:00:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Hayward: Pope Leo’s ‘Magnifica Humanitas’ — The Word Became Flesh, But Can It Become Code?",
-        "description": "Pope Leo XIV’s encyclical Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence is unusual in its intense focus on a single new technology.\nThe post Hayward: Pope Leo’s ‘Magnifica Humanitas’ — The Word Became Flesh, But …",
-        "url": "https://www.breitbart.com/faith/2026/05/27/hayward-pope-leos-magnifica-humanitas-the-word-became-flesh-but-can-it-become-code/",
-        "publishedAt": "2026-05-27T19:08:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Suspect in viral monk seal harassment video says he was doxxed as federal court fight begins",
-        "description": "Tourist Igor Lytvynchuk allegedly threw a rock at a Hawaiian monk seal in Maui and now faces federal harassment charges in court.",
-        "url": "https://www.foxnews.com/us/suspect-viral-monk-seal-harassment-video-says-doxxed-federal-court-fight-begins",
-        "publishedAt": "2026-05-27T18:20:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US ally pledges support for Trump's push to break Iran's grip on Hormuz: 'We are ready to contribute'",
-        "description": "Czech Foreign Minister Macinka voices strong support for Trump, defends increased European defense spending and warns Iran poses a global nuclear threat.",
-        "url": "https://www.foxnews.com/world/us-ally-pledges-support-trumps-push-break-irans-grip-hormuz-we-ready-contribute",
-        "publishedAt": "2026-05-27T17:35:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Minnesota Teen Shot Dead After Posting Photo of Cash on Instagram",
-        "description": "A North Mankato, Minnesota, teenager was shot and killed Saturday night after posting a video of himself on steps with a bag of $100 bills sitting beside him.\nThe post Minnesota Teen Shot Dead After Posting Photo of Cash on Instagram appeared first on Breitba…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/27/minnesota-teen-shot-dead-after-posting-photo-of-cash-on-instagram/",
-        "publishedAt": "2026-05-27T16:10:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Taylor Sheridan's new 'Yellowstone' spinoff 'Dutton Ranch' sets ratings record with premiere",
-        "description": "Dutton Ranch sets a Paramount+ record as the largest original series premiere ever, with 12.9 million global viewers tuning in during its first week.",
-        "url": "https://www.foxnews.com/outkick-culture/taylor-sheridans-new-yellowstone-spinoff-dutton-ranch-sets-ratings-record-premiere",
-        "publishedAt": "2026-05-27T15:04:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "12.9"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
