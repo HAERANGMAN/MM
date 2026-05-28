@@ -1,20 +1,147 @@
 {
-  "generated_at": "2026-05-28T10:41:21.409385+00:00",
+  "generated_at": "2026-05-28T14:24:10.166857+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "China Brags About Dominating U.S. World Cup Knickknack Manufacturing",
+        "description": "The Chinese state newspaper Global Times published an article on Tuesday celebrating that Chinese manufacturers were dominating the market for FIFA World Cup branded products, from soccer balls to team jerseys.\nThe post China Brags About Dominating U.S. World…",
+        "url": "https://www.breitbart.com/asia/2026/05/27/china-brags-about-dominating-u-s-world-cup-knickknack-manufacturing/",
+        "publishedAt": "2026-05-27T13:34:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pakistan: America’s most complicated ally — and why Trump is betting on it again",
+        "description": "Pakistan's army chief has become a key player in U.S.-Iran negotiations, reviving long-standing debates over whether Washington can trust Islamabad.",
+        "url": "https://www.foxnews.com/politics/pakistan-americas-most-complicated-ally-why-trump-betting-again",
+        "publishedAt": "2026-05-27T09:00:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "China Brags About Dominating U.S. World Cup Knickknack Manufacturing",
+        "description": "The Chinese state newspaper Global Times published an article on Tuesday celebrating that Chinese manufacturers were dominating the market for FIFA World Cup branded products, from soccer balls to team jerseys.\nThe post China Brags About Dominating U.S. World…",
+        "url": "https://www.breitbart.com/asia/2026/05/27/china-brags-about-dominating-u-s-world-cup-knickknack-manufacturing/",
+        "publishedAt": "2026-05-27T13:34:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Adani firms extend rally to recoup losses sparked by Hindenburg",
+        "description": "All nine Adani stocks rose Wednesday, led by a 13% surge in Adani Total Gas Ltd. Adani Power Ltd. extended its record rally, taking gains this year to nearly 75%",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/adani-firms-extend-rally-to-recoup-losses-sparked-by-hindenburg",
+        "publishedAt": "2026-05-27T12:36:04Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "13"
+      },
+      {
+        "title": "Treasure hunters find biggest Viking coin hoard in country's history: 'Without parallel'",
+        "description": "Norway's largest Viking coin hoard features 2,970 silver coins minted in England and Germany, reflecting foreign influence on the late Viking economy.",
+        "url": "https://www.foxnews.com/travel/treasure-hunters-find-biggest-viking-coin-hoard-countrys-history-without-parallel",
+        "publishedAt": "2026-05-27T12:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Sleep doctor reveals the brutal health downside of daylight saving time",
+        "description": "Dr. Wendy Troxel says permanent daylight saving time is not supported by science and could harm sleep, mental health and safety for millions of Americans.",
+        "url": "https://www.foxnews.com/health/sleep-doctor-reveals-brutal-health-downside-daylight-saving-time",
+        "publishedAt": "2026-05-27T10:00:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Muslim Faithful Stone the Devil in Final Hajj Ritual as Mass Animal Slaughter Begins",
+        "description": "Muslim faithful took part in the climactic ritual of the annual hajj pilgrimage on Wednesday, symbolically stoning the devil near Mecca.\nThe post Muslim Faithful Stone the Devil in Final Hajj Ritual as Mass Animal Slaughter Begins appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/05/27/muslim-faithful-stone-the-devil-in-final-hajj-ritual/",
+        "publishedAt": "2026-05-27T08:59:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Pakistan: America’s most complicated ally — and why Trump is betting on it again",
+        "description": "Pakistan's army chief has become a key player in U.S.-Iran negotiations, reviving long-standing debates over whether Washington can trust Islamabad.",
+        "url": "https://www.foxnews.com/politics/pakistan-americas-most-complicated-ally-why-trump-betting-again",
+        "publishedAt": "2026-05-27T09:00:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Virginia: Growing Number of Prosecutors Won't Enforce 'Assault Weapons' Ban",
+        "description": "The number of prosecutors who have made clear they will not enforce Virginia’s “assault weapons” ban continues to grow, according to a report by WAVY 10. On Monday of this week, Breitbart News noted that Virginia prosecutor and U.S. Marine veteran Ryan\nThe po…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/27/virginia-growing-number-of-prosecutors-wont-enforce-assault-weapons-ban/",
+        "publishedAt": "2026-05-27T13:38:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "China Brags About Dominating U.S. World Cup Knickknack Manufacturing",
+        "description": "The Chinese state newspaper Global Times published an article on Tuesday celebrating that Chinese manufacturers were dominating the market for FIFA World Cup branded products, from soccer balls to team jerseys.\nThe post China Brags About Dominating U.S. World…",
+        "url": "https://www.breitbart.com/asia/2026/05/27/china-brags-about-dominating-u-s-world-cup-knickknack-manufacturing/",
+        "publishedAt": "2026-05-27T13:34:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump DOJ: 'Large Capacity Magazines' Are 'Actually Standard Issue Magazines'",
+        "description": "Assistant AG for Civil Rights Harmeet Dhillon noted \"large capacity magazines\" are \"standard issue magazines\" during an appearance Tuesday on NEWSMAX's Carl Higbie Frontline. \nThe post Trump DOJ: ‘Large Capacity Magazines’ Are ‘Actually Standard Issue Magazin…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/27/trump-doj-large-capacity-magazines-are-actually-standard-issue-magazines/",
+        "publishedAt": "2026-05-27T13:12:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Adani firms extend rally to recoup losses sparked by Hindenburg",
+        "description": "All nine Adani stocks rose Wednesday, led by a 13% surge in Adani Total Gas Ltd. Adani Power Ltd. extended its record rally, taking gains this year to nearly 75%",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/adani-firms-extend-rally-to-recoup-losses-sparked-by-hindenburg",
+        "publishedAt": "2026-05-27T12:36:04Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "13"
+      },
+      {
+        "title": "Iran and Houthi terror proxy facing Red Sea threat from pro-US African nation",
+        "description": "Sen. Ted Cruz advocates recognizing Somaliland as the U.S. reportedly explores military access to the breakaway state's port and airbase facilities.",
+        "url": "https://www.foxnews.com/world/iran-houthi-terror-proxy-facing-red-sea-threat-from-pro-us-african-nation",
+        "publishedAt": "2026-05-27T11:21:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
