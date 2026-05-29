@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-05-29T16:28:15.454226+00:00",
+  "generated_at": "2026-05-29T19:11:21.436986+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "American Consumers Keep Spending, Sending Retail Shares Soaring",
+        "description": "Americans kept spending in April even as gasoline prices continued to surge, a sign that higher energy costs have not forced a broad retreat in household outlays.\nThe post American Consumers Keep Spending, Sending Retail Shares Soaring appeared first on Breit…",
+        "url": "https://www.breitbart.com/economy/2026/05/28/american-consumers-keep-spending-sending-retail-shares-soaring/",
+        "publishedAt": "2026-05-28T18:47:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "What to know about thyroid cancer prognosis following Pam Bondi's diagnosis",
+        "description": "Former AG Pam Bondi was reportedly diagnosed with thyroid cancer after leaving the Justice Department. Here's what to know about the disease.",
+        "url": "https://www.foxnews.com/health/know-thyroid-cancer-prognosis-following-pam-bondis-diagnosis",
+        "publishedAt": "2026-05-28T18:45:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Meta Introduces Tiered Subscription Model Across Facebook, Instagram and WhatsApp",
+        "description": "Mark Zuckerberg's Meta announced Wednesday it will launch paid premium subscriptions globally for its major social media platforms, introducing Facebook Plus, Instagram Plus and WhatsApp Plus alongside new Meta AI subscription tiers.\nThe post Meta Introduces …",
+        "url": "https://www.breitbart.com/tech/2026/05/28/meta-introduces-tiered-subscription-model-across-facebook-instagram-and-whatsapp/",
+        "publishedAt": "2026-05-28T18:21:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Watch Live: Scott Bessent Holds White House Press Briefing",
+        "description": "Treasury Secretary Scott Bessent speaks with members of the media at the White House on Thursday, May 28.\nThe post Watch Live: Scott Bessent Holds White House Press Briefing appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/05/28/watch-live-scott-bessent-holds-white-house-press-briefing/",
+        "publishedAt": "2026-05-28T18:11:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "28"
+      },
+      {
+        "title": "Unprepared college students forced to relearn 'middle school mathematics,' California professors reveal",
+        "description": "Over 500 UC professors signed a letter demanding the university reinstate SAT/ACT mathematics requirements for incoming students, citing failing standards.",
+        "url": "https://www.foxnews.com/media/unprepared-college-students-forced-relearn-middle-school-mathematics-california-professors-reveal",
+        "publishedAt": "2026-05-28T17:30:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "500"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "North Korea Says It Successfully Tested AI-Guided Missile",
+        "description": "The flagship government propaganda outlet in North Korea announced on Wednesday that communist dictator Kim Jong-un had presided over a successful test of a “tactical cruise missile” relying on artificial intelligence (AI).\nThe post North Korea Says It Succes…",
+        "url": "https://www.breitbart.com/asia/2026/05/28/north-korea-says-it-successfully-tested-ai-guided-missile/",
+        "publishedAt": "2026-05-28T13:48:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "FBI seizes record-setting $8 billion in cryptocurrency amid intercontinental 'scam compound' crackdown",
+        "description": "The FBI seized a record $8 billion in cryptocurrency and arrested hundreds in Operation Blackout, a crackdown on intercontinental scam compounds.",
+        "url": "https://www.foxnews.com/us/fbi-seizes-record-setting-8-billion-cryptocurrency-amid-intercontinental-scam-compound-crackdown",
+        "publishedAt": "2026-05-28T18:31:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Fox News AI Newsletter: Chatbots' left-wing bias",
+        "description": "The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-chatbots-left-wing-bias",
+        "publishedAt": "2026-05-28T18:09:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "W.H.O. Chief Tedros: Ebola Contact Tracing in DR Congo 'Nearly Impossible'",
+        "description": "The director-general of the World Health Organization (W.H.O.), Tedros Adhanom Ghebreyesus, lamented in remarks on Wednesday that violent attacks on health workers in the Democratic Republic of Congo (DRC) have made contact tracing \"nearly impossible,\" signif…",
+        "url": "https://www.breitbart.com/africa/2026/05/28/w-h-o-chief-tedros-ebola-contact-tracing-in-dr-congo-nearly-impossible/",
+        "publishedAt": "2026-05-28T18:00:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran Demands U.N. Stop American Military Attacking Its Drones After Claiming to Strike U.S. Air Base",
+        "description": "The Iranian Foreign Ministry demanded on Thursday that the United Nations Security Council act to contain the United States in response to limited action against its attack drones, which Tehran claimed to respond to by bombing a U.S. air base.\nThe post Iran D…",
+        "url": "https://www.breitbart.com/middle-east/2026/05/28/iran-demands-u-n-stop-american-military-attacking-its-drones-after-claiming-to-strike-u-s-air-base/",
+        "publishedAt": "2026-05-28T15:56:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "CFTC Asks Court to Drop Biden-Era Lawsuit Against Crypto Exchange Gemini",
+        "description": "The Commodity Futures Trading Commission asked the courts to drop a Biden-era lawsuit against digital currency exchange Gemini.\nThe post CFTC Asks Court to Drop Biden-Era Lawsuit Against Crypto Exchange Gemini appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/05/28/cftc-asks-court-drop-biden-era-lawsuit-against-crypto-exchange-gemini/",
+        "publishedAt": "2026-05-28T15:48:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
