@@ -1,88 +1,79 @@
 {
-  "generated_at": "2026-05-29T22:44:29.659184+00:00",
-  "insight": "Raw data summary: USD/KRW +0.23%",
-  "errors": [
-    "NASDAQ: yahoo fail ^IXIC 5y/1d: HTTP Error 429: Too Many Requests",
-    "S&P 500: yahoo fail ^GSPC 5y/1d: HTTP Error 429: Too Many Requests",
-    "KOSPI: yahoo fail ^KS11 5y/1d: HTTP Error 429: Too Many Requests",
-    "KOSDAQ: yahoo fail ^KQ11 5y/1d: HTTP Error 429: Too Many Requests",
-    "SET Index: yahoo fail ^SET.BK 5y/1d: HTTP Error 429: Too Many Requests",
-    "BTC/USD: yahoo fail BTC-USD 5y/1d: HTTP Error 429: Too Many Requests",
-    "BTC/KRW: yahoo fail BTC-KRW 5y/1d: HTTP Error 429: Too Many Requests",
-    "Dollar Index: yahoo fail DX-Y.NYB 5y/1d: HTTP Error 429: Too Many Requests"
-  ],
+  "generated_at": "2026-05-29T23:56:11.169062+00:00",
+  "insight": "Raw data summary: NASDAQ +0.20%, S&P 500 +0.22%, KOSPI -0.53%, USD/KRW +0.23%",
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
       "label": "NASDAQ",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 26972.619140625,
+      "dod": 0.2048797158850349,
+      "mom": 9.319322814546599,
+      "yoy": 40.65917400052658,
+      "raw_points": 1255
     },
     {
       "key": "S&P500",
       "label": "S&P 500",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 7580.06005859375,
+      "dod": 0.2172260678511746,
+      "mom": 6.2235560945055255,
+      "yoy": 28.211133285387564,
+      "raw_points": 1255
     },
     {
       "key": "KOSPI",
       "label": "KOSPI",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 8185.2900390625,
+      "dod": -0.5275457267811107,
+      "mom": 23.253506464211064,
+      "yoy": 206.54795941897424,
+      "raw_points": 1221
     },
     {
       "key": "KOSDAQ",
       "label": "KOSDAQ",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 1104.3599853515625,
+      "dod": -2.538986648246542,
+      "mom": -9.149539703180277,
+      "yoy": 51.53336607904446,
+      "raw_points": 1220
     },
     {
       "key": "SET Index",
       "label": "SET Index",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 1568.969970703125,
+      "dod": -0.1260371450581861,
+      "mom": 5.9971640629342495,
+      "yoy": 35.1698040821632,
+      "raw_points": 1208
     },
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 73369.953125,
+      "dod": -0.2265561164892588,
+      "mom": -3.17537936840065,
+      "yoy": -30.548341257988287,
+      "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 110631144.0,
+      "dod": 0.5988182075303697,
+      "mom": -1.9088101664371186,
+      "yoy": -23.638494580549615,
+      "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 98.94200134277344,
+      "dod": -0.078767221709889,
+      "mom": 0.022243402987680825,
+      "yoy": -0.34044867111130644,
+      "raw_points": 1257
     },
     {
       "key": "USD/JPY",
