@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-05-29T21:17:03.908353+00:00",
+  "generated_at": "2026-05-29T22:44:36.786542+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "The NBA, NBC and fanboys continue to tout deeply misleading ratings data | Bobby Burack",
+        "description": "The NBA's record-breaking playoff ratings claims are misleading when accounting for the shift to broadcast TV and Nielsen measurement changes.",
+        "url": "https://www.foxnews.com/outkick-analysis/nba-nbc-fanboys-continue-tout-deeply-misleading-ratings-data-bobby-burack",
+        "publishedAt": "2026-05-28T22:06:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Massachusetts Dem. Governor Protects Dangerous Migrants, Discards Young Americans",
+        "description": "Democrat Governor Maura Healey's welcoming agenda for illegal migrants is inviting dangerous criminals into the streets.\nThe post Massachusetts Dem. Governor Protects Dangerous Migrants, Discards Young Americans appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/immigration/2026/05/28/massachusetts-dem-governor-protects-dangerous-migrants-discards-young-americans/",
+        "publishedAt": "2026-05-28T21:47:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "NBA's new lottery system strips worst teams of top draft odds, but may reward calculated mediocrity",
         "description": "The NBA Board of Governors approved a dramatic draft lottery reform designed to combat tanking, but the new system may simply redirect the incentives.",
@@ -33,26 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Socialist Zohran Mamdani launches Elon Musk-style ‘COGE’ chaired by Soros-aligned Dem",
-        "description": "New York City Mayor Zohran Mamdani takes a page from Elon Musk's DOGE playbook by launching his own city Commission on Government Efficiency.",
-        "url": "https://www.foxnews.com/politics/zohran-mamdani-launches-socialist-version-elon-musk-doge",
-        "publishedAt": "2026-05-28T19:22:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "WATCH: Dem senator says Platner's struggles speak to ‘regular people’ amid backlash over resurfaced posts",
-        "description": "Sen. Chris Murphy defends support for Maine Democrat Graham Platner, saying voters resonate with his message despite controversial Reddit posts.",
-        "url": "https://www.foxnews.com/politics/watch-dem-senator-says-platners-struggles-speak-regular-people-amid-backlash-over-resurfaced-posts",
-        "publishedAt": "2026-05-28T19:19:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,36 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Exclusive — U.S. State Department to Designate Brazil's Top Criminal Gangs as Terrorist Groups",
+        "description": "The State Department will announce on Thursday that it is planning to designate Brazil's two most powerful organized criminal syndicates, the Comando Vermelho (Red Command) and Primeiro Comando da Capital (First Capital Command, or PCC), as Specially Designat…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/28/exclusive-u-s-state-department-to-designate-brazils-top-criminal-gangs-as-terrorist-groups/",
+        "publishedAt": "2026-05-28T21:32:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Two More Tankers Escape Strait of Hormuz by Running Dark",
+        "description": "Ship trackers said on Thursday that two more tankers were able to pass through the Strait of Hormuz with their transponders turned off.\nThe post Two More Tankers Escape Strait of Hormuz by Running Dark appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/05/28/two-more-tankers-escape-strait-hormuz-running-dark/",
+        "publishedAt": "2026-05-28T21:24:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Australia Extends Hantavirus Quarantine for Cruise Ship Passengers",
+        "description": "Australian Health Minister Mark Butler said on Thursday that the quarantine period for passengers from the Hondius, the cruise ship that was afflicted by a hantavirus outbreak in April, will be extended from June 5 to June 23.\nThe post Australia Extends Hanta…",
+        "url": "https://www.breitbart.com/health/2026/05/28/australia-extends-hantavirus-quarantine-for-cruise-ship-passengers/",
+        "publishedAt": "2026-05-28T21:18:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "5"
+      },
+      {
         "title": "Socialist Zohran Mamdani launches Elon Musk-style ‘COGE’ chaired by Soros-aligned Dem",
         "description": "New York City Mayor Zohran Mamdani takes a page from Elon Musk's DOGE playbook by launching his own city Commission on Government Efficiency.",
         "url": "https://www.foxnews.com/politics/zohran-mamdani-launches-socialist-version-elon-musk-doge",
@@ -98,36 +128,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Fox News AI Newsletter: Chatbots' left-wing bias",
-        "description": "The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-chatbots-left-wing-bias",
-        "publishedAt": "2026-05-28T18:09:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "W.H.O. Chief Tedros: Ebola Contact Tracing in DR Congo 'Nearly Impossible'",
-        "description": "The director-general of the World Health Organization (W.H.O.), Tedros Adhanom Ghebreyesus, lamented in remarks on Wednesday that violent attacks on health workers in the Democratic Republic of Congo (DRC) have made contact tracing \"nearly impossible,\" signif…",
-        "url": "https://www.breitbart.com/africa/2026/05/28/w-h-o-chief-tedros-ebola-contact-tracing-in-dr-congo-nearly-impossible/",
-        "publishedAt": "2026-05-28T18:00:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Demands U.N. Stop American Military Attacking Its Drones After Claiming to Strike U.S. Air Base",
-        "description": "The Iranian Foreign Ministry demanded on Thursday that the United Nations Security Council act to contain the United States in response to limited action against its attack drones, which Tehran claimed to respond to by bombing a U.S. air base.\nThe post Iran D…",
-        "url": "https://www.breitbart.com/middle-east/2026/05/28/iran-demands-u-n-stop-american-military-attacking-its-drones-after-claiming-to-strike-u-s-air-base/",
-        "publishedAt": "2026-05-28T15:56:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
