@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-05-30T22:08:23.985813+00:00",
+  "generated_at": "2026-05-30T23:13:02.124724+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: Stacking Those $250 Trump Bills",
+        "description": "This week the economy failed to get indigestion from the high price of gas, Treasury Secretary Scott Bessent told us about getting fed at the Fed, Trump put something new in the app stores, and everyone started dreaming about putting a couple of Donalds in th…",
+        "url": "https://www.breitbart.com/economy/2026/05/29/breitbart-business-digest-stacking-those-250-trump-bills/",
+        "publishedAt": "2026-05-29T22:36:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Brazil's Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations",
+        "description": "Brazilian Sen. Flávio Bolsonaro thanked Donald Trump and Marco Rubio for the terrorist designation of drug gangs Red Command and PCC.\nThe post Brazil’s Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations appeared first on Breit…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/29/brazils-conservatives-thank-trump-rubio-designating-drug-gangs-terrorist-organizations/",
+        "publishedAt": "2026-05-29T21:07:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Illegal Migrant from India Sentenced for Child Sex-Trafficking in Nebraska",
+        "description": "Kavankumar Patel, an illegal migrant from India, has been sentenced to ten years in prison for participating in a child sex-trafficking ring in Omaha.\nThe post Illegal Migrant from India Sentenced for Child Sex-Trafficking in Nebraska appeared first on Breitb…",
+        "url": "https://www.breitbart.com/immigration/2026/05/29/illegal-migrant-india-sentenced-child-sex-trafficking-nebraska/",
+        "publishedAt": "2026-05-29T18:43:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "House Republican Don Bacon says he wants 'pariah state' Russia booted from UN Security Council",
+        "description": "Rep. Don Bacon reiterates his call for the United Nations to remove Russia from the Security Council, calling Russia a pariah state on social media.",
+        "url": "https://www.foxnews.com/politics/house-republican-bacon-says-wants-pariah-state-russia-booted-un-security-council",
+        "publishedAt": "2026-05-29T18:32:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Doubling Down on Green: Ferrari CEO Defends Electric Vehicle Slammed by Car Lovers and the Stock Market",
+        "description": "Ferrari CEO Benedetto Vigna defended the $640,000 price tag of the luxury automaker's first EV on Thursday, emphasizing the model's innovation and strong customer demand. Despite the CEO's positivity, the electric vehicle has been slammed by Ferrari fans and …",
+        "url": "https://www.breitbart.com/tech/2026/05/29/ferrari-ceo-defends-electric-vehicle-slammed-by-car-lovers-and-the-stock-market/",
+        "publishedAt": "2026-05-29T18:27:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Patel: Bad Actors from CCP, Russia, Iran, North Korea Are 'Biggest National Security Threat'",
+        "description": "During a portion of an interview with the Fox News Channel aired on Thursday’s broadcast of “Special Report,” FBI Director Kash Patel stated that the biggest national security threat facing the United States “is the combination of the bad actors\nThe post Pate…",
+        "url": "https://www.breitbart.com/clips/2026/05/29/patel-bad-actors-from-ccp-russia-iran-north-korea-are-biggest-national-security-threat/",
+        "publishedAt": "2026-05-29T09:26:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kash Patel reveals FBI's top security concerns ahead of World Cup",
+        "description": "FBI Director Kash Patel revealed in an interview with Fox News security concerns for the 2026 World Cup, citing drones, cyber threats and potential lone-wolf attacks across the U.S.",
+        "url": "https://www.foxnews.com/politics/kash-patel-reveals-fbis-top-security-concerns-ahead-world-cup",
+        "publishedAt": "2026-05-29T00:03:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "China Keeps a Low Profile at Major Asian Defense Summit",
+        "description": "China kept a low profile at the Shangri-La Dialogue in Singapore, sending only a group of academics instead of top military officials.\nThe post China Keeps a Low Profile at Major Asian Defense Summit appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/asia/2026/05/29/china-keeps-low-profile-major-asian-defense-summit/",
+        "publishedAt": "2026-05-29T22:21:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Brazil's Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations",
+        "description": "Brazilian Sen. Flávio Bolsonaro thanked Donald Trump and Marco Rubio for the terrorist designation of drug gangs Red Command and PCC.\nThe post Brazil’s Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations appeared first on Breit…",
+        "url": "https://www.breitbart.com/latin-america/2026/05/29/brazils-conservatives-thank-trump-rubio-designating-drug-gangs-terrorist-organizations/",
+        "publishedAt": "2026-05-29T21:07:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.N. Atomic Energy Chief Rafael Grossi Blasts Agency for Irrelevance: 'Absent' from World Conflicts",
+        "description": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, lamented in remarks on Thursday that the United Nations, of which the IAEA is part, has been \"absent\" from the world's greatest conflicts.\nThe post U.N. Atomic Energy Chief Rafael Gross…",
+        "url": "https://www.breitbart.com/national-security/2026/05/29/u-n-atomic-energy-chief-rafael-grossi-blasts-agency-for-irrelevance-absent-from-world-conflicts/",
+        "publishedAt": "2026-05-29T20:42:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Imposes Further Sanctions on Iran’s Military Oil Sales",
+        "description": "The U.S. Treasury Department on Thursday announced new sanctions on Iranian oil sales in a bid to choke off funding for Iran’s military apparatus.\nThe post U.S. Imposes Further Sanctions on Iran’s Military Oil Sales appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/05/29/u-s-imposes-further-sanctions-on-irans-military-oil-sales/",
+        "publishedAt": "2026-05-29T19:41:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New York Gov. Uses State Budget to Enact 3D Printer Gun Controls",
+        "description": "NY Gov. Kathy Hochul (D) used the state's budget as a vehicle for new gun control regulations targeting 3D printers and 3D-printed firearms. \nThe post New York Gov. Uses State Budget to Enact 3D Printer Gun Controls appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/29/new-york-gov-uses-state-budget-enact-3d-printer-gun-controls/",
+        "publishedAt": "2026-05-29T17:50:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
