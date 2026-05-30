@@ -1,136 +1,19 @@
 {
-  "generated_at": "2026-05-29T23:56:18.710249+00:00",
+  "generated_at": "2026-05-30T03:32:09.005076+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Bessent: Trump Will Not Take Bad Deal on Iran",
-        "description": "WASHINGTON—Treasury Secretary Scott Bessent, filling in for White House press secretary Karoline Leavitt, stressed at Thursday's press briefing that President Donald Trump will not \"take a bad deal\" on Iran.\nThe post Bessent: Trump Will Not Take Bad Deal on I…",
-        "url": "https://www.breitbart.com/politics/2026/05/28/bessent-trump-will-not-take-bad-deal-on-iran/",
-        "publishedAt": "2026-05-28T23:51:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Never Mind the Sentiment, Consumers Are Alright",
-        "description": "Someone forgot to tell American consumers that they are supposed to be deeply depressed.\nThe post Breitbart Business Digest: Never Mind the Sentiment, Consumers Are Alright appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/05/28/breitbart-business-digest-never-mind-the-sentiment-consumers-are-alright/",
-        "publishedAt": "2026-05-28T23:00:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Supergirl' pre-release tracking looks disastrously bad for Hollywood after lead actress' bizarre comments",
-        "description": "DC Studios' Supergirl is tracking for a disappointing opening weekend, with estimates suggesting the film may struggle to recoup its reported costs.",
-        "url": "https://www.foxnews.com/outkick-analysis/supergirl-pre-release-tracking-looks-disastrously-bad-hollywood-lead-actress-bizarre-comments",
-        "publishedAt": "2026-05-28T22:59:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The NBA, NBC and fanboys continue to tout deeply misleading ratings data | Bobby Burack",
-        "description": "The NBA's record-breaking playoff ratings claims are misleading when accounting for the shift to broadcast TV and Nielsen measurement changes.",
-        "url": "https://www.foxnews.com/outkick-analysis/nba-nbc-fanboys-continue-tout-deeply-misleading-ratings-data-bobby-burack",
-        "publishedAt": "2026-05-28T22:06:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Massachusetts Dem. Governor Protects Dangerous Migrants, Discards Young Americans",
-        "description": "Democrat Governor Maura Healey's welcoming agenda for illegal migrants is inviting dangerous criminals into the streets.\nThe post Massachusetts Dem. Governor Protects Dangerous Migrants, Discards Young Americans appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/immigration/2026/05/28/massachusetts-dem-governor-protects-dangerous-migrants-discards-young-americans/",
-        "publishedAt": "2026-05-28T21:47:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Putin lands $16.5B nuclear win on Russia’s doorstep in massive Kazakhstan pact: reports",
-        "description": "Putin and Tokayev signed a landmark $16.5 billion nuclear power plant deal, marking Russia's geopolitical victory in Central Asia, reports say.",
-        "url": "https://www.foxnews.com/world/putin-lands-165b-nuclear-win-russias-doorstep-massive-kazakhstan-pact-reports",
-        "publishedAt": "2026-05-28T20:43:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "North Korea Says It Successfully Tested AI-Guided Missile",
-        "description": "The flagship government propaganda outlet in North Korea announced on Wednesday that communist dictator Kim Jong-un had presided over a successful test of a “tactical cruise missile” relying on artificial intelligence (AI).\nThe post North Korea Says It Succes…",
-        "url": "https://www.breitbart.com/asia/2026/05/28/north-korea-says-it-successfully-tested-ai-guided-missile/",
-        "publishedAt": "2026-05-28T13:48:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Exclusive — U.S. State Department to Designate Brazil's Top Criminal Gangs as Terrorist Groups",
-        "description": "The State Department will announce on Thursday that it is planning to designate Brazil's two most powerful organized criminal syndicates, the Comando Vermelho (Red Command) and Primeiro Comando da Capital (First Capital Command, or PCC), as Specially Designat…",
-        "url": "https://www.breitbart.com/latin-america/2026/05/28/exclusive-u-s-state-department-to-designate-brazils-top-criminal-gangs-as-terrorist-groups/",
-        "publishedAt": "2026-05-28T21:32:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Two More Tankers Escape Strait of Hormuz by Running Dark",
-        "description": "Ship trackers said on Thursday that two more tankers were able to pass through the Strait of Hormuz with their transponders turned off.\nThe post Two More Tankers Escape Strait of Hormuz by Running Dark appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/05/28/two-more-tankers-escape-strait-hormuz-running-dark/",
-        "publishedAt": "2026-05-28T21:24:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Australia Extends Hantavirus Quarantine for Cruise Ship Passengers",
-        "description": "Australian Health Minister Mark Butler said on Thursday that the quarantine period for passengers from the Hondius, the cruise ship that was afflicted by a hantavirus outbreak in April, will be extended from June 5 to June 23.\nThe post Australia Extends Hanta…",
-        "url": "https://www.breitbart.com/health/2026/05/28/australia-extends-hantavirus-quarantine-for-cruise-ship-passengers/",
-        "publishedAt": "2026-05-28T21:18:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Socialist Zohran Mamdani launches Elon Musk-style ‘COGE’ chaired by Soros-aligned Dem",
-        "description": "New York City Mayor Zohran Mamdani takes a page from Elon Musk's DOGE playbook by launching his own city Commission on Government Efficiency.",
-        "url": "https://www.foxnews.com/politics/zohran-mamdani-launches-socialist-version-elon-musk-doge",
-        "publishedAt": "2026-05-28T19:22:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FBI seizes record-setting $8 billion in cryptocurrency amid intercontinental 'scam compound' crackdown",
-        "description": "The FBI seized a record $8 billion in cryptocurrency and arrested hundreds in Operation Blackout, a crackdown on intercontinental scam compounds.",
-        "url": "https://www.foxnews.com/us/fbi-seizes-record-setting-8-billion-cryptocurrency-amid-intercontinental-scam-compound-crackdown",
-        "publishedAt": "2026-05-28T18:31:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
