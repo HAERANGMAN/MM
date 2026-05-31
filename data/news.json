@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-05-31T08:12:49.455561+00:00",
+  "generated_at": "2026-05-31T10:24:59.511388+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Mark Levin: We have our foot on the enemy’s throat | Fox News Video",
-        "description": "Fox News host Mark Levin lays out his top concerns regarding a potential deal with Iran on ‘Hannity.’",
-        "url": "https://www.foxnews.com/video/6397010484112",
-        "publishedAt": "2026-05-30T02:04:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Endorses South Carolina Lt. Gov. Pam Evette for Governor: 'Has Proven She Has The Courage and Wisdom' to Deliver",
-        "description": "President Donald Trump endorsed South Carolina Lt. Gov. Pam Evette (R) to be the next governor of the state, noting that she “has proven she has the Courage and Wisdom to deliver strong results.” In a post on Truth Social,\nThe post Trump Endorses South Caroli…",
-        "url": "https://www.breitbart.com/politics/2026/05/29/trump-endorses-south-carolina-lt-gov-pam-evette-for-governor-has-proven-she-has-the-courage-and-wisdom-to-deliver/",
-        "publishedAt": "2026-05-29T23:31:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Stacking Those $250 Trump Bills",
-        "description": "This week the economy failed to get indigestion from the high price of gas, Treasury Secretary Scott Bessent told us about getting fed at the Fed, Trump put something new in the app stores, and everyone started dreaming about putting a couple of Donalds in th…",
-        "url": "https://www.breitbart.com/economy/2026/05/29/breitbart-business-digest-stacking-those-250-trump-bills/",
-        "publishedAt": "2026-05-29T22:36:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Brazil's Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations",
-        "description": "Brazilian Sen. Flávio Bolsonaro thanked Donald Trump and Marco Rubio for the terrorist designation of drug gangs Red Command and PCC.\nThe post Brazil’s Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations appeared first on Breit…",
-        "url": "https://www.breitbart.com/latin-america/2026/05/29/brazils-conservatives-thank-trump-rubio-designating-drug-gangs-terrorist-organizations/",
-        "publishedAt": "2026-05-29T21:07:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Illegal Migrant from India Sentenced for Child Sex-Trafficking in Nebraska",
-        "description": "Kavankumar Patel, an illegal migrant from India, has been sentenced to ten years in prison for participating in a child sex-trafficking ring in Omaha.\nThe post Illegal Migrant from India Sentenced for Child Sex-Trafficking in Nebraska appeared first on Breitb…",
-        "url": "https://www.breitbart.com/immigration/2026/05/29/illegal-migrant-india-sentenced-child-sex-trafficking-nebraska/",
-        "publishedAt": "2026-05-29T18:43:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Patel: Bad Actors from CCP, Russia, Iran, North Korea Are 'Biggest National Security Threat'",
-        "description": "During a portion of an interview with the Fox News Channel aired on Thursday’s broadcast of “Special Report,” FBI Director Kash Patel stated that the biggest national security threat facing the United States “is the combination of the bad actors\nThe post Pate…",
-        "url": "https://www.breitbart.com/clips/2026/05/29/patel-bad-actors-from-ccp-russia-iran-north-korea-are-biggest-national-security-threat/",
-        "publishedAt": "2026-05-29T09:26:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Strait of Hormuz ship transits are rising thanks to help from US",
-        "description": "A US Central Command spokesperson stated that while US military assets aren’t escorting ships, they are advising commercial vessels in the region",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-29/strait-of-hormuz-ship-transits-are-rising-thanks-to-help-from-us",
-        "publishedAt": "2026-05-30T05:31:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Arkansas Democrat Challenging Sen. Cotton Paid Same Consulting Firm Used by Graham Platner",
-        "description": "Arkansas Democrat Hallie Shoffner’s Senate campaign reported tens of thousands of dollars in payments to Good Influence, the Louisville-based digital and influencer firm also used by radical Maine Democrat Senate candidate Graham Platner, according to FEC dat…",
-        "url": "https://www.breitbart.com/politics/2026/05/29/exclusive-arkansas-democrat-paid-same-consulting-firm-graham-platner/",
-        "publishedAt": "2026-05-30T03:21:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: UAE Carried Out Dozens of Airstrikes on Iran with U.S.-Israeli Coordination",
-        "description": "The United Arab Emirates carried out dozens of coordinated airstrikes against Iran alongside the United States and Israel during the conflict with Tehran — including strikes on strategic energy and military infrastructure that reportedly continued even after …",
-        "url": "https://www.breitbart.com/politics/2026/05/29/report-uae-dozens-airstrikes-iran-u-s-israeli-coordination/",
-        "publishedAt": "2026-05-30T01:30:55Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Take a peek inside the private 38-acre Bahamas paradise where Donald Trump Jr got married",
-        "description": "Donald Trump Jr. wed Bettina Anderson on Little Pipe Cay, a luxurious 38-acre private island paradise in the Bahamas' Exuma island chain. Here are details of the gorgeous location.",
-        "url": "https://www.foxnews.com/travel/peek-inside-private-38-acre-bahamas-paradise-where-donald-trump-jr-got-married",
-        "publishedAt": "2026-05-29T23:52:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "38"
-      },
-      {
-        "title": "China Keeps a Low Profile at Major Asian Defense Summit",
-        "description": "China kept a low profile at the Shangri-La Dialogue in Singapore, sending only a group of academics instead of top military officials.\nThe post China Keeps a Low Profile at Major Asian Defense Summit appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/asia/2026/05/29/china-keeps-low-profile-major-asian-defense-summit/",
-        "publishedAt": "2026-05-29T22:21:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
