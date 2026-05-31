@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-31T00:15:23.107128+00:00",
+  "generated_at": "2026-05-31T04:54:47.628132+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Mark Levin: We have our foot on the enemy’s throat | Fox News Video",
+        "description": "Fox News host Mark Levin lays out his top concerns regarding a potential deal with Iran on ‘Hannity.’",
+        "url": "https://www.foxnews.com/video/6397010484112",
+        "publishedAt": "2026-05-30T02:04:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Trump Endorses South Carolina Lt. Gov. Pam Evette for Governor: 'Has Proven She Has The Courage and Wisdom' to Deliver",
         "description": "President Donald Trump endorsed South Carolina Lt. Gov. Pam Evette (R) to be the next governor of the state, noting that she “has proven she has the Courage and Wisdom to deliver strong results.” In a post on Truth Social,\nThe post Trump Endorses South Caroli…",
@@ -43,16 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "House Republican Don Bacon says he wants 'pariah state' Russia booted from UN Security Council",
-        "description": "Rep. Don Bacon reiterates his call for the United Nations to remove Russia from the Security Council, calling Russia a pariah state on social media.",
-        "url": "https://www.foxnews.com/politics/house-republican-bacon-says-wants-pariah-state-russia-booted-un-security-council",
-        "publishedAt": "2026-05-29T18:32:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Exclusive: Arkansas Democrat Challenging Sen. Cotton Paid Same Consulting Firm Used by Graham Platner",
+        "description": "Arkansas Democrat Hallie Shoffner’s Senate campaign reported tens of thousands of dollars in payments to Good Influence, the Louisville-based digital and influencer firm also used by radical Maine Democrat Senate candidate Graham Platner, according to FEC dat…",
+        "url": "https://www.breitbart.com/politics/2026/05/29/exclusive-arkansas-democrat-paid-same-consulting-firm-graham-platner/",
+        "publishedAt": "2026-05-30T03:21:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: UAE Carried Out Dozens of Airstrikes on Iran with U.S.-Israeli Coordination",
+        "description": "The United Arab Emirates carried out dozens of coordinated airstrikes against Iran alongside the United States and Israel during the conflict with Tehran — including strikes on strategic energy and military infrastructure that reportedly continued even after …",
+        "url": "https://www.breitbart.com/politics/2026/05/29/report-uae-dozens-airstrikes-iran-u-s-israeli-coordination/",
+        "publishedAt": "2026-05-30T01:30:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Take a peek inside the private 38-acre Bahamas paradise where Donald Trump Jr got married",
         "description": "Donald Trump Jr. wed Bettina Anderson on Little Pipe Cay, a luxurious 38-acre private island paradise in the Bahamas' Exuma island chain. Here are details of the gorgeous location.",
@@ -94,26 +114,6 @@
         "description": "Brazilian Sen. Flávio Bolsonaro thanked Donald Trump and Marco Rubio for the terrorist designation of drug gangs Red Command and PCC.\nThe post Brazil’s Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations appeared first on Breit…",
         "url": "https://www.breitbart.com/latin-america/2026/05/29/brazils-conservatives-thank-trump-rubio-designating-drug-gangs-terrorist-organizations/",
         "publishedAt": "2026-05-29T21:07:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.N. Atomic Energy Chief Rafael Grossi Blasts Agency for Irrelevance: 'Absent' from World Conflicts",
-        "description": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, lamented in remarks on Thursday that the United Nations, of which the IAEA is part, has been \"absent\" from the world's greatest conflicts.\nThe post U.N. Atomic Energy Chief Rafael Gross…",
-        "url": "https://www.breitbart.com/national-security/2026/05/29/u-n-atomic-energy-chief-rafael-grossi-blasts-agency-for-irrelevance-absent-from-world-conflicts/",
-        "publishedAt": "2026-05-29T20:42:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Imposes Further Sanctions on Iran’s Military Oil Sales",
-        "description": "The U.S. Treasury Department on Thursday announced new sanctions on Iranian oil sales in a bid to choke off funding for Iran’s military apparatus.\nThe post U.S. Imposes Further Sanctions on Iran’s Military Oil Sales appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/05/29/u-s-imposes-further-sanctions-on-irans-military-oil-sales/",
-        "publishedAt": "2026-05-29T19:41:16Z",
         "source": {
           "name": "Breitbart News"
         },
