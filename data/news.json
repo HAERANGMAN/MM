@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T04:54:47.628132+00:00",
+  "generated_at": "2026-05-31T08:12:49.455561+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Strait of Hormuz ship transits are rising thanks to help from US",
+        "description": "A US Central Command spokesperson stated that while US military assets aren’t escorting ships, they are advising commercial vessels in the region",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-29/strait-of-hormuz-ship-transits-are-rising-thanks-to-help-from-us",
+        "publishedAt": "2026-05-30T05:31:31Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Exclusive: Arkansas Democrat Challenging Sen. Cotton Paid Same Consulting Firm Used by Graham Platner",
         "description": "Arkansas Democrat Hallie Shoffner’s Senate campaign reported tens of thousands of dollars in payments to Good Influence, the Louisville-based digital and influencer firm also used by radical Maine Democrat Senate candidate Graham Platner, according to FEC dat…",
         "url": "https://www.breitbart.com/politics/2026/05/29/exclusive-arkansas-democrat-paid-same-consulting-firm-graham-platner/",
@@ -104,16 +114,6 @@
         "description": "China kept a low profile at the Shangri-La Dialogue in Singapore, sending only a group of academics instead of top military officials.\nThe post China Keeps a Low Profile at Major Asian Defense Summit appeared first on Breitbart.",
         "url": "https://www.breitbart.com/asia/2026/05/29/china-keeps-low-profile-major-asian-defense-summit/",
         "publishedAt": "2026-05-29T22:21:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brazil's Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations",
-        "description": "Brazilian Sen. Flávio Bolsonaro thanked Donald Trump and Marco Rubio for the terrorist designation of drug gangs Red Command and PCC.\nThe post Brazil’s Conservatives Thank Trump, Rubio for Designating Drug Gangs Terrorist Organizations appeared first on Breit…",
-        "url": "https://www.breitbart.com/latin-america/2026/05/29/brazils-conservatives-thank-trump-rubio-designating-drug-gangs-terrorist-organizations/",
-        "publishedAt": "2026-05-29T21:07:02Z",
         "source": {
           "name": "Breitbart News"
         },
