@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-01T06:31:48.924495+00:00",
+  "generated_at": "2026-06-01T12:18:49.835958+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "BISHOP ROBERT BARRON: Pope Leo sees the AI age clearly — and warns we must save our souls",
+        "description": "Pope Leo's Magnifica Humanitas addresses AI, Catholic social teaching, war and peace, and the technocratic paradigm threatening human dignity today.",
+        "url": "https://www.foxnews.com/opinion/bishop-robert-barron-pope-leo-sees-ai-age-clearly-warns-must-save-souls",
+        "publishedAt": "2026-05-31T12:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Big Tech is through harming our children. This is our time to fight back",
+        "description": "America's hands-off approach to Big Tech is ending as lawsuits, state legislatures and federal bills target platforms harming children's mental health.",
+        "url": "https://www.foxnews.com/opinion/big-tech-harming-children-time-fight-back",
+        "publishedAt": "2026-05-31T11:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Anti-cartel hardliner channels Trump in bid to end Colombia's leftist era in pivotal election",
+        "description": "Colombia's next president could reshape U.S. counternarcotics cooperation as voters choose between security-first and dialogue-based approaches.",
+        "url": "https://www.foxnews.com/world/anti-cartel-hardliner-channels-trump-bid-end-colombias-leftist-era-pivotal-election",
+        "publishedAt": "2026-05-31T10:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners",
         "description": "The battle for AI leadership has driven massive expenditures on computing networks by the likes of Meta Platforms Inc. and Amazon.com Inc",
@@ -23,52 +53,51 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Carney: Evidence Points to Possible Economic Boom After Iran War Ends",
-        "description": "Friday on “The Alex Marlow Show,” Breitbart’s John Carney talked about the economy. Carney said, “I think the economy is doing really well, even despite the war. The thing that impressed me the most about the latest consumer spending numbers\nThe post Carney: …",
-        "url": "https://www.breitbart.com/clips/2026/05/30/carney-evidence-points-to-possible-economic-boom-after-iran-war-ends/",
-        "publishedAt": "2026-05-31T00:47:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Caitlin Clark's turnover problem could be a defining factor in her legendary WNBA career",
-        "description": "Caitlin Clark's turnovers are the one flaw following her otherwise historic WNBA career, as she averages a league-leading 5.2 turnovers per game.",
-        "url": "https://www.foxnews.com/outkick-sports/caitlin-clarks-turnover-problem-could-defining-factor-legendary-wnba-career",
-        "publishedAt": "2026-05-30T21:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5.2"
-      },
-      {
-        "title": "Sarah Michelle Gellar and Freddie Prinze Jr. list their Brentwood home on the market for $10.5M",
-        "description": "Sarah Michelle Gellar and Freddie Prinze Jr. list their Brentwood family home for $10.5 million, featuring five bedrooms and resort-style amenities.",
-        "url": "https://www.foxnews.com/entertainment/sarah-michelle-gellar-freddie-prinze-jr-list-brentwood-home-market-105m",
-        "publishedAt": "2026-05-30T16:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
-    "news-korea-soc": [
-      {
-        "title": "Raise Defence Spending or Else, Hegseth Tells NATO",
-        "description": "US Defense Secretary Pete Hegseth took another swipe at Washington's NATO and European partners on Saturday, saying those that do not hike defence spending sufficiently \"will face a clear shift in how we do business\".\nThe post Raise Defence Spending or Else, …",
-        "url": "https://www.breitbart.com/europe/2026/05/30/raise-defence-spending-or-else-hegseth-tells-nato/",
-        "publishedAt": "2026-05-30T11:05:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "BISHOP ROBERT BARRON: Pope Leo sees the AI age clearly — and warns we must save our souls",
+        "description": "Pope Leo's Magnifica Humanitas addresses AI, Catholic social teaching, war and peace, and the technocratic paradigm threatening human dignity today.",
+        "url": "https://www.foxnews.com/opinion/bishop-robert-barron-pope-leo-sees-ai-age-clearly-warns-must-save-souls",
+        "publishedAt": "2026-05-31T12:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FBI leading push to uncover truth about mystery objects near US nuclear facilities, filmmaker says",
+        "description": "The FBI is leading the federal push to uncover the truth about UAPs and working with the White House, documentary filmmaker Dan Farah claims.",
+        "url": "https://www.foxnews.com/media/fbi-leading-push-uncover-truth-about-mystery-objects-near-us-nuclear-facilities-filmmaker-says",
+        "publishedAt": "2026-05-31T11:00:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Secretly filmed UFO doc reveals insider video as officials release new alien records: 'Something is imminent'",
+        "description": "A secretly filmed documentary on UFO investigator Jeremy Corbell arrives as the federal government releases declassified UAP documents to the public.",
+        "url": "https://www.foxnews.com/us/secretly-filmed-ufo-doc-reveals-insider-video-officials-release-new-alien-records-something-imminent",
+        "publishedAt": "2026-05-31T10:00:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "#787 – “Hit Me With Your Best Shot” – Iconic Sports Logos, Baseball Feats & Winter Sports Secrets | The Quiz",
+        "description": "In today’s episode of The Quiz, we’re keeping score with a breakdown of legendary sports trivia, from historic championship Dynasties to the hidden secrets of the winter ice. Can you answer these? Baseball Feats: Hitting for power and placement is tough, but …",
+        "url": "https://radio.foxnews.com/2026/05/31/787-hit-me-with-your-best-shot-iconic-sports-logos-baseball-feats-winter-sports-secrets-the-quiz/",
+        "publishedAt": "2026-05-31T07:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "787"
+      },
       {
         "title": "Hegseth: Trump ‘Laser‑Focused’ on Securing a ‘Great Deal’ with Iran — ‘Or They’ll Face the War Department’",
         "description": "War Secretary Pete Hegseth said Saturday that President Trump remains “laser-focused” on securing what he described as a “great deal” with Iran, while warning that Tehran could face renewed U.S. military action if negotiations collapse.\nThe post Hegseth: Trum…",
@@ -76,46 +105,6 @@
         "publishedAt": "2026-05-31T01:37:50Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Virginia Sheriff Refuses to Enforce AR-15 Ban and 'Expanded Public-Carry Restrictions'",
-        "description": "VA Sheriff Travis Sumption says his office will not enforce the state's \"assault weapons\" ban nor the \"expanded public-carry restrictions.\"\nThe post Virginia Sheriff Refuses to Enforce AR-15 Ban and ‘Expanded Public-Carry Restrictions’ appeared first on Breit…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/30/virginia-sheriff-refuses-enforce-ar-15-ban-expanded-public-carry-restrictions/",
-        "publishedAt": "2026-05-30T15:22:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Sponsor of Virginia 'Assault Weapons' Ban Tells Anti-Gun Control Prosecutors: Quit 'Tough Guy Posturing'",
-        "description": "Virginia state Sen. Saddam Azlan Salim (D) is telling prosecutors who say they will not enforce his \"assault weapons\" ban to quit \"tough guy posturing.\"\nThe post Sponsor of Virginia ‘Assault Weapons’ Ban Tells Anti-Gun Control Prosecutors: Quit ‘Tough Guy Pos…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/30/sponsor-of-virginia-assault-weapons-ban-tells-anti-gun-control-prosecutors-quit-tough-guy-posturing/",
-        "publishedAt": "2026-05-30T14:55:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump threatened to 'blow up' Oman — why the tiny Gulf kingdom is caught between DC and Iran",
-        "description": "Trump's threat to Oman exposes a rift with a key U.S. partner that has served as Washington's backchannel to Iran for decades in the Middle East.",
-        "url": "https://www.foxnews.com/politics/trump-threatened-blow-up-oman-why-tiny-gulf-kingdom-caught-between-dc-iran",
-        "publishedAt": "2026-05-30T13:00:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pro wrestling star Killer Kross shares sweet, life-altering moment when a cat came into his life",
-        "description": "Pro wrestler Killer Kross reveals how a stray kitten showed up at his door and changed his life, curing his cat allergy along the way.",
-        "url": "https://www.foxnews.com/sports/pro-wrestling-star-killer-kross-shares-sweet-life-altering-moment-cat-came-life",
-        "publishedAt": "2026-05-30T12:04:52Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
