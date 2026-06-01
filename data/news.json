@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-06-01T01:36:11.000666+00:00",
+  "generated_at": "2026-06-01T06:31:48.924495+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners",
+        "description": "The battle for AI leadership has driven massive expenditures on computing networks by the likes of Meta Platforms Inc. and Amazon.com Inc",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners",
+        "publishedAt": "2026-05-31T06:12:13Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Senate candidate Graham Platner sent explicit texts to multiple women while married, wife says: report",
+        "description": "Democratic Senate candidate Graham Platner exchanged sexual texts with several women after marrying his wife, she says, according to reports.",
+        "url": "https://www.foxnews.com/politics/senate-candidate-graham-platner-sent-explicit-texts-multiple-women-while-married-wife-says",
+        "publishedAt": "2026-05-31T01:54:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Carney: Evidence Points to Possible Economic Boom After Iran War Ends",
+        "description": "Friday on “The Alex Marlow Show,” Breitbart’s John Carney talked about the economy. Carney said, “I think the economy is doing really well, even despite the war. The thing that impressed me the most about the latest consumer spending numbers\nThe post Carney: …",
+        "url": "https://www.breitbart.com/clips/2026/05/30/carney-evidence-points-to-possible-economic-boom-after-iran-war-ends/",
+        "publishedAt": "2026-05-31T00:47:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Caitlin Clark's turnover problem could be a defining factor in her legendary WNBA career",
+        "description": "Caitlin Clark's turnovers are the one flaw following her otherwise historic WNBA career, as she averages a league-leading 5.2 turnovers per game.",
+        "url": "https://www.foxnews.com/outkick-sports/caitlin-clarks-turnover-problem-could-defining-factor-legendary-wnba-career",
+        "publishedAt": "2026-05-30T21:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5.2"
+      },
+      {
+        "title": "Sarah Michelle Gellar and Freddie Prinze Jr. list their Brentwood home on the market for $10.5M",
+        "description": "Sarah Michelle Gellar and Freddie Prinze Jr. list their Brentwood family home for $10.5 million, featuring five bedrooms and resort-style amenities.",
+        "url": "https://www.foxnews.com/entertainment/sarah-michelle-gellar-freddie-prinze-jr-list-brentwood-home-market-105m",
+        "publishedAt": "2026-05-30T16:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Raise Defence Spending or Else, Hegseth Tells NATO",
+        "description": "US Defense Secretary Pete Hegseth took another swipe at Washington's NATO and European partners on Saturday, saying those that do not hike defence spending sufficiently \"will face a clear shift in how we do business\".\nThe post Raise Defence Spending or Else, …",
+        "url": "https://www.breitbart.com/europe/2026/05/30/raise-defence-spending-or-else-hegseth-tells-nato/",
+        "publishedAt": "2026-05-30T11:05:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Hegseth: Trump ‘Laser‑Focused’ on Securing a ‘Great Deal’ with Iran — ‘Or They’ll Face the War Department’",
+        "description": "War Secretary Pete Hegseth said Saturday that President Trump remains “laser-focused” on securing what he described as a “great deal” with Iran, while warning that Tehran could face renewed U.S. military action if negotiations collapse.\nThe post Hegseth: Trum…",
+        "url": "https://www.breitbart.com/politics/2026/05/30/hegseth-trump-laser%e2%80%91focused-on-securing-a-great-deal-with-iran-or-theyll-face-the-war-department/",
+        "publishedAt": "2026-05-31T01:37:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Virginia Sheriff Refuses to Enforce AR-15 Ban and 'Expanded Public-Carry Restrictions'",
+        "description": "VA Sheriff Travis Sumption says his office will not enforce the state's \"assault weapons\" ban nor the \"expanded public-carry restrictions.\"\nThe post Virginia Sheriff Refuses to Enforce AR-15 Ban and ‘Expanded Public-Carry Restrictions’ appeared first on Breit…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/30/virginia-sheriff-refuses-enforce-ar-15-ban-expanded-public-carry-restrictions/",
+        "publishedAt": "2026-05-30T15:22:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Sponsor of Virginia 'Assault Weapons' Ban Tells Anti-Gun Control Prosecutors: Quit 'Tough Guy Posturing'",
+        "description": "Virginia state Sen. Saddam Azlan Salim (D) is telling prosecutors who say they will not enforce his \"assault weapons\" ban to quit \"tough guy posturing.\"\nThe post Sponsor of Virginia ‘Assault Weapons’ Ban Tells Anti-Gun Control Prosecutors: Quit ‘Tough Guy Pos…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/05/30/sponsor-of-virginia-assault-weapons-ban-tells-anti-gun-control-prosecutors-quit-tough-guy-posturing/",
+        "publishedAt": "2026-05-30T14:55:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump threatened to 'blow up' Oman — why the tiny Gulf kingdom is caught between DC and Iran",
+        "description": "Trump's threat to Oman exposes a rift with a key U.S. partner that has served as Washington's backchannel to Iran for decades in the Middle East.",
+        "url": "https://www.foxnews.com/politics/trump-threatened-blow-up-oman-why-tiny-gulf-kingdom-caught-between-dc-iran",
+        "publishedAt": "2026-05-30T13:00:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pro wrestling star Killer Kross shares sweet, life-altering moment when a cat came into his life",
+        "description": "Pro wrestler Killer Kross reveals how a stray kitten showed up at his door and changed his life, curing his cat allergy along the way.",
+        "url": "https://www.foxnews.com/sports/pro-wrestling-star-killer-kross-shares-sweet-life-altering-moment-cat-came-life",
+        "publishedAt": "2026-05-30T12:04:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
