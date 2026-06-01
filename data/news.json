@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-06-01T18:19:42.088331+00:00",
+  "generated_at": "2026-06-01T21:45:32.094112+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Exclusive — Serbian President Aleksandar Vucic: Donald Trump ‘Much More Popular’ in Serbia than Any Other U.S. Leader Because He Is ‘Pragmatic,’ ‘Rational’",
-        "description": "BELGRADE, Serbia — Serbian President Aleksandar Vucic told Breitbart News exclusively in his office here that American President Donald Trump is easily the most popular United States political leader in his country in a very long time.\nThe post Exclusive — Se…",
-        "url": "https://www.breitbart.com/politics/2026/05/31/exclusive-serbian-president-aleksandar-vucic-donald-trump-much-more-popular-in-serbia-than-any-other-u-s-leader-because-he-is-pragmatic-ration/",
-        "publishedAt": "2026-05-31T17:04:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pence: Trump 'Departed' from Conservative Agenda",
-        "description": "Sunday on NBC's \"Meet the Press,\" former Vice President Mike Pence said President Donald Trump had \"departed\" from the conservative agenda.\nThe post Pence: Trump ‘Departed’ from Conservative Agenda appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/clips/2026/05/31/pence-trump-departed-from-conservative-agenda/",
-        "publishedAt": "2026-05-31T15:24:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Tech Professional Exposes Chinese Enclaves, Discrimination at Facebook/Meta",
-        "description": "Meta, the company that used to be called Facebook, has allowed at least one department to be run by Chinese migrants, according to a former employee who is now blowing the whistle on the company's toxic, anti-professionalism culture.\nThe post U.S. Tech Profes…",
-        "url": "https://www.breitbart.com/tech/2026/05/31/us-tech-professional-exposes-chinese-enclaves-nepotism-at-facebook-meta/",
-        "publishedAt": "2026-05-31T14:29:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Humanoid robot cleans first US apartment",
-        "description": "Gatsby claims a humanoid robot walked into a San Francisco apartment and cleaned it entirely, marking what the startup calls a U.S. consumer first.",
-        "url": "https://www.foxnews.com/tech/humanoid-robot-cleans-first-us-apartment",
-        "publishedAt": "2026-05-31T13:27:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "America’s next economic powerhouse may be rising in red-state territory",
-        "description": "Texas leads the nation in corporate headquarters relocations with Dallas-Fort Worth, Austin and Houston drawing companies from high-tax blue states.",
-        "url": "https://www.foxnews.com/politics/americas-next-economic-powerhouse-may-rising-red-state-territory",
-        "publishedAt": "2026-05-31T12:32:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Why NATO’s defense spending imbalance lasted for decades",
-        "description": "Defense analysts explain why NATO's spending gap persisted for decades and what finally pushed European allies to increase military investments.",
-        "url": "https://www.foxnews.com/politics/why-natos-defense-spending-imbalance-lasted-decades",
-        "publishedAt": "2026-05-31T16:47:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump expands Turkey ambassador's diplomatic role, adding Iraq, Syria amid Middle East tensions",
-        "description": "President Trump expands Tom Barrack's role to special presidential envoy for Syria and Iraq amid high-stakes Middle East diplomacy with Iran.",
-        "url": "https://www.foxnews.com/politics/trump-expands-turkey-ambassadors-diplomatic-role-adding-iraq-syria-amid-middle-east-tensions",
-        "publishedAt": "2026-05-31T16:35:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Three Shot After 'Several' Gunmen Open Fire at House Party",
-        "description": "Three people were shot, one of the them fatally, following a fight at a house party Saturday morning in Humble, Texas.\nThe post Three Shot After ‘Several’ Gunmen Open Fire at House Party appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/05/31/three-shot-after-several-gunmen-open-fire-at-house-party/",
-        "publishedAt": "2026-05-31T14:52:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: Disney’s ‘Mandalorian’ Flops with Second Week Crash of 72%",
-        "description": "It’s official: after a 72 percent collapse in its second weekend, the Disney Grooming Syndicate’s Mandalorian and Grogu is a flop.\nThe post Nolte: Disney’s ‘Mandalorian’ Flops with Second Week Crash of 72% appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/05/31/nolte-disneys-mandalorian-flops-with-second-week-crash-of-72/",
-        "publishedAt": "2026-05-31T12:34:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "72"
-      },
-      {
-        "title": "BISHOP ROBERT BARRON: Pope Leo sees the AI age clearly — and warns we must save our souls",
-        "description": "Pope Leo's Magnifica Humanitas addresses AI, Catholic social teaching, war and peace, and the technocratic paradigm threatening human dignity today.",
-        "url": "https://www.foxnews.com/opinion/bishop-robert-barron-pope-leo-sees-ai-age-clearly-warns-must-save-souls",
-        "publishedAt": "2026-05-31T12:00:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
