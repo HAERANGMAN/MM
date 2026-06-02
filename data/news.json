@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-06-02T10:59:16.808344+00:00",
+  "generated_at": "2026-06-02T15:01:21.076030+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Trump’s energy initiatives may finally extract America from Mideast chaos",
+        "description": "A pattern of U.S. energy isolationism emerges as Trump pushes drilling, Venezuela exports rise, and hemispheric oil supply nears full coverage.",
+        "url": "https://www.foxnews.com/opinion/trumps-energy-initiatives-may-finally-extract-america-mideast-chaos",
+        "publishedAt": "2026-06-01T09:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "U.S. Manufacturing Gauge Rises To Highest Level in Four Years",
+        "description": "New orders and output measures rose sharply in May.\nThe post U.S. Manufacturing Gauge Rises To Highest Level in Four Years appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/01/u-s-manufacturing-gauge-rises-to-highest-level-in-four-years/",
+        "publishedAt": "2026-06-01T14:56:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Stocks Slip Despite AI Enthusiasm",
+        "description": "U.S. stocks dipped despite enthusiasm around AI after Nvidia unveiled its new superchip.",
+        "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-rise-even-as-oil-jumps-on-fresh-u-s-iran-hostilities-bbc59517",
+        "publishedAt": "2026-06-01T14:37:00Z",
+        "source": {
+          "name": "The Wall Street Journal"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Giants working out multiple receivers including Odell Beckham Jr, while Eagles look to trade AJ Brown",
+        "description": "The Philadelphia Eagles and New York Giants face big wide receiver decisions starting Monday as A.J. Brown trade talks and Odell Beckham Jr.'s potential return heat up in the NFL.",
+        "url": "https://www.foxnews.com/sports/giants-working-multiple-receivers-including-odell-beckham-jr-eagles-look-trade-aj-brown",
+        "publishedAt": "2026-06-01T12:46:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Health Insurance Now Costs More than a Mortgage. Thanks, Obamacare!",
+        "description": "Healthcare costs shouldn’t eclipse the cost of owning a home; but for millions of Americans, that's exactly what's happening.",
+        "url": "https://www.breitbart.com/politics/2026/06/01/health-insurance-now-costs-more-than-a-mortgage-thanks-obamacare/",
+        "publishedAt": "2026-06-01T11:50:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Veterans face surprising threat after cancer diagnosis, study reveals",
+        "description": "A new JAMA Oncology study finds veterans with cancer face elevated suicide risk that can persist for up to five years following their diagnosis.",
+        "url": "https://www.foxnews.com/health/veterans-face-surprising-threat-after-cancer-diagnosis-study-reveals",
+        "publishedAt": "2026-06-01T11:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "U.S. Manufacturing Gauge Rises To Highest Level in Four Years",
+        "description": "New orders and output measures rose sharply in May.\nThe post U.S. Manufacturing Gauge Rises To Highest Level in Four Years appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/01/u-s-manufacturing-gauge-rises-to-highest-level-in-four-years/",
+        "publishedAt": "2026-06-01T14:56:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Captured: Alleged Cop Killer Apprehended in North Carolina",
+        "description": "Michael Puckett, the man suspected of killing a Carroll County, Virginia, sheriff's deputy Friday night was captured in North Carolina on Sunday around 8:30 p.m.\nThe post Captured: Alleged Cop Killer Apprehended in North Carolina appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/01/captured-alleged-cop-killer-apprehended-in-north-carolina/",
+        "publishedAt": "2026-06-01T13:59:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "Fourth US drug boat strike in a week kills more 'narco-terrorists'",
+        "description": "After three other vessel strikes last week, U.S. Southern Command reported that another strike that left three \"narco-terrorists\" dead",
+        "url": "https://www.foxnews.com/politics/fourth-us-drug-boat-strike-week-kills-3-narco-terrorists",
+        "publishedAt": "2026-06-01T13:21:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Cenk Uygur, Hasan Piker Banned From Britain Over History of Antisemitism, Ruled as 'Not Conducive to the Public Good'",
+        "description": "Hard-left Turkish-American influencers Cenk Uygur and Hasan Piker have been banned from entering the United Kingdom.\nThe post Cenk Uygur, Hasan Piker Banned From Britain Over History of Antisemitism, Ruled as ‘Not Conducive to the Public Good’ appeared first …",
+        "url": "https://www.breitbart.com/europe/2026/06/01/not-conducive-to-the-public-good-cenk-uygur-piker-banned-from-uk/",
+        "publishedAt": "2026-06-01T12:18:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Why NATO’s defense spending imbalance lasted for decades",
+        "description": "Defense analysts explain why NATO's spending gap persisted for decades and what finally pushed European allies to increase military investments.",
+        "url": "https://www.foxnews.com/politics/why-natos-defense-spending-imbalance-lasted-decades",
+        "publishedAt": "2026-05-31T16:47:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
