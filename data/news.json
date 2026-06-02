@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T15:01:21.076030+00:00",
+  "generated_at": "2026-06-02T18:49:20.918176+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Construction Spending Beats Expectations, Boosted By Strong AI-Related Demand",
+        "description": "The Commerce Department's ‌Census Bureau reported on Monday that construction spending rose 0.4 percent in March, twice as much as expected.\nThe post Construction Spending Beats Expectations, Boosted By Strong AI-Related Demand appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/01/construction-spending-beats-expectations-boosted-by-strong-ai-related-demand/",
+        "publishedAt": "2026-06-01T15:37:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "0.4"
+      },
       {
         "title": "U.S. Manufacturing Gauge Rises To Highest Level in Four Years",
         "description": "New orders and output measures rose sharply in May.\nThe post U.S. Manufacturing Gauge Rises To Highest Level in Four Years appeared first on Breitbart.",
@@ -54,21 +64,41 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Veterans face surprising threat after cancer diagnosis, study reveals",
-        "description": "A new JAMA Oncology study finds veterans with cancer face elevated suicide risk that can persist for up to five years following their diagnosis.",
-        "url": "https://www.foxnews.com/health/veterans-face-surprising-threat-after-cancer-diagnosis-study-reveals",
-        "publishedAt": "2026-06-01T11:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Bill Gates' Carefully Managed Public Image Falls Apart Under Epstein Scrutiny",
+        "description": "Bill Gates who transformed himself from a software tycoon into a leftist icon of environmentalism and health philanthropy, is seeing his meticulously crafted reputation crumble as new details emerge about his relationship with convicted sex offender Jeffrey E…",
+        "url": "https://www.breitbart.com/tech/2026/06/01/bill-gates-carefully-managed-public-image-falls-apart-under-epstein-scrutiny/",
+        "publishedAt": "2026-06-01T17:01:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US Mint Unveils World Cup 2026 Coins And Collectors — Even Incredibly Casual Ones Like Me — Are Ready",
+        "description": "Three new commemorative coins celebrate the 2026 FIFA World Cup, with surcharges from sales going toward growing soccer in the United States.",
+        "url": "https://www.foxnews.com/outkick-sports/us-mint-unveils-world-cup-2026-coins-collectors-even-incredibly-casual-ones-like-ready",
+        "publishedAt": "2026-06-01T16:24:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Lone survivor rescued after fatal fall kills three climbers on Mount McKinley",
+        "description": "Four Latvian climbers fell near Denali Pass on Mount McKinley a few days ago. Three died in the fall and one survivor was left in critical condition after a dramatic rescue.",
+        "url": "https://www.foxnews.com/travel/lone-survivor-rescued-fatal-fall-kills-three-climbers-mount-mckinley",
+        "publishedAt": "2026-06-01T15:09:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "U.S. Manufacturing Gauge Rises To Highest Level in Four Years",
         "description": "New orders and output measures rose sharply in May.\nThe post U.S. Manufacturing Gauge Rises To Highest Level in Four Years appeared first on Breitbart.",
@@ -88,36 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "8"
-      },
-      {
-        "title": "Fourth US drug boat strike in a week kills more 'narco-terrorists'",
-        "description": "After three other vessel strikes last week, U.S. Southern Command reported that another strike that left three \"narco-terrorists\" dead",
-        "url": "https://www.foxnews.com/politics/fourth-us-drug-boat-strike-week-kills-3-narco-terrorists",
-        "publishedAt": "2026-06-01T13:21:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Cenk Uygur, Hasan Piker Banned From Britain Over History of Antisemitism, Ruled as 'Not Conducive to the Public Good'",
-        "description": "Hard-left Turkish-American influencers Cenk Uygur and Hasan Piker have been banned from entering the United Kingdom.\nThe post Cenk Uygur, Hasan Piker Banned From Britain Over History of Antisemitism, Ruled as ‘Not Conducive to the Public Good’ appeared first …",
-        "url": "https://www.breitbart.com/europe/2026/06/01/not-conducive-to-the-public-good-cenk-uygur-piker-banned-from-uk/",
-        "publishedAt": "2026-06-01T12:18:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Why NATO’s defense spending imbalance lasted for decades",
-        "description": "Defense analysts explain why NATO's spending gap persisted for decades and what finally pushed European allies to increase military investments.",
-        "url": "https://www.foxnews.com/politics/why-natos-defense-spending-imbalance-lasted-decades",
-        "publishedAt": "2026-05-31T16:47:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
