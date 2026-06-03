@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-03T17:09:52.387527+00:00",
+  "generated_at": "2026-06-03T20:26:51.127572+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Florida Lawsuit: Sam Altman and OpenAI Concealed ChatGPT Safety Concerns",
+        "description": "Florida has become the first state in the nation to file a lawsuit against AI giant OpenAI and its CEO Sam Altman, alleging the company deliberately hid serious risks associated with ChatGPT from users.\nThe post Florida Lawsuit: Sam Altman and OpenAI Conceale…",
+        "url": "https://www.breitbart.com/tech/2026/06/02/florida-lawsuit-sam-altman-and-openai-concealed-chatgpt-safety-concerns/",
+        "publishedAt": "2026-06-02T17:33:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "SEE IT: LA voters split on Pratt's mayoral bid as one issue dominates Election Day",
+        "description": "Los Angeles voters say homelessness is the top issue in the mayoral primary race featuring Karen Bass, Spencer Pratt and Nithya Raman as candidates.",
+        "url": "https://www.foxnews.com/politics/see-la-voters-split-pratts-mayoral-bid-one-issue-dominates-election-day",
+        "publishedAt": "2026-06-02T17:15:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Hagerty: 'Only Position that the Democrats Seem to Have Is Anti-Trump Chaos, Socialism, Democratic Socialism'",
         "description": "During an appearance on FBN's \"Varney & Co.,\" Sen. Bill Hagerty (R-TN) expressed skepticism that Democrats will succeed in the November midterm elections.\nThe post Hagerty: ‘Only Position that the Democrats Seem to Have Is Anti-Trump Chaos, Socialism, Democra…",
@@ -33,78 +53,58 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "WATCH: Schiff ducks Platner questions as embattled Dem Senate hopeful hits DC",
-        "description": "Sen. Adam Schiff says he'll wait to learn more about allegations against Maine Democrat Graham Platner as party divisions grow over his Senate bid.",
-        "url": "https://www.foxnews.com/politics/watch-schiff-ducks-platner-questions-embattled-dem-senate-hopeful-hits-dc",
-        "publishedAt": "2026-06-02T15:05:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Job Openings Soar to 7.6 Million, Highest in Nearly Two Years",
-        "description": "The number of open jobs in the U.S. economy jumped to 7.6 million in April while layoffs declined, evidence of how demand for workers has intensified.\nThe post Job Openings Soar to 7.6 Million, Highest in Nearly Two Years appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/02/job-openings-soar-to-7-6-million-crushing-expectations/",
-        "publishedAt": "2026-06-02T14:24:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "7.6"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "Could cancer vaccines be next? New treatment cuts melanoma risk by nearly 50%",
-        "description": "A new mRNA melanoma vaccine from Merck and Moderna showed sustained benefits over five years, cutting the risk of cancer recurrence or death by nearly half.",
-        "url": "https://www.foxnews.com/health/could-cancer-vaccines-next-new-treatment-cuts-melanoma-risk-nearly-50",
-        "publishedAt": "2026-06-02T17:03:32Z",
+        "title": "NJ Transit World Cup train tickets see eyepoppingly slow sales ahead of upcoming tournament",
+        "description": "NJ Transit has sold less than 6% of available World Cup train tickets to MetLife Stadium despite lowering the round-trip price from $150 to $98.",
+        "url": "https://www.foxnews.com/sports/nj-transit-world-cup-train-tickets-see-eyepoppingly-slow-sales-ahead-upcoming-tournament",
+        "publishedAt": "2026-06-02T19:57:00Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "50"
+        "numericHint": "6"
       },
       {
-        "title": "Trump Signs Executive Order Asking for Oversight of New AI Models",
-        "description": "President Donald Trump on Tuesday signed an executive order that asks AI companies to submit to a voluntary government review 30 days before releasing AI models to the public.\nThe post Trump Signs Executive Order Asking for Oversight of New AI Models appeared…",
-        "url": "https://www.breitbart.com/politics/2026/06/02/trump-signs-ai-executive-order-asking-for-oversight-of-new-models/",
-        "publishedAt": "2026-06-02T16:59:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "30"
-      },
-      {
-        "title": "Iran Launches 'Intensive' Diplomacy After Dueling Foreign Ministry, IRGC Claims on U.S. Talks",
-        "description": "Iranian state media reported on Tuesday that Foreign Minister Abbas Araghchi had spent much of the day in \"intensive\" phone conversations with diplomats from a variety of countries after a contentious Monday in which Araghchi appeared to reject Iranian milita…",
-        "url": "https://www.breitbart.com/middle-east/2026/06/02/iran-launches-intensive-diplomacy-after-dueling-foreign-ministry-irgc-claims-on-u-s-talks/",
-        "publishedAt": "2026-06-02T14:22:18Z",
+        "title": "Hall at the Founders' Roundtable: Five Action Items on AI to Start Right Now",
+        "description": "Wynton Hall, whose New York Times bestselling book Code Red: The Left, the Right, China, and the Race to Control AI has established him as a leading expert on AI in the conservative movement, closed Breitbart's latest Founders' Roundtable with a charge to the…",
+        "url": "https://www.breitbart.com/tech/2026/06/02/hall-at-the-founders-roundtable-five-action-items-on-ai-to-start-right-now/",
+        "publishedAt": "2026-06-02T18:31:35Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Six Dead After Man Allegedly Opens Fire on Family Members in Iowa",
-        "description": "Six innocents were killed around lunchtime Monday when a man allegedly opened fire on family members in Muscatine, Iowa.\nThe post Six Dead After Man Allegedly Opens Fire on Family Members in Iowa appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/02/six-dead-after-man-allegedly-opens-fire-on-family-members-in-iowa/",
-        "publishedAt": "2026-06-02T14:12:59Z",
+        "title": "US ally answers Trump's call on Strait of Hormuz: 'Part of a diplomatic effort'",
+        "description": "Romania allowed access to military bases for air refueling and defensive activities amid U.S.-Iran tensions, its foreign minister tells Fox News Digital.",
+        "url": "https://www.foxnews.com/world/us-ally-answers-trumps-call-strait-hormuz-part-diplomatic-effort",
+        "publishedAt": "2026-06-02T18:05:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Farage Calls for Cross Party Parliament Investigation Into 'Unique Evil' of Grooming Gangs and Politically Correct Cover Up",
+        "description": "Reform UK leader Nigel Farage has called on Parliament to establish a bipartisan committee to confront the \"unique evil\" of child rape grooming gangs in Britain and the politically correct failures of local authorities that allowed such abuse to continue for …",
+        "url": "https://www.breitbart.com/europe/2026/06/02/farage-calls-for-cross-party-parliament-investigation-into-unique-evil-of-grooming-gangs-and-politically-correct-cover-up/",
+        "publishedAt": "2026-06-02T18:03:29Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Foreign enemies have a shockingly simple way to track US troops overseas, lawmakers warn",
-        "description": "Lawmakers warn the Pentagon has failed to protect military personnel from adversaries exploiting commercially available cell phone location data.",
-        "url": "https://www.foxnews.com/politics/foreign-enemies-have-shockingly-simple-way-track-us-troops-overseas-lawmakers-warn",
-        "publishedAt": "2026-06-02T13:58:27Z",
+        "title": "Martel at the Founders’ Roundtable: If China Wins the AI Race, They Will Export Repressive Technology Worldwide",
+        "description": "Breitbart News International Editor Frances Martel said on Sunday during the Breitbart Founders' Roundtable that if China wins the AI race, they will export repressive technology worldwide.\nThe post Martel at the Founders’ Roundtable: If China Wins the AI Rac…",
+        "url": "https://www.breitbart.com/tech/2026/06/02/martel-at-the-founders-roundtable-if-china-wins-the-ai-race-they-will-export-repressive-technology-worldwide/",
+        "publishedAt": "2026-06-02T18:01:35Z",
         "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
