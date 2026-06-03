@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-03T12:03:39.221086+00:00",
+  "generated_at": "2026-06-03T17:09:52.387527+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Hagerty: 'Only Position that the Democrats Seem to Have Is Anti-Trump Chaos, Socialism, Democratic Socialism'",
+        "description": "During an appearance on FBN's \"Varney & Co.,\" Sen. Bill Hagerty (R-TN) expressed skepticism that Democrats will succeed in the November midterm elections.\nThe post Hagerty: ‘Only Position that the Democrats Seem to Have Is Anti-Trump Chaos, Socialism, Democra…",
+        "url": "https://www.breitbart.com/clips/2026/06/02/hagerty-only-position-that-the-democrats-seem-to-have-is-anti-trump-chaos-socialism-democratic-socialism/",
+        "publishedAt": "2026-06-02T17:02:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "2026 NBA Finals preview: New York Knicks vs San Antonio Spurs best bets for series, MVP player props",
+        "description": "The 2026 NBA Finals pit the Knicks against the Spurs, and I'll explain why I'm backing the New York Knicks to end their 53-year title drought.",
+        "url": "https://www.foxnews.com/outkick-sports/2026-nba-finals-preview-new-york-knicks-vs-san-antonio-spurs-best-bets-series-mvp-player-props",
+        "publishedAt": "2026-06-02T16:02:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Anthropic Files Papers for Potential $1 Trillion AI IPO",
+        "description": "AI powerhouse Anthropic announced on Monday that it has confidentially filed its IPO prospectus with the SEC, establishing the framework for what could become a historic IPO potentially valuing the company at more than $1 trillion.\nThe post Anthropic Files Pa…",
+        "url": "https://www.breitbart.com/tech/2026/06/02/anthropic-files-papers-for-potential-1-trillion-ai-ipo/",
+        "publishedAt": "2026-06-02T15:56:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "WATCH: Schiff ducks Platner questions as embattled Dem Senate hopeful hits DC",
+        "description": "Sen. Adam Schiff says he'll wait to learn more about allegations against Maine Democrat Graham Platner as party divisions grow over his Senate bid.",
+        "url": "https://www.foxnews.com/politics/watch-schiff-ducks-platner-questions-embattled-dem-senate-hopeful-hits-dc",
+        "publishedAt": "2026-06-02T15:05:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Job Openings Soar to 7.6 Million, Highest in Nearly Two Years",
+        "description": "The number of open jobs in the U.S. economy jumped to 7.6 million in April while layoffs declined, evidence of how demand for workers has intensified.\nThe post Job Openings Soar to 7.6 Million, Highest in Nearly Two Years appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/02/job-openings-soar-to-7-6-million-crushing-expectations/",
+        "publishedAt": "2026-06-02T14:24:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "7.6"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Could cancer vaccines be next? New treatment cuts melanoma risk by nearly 50%",
+        "description": "A new mRNA melanoma vaccine from Merck and Moderna showed sustained benefits over five years, cutting the risk of cancer recurrence or death by nearly half.",
+        "url": "https://www.foxnews.com/health/could-cancer-vaccines-next-new-treatment-cuts-melanoma-risk-nearly-50",
+        "publishedAt": "2026-06-02T17:03:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "Trump Signs Executive Order Asking for Oversight of New AI Models",
+        "description": "President Donald Trump on Tuesday signed an executive order that asks AI companies to submit to a voluntary government review 30 days before releasing AI models to the public.\nThe post Trump Signs Executive Order Asking for Oversight of New AI Models appeared…",
+        "url": "https://www.breitbart.com/politics/2026/06/02/trump-signs-ai-executive-order-asking-for-oversight-of-new-models/",
+        "publishedAt": "2026-06-02T16:59:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "30"
+      },
+      {
+        "title": "Iran Launches 'Intensive' Diplomacy After Dueling Foreign Ministry, IRGC Claims on U.S. Talks",
+        "description": "Iranian state media reported on Tuesday that Foreign Minister Abbas Araghchi had spent much of the day in \"intensive\" phone conversations with diplomats from a variety of countries after a contentious Monday in which Araghchi appeared to reject Iranian milita…",
+        "url": "https://www.breitbart.com/middle-east/2026/06/02/iran-launches-intensive-diplomacy-after-dueling-foreign-ministry-irgc-claims-on-u-s-talks/",
+        "publishedAt": "2026-06-02T14:22:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Six Dead After Man Allegedly Opens Fire on Family Members in Iowa",
+        "description": "Six innocents were killed around lunchtime Monday when a man allegedly opened fire on family members in Muscatine, Iowa.\nThe post Six Dead After Man Allegedly Opens Fire on Family Members in Iowa appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/02/six-dead-after-man-allegedly-opens-fire-on-family-members-in-iowa/",
+        "publishedAt": "2026-06-02T14:12:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Foreign enemies have a shockingly simple way to track US troops overseas, lawmakers warn",
+        "description": "Lawmakers warn the Pentagon has failed to protect military personnel from adversaries exploiting commercially available cell phone location data.",
+        "url": "https://www.foxnews.com/politics/foreign-enemies-have-shockingly-simple-way-track-us-troops-overseas-lawmakers-warn",
+        "publishedAt": "2026-06-02T13:58:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
