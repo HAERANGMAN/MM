@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-04T21:55:38.839283+00:00",
+  "generated_at": "2026-06-04T23:08:19.695076+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Exclusive — President Vucic: U.S. Set to Outpace China in Serbian Investment; Post-Iran War Economic Boom Could Set Stage for Revival of Washington Agreement on Kosovo",
+        "description": "Serbian President Aleksandar Vucic told Breitbart News that it would be a “big, big, big deal” if President Donald Trump turned his gaze to finalizing the Washington Agreement between Serbia and Kosovo after he finishes his deal with the Islamic Republic of I…",
+        "url": "https://www.breitbart.com/politics/2026/06/03/exclusive-president-vucic-u-s-set-to-outpace-china-in-serbian-investment-post-iran-war-economic-boom-could-set-stage-for-revival-of-washington-agreement-on-kosovo/",
+        "publishedAt": "2026-06-03T22:44:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Is the AI Boom Becoming Too Much of a Good Thing?",
+        "description": "AI may well deliver the productivity boom its champions expect. The risk is that the economy has already begun borrowing against that future before the returns have been earned.\nThe post Breitbart Business Digest: Is the AI Boom Becoming Too Much of a Good Th…",
+        "url": "https://www.breitbart.com/economy/2026/06/03/breitbart-business-digest-is-the-ai-boom-becoming-too-much-of-a-good-thing/",
+        "publishedAt": "2026-06-03T22:23:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News Poll: Democratic unity, Republican crossovers shape Ohio Senate race",
+        "description": "A Fox News poll shows Democrat Sherrod Brown leading Republican Jon Husted by 8 points in Ohio's Senate race as Trump's approval drops sharply.",
+        "url": "https://www.foxnews.com/politics/fox-news-poll-democratic-unity-republican-crossovers-shape-ohio-senate-race",
+        "publishedAt": "2026-06-03T22:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
       {
         "title": "Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed",
         "description": "Democrat Sen. Chris Murphy (D-CT) suggested to a group of supporters that the 77 million+ Americans who voted for President Donald Trump are ignorant and ill-informed.\nThe post Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed app…",
@@ -23,41 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Lawmakers to vote on anti-fraud bill amid probe on Ohio's Medicaid program | Fox News Video",
-        "description": "Fox News chief congressional correspondent Chad Pergram has the latest on new bills up for vote amid concerns about Somalian Medicaid fraud on 'America Reports.'",
-        "url": "https://www.foxnews.com/video/6397457752112",
-        "publishedAt": "2026-06-03T20:42:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Reporter's Notebook: Rebels threaten to upend GOP agenda amid growing frustrations with Trump",
-        "description": "Republican frustrations with President Trump over war, economy, and primaries create a disaffected caucus that could stymie GOP legislation.",
-        "url": "https://www.foxnews.com/politics/reporters-notebook-rebels-threaten-upend-gop-agenda-amid-growing-frustrations-trump",
-        "publishedAt": "2026-06-03T20:31:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive—Chuck Flint: American Prosperity Depends on Ending Our Reliance on Chinese Supply Chains",
-        "description": "Working families paid for America’s addiction to Chinese supply chains. Now corporate America needs to address the issue, not circumvent it.\nThe post Exclusive—Chuck Flint: American Prosperity Depends on Ending Our Reliance on Chinese Supply Chains appeared f…",
-        "url": "https://www.breitbart.com/economy/2026/06/03/exclusive-chuck-flint-american-prosperity-depends-on-ending-our-reliance-on-chinese-supply-chains/",
-        "publishedAt": "2026-06-03T19:46:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "NC State and Virginia moving game back to Charlottesville is a huge win for college football",
+        "description": "Virginia and NC State may move their upcoming college football matchup from Brazil back to Charlottesville, a win for fans who want games on campus.",
+        "url": "https://www.foxnews.com/outkick-sports/nc-state-virginia-moving-game-back-charlottesville-huge-win-college-football",
+        "publishedAt": "2026-06-03T22:05:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed",
         "description": "Democrat Sen. Chris Murphy (D-CT) suggested to a group of supporters that the 77 million+ Americans who voted for President Donald Trump are ignorant and ill-informed.\nThe post Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed app…",
@@ -92,16 +102,6 @@
         "title": "[EMBARGO] Meta leads largest-ever anti-scam operation with FBI and DOJ, resulting in 63 arrests",
         "description": "Meta led a sweeping anti-scam operation with the FBI, DOJ and Microsoft, resulting in 63 arrests and the removal of 1.4 million scam accounts.",
         "url": "https://www.foxnews.com/us/embargo-meta-leads-largest-ever-anti-scam-operation-fbi-doj-resulting-63-arrests",
-        "publishedAt": "2026-06-03T11:03:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "63"
-      },
-      {
-        "title": "Meta leads largest-ever anti-scam operation with FBI and DOJ, resulting in 63 arrests",
-        "description": "Meta led a sweeping anti-scam operation with the FBI, DOJ and Microsoft, resulting in 63 arrests and the removal of 1.4 million scam accounts.",
-        "url": "https://www.foxnews.com/us/meta-leads-largest-ever-anti-scam-operation-fbi-doj-resulting-63-arrests",
         "publishedAt": "2026-06-03T11:03:18Z",
         "source": {
           "name": "Fox News"
