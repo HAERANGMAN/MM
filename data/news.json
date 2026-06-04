@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-04T00:17:44.548824+00:00",
+  "generated_at": "2026-06-04T05:13:11.737605+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Iranians speak out over possible Trump-regime deal",
-        "description": "Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation.",
-        "url": "https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal",
-        "publishedAt": "2026-06-02T21:52:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
