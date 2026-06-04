@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T22:37:17.437951+00:00",
+  "generated_at": "2026-06-04T00:17:44.548824+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "MLB's salary cap proposal won't fix the league's non-existent competitive balance problems",
-        "description": "MLB labor negotiations heat up as players and owners clash over salary caps, revenue sharing, and competitive balance ahead of the 2026 season's end.",
-        "url": "https://www.foxnews.com/outkick-sports/mlbs-salary-cap-proposal-wont-fix-leagues-non-existent-competitive-balance-problems",
-        "publishedAt": "2026-06-02T21:56:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Iranians speak out over possible Trump-regime deal",
-        "description": "Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation.",
-        "url": "https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal",
-        "publishedAt": "2026-06-02T21:52:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: What April Job Openings Tell Us About AI",
-        "description": "The forecast that artificial intelligence will lead to mass unemployment took another hit this week as demand for workers rose sharply in April data.\nThe post Breitbart Business Digest: What April Job Openings Tell Us About AI appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/02/breitbart-business-digest-what-april-job-openings-tell-us-about-ai/",
-        "publishedAt": "2026-06-02T21:12:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Florida Lawsuit: Sam Altman and OpenAI Concealed ChatGPT Safety Concerns",
-        "description": "Florida has become the first state in the nation to file a lawsuit against AI giant OpenAI and its CEO Sam Altman, alleging the company deliberately hid serious risks associated with ChatGPT from users.\nThe post Florida Lawsuit: Sam Altman and OpenAI Conceale…",
-        "url": "https://www.breitbart.com/tech/2026/06/02/florida-lawsuit-sam-altman-and-openai-concealed-chatgpt-safety-concerns/",
-        "publishedAt": "2026-06-02T17:33:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEE IT: LA voters split on Pratt's mayoral bid as one issue dominates Election Day",
-        "description": "Los Angeles voters say homelessness is the top issue in the mayoral primary race featuring Karen Bass, Spencer Pratt and Nithya Raman as candidates.",
-        "url": "https://www.foxnews.com/politics/see-la-voters-split-pratts-mayoral-bid-one-issue-dominates-election-day",
-        "publishedAt": "2026-06-02T17:15:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iranians speak out over possible Trump-regime deal",
-        "description": "Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation.",
-        "url": "https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal",
-        "publishedAt": "2026-06-02T21:52:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Virginia: At Least 10 Commonwealth Attorneys Refuse to Enforce 'Assault Weapons' Ban",
-        "description": "At least ten Commonwealth's Attorneys have made clear that they will not enforce the \"assault weapons\" ban scheduled to take effect in Virginia on July 1, 2026.\nThe post Virginia: At Least 10 Commonwealth Attorneys Refuse to Enforce ‘Assault Weapons’ Ban appe…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/02/virginia-at-least-10-commonwealth-attorneys-refuse-to-enforce-assault-weapons-ban/",
-        "publishedAt": "2026-06-02T21:35:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "NJ Transit World Cup train tickets see eyepoppingly slow sales ahead of upcoming tournament",
-        "description": "NJ Transit has sold less than 6% of available World Cup train tickets to MetLife Stadium despite lowering the round-trip price from $150 to $98.",
-        "url": "https://www.foxnews.com/sports/nj-transit-world-cup-train-tickets-see-eyepoppingly-slow-sales-ahead-upcoming-tournament",
-        "publishedAt": "2026-06-02T19:57:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "6"
-      },
-      {
-        "title": "Hall at the Founders' Roundtable: Five Action Items on AI to Start Right Now",
-        "description": "Wynton Hall, whose New York Times bestselling book Code Red: The Left, the Right, China, and the Race to Control AI has established him as a leading expert on AI in the conservative movement, closed Breitbart's latest Founders' Roundtable with a charge to the…",
-        "url": "https://www.breitbart.com/tech/2026/06/02/hall-at-the-founders-roundtable-five-action-items-on-ai-to-start-right-now/",
-        "publishedAt": "2026-06-02T18:31:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US ally answers Trump's call on Strait of Hormuz: 'Part of a diplomatic effort'",
-        "description": "Romania allowed access to military bases for air refueling and defensive activities amid U.S.-Iran tensions, its foreign minister tells Fox News Digital.",
-        "url": "https://www.foxnews.com/world/us-ally-answers-trumps-call-strait-hormuz-part-diplomatic-effort",
-        "publishedAt": "2026-06-02T18:05:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
