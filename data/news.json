@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:52:02.364874+00:00",
+  "generated_at": "2026-06-05T08:37:23.218194+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Rupee support measures likely to give RBI room to hold for now",
-        "description": "The cabinet is likely considering steps this week to make it more attractive for foreign investors to buy the nations bonds",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-04/rupee-support-measures-likely-to-give-rbi-room-to-hold-for-now",
-        "publishedAt": "2026-06-04T04:02:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Why Amazon has struggled to crack the Indian market",
-        "description": "Regulatory challenges, missed acquisition opportunities and slower decision-making have also contributed to Amazon’s struggle to replicate its global success in one of the world’s most important growth markets",
-        "url": "https://www.bloomberg.com/news/features/2026-06-04/amazon-has-struggled-to-crack-the-world-s-most-populous-nation",
-        "publishedAt": "2026-06-04T02:49:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Sanctions Iran’s Biggest Crypto Exchange for Ties to Terrorist IRGC",
-        "description": "The U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) on Tuesday announced sanctions against four Iranian digital asset exchanges, including Nobitex, the largest cryptocurrency exchange in Iran.\nThe post U.S. Sanctions Iran’s Biggest Crypto E…",
-        "url": "https://www.breitbart.com/middle-east/2026/06/03/u-s-sanctions-irans-biggest-crypto-exchange-ties-terrorist-irgc/",
-        "publishedAt": "2026-06-04T01:31:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "House Republicans advance anti-fraud legislation with child care oversight bill clearing chamber | Fox News Video",
-        "description": "Fox News chief congressional correspondent Chad Pergram has the latest on the anti-fraud bills reaching the House on 'Special Report'.",
-        "url": "https://www.foxnews.com/video/6397486968112",
-        "publishedAt": "2026-06-04T01:13:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Albuquerque uses weed tax to fund 'no-strings-attached' guaranteed income, sparking policy debate",
-        "description": "Albuquerque made history with one of the few guaranteed income programs funded by taxpayer dollars. City officials say the pilot has helped families financially.",
-        "url": "https://www.foxnews.com/media/albuquerque-uses-weed-tax-fund-no-strings-attached-guaranteed-income-sparking-policy-debate",
-        "publishedAt": "2026-06-04T01:00:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Why Amazon has struggled to crack the Indian market",
-        "description": "Regulatory challenges, missed acquisition opportunities and slower decision-making have also contributed to Amazon’s struggle to replicate its global success in one of the world’s most important growth markets",
-        "url": "https://www.bloomberg.com/news/features/2026-06-04/amazon-has-struggled-to-crack-the-world-s-most-populous-nation",
-        "publishedAt": "2026-06-04T02:49:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ball State Football Player Dead After Being Shot at Party",
-        "description": "Ball State University announced the death of incoming player Gavin Yates-Lyons on May 31, 2026, after he was shot during a party at Florida State University.\nThe post Ball State Football Player Dead After Being Shot at Party appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/03/ball-state-football-player-dead-after-being-shot-at-party/",
-        "publishedAt": "2026-06-04T00:54:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "31"
-      },
-      {
-        "title": "World Jewish Congress President Calls for $1B Campaign to Counter Anti-Israel Disinformation",
-        "description": "World Jewish Congress (WJC) President Ronald S. Lauder called for the creation of a $1 billion global media and public relations operation backed by the Israeli government and Jewish communities worldwide to combat what he described as an escalating wave of a…",
-        "url": "https://www.breitbart.com/politics/2026/06/03/world-jewish-congress-president-calls-1b-campaign-counter-anti-israel-disinformation/",
-        "publishedAt": "2026-06-04T00:44:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Brazil: Lula Suggests 'Hanging' Bolsonaros for 'Betrayal' After Trump Meeting",
-        "description": "Brazilian Senator and presidential candidate Flávio Bolsonaro on Tuesday announced that he will lodge a complaint against socialist President Luiz Inácio Lula da Silva after Lula publicly insinuated that the sons of former President Jair Bolsonaro deserved to…",
-        "url": "https://www.breitbart.com/latin-america/2026/06/03/lula-suggests-hanging-bolsonaros-for-betraying-brazil-after-meeting-with-trump/",
-        "publishedAt": "2026-06-04T00:00:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NC State and Virginia moving game back to Charlottesville is a huge win for college football",
-        "description": "Virginia and NC State may move their upcoming college football matchup from Brazil back to Charlottesville, a win for fans who want games on campus.",
-        "url": "https://www.foxnews.com/outkick-sports/nc-state-virginia-moving-game-back-charlottesville-huge-win-college-football",
-        "publishedAt": "2026-06-03T22:05:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
