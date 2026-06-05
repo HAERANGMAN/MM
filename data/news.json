@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-04T23:08:19.695076+00:00",
+  "generated_at": "2026-06-05T00:19:27.647339+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "The Democratic Agenda Doesn’t Poll 50%, Victor Davis Hanson Says",
+        "description": "Hoover Institution senior fellow Victor Davis Hanson says that Democrats are reverting to vulgar demonstrations as a political messaging tool on ‘Hannity.’",
+        "url": "https://www.foxnews.com/video/6397492663112",
+        "publishedAt": "2026-06-04T00:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "Pence: GOP Has to Return to Founding Principles, Ditch 'Populist Right'",
+        "description": "Wednesday on CNN's \"News Central,\" former Vice President Mike Pence argued the \"populist right\" is a threat to the Republican Party, which should return to a traditional \"conservative agenda.\"\nThe post Pence: GOP Has to Return to Founding Principles, Ditch ‘P…",
+        "url": "https://www.breitbart.com/clips/2026/06/03/pence-gop-has-to-return-to-founding-principles-ditch-populist-right/",
+        "publishedAt": "2026-06-03T23:35:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NBA's claim of 'most-watched conference finals in 24 years' is misleading because of broadcast changes",
+        "description": "The NBA claims its 2026 conference finals are the most-watched in 24 years, but broadcast TV advantages and Nielsen changes add crucial context.",
+        "url": "https://www.foxnews.com/outkick-sports/nba-claim-watched-conference-finals-24-years-misleading-broadcast-changes",
+        "publishedAt": "2026-06-03T23:23:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "24"
+      },
       {
         "title": "Exclusive — President Vucic: U.S. Set to Outpace China in Serbian Investment; Post-Iran War Economic Boom Could Set Stage for Revival of Washington Agreement on Kosovo",
         "description": "Serbian President Aleksandar Vucic told Breitbart News that it would be a “big, big, big deal” if President Donald Trump turned his gaze to finalizing the Washington Agreement between Serbia and Kosovo after he finishes his deal with the Islamic Republic of I…",
@@ -23,41 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News Poll: Democratic unity, Republican crossovers shape Ohio Senate race",
-        "description": "A Fox News poll shows Democrat Sherrod Brown leading Republican Jon Husted by 8 points in Ohio's Senate race as Trump's approval drops sharply.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-democratic-unity-republican-crossovers-shape-ohio-senate-race",
-        "publishedAt": "2026-06-03T22:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed",
-        "description": "Democrat Sen. Chris Murphy (D-CT) suggested to a group of supporters that the 77 million+ Americans who voted for President Donald Trump are ignorant and ill-informed.\nThe post Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed app…",
-        "url": "https://www.breitbart.com/politics/2026/06/03/democrat-sen-chris-murphy-suggests-trump-voters-are-ignorant-and-ill-informed/",
-        "publishedAt": "2026-06-03T21:50:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "77"
-      },
-      {
-        "title": "Dave Roberts calls criticism of Dodgers' spending 'lazy,' says rivals should 'look in the mirror'",
-        "description": "Dodgers manager Dave Roberts calls criticism of the team's spending lazy, saying LA's success comes from player development and finding unheralded talent.",
-        "url": "https://www.foxnews.com/outkick-sports/dave-roberts-calls-criticism-dodgers-spending-lazy-says-rivals-look-mirror",
-        "publishedAt": "2026-06-03T21:38:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Brazil: Lula Suggests 'Hanging' Bolsonaros for 'Betrayal' After Trump Meeting",
+        "description": "Brazilian Senator and presidential candidate Flávio Bolsonaro on Tuesday announced that he will lodge a complaint against socialist President Luiz Inácio Lula da Silva after Lula publicly insinuated that the sons of former President Jair Bolsonaro deserved to…",
+        "url": "https://www.breitbart.com/latin-america/2026/06/03/lula-suggests-hanging-bolsonaros-for-betraying-brazil-after-meeting-with-trump/",
+        "publishedAt": "2026-06-04T00:00:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "NC State and Virginia moving game back to Charlottesville is a huge win for college football",
         "description": "Virginia and NC State may move their upcoming college football matchup from Brazil back to Charlottesville, a win for fans who want games on campus.",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "[EMBARGO] Meta leads largest-ever anti-scam operation with FBI and DOJ, resulting in 63 arrests",
-        "description": "Meta led a sweeping anti-scam operation with the FBI, DOJ and Microsoft, resulting in 63 arrests and the removal of 1.4 million scam accounts.",
-        "url": "https://www.foxnews.com/us/embargo-meta-leads-largest-ever-anti-scam-operation-fbi-doj-resulting-63-arrests",
-        "publishedAt": "2026-06-03T11:03:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "63"
       }
     ]
   },
