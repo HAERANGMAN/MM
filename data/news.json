@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-05T08:37:23.218194+00:00",
+  "generated_at": "2026-06-05T11:46:28.175840+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Rupee support measures likely to give RBI room to hold for now",
-        "description": "The cabinet is likely considering steps this week to make it more attractive for foreign investors to buy the nations bonds",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-04/rupee-support-measures-likely-to-give-rbi-room-to-hold-for-now",
-        "publishedAt": "2026-06-04T04:02:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
