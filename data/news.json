@@ -1,56 +1,67 @@
 {
-  "generated_at": "2026-06-05T00:19:27.647339+00:00",
+  "generated_at": "2026-06-05T04:52:02.364874+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Rupee support measures likely to give RBI room to hold for now",
+        "description": "The cabinet is likely considering steps this week to make it more attractive for foreign investors to buy the nations bonds",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/rupee-support-measures-likely-to-give-rbi-room-to-hold-for-now",
+        "publishedAt": "2026-06-04T04:02:14Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "The Democratic Agenda Doesn’t Poll 50%, Victor Davis Hanson Says",
-        "description": "Hoover Institution senior fellow Victor Davis Hanson says that Democrats are reverting to vulgar demonstrations as a political messaging tool on ‘Hannity.’",
-        "url": "https://www.foxnews.com/video/6397492663112",
-        "publishedAt": "2026-06-04T00:00:00Z",
+        "title": "Rupee support measures likely to give RBI room to hold for now",
+        "description": "The cabinet is likely considering steps this week to make it more attractive for foreign investors to buy the nations bonds",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/rupee-support-measures-likely-to-give-rbi-room-to-hold-for-now",
+        "publishedAt": "2026-06-04T04:02:14Z",
         "source": {
-          "name": "Fox News"
+          "name": "Bloomberg"
         },
-        "numericHint": "50"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Pence: GOP Has to Return to Founding Principles, Ditch 'Populist Right'",
-        "description": "Wednesday on CNN's \"News Central,\" former Vice President Mike Pence argued the \"populist right\" is a threat to the Republican Party, which should return to a traditional \"conservative agenda.\"\nThe post Pence: GOP Has to Return to Founding Principles, Ditch ‘P…",
-        "url": "https://www.breitbart.com/clips/2026/06/03/pence-gop-has-to-return-to-founding-principles-ditch-populist-right/",
-        "publishedAt": "2026-06-03T23:35:01Z",
+        "title": "Why Amazon has struggled to crack the Indian market",
+        "description": "Regulatory challenges, missed acquisition opportunities and slower decision-making have also contributed to Amazon’s struggle to replicate its global success in one of the world’s most important growth markets",
+        "url": "https://www.bloomberg.com/news/features/2026-06-04/amazon-has-struggled-to-crack-the-world-s-most-populous-nation",
+        "publishedAt": "2026-06-04T02:49:31Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Sanctions Iran’s Biggest Crypto Exchange for Ties to Terrorist IRGC",
+        "description": "The U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) on Tuesday announced sanctions against four Iranian digital asset exchanges, including Nobitex, the largest cryptocurrency exchange in Iran.\nThe post U.S. Sanctions Iran’s Biggest Crypto E…",
+        "url": "https://www.breitbart.com/middle-east/2026/06/03/u-s-sanctions-irans-biggest-crypto-exchange-ties-terrorist-irgc/",
+        "publishedAt": "2026-06-04T01:31:47Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "NBA's claim of 'most-watched conference finals in 24 years' is misleading because of broadcast changes",
-        "description": "The NBA claims its 2026 conference finals are the most-watched in 24 years, but broadcast TV advantages and Nielsen changes add crucial context.",
-        "url": "https://www.foxnews.com/outkick-sports/nba-claim-watched-conference-finals-24-years-misleading-broadcast-changes",
-        "publishedAt": "2026-06-03T23:23:58Z",
+        "title": "House Republicans advance anti-fraud legislation with child care oversight bill clearing chamber | Fox News Video",
+        "description": "Fox News chief congressional correspondent Chad Pergram has the latest on the anti-fraud bills reaching the House on 'Special Report'.",
+        "url": "https://www.foxnews.com/video/6397486968112",
+        "publishedAt": "2026-06-04T01:13:24Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "24"
-      },
-      {
-        "title": "Exclusive — President Vucic: U.S. Set to Outpace China in Serbian Investment; Post-Iran War Economic Boom Could Set Stage for Revival of Washington Agreement on Kosovo",
-        "description": "Serbian President Aleksandar Vucic told Breitbart News that it would be a “big, big, big deal” if President Donald Trump turned his gaze to finalizing the Washington Agreement between Serbia and Kosovo after he finishes his deal with the Islamic Republic of I…",
-        "url": "https://www.breitbart.com/politics/2026/06/03/exclusive-president-vucic-u-s-set-to-outpace-china-in-serbian-investment-post-iran-war-economic-boom-could-set-stage-for-revival-of-washington-agreement-on-kosovo/",
-        "publishedAt": "2026-06-03T22:44:41Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Breitbart Business Digest: Is the AI Boom Becoming Too Much of a Good Thing?",
-        "description": "AI may well deliver the productivity boom its champions expect. The risk is that the economy has already begun borrowing against that future before the returns have been earned.\nThe post Breitbart Business Digest: Is the AI Boom Becoming Too Much of a Good Th…",
-        "url": "https://www.breitbart.com/economy/2026/06/03/breitbart-business-digest-is-the-ai-boom-becoming-too-much-of-a-good-thing/",
-        "publishedAt": "2026-06-03T22:23:10Z",
+        "title": "Albuquerque uses weed tax to fund 'no-strings-attached' guaranteed income, sparking policy debate",
+        "description": "Albuquerque made history with one of the few guaranteed income programs funded by taxpayer dollars. City officials say the pilot has helped families financially.",
+        "url": "https://www.foxnews.com/media/albuquerque-uses-weed-tax-fund-no-strings-attached-guaranteed-income-sparking-policy-debate",
+        "publishedAt": "2026-06-04T01:00:20Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
@@ -58,6 +69,36 @@
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Why Amazon has struggled to crack the Indian market",
+        "description": "Regulatory challenges, missed acquisition opportunities and slower decision-making have also contributed to Amazon’s struggle to replicate its global success in one of the world’s most important growth markets",
+        "url": "https://www.bloomberg.com/news/features/2026-06-04/amazon-has-struggled-to-crack-the-world-s-most-populous-nation",
+        "publishedAt": "2026-06-04T02:49:31Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ball State Football Player Dead After Being Shot at Party",
+        "description": "Ball State University announced the death of incoming player Gavin Yates-Lyons on May 31, 2026, after he was shot during a party at Florida State University.\nThe post Ball State Football Player Dead After Being Shot at Party appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/03/ball-state-football-player-dead-after-being-shot-at-party/",
+        "publishedAt": "2026-06-04T00:54:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "31"
+      },
+      {
+        "title": "World Jewish Congress President Calls for $1B Campaign to Counter Anti-Israel Disinformation",
+        "description": "World Jewish Congress (WJC) President Ronald S. Lauder called for the creation of a $1 billion global media and public relations operation backed by the Israeli government and Jewish communities worldwide to combat what he described as an escalating wave of a…",
+        "url": "https://www.breitbart.com/politics/2026/06/03/world-jewish-congress-president-calls-1b-campaign-counter-anti-israel-disinformation/",
+        "publishedAt": "2026-06-04T00:44:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Brazil: Lula Suggests 'Hanging' Bolsonaros for 'Betrayal' After Trump Meeting",
         "description": "Brazilian Senator and presidential candidate Flávio Bolsonaro on Tuesday announced that he will lodge a complaint against socialist President Luiz Inácio Lula da Silva after Lula publicly insinuated that the sons of former President Jair Bolsonaro deserved to…",
@@ -75,36 +116,6 @@
         "publishedAt": "2026-06-03T22:05:42Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed",
-        "description": "Democrat Sen. Chris Murphy (D-CT) suggested to a group of supporters that the 77 million+ Americans who voted for President Donald Trump are ignorant and ill-informed.\nThe post Democrat Sen. Chris Murphy Suggests Trump Voters Are Ignorant and Ill-Informed app…",
-        "url": "https://www.breitbart.com/politics/2026/06/03/democrat-sen-chris-murphy-suggests-trump-voters-are-ignorant-and-ill-informed/",
-        "publishedAt": "2026-06-03T21:50:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "77"
-      },
-      {
-        "title": "Exclusive—Chuck Flint: American Prosperity Depends on Ending Our Reliance on Chinese Supply Chains",
-        "description": "Working families paid for America’s addiction to Chinese supply chains. Now corporate America needs to address the issue, not circumvent it.\nThe post Exclusive—Chuck Flint: American Prosperity Depends on Ending Our Reliance on Chinese Supply Chains appeared f…",
-        "url": "https://www.breitbart.com/economy/2026/06/03/exclusive-chuck-flint-american-prosperity-depends-on-ending-our-reliance-on-chinese-supply-chains/",
-        "publishedAt": "2026-06-03T19:46:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Martel: Chinese Communists Cannot Understand How a Human Soul is More Valuable than AI -- and That’s Our Advantage",
-        "description": "Breitbart News International Editor Frances Martel said on Sunday during the Breitbart Founders' Roundtable that Chinese communists cannot understand how a human soul is more valuable than AI — and that's to the advantage of the United States.\nThe post Martel…",
-        "url": "https://www.breitbart.com/tech/2026/06/03/martel-chinese-communists-cannot-understand-how-a-human-soul-is-more-valuable-than-ai-and-thats-our-advantage/",
-        "publishedAt": "2026-06-03T17:18:13Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
