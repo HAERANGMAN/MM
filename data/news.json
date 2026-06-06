@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-06T05:12:45.960698+00:00",
+  "generated_at": "2026-06-06T08:02:39.677064+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Lilly and Novo now look beyond US for obesity drug growth",
+        "description": "Lilly and Novo expand global obesity drug access, introducing new treatments while addressing cost and cultural barriers.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/lilly-and-novo-now-look-beyond-us-for-obesity-drug-growth",
+        "publishedAt": "2026-06-05T07:02:47Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "‘Trade over Aid’: GOP Resolution Introduced to Phase Out U.S. Military Aid to Israel",
         "description": "Republican Reps. Marlin Stutzman (R-IN) and Abe Hamadeh (R-AZ) have introduced a resolution calling for the phased elimination of the $3.8 billion in annual U.S. military aid to Israel and its replacement with a new partnership focused on trade, joint technol…",
@@ -43,21 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "New York DA Indicts Uzbek Truck Hijackers in $4.5 Million Theft Ring",
-        "description": "Authorities in New York have busted a truck cargo hijacking ring allegedly run by Uzbek national Murodullo “Murad” Khasanov.\nThe post New York DA Indicts Uzbek Truck Hijackers in $4.5 Million Theft Ring appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/06/04/new-york-da-indicts-uzbek-truck-hijackers-in-4-5-million-theft-ring/",
-        "publishedAt": "2026-06-04T22:38:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Lilly and Novo now look beyond US for obesity drug growth",
+        "description": "Lilly and Novo expand global obesity drug access, introducing new treatments while addressing cost and cultural barriers.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/lilly-and-novo-now-look-beyond-us-for-obesity-drug-growth",
+        "publishedAt": "2026-06-05T07:02:47Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Govt to boost biogas prices, subsidies to cope with fossil fuel price surge, lower emissions",
         "description": "India plans to enhance biogas prices and subsidies to boost production and reduce carbon emissions amid rising fossil fuel costs.",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-06-04T23:50:12Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Today Is Trump Trade Victory Day — American Factories Are Winning Again",
-        "description": "The case that tariffs necessarily make American manufacturing less productive died this week.\nThe post Breitbart Business Digest: Today Is Trump Trade Victory Day — American Factories Are Winning Again appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/04/breitbart-business-digest-today-is-trump-trade-victory-day-american-factories-are-winning-again/",
-        "publishedAt": "2026-06-04T23:34:24Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
