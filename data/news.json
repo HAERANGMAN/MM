@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-06-06T01:25:31.716186+00:00",
+  "generated_at": "2026-06-06T05:12:45.960698+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Rupee support measures likely to give RBI room to hold for now",
-        "description": "The cabinet is likely considering steps this week to make it more attractive for foreign investors to buy the nations bonds",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-04/rupee-support-measures-likely-to-give-rbi-room-to-hold-for-now",
-        "publishedAt": "2026-06-04T04:02:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "‘Trade over Aid’: GOP Resolution Introduced to Phase Out U.S. Military Aid to Israel",
+        "description": "Republican Reps. Marlin Stutzman (R-IN) and Abe Hamadeh (R-AZ) have introduced a resolution calling for the phased elimination of the $3.8 billion in annual U.S. military aid to Israel and its replacement with a new partnership focused on trade, joint technol…",
+        "url": "https://www.breitbart.com/politics/2026/06/04/gop-resolution-introduced-phaseout-u-s-military-aid-israel/",
+        "publishedAt": "2026-06-05T02:28:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
         "description": "The Republican-led House passed a sweeping Ukraine security package with military aid and Russia sanctions, rebuking the White House, which vowed a veto.",
@@ -54,21 +53,31 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Trump administration launches federal investigation into Atlanta's MARTA system after fatal train stabbing",
-        "description": "Trump administration launches federal investigation into Atlanta's MARTA transit system after fatal stabbing of 66-year-old Margaret Swan on a train.",
-        "url": "https://www.foxnews.com/us/trump-administration-launches-federal-investigation-atlantas-marta-system-fatal-train-stabbing",
-        "publishedAt": "2026-06-04T22:21:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "66"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Govt to boost biogas prices, subsidies to cope with fossil fuel price surge, lower emissions",
+        "description": "India plans to enhance biogas prices and subsidies to boost production and reduce carbon emissions amid rising fossil fuel costs.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/india-set-to-boost-biogas-prices-subsidies-in-new-cbg-program",
+        "publishedAt": "2026-06-05T04:14:10Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Leadership exits highlight talent war in India’s GIFT City",
+        "description": "India's GIFT City is witnessing senior banking exits as global lenders expand operations, highlighting growing competition for talent in the finance hub.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/talent-fight-heats-up-in-india-finance-hub-as-two-chiefs-quit",
+        "publishedAt": "2026-06-05T03:27:13Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
         "description": "The Republican-led House passed a sweeping Ukraine security package with military aid and Russia sanctions, rebuking the White House, which vowed a veto.",
@@ -94,26 +103,6 @@
         "description": "The case that tariffs necessarily make American manufacturing less productive died this week.\nThe post Breitbart Business Digest: Today Is Trump Trade Victory Day — American Factories Are Winning Again appeared first on Breitbart.",
         "url": "https://www.breitbart.com/economy/2026/06/04/breitbart-business-digest-today-is-trump-trade-victory-day-american-factories-are-winning-again/",
         "publishedAt": "2026-06-04T23:34:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "AI boom: Demand for data centers drives innovation by energy, tech industries to produce new power sources",
-        "description": "Artificial intelligence (AI) is driving a surge in electricity demand, prompting companies to invest in energy technologies, grid infrastructure and innovative data centers.",
-        "url": "https://www.foxnews.com/shows/special-report/ai-boom-demand-data-centers-drives-innovation-energy-tech-industries-produce-new-power-sources",
-        "publishedAt": "2026-06-04T22:52:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Michelle Bachelet, Who Helped Cover Up Uyghur Genocide, Visits China to Campaign for U.N. Chief",
-        "description": "Former United Nations High Commissioner for Human Rights Michelle Bachelet met with Chinese Foreign Minister Wang Yi and Vice President Han Zheng on Wednesday, touring the country amid her campaign to become the next U.N. Secretary General.\nThe post Michelle …",
-        "url": "https://www.breitbart.com/asia/2026/06/04/michelle-bachelet-who-helped-cover-up-uyghur-genocide-visits-china-to-campaign-for-u-n-chief/",
-        "publishedAt": "2026-06-04T18:56:29Z",
         "source": {
           "name": "Breitbart News"
         },
