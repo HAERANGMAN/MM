@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-07T11:23:15.224324+00:00",
+  "generated_at": "2026-06-07T12:57:19.206026+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Kosovo to Hold Third Election in 18 Months as Political Divide over EU and NATO Persists",
+        "description": "Kosovo will hold its third parliamentary election in 18 months this weekend as frustration grows over a continued political impasse in the small Balkan country that is aspiring to move closer to the European Union and NATO.\r\n\nThe post Kosovo to Hold Third Ele…",
+        "url": "https://www.breitbart.com/europe/2026/06/06/kosovo-to-hold-third-election-in-18-months-as-political-divide-remains/",
+        "publishedAt": "2026-06-06T12:43:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "Inside the California city where democratic socialists are testing their 'anti-business' agenda",
+        "description": "Richmond, California, has quietly become a stomping ground for democratic socialist politics, with an activist coalition influencing government and business operations for years.",
+        "url": "https://www.foxnews.com/media/inside-california-city-democratic-socialists-testing-anti-business-agenda",
+        "publishedAt": "2026-06-06T12:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
         "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
@@ -33,26 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Essential': Indian Rep. Thanedar Wants More Migrants in His Poor District",
-        "description": "India-born Rep. Shrinivas Thanedar (D-MI) says it is essential that the federal government accelerate the inflow of migrants into seasonal jobs throughout his very poor district in Michigan.\nThe post ‘Essential’: Indian Rep. Thanedar Wants More Migrants in Hi…",
-        "url": "https://www.breitbart.com/immigration/2026/06/05/indian-rep-thanedar-wants-more-migration-into-his-poor-district/",
-        "publishedAt": "2026-06-05T22:32:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Reporter's Notebook: GOP bets on fraud crackdown as economic woes surge ahead of midterms",
-        "description": "House Republicans push anti-fraud bills as a midterm campaign strategy, but only pass one of three measures this week amid Democratic opposition.",
-        "url": "https://www.foxnews.com/politics/reporters-notebook-gop-bets-fraud-crackdown-economic-woes-surge-ahead-midterms",
-        "publishedAt": "2026-06-05T20:28:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Kosovo to Hold Third Election in 18 Months as Political Divide over EU and NATO Persists",
+        "description": "Kosovo will hold its third parliamentary election in 18 months this weekend as frustration grows over a continued political impasse in the small Balkan country that is aspiring to move closer to the European Union and NATO.\r\n\nThe post Kosovo to Hold Third Ele…",
+        "url": "https://www.breitbart.com/europe/2026/06/06/kosovo-to-hold-third-election-in-18-months-as-political-divide-remains/",
+        "publishedAt": "2026-06-06T12:43:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "18"
+      },
       {
         "title": "World Cup workers threaten strike before $2,000-a-ticket game",
         "description": "The union represents roughly 2,000 food service workers, including bartenders, dishwashers, cooks and concession workers at the venue; legends didn’t immediately respond to a request for comment",
@@ -108,16 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "3"
-      },
-      {
-        "title": "Chicago White Sox Support Gun Control Lobby's Everytown for Gun Safety",
-        "description": "The Chicago White Sox used an X post to proclaim their support for Mike Bloomberg-affiliated Everytown for Gun Safety, one of of the most prominent groups in the gun control lobby.\nThe post Chicago White Sox Support Gun Control Lobby’s Everytown for Gun Safet…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/05/chicago-white-sox-support-gun-control-lobbys-everytown-for-gun-safety/",
-        "publishedAt": "2026-06-05T19:52:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
