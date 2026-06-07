@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-06-07T12:57:19.206026+00:00",
+  "generated_at": "2026-06-07T14:54:02.460296+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Kosovo to Hold Third Election in 18 Months as Political Divide over EU and NATO Persists",
-        "description": "Kosovo will hold its third parliamentary election in 18 months this weekend as frustration grows over a continued political impasse in the small Balkan country that is aspiring to move closer to the European Union and NATO.\r\n\nThe post Kosovo to Hold Third Ele…",
-        "url": "https://www.breitbart.com/europe/2026/06/06/kosovo-to-hold-third-election-in-18-months-as-political-divide-remains/",
-        "publishedAt": "2026-06-06T12:43:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "Inside the California city where democratic socialists are testing their 'anti-business' agenda",
-        "description": "Richmond, California, has quietly become a stomping ground for democratic socialist politics, with an activist coalition influencing government and business operations for years.",
-        "url": "https://www.foxnews.com/media/inside-california-city-democratic-socialists-testing-anti-business-agenda",
-        "publishedAt": "2026-06-06T12:00:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
-        "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
-        "publishedAt": "2026-06-06T03:30:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Trump’s Economy Is Cooking—188,000 Jobs, Factories Roaring, Pay Checks Singing",
-        "description": "This week the jobs numbers smashed expectations for the third consecutive month, lots of foreigners went home and lots of federal workers had to get a real job, factory output is growing rapidly, and manufacturing wages are in hot pursuit.\nThe post Breitbart …",
-        "url": "https://www.breitbart.com/economy/2026/06/05/breitbart-business-digest-trumps-economy-is-cooking-188000-jobs-factories-roaring-pay-checks-singing/",
-        "publishedAt": "2026-06-06T00:09:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "188"
-      },
-      {
-        "title": "US, Shield of the Americas condemn 'ongoing efforts' to overthrow Bolivia's elected president amid unrest",
-        "description": "The U.S. and the Shield of the Americas countries condemned ongoing efforts to overthrow Bolivia's elected President Rodrigo Paz amid weeks of mass protests.",
-        "url": "https://www.foxnews.com/world/us-shield-americas-condemn-ongoing-efforts-overthrow-bolivias-elected-president-unrest",
-        "publishedAt": "2026-06-05T22:43:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "China Announces Xi Jinping’s First Visit to North Korea Since 2019",
-        "description": "China announced on Friday that dictator Xi Jinping will make his first trip to North Korea since 2019 next week, in a bid to shore up China’s ties with its erratic neighbor after North Korea grew closer to Russia.\nThe post China Announces Xi Jinping’s First V…",
-        "url": "https://www.breitbart.com/asia/2026/06/05/china-announces-xi-jinpings-first-visit-to-north-korea-since-2019/",
-        "publishedAt": "2026-06-05T21:30:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2019"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Kosovo to Hold Third Election in 18 Months as Political Divide over EU and NATO Persists",
-        "description": "Kosovo will hold its third parliamentary election in 18 months this weekend as frustration grows over a continued political impasse in the small Balkan country that is aspiring to move closer to the European Union and NATO.\r\n\nThe post Kosovo to Hold Third Ele…",
-        "url": "https://www.breitbart.com/europe/2026/06/06/kosovo-to-hold-third-election-in-18-months-as-political-divide-remains/",
-        "publishedAt": "2026-06-06T12:43:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "World Cup workers threaten strike before $2,000-a-ticket game",
-        "description": "The union represents roughly 2,000 food service workers, including bartenders, dishwashers, cooks and concession workers at the venue; legends didn’t immediately respond to a request for comment",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-06/world-cup-workers-threaten-strike-before-2-000-a-ticket-game",
-        "publishedAt": "2026-06-06T06:58:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
-        "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
-        "publishedAt": "2026-06-06T03:30:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Delcy Rodriguez Visits India, Venezuela's Second Top Oil Buyer",
-        "description": "\"Acting President\" of Venezuela Delcy Rodríguez on Thursday met with Indian Prime Minister Narendra Modi in New Delhi as India moves to cement its oil and other commercial-related ties with the South American nation.\nThe post Delcy Rodríguez Visits India, Ven…",
-        "url": "https://www.breitbart.com/asia/2026/06/05/delcy-rodriguez-visits-india-venezuelas-2nd-top-oil-buyer-in-post-maduro-era/",
-        "publishedAt": "2026-06-05T21:05:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Florida Attorney General Uthmeier: 3-Day Gun Purchase Waiting Period 'Unconstitutional'",
-        "description": "AG James Uthmeier announced he will be settling a case and securing a declaration that Florida's 3-day waiting period is unconstitutional. \nThe post Florida Attorney General Uthmeier: 3-Day Gun Purchase Waiting Period ‘Unconstitutional’ appeared first on Brei…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/05/florida-attorney-general-uthmeier-3-day-gun-purchase-waiting-period-unconstitutional/",
-        "publishedAt": "2026-06-05T20:03:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
