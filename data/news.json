@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-07T06:07:47.881759+00:00",
+  "generated_at": "2026-06-07T09:33:44.986803+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "The anti-communism movie quote that spells doom for the Democrats in the midterms",
-        "description": "Danny DeVito's 1991 film character Lawrence Garfield warned about communism's return, a message now echoing in American politics ahead of midterms.",
-        "url": "https://www.foxnews.com/opinion/anti-communism-movie-quote-spells-doom-democrats-midterms",
-        "publishedAt": "2026-06-05T09:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1991"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
@@ -81,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "World Cup workers threaten strike before $2,000-a-ticket game",
+        "description": "The union represents roughly 2,000 food service workers, including bartenders, dishwashers, cooks and concession workers at the venue; legends didn’t immediately respond to a request for comment",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-06/world-cup-workers-threaten-strike-before-2-000-a-ticket-game",
+        "publishedAt": "2026-06-06T06:58:17Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
         "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
         "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
         "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
@@ -119,16 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Obama-Appointed Judge Blocks Trump from Halting Immigration from 'High-Risk Countries'",
-        "description": "A federal judge, appointed by former President Barack Obama, has blocked President Donald Trump's administration from halting legal immigration and asylum applications from nearly 40 countries deemed \"high-risk\" by officials.\nThe post Obama-Appointed Judge Bl…",
-        "url": "https://www.breitbart.com/politics/2026/06/05/obama-appointed-judge-blocks-trump-from-halting-immigration-from-high-risk-countries/",
-        "publishedAt": "2026-06-05T19:10:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "40"
       }
     ]
   },
