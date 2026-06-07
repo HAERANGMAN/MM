@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-06-07T01:39:44.615366+00:00",
+  "generated_at": "2026-06-07T06:07:47.881759+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "The anti-communism movie quote that spells doom for the Democrats in the midterms",
+        "description": "Danny DeVito's 1991 film character Lawrence Garfield warned about communism's return, a message now echoing in American politics ahead of midterms.",
+        "url": "https://www.foxnews.com/opinion/anti-communism-movie-quote-spells-doom-democrats-midterms",
+        "publishedAt": "2026-06-05T09:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1991"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
+        "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
+        "publishedAt": "2026-06-06T03:30:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Trump’s Economy Is Cooking—188,000 Jobs, Factories Roaring, Pay Checks Singing",
+        "description": "This week the jobs numbers smashed expectations for the third consecutive month, lots of foreigners went home and lots of federal workers had to get a real job, factory output is growing rapidly, and manufacturing wages are in hot pursuit.\nThe post Breitbart …",
+        "url": "https://www.breitbart.com/economy/2026/06/05/breitbart-business-digest-trumps-economy-is-cooking-188000-jobs-factories-roaring-pay-checks-singing/",
+        "publishedAt": "2026-06-06T00:09:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "188"
+      },
+      {
+        "title": "US, Shield of the Americas condemn 'ongoing efforts' to overthrow Bolivia's elected president amid unrest",
+        "description": "The U.S. and the Shield of the Americas countries condemned ongoing efforts to overthrow Bolivia's elected President Rodrigo Paz amid weeks of mass protests.",
+        "url": "https://www.foxnews.com/world/us-shield-americas-condemn-ongoing-efforts-overthrow-bolivias-elected-president-unrest",
+        "publishedAt": "2026-06-05T22:43:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'Essential': Indian Rep. Thanedar Wants More Migrants in His Poor District",
+        "description": "India-born Rep. Shrinivas Thanedar (D-MI) says it is essential that the federal government accelerate the inflow of migrants into seasonal jobs throughout his very poor district in Michigan.\nThe post ‘Essential’: Indian Rep. Thanedar Wants More Migrants in Hi…",
+        "url": "https://www.breitbart.com/immigration/2026/06/05/indian-rep-thanedar-wants-more-migration-into-his-poor-district/",
+        "publishedAt": "2026-06-05T22:32:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Reporter's Notebook: GOP bets on fraud crackdown as economic woes surge ahead of midterms",
+        "description": "House Republicans push anti-fraud bills as a midterm campaign strategy, but only pass one of three measures this week amid Democratic opposition.",
+        "url": "https://www.foxnews.com/politics/reporters-notebook-gop-bets-fraud-crackdown-economic-woes-surge-ahead-midterms",
+        "publishedAt": "2026-06-05T20:28:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "China Announces Xi Jinping’s First Visit to North Korea Since 2019",
+        "description": "China announced on Friday that dictator Xi Jinping will make his first trip to North Korea since 2019 next week, in a bid to shore up China’s ties with its erratic neighbor after North Korea grew closer to Russia.\nThe post China Announces Xi Jinping’s First V…",
+        "url": "https://www.breitbart.com/asia/2026/06/05/china-announces-xi-jinpings-first-visit-to-north-korea-since-2019/",
+        "publishedAt": "2026-06-05T21:30:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2019"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Gold falls most in two months as jobs fuel Fed rate-hike bets",
+        "description": "Gold prices plummet as strong US jobs data fuels expectations of Fed rate hikes, impacting bullion and bond markets.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
+        "publishedAt": "2026-06-06T03:30:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Delcy Rodriguez Visits India, Venezuela's Second Top Oil Buyer",
+        "description": "\"Acting President\" of Venezuela Delcy Rodríguez on Thursday met with Indian Prime Minister Narendra Modi in New Delhi as India moves to cement its oil and other commercial-related ties with the South American nation.\nThe post Delcy Rodríguez Visits India, Ven…",
+        "url": "https://www.breitbart.com/asia/2026/06/05/delcy-rodriguez-visits-india-venezuelas-2nd-top-oil-buyer-in-post-maduro-era/",
+        "publishedAt": "2026-06-05T21:05:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Florida Attorney General Uthmeier: 3-Day Gun Purchase Waiting Period 'Unconstitutional'",
+        "description": "AG James Uthmeier announced he will be settling a case and securing a declaration that Florida's 3-day waiting period is unconstitutional. \nThe post Florida Attorney General Uthmeier: 3-Day Gun Purchase Waiting Period ‘Unconstitutional’ appeared first on Brei…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/05/florida-attorney-general-uthmeier-3-day-gun-purchase-waiting-period-unconstitutional/",
+        "publishedAt": "2026-06-05T20:03:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Chicago White Sox Support Gun Control Lobby's Everytown for Gun Safety",
+        "description": "The Chicago White Sox used an X post to proclaim their support for Mike Bloomberg-affiliated Everytown for Gun Safety, one of of the most prominent groups in the gun control lobby.\nThe post Chicago White Sox Support Gun Control Lobby’s Everytown for Gun Safet…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/05/chicago-white-sox-support-gun-control-lobbys-everytown-for-gun-safety/",
+        "publishedAt": "2026-06-05T19:52:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Obama-Appointed Judge Blocks Trump from Halting Immigration from 'High-Risk Countries'",
+        "description": "A federal judge, appointed by former President Barack Obama, has blocked President Donald Trump's administration from halting legal immigration and asylum applications from nearly 40 countries deemed \"high-risk\" by officials.\nThe post Obama-Appointed Judge Bl…",
+        "url": "https://www.breitbart.com/politics/2026/06/05/obama-appointed-judge-blocks-trump-from-halting-immigration-from-high-risk-countries/",
+        "publishedAt": "2026-06-05T19:10:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "40"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
