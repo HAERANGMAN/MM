@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-08T06:58:36.609168+00:00",
+  "generated_at": "2026-06-08T12:03:50.068555+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Ben Sasse claims public schools were created to separate Catholic kids from parents, priests",
+        "description": "Former Sen. Ben Sasse says American public schools were designed to separate Catholic children from their parents and priests during a Trinity Forum event.",
+        "url": "https://www.foxnews.com/culture/ben-sasse-claims-public-schools-were-created-separate-catholic-kids-from-parents-priests",
+        "publishedAt": "2026-06-07T12:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Why America’s next 250 years can be greater than its first 250",
+        "description": "America's 250th anniversary recalls how George Washington's troops survived the Battle of Brooklyn in 1776 and how patriots persevered through centuries.",
+        "url": "https://www.foxnews.com/opinion/americas-next-250-years-greater-first-250",
+        "publishedAt": "2026-06-07T12:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "World Series champion John Smoltz warns baseball 'will suffer' if ABS system is applied to all pitches",
+        "description": "Hall of Famer John Smoltz said he likes the ABS challenge system but is urging MLB to not make automated strike zones full-time in baseball.",
+        "url": "https://www.foxnews.com/sports/world-series-champion-john-smoltz-warns-baseball-suffer-abs-system-applied-pitches",
+        "publishedAt": "2026-06-07T11:54:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NATO's eastern flank races to rearm as Trump pressure exposes Western Europe's defense gap",
+        "description": "Eastern European NATO allies closest to Russia are spending the most on defense, while Western Europe faces pressure to meet the alliance's 5% GDP goal.",
+        "url": "https://www.foxnews.com/world/natos-eastern-flank-races-rearm-trump-pressure-exposes-western-europes-defense-gap",
+        "publishedAt": "2026-06-07T11:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Florida and Texas are battling for new residents. DeSantis thinks he found an advantage",
+        "description": "Gov. Ron DeSantis backs a constitutional amendment to expand Florida's homestead exemption to $250,000, potentially saving homeowners billions in taxes.",
+        "url": "https://www.foxnews.com/politics/florida-texas-battling-new-residents-desantis-thinks-found-advantage",
+        "publishedAt": "2026-06-07T11:00:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Presbyterian Church faces internal revolt after proposing clergy must be in monogamous relationships",
+        "description": "The Presbyterian Church (U.S.A.) faces backlash after a proposed rule requiring clergy monogamy sparked outrage from progressive committees.",
+        "url": "https://www.foxnews.com/media/presbyterian-church-faces-internal-revolt-proposing-clergy-must-monogamous-relationships",
+        "publishedAt": "2026-06-07T12:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "#794 – NBA Finals Trivia with Bill Bradley | The Quiz",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from historic draft-day trades to legends who dominated the court before moving on to the halls of Congress. Can you answer these? Hardwood Nicknames: What 3rd overall pick in the 1970…",
+        "url": "https://radio.foxnews.com/2026/06/07/794-nba-finals-trivia-with-bill-bradley-the-quiz/",
+        "publishedAt": "2026-06-07T07:00:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "794"
+      },
+      {
+        "title": "Professional sports and media need to stop acting like Russian athletes are Putin puppets",
+        "description": "Russian athletes face flag bans and political scrutiny at 2026 French Open as Mirra Andreeva wins Roland Garros amid ongoing neutrality policies.",
+        "url": "https://www.foxnews.com/outkick-analysis/professional-sports-media-need-stop-acting-like-russian-athletes-putin-puppets",
+        "publishedAt": "2026-06-07T01:01:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "World Cup stadium workers vote to authorize strike days before tournament citing ICE concerns",
+        "description": "SoFi Stadium workers voted to authorize a strike one week before the World Cup, citing stalled contract talks and fears over ICE presence at matches.",
+        "url": "https://www.foxnews.com/sports/world-cup-stadium-workers-vote-authorize-strike-days-tournament-citing-ice-concerns",
+        "publishedAt": "2026-06-06T14:57:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Henry Nowak’s killing exposes Britain’s dangerous two-tier justice system",
+        "description": "Henry Nowak's stabbing death in England raises questions about woke police bias, two-tier policing and equity policies in British law enforcement.",
+        "url": "https://www.foxnews.com/opinion/henry-nowaks-killing-exposes-britains-dangerous-two-tier-justice-system",
+        "publishedAt": "2026-06-06T13:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
