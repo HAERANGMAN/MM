@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-08T12:03:50.068555+00:00",
+  "generated_at": "2026-06-08T16:14:28.096756+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Chris Robinson, Bruce Springsteen face backlash as 'Americans have had enough' of being lectured: expert",
+        "description": "PR experts say the backlash against Chris Robinson and Bruce Springsteen reflects growing fan fatigue with political lectures at live concerts.",
+        "url": "https://www.foxnews.com/entertainment/chris-robinson-bruce-springsteen-face-backlash-americans-have-had-enough-being-lectured-expert",
+        "publishedAt": "2026-06-07T13:00:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Ben Sasse claims public schools were created to separate Catholic kids from parents, priests",
         "description": "Former Sen. Ben Sasse says American public schools were designed to separate Catholic children from their parents and priests during a Trinity Forum event.",
@@ -43,66 +53,56 @@
           "name": "Fox News"
         },
         "numericHint": "5"
-      },
-      {
-        "title": "Florida and Texas are battling for new residents. DeSantis thinks he found an advantage",
-        "description": "Gov. Ron DeSantis backs a constitutional amendment to expand Florida's homestead exemption to $250,000, potentially saving homeowners billions in taxes.",
-        "url": "https://www.foxnews.com/politics/florida-texas-battling-new-residents-desantis-thinks-found-advantage",
-        "publishedAt": "2026-06-07T11:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Americans travel to Pakistan to free Christians trapped in modern-day slavery: 'God's hand was in it'",
+        "description": "Aaron Hutchings says he was shocked to see children making bricks under the hot sun in Pakistan to pay off family debts that had accumulated over generations.",
+        "url": "https://www.foxnews.com/world/americans-travel-pakistan-free-christians-trapped-modern-day-slavery-gods-hand",
+        "publishedAt": "2026-06-07T15:30:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "22-Year-Old Penn State Student Fatally Shot During Alleged Robbery",
+        "description": "A 22-year-old Penn State University student was fatally shot during an alleged robbery about 1:30 a.m. Saturday in Philadelphia.\nThe post 22-Year-Old Penn State Student Fatally Shot During Alleged Robbery appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/07/22-year-old-penn-state-student-fatally-shot-during-alleged-robbery/",
+        "publishedAt": "2026-06-07T14:51:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "22"
+      },
+      {
+        "title": "Fort Worth Police Launch Manhunt After Shooter in 'All Black' Targets 4 People",
+        "description": "Fort Worth police are seeking a suspect dressed in “all black” after four people were shot around 9:10 p.m. Saturday night, according to CBS News. The shooting occurred in Historic Stop Six Park and left a child, elderly woman, and police\nThe post Fort Worth …",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/07/fort-worth-police-launch-manhunt-after-shooter-in-all-black-targets-4-people/",
+        "publishedAt": "2026-06-07T14:38:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "Android fake call detection warns you about scams",
+        "description": "Android's new fake call detection feature warns users when scammers spoof trusted contacts' numbers and use AI voice tools to impersonate loved ones.",
+        "url": "https://www.foxnews.com/tech/android-fake-call-detection-warns-scams",
+        "publishedAt": "2026-06-07T12:46:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Presbyterian Church faces internal revolt after proposing clergy must be in monogamous relationships",
         "description": "The Presbyterian Church (U.S.A.) faces backlash after a proposed rule requiring clergy monogamy sparked outrage from progressive committees.",
         "url": "https://www.foxnews.com/media/presbyterian-church-faces-internal-revolt-proposing-clergy-must-monogamous-relationships",
         "publishedAt": "2026-06-07T12:00:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "#794 – NBA Finals Trivia with Bill Bradley | The Quiz",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from historic draft-day trades to legends who dominated the court before moving on to the halls of Congress. Can you answer these? Hardwood Nicknames: What 3rd overall pick in the 1970…",
-        "url": "https://radio.foxnews.com/2026/06/07/794-nba-finals-trivia-with-bill-bradley-the-quiz/",
-        "publishedAt": "2026-06-07T07:00:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "794"
-      },
-      {
-        "title": "Professional sports and media need to stop acting like Russian athletes are Putin puppets",
-        "description": "Russian athletes face flag bans and political scrutiny at 2026 French Open as Mirra Andreeva wins Roland Garros amid ongoing neutrality policies.",
-        "url": "https://www.foxnews.com/outkick-analysis/professional-sports-media-need-stop-acting-like-russian-athletes-putin-puppets",
-        "publishedAt": "2026-06-07T01:01:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "World Cup stadium workers vote to authorize strike days before tournament citing ICE concerns",
-        "description": "SoFi Stadium workers voted to authorize a strike one week before the World Cup, citing stalled contract talks and fears over ICE presence at matches.",
-        "url": "https://www.foxnews.com/sports/world-cup-stadium-workers-vote-authorize-strike-days-tournament-citing-ice-concerns",
-        "publishedAt": "2026-06-06T14:57:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Henry Nowak’s killing exposes Britain’s dangerous two-tier justice system",
-        "description": "Henry Nowak's stabbing death in England raises questions about woke police bias, two-tier policing and equity policies in British law enforcement.",
-        "url": "https://www.foxnews.com/opinion/henry-nowaks-killing-exposes-britains-dangerous-two-tier-justice-system",
-        "publishedAt": "2026-06-06T13:00:46Z",
         "source": {
           "name": "Fox News"
         },
