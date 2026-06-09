@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-06-09T15:46:54.078683+00:00",
+  "generated_at": "2026-06-09T17:48:00.625367+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Nelly Korda is officially the most important US female golfer in modern history, WVU guy's raccoon & lobster",
+        "description": "Nelly Korda wins her first U.S. Women's Open at Riviera, taking a massive step toward becoming the face of American women's golf for decades to come.",
+        "url": "https://www.foxnews.com/outkick-sports/nelly-korda-officially-important-us-female-golfer-modern-history-wvu-guys-raccoon-lobster",
+        "publishedAt": "2026-06-08T13:27:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Colombia's Outgoing President Gustavo Petro Publishes ‘Heil Hitler' Message",
+        "description": "Outgoing Marxist President of Colombia Gustavo Petro triggered a new controversy over the weekend by writing \"Heil Hitler\" in response to a local opinion piece favorable to outsider conservative presidential frontrunner Abelardo de la Espriella.\nThe post Colo…",
+        "url": "https://www.breitbart.com/latin-america/2026/06/08/colombias-gustavo-petro-tweets-heil-hitler-over-op-piece-endorsing-conservative-presidential-candidate/",
+        "publishedAt": "2026-06-08T17:29:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "UK Govt to Demand Apple and Google Impose Digital ID Checks in Supposed Bid to Protect Children",
+        "description": "The British government has announced plans to mandate tech giants like Apple and Google to implement age verification measures to prevent children from accessing pornography. Critics warn that the demands will result in the imposition of effective digital IDs…",
+        "url": "https://www.breitbart.com/europe/2026/06/08/uk-govt-to-demand-apple-and-google-impose-id-checks-in-supposed-bid-to-protect-children/",
+        "publishedAt": "2026-06-08T17:21:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stunningly low percentage of adults in US think America stands above every other nation: poll",
+        "description": "As America marks its 250th anniversary this year, an AP-NORC poll of adults in the U.S. found that only 25% believed that the U.S. stands above every other nation.",
+        "url": "https://www.foxnews.com/politics/stunningly-low-percentage-adults-us-think-america-stands-every-nation-poll",
+        "publishedAt": "2026-06-08T17:11:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Worker Confidence Rises as Americans’ Inflation Expectations Fall, NY Fed Survey Shows",
+        "description": "The perceived chance of voluntarily leaving a job in the next 12 months jumped 2.6 percentage points to 20.8 percent, the highest reading since February 2023.\nThe post Worker Confidence Rises as Americans’ Inflation Expectations Fall, NY Fed Survey Shows appe…",
+        "url": "https://www.breitbart.com/economy/2026/06/08/worker-confidence-rises-as-americans-inflation-expectations-fall-ny-fed-survey-shows/",
+        "publishedAt": "2026-06-08T17:01:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "12"
+      },
+      {
+        "title": "Scathing House Judiciary Committee report accuses NFL of stretching law's limited antitrust exemption",
+        "description": "House Judiciary Committee report accuses NFL of stretching its 1961 antitrust exemption, limiting consumer choices, and inflating Sunday Ticket prices.",
+        "url": "https://www.foxnews.com/sports/scathing-house-judiciary-committee-report-accuses-nfl-stretching-laws-limited-antitrust-exemption-",
+        "publishedAt": "2026-06-08T15:34:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1961"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "'You're destroying your countries': Is Europe finally heeding Trump's warning on illegal immigration?",
+        "description": "Trump and Vance warned EU about illegal immigration as new stricter border rules emerge as Europe's politicians seem to be reacting to the needs of its citizens.",
+        "url": "https://www.foxnews.com/world/youre-destroying-your-countries-europe-finally-heeding-trumps-warning-illegal-immigration",
+        "publishedAt": "2026-06-08T16:19:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "VA Gov. Spanberger Signs Ban on Being Armed for Self-Defense in Hospitals",
+        "description": "Gov. Abigail Spanberger (D) signed legislation Thursday prohibiting law-abiding Virginians from being armed for self-defense in hospitals.\nThe post VA Gov. Spanberger Signs Ban on Being Armed for Self-Defense in Hospitals appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/08/va-gov-spanberger-signs-ban-being-armed-self-defense-hospitals/",
+        "publishedAt": "2026-06-08T15:11:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "At Least 31 Shot in Mayor Johnson's Chicago During Weekend",
+        "description": "At least 31 people were shot, five of them fatally, during the weekend in Democrat Mayor Brandon Johnson's Chicago. \nThe post At Least 31 Shot in Mayor Johnson’s Chicago During Weekend appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/08/at-least-31-shot-mayor-johnsons-chicago-during-weekend/",
+        "publishedAt": "2026-06-08T14:40:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "31"
+      },
+      {
+        "title": "Tiananmen Square tank man taught us to stand up against the worst of China",
+        "description": "The Tiananmen Square anniversary highlights the CCP's transnational repression tactics and new bipartisan legislation to combat threats to Americans.",
+        "url": "https://www.foxnews.com/opinion/tiananmen-square-tank-man-taught-us-stand-worst-china",
+        "publishedAt": "2026-06-08T13:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Critics mock the new White House ballroom, but modern security is no joke",
+        "description": "The White House Correspondents' Dinner highlights the urgent need for a modern, secure ballroom to address evolving threats and protect attendees.",
+        "url": "https://www.foxnews.com/opinion/critics-mock-new-white-house-ballroom-modern-security-joke",
+        "publishedAt": "2026-06-08T11:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
