@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T17:48:00.625367+00:00",
+  "generated_at": "2026-06-09T19:49:36.716592+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Outcry over YouTuber's Down syndrome abortion proves Americans are 'repulsed by eugenics,' activist says",
+        "description": "Live Action founder Lila Rose says public outrage over YouTuber Jesse Ridgway's abortion decision shows Americans still reject eugenics-based reasoning.",
+        "url": "https://www.foxnews.com/media/outcry-youtubers-syndrome-abortion-proves-americans-reject-eugenics-activist-says",
+        "publishedAt": "2026-06-08T19:41:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fever vs Mystics betting preview: Why the over 170.5 looks like the smart play",
+        "description": "Indiana Fever vs Washington Mystics WNBA betting analysis picks over 170.5 points, citing Caitlin Clark's scoring and both teams' defensive struggles.",
+        "url": "https://www.foxnews.com/outkick-sports/fever-vs-mystics-betting-preview-1705-looks-like-smart-play",
+        "publishedAt": "2026-06-08T19:33:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "170.5"
+      },
       {
         "title": "Colombia's Outgoing President Gustavo Petro Publishes ‘Heil Hitler' Message",
         "description": "Outgoing Marxist President of Colombia Gustavo Petro triggered a new controversy over the weekend by writing \"Heil Hitler\" in response to a local opinion piece favorable to outsider conservative presidential frontrunner Abelardo de la Espriella.\nThe post Colo…",
@@ -44,26 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "250"
-      },
-      {
-        "title": "Worker Confidence Rises as Americans’ Inflation Expectations Fall, NY Fed Survey Shows",
-        "description": "The perceived chance of voluntarily leaving a job in the next 12 months jumped 2.6 percentage points to 20.8 percent, the highest reading since February 2023.\nThe post Worker Confidence Rises as Americans’ Inflation Expectations Fall, NY Fed Survey Shows appe…",
-        "url": "https://www.breitbart.com/economy/2026/06/08/worker-confidence-rises-as-americans-inflation-expectations-fall-ny-fed-survey-shows/",
-        "publishedAt": "2026-06-08T17:01:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "Scathing House Judiciary Committee report accuses NFL of stretching law's limited antitrust exemption",
-        "description": "House Judiciary Committee report accuses NFL of stretching its 1961 antitrust exemption, limiting consumer choices, and inflating Sunday Ticket prices.",
-        "url": "https://www.foxnews.com/sports/scathing-house-judiciary-committee-report-accuses-nfl-stretching-laws-limited-antitrust-exemption-",
-        "publishedAt": "2026-06-08T15:34:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1961"
       }
     ],
     "news-korea-soc": [],
