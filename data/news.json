@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:49:36.716592+00:00",
+  "generated_at": "2026-06-09T21:25:17.910677+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Finland’s foreign minister says Ukraine ‘is now holding the cards’ as Russia signals talks",
+        "description": "Finnish Foreign Minister Elina Valtonen says Ukraine is holding the cards today as Russia renews talk of negotiations amid Kyiv's military gains.",
+        "url": "https://www.foxnews.com/world/finlands-foreign-minister-says-ukraine-is-now-holding-cards-russia-signals-talks",
+        "publishedAt": "2026-06-08T20:01:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "'You're destroying your countries': Is Europe finally heeding Trump's warning on illegal immigration?",
         "description": "Trump and Vance warned EU about illegal immigration as new stricter border rules emerge as Europe's politicians seem to be reacting to the needs of its citizens.",
         "url": "https://www.foxnews.com/world/youre-destroying-your-countries-europe-finally-heeding-trumps-warning-illegal-immigration",
@@ -104,16 +114,6 @@
         "description": "The Tiananmen Square anniversary highlights the CCP's transnational repression tactics and new bipartisan legislation to combat threats to Americans.",
         "url": "https://www.foxnews.com/opinion/tiananmen-square-tank-man-taught-us-stand-worst-china",
         "publishedAt": "2026-06-08T13:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Critics mock the new White House ballroom, but modern security is no joke",
-        "description": "The White House Correspondents' Dinner highlights the urgent need for a modern, secure ballroom to address evolving threats and protect attendees.",
-        "url": "https://www.foxnews.com/opinion/critics-mock-new-white-house-ballroom-modern-security-joke",
-        "publishedAt": "2026-06-08T11:00:01Z",
         "source": {
           "name": "Fox News"
         },
