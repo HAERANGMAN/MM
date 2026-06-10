@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-09T22:56:52.053977+00:00",
+  "generated_at": "2026-06-10T00:17:11.356004+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Nelly Korda is officially the most important US female golfer in modern history, WVU guy's raccoon & lobster",
-        "description": "Nelly Korda wins her first U.S. Women's Open at Riviera, taking a massive step toward becoming the face of American women's golf for decades to come.",
-        "url": "https://www.foxnews.com/outkick-sports/nelly-korda-officially-important-us-female-golfer-modern-history-wvu-guys-raccoon-lobster",
-        "publishedAt": "2026-06-08T13:27:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
