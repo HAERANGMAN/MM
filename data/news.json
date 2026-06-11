@@ -1,19 +1,115 @@
 {
-  "generated_at": "2026-06-11T00:20:30.258814+00:00",
+  "generated_at": "2026-06-11T05:02:52.285627+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Ambani-backed robot start-up seeks $100 million to take on China",
+        "description": "The start-up faces much bigger rivals from countries such as China, Japan, and the US, yet Chief Executive Officer Sangeet Kumar says there’s room for an Indian contender in the rapidly developing industry",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-10/ambani-backed-robot-startup-seeks-100-million-to-take-on-china",
+        "publishedAt": "2026-06-10T04:45:48Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Top GOP target Dina Titus fends off House primary challengers",
+        "description": "Rep. Dina Titus wins the Democratic primary in Nevada's 1st Congressional District, defeating three challengers to secure her eighth term nomination.",
+        "url": "https://www.foxnews.com/politics/top-gop-target-dina-titus-fends-off-house-primary-challengers",
+        "publishedAt": "2026-06-10T03:55:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Collins secures GOP nod in Maine Senate battle that could decide GOP majority",
+        "description": "Sen. Susan Collins wins Maine GOP primary unopposed as she seeks a sixth term, facing Democrat Graham Platner in a crucial Senate majority battle.",
+        "url": "https://www.foxnews.com/politics/maines-collins-locks-gop-nomination-race-critical-senate-control",
+        "publishedAt": "2026-06-10T02:59:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump administration to offer 'premium' expedited visa interviews for $750",
+        "description": "The State Department will unveil a $750 premium service allowing foreigners seeking U.S. business or tourist visas to schedule interviews within 10 days of payment.",
+        "url": "https://www.foxnews.com/politics/trump-administration-offer-premium-expedited-visa-interviews-750",
+        "publishedAt": "2026-06-10T02:29:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "LA Hotels hit by largest job losses in a decade as 'Olympic Wage' mandates bite, data shows",
+        "description": "Los Angeles hotel industry job losses hit their worst rate in a decade outside of COVID, the Employment Policies Institute reports, as the city's minimum wage mandate took effect.",
+        "url": "https://www.foxnews.com/media/la-hotels-hit-largest-job-losses-decade-olympic-wage-mandates-bite-data-shows",
+        "publishedAt": "2026-06-10T01:00:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Ambani-backed robot start-up seeks $100 million to take on China",
+        "description": "The start-up faces much bigger rivals from countries such as China, Japan, and the US, yet Chief Executive Officer Sangeet Kumar says there’s room for an Indian contender in the rapidly developing industry",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-10/ambani-backed-robot-startup-seeks-100-million-to-take-on-china",
+        "publishedAt": "2026-06-10T04:45:48Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "LA Hotels hit by largest job losses in a decade as 'Olympic Wage' mandates bite, data shows",
+        "description": "Los Angeles hotel industry job losses hit their worst rate in a decade outside of COVID, the Employment Policies Institute reports, as the city's minimum wage mandate took effect.",
+        "url": "https://www.foxnews.com/media/la-hotels-hit-largest-job-losses-decade-olympic-wage-mandates-bite-data-shows",
+        "publishedAt": "2026-06-10T01:00:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "USMNT legend Landon Donovan talks World Cup, American soccer's influence overseas during Raising Cane's shift",
+        "description": "Landon Donovan reflects on how American soccer earned global respect as the 2026 FIFA World Cup approaches at SoFi Stadium in Los Angeles area.",
+        "url": "https://www.foxnews.com/outkick-sports/usmnt-legend-landon-donovan-talks-world-cup-american-soccers-influence-overseas-raising-canes-shift",
+        "publishedAt": "2026-06-10T00:45:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Breitbart Business Digest: Trade Data Shows Trump's Tariffs Are Working",
+        "description": "The best kept secret in American politics and economics right now is that Trump's tariffs are working to reduce the trade deficit.\nThe post Breitbart Business Digest: Trade Data Shows Trump’s Tariffs Are Working appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/09/breitbart-business-digest-trade-data-shows-trumps-tariffs-are-working/",
+        "publishedAt": "2026-06-09T23:37:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pro wrestler Joe Coffey says he felt his last few years were 'kinda wasted,' looks forward to growth with MLW",
+        "description": "Joe Coffey explains approach with Major League Wrestling, saying he felt wasted and wants more character development with his stablemates.",
+        "url": "https://www.foxnews.com/sports/pro-wrestler-joe-coffey-says-felt-last-years-kinda-wasted-looks-forward-growth-mlw",
+        "publishedAt": "2026-06-09T18:34:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
