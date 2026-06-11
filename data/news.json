@@ -1,115 +1,30 @@
 {
-  "generated_at": "2026-06-11T09:18:31.584430+00:00",
+  "generated_at": "2026-06-11T12:56:28.771411+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [
+    "news-korea-econ": [
       {
-        "title": "Belgium PM De Wever: E.U. Leaders Afraid of China, Must Fight Unfair Trade",
-        "description": "Belgium's Prime Minister Bart De Wever on Tuesday urged European leaders to come together and develop a strategy to counter China's economic domination plans — noting \"we are so afraid that we don't even dare\" to name Beijing's unfair trading practices for wh…",
-        "url": "https://www.breitbart.com/europe/2026/06/10/belgium-pm-de-wever-e-u-leaders-afraid-of-china-must-counter-unfair-trade/",
-        "publishedAt": "2026-06-10T09:01:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Could the next Chinese threat walk into your kitchen on two battery-powered legs?",
-        "description": "Humanoid robots could be in every American home within a decade. Experts warn the U.S. must win the robotics race against China for national security.",
-        "url": "https://www.foxnews.com/opinion/could-next-chinese-threat-walk-kitchen-two-battery-powered-legs",
-        "publishedAt": "2026-06-10T09:00:58Z",
+        "title": "Sen Tom Cotton urges DOJ to probe Chinese bid to 'kneecap' American AI",
+        "description": "Sen. Tom Cotton urges DOJ to investigate alleged Chinese influence campaign funded by Neville Roy Singham targeting U.S. data centers and AI infrastructure development.",
+        "url": "https://www.foxnews.com/politics/sen-tom-cotton-urges-doj-probe-chinese-bid-kneecap-american-ai",
+        "publishedAt": "2026-06-10T11:39:11Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Here's why universal basic income would be a disaster for America’s future",
-        "description": "As AI transforms the economy, some tech leaders push universal basic income. This piece argues Americans need opportunity, not government checks.",
-        "url": "https://www.foxnews.com/opinion/heres-universal-basic-income-would-disaster-americas-future",
-        "publishedAt": "2026-06-10T09:00:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEN KEVIN CRAMER: China builds for war while America waits on permits",
-        "description": "Permitting reform is essential to rebuild America's defense industrial base and deter conflict with China, which outproduces the U.S. in key areas.",
-        "url": "https://www.foxnews.com/opinion/sen-kevin-cramer-china-builds-war-america-waits-permits",
-        "publishedAt": "2026-06-10T09:00:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Google’s backstops underpin $35 billion chip deal for Anthropic",
-        "description": "Google, whose AI entries include Gemini, agreed to backstop lease payments at each location, helping Anthropic obtain what amounts to a $35 billion loan.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-09/google-s-backstops-underpin-35-billion-chip-deal-for-anthropic",
-        "publishedAt": "2026-06-10T08:01:46Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
       }
     ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Belgium PM De Wever: E.U. Leaders Afraid of China, Must Fight Unfair Trade",
-        "description": "Belgium's Prime Minister Bart De Wever on Tuesday urged European leaders to come together and develop a strategy to counter China's economic domination plans — noting \"we are so afraid that we don't even dare\" to name Beijing's unfair trading practices for wh…",
-        "url": "https://www.breitbart.com/europe/2026/06/10/belgium-pm-de-wever-e-u-leaders-afraid-of-china-must-counter-unfair-trade/",
-        "publishedAt": "2026-06-10T09:01:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Could the next Chinese threat walk into your kitchen on two battery-powered legs?",
-        "description": "Humanoid robots could be in every American home within a decade. Experts warn the U.S. must win the robotics race against China for national security.",
-        "url": "https://www.foxnews.com/opinion/could-next-chinese-threat-walk-kitchen-two-battery-powered-legs",
-        "publishedAt": "2026-06-10T09:00:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEN KEVIN CRAMER: China builds for war while America waits on permits",
-        "description": "Permitting reform is essential to rebuild America's defense industrial base and deter conflict with China, which outproduces the U.S. in key areas.",
-        "url": "https://www.foxnews.com/opinion/sen-kevin-cramer-china-builds-war-america-waits-permits",
-        "publishedAt": "2026-06-10T09:00:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Google’s backstops underpin $35 billion chip deal for Anthropic",
-        "description": "Google, whose AI entries include Gemini, agreed to backstop lease payments at each location, helping Anthropic obtain what amounts to a $35 billion loan.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-09/google-s-backstops-underpin-35-billion-chip-deal-for-anthropic",
-        "publishedAt": "2026-06-10T08:01:46Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "#797 – Buddy “Cake Boss” Valastro: From Imperial History to National Donut Day | The Quiz",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the magical world of fiction to ancient architectural marvels and unique culinary history. Can you answer these? Global Capitals: As one of the oldest and most populous nations on…",
-        "url": "https://radio.foxnews.com/2026/06/10/797-buddy-cake-boss-valastro-from-imperial-history-to-national-donut-day-the-quiz/",
-        "publishedAt": "2026-06-10T07:00:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "797"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
