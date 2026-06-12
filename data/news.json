@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-06-12T01:39:17.208634+00:00",
+  "generated_at": "2026-06-12T06:18:55.500293+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Sen Tom Cotton urges DOJ to probe Chinese bid to 'kneecap' American AI",
+        "description": "Sen. Tom Cotton urges DOJ to investigate alleged Chinese influence campaign funded by Neville Roy Singham targeting U.S. data centers and AI infrastructure development.",
+        "url": "https://www.foxnews.com/politics/sen-tom-cotton-urges-doj-probe-chinese-bid-kneecap-american-ai",
+        "publishedAt": "2026-06-10T11:39:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "SpaceX IPO is said to be more than four times oversubscribed",
+        "description": "SpaceX’s initial public offering has attracted demand for more than four times the available shares, according to people familiar with the matter, ahead of the Elon Musk-led rocket, satellite and artificial intelligence firm stopping taking orders.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-ipo-is-said-to-be-more-than-four-times-oversubscribed",
+        "publishedAt": "2026-06-11T05:29:30Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India fertilizer offers sink in sign of easing supply strain",
+        "description": "National Fertilizers, a state-run producer that also imports urea received offers between $444.90 and $617 a tonne, according to people familiar with the matter",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-10/india-fertilizer-offers-fall-in-sign-of-improving-global-supply",
+        "publishedAt": "2026-06-11T04:59:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump Floats Not Renewing USMCA Trade Agreement",
+        "description": "President Donald Trump said Wednesday that he may not renew the United States-Mexico-Canada Agreement (USMCA), citing U.S. trade deficits with Canada and Mexico.\nThe post Trump Floats Not Renewing USMCA Trade Agreement appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/06/10/trump-floats-not-renewing-usmca-trade-agreement/",
+        "publishedAt": "2026-06-11T03:37:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Oil surges as fresh US strikes on Iran threaten fragile truce",
+        "description": "Renewed hostilities threaten to extend the near-total closure of the Strait, which has choked off supplies of crude, fuels and natural gas since the start of the war in late February",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-10/latest-oil-market-news-and-analysis-for-june-11",
+        "publishedAt": "2026-06-11T03:00:45Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Hits Iran Again After Trump Said Tehran Has Been ‘Tapping Us Along’ in Talks",
+        "description": "The U.S. military launched a fresh wave of strikes against multiple targets in Iran on Wednesday evening after President Donald Trump warned Tehran would “pay the price” for dragging out negotiations aimed at ending the conflict.\nThe post U.S. Hits Iran Again…",
+        "url": "https://www.breitbart.com/politics/2026/06/10/u-s-hits-iran-again-trump-tehran-tapping-us-along/",
+        "publishedAt": "2026-06-11T01:20:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Xi Jinping, Sidelined by Putin, Urges Closer Military Ties with North Korea in Kim Summit",
+        "description": "The Chinese government news agency Xinhua detailed in its coverage of dictator Xi Jinping’s visit to North Korea this week that the Communist Party chief urged counterpart Kim Jong-un to consider deepening cooperation with his country on “military affairs,” a…",
+        "url": "https://www.breitbart.com/asia/2026/06/10/xi-jinping-sidelined-by-putin-urges-closer-military-ties-with-north-korea-in-kim-summit/",
+        "publishedAt": "2026-06-10T13:14:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "India fertilizer offers sink in sign of easing supply strain",
+        "description": "National Fertilizers, a state-run producer that also imports urea received offers between $444.90 and $617 a tonne, according to people familiar with the matter",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-10/india-fertilizer-offers-fall-in-sign-of-improving-global-supply",
+        "publishedAt": "2026-06-11T04:59:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "U.S. Hits Iran Again After Trump Said Tehran Has Been ‘Tapping Us Along’ in Talks",
+        "description": "The U.S. military launched a fresh wave of strikes against multiple targets in Iran on Wednesday evening after President Donald Trump warned Tehran would “pay the price” for dragging out negotiations aimed at ending the conflict.\nThe post U.S. Hits Iran Again…",
+        "url": "https://www.breitbart.com/politics/2026/06/10/u-s-hits-iran-again-trump-tehran-tapping-us-along/",
+        "publishedAt": "2026-06-11T01:20:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Americans born after 1970 face higher death rates from several major causes in middle age",
+        "description": "Americans born after 1970 are dying faster than their parents, with higher rates of heart disease, cancer and overdoses between ages 30 and 49.",
+        "url": "https://www.foxnews.com/health/americans-born-1970-face-higher-death-rates-several-major-causes-middle-age",
+        "publishedAt": "2026-06-10T18:34:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1970"
+      },
+      {
+        "title": "How do teams advance in the 2026 World Cup? Tiebreaker rules and Round of 32 format explained",
+        "description": "The 2026 World Cup expands to 48 teams across the U.S., Canada, and Mexico, featuring new group stage tiebreakers and a Round of 32 knockout format.",
+        "url": "https://www.foxnews.com/sports/teams-advance-2026-world-cup-tiebreaker-rules-round-32-format-explained",
+        "publishedAt": "2026-06-10T18:30:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Iran Threatens More Bombings After U.S. Strikes: 'Leave If You Want to Be Safe'",
+        "description": "Iranian Foreign Minister Abbas Araghchi warned in a message on Tuesday that American forces should leave the Middle East \"if you want to be safe,\" threatening a response after the Pentagon confirmed pervasive airstrikes against Iranian military sites that day…",
+        "url": "https://www.breitbart.com/middle-east/2026/06/10/iran-threatens-more-bombings-after-u-s-strikes-leave-if-you-want-to-be-safe/",
+        "publishedAt": "2026-06-10T14:15:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
