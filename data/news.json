@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-06-12T10:43:41.142657+00:00",
+  "generated_at": "2026-06-12T13:52:34.998594+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Film producer says 'Made in America' movies can help revive Hollywood's struggling industry",
-        "description": "Hollywood executive Chris Fenton said studios became too reliant on China and now advocates for domestic production with his new film \"Bad Counselors.\"",
-        "url": "https://www.foxnews.com/media/film-producer-says-made-america-movies-help-revive-hollywoods-struggling-industry",
-        "publishedAt": "2026-06-11T10:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "How residents in this southern state are getting richer amid its population explosion",
-        "description": "Texas economy hits $2.9 trillion in 2025, with per-capita output rising to $91,500 per resident even as the state added nearly 419,000 new people.",
-        "url": "https://www.foxnews.com/politics/residents-southern-state-getting-richer-amid-population-explosion",
-        "publishedAt": "2026-06-11T10:00:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "MORNING GLORY: The GOP’s choice in 2028 — more of MAGA or a reversion to the mean?",
-        "description": "Vice President J.D. Vance leads 2028 GOP presidential contenders, but DeSantis, Kemp, Youngkin, and Pompeo are expected to challenge in primaries.",
-        "url": "https://www.foxnews.com/opinion/morning-glory-gops-choice-2028-maga-reversion-mean",
-        "publishedAt": "2026-06-11T09:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Either ignore climate change lunacy or high energy prices will make you wish you had",
-        "description": "Democrats target Trump on energy prices, but the climate agenda's regulations on coal, natural gas and oil made energy less affordable for Americans.",
-        "url": "https://www.foxnews.com/opinion/either-ignore-climate-change-lunacy-high-energy-prices-make-you-wish-you-had",
-        "publishedAt": "2026-06-11T09:00:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mass Migration Might Be a National Security Risk After All, Admits UK Government Terrorism Expert",
-        "description": "Trump was right to say there is a national security risk posed by open borders, the British government's top terror expert belatedly admits.\nThe post Mass Migration Might Be a National Security Risk After All, Admits UK Government Terrorism Expert appeared fi…",
-        "url": "https://www.breitbart.com/europe/2026/06/11/migration-might-be-security-risk-after-all-says-uk-govts-terrorism-expert/",
-        "publishedAt": "2026-06-11T08:20:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "India fertilizer offers sink in sign of easing supply strain",
-        "description": "National Fertilizers, a state-run producer that also imports urea received offers between $444.90 and $617 a tonne, according to people familiar with the matter",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-10/india-fertilizer-offers-fall-in-sign-of-improving-global-supply",
-        "publishedAt": "2026-06-11T04:59:39Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "U.S. Hits Iran Again After Trump Said Tehran Has Been ‘Tapping Us Along’ in Talks",
-        "description": "The U.S. military launched a fresh wave of strikes against multiple targets in Iran on Wednesday evening after President Donald Trump warned Tehran would “pay the price” for dragging out negotiations aimed at ending the conflict.\nThe post U.S. Hits Iran Again…",
-        "url": "https://www.breitbart.com/politics/2026/06/10/u-s-hits-iran-again-trump-tehran-tapping-us-along/",
-        "publishedAt": "2026-06-11T01:20:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Americans born after 1970 face higher death rates from several major causes in middle age",
-        "description": "Americans born after 1970 are dying faster than their parents, with higher rates of heart disease, cancer and overdoses between ages 30 and 49.",
-        "url": "https://www.foxnews.com/health/americans-born-1970-face-higher-death-rates-several-major-causes-middle-age",
-        "publishedAt": "2026-06-10T18:34:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1970"
-      },
-      {
-        "title": "How do teams advance in the 2026 World Cup? Tiebreaker rules and Round of 32 format explained",
-        "description": "The 2026 World Cup expands to 48 teams across the U.S., Canada, and Mexico, featuring new group stage tiebreakers and a Round of 32 knockout format.",
-        "url": "https://www.foxnews.com/sports/teams-advance-2026-world-cup-tiebreaker-rules-round-32-format-explained",
-        "publishedAt": "2026-06-10T18:30:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Iran Threatens More Bombings After U.S. Strikes: 'Leave If You Want to Be Safe'",
-        "description": "Iranian Foreign Minister Abbas Araghchi warned in a message on Tuesday that American forces should leave the Middle East \"if you want to be safe,\" threatening a response after the Pentagon confirmed pervasive airstrikes against Iranian military sites that day…",
-        "url": "https://www.breitbart.com/middle-east/2026/06/10/iran-threatens-more-bombings-after-u-s-strikes-leave-if-you-want-to-be-safe/",
-        "publishedAt": "2026-06-10T14:15:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
