@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-13T02:48:27.860705+00:00",
+  "generated_at": "2026-06-13T06:43:07.269407+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "How to trade the SpaceX IPO in Asia's locked-out markets",
+        "description": "With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along the space supply chain, industry-themed ETFs and Nasdaq 100 Index-tracking funds in hopes of capturing gains",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
+        "publishedAt": "2026-06-12T03:42:35Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "Van Hollen: Trump 'Has Lost It and the World Knows It'",
+        "description": "Thursday, on MS NOW's \"All In,\" Sen. Chris Van Hollen (D-MD) claimed President Donald Trump had \"lost it.\"\nThe post Van Hollen: Trump ‘Has Lost It and the World Knows It’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/clips/2026/06/11/van-hollen-trump-has-lost-it-and-the-world-knows-it/",
+        "publishedAt": "2026-06-12T02:16:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Washington Post faces class-action lawsuit alleging 'surveillance pricing' of subscribers",
+        "description": "A class action lawsuit on Thursday accused the Washington Post of surveillance pricing, alleging it used subscriber data to charge loyal customers more.",
+        "url": "https://www.foxnews.com/media/washington-post-faces-class-action-lawsuit-alleging-surveillance-pricing-subscribers",
+        "publishedAt": "2026-06-12T00:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive--Report Alleges CMS Gave Democrat-Led Areas Faster Approval for Hospital Funding",
+        "description": "A report by Defend Forgotten America alleges federal healthcare regulators have treated hospital funding programs in Republican-leaning communities differently than similar programs in Democrat-aligned jurisdictions.\nThe post Exclusive–Report Alleges CMS Gave…",
+        "url": "https://www.breitbart.com/health/2026/06/11/exclusive-report-alleges-cms-gave-democrat-led-areas-faster-approval-for-hospital-funding/",
+        "publishedAt": "2026-06-11T23:43:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Prices Keep Rising...Even for the Government",
+        "description": "Consumers may feel the tides of inflation washing over our ankles again. The government sector, however, is neck deep in it.\nThe post Breitbart Business Digest: Prices Keep Rising…Even for the Government appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/11/breitbart-business-digest-prices-keep-rising-even-for-the-government/",
+        "publishedAt": "2026-06-11T22:24:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "China confronts G7 during Macron’s call by defending free trade",
+        "description": "China's Vice Premier defends free trade during a G7 call, addressing economic imbalances and fostering international cooperation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/china-vice-premier-to-join-macron-s-g7-call-on-trade-imbalances",
+        "publishedAt": "2026-06-12T03:51:29Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "7"
+      },
+      {
+        "title": "How to trade the SpaceX IPO in Asia's locked-out markets",
+        "description": "With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along the space supply chain, industry-themed ETFs and Nasdaq 100 Index-tracking funds in hopes of capturing gains",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
+        "publishedAt": "2026-06-12T03:42:35Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "Sheriff's Deputy Fired for Allegedly Pointing Gun at Bar Patrons",
+        "description": "A deputy was arrested at his home and fired from the sheriff's office after allegedly pointing his gun at bar patrons early Sunday morning.\nThe post Sheriff’s Deputy Fired for Allegedly Pointing Gun at Bar Patrons appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/11/sheriffs-deputy-fired-allegedly-pointing-gun-bar-patrons/",
+        "publishedAt": "2026-06-11T20:34:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chinese Agents Caught Using ChatGPT to Influence U.S. Policy Debates",
+        "description": "OpenAI has banned accounts connected to Chinese operatives that leveraged ChatGPT to create social media influence campaigns aimed at American discussions about tariffs and AI data centers, the company disclosed on Wednesday.\nThe post Chinese Agents Caught Us…",
+        "url": "https://www.breitbart.com/tech/2026/06/11/chinese-agents-caught-using-chatgpt-to-influence-u-s-policy-debates/",
+        "publishedAt": "2026-06-11T20:09:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump pivots on strikes while dangling Iran deal, testing whether Tehran blinks",
+        "description": "After months of predicting a nuclear deal with Iran was just around the corner, President Donald Trump appears to be testing whether military pressure can accomplish what diplomacy alone has not.",
+        "url": "https://www.foxnews.com/politics/trump-pivots-strikes-while-dangling-iran-deal-testing-whether-tehran-blinks",
+        "publishedAt": "2026-06-11T18:40:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
