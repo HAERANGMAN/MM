@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-06-13T13:13:19.934589+00:00",
+  "generated_at": "2026-06-13T15:12:05.942492+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "‘60 Minutes’ devoted lots of time to aiding Democrats over the years",
-        "description": "Fired CBS correspondent Scott Pelley claims he was nonplussed by bias allegations, but decades of '60 Minutes' interviews reveal a pro-Democrat pattern.",
-        "url": "https://www.foxnews.com/opinion/60-minutes-devoted-lots-time-aiding-democrats-years",
-        "publishedAt": "2026-06-12T13:00:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "California board of regents to review SAT/ACT testing ban after 1,400 professors warn of ‘severe’ math gaps",
-        "description": "UC President James B. Milliken announced a data-driven review of admissions testing after faculty warned they are being forced to re-teach middle school math to students.",
-        "url": "https://www.foxnews.com/media/uc-system-review-standardized-testing-ban-after-1400-professors-warn-severe-math-gaps",
-        "publishedAt": "2026-06-12T12:27:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Victor Wembanyama anthem controversy grows as Spurs, NBA and ESPN stay silent during Finals",
-        "description": "Victor Wembanyama's national anthem controversy persists as the NBA, Spurs and ESPN remain silent on his Game 1 posture and reported absences.",
-        "url": "https://www.foxnews.com/outkick-sports/victor-wembanyama-anthem-controversy-grows-spurs-nba-espn-stay-silent-finals",
-        "publishedAt": "2026-06-12T11:02:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Austin Metcalf's family faces death threats after Karmelo Anthony's murder conviction and more top headlines",
-        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "url": "https://www.foxnews.com/us/austin-metcalfs-family-faces-death-threats-after-karmelo-anthonys-murder-conviction-more-top-headlines",
-        "publishedAt": "2026-06-12T10:59:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Prestige Estates plans ₹60,000 crore in project launches",
-        "description": "The developer is banking on regulatory approvals to drive a 43% jump in sales value.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-12/indian-developer-prestige-plans-6-3-billion-in-project-launches",
-        "publishedAt": "2026-06-12T10:02:53Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "60"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Moms Demand Action Candidate Pushes Semiautomatic Firearm Ban",
-        "description": "Diana Kastenbaum is the Moms Demand Action-endorsed candidate for New York's 24th Congressional District and she is pushing for a ban on all semiautomatic firearms.\nThe post Moms Demand Action Candidate Pushes Semiautomatic Firearm Ban appeared first on Breit…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/12/moms-demand-action-candidate-pushes-semiautomatic-firearm-ban/",
-        "publishedAt": "2026-06-12T12:40:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "24"
-      },
-      {
-        "title": "Palestinian Soccer Chief Cries Foul: Despairs Denial of U.S. Visa to Attend World Cup",
-        "description": "The head of the Palestinian Football Association is waiting in Mexico City for permission to enter the United States with other federation heads attending the 2026 FIFA World Cup.\nThe post Palestinian Soccer Chief Cries Foul: Despairs Denial of U.S. Visa to A…",
-        "url": "https://www.breitbart.com/sports/2026/06/12/palestinian-soccer-chief-cries-foul-despairs-denial-of-u-s-visa-to-attend-world-cup/",
-        "publishedAt": "2026-06-12T11:52:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Repent or Go to Hell: Pope Leo Warns Europe’s Illegal People Traffickers",
-        "description": "Repent from your evil ways or prepare to go to hell. That was the simple message from Pope Leo on Friday for people traffickers and criminal groups who deliver illegal aliens to Europe through Spain's Canary Islands.\nThe post Repent or Go to Hell: Pope Leo Wa…",
-        "url": "https://www.breitbart.com/europe/2026/06/12/repent-or-go-to-hell-pope-leo-warns-europes-illegal-people-traffickers/",
-        "publishedAt": "2026-06-12T11:16:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "America’s baby bust may be linked to the iPhone, study says",
-        "description": "A new study suggests the iPhone may account for up to 52% of the decline in U.S. birth rates after 2007 by changing how young people socialize and date.",
-        "url": "https://www.foxnews.com/media/americas-baby-bust-may-linked-iphone-study-says-",
-        "publishedAt": "2026-06-12T10:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "52"
-      },
-      {
-        "title": "#799 – A Sky Full of Stars: US Flag History and Purple Flag Trivia",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the history of the stars and stripes to the rarest colors in global vexillology. Can you answer these? Star-Spangled Basics: We all recognize the American flag, but do you know th…",
-        "url": "https://radio.foxnews.com/2026/06/12/799-a-sky-full-of-stars-us-flag-history-and-purple-flag-trivia/",
-        "publishedAt": "2026-06-12T07:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "799"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
