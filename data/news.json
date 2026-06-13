@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-06-13T06:43:07.269407+00:00",
+  "generated_at": "2026-06-13T09:46:43.065516+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "LA politicians want to mandate prosperity. The $30 minimum wage proves they can’t",
+        "description": "The Olympic Wage policy pushing pay to $30 per hour in Los Angeles could discourage investment and hiring ahead of the 2028 Summer Olympics.",
+        "url": "https://www.foxnews.com/opinion/la-politicians-want-mandate-prosperity-30-minimum-wage-proves-cant",
+        "publishedAt": "2026-06-12T09:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Cuba’s dictatorship has long been a threat to America. Now, it’s finally teetering",
+        "description": "Rep. Carlos Gimenez says Cuba's communist regime is crumbling, citing blackouts, food shortages and threats from China, Russia and Iran near U.S. shores.",
+        "url": "https://www.foxnews.com/opinion/cubas-dictatorship-long-threat-america-finally-teetering",
+        "publishedAt": "2026-06-12T09:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'Backdoor Into Britain' Comes Under Scrutiny After Sudanese Suspect Held Over 'Attempted Beheading'",
+        "description": "Open land border with Ireland is under the microscope after it emerged the alleged Belfast knifeman entered country through that 'backdoor'.\nThe post ‘Backdoor Into Britain’ Comes Under Scrutiny After Sudanese Suspect Held Over ‘Attempted Beheading’ appeared …",
+        "url": "https://www.breitbart.com/europe/2026/06/12/backdoor-into-britain-comes-under-scrutiny-after-attempted-beheading/",
+        "publishedAt": "2026-06-12T08:52:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Why Trump keeps flipping on Iran: A president who sees the world as he wants it to be",
+        "description": "Trump's agenda faces reality checks on Iran, inflation, intelligence appointments, and Epstein as frustrations mount inside the White House.",
+        "url": "https://www.foxnews.com/opinion/why-trump-keeps-flipping-iran-president-who-sees-world-he-wants",
+        "publishedAt": "2026-06-12T07:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "How to trade the SpaceX IPO in Asia's locked-out markets",
         "description": "With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along the space supply chain, industry-themed ETFs and Nasdaq 100 Index-tracking funds in hopes of capturing gains",
@@ -13,51 +53,21 @@
           "name": "Bloomberg"
         },
         "numericHint": "100"
-      },
-      {
-        "title": "Van Hollen: Trump 'Has Lost It and the World Knows It'",
-        "description": "Thursday, on MS NOW's \"All In,\" Sen. Chris Van Hollen (D-MD) claimed President Donald Trump had \"lost it.\"\nThe post Van Hollen: Trump ‘Has Lost It and the World Knows It’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/clips/2026/06/11/van-hollen-trump-has-lost-it-and-the-world-knows-it/",
-        "publishedAt": "2026-06-12T02:16:39Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Washington Post faces class-action lawsuit alleging 'surveillance pricing' of subscribers",
-        "description": "A class action lawsuit on Thursday accused the Washington Post of surveillance pricing, alleging it used subscriber data to charge loyal customers more.",
-        "url": "https://www.foxnews.com/media/washington-post-faces-class-action-lawsuit-alleging-surveillance-pricing-subscribers",
-        "publishedAt": "2026-06-12T00:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive--Report Alleges CMS Gave Democrat-Led Areas Faster Approval for Hospital Funding",
-        "description": "A report by Defend Forgotten America alleges federal healthcare regulators have treated hospital funding programs in Republican-leaning communities differently than similar programs in Democrat-aligned jurisdictions.\nThe post Exclusive–Report Alleges CMS Gave…",
-        "url": "https://www.breitbart.com/health/2026/06/11/exclusive-report-alleges-cms-gave-democrat-led-areas-faster-approval-for-hospital-funding/",
-        "publishedAt": "2026-06-11T23:43:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Prices Keep Rising...Even for the Government",
-        "description": "Consumers may feel the tides of inflation washing over our ankles again. The government sector, however, is neck deep in it.\nThe post Breitbart Business Digest: Prices Keep Rising…Even for the Government appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/11/breitbart-business-digest-prices-keep-rising-even-for-the-government/",
-        "publishedAt": "2026-06-11T22:24:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "#799 – A Sky Full of Stars: US Flag History and Purple Flag Trivia",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the history of the stars and stripes to the rarest colors in global vexillology. Can you answer these? Star-Spangled Basics: We all recognize the American flag, but do you know th…",
+        "url": "https://radio.foxnews.com/2026/06/12/799-a-sky-full-of-stars-us-flag-history-and-purple-flag-trivia/",
+        "publishedAt": "2026-06-12T07:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "799"
+      },
       {
         "title": "China confronts G7 during Macron’s call by defending free trade",
         "description": "China's Vice Premier defends free trade during a G7 call, addressing economic imbalances and fostering international cooperation.",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-06-11T20:09:50Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump pivots on strikes while dangling Iran deal, testing whether Tehran blinks",
-        "description": "After months of predicting a nuclear deal with Iran was just around the corner, President Donald Trump appears to be testing whether military pressure can accomplish what diplomacy alone has not.",
-        "url": "https://www.foxnews.com/politics/trump-pivots-strikes-while-dangling-iran-deal-testing-whether-tehran-blinks",
-        "publishedAt": "2026-06-11T18:40:34Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
