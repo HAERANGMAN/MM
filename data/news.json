@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-13T11:43:00.596095+00:00",
+  "generated_at": "2026-06-13T13:13:19.934589+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "‘60 Minutes’ devoted lots of time to aiding Democrats over the years",
+        "description": "Fired CBS correspondent Scott Pelley claims he was nonplussed by bias allegations, but decades of '60 Minutes' interviews reveal a pro-Democrat pattern.",
+        "url": "https://www.foxnews.com/opinion/60-minutes-devoted-lots-time-aiding-democrats-years",
+        "publishedAt": "2026-06-12T13:00:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "California board of regents to review SAT/ACT testing ban after 1,400 professors warn of ‘severe’ math gaps",
+        "description": "UC President James B. Milliken announced a data-driven review of admissions testing after faculty warned they are being forced to re-teach middle school math to students.",
+        "url": "https://www.foxnews.com/media/uc-system-review-standardized-testing-ban-after-1400-professors-warn-severe-math-gaps",
+        "publishedAt": "2026-06-12T12:27:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
       {
         "title": "Victor Wembanyama anthem controversy grows as Spurs, NBA and ESPN stay silent during Finals",
         "description": "Victor Wembanyama's national anthem controversy persists as the NBA, Spurs and ESPN remain silent on his Game 1 posture and reported absences.",
@@ -33,31 +53,31 @@
           "name": "Bloomberg"
         },
         "numericHint": "60"
-      },
-      {
-        "title": "America’s baby bust may be linked to the iPhone, study says",
-        "description": "A new study suggests the iPhone may account for up to 52% of the decline in U.S. birth rates after 2007 by changing how young people socialize and date.",
-        "url": "https://www.foxnews.com/media/americas-baby-bust-may-linked-iphone-study-says-",
-        "publishedAt": "2026-06-12T10:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "52"
-      },
-      {
-        "title": "Bank of Japan Poised to Raise Rates to 31-Year High",
-        "description": "Japan’s central bank is widely expected to raise interest rates to 1% to counter the price shock stemming from the Middle East conflict.",
-        "url": "https://www.wsj.com/economy/central-banking/bank-of-japan-poised-to-raise-rates-to-31-year-high-740f396f",
-        "publishedAt": "2026-06-12T09:55:00Z",
-        "source": {
-          "name": "The Wall Street Journal"
-        },
-        "numericHint": "31"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Moms Demand Action Candidate Pushes Semiautomatic Firearm Ban",
+        "description": "Diana Kastenbaum is the Moms Demand Action-endorsed candidate for New York's 24th Congressional District and she is pushing for a ban on all semiautomatic firearms.\nThe post Moms Demand Action Candidate Pushes Semiautomatic Firearm Ban appeared first on Breit…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/12/moms-demand-action-candidate-pushes-semiautomatic-firearm-ban/",
+        "publishedAt": "2026-06-12T12:40:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "24"
+      },
+      {
+        "title": "Palestinian Soccer Chief Cries Foul: Despairs Denial of U.S. Visa to Attend World Cup",
+        "description": "The head of the Palestinian Football Association is waiting in Mexico City for permission to enter the United States with other federation heads attending the 2026 FIFA World Cup.\nThe post Palestinian Soccer Chief Cries Foul: Despairs Denial of U.S. Visa to A…",
+        "url": "https://www.breitbart.com/sports/2026/06/12/palestinian-soccer-chief-cries-foul-despairs-denial-of-u-s-visa-to-attend-world-cup/",
+        "publishedAt": "2026-06-12T11:52:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2026"
+      },
       {
         "title": "Repent or Go to Hell: Pope Leo Warns Europe’s Illegal People Traffickers",
         "description": "Repent from your evil ways or prepare to go to hell. That was the simple message from Pope Leo on Friday for people traffickers and criminal groups who deliver illegal aliens to Europe through Spain's Canary Islands.\nThe post Repent or Go to Hell: Pope Leo Wa…",
@@ -87,26 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "799"
-      },
-      {
-        "title": "China confronts G7 during Macron’s call by defending free trade",
-        "description": "China's Vice Premier defends free trade during a G7 call, addressing economic imbalances and fostering international cooperation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-11/china-vice-premier-to-join-macron-s-g7-call-on-trade-imbalances",
-        "publishedAt": "2026-06-12T03:51:29Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "7"
-      },
-      {
-        "title": "How to trade the SpaceX IPO in Asia's locked-out markets",
-        "description": "With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along the space supply chain, industry-themed ETFs and Nasdaq 100 Index-tracking funds in hopes of capturing gains",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
-        "publishedAt": "2026-06-12T03:42:35Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
       }
     ]
   },
