@@ -1,63 +1,83 @@
 {
-  "generated_at": "2026-06-13T09:46:43.065516+00:00",
+  "generated_at": "2026-06-13T11:43:00.596095+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "LA politicians want to mandate prosperity. The $30 minimum wage proves they can’t",
-        "description": "The Olympic Wage policy pushing pay to $30 per hour in Los Angeles could discourage investment and hiring ahead of the 2028 Summer Olympics.",
-        "url": "https://www.foxnews.com/opinion/la-politicians-want-mandate-prosperity-30-minimum-wage-proves-cant",
-        "publishedAt": "2026-06-12T09:00:51Z",
+        "title": "Victor Wembanyama anthem controversy grows as Spurs, NBA and ESPN stay silent during Finals",
+        "description": "Victor Wembanyama's national anthem controversy persists as the NBA, Spurs and ESPN remain silent on his Game 1 posture and reported absences.",
+        "url": "https://www.foxnews.com/outkick-sports/victor-wembanyama-anthem-controversy-grows-spurs-nba-espn-stay-silent-finals",
+        "publishedAt": "2026-06-12T11:02:27Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "$"
+        "numericHint": "1"
       },
       {
-        "title": "Cuba’s dictatorship has long been a threat to America. Now, it’s finally teetering",
-        "description": "Rep. Carlos Gimenez says Cuba's communist regime is crumbling, citing blackouts, food shortages and threats from China, Russia and Iran near U.S. shores.",
-        "url": "https://www.foxnews.com/opinion/cubas-dictatorship-long-threat-america-finally-teetering",
-        "publishedAt": "2026-06-12T09:00:00Z",
+        "title": "Austin Metcalf's family faces death threats after Karmelo Anthony's murder conviction and more top headlines",
+        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+        "url": "https://www.foxnews.com/us/austin-metcalfs-family-faces-death-threats-after-karmelo-anthonys-murder-conviction-more-top-headlines",
+        "publishedAt": "2026-06-12T10:59:01Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "'Backdoor Into Britain' Comes Under Scrutiny After Sudanese Suspect Held Over 'Attempted Beheading'",
-        "description": "Open land border with Ireland is under the microscope after it emerged the alleged Belfast knifeman entered country through that 'backdoor'.\nThe post ‘Backdoor Into Britain’ Comes Under Scrutiny After Sudanese Suspect Held Over ‘Attempted Beheading’ appeared …",
-        "url": "https://www.breitbart.com/europe/2026/06/12/backdoor-into-britain-comes-under-scrutiny-after-attempted-beheading/",
-        "publishedAt": "2026-06-12T08:52:42Z",
+        "title": "Prestige Estates plans ₹60,000 crore in project launches",
+        "description": "The developer is banking on regulatory approvals to drive a 43% jump in sales value.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/indian-developer-prestige-plans-6-3-billion-in-project-launches",
+        "publishedAt": "2026-06-12T10:02:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "America’s baby bust may be linked to the iPhone, study says",
+        "description": "A new study suggests the iPhone may account for up to 52% of the decline in U.S. birth rates after 2007 by changing how young people socialize and date.",
+        "url": "https://www.foxnews.com/media/americas-baby-bust-may-linked-iphone-study-says-",
+        "publishedAt": "2026-06-12T10:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "52"
+      },
+      {
+        "title": "Bank of Japan Poised to Raise Rates to 31-Year High",
+        "description": "Japan’s central bank is widely expected to raise interest rates to 1% to counter the price shock stemming from the Middle East conflict.",
+        "url": "https://www.wsj.com/economy/central-banking/bank-of-japan-poised-to-raise-rates-to-31-year-high-740f396f",
+        "publishedAt": "2026-06-12T09:55:00Z",
+        "source": {
+          "name": "The Wall Street Journal"
+        },
+        "numericHint": "31"
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": [
+      {
+        "title": "Repent or Go to Hell: Pope Leo Warns Europe’s Illegal People Traffickers",
+        "description": "Repent from your evil ways or prepare to go to hell. That was the simple message from Pope Leo on Friday for people traffickers and criminal groups who deliver illegal aliens to Europe through Spain's Canary Islands.\nThe post Repent or Go to Hell: Pope Leo Wa…",
+        "url": "https://www.breitbart.com/europe/2026/06/12/repent-or-go-to-hell-pope-leo-warns-europes-illegal-people-traffickers/",
+        "publishedAt": "2026-06-12T11:16:07Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Why Trump keeps flipping on Iran: A president who sees the world as he wants it to be",
-        "description": "Trump's agenda faces reality checks on Iran, inflation, intelligence appointments, and Epstein as frustrations mount inside the White House.",
-        "url": "https://www.foxnews.com/opinion/why-trump-keeps-flipping-iran-president-who-sees-world-he-wants",
-        "publishedAt": "2026-06-12T07:00:36Z",
+        "title": "America’s baby bust may be linked to the iPhone, study says",
+        "description": "A new study suggests the iPhone may account for up to 52% of the decline in U.S. birth rates after 2007 by changing how young people socialize and date.",
+        "url": "https://www.foxnews.com/media/americas-baby-bust-may-linked-iphone-study-says-",
+        "publishedAt": "2026-06-12T10:00:28Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "52"
       },
-      {
-        "title": "How to trade the SpaceX IPO in Asia's locked-out markets",
-        "description": "With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along the space supply chain, industry-themed ETFs and Nasdaq 100 Index-tracking funds in hopes of capturing gains",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
-        "publishedAt": "2026-06-12T03:42:35Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
-      }
-    ],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": [
       {
         "title": "#799 – A Sky Full of Stars: US Flag History and Purple Flag Trivia",
         "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the history of the stars and stripes to the rarest colors in global vexillology. Can you answer these? Star-Spangled Basics: We all recognize the American flag, but do you know th…",
@@ -87,26 +107,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "100"
-      },
-      {
-        "title": "Sheriff's Deputy Fired for Allegedly Pointing Gun at Bar Patrons",
-        "description": "A deputy was arrested at his home and fired from the sheriff's office after allegedly pointing his gun at bar patrons early Sunday morning.\nThe post Sheriff’s Deputy Fired for Allegedly Pointing Gun at Bar Patrons appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/11/sheriffs-deputy-fired-allegedly-pointing-gun-bar-patrons/",
-        "publishedAt": "2026-06-11T20:34:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese Agents Caught Using ChatGPT to Influence U.S. Policy Debates",
-        "description": "OpenAI has banned accounts connected to Chinese operatives that leveraged ChatGPT to create social media influence campaigns aimed at American discussions about tariffs and AI data centers, the company disclosed on Wednesday.\nThe post Chinese Agents Caught Us…",
-        "url": "https://www.breitbart.com/tech/2026/06/11/chinese-agents-caught-using-chatgpt-to-influence-u-s-policy-debates/",
-        "publishedAt": "2026-06-11T20:09:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
