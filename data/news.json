@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T12:06:16.364214+00:00",
+  "generated_at": "2026-06-14T14:25:27.550142+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Global capitalism bets it all on AI future that alarms voters",
+        "description": "This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+        "publishedAt": "2026-06-13T12:43:46Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TANVI RATNA: How Trump's multi-front pressure is shrinking Putin's operating space",
+        "description": "Russia's energy leverage faces unprecedented pressure as sanctions, Ukrainian drone strikes, and Europe's legal gas phase-out compress Moscow's options.",
+        "url": "https://www.foxnews.com/opinion/tanvi-ratna-trumps-multi-front-pressure-shrinking-putins-operating-space",
+        "publishedAt": "2026-06-13T12:19:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "MIKE DAVIS: Congress must finally kill the hidden tax in your online shopping cart",
         "description": "Senate's bipartisan AICOA bill aims to stop Amazon from rigging its marketplace, taxing sellers up to 50 cents on every dollar and inflating prices.",
@@ -44,29 +64,19 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "ABC News Complains: Only Three Percent of Deported Migrants Are Violent Felons",
-        "description": "ABC News is distressed that only three percent of 400,000 migrants detained by President Donald Trump had a violent felony conviction.\nThe post ABC News Complains: Only Three Percent of Deported Migrants Are Violent Felons appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/immigration/2026/06/12/abc-news-complains-only-3-percent-of-deported-migrants-are-violent-felons/",
-        "publishedAt": "2026-06-12T22:53:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "400"
-      },
-      {
-        "title": "WSJ Quotes Swiss Elites: Mass Migration Is Bad Economics",
-        "description": "The Wall Street Journal posted a remarkably balanced article about the economic impacts of migration on the Swiss population.\nThe post WSJ Quotes Swiss Elites: Mass Migration Is Bad Economics appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/immigration/2026/06/12/wsj-quotes-swiss-elites-mass-migration-is-bad/",
-        "publishedAt": "2026-06-12T21:16:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
+      {
+        "title": "Global capitalism bets it all on AI future that alarms voters",
+        "description": "This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+        "publishedAt": "2026-06-13T12:43:46Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "South Korea Adds 30 Years to Conservative Ex-President's Life Sentence for North Korea Drone Scheme",
         "description": "A district court in Seoul, South Korea, sentenced impeached former President Yoon Suk-yeol to 30 years in prison on Friday.\nThe post South Korea Adds 30 Years to Conservative Ex-President’s Life Sentence for North Korea Drone Scheme appeared first on Breitbar…",
@@ -80,6 +90,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Global capitalism bets it all on AI future that alarms voters",
+        "description": "This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+        "publishedAt": "2026-06-13T12:43:46Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TANVI RATNA: How Trump's multi-front pressure is shrinking Putin's operating space",
+        "description": "Russia's energy leverage faces unprecedented pressure as sanctions, Ukrainian drone strikes, and Europe's legal gas phase-out compress Moscow's options.",
+        "url": "https://www.foxnews.com/opinion/tanvi-ratna-trumps-multi-front-pressure-shrinking-putins-operating-space",
+        "publishedAt": "2026-06-13T12:19:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Menendez brothers eyed $20M insurance payout after parents' murders, Jose's ex-business partner claims",
         "description": "Peter M. Hoffman, who hired Jose Menendez at Carolco Pictures, shares his perspective on the 1989 killings in memoir \"Karmic Winds\" and doubts abuse claims.",
@@ -105,26 +135,6 @@
         "description": "Biden ATF's \"Engaged in the Business\" rule was vacated Friday by U.S. District Court Judge Matthew Kacsmaryk in a case brought by Gun Owners of America.\nThe post U.S. District Judge Vacates the Biden ATF ‘Engaged in the Business’ Rule appeared first on Breitb…",
         "url": "https://www.breitbart.com/2nd-amendment/2026/06/12/u-s-district-judge-vacates-the-biden-atf-engaged-in-the-business-rule/",
         "publishedAt": "2026-06-12T22:17:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Midland, Texas, Shooting Suspect Was Wanted for Attempted Murder of Police Officer",
-        "description": "The man believed to have shot and wounded ten and killed one Friday morning in Midland, Texas, was wanted for the attempted murder of a police officer.\nThe post Midland, Texas, Shooting Suspect Was Wanted for Attempted Murder of Police Officer appeared first …",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/12/midland-texas-shooting-suspect-was-wanted-for-attempted-murder-of-police-officer/",
-        "publishedAt": "2026-06-12T21:08:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Peace, Chicks, and Rockets",
-        "description": "We're writing this from a decidedly terrestrial compound while the world finally gets its chance to buy shares of a company whose goal is to lead humanity into its interplanetary future.\nThe post Breitbart Business Digest: Peace, Chicks, and Rockets appeared …",
-        "url": "https://www.breitbart.com/economy/2026/06/12/breitbart-business-digest-peace-chicks-and-rockets/",
-        "publishedAt": "2026-06-12T20:43:14Z",
         "source": {
           "name": "Breitbart News"
         },
