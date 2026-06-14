@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:25:27.550142+00:00",
+  "generated_at": "2026-06-14T16:04:25.762423+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "‘Manic impulsiveness’ drives SpaceX-fueled retail risk complex",
+        "description": "The result was a market struggling to settle on a single narrative, with investors lurching between macroeconomic developments and speculative trades",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street",
+        "publishedAt": "2026-06-13T15:13:26Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Global capitalism bets it all on AI future that alarms voters",
         "description": "This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gen. Jack Keane: This is the reality of what we are facing | Fox News Video",
-        "description": "Gen. Jack Keane discusses efforts to end the Iran conflict on 'Life, Liberty and Levin.'",
-        "url": "https://www.foxnews.com/video/6398278703112",
-        "publishedAt": "2026-06-13T00:06:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -90,6 +90,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Grandpa's Gun: High Standard Supermatic Trophy .22 LR",
+        "description": "The High Standard Supermatic Trophy reviewed for this article belonged to my grandfather, then to my father, and now to me.\nThe post Grandpa’s Gun: High Standard Supermatic Trophy .22 LR appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/13/grandpas-gun-high-standard-supermatic-trophy-22-lr/",
+        "publishedAt": "2026-06-13T15:20:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "22"
+      },
       {
         "title": "Global capitalism bets it all on AI future that alarms voters",
         "description": "This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast",
@@ -125,16 +135,6 @@
         "description": "On Friday’s broadcast of HBO’s “Real Time,” host Bill Maher and Eurasia Group and GZERO Media Founder Ian Bremmer stated that OPEC’s cartel has effectively been ended, which is beneficial, and that the region building pipelines will help undercut Iran’s\nThe p…",
         "url": "https://www.breitbart.com/clips/2026/06/13/maher-bremmer-trump-inadvertently-ended-opec/",
         "publishedAt": "2026-06-13T09:04:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. District Judge Vacates the Biden ATF 'Engaged in the Business' Rule",
-        "description": "Biden ATF's \"Engaged in the Business\" rule was vacated Friday by U.S. District Court Judge Matthew Kacsmaryk in a case brought by Gun Owners of America.\nThe post U.S. District Judge Vacates the Biden ATF ‘Engaged in the Business’ Rule appeared first on Breitb…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/12/u-s-district-judge-vacates-the-biden-atf-engaged-in-the-business-rule/",
-        "publishedAt": "2026-06-12T22:17:27Z",
         "source": {
           "name": "Breitbart News"
         },
