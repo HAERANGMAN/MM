@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-06-15T16:27:52.041504+00:00",
-  "insight": "Raw data summary: NASDAQ +3.04%, S&P 500 +1.92%, KOSPI +4.63%",
-  "errors": [
-    "USD/JPY: HTTP Error 520: <none>",
-    "USD/KRW: HTTP Error 521: <none>",
-    "USD/THB: HTTP Error 521: <none>",
-    "THB/KRW: HTTP Error 521: <none>"
-  ],
+  "generated_at": "2026-06-15T20:03:21.488933+00:00",
+  "insight": "Raw data summary: NASDAQ +3.07%, S&P 500 +1.66%, KOSPI +4.63%, USD/KRW -0.39%",
+  "errors": [],
   "items": [
     {
       "key": "NASDAQ",
       "label": "NASDAQ",
-      "price": 26674.826171875,
-      "dod": 3.036004443879127,
-      "mom": 1.7147116703973824,
-      "yoy": 37.4507122723888,
-      "raw_points": 1256
+      "price": 26683.94140625,
+      "dod": 3.0712135703985624,
+      "mom": 1.7494692890707808,
+      "yoy": 37.49768148033417,
+      "raw_points": 1255
     },
     {
       "key": "S&P500",
       "label": "S&P 500",
-      "price": 7574.10009765625,
-      "dod": 1.919409341751409,
-      "mom": 2.2352716157960453,
-      "yoy": 26.721396048553874,
-      "raw_points": 1256
+      "price": 7554.52001953125,
+      "dod": 1.6559338170507432,
+      "mom": 1.9709795441891071,
+      "yoy": 26.39380401745469,
+      "raw_points": 1255
     },
     {
       "key": "KOSPI",
@@ -47,74 +42,74 @@
     {
       "key": "SET Index",
       "label": "SET Index",
-      "price": 1591.719970703125,
-      "dod": -0.04333453455773899,
-      "mom": 4.859845311388474,
-      "yoy": 41.77607908877938,
-      "raw_points": 1208
+      "price": 1592.4100341796875,
+      "dod": 1.2777353577457922,
+      "mom": 4.953008972118834,
+      "yoy": 41.09355151149378,
+      "raw_points": 1207
     },
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 67111.671875,
-      "dod": 2.132498768566762,
-      "mom": -14.10413781904371,
-      "yoy": -36.41839380299658,
+      "price": 66570.0078125,
+      "dod": 1.3081786071006885,
+      "mom": -14.797410693358866,
+      "yoy": -36.93156640249747,
       "raw_points": 1827
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 101794584.0,
-      "dod": 2.5578606218923716,
-      "mom": -13.029668952461982,
-      "yoy": -29.387085023693903,
+      "price": 100740760.0,
+      "dod": 1.496134833887726,
+      "mom": -13.930025519033743,
+      "yoy": -30.118102152385063,
       "raw_points": 1827
     },
     {
       "key": "DXY",
       "label": "Dollar Index",
-      "price": 99.54900360107422,
-      "dod": -0.20150014929902882,
-      "mom": 0.2810586959230042,
-      "yoy": 1.394381026322188,
-      "raw_points": 1258
+      "price": 13.125,
+      "dod": 1.5081206496519743,
+      "mom": 1.195065535851961,
+      "yoy": 6.707317073170725,
+      "raw_points": 5000
     },
     {
       "key": "USD/JPY",
       "label": "USD/JPY",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 160.3933,
+      "dod": 0.059114699360336004,
+      "mom": 1.0604481398997174,
+      "yoy": 11.33243483009687,
+      "raw_points": 5000
     },
     {
       "key": "USD/KRW",
       "label": "USD/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 1514.3,
+      "dod": -0.38876207892331205,
+      "mom": 0.9789146583801274,
+      "yoy": 10.513486688463331,
+      "raw_points": 1280
     },
     {
       "key": "USD/THB",
       "label": "USD/THB",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 32.55,
+      "dod": -0.5955107650022914,
+      "mom": -0.36730945821856303,
+      "yoy": 0.323624595469246,
+      "raw_points": 1280
     },
     {
       "key": "THB/KRW",
       "label": "THB/KRW",
-      "price": null,
-      "dod": null,
-      "mom": null,
-      "yoy": null,
-      "raw_points": 0
+      "price": 46.522,
+      "dod": 0.20678068323783338,
+      "mom": 1.3507036730425632,
+      "yoy": 10.158173896571318,
+      "raw_points": 1280
     }
   ]
 }

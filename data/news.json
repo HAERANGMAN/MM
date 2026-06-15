@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-15T16:27:59.230189+00:00",
+  "generated_at": "2026-06-15T20:03:28.873416+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "America's wounded, struggling veterans get brand-new homes built by Florida teens",
+        "description": "High school students from The Villages Charter School build mortgage-free homes for injured veterans through a partnership with Building Homes for Heroes.",
+        "url": "https://www.foxnews.com/lifestyle/americas-wounded-struggling-veterans-get-brand-new-homes-built-florida-teens",
+        "publishedAt": "2026-06-14T17:56:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Swiss Referendum to Cap Population Falls Short, But Campaigners Claim Anti-Mass Migration Mandate",
         "description": "A landmark national referendum in Switzerland to cap the nation's population to ten million has failed; however, proponents have claimed a mandate to reduce immigration due to the large share of the public backing the measure on Sunday.\nThe post Swiss Referen…",
@@ -43,21 +53,31 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Germany pledges to build Europe's strongest army as NATO allies answer Trump pressure",
-        "description": "Germany pledges to become Europe's strongest conventional army inside NATO, with ambassador saying Berlin is ready to assume greater defense role.",
-        "url": "https://www.foxnews.com/world/germany-pledges-build-europes-strongest-army-nato-allies-answer-trump-pressure",
-        "publishedAt": "2026-06-14T10:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
+        "description": "Zelenskyy congratulated Trump on turning 80 and discussed peace efforts in a phone call ahead of the G7 Summit, where the two leaders agreed to meet.",
+        "url": "https://www.foxnews.com/world/zelenskyy-congratulates-trump-turning-80-birthday-call-vows-ukraine-peace-talks-g7-tuesday",
+        "publishedAt": "2026-06-14T17:21:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "80"
+      },
+      {
+        "title": "Tyra Banks sues Netflix, claims documentary edited interview to imply 'America's Next Top Model' cover-up",
+        "description": "Tyra Banks sues Netflix for defamation, alleging the streaming giant deliberately edited her interview to falsely imply she ignored a sexual assault.",
+        "url": "https://www.foxnews.com/entertainment/tyra-banks-sues-netflix-claims-documentary-edited-interview-imply-americas-next-top-model-cover",
+        "publishedAt": "2026-06-14T16:36:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at 2026 FIFA World Cup matches",
         "description": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at the 2026 FIFA World Cup as Hollywood turns out for the tournament in America.",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "15"
-      },
-      {
-        "title": "Teenager Shot in NYC as Knicks Fans Celebrate NBA Championship",
-        "description": "A 17-year-old was shot in New York City as residents of the city gathered to celebrate the Knicks' victory over the San Antonio Spurs.\nThe post Teenager Shot in NYC as Knicks Fans Celebrate NBA Championship appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/14/teenager-shot-in-nyc-as-knicks-fans-celebrate-nba-championship/",
-        "publishedAt": "2026-06-14T14:24:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "17"
-      },
-      {
-        "title": "GOA Stands by James Harden: 'Texas Allows Constitutional Carry'",
-        "description": "Gun Owners of America responded to the arrest of Cleveland Cavaliers' James Harden by noting \"Texas allows constitutional carry\" and opining the government's role is not in \"micromanaging\" our lives.\nThe post GOA Stands by James Harden: ‘Texas Allows Constitu…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/14/goa-stands-by-james-harden-texas-allows-constitutional-carry/",
-        "publishedAt": "2026-06-14T14:05:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
