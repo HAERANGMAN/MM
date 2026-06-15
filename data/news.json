@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-15T11:27:59.046938+00:00",
+  "generated_at": "2026-06-15T16:27:59.230189+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Swiss Referendum to Cap Population Falls Short, But Campaigners Claim Anti-Mass Migration Mandate",
+        "description": "A landmark national referendum in Switzerland to cap the nation's population to ten million has failed; however, proponents have claimed a mandate to reduce immigration due to the large share of the public backing the measure on Sunday.\nThe post Swiss Referen…",
+        "url": "https://www.breitbart.com/europe/2026/06/14/swiss-referendum-to-cap-population-falls-short-but-campaigners-claim-anti-mass-migration-mandate/",
+        "publishedAt": "2026-06-14T15:24:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mullin: Trump Wants to 'Tie the Entire Middle East into the Abraham Accords'",
+        "description": "Sunday on CNN's \"State of the Union,\" Department of Homeland Security Secretary Markwayne Mullin said President Donald Trump seeks to tie the entire Middle East into the Abraham Accords.\nThe post Mullin: Trump Wants to ‘Tie the Entire Middle East into the Abr…",
+        "url": "https://www.breitbart.com/clips/2026/06/14/mullin-trump-wants-to-tie-the-entire-middle-east-into-the-abraham-accords/",
+        "publishedAt": "2026-06-14T15:16:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'Encouraged Her Darkest Thoughts': Mother Sues OpenAI Claiming ChatGPT Contributed to Daughter's Suicide",
+        "description": "A Canadian mother has filed a lawsuit against OpenAI and CEO Sam Altman, claiming the company's ChatGPT chatbot contributed to her 24-year-old daughter's tragic suicide by encouraging her darkest thoughts instead of providing help and access to crisis counsel…",
+        "url": "https://www.breitbart.com/tech/2026/06/14/encouraged-her-darkest-thoughts-mother-sues-openai-claiming-chatgpt-contributed-to-daughters-suicide/",
+        "publishedAt": "2026-06-14T14:03:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "24"
+      },
+      {
+        "title": "Diamondbacks vs Reds betting preview: Why one pitcher makes Cincinnati the play through five innings",
+        "description": "Diamondbacks vs Reds betting preview highlights Zac Gallen's road struggles and Andrew Abbott's three straight quality starts in this matchup.",
+        "url": "https://www.foxnews.com/outkick-sports/diamondbacks-vs-reds-betting-preview-one-pitcher-makes-cincinnati-play-five-innings",
+        "publishedAt": "2026-06-14T12:48:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Germany pledges to build Europe's strongest army as NATO allies answer Trump pressure",
+        "description": "Germany pledges to become Europe's strongest conventional army inside NATO, with ambassador saying Berlin is ready to assume greater defense role.",
+        "url": "https://www.foxnews.com/world/germany-pledges-build-europes-strongest-army-nato-allies-answer-trump-pressure",
+        "publishedAt": "2026-06-14T10:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at 2026 FIFA World Cup matches",
+        "description": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at the 2026 FIFA World Cup as Hollywood turns out for the tournament in America.",
+        "url": "https://www.foxnews.com/entertainment/tom-cruise-david-beckham-katy-perry-celebrities-spotted-2026-fifa-world-cup-matches",
+        "publishedAt": "2026-06-14T16:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Britain and Japan Agree to $24 Billion Investment Deal",
+        "description": "Britain and Japan on Sunday sealed a sweeping economic and technological partnership, expected to generate over £18 billion ($24 billion) in investment, during a visit to London by Japanese Prime Minister Sanae Takaichi.\nThe post Britain and Japan Agree to $2…",
+        "url": "https://www.breitbart.com/europe/2026/06/14/britain-and-japan-agree-to-24-billion-investment-deal/",
+        "publishedAt": "2026-06-14T15:34:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Ban on AR-15s, Suppressors, and 'High Capacity' Magazines Heads to Virgin Islands' Governor's Desk",
+        "description": "A ban on AR-15s, suppressors, and ammunition magazines holding more than 15 rounds, passed the U.S. Virgin Islands' legislature Friday and is headed to the governor's desk.\nThe post Ban on AR-15s, Suppressors, and ‘High Capacity’ Magazines Heads to Virgin Isl…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/14/ban-on-ar-15s-suppressors-and-high-capacity-magazines-heads-to-virgin-islands-governors-desk/",
+        "publishedAt": "2026-06-14T15:00:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Teenager Shot in NYC as Knicks Fans Celebrate NBA Championship",
+        "description": "A 17-year-old was shot in New York City as residents of the city gathered to celebrate the Knicks' victory over the San Antonio Spurs.\nThe post Teenager Shot in NYC as Knicks Fans Celebrate NBA Championship appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/14/teenager-shot-in-nyc-as-knicks-fans-celebrate-nba-championship/",
+        "publishedAt": "2026-06-14T14:24:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "17"
+      },
+      {
+        "title": "GOA Stands by James Harden: 'Texas Allows Constitutional Carry'",
+        "description": "Gun Owners of America responded to the arrest of Cleveland Cavaliers' James Harden by noting \"Texas allows constitutional carry\" and opining the government's role is not in \"micromanaging\" our lives.\nThe post GOA Stands by James Harden: ‘Texas Allows Constitu…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/14/goa-stands-by-james-harden-texas-allows-constitutional-carry/",
+        "publishedAt": "2026-06-14T14:05:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
