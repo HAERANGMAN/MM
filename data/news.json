@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-06-16T00:10:21.610630+00:00",
+  "generated_at": "2026-06-16T05:32:07.350648+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "World Leaders Hail President Trump's 'Hugely Important' Iran Peace Deal",
-        "description": "International leaders were quick to welcome the peace agreement struck by President Donald Trump and the Islamic regime in Iran, which is set to be formally signed next week in Switzerland.\nThe post World Leaders Hail President Trump’s ‘Hugely Important’ Iran…",
-        "url": "https://www.breitbart.com/europe/2026/06/14/world-leaders-hail-president-trumps-hugely-important-iran-peace-deal/",
-        "publishedAt": "2026-06-14T23:34:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brent Crude Falls To Lowest Price Since March 5 on Iran War's End",
-        "description": "Oil prices fell sharply on Sunday after President Trump announced that the U.S. and Iran had agreed to a peace deal.\nThe post Brent Crude Falls To Lowest Price Since March 5 on Iran War’s End appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/14/brent-crude-falls-to-lowest-price-since-march-5-on-iran-wars-end/",
-        "publishedAt": "2026-06-14T22:48:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "America's wounded, struggling veterans get brand-new homes built by Florida teens",
-        "description": "High school students from The Villages Charter School build mortgage-free homes for injured veterans through a partnership with Building Homes for Heroes.",
-        "url": "https://www.foxnews.com/lifestyle/americas-wounded-struggling-veterans-get-brand-new-homes-built-florida-teens",
-        "publishedAt": "2026-06-14T17:56:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Swiss Referendum to Cap Population Falls Short, But Campaigners Claim Anti-Mass Migration Mandate",
-        "description": "A landmark national referendum in Switzerland to cap the nation's population to ten million has failed; however, proponents have claimed a mandate to reduce immigration due to the large share of the public backing the measure on Sunday.\nThe post Swiss Referen…",
-        "url": "https://www.breitbart.com/europe/2026/06/14/swiss-referendum-to-cap-population-falls-short-but-campaigners-claim-anti-mass-migration-mandate/",
-        "publishedAt": "2026-06-14T15:24:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mullin: Trump Wants to 'Tie the Entire Middle East into the Abraham Accords'",
-        "description": "Sunday on CNN's \"State of the Union,\" Department of Homeland Security Secretary Markwayne Mullin said President Donald Trump seeks to tie the entire Middle East into the Abraham Accords.\nThe post Mullin: Trump Wants to ‘Tie the Entire Middle East into the Abr…",
-        "url": "https://www.breitbart.com/clips/2026/06/14/mullin-trump-wants-to-tie-the-entire-middle-east-into-the-abraham-accords/",
-        "publishedAt": "2026-06-14T15:16:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "World Leaders Hail President Trump's 'Hugely Important' Iran Peace Deal",
-        "description": "International leaders were quick to welcome the peace agreement struck by President Donald Trump and the Islamic regime in Iran, which is set to be formally signed next week in Switzerland.\nThe post World Leaders Hail President Trump’s ‘Hugely Important’ Iran…",
-        "url": "https://www.breitbart.com/europe/2026/06/14/world-leaders-hail-president-trumps-hugely-important-iran-peace-deal/",
-        "publishedAt": "2026-06-14T23:34:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
-        "description": "Zelenskyy congratulated Trump on turning 80 and discussed peace efforts in a phone call ahead of the G7 Summit, where the two leaders agreed to meet.",
-        "url": "https://www.foxnews.com/world/zelenskyy-congratulates-trump-turning-80-birthday-call-vows-ukraine-peace-talks-g7-tuesday",
-        "publishedAt": "2026-06-14T17:21:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "80"
-      },
-      {
-        "title": "Tyra Banks sues Netflix, claims documentary edited interview to imply 'America's Next Top Model' cover-up",
-        "description": "Tyra Banks sues Netflix for defamation, alleging the streaming giant deliberately edited her interview to falsely imply she ignored a sexual assault.",
-        "url": "https://www.foxnews.com/entertainment/tyra-banks-sues-netflix-claims-documentary-edited-interview-imply-americas-next-top-model-cover",
-        "publishedAt": "2026-06-14T16:36:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at 2026 FIFA World Cup matches",
-        "description": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at the 2026 FIFA World Cup as Hollywood turns out for the tournament in America.",
-        "url": "https://www.foxnews.com/entertainment/tom-cruise-david-beckham-katy-perry-celebrities-spotted-2026-fifa-world-cup-matches",
-        "publishedAt": "2026-06-14T16:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Britain and Japan Agree to $24 Billion Investment Deal",
-        "description": "Britain and Japan on Sunday sealed a sweeping economic and technological partnership, expected to generate over £18 billion ($24 billion) in investment, during a visit to London by Japanese Prime Minister Sanae Takaichi.\nThe post Britain and Japan Agree to $2…",
-        "url": "https://www.breitbart.com/europe/2026/06/14/britain-and-japan-agree-to-24-billion-investment-deal/",
-        "publishedAt": "2026-06-14T15:34:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
