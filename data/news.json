@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-15T22:25:28.350972+00:00",
+  "generated_at": "2026-06-16T00:10:21.610630+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "World Leaders Hail President Trump's 'Hugely Important' Iran Peace Deal",
+        "description": "International leaders were quick to welcome the peace agreement struck by President Donald Trump and the Islamic regime in Iran, which is set to be formally signed next week in Switzerland.\nThe post World Leaders Hail President Trump’s ‘Hugely Important’ Iran…",
+        "url": "https://www.breitbart.com/europe/2026/06/14/world-leaders-hail-president-trumps-hugely-important-iran-peace-deal/",
+        "publishedAt": "2026-06-14T23:34:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Brent Crude Falls To Lowest Price Since March 5 on Iran War's End",
+        "description": "Oil prices fell sharply on Sunday after President Trump announced that the U.S. and Iran had agreed to a peace deal.\nThe post Brent Crude Falls To Lowest Price Since March 5 on Iran War’s End appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/14/brent-crude-falls-to-lowest-price-since-march-5-on-iran-wars-end/",
+        "publishedAt": "2026-06-14T22:48:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "5"
+      },
       {
         "title": "America's wounded, struggling veterans get brand-new homes built by Florida teens",
         "description": "High school students from The Villages Charter School build mortgage-free homes for injured veterans through a partnership with Building Homes for Heroes.",
@@ -33,31 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Encouraged Her Darkest Thoughts': Mother Sues OpenAI Claiming ChatGPT Contributed to Daughter's Suicide",
-        "description": "A Canadian mother has filed a lawsuit against OpenAI and CEO Sam Altman, claiming the company's ChatGPT chatbot contributed to her 24-year-old daughter's tragic suicide by encouraging her darkest thoughts instead of providing help and access to crisis counsel…",
-        "url": "https://www.breitbart.com/tech/2026/06/14/encouraged-her-darkest-thoughts-mother-sues-openai-claiming-chatgpt-contributed-to-daughters-suicide/",
-        "publishedAt": "2026-06-14T14:03:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "24"
-      },
-      {
-        "title": "Diamondbacks vs Reds betting preview: Why one pitcher makes Cincinnati the play through five innings",
-        "description": "Diamondbacks vs Reds betting preview highlights Zac Gallen's road struggles and Andrew Abbott's three straight quality starts in this matchup.",
-        "url": "https://www.foxnews.com/outkick-sports/diamondbacks-vs-reds-betting-preview-one-pitcher-makes-cincinnati-play-five-innings",
-        "publishedAt": "2026-06-14T12:48:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "World Leaders Hail President Trump's 'Hugely Important' Iran Peace Deal",
+        "description": "International leaders were quick to welcome the peace agreement struck by President Donald Trump and the Islamic regime in Iran, which is set to be formally signed next week in Switzerland.\nThe post World Leaders Hail President Trump’s ‘Hugely Important’ Iran…",
+        "url": "https://www.breitbart.com/europe/2026/06/14/world-leaders-hail-president-trumps-hugely-important-iran-peace-deal/",
+        "publishedAt": "2026-06-14T23:34:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
         "description": "Zelenskyy congratulated Trump on turning 80 and discussed peace efforts in a phone call ahead of the G7 Summit, where the two leaders agreed to meet.",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Ban on AR-15s, Suppressors, and 'High Capacity' Magazines Heads to Virgin Islands' Governor's Desk",
-        "description": "A ban on AR-15s, suppressors, and ammunition magazines holding more than 15 rounds, passed the U.S. Virgin Islands' legislature Friday and is headed to the governor's desk.\nThe post Ban on AR-15s, Suppressors, and ‘High Capacity’ Magazines Heads to Virgin Isl…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/14/ban-on-ar-15s-suppressors-and-high-capacity-magazines-heads-to-virgin-islands-governors-desk/",
-        "publishedAt": "2026-06-14T15:00:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "15"
       }
     ]
   },
