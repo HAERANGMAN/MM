@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-16T21:45:33.423880+00:00",
+  "generated_at": "2026-06-16T23:12:35.540026+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: Lower Immigration, Higher Productivity? History Says Yes.",
+        "description": "If you were told that the Yale Budget Lab had studied the economic consequences of Donald Trump's immigration policies, you would probably be able to guess that it would find the reduction in immigration those policies brought about was harmful.\nThe post Brei…",
+        "url": "https://www.breitbart.com/economy/2026/06/15/breitbart-business-digest-lower-immigration-higher-productivity-history-says-yes/",
+        "publishedAt": "2026-06-15T23:06:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "BOKHARI: Europe Declares War on American Tech Companies",
+        "description": "At a recent “counter-disinformation” conference at the University of Cambridge, European technologist Robin Berjon suggested that “military force” may have to be used against American tech platforms to bring them into line.\nThe post BOKHARI: Europe Declares W…",
+        "url": "https://www.breitbart.com/tech/2026/06/15/bokhari-europe-declares-war-on-american-tech-companies/",
+        "publishedAt": "2026-06-15T21:44:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Homes.com Parent CoStar Files Brief Accusing Zillow of Hypocrisy over Pre-Market Listings in MLS Lawsuit",
+        "description": "CoStar Group, the company behind Homes.com, has filed an amicus brief in Zillow Group, Inc. v. Midwest Real Estate Data LLC accusing Zillow of demanding open access to competitors’ listings while locking up pre-market inventory of its own.\nThe post Homes.com …",
+        "url": "https://www.breitbart.com/tech/2026/06/15/homes-com-parent-costar-files-brief-accusing-zillow-of-hypocrisy-over-pre-market-listings-in-mls-lawsuit/",
+        "publishedAt": "2026-06-15T21:06:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US won't move troops despite 'signed' Iran deal, as doubts linger over Tehran's next move",
+        "description": "Trump administration maintains roughly 50,000 troops in the Middle East during 60-day Iran negotiation period despite signing new agreement with Iran.",
+        "url": "https://www.foxnews.com/politics/us-wont-move-troops-despite-signed-iran-deal-doubts-linger-over-tehrans-next-move",
+        "publishedAt": "2026-06-15T20:35:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "PGA TOUR: One of these seven golfers will win the 2026 US Open at Shinnecock Hills Golf Club",
+        "description": "The 2026 U.S. Open returns to Shinnecock Hills, one of golf's toughest courses. See betting picks including Bryson DeChambeau and Russell Henley.",
+        "url": "https://www.foxnews.com/outkick-sports/pga-tour-one-seven-golfers-win-2026-us-open-shinnecock-hills-golf-club",
+        "publishedAt": "2026-06-15T20:28:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "New York Times probes Nicholas Kristof columns after report he failed to disclose campaign donor connections",
+        "description": "The New York Times is reviewing Nicholas Kristof's work after he reportedly failed to disclose that subjects of columns like Bill Gates donated to his campaign.",
+        "url": "https://www.foxnews.com/media/new-york-times-probes-nicholas-kristof-columns-after-report-he-failed-disclose-campaign-donor-connections",
+        "publishedAt": "2026-06-15T23:00:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'Total Eclipse of the Heart' singer Bonnie Tyler out of coma but still in intensive care after cardiac arrest",
+        "description": "Bonnie Tyler is no longer in a coma after cardiac arrest but remains very unwell in intensive care in Portugal, her team says on her official website.",
+        "url": "https://www.foxnews.com/entertainment/total-eclipse-heart-singer-bonnie-tyler-coma-still-intensive-care-cardiac-arrest",
+        "publishedAt": "2026-06-15T22:25:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "BOKHARI: Europe Declares War on American Tech Companies",
+        "description": "At a recent “counter-disinformation” conference at the University of Cambridge, European technologist Robin Berjon suggested that “military force” may have to be used against American tech platforms to bring them into line.\nThe post BOKHARI: Europe Declares W…",
+        "url": "https://www.breitbart.com/tech/2026/06/15/bokhari-europe-declares-war-on-american-tech-companies/",
+        "publishedAt": "2026-06-15T21:44:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "US won't move troops despite 'signed' Iran deal, as doubts linger over Tehran's next move",
+        "description": "Trump administration maintains roughly 50,000 troops in the Middle East during 60-day Iran negotiation period despite signing new agreement with Iran.",
+        "url": "https://www.foxnews.com/politics/us-wont-move-troops-despite-signed-iran-deal-doubts-linger-over-tehrans-next-move",
+        "publishedAt": "2026-06-15T20:35:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      },
+      {
+        "title": "PBS affiliate board chairman under fire after saying he hopes Trump suffers stroke",
+        "description": "PBS affiliate board chairman faces backlash after allegedly wishing President Trump would suffer a stroke in a social media post on Trump's 80th birthday.",
+        "url": "https://www.foxnews.com/media/pbs-affiliate-board-chairman-fire-saying-hopes-trump-suffers-stroke",
+        "publishedAt": "2026-06-15T19:57:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "80"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
