@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:12:35.540026+00:00",
+  "generated_at": "2026-06-17T01:42:10.523082+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Seattle police set up pathetic Designated Protest Zone outside Lumen Field for World Cup",
+        "description": "Seattle's designated protest zones at the World Cup debut were largely ignored by demonstrators, quickly becoming a viral punchline on social media.",
+        "url": "https://www.foxnews.com/outkick-sports/seattle-police-set-pathetic-designated-protest-zone-outside-lumen-field-world-cup",
+        "publishedAt": "2026-06-15T23:26:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "New York Times probes Nicholas Kristof columns after report he failed to disclose campaign donor connections",
         "description": "The New York Times is reviewing Nicholas Kristof's work after he reportedly failed to disclose that subjects of columns like Bill Gates donated to his campaign.",
         "url": "https://www.foxnews.com/media/new-york-times-probes-nicholas-kristof-columns-after-report-he-failed-disclose-campaign-donor-connections",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "50"
-      },
-      {
-        "title": "PBS affiliate board chairman under fire after saying he hopes Trump suffers stroke",
-        "description": "PBS affiliate board chairman faces backlash after allegedly wishing President Trump would suffer a stroke in a social media post on Trump's 80th birthday.",
-        "url": "https://www.foxnews.com/media/pbs-affiliate-board-chairman-fire-saying-hopes-trump-suffers-stroke",
-        "publishedAt": "2026-06-15T19:57:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "80"
       }
     ]
   },
