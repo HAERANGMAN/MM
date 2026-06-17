@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-17T01:42:10.523082+00:00",
+  "generated_at": "2026-06-17T06:50:55.152099+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Gen Keane: I see no evidence the behavior of the Iranian regime will change | Fox News Video",
+        "description": "Ret. Gen. Jack Keane discusses President Donald Trump's 'performance-based' peace agreement with Iran and raises concerns about whether the regime will honor the deal on 'Hannity.'",
+        "url": "https://www.foxnews.com/video/6398509192112",
+        "publishedAt": "2026-06-16T02:53:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "JD Vance reveals details of US-Iran deal, addresses whether taxpayer money will go to Tehran",
+        "description": "Vice President JD Vance says the U.S.-Iran peace deal includes no American taxpayer money and requires a real inspections regime from Tehran.",
+        "url": "https://www.foxnews.com/media/jd-vance-reveals-details-us-iran-deal-addresses-whether-taxpayer-money-go-tehran",
+        "publishedAt": "2026-06-16T02:49:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Breitbart Business Digest: Lower Immigration, Higher Productivity? History Says Yes.",
         "description": "If you were told that the Yale Budget Lab had studied the economic consequences of Donald Trump's immigration policies, you would probably be able to guess that it would find the reduction in immigration those policies brought about was harmful.\nThe post Brei…",
@@ -33,26 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "US won't move troops despite 'signed' Iran deal, as doubts linger over Tehran's next move",
-        "description": "Trump administration maintains roughly 50,000 troops in the Middle East during 60-day Iran negotiation period despite signing new agreement with Iran.",
-        "url": "https://www.foxnews.com/politics/us-wont-move-troops-despite-signed-iran-deal-doubts-linger-over-tehrans-next-move",
-        "publishedAt": "2026-06-15T20:35:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "PGA TOUR: One of these seven golfers will win the 2026 US Open at Shinnecock Hills Golf Club",
-        "description": "The 2026 U.S. Open returns to Shinnecock Hills, one of golf's toughest courses. See betting picks including Bryson DeChambeau and Russell Henley.",
-        "url": "https://www.foxnews.com/outkick-sports/pga-tour-one-seven-golfers-win-2026-us-open-shinnecock-hills-golf-club",
-        "publishedAt": "2026-06-15T20:28:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
       }
     ],
     "news-korea-soc": [],
