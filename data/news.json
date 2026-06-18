@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-17T23:11:44.905463+00:00",
+  "generated_at": "2026-06-18T01:43:13.278738+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Oakland school district vowed reparations for Black students, yet outcomes appear stagnant after 5 years",
+        "description": "Oakland's reparations task force for Black students failed to meet objectives after five years. A member says the group \"wasted our collective breath for a whole year.\"",
+        "url": "https://www.foxnews.com/media/oakland-school-districts-vowed-reparations-black-students-yet-its-goals-unfinished-after-5-years",
+        "publishedAt": "2026-06-17T01:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Breitbart Business Digest: Chasing Kevin Warsh's Invisible Dot",
+        "description": "Kevin Warsh gaveled to order his first Federal Open Market Committee meeting as Fed chairman on Tuesday. Tomorrow he'll hold his first press conference. The most interesting thing about it may be what he doesn't say.\nThe post Breitbart Business Digest: Chasin…",
+        "url": "https://www.breitbart.com/economy/2026/06/16/breitbart-business-digest-chasing-kevin-warshs-invisible-dot/",
+        "publishedAt": "2026-06-16T22:19:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Aid Workers Warn Epicenter of DR Congo Ebola Outbreak Has Run Out of Clean Water",
+        "description": "A field coordinator for humanitarian group Oxfam warned on Tuesday that supplies of clean water — the “first line of defense” against the Ebola epidemic in the Democratic Republic of the Congo (DRC) — are “simply not available.”\nThe post Aid Workers Warn Epic…",
+        "url": "https://www.breitbart.com/national-security/2026/06/16/aid-workers-warn-epicenter-of-dr-congo-ebola-outbreak-has-run-out-of-clean-water/",
+        "publishedAt": "2026-06-16T21:51:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Jemele Hill says UFC event at the White House was 'performative patriotism' that lacked 'diversity'",
+        "description": "Jemele Hill criticized the UFC 250 Freedom event hosted by Donald Trump, comparing it to Temu WrestleMania and calling it ostentatious and out of place.",
+        "url": "https://www.foxnews.com/outkick-sports/jemele-hill-says-ufc-event-white-house-performative-patriotism-lacked-diversity",
+        "publishedAt": "2026-06-16T21:50:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon",
+        "description": "China is taking over global pharmaceutical development – and gaining unprecedented control of the medical innovations Americans depend on.\nThe post Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-jeff-gerrish-how-to-counter-chinas-secret-weapon/",
+        "publishedAt": "2026-06-16T20:13:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "1 Dead, 1 Wounded, Suspect at Large, After Delaware Hospital Shooting",
+        "description": "One person is reportedly dead, another person wounded, and a suspect is at large following a shooting inside Wilmington Hospital around 3:30 p.m. on Tuesday.\nThe post 1 Dead, 1 Wounded, Suspect at Large, After Delaware Hospital Shooting appeared first on Brei…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/16/dead-wounded-suspect-atlarge-delaware-hospital-shooting/",
+        "publishedAt": "2026-06-17T00:37:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Jemele Hill says UFC event at the White House was 'performative patriotism' that lacked 'diversity'",
+        "description": "Jemele Hill criticized the UFC 250 Freedom event hosted by Donald Trump, comparing it to Temu WrestleMania and calling it ostentatious and out of place.",
+        "url": "https://www.foxnews.com/outkick-sports/jemele-hill-says-ufc-event-white-house-performative-patriotism-lacked-diversity",
+        "publishedAt": "2026-06-16T21:50:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Son of Mango fashion billionaire heard tearfully telling 911 operator his father had 'fallen down a ravine'",
+        "description": "Jonathan Andic's 911 call released as he tearfully reported his billionaire father Isak Andic had fallen down a ravine near Barcelona in December 2024.",
+        "url": "https://www.foxnews.com/us/son-mango-fashion-billionaire-heard-tearfully-telling-911-operator-father-fallen-ravine",
+        "publishedAt": "2026-06-16T20:29:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "911"
+      },
+      {
+        "title": "Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon",
+        "description": "China is taking over global pharmaceutical development – and gaining unprecedented control of the medical innovations Americans depend on.\nThe post Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-jeff-gerrish-how-to-counter-chinas-secret-weapon/",
+        "publishedAt": "2026-06-16T20:13:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: Photo Reveals How Illegal Alien Fraudster Faked Injuries in Mexican Ambulance to Get into U.S.",
+        "description": "An illegal alien faked injuries and used a Mexican ambulance to get into the United States, where he would later commit bank fraud by stealing food stamp benefits from poor Americans, Breitbart News has learned.\nThe post Exclusive: Photo Reveals How Illegal A…",
+        "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-photo-reveals-how-illegal-alien-fraudster-faked-injuries-in-mexican-ambulance-to-get-into-u-s/",
+        "publishedAt": "2026-06-16T19:16:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
