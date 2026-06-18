@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-18T01:43:13.278738+00:00",
+  "generated_at": "2026-06-18T06:29:35.640088+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Adani Green seeks $1 billion offshore loan after US settlement",
+        "description": "Adani Green Energy Ltd. is seeking to raise as much as $1 billion through an offshore loan, according to people familiar with the matter, its first overseas borrowing since emerging from legal troubles in the US.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-17/adani-green-seeks-1-billion-offshore-loan-after-us-settlement",
+        "publishedAt": "2026-06-17T06:02:01Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "JD Vance left stunned following 'The View' appearance, reveals what Joy Behar told him during commercial break",
+        "description": "Vice President JD Vance reveals Joy Behar called him 'pretty good for a Republican' during a break on his first appearance on The View this week.",
+        "url": "https://www.foxnews.com/media/jd-vance-left-stunned-following-view-appearance-reveals-joy-behar-told-him-during-commercial-break",
+        "publishedAt": "2026-06-17T02:59:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $114B AI and Data Center Future",
+        "description": "The Balkans are becoming a serious player in the global race for artificial intelligence and data center infrastructure, and one small country is leading the way – Bulgaria.\nThe post Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $11…",
+        "url": "https://www.breitbart.com/europe/2026/06/16/exclusive-aaron-j-masaitis-bulgarias-moment-at-the-center-of-europes-114b-ai-and-data-center-future/",
+        "publishedAt": "2026-06-17T02:42:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Oakland school district vowed reparations for Black students, yet outcomes appear stagnant after 5 years",
         "description": "Oakland's reparations task force for Black students failed to meet objectives after five years. A member says the group \"wasted our collective breath for a whole year.\"",
@@ -23,41 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Aid Workers Warn Epicenter of DR Congo Ebola Outbreak Has Run Out of Clean Water",
-        "description": "A field coordinator for humanitarian group Oxfam warned on Tuesday that supplies of clean water — the “first line of defense” against the Ebola epidemic in the Democratic Republic of the Congo (DRC) — are “simply not available.”\nThe post Aid Workers Warn Epic…",
-        "url": "https://www.breitbart.com/national-security/2026/06/16/aid-workers-warn-epicenter-of-dr-congo-ebola-outbreak-has-run-out-of-clean-water/",
-        "publishedAt": "2026-06-16T21:51:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jemele Hill says UFC event at the White House was 'performative patriotism' that lacked 'diversity'",
-        "description": "Jemele Hill criticized the UFC 250 Freedom event hosted by Donald Trump, comparing it to Temu WrestleMania and calling it ostentatious and out of place.",
-        "url": "https://www.foxnews.com/outkick-sports/jemele-hill-says-ufc-event-white-house-performative-patriotism-lacked-diversity",
-        "publishedAt": "2026-06-16T21:50:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon",
-        "description": "China is taking over global pharmaceutical development – and gaining unprecedented control of the medical innovations Americans depend on.\nThe post Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-jeff-gerrish-how-to-counter-chinas-secret-weapon/",
-        "publishedAt": "2026-06-16T20:13:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $114B AI and Data Center Future",
+        "description": "The Balkans are becoming a serious player in the global race for artificial intelligence and data center infrastructure, and one small country is leading the way – Bulgaria.\nThe post Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $11…",
+        "url": "https://www.breitbart.com/europe/2026/06/16/exclusive-aaron-j-masaitis-bulgarias-moment-at-the-center-of-europes-114b-ai-and-data-center-future/",
+        "publishedAt": "2026-06-17T02:42:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "1 Dead, 1 Wounded, Suspect at Large, After Delaware Hospital Shooting",
         "description": "One person is reportedly dead, another person wounded, and a suspect is at large following a shooting inside Wilmington Hospital around 3:30 p.m. on Tuesday.\nThe post 1 Dead, 1 Wounded, Suspect at Large, After Delaware Hospital Shooting appeared first on Brei…",
@@ -93,16 +103,6 @@
         "description": "China is taking over global pharmaceutical development – and gaining unprecedented control of the medical innovations Americans depend on.\nThe post Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon appeared first on Breitbart.",
         "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-jeff-gerrish-how-to-counter-chinas-secret-weapon/",
         "publishedAt": "2026-06-16T20:13:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Photo Reveals How Illegal Alien Fraudster Faked Injuries in Mexican Ambulance to Get into U.S.",
-        "description": "An illegal alien faked injuries and used a Mexican ambulance to get into the United States, where he would later commit bank fraud by stealing food stamp benefits from poor Americans, Breitbart News has learned.\nThe post Exclusive: Photo Reveals How Illegal A…",
-        "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-photo-reveals-how-illegal-alien-fraudster-faked-injuries-in-mexican-ambulance-to-get-into-u-s/",
-        "publishedAt": "2026-06-16T19:16:46Z",
         "source": {
           "name": "Breitbart News"
         },
