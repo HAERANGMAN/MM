@@ -1,63 +1,93 @@
 {
-  "generated_at": "2026-06-18T06:29:35.640088+00:00",
+  "generated_at": "2026-06-18T10:56:19.556082+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Adani Green seeks $1 billion offshore loan after US settlement",
-        "description": "Adani Green Energy Ltd. is seeking to raise as much as $1 billion through an offshore loan, according to people familiar with the matter, its first overseas borrowing since emerging from legal troubles in the US.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-17/adani-green-seeks-1-billion-offshore-loan-after-us-settlement",
-        "publishedAt": "2026-06-17T06:02:01Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "JD Vance left stunned following 'The View' appearance, reveals what Joy Behar told him during commercial break",
-        "description": "Vice President JD Vance reveals Joy Behar called him 'pretty good for a Republican' during a break on his first appearance on The View this week.",
-        "url": "https://www.foxnews.com/media/jd-vance-left-stunned-following-view-appearance-reveals-joy-behar-told-him-during-commercial-break",
-        "publishedAt": "2026-06-17T02:59:41Z",
+        "title": "Ex-Vikings captain calls on MLB players to double-down on faith amid Pride Night cap controversy",
+        "description": "Former Minnesota Vikings captain Jack Brewer urges Giants pitchers to keep writing Bible verses on Pride Night caps after MLB warning, calling it hypocrisy.",
+        "url": "https://www.foxnews.com/outkick-sports/ex-vikings-captain-calls-mlb-players-double-faith-amid-pride-night-cap-controversy-wan",
+        "publishedAt": "2026-06-17T10:08:30Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $114B AI and Data Center Future",
-        "description": "The Balkans are becoming a serious player in the global race for artificial intelligence and data center infrastructure, and one small country is leading the way – Bulgaria.\nThe post Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $11…",
-        "url": "https://www.breitbart.com/europe/2026/06/16/exclusive-aaron-j-masaitis-bulgarias-moment-at-the-center-of-europes-114b-ai-and-data-center-future/",
-        "publishedAt": "2026-06-17T02:42:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Oakland school district vowed reparations for Black students, yet outcomes appear stagnant after 5 years",
-        "description": "Oakland's reparations task force for Black students failed to meet objectives after five years. A member says the group \"wasted our collective breath for a whole year.\"",
-        "url": "https://www.foxnews.com/media/oakland-school-districts-vowed-reparations-black-students-yet-its-goals-unfinished-after-5-years",
-        "publishedAt": "2026-06-17T01:00:26Z",
+        "title": "Lines wrap around block as customers wait hours for viral dot cakes that sell out within minutes",
+        "description": "A mother-daughter business in Roslyn, New York, created Dot Cakes, the viral rainbow sprinkle desserts now selling out and drawing crowds from other countries.",
+        "url": "https://www.foxnews.com/food-drink/lines-wrap-block-customers-wait-hours-viral-dot-cakes-sell-out-within-minutes",
+        "publishedAt": "2026-06-17T10:00:23Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "5"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Breitbart Business Digest: Chasing Kevin Warsh's Invisible Dot",
-        "description": "Kevin Warsh gaveled to order his first Federal Open Market Committee meeting as Fed chairman on Tuesday. Tomorrow he'll hold his first press conference. The most interesting thing about it may be what he doesn't say.\nThe post Breitbart Business Digest: Chasin…",
-        "url": "https://www.breitbart.com/economy/2026/06/16/breitbart-business-digest-chasing-kevin-warshs-invisible-dot/",
-        "publishedAt": "2026-06-16T22:19:57Z",
+        "title": "A problem hiding in plain sight is keeping Americans from buying homes",
+        "description": "America's construction industry is short 250,000 workers monthly, extending building timelines and driving up costs amid a 1.5 million-home housing gap.",
+        "url": "https://www.foxnews.com/politics/problem-hiding-plain-sight-keeping-americans-buying-homes",
+        "publishedAt": "2026-06-17T10:00:06Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Fox News"
         },
-        "numericHint": "데이터없음"
+        "numericHint": "250"
+      },
+      {
+        "title": "While Mexico defends ‘sovereignty,’ cartels import a flesh-eating parasite into Texas",
+        "description": "New World screwworm returns to U.S. soil for the first time in 60 years as cartel-controlled corridors carry infested livestock northward from Mexico.",
+        "url": "https://www.foxnews.com/opinion/mexico-defends-sovereignty-cartels-import-flesh-eating-parasite-texas",
+        "publishedAt": "2026-06-17T09:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "Apache helicopter gunships showed off their power cleaning up the Strait of Hormuz",
+        "description": "AH-64E Apache helicopters play a major role in reopening the Strait of Hormuz, policing lanes for oil tankers despite a June 8 Iranian drone strike.",
+        "url": "https://www.foxnews.com/opinion/apache-helicopter-gunships-showed-power-cleaning-strait-hormuz",
+        "publishedAt": "2026-06-17T09:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "64"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Ex-Vikings captain calls on MLB players to double-down on faith amid Pride Night cap controversy",
+        "description": "Former Minnesota Vikings captain Jack Brewer urges Giants pitchers to keep writing Bible verses on Pride Night caps after MLB warning, calling it hypocrisy.",
+        "url": "https://www.foxnews.com/outkick-sports/ex-vikings-captain-calls-mlb-players-double-faith-amid-pride-night-cap-controversy-wan",
+        "publishedAt": "2026-06-17T10:08:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Spanish Far-left MEP Irene Montero Sings ‘Happy Birthday Mr. Genocide’ to Trump at E.U. Parliament",
+        "description": "Spanish far-left MEP Irene Montero of the Podemos Party on Tuesday protested against President Donald Trump at the European Parliament by singing a modified version of the \"Happy Birthday\" song, calling him \"Mister Genocide.\"\nThe post Spanish Far-left MEP Ire…",
+        "url": "https://www.breitbart.com/europe/2026/06/17/far-left-mep-irene-montero-sings-happy-birthday-mr-genocide-to-trump-at-eu-parliament/",
+        "publishedAt": "2026-06-17T09:07:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "#804 – Light My Fire: The Ultimate Test of Geography, Nature & History",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the wonders of the natural world to historic trade routes and essential scientific units. Can you answer these? Bright Ideas: We revisit a turning point in human innovation. Can y…",
+        "url": "https://radio.foxnews.com/2026/06/17/804-light-my-fire-the-ultimate-test-of-geography-nature-history/",
+        "publishedAt": "2026-06-17T07:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "804"
+      },
       {
         "title": "Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $114B AI and Data Center Future",
         "description": "The Balkans are becoming a serious player in the global race for artificial intelligence and data center infrastructure, and one small country is leading the way – Bulgaria.\nThe post Exclusive—Aaron J. Masaitis: Bulgaria’s Moment at the Center of Europe’s $11…",
@@ -77,36 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "1"
-      },
-      {
-        "title": "Jemele Hill says UFC event at the White House was 'performative patriotism' that lacked 'diversity'",
-        "description": "Jemele Hill criticized the UFC 250 Freedom event hosted by Donald Trump, comparing it to Temu WrestleMania and calling it ostentatious and out of place.",
-        "url": "https://www.foxnews.com/outkick-sports/jemele-hill-says-ufc-event-white-house-performative-patriotism-lacked-diversity",
-        "publishedAt": "2026-06-16T21:50:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Son of Mango fashion billionaire heard tearfully telling 911 operator his father had 'fallen down a ravine'",
-        "description": "Jonathan Andic's 911 call released as he tearfully reported his billionaire father Isak Andic had fallen down a ravine near Barcelona in December 2024.",
-        "url": "https://www.foxnews.com/us/son-mango-fashion-billionaire-heard-tearfully-telling-911-operator-father-fallen-ravine",
-        "publishedAt": "2026-06-16T20:29:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "911"
-      },
-      {
-        "title": "Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon",
-        "description": "China is taking over global pharmaceutical development – and gaining unprecedented control of the medical innovations Americans depend on.\nThe post Exclusive—Jeff Gerrish: How to Counter China’s Secret Weapon appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/06/16/exclusive-jeff-gerrish-how-to-counter-chinas-secret-weapon/",
-        "publishedAt": "2026-06-16T20:13:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
