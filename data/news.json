@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-06-18T14:10:51.421621+00:00",
+  "generated_at": "2026-06-18T17:28:50.971715+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump should expand his border crackdown. Timing is perfect to rein in Canada and Mexico",
-        "description": "The USMCA July deadline gives President Donald Trump leverage to force Canada and Mexico to crack down on fentanyl and illicit trade pipelines.",
-        "url": "https://www.foxnews.com/opinion/trump-expand-border-crackdown-timing-perfect-rein-canada-mexico",
-        "publishedAt": "2026-06-17T11:00:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ozempic users may be making a major weight-loss mistake, new study suggests",
-        "description": "New research finds GLP-1 users significantly reduced physical activity, with daily steps and exercise declining after starting a weight loss medication.",
-        "url": "https://www.foxnews.com/health/ozempic-users-may-making-major-weight-loss-mistake-new-study-suggests",
-        "publishedAt": "2026-06-17T11:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Ex-Vikings captain calls on MLB players to double-down on faith amid Pride Night cap controversy",
-        "description": "Former Minnesota Vikings captain Jack Brewer urges Giants pitchers to keep writing Bible verses on Pride Night caps after MLB warning, calling it hypocrisy.",
-        "url": "https://www.foxnews.com/outkick-sports/ex-vikings-captain-calls-mlb-players-double-faith-amid-pride-night-cap-controversy-wan",
-        "publishedAt": "2026-06-17T10:08:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Lines wrap around block as customers wait hours for viral dot cakes that sell out within minutes",
-        "description": "A mother-daughter business in Roslyn, New York, created Dot Cakes, the viral rainbow sprinkle desserts now selling out and drawing crowds from other countries.",
-        "url": "https://www.foxnews.com/food-drink/lines-wrap-block-customers-wait-hours-viral-dot-cakes-sell-out-within-minutes",
-        "publishedAt": "2026-06-17T10:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "A problem hiding in plain sight is keeping Americans from buying homes",
-        "description": "America's construction industry is short 250,000 workers monthly, extending building timelines and driving up costs amid a 1.5 million-home housing gap.",
-        "url": "https://www.foxnews.com/politics/problem-hiding-plain-sight-keeping-americans-buying-homes",
-        "publishedAt": "2026-06-17T10:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Environmentalists Warn World Cup ‘Most Polluting Ever’ as FIFA Boss Uses Private Jet to Hit Two Matches a Day",
-        "description": "Multiple environmental organizations, activists, and climate scientists have warned that the 2026 FIFA World Cup could potentially be the most polluting sporting event in the history of humanity — a concern that attracted more attention on Tuesday as FIFA con…",
-        "url": "https://www.breitbart.com/sports/2026/06/17/environmentalists-warn-world-cup-most-polluting-ever-as-fifa-boss-uses-private-jet-to-hit-two-matches-a-day/",
-        "publishedAt": "2026-06-17T13:50:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "FBI helps take down AI phishing ring",
-        "description": "The FBI and Google disrupted Outsider Enterprise, a China-based phishing-as-a-service operation tied to 3.87 million stolen credit cards and huge losses.",
-        "url": "https://www.foxnews.com/tech/fbi-helps-take-ai-phishing-ring",
-        "publishedAt": "2026-06-17T13:07:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3.87"
-      },
-      {
-        "title": "Trump’s reindustrialization agenda faces its biggest hurdle — Americans",
-        "description": "Americans say they want industry back, but local opposition blocks data centers, mines, and factories while China controls critical minerals refining.",
-        "url": "https://www.foxnews.com/opinion/trumps-reindustrialization-agenda-faces-biggest-hurdle",
-        "publishedAt": "2026-06-17T13:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Police Rescue Hundreds of Cats from Being Eaten in Vietnam with Bust of Major Animal Theft Ring",
-        "description": "Police in Vietnam seized more than 400 cats in a major bust of a cat meat crime ring in Ho Chi Minh City, according to animal welfare groups and local media reports.\nThe post Police Rescue Hundreds of Cats from Being Eaten in Vietnam with Bust of Major Animal…",
-        "url": "https://www.breitbart.com/asia/2026/06/17/police-rescue-hundreds-of-cats-from-being-eaten-in-vietnam-with-bust-of-major-animal-theft-ring/",
-        "publishedAt": "2026-06-17T11:49:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "400"
-      },
-      {
-        "title": "Ex-Vikings captain calls on MLB players to double-down on faith amid Pride Night cap controversy",
-        "description": "Former Minnesota Vikings captain Jack Brewer urges Giants pitchers to keep writing Bible verses on Pride Night caps after MLB warning, calling it hypocrisy.",
-        "url": "https://www.foxnews.com/outkick-sports/ex-vikings-captain-calls-mlb-players-double-faith-amid-pride-night-cap-controversy-wan",
-        "publishedAt": "2026-06-17T10:08:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
