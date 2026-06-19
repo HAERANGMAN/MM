@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-06-19T07:32:24.118022+00:00",
+  "generated_at": "2026-06-19T11:50:23.109418+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "How North Dakota could overtake Texas and Florida as the most tax-friendly state",
+        "description": "North Dakota uses billions in oil revenue to keep taxes low for residents while maintaining strong state finances, creating a competitive tax environment.",
+        "url": "https://www.foxnews.com/politics/north-dakota-could-overtake-texas-florida-tax-friendly-state",
+        "publishedAt": "2026-06-18T11:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India treads cautiously as Trump seeks fresh start with Modi",
+        "description": "India was one of the first in line to begin negotiating a trade deal with the US when Trump returned to the White House last year, but still an agreement remains elusive",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/india-treads-cautiously-as-trump-seeks-fresh-start-with-modi",
+        "publishedAt": "2026-06-18T10:59:42Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Poland and Germany Tighten Security Ties with Bilateral Defense Agreement",
+        "description": "Poland and Germany on Wednesday signed a new bilateral defense agreement bolstering their mutual security, industrial, and military cooperation as both nations warn over heightened tensions with Russia.\nThe post Poland and Germany Tighten Security Ties with B…",
+        "url": "https://www.breitbart.com/europe/2026/06/18/poland-and-germany-tighten-security-ties-with-bilateral-defense-agreement/",
+        "publishedAt": "2026-06-18T10:24:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "From #MeToo to Maine? Dem experts weigh in on how Platner's rise tests party standards: 'Pulling the plug'",
+        "description": "Graham Platner won Maine's Democratic Senate primary despite scandals, raising questions about voter willingness to overlook personal controversies.",
+        "url": "https://www.foxnews.com/politics/metoo-maine-dem-experts-weigh-platners-rise-tests-party-standards-pulling-plug",
+        "publishedAt": "2026-06-18T10:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump’s firing power faces twin Supreme Court tests, but one agency may get special treatment",
+        "description": "Two Supreme Court cases could fire up a battle over Trump's authority to remove federal officials, potentially reshaping presidential power.",
+        "url": "https://www.foxnews.com/politics/trumps-firing-power-faces-twin-supreme-court-tests-one-agency-may-get-special-treatment",
+        "publishedAt": "2026-06-18T10:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "U.S. Boosting Military Footprint in Australia: More Weapons, Ammunition and Troop Deployments",
+        "description": "The U.S. is boosting its war-ready military footprint in Australia by lifting deployment of weapons, ammunition, personnel and vehicles alongside the pre-positioning of nuclear submarines as China works at unsettling the Asia Pacific region to its own advanta…",
+        "url": "https://www.breitbart.com/europe/2026/06/18/u-s-boosting-military-footprint-in-australia-more-weapons-ammunition-and-troop-deployments/",
+        "publishedAt": "2026-06-18T08:13:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "America’s chip advantage is essential to protecting the American Dream",
+        "description": "The AI Overwatch Act and Match Act aim to block China from buying advanced U.S. chips or the tools to make them, protecting American dominance.",
+        "url": "https://www.foxnews.com/opinion/americas-chip-advantage-essential-protecting-american-dream",
+        "publishedAt": "2026-06-18T09:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Boosting Military Footprint in Australia: More Weapons, Ammunition and Troop Deployments",
+        "description": "The U.S. is boosting its war-ready military footprint in Australia by lifting deployment of weapons, ammunition, personnel and vehicles alongside the pre-positioning of nuclear submarines as China works at unsettling the Asia Pacific region to its own advanta…",
+        "url": "https://www.breitbart.com/europe/2026/06/18/u-s-boosting-military-footprint-in-australia-more-weapons-ammunition-and-troop-deployments/",
+        "publishedAt": "2026-06-18T08:13:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "#805 – Not Like Us: The World’s Fastest Animal & Pop Culture Quiz",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the astonishing speeds of the animal kingdom to groundbreaking legal history and top-tier pop culture. Can you answer these? Speed Demons: You know it leaves its competition in th…",
+        "url": "https://radio.foxnews.com/2026/06/18/805-not-like-us-the-worlds-fastest-animal-pop-culture-quiz/",
+        "publishedAt": "2026-06-18T07:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "805"
+      },
+      {
+        "title": "Van Hollen: Iran Deal 'Big Setback', But 'Hope They'll Move Forward and Sign It'",
+        "description": "On Wednesday’s broadcast of “CNN News Central,” Sen. Chris Van Hollen (D-MD) discussed the Iran MOU and said that “we would be even in a worse place if we don’t get into an agreement. So, as I look at this\nThe post Van Hollen: Iran Deal ‘Big Setback’, But ‘Ho…",
+        "url": "https://www.breitbart.com/clips/2026/06/17/van-hollen-iran-deal-big-setback-but-hope-theyll-move-forward-and-sign-it/",
+        "publishedAt": "2026-06-18T02:48:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "REPORT: Trump Personally Signs Iran Agreement at Versailles, Memorandum in Effect",
+        "description": "President Donald Trump personally signed a copy of an agreement aimed at ending the conflict between the United States and Iran during a dinner at the Palace of Versailles, according to a report from Barak Ravid, the global affairs correspondent for Axios and…",
+        "url": "https://www.breitbart.com/politics/2026/06/17/report-trump-personally-signs-iran-agreement-at-versailles-memorandum-in-effect/",
+        "publishedAt": "2026-06-17T22:50:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
