@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-06-19T14:32:40.394378+00:00",
+  "generated_at": "2026-06-19T17:01:35.549292+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Jack Leiter's struggles at home give Minnesota Twins a pitching edge in American League clash",
-        "description": "Twins starter Joe Ryan holds Rangers hitters to just a .143 batting average as Minnesota faces Texas in a compelling American League pitching mismatch.",
-        "url": "https://www.foxnews.com/outkick-sports/jack-leiters-struggles-home-give-minnesota-twins-pitching-edge-american-league-clash",
-        "publishedAt": "2026-06-18T14:22:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "143"
-      },
-      {
-        "title": "Prestige Hospitality reported to have put IPO plans on hold, explores stake sale instead",
-        "description": "Prestige Estates halts IPO plans for its hospitality unit, opting to explore a minority stake sale to private equity investors.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-18/prestige-hospitality-is-said-to-explore-stake-sale-instead-of-ipo",
-        "publishedAt": "2026-06-18T13:50:07Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jobless Claims Fall, Signaling Ongoing Strength in Labor Market",
-        "description": "New claims for unemployment benefits declined last week, indicating that the labor market remains resilient and demand for American workers is high.\nThe post Jobless Claims Fall, Signaling Ongoing Strength in Labor Market appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/18/jobless-claims-june-18/",
-        "publishedAt": "2026-06-18T13:40:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Steep decline for minority and female leads in film, UCLA Hollywood diversity report finds",
-        "description": "UCLA's annual Hollywood Diversity Report revealed BIPOC and female representation in lead roles dropped below proportion levels compared to previous years.",
-        "url": "https://www.foxnews.com/media/steep-decline-minority-female-leads-film-ucla-hollywood-diversity-report-finds",
-        "publishedAt": "2026-06-18T12:39:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ericsson names Narvinger CEO after Ekholm’s nine-year stint",
-        "description": "Ekholm, 63, will stay on as an adviser until June 2027. Narvinger inherits a company navigating its way out of a period of depressed demand for telecom equipment and lackluster spending on 5G network upgrades",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-16/ericsson-says-narvinger-to-succeed-ekholm-as-ceo-in-october",
-        "publishedAt": "2026-06-18T12:00:46Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "63"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "U.S. Boosting Military Footprint in Australia: More Weapons, Ammunition and Troop Deployments",
-        "description": "The U.S. is boosting its war-ready military footprint in Australia by lifting deployment of weapons, ammunition, personnel and vehicles alongside the pre-positioning of nuclear submarines as China works at unsettling the Asia Pacific region to its own advanta…",
-        "url": "https://www.breitbart.com/europe/2026/06/18/u-s-boosting-military-footprint-in-australia-more-weapons-ammunition-and-troop-deployments/",
-        "publishedAt": "2026-06-18T08:13:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Court: Florida Concealed Carry Ban for 18- to 20-Year-Olds 'Unconstitutional'",
-        "description": "On Wednesday, a three-judge panel for Florida's Fourth District Court of Appeals ruled that the state's ban on concealed carry for 18-20-year-olds is \"unconstitutional.\"\nThe post Court: Florida Concealed Carry Ban for 18- to 20-Year-Olds ‘Unconstitutional’ ap…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/18/court-florida-concealed-carry-ban-for-18-to-20-year-olds-unconstitutional/",
-        "publishedAt": "2026-06-18T13:19:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "AI is making huge changes in how wars are fought. We aren’t ready for what comes next",
-        "description": "AI is rapidly changing warfare by compressing decision cycles from hours to seconds, creating a new arms race centered on data pipelines and models.",
-        "url": "https://www.foxnews.com/opinion/ai-making-huge-changes-wars-fought-arent-ready-comes-next",
-        "publishedAt": "2026-06-18T13:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hegseth Torches 'Paper Tiger' NATO at Defence Summit: You Have Six Months to Shape Up or Face Consequences",
-        "description": "Secretary of War said the decline of European NATO has mirrored the continent's crisis of faith in itself and the open borders era.\nThe post Hegseth Torches ‘Paper Tiger’ NATO at Defence Summit: You Have Six Months to Shape Up or Face Consequences appeared fi…",
-        "url": "https://www.breitbart.com/europe/2026/06/18/hegseth-torches-paper-tiger-nato-you-have-six-months-to-shape-up/",
-        "publishedAt": "2026-06-18T12:34:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ericsson names Narvinger CEO after Ekholm’s nine-year stint",
-        "description": "Ekholm, 63, will stay on as an adviser until June 2027. Narvinger inherits a company navigating its way out of a period of depressed demand for telecom equipment and lackluster spending on 5G network upgrades",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-16/ericsson-says-narvinger-to-succeed-ekholm-as-ceo-in-october",
-        "publishedAt": "2026-06-18T12:00:46Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "63"
-      },
-      {
-        "title": "Gasoline Drops Below $4 A Gallon",
-        "description": "Pump prices have been falling for four straight weeks.\nThe post Gasoline Drops Below $4 A Gallon appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/18/gasoline-drops-below-4-a-gallon/",
-        "publishedAt": "2026-06-18T11:54:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
