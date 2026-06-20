@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-20T16:55:04.108804+00:00",
+  "generated_at": "2026-06-20T18:09:12.974604+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Colombia Ready for Sunday Presidential Runoff Between Abelardo de la Espriella and Ivan Cepeda",
+        "description": "Colombians are hours away from electing their president for the next four years in Sunday's runoff election between frontrunner conservative outsider Abelardo de la Espriella and far-left Senator Iván Cepeda.\nThe post Colombia Ready for Sunday Presidential Ru…",
+        "url": "https://www.breitbart.com/latin-america/2026/06/19/colombia-ready-for-sunday-runoff-between-abelardo-de-la-espriella-and-ivan-cepeda/",
+        "publishedAt": "2026-06-19T18:01:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
+        "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
+        "publishedAt": "2026-06-19T17:57:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Kevin O'Leary warns China is winning the AI race because U.S. states are slowing data center production",
         "description": "Kevin O'Leary says building data centers is critical to beating China in the AI race, citing advanced cooling technology and national security concerns.",
@@ -33,26 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Maine Democrats reject Platner-backed candidate in blow to scandal-plagued Senate hopeful",
-        "description": "Hannah Pingree, the former speaker of the Maine House of Representatives, wins Maine's 2026 Democratic gubernatorial primary, defeating Troy Jackson and a crowded field of challengers.",
-        "url": "https://www.foxnews.com/politics/maine-democrats-reject-platner-backed-candidate-blow-scandal-plagued-senate-hopeful",
-        "publishedAt": "2026-06-19T14:54:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Trump the Peacemaker: POTUS's Efforts on Iran, Ukraine Dominated G7",
-        "description": "VERSAILLES, France—President Donald Trump's trip to France began with meetings at the G7 in Évian-les-Bains and culminated in a dinner with French President Emmanuel Macron at the Palace of Versailles, where nearly 107 years ago a treaty was signed to officia…",
-        "url": "https://www.breitbart.com/politics/2026/06/19/trump-the-peacemaker-potuss-efforts-on-iran-ukraine-dominated-g7/",
-        "publishedAt": "2026-06-19T14:19:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "7"
       }
     ],
     "news-korea-soc": [
@@ -65,20 +65,40 @@
           "name": "Fox News"
         },
         "numericHint": "7"
-      },
-      {
-        "title": "Drone intercepted over Team Korea World Cup training camp ahead of game against Mexico",
-        "description": "Mexican military intercepted a drone flying over South Korea's training camp ahead of their World Cup Group A match, prompting a security response.",
-        "url": "https://www.foxnews.com/sports/drone-intercepted-team-korea-world-cup-training-camp-ahead-game-mexico",
-        "publishedAt": "2026-06-18T17:24:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Colombia Ready for Sunday Presidential Runoff Between Abelardo de la Espriella and Ivan Cepeda",
+        "description": "Colombians are hours away from electing their president for the next four years in Sunday's runoff election between frontrunner conservative outsider Abelardo de la Espriella and far-left Senator Iván Cepeda.\nThe post Colombia Ready for Sunday Presidential Ru…",
+        "url": "https://www.breitbart.com/latin-america/2026/06/19/colombia-ready-for-sunday-runoff-between-abelardo-de-la-espriella-and-ivan-cepeda/",
+        "publishedAt": "2026-06-19T18:01:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
+        "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
+        "publishedAt": "2026-06-19T17:57:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "British Bar Suspends ICC Prosecutor Who Targeted Netanyahu amid Sexual Misconduct Probe",
+        "description": "The Bar Standards Board (BSB) of the United Kingdom announced on Friday that it had decided to temporarily suspend Karim Khan, formerly the chief prosecutor of the International Criminal Court (ICC), as the ICC addresses allegations that Khan engaged in \"non-…",
+        "url": "https://www.breitbart.com/middle-east/2026/06/19/british-bar-suspends-icc-prosecutor-who-targeted-netanyahu-amid-sexual-misconduct-probe/",
+        "publishedAt": "2026-06-19T17:46:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Iranian and Israeli athletes react to memorandum of understanding to end US-Iran war",
         "description": "Former Iranian wrestler Sardar Pashei and Israeli Olympian AJ Edelman criticize the U.S.-Iran deal, calling it a dangerous lifeline for the regime.",
@@ -98,36 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "806"
-      },
-      {
-        "title": "Tax cut pulls global bond funds to India, backing rupee",
-        "description": "Overseas flows into index-eligible bonds have increased by ₹32,630 crore ($3.5 billion) since the June 5 reforms, according to latest available Clearing Corp of India data",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-18/pictet-neuberger-to-boost-india-bond-exposure-on-policy-support",
-        "publishedAt": "2026-06-19T06:35:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "32"
-      },
-      {
-        "title": "Short-bond rally faces risks from cash drain, analysts say",
-        "description": "DBS Bank Ltd. expects the central bank to deploy a stronger tool in August by requiring banks to keep a larger proportion of deposits with the RBI",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-19/india-short-bond-rally-faces-risks-from-cash-drain-analysts-say",
-        "publishedAt": "2026-06-19T04:28:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Seeks Ceasefire on All Fronts as Israel Holds Ground in Lebanon",
-        "description": "President Donald Trump on Thursday renewed his call for peace across the Middle East, urging all parties to uphold ongoing negotiations as Israel moved to deepen its military presence inside southern Lebanon.\nThe post Trump Seeks Ceasefire on All Fronts as Is…",
-        "url": "https://www.breitbart.com/politics/2026/06/18/trump-seeks-ceasefire-on-all-fronts-as-israel-holds-ground-in-lebanon/",
-        "publishedAt": "2026-06-18T23:10:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
