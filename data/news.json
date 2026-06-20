@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-06-20T18:09:12.974604+00:00",
+  "generated_at": "2026-06-20T19:54:52.124737+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Colombia Ready for Sunday Presidential Runoff Between Abelardo de la Espriella and Ivan Cepeda",
-        "description": "Colombians are hours away from electing their president for the next four years in Sunday's runoff election between frontrunner conservative outsider Abelardo de la Espriella and far-left Senator Iván Cepeda.\nThe post Colombia Ready for Sunday Presidential Ru…",
-        "url": "https://www.breitbart.com/latin-america/2026/06/19/colombia-ready-for-sunday-runoff-between-abelardo-de-la-espriella-and-ivan-cepeda/",
-        "publishedAt": "2026-06-19T18:01:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
-        "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
-        "publishedAt": "2026-06-19T17:57:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kevin O'Leary warns China is winning the AI race because U.S. states are slowing data center production",
-        "description": "Kevin O'Leary says building data centers is critical to beating China in the AI race, citing advanced cooling technology and national security concerns.",
-        "url": "https://www.foxnews.com/politics/kevin-oleary-warns-china-winning-ai-race-us-states-slowing-data-center-production",
-        "publishedAt": "2026-06-19T15:55:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "British Prime Minister Keir Starmer faces potential leadership challenge from newly-elected Andy Burnham",
-        "description": "Labour's Andy Burnham won a special election on Friday and gained a seat in Parliament. He has openly spoken about challenging Keir Starmer as leader.",
-        "url": "https://www.foxnews.com/world/british-prime-minister-keir-starmer-faces-potential-leadership-challenge-newly-elected-andy-burnham",
-        "publishedAt": "2026-06-19T15:38:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Desperate Cuba Announces 'Perfecting' of Economy to Avoid U.S. Sanctions and Dupe Foreign Investors",
-        "description": "The Cuban Communist Party debuted a set of economic reforms on Thursday allegedly intended to facilitate attracting foreign investment.\nThe post Desperate Cuba Announces ‘Perfecting’ of Economy to Avoid U.S. Sanctions and Dupe Foreign Investors appeared first…",
-        "url": "https://www.breitbart.com/latin-america/2026/06/19/desperate-cuba-announces-perfecting-economy-avoid-u-s-sanctions-dupe-foreign-investors/",
-        "publishedAt": "2026-06-19T15:29:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Ukraine is advancing. Now is the perfect time for Trump to strengthen NATO",
-        "description": "Trump administration shows signs of a positive shift on Ukraine as Zelenskyy meets Trump at G7 and battlefield gains bolster Kyiv's momentum.",
-        "url": "https://www.foxnews.com/opinion/ukraine-advancing-perfect-time-trump-strengthen-nato-",
-        "publishedAt": "2026-06-19T09:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Colombia Ready for Sunday Presidential Runoff Between Abelardo de la Espriella and Ivan Cepeda",
-        "description": "Colombians are hours away from electing their president for the next four years in Sunday's runoff election between frontrunner conservative outsider Abelardo de la Espriella and far-left Senator Iván Cepeda.\nThe post Colombia Ready for Sunday Presidential Ru…",
-        "url": "https://www.breitbart.com/latin-america/2026/06/19/colombia-ready-for-sunday-runoff-between-abelardo-de-la-espriella-and-ivan-cepeda/",
-        "publishedAt": "2026-06-19T18:01:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
-        "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
-        "publishedAt": "2026-06-19T17:57:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "British Bar Suspends ICC Prosecutor Who Targeted Netanyahu amid Sexual Misconduct Probe",
-        "description": "The Bar Standards Board (BSB) of the United Kingdom announced on Friday that it had decided to temporarily suspend Karim Khan, formerly the chief prosecutor of the International Criminal Court (ICC), as the ICC addresses allegations that Khan engaged in \"non-…",
-        "url": "https://www.breitbart.com/middle-east/2026/06/19/british-bar-suspends-icc-prosecutor-who-targeted-netanyahu-amid-sexual-misconduct-probe/",
-        "publishedAt": "2026-06-19T17:46:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iranian and Israeli athletes react to memorandum of understanding to end US-Iran war",
-        "description": "Former Iranian wrestler Sardar Pashei and Israeli Olympian AJ Edelman criticize the U.S.-Iran deal, calling it a dangerous lifeline for the regime.",
-        "url": "https://www.foxnews.com/sports/iranian-israeli-athletes-react-memorandum-understanding-end-us-iran-war",
-        "publishedAt": "2026-06-19T11:45:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "#806 – Royals: From Music Legends to Global Ambassadors",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the legendary figures who ruled the music charts to royal leaders and crucial diplomatic roles. Can you answer these? Music Royalty: We look back at the absolute icons of the musi…",
-        "url": "https://radio.foxnews.com/2026/06/19/806-royals-from-music-legends-to-global-ambassadors/",
-        "publishedAt": "2026-06-19T07:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "806"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
