@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-20T15:16:39.946290+00:00",
+  "generated_at": "2026-06-20T16:55:04.108804+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Kevin O'Leary warns China is winning the AI race because U.S. states are slowing data center production",
+        "description": "Kevin O'Leary says building data centers is critical to beating China in the AI race, citing advanced cooling technology and national security concerns.",
+        "url": "https://www.foxnews.com/politics/kevin-oleary-warns-china-winning-ai-race-us-states-slowing-data-center-production",
+        "publishedAt": "2026-06-19T15:55:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "British Prime Minister Keir Starmer faces potential leadership challenge from newly-elected Andy Burnham",
+        "description": "Labour's Andy Burnham won a special election on Friday and gained a seat in Parliament. He has openly spoken about challenging Keir Starmer as leader.",
+        "url": "https://www.foxnews.com/world/british-prime-minister-keir-starmer-faces-potential-leadership-challenge-newly-elected-andy-burnham",
+        "publishedAt": "2026-06-19T15:38:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Desperate Cuba Announces 'Perfecting' of Economy to Avoid U.S. Sanctions and Dupe Foreign Investors",
+        "description": "The Cuban Communist Party debuted a set of economic reforms on Thursday allegedly intended to facilitate attracting foreign investment.\nThe post Desperate Cuba Announces ‘Perfecting’ of Economy to Avoid U.S. Sanctions and Dupe Foreign Investors appeared first…",
+        "url": "https://www.breitbart.com/latin-america/2026/06/19/desperate-cuba-announces-perfecting-economy-avoid-u-s-sanctions-dupe-foreign-investors/",
+        "publishedAt": "2026-06-19T15:29:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Maine Democrats reject Platner-backed candidate in blow to scandal-plagued Senate hopeful",
         "description": "Hannah Pingree, the former speaker of the Maine House of Representatives, wins Maine's 2026 Democratic gubernatorial primary, defeating Troy Jackson and a crowded field of challengers.",
@@ -23,36 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "7"
-      },
-      {
-        "title": "SEN PETER WELCH: Trump is leading us into another unnecessary war. This time it’s Cuba",
-        "description": "Instead of starting an unnecessary war with Cuba, the U.S. should negotiate a deal ending the failed embargo and promoting investment in our neighbor.",
-        "url": "https://www.foxnews.com/opinion/sen-peter-welch-trump-leading-us-another-unnecessary-war-time-cuba",
-        "publishedAt": "2026-06-19T13:00:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Cotton: Aspects of Iran Deal Are 'Step in the Wrong Direction'",
-        "description": "Thursday, during an appearance on Fox News, Sen. Tom Cotton (R-AR) expressed his concerns about the framework of a deal between the United States and Iran to cease hostilities.\nThe post Cotton: Aspects of Iran Deal Are ‘Step in the Wrong Direction’ appeared f…",
-        "url": "https://www.breitbart.com/clips/2026/06/19/cotton-aspects-of-iran-deal-are-step-in-the-wrong-direction/",
-        "publishedAt": "2026-06-19T12:41:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Republican congressman will end months-long absence from DC after missing 135 roll call votes",
-        "description": "Rep. Tom Kean Jr. is set to return to Capitol Hill on June 30 after more than 100 days away due to an undisclosed health issue, his spokesperson confirmed.",
-        "url": "https://www.foxnews.com/politics/republican-congressman-end-months-long-absence-dc-missing-135-roll-call-votes",
-        "publishedAt": "2026-06-19T12:31:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "135"
       }
     ],
     "news-korea-soc": [
