@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-20T13:15:09.617691+00:00",
+  "generated_at": "2026-06-20T15:16:39.946290+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Maine Democrats reject Platner-backed candidate in blow to scandal-plagued Senate hopeful",
+        "description": "Hannah Pingree, the former speaker of the Maine House of Representatives, wins Maine's 2026 Democratic gubernatorial primary, defeating Troy Jackson and a crowded field of challengers.",
+        "url": "https://www.foxnews.com/politics/maine-democrats-reject-platner-backed-candidate-blow-scandal-plagued-senate-hopeful",
+        "publishedAt": "2026-06-19T14:54:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Trump the Peacemaker: POTUS's Efforts on Iran, Ukraine Dominated G7",
+        "description": "VERSAILLES, France—President Donald Trump's trip to France began with meetings at the G7 in Évian-les-Bains and culminated in a dinner with French President Emmanuel Macron at the Palace of Versailles, where nearly 107 years ago a treaty was signed to officia…",
+        "url": "https://www.breitbart.com/politics/2026/06/19/trump-the-peacemaker-potuss-efforts-on-iran-ukraine-dominated-g7/",
+        "publishedAt": "2026-06-19T14:19:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "7"
+      },
       {
         "title": "SEN PETER WELCH: Trump is leading us into another unnecessary war. This time it’s Cuba",
         "description": "Instead of starting an unnecessary war with Cuba, the U.S. should negotiate a deal ending the failed embargo and promoting investment in our neighbor.",
@@ -33,26 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "135"
-      },
-      {
-        "title": "Patriotism is great, but making money is better: 'Fade the public' in Team USA vs Australia in World Cup 2026",
-        "description": "USA faces Australia in a 2026 FIFA World Cup Group D clash Friday in Seattle, with Christian Pulisic's calf injury potentially impacting the matchup.",
-        "url": "https://www.foxnews.com/outkick-sports/patriotism-great-making-money-better-fade-public-team-usa-vs-australia-world-cup-2026",
-        "publishedAt": "2026-06-19T10:20:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Gov Sanders reveals 'major breakthrough' on education as red state positions itself as 'blueprint' for nation",
-        "description": "Arkansas students show 7% proficiency gains under Gov. Sarah Sanders' LEARNS Act, with the governor hoping red and blue states will follow the blueprint.",
-        "url": "https://www.foxnews.com/politics/gov-sanders-reveals-major-breakthrough-education-red-state-positions-blueprint-nation",
-        "publishedAt": "2026-06-19T10:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
       }
     ],
     "news-korea-soc": [
