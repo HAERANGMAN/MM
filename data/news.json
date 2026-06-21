@@ -1,19 +1,115 @@
 {
-  "generated_at": "2026-06-21T21:38:10.904878+00:00",
+  "generated_at": "2026-06-21T22:47:22.754058+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Campbell's rolls out new soups, including first-ever gluten-free chicken noodle variety",
+        "description": "Campbell's launches its first gluten-free condensed chicken noodle soup in 150 years, partnering with Banza chickpea pasta for the new variety.",
+        "url": "https://www.foxnews.com/food-drink/campbells-rolls-new-soups-including-first-ever-gluten-free-chicken-noodle-variety",
+        "publishedAt": "2026-06-20T18:22:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "150"
+      },
+      {
+        "title": "Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Excludes American Workers",
+        "description": "Many skilled Americans are being pushed out of high-tech jobs by the ethnic Chinese managers of a taxpayer-funded computer-chip company in Arizona, says a lawsuit by 13 Americans.\nThe post Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Exclude…",
+        "url": "https://www.breitbart.com/politics/2026/06/20/lawsuit-top-chip-company-gets-6-6-billion-from-the-feds-but-excludes-american-workers/",
+        "publishedAt": "2026-06-20T18:05:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Actor Misha Collins ‘Deeply Ashamed’ of America During Pride Month: Trans Rights Should Be ‘Conservative Rallying Call’",
+        "description": "'Supernatural' star Misha Collins says he cannot understand why Republicans have not made \"transgender rights\" a \"conservative rally call.\"",
+        "url": "https://www.breitbart.com/entertainment/2026/06/20/supernatural-star-misha-collins-deeply-ashamed-of-america-during-pride-month-trans-rights-should-be-conservative-rallying-call/",
+        "publishedAt": "2026-06-20T16:20:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Big tech stock buybacks vanish as AI spending spree eats up cash",
+        "description": "Big tech's stock buybacks decline as companies prioritize AI investments, shifting from capital-light to capital-intensive strategies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/big-tech-s-ai-spending-spree-is-making-stock-buybacks-disappear",
+        "publishedAt": "2026-06-20T15:45:49Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump says Iran deal 'probably is unconditional surrender,' reveals details of covert maritime operation",
+        "description": "Trump claims the U.S.-Iran deal is 'unconditional surrender,' says covert Navy operations destroyed 159 Iranian ships over nearly two months.",
+        "url": "https://www.foxnews.com/media/trump-says-iran-deal-probably-unconditional-surrender-reveals-details-covert-maritime-operation",
+        "publishedAt": "2026-06-20T14:55:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "159"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "This is the USA's roadmap to winning the World Cup now that they've made the knockout round",
+        "description": "The USMNT won its first two 2026 FIFA World Cup matches for the first time since 1930, clinching first in Group D with a real path to win it all.",
+        "url": "https://www.foxnews.com/outkick-sports/usa-roadmap-winning-world-cup-knockout-round",
+        "publishedAt": "2026-06-20T18:31:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Excludes American Workers",
+        "description": "Many skilled Americans are being pushed out of high-tech jobs by the ethnic Chinese managers of a taxpayer-funded computer-chip company in Arizona, says a lawsuit by 13 Americans.\nThe post Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Exclude…",
+        "url": "https://www.breitbart.com/politics/2026/06/20/lawsuit-top-chip-company-gets-6-6-billion-from-the-feds-but-excludes-american-workers/",
+        "publishedAt": "2026-06-20T18:05:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Homeowner Reports Break-In Then Shoots, Kills Suspect",
+        "description": "A homeowner called 911 to report a break-in at his home Friday morning, then shot and killed the suspect before police arrived. \nThe post Homeowner Reports Break-In Then Shoots, Kills Suspect appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/20/homeowner-reports-break-in-then-shoots-kills-suspect/",
+        "publishedAt": "2026-06-20T16:31:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "911"
+      },
+      {
+        "title": "Furniture Store Owner Allegedly Shoots Business Partner Dead over Contract Dispute",
+        "description": "A furniture manufacturer allegedly shot and killed the company's co-owner Wednesday after an altercation over a contract.\nThe post Furniture Store Owner Allegedly Shoots Business Partner Dead over Contract Dispute appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/20/furniture-store-owner-allegedly-shoots-business-partner-dead-contract-dispute/",
+        "publishedAt": "2026-06-20T16:04:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Earth, Wind & Fire documentary explores band's highs and lows, Maurice White's complicated life",
+        "description": "HBO's Questlove documentary explores Earth, Wind & Fire's rise to fame alongside Maurice White's complicated personal life.",
+        "url": "https://www.foxnews.com/entertainment/earth-wind-fire-documentary-explores-bands-highs-lows-maurice-whites-complicated-life",
+        "publishedAt": "2026-06-20T16:00:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
