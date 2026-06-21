@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-21T18:12:15.933944+00:00",
+  "generated_at": "2026-06-21T20:03:40.514602+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Campbell's rolls out new soups, including first-ever gluten-free chicken noodle variety",
+        "description": "Campbell's launches its first gluten-free condensed chicken noodle soup in 150 years, partnering with Banza chickpea pasta for the new variety.",
+        "url": "https://www.foxnews.com/food-drink/campbells-rolls-new-soups-including-first-ever-gluten-free-chicken-noodle-variety",
+        "publishedAt": "2026-06-20T18:22:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "150"
+      },
       {
         "title": "Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Excludes American Workers",
         "description": "Many skilled Americans are being pushed out of high-tech jobs by the ethnic Chinese managers of a taxpayer-funded computer-chip company in Arizona, says a lawsuit by 13 Americans.\nThe post Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Exclude…",
@@ -43,21 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "159"
-      },
-      {
-        "title": "Mark Hamill Has Orgasmic Reaction to Barack & Michelle Obama’s Presidential Center Speeches: ‘Master Orators’",
-        "description": "Disney’s Star Wars star Mark Hamill had an orgasmic reaction to Barack and Michelle Obama’s Presidential Center speeches on Thursday, calling the former president and former first lady “master orators.” “What are the odds of TWO master orators married to\nThe …",
-        "url": "https://www.breitbart.com/entertainment/2026/06/20/mark-hamill-has-orgasmic-reaction-to-barack-michelle-obamas-presidential-center-speeches-master-orators/",
-        "publishedAt": "2026-06-20T13:03:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "This is the USA's roadmap to winning the World Cup now that they've made the knockout round",
+        "description": "The USMNT won its first two 2026 FIFA World Cup matches for the first time since 1930, clinching first in Group D with a real path to win it all.",
+        "url": "https://www.foxnews.com/outkick-sports/usa-roadmap-winning-world-cup-knockout-round",
+        "publishedAt": "2026-06-20T18:31:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
       {
         "title": "Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Excludes American Workers",
         "description": "Many skilled Americans are being pushed out of high-tech jobs by the ethnic Chinese managers of a taxpayer-funded computer-chip company in Arizona, says a lawsuit by 13 Americans.\nThe post Lawsuit: Top Chip Company Gets $6.6 Billion from the Feds, but Exclude…",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chicago: At Least 13 Shot When Drive-By Shooters Open Fire",
-        "description": "Two drive-by shooters opened fire on a group of people, wounding at least 13 in Chicago's Princeton Park neighborhood Friday night around 11 p.m.\nThe post Chicago: At Least 13 Shot When Drive-By Shooters Open Fire appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/20/chicago-at-least-13-shot-when-drive-by-shooters-open-fire/",
-        "publishedAt": "2026-06-20T15:48:05Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "13"
       }
     ]
   },
