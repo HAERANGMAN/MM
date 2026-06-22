@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-22T21:47:09.625030+00:00",
+  "generated_at": "2026-06-22T23:07:26.726524+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Iowa news anchor quits live on-air in emotional plea for facts over 'sanitized news'",
+        "description": "Local news anchor Dustin Nolan tearfully announced he was leaving KWQC TV6 during a live broadcast on Friday after spending about four years on the station.",
+        "url": "https://www.foxnews.com/media/iowa-news-anchor-quits-live-on-air-emotional-plea-facts-over-sanitized-news",
+        "publishedAt": "2026-06-21T22:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "6"
+      },
+      {
+        "title": "Poll: 78 Percent of Americans Want Conflict with Iran to End Now",
+        "description": "A majority of Americans want the United States to end the war with Iran now, according to a recent CBS News/YouGov poll.\nThe post Poll: 78 Percent of Americans Want Conflict with Iran to End Now appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/06/21/poll-78-percent-of-americans-want-conflict-with-iran-to-end-now/",
+        "publishedAt": "2026-06-21T20:27:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "78"
+      },
+      {
+        "title": "CNN panel swoons over JD Vance's glow up, admits media blitz is 'impressive' following 'The View' appearance",
+        "description": "CNN panelists praised JD Vance's media performances before Jonah Goldberg accused the vice president of relying on misleading arguments and straw men.",
+        "url": "https://www.foxnews.com/media/cnn-panel-swoons-jd-vances-glow-admits-media-blitz-impressive-following-view-appearance",
+        "publishedAt": "2026-06-21T16:13:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chris Christie: Trump Has 'Gone from America First to Iran First'",
+        "description": "Sunday on ABC's \"This Week,\" former Gov. Chris Christie (R-NJ) said that with the Iranian deal, President Donald Trump had \"gone from America first to Iran first.\"\nThe post Chris Christie: Trump Has ‘Gone from America First to Iran First’ appeared first on Br…",
+        "url": "https://www.breitbart.com/clips/2026/06/21/chris-christie-trump-has-gone-from-america-first-to-iran-first/",
+        "publishedAt": "2026-06-21T15:52:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Released documents on alleged COVID-19 coverup contain evidence of lab-leak | Fox News Video",
+        "description": "Former Rep. Brad Wenstrup, R-Ohio, reacts to new documents on Anthony Fauci's alleged role in gain-of-function research and alleged cover-up.",
+        "url": "https://www.foxnews.com/video/6399018527112",
+        "publishedAt": "2026-06-21T15:49:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "19"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Albanian protesters flood streets demanding prime minister's resignation amid corruption accusations",
+        "description": "Albania protests target Socialist PM Edi Rama over corruption allegations, not Kushner investments, former ambassador tells Fox News Digital.",
+        "url": "https://www.foxnews.com/world/albanian-protesters-flood-streets-demanding-prime-ministers-resignation-amid-corruption-accusations",
+        "publishedAt": "2026-06-21T21:34:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Leading UN Secretary General Candidate Macky Sall Backs ‘Peace Builder’ Donald Trump’s Push for Reforms: ‘Make the UN Great Again’",
+        "description": "WASHINGTON — Macky Sall, the former President of Senegal and a leading candidate to be the next Secretary General of the United Nations, told Breitbart News exclusively he supports American President Donald Trump’s push to reform the UN and wants to, as Trump…",
+        "url": "https://www.breitbart.com/politics/2026/06/21/exclusive-leading-un-secretary-general-candidate-macky-sall-backs-peace-builder-donald-trumps-push-for-reforms-make-the-un-great-again/",
+        "publishedAt": "2026-06-21T19:01:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Manhunt Continues, Reward Offered for Suspected Kansas City Shooter",
+        "description": "A manhunt continues for 22-year-old Oscar Sanchez-Munoz, and the FBI is offering a $25,000 reward for information leading to his arrest.\nThe post Manhunt Continues, Reward Offered for Suspected Kansas City Shooter appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/21/manhunt-continues-reward-offered-for-suspected-kansas-city-shooter/",
+        "publishedAt": "2026-06-21T18:09:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "22"
+      },
+      {
+        "title": "EXCLUSIVE: Meet the man Israel chose to be its first-ever ambassador to the Christian world",
+        "description": "Ambassador George Deek explains the mission behind his new role as special envoy to the Christian world and Israel's efforts to strengthen the Judeo-Christian bond.",
+        "url": "https://www.foxnews.com/world/exclusive-meet-man-israel-chose-its-first-ever-ambassador-christian-world",
+        "publishedAt": "2026-06-21T16:30:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Man Allegedly Crashes SUV Into Home, Gets Shot Dead by Resident",
+        "description": "A man allegedly crashed his SUV into a San Tan Valley, Arizona, home around 6:30 p.m. Wednesday and was shot dead by a resident.\nThe post Man Allegedly Crashes SUV Into Home, Gets Shot Dead by Resident appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/21/man-allegedly-crashes-suv-into-home-gets-shot-dead-by-resident/",
+        "publishedAt": "2026-06-21T15:19:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "6"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
