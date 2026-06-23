@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T04:34:46.370545+00:00",
+  "generated_at": "2026-06-23T08:07:09.354084+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "#809 – One Bourbon, One Scotch, One Beer: Global Spirits and Mixology Milestones",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the simple bar classics to the deep, historical roots of mixology. Can you answer these? Bar Cart Basics: It doesn’t get much simpler than this legendary brunch and happy hour sta…",
+        "url": "https://radio.foxnews.com/2026/06/22/809-one-bourbon-one-scotch-one-beer-global-spirits-and-mixology-milestones/",
+        "publishedAt": "2026-06-22T07:00:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "809"
+      },
+      {
         "title": "Albanian protesters flood streets demanding prime minister's resignation amid corruption accusations",
         "description": "Albania protests target Socialist PM Edi Rama over corruption allegations, not Kushner investments, former ambassador tells Fox News Digital.",
         "url": "https://www.foxnews.com/world/albanian-protesters-flood-streets-demanding-prime-ministers-resignation-amid-corruption-accusations",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Man Allegedly Crashes SUV Into Home, Gets Shot Dead by Resident",
-        "description": "A man allegedly crashed his SUV into a San Tan Valley, Arizona, home around 6:30 p.m. Wednesday and was shot dead by a resident.\nThe post Man Allegedly Crashes SUV Into Home, Gets Shot Dead by Resident appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/21/man-allegedly-crashes-suv-into-home-gets-shot-dead-by-resident/",
-        "publishedAt": "2026-06-21T15:19:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "6"
       }
     ]
   },
