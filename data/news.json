@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:02:48.200457+00:00",
+  "generated_at": "2026-06-24T11:13:41.728007+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -16,6 +16,46 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
+        "title": "Want to age better? Researchers say 4-minute routine may help prevent dangerous falls",
+        "description": "A Penn State clinical trial finds just four minutes of daily strength exercise can improve mobility, balance, and leg strength in older adults.",
+        "url": "https://www.foxnews.com/health/want-age-better-researchers-say-4-minute-routine-may-help-prevent-dangerous-falls",
+        "publishedAt": "2026-06-23T11:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "As Tex-Mex chains close nationwide, Korean barbecue booms across America",
+        "description": "The Korean barbecue market is projected to reach $13.2 billion by 2034, as K-pop culture and social media drive Gen Z and millennial dining trends nationwide.",
+        "url": "https://www.foxnews.com/food-drink/tex-mex-chains-close-nationwide-korean-barbecue-booms-across-america",
+        "publishedAt": "2026-06-23T10:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump gets major win against China in African rare earth minerals race",
+        "description": "Trump administration backs American mining company Virtus Minerals in the DRC to counter China's control of critical cobalt and copper supply chains.",
+        "url": "https://www.foxnews.com/world/trump-gets-major-win-against-china-african-rare-earth-minerals-race",
+        "publishedAt": "2026-06-23T10:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LIZ PEEK: The left says the American Dream is dead, but millions prove otherwise",
+        "description": "A Gallup poll finds only 46% of Americans believe in the American Dream, as Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez say it's rigged.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-left-says-american-dream-dead-millions-prove-otherwise",
+        "publishedAt": "2026-06-23T09:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "46"
+      },
+      {
         "title": "Getty Images surges 145% after announcing OpenAI deal",
         "description": "The company’s shares have been hurt by the artificial intelligence “scare trade,” which has rippled through various corners of the market, from software and IT services firms to so-called “old economy” industries such as logistics",
         "url": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
@@ -24,96 +64,56 @@
           "name": "Bloomberg"
         },
         "numericHint": "145"
-      },
-      {
-        "title": "PPFAS Mutual Fund makes contrarian bet on IT stocks",
-        "description": "The Nifty IT index is down over 27% this year, driving a sharp compression in valuations. The gauge trades at 15.7 times 2026 estimated price to earnings, down from 21.2 times a year ago",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks",
-        "publishedAt": "2026-06-23T03:50:05Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "27"
-      },
-      {
-        "title": "SpaceX falls for third day, erases $600 billion in market value",
-        "description": "The stock fell 16% Monday to close at $154.60, the lowest level since the company’s first day of trading, pushing its three-day loss to 23% and erasing over $600 billion in value over that period",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens",
-        "publishedAt": "2026-06-23T03:32:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Sen. Rick Scott Rallies Senate Republicans to Advance Trump's Priorities",
-        "description": "Sen. Rick Scott (R-FL) called on Senate Republicans to work with President Donald Trump and advance the SAVE America Act, urging lawmakers in a Monday social media post to “hit the ground running” as Congress returns to Washington.\nThe post Sen. Rick Scott Ra…",
-        "url": "https://www.breitbart.com/politics/2026/06/22/sen-rick-scott-rallies-senate-republicans-advance-trumps-priorities/",
-        "publishedAt": "2026-06-23T02:52:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
-        "description": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a lchallenge over voting irregularities.",
-        "url": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
-        "publishedAt": "2026-06-23T00:42:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "99.9"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "MMA Fighter Sean Strickland Asks Fans to Help Pick His Next Gun",
-        "description": "On Monday, MMA fighter Sean Strickland used two X posts to describe what he wants in a new pistol so fans can help him find a gun that matches the description.\nThe post MMA Fighter Sean Strickland Asks Fans to Help Pick His Next Gun appeared first on Breitbar…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/22/mma-fighter-sean-strickland-asks-fans-help-pick-next-gun/",
-        "publishedAt": "2026-06-23T02:25:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tankers Continue Moving Through Strait of Hormuz Despite Iranian Threats",
-        "description": "Although Iran proclaimed the Strait of Hormuz was once again closed on Saturday, tankers continued to move through the vital waterway, including Very Large Crude Carriers (VLCCs) and liquid natural gas (LNG) tankers.\nThe post Tankers Continue Moving Through S…",
-        "url": "https://www.breitbart.com/middle-east/2026/06/22/tankers-continue-moving-through-strait-of-hormuz-despite-iranian-threats/",
-        "publishedAt": "2026-06-22T22:20:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sports media gatekeepers try to dictate which American fans are allowed to cheer for Team USA at World Cup",
-        "description": "The USMNT belongs to all Americans, but liberal sports media keeps pushing race, MAGA narratives and gatekeeping who can be a real soccer fan.",
-        "url": "https://www.foxnews.com/outkick-sports/sports-media-gatekeepers-try-dictate-american-fans-allowed-cheer-team-usa-world-cup",
-        "publishedAt": "2026-06-22T20:24:31Z",
+        "title": "Jackie Kennedy was unimpressed by Buckingham Palace until Queen Elizabeth's advice changed everything: author",
+        "description": "A new book, \"The Kennedys & the Windsors,\" explores how Queen Elizabeth and Jackie Kennedy's relationship evolved from awkward first meeting to mutual respect after tragedy.",
+        "url": "https://www.foxnews.com/entertainment/jackie-kennedy-unimpressed-buckingham-palace-queen-elizabeths-advice-changed-everything-author",
+        "publishedAt": "2026-06-23T10:00:42Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Two Killed, Suspect Dead Following Montreal Shooting",
-        "description": "A police officer and a civilian were killed Monday morning during a shooting in Montreal's Côte-des-Neiges neighborhood.\nThe post Two Killed, Suspect Dead Following Montreal Shooting appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/22/two-killed-suspect-dead-following-montreal-shooting/",
-        "publishedAt": "2026-06-22T19:28:43Z",
+        "title": "As Tex-Mex chains close nationwide, Korean barbecue booms across America",
+        "description": "The Korean barbecue market is projected to reach $13.2 billion by 2034, as K-pop culture and social media drive Gen Z and millennial dining trends nationwide.",
+        "url": "https://www.foxnews.com/food-drink/tex-mex-chains-close-nationwide-korean-barbecue-booms-across-america",
+        "publishedAt": "2026-06-23T10:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump gets major win against China in African rare earth minerals race",
+        "description": "Trump administration backs American mining company Virtus Minerals in the DRC to counter China's control of critical cobalt and copper supply chains.",
+        "url": "https://www.foxnews.com/world/trump-gets-major-win-against-china-african-rare-earth-minerals-race",
+        "publishedAt": "2026-06-23T10:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP Rep. Baumgartner: Iran Oil Blockade 'Would Put Additional Pressure on Iran', But There's an Election Coming Up",
+        "description": "On Monday’s broadcast of “CNN News Central,” Rep. Michael Baumgartner (R-WA) said that keeping the blockade of Iranian oil would have kept “choking out the economic lifeblood of the [IRGC]. That would put additional pressure on Iran. But I also\nThe post GOP R…",
+        "url": "https://www.breitbart.com/clips/2026/06/23/gop-rep-baumgartner-iran-oil-blockade-would-put-additional-pressure-on-iran-but-theres-an-election-coming-up/",
+        "publishedAt": "2026-06-23T09:13:48Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Report: Netflix's Mega Podcast Venture Failing to Earn Fans",
-        "description": "Last year Netflix jumped head first into the world of podcasting and made big-dollar deals with a large number of media companies to host their shows, but a year later the streamer's engagement numbers are still very low.\nThe post Report: Netflix’s Mega Podca…",
-        "url": "https://www.breitbart.com/entertainment/2026/06/22/report-netflixs-mega-podcast-venture-failing-to-earn-fans/",
-        "publishedAt": "2026-06-22T19:21:19Z",
+        "title": "GOP Sen. Sheehy: Rubio Isn't as Visible Because He Thinks 'You Can't Deal with Iran', I Agree with Him",
+        "description": "On Monday’s broadcast of NewsNation’s “On Balance,” Sen. Tim Sheehy (R-MT) responded to a question on why Secretary of State Marco Rubio hasn’t been very visible since the MOU with Iran was signed by saying that “you have a little\nThe post GOP Sen. Sheehy: Ru…",
+        "url": "https://www.breitbart.com/clips/2026/06/23/gop-sen-sheehy-rubio-isnt-as-visible-because-he-thinks-you-cant-deal-with-iran-i-agree-with-him/",
+        "publishedAt": "2026-06-23T09:13:46Z",
         "source": {
           "name": "Breitbart News"
         },
