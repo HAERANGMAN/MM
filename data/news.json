@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:38:10.001130+00:00",
+  "generated_at": "2026-06-24T08:02:48.200457+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Getty Images surges 145% after announcing OpenAI deal",
+        "description": "The company’s shares have been hurt by the artificial intelligence “scare trade,” which has rippled through various corners of the market, from software and IT services firms to so-called “old economy” industries such as logistics",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+        "publishedAt": "2026-06-23T05:15:38Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "145"
+      },
       {
         "title": "PPFAS Mutual Fund makes contrarian bet on IT stocks",
         "description": "The Nifty IT index is down over 27% this year, driving a sharp compression in valuations. The gauge trades at 15.7 times 2026 estimated price to earnings, down from 21.2 times a year ago",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "99.9"
-      },
-      {
-        "title": "Former Iowa news anchor clarifies sudden departure, insists he was not 'quitting on-air'",
-        "description": "Former Iowa news anchor Dustin Nolan released a statement clarifying his viral farewell comments from KWQC TV6, saying his words were twisted to fit agendas.",
-        "url": "https://www.foxnews.com/media/former-iowa-news-anchor-clarifies-sudden-departure-insists-not-quitting-on-air",
-        "publishedAt": "2026-06-23T00:00:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "6"
       }
     ],
     "news-korea-soc": [],
