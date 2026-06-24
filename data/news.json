@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-06-24T00:13:05.528149+00:00",
+  "generated_at": "2026-06-24T04:38:10.001130+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Vance takes lead selling Trump’s Iran gamble as Rubio, Hegseth and Ratcliffe cede spotlight on fragile deal",
+        "description": "VP JD Vance defends fragile Iran MOU in Switzerland as reports suggest internal administration split over whether Tehran can be trusted on nuclear deal.",
+        "url": "https://www.foxnews.com/politics/vance-takes-lead-selling-trumps-iran-gamble-rubio-hegseth-ratcliffe-cede-spotlight-fragile-deal",
+        "publishedAt": "2026-06-22T22:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "PPFAS Mutual Fund makes contrarian bet on IT stocks",
+        "description": "The Nifty IT index is down over 27% this year, driving a sharp compression in valuations. The gauge trades at 15.7 times 2026 estimated price to earnings, down from 21.2 times a year ago",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks",
+        "publishedAt": "2026-06-23T03:50:05Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "27"
+      },
+      {
+        "title": "SpaceX falls for third day, erases $600 billion in market value",
+        "description": "The stock fell 16% Monday to close at $154.60, the lowest level since the company’s first day of trading, pushing its three-day loss to 23% and erasing over $600 billion in value over that period",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens",
+        "publishedAt": "2026-06-23T03:32:18Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Sen. Rick Scott Rallies Senate Republicans to Advance Trump's Priorities",
+        "description": "Sen. Rick Scott (R-FL) called on Senate Republicans to work with President Donald Trump and advance the SAVE America Act, urging lawmakers in a Monday social media post to “hit the ground running” as Congress returns to Washington.\nThe post Sen. Rick Scott Ra…",
+        "url": "https://www.breitbart.com/politics/2026/06/22/sen-rick-scott-rallies-senate-republicans-advance-trumps-priorities/",
+        "publishedAt": "2026-06-23T02:52:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
+        "description": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a lchallenge over voting irregularities.",
+        "url": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
+        "publishedAt": "2026-06-23T00:42:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "99.9"
+      },
+      {
+        "title": "Former Iowa news anchor clarifies sudden departure, insists he was not 'quitting on-air'",
+        "description": "Former Iowa news anchor Dustin Nolan released a statement clarifying his viral farewell comments from KWQC TV6, saying his words were twisted to fit agendas.",
+        "url": "https://www.foxnews.com/media/former-iowa-news-anchor-clarifies-sudden-departure-insists-not-quitting-on-air",
+        "publishedAt": "2026-06-23T00:00:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "6"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "MMA Fighter Sean Strickland Asks Fans to Help Pick His Next Gun",
+        "description": "On Monday, MMA fighter Sean Strickland used two X posts to describe what he wants in a new pistol so fans can help him find a gun that matches the description.\nThe post MMA Fighter Sean Strickland Asks Fans to Help Pick His Next Gun appeared first on Breitbar…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/22/mma-fighter-sean-strickland-asks-fans-help-pick-next-gun/",
+        "publishedAt": "2026-06-23T02:25:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Tankers Continue Moving Through Strait of Hormuz Despite Iranian Threats",
+        "description": "Although Iran proclaimed the Strait of Hormuz was once again closed on Saturday, tankers continued to move through the vital waterway, including Very Large Crude Carriers (VLCCs) and liquid natural gas (LNG) tankers.\nThe post Tankers Continue Moving Through S…",
+        "url": "https://www.breitbart.com/middle-east/2026/06/22/tankers-continue-moving-through-strait-of-hormuz-despite-iranian-threats/",
+        "publishedAt": "2026-06-22T22:20:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sports media gatekeepers try to dictate which American fans are allowed to cheer for Team USA at World Cup",
+        "description": "The USMNT belongs to all Americans, but liberal sports media keeps pushing race, MAGA narratives and gatekeeping who can be a real soccer fan.",
+        "url": "https://www.foxnews.com/outkick-sports/sports-media-gatekeepers-try-dictate-american-fans-allowed-cheer-team-usa-world-cup",
+        "publishedAt": "2026-06-22T20:24:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Two Killed, Suspect Dead Following Montreal Shooting",
+        "description": "A police officer and a civilian were killed Monday morning during a shooting in Montreal's Côte-des-Neiges neighborhood.\nThe post Two Killed, Suspect Dead Following Montreal Shooting appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/22/two-killed-suspect-dead-following-montreal-shooting/",
+        "publishedAt": "2026-06-22T19:28:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Netflix's Mega Podcast Venture Failing to Earn Fans",
+        "description": "Last year Netflix jumped head first into the world of podcasting and made big-dollar deals with a large number of media companies to host their shows, but a year later the streamer's engagement numbers are still very low.\nThe post Report: Netflix’s Mega Podca…",
+        "url": "https://www.breitbart.com/entertainment/2026/06/22/report-netflixs-mega-podcast-venture-failing-to-earn-fans/",
+        "publishedAt": "2026-06-22T19:21:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
