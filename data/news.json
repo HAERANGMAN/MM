@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-24T13:29:12.415420+00:00",
+  "generated_at": "2026-06-24T15:54:49.670536+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Vance takes lead selling Trump’s Iran gamble as Rubio, Hegseth and Ratcliffe cede spotlight on fragile deal",
-        "description": "VP JD Vance defends fragile Iran MOU in Switzerland as reports suggest internal administration split over whether Tehran can be trusted on nuclear deal.",
-        "url": "https://www.foxnews.com/politics/vance-takes-lead-selling-trumps-iran-gamble-rubio-hegseth-ratcliffe-cede-spotlight-fragile-deal",
-        "publishedAt": "2026-06-22T22:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
