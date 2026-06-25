@@ -1,63 +1,83 @@
 {
-  "generated_at": "2026-06-25T09:21:46.954960+00:00",
+  "generated_at": "2026-06-25T11:59:29.698611+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Trump rips NY Times as corrupt cowards – for reporting the same thing everyone else is about the Iran war",
-        "description": "President Trump escalates his battle with press, targeting The New York Times over its coverage of the Iran conflict and threatening legal action.",
-        "url": "https://www.foxnews.com/opinion/trump-rips-ny-times-corrupt-cowards-reporting-same-thing-everyone-else-about-iran-war",
-        "publishedAt": "2026-06-24T07:00:39Z",
+        "title": "Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader",
+        "description": "Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/meta-s-cox-sought-shah-s-whatsapp-advice-then-made-him-leader",
+        "publishedAt": "2026-06-24T11:46:55Z",
         "source": {
-          "name": "Fox News"
+          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Dem Sen. Murphy: 'Glad' Iran's 'Price' to Open Strait Was Ending Israeli Operation in Lebanon",
-        "description": "On Tuesday’s broadcast of CNN’s “AC360,” Sen. Chris Murphy (D-CT) said that “the Lebanon-Israel war needed to stop, no matter what, and so I guess I’m glad that that was included in Iran’s price” to open the Strait of Hormuz.\nThe post Dem Sen. Murphy: ‘Glad’ …",
-        "url": "https://www.breitbart.com/clips/2026/06/23/dem-sen-murphy-glad-irans-price-to-open-strait-was-ending-israeli-operation-in-lebanon/",
-        "publishedAt": "2026-06-24T04:08:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "360"
-      },
-      {
-        "title": "Lander: Not Sure Fetterman 'in Our Party Any More', My Win Shows Dems Want 'Reset' on Israel",
-        "description": "On Tuesday’s broadcast of CNN’s “The Source,” Brad Lander discussed his primary win over Rep. Dan Goldman (D-NY), which he stated “says Democratic voters want to reset the U.S. relationship with Israel,” and said he’s unsure Sen. John Fetterman (D-PA)\nThe pos…",
-        "url": "https://www.breitbart.com/clips/2026/06/23/lander-not-sure-fetterman-in-our-party-any-more-my-win-shows-dems-want-reset-on-israel/",
-        "publishedAt": "2026-06-24T03:49:21Z",
+        "title": "Statutory Grooming Gang Inquiry to Begin With Investigations into Bradford, Oldham, and London",
+        "description": "The government-established independent inquiry into Muslim child rape grooming gangs will begin its investigation with Bradford, Oldham, and London, despite long standing denials from Mayor Sadiq Khan that the British capital was impacted by the scandal.\nThe …",
+        "url": "https://www.breitbart.com/europe/2026/06/24/statutory-grooming-gang-inquiry-to-begin-with-investigations-into-bradford-oldham-and-london/",
+        "publishedAt": "2026-06-24T11:37:01Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Helmet-style cockpit vision system aims to change how pilots see in low visibility",
-        "description": "FAA-certified for Boeing 737 Next Generation aircraft, AerAware combines enhanced vision technology and wearable displays as airlines evaluate new tools to support operations in low-visibility conditions.",
-        "url": "https://www.foxnews.com/tech/aeraware-cockpit-vision-system-boeing-737",
-        "publishedAt": "2026-06-24T03:18:25Z",
+        "title": "One common type of fat may increase diabetes risk, while another helps fight it",
+        "description": "A new review suggests palmitic acid in saturated fats may impair insulin response, while oleic acid in olive oil may help protect against type 2 diabetes.",
+        "url": "https://www.foxnews.com/health/one-common-type-fat-may-increase-diabetes-risk-another-helps-fight",
+        "publishedAt": "2026-06-24T11:00:46Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "737"
+        "numericHint": "2"
       },
       {
-        "title": "GOP voters pick Trump-backed nominee in battle to flip crucial House seat",
-        "description": "Trump-backed state senator Peter Oberacker wins GOP primary in New York's 19th district, setting up a general election fight against Rep. Josh Riley.",
-        "url": "https://www.foxnews.com/politics/gop-voters-pick-trump-backed-nominee-battle-flip-crucial-house-seat",
-        "publishedAt": "2026-06-24T02:39:09Z",
+        "title": "Popular July 4th deli food that shocked shoppers at $120 a pound is now even pricier",
+        "description": "Red Horse Market in East Hampton now charges $129.99 per pound for lobster salad, up nearly 8% from the $120 price that went viral in 2024.",
+        "url": "https://www.foxnews.com/food-drink/popular-july-4th-deli-food-shocked-shoppers-120-pound-now-even-pricier",
+        "publishedAt": "2026-06-24T10:00:50Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "19"
+        "numericHint": "4"
+      },
+      {
+        "title": "UPS to Slash 500+ Jobs in Belgium, Local Union Says",
+        "description": "UPS is planning to cut 525 jobs in Belgium, more than half of its entire workforce in the country, the Christian trade Union ACV denounced to local outlets.\nThe post UPS to Slash 500+ Jobs in Belgium, Local Union Says appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/06/24/ups-to-cut-more-than-500-jobs-in-belgium-local-union-says/",
+        "publishedAt": "2026-06-24T09:50:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "500"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader",
+        "description": "Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/meta-s-cox-sought-shah-s-whatsapp-advice-then-made-him-leader",
+        "publishedAt": "2026-06-24T11:46:55Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Prince William's door is 'bolted shut' as Prince Harry plans UK return with Meghan Markle, children: expert",
+        "description": "Prince Harry reportedly plans to bring Meghan Markle and their two children to the U.K. in July, marking their first family trip in four years.",
+        "url": "https://www.foxnews.com/entertainment/prince-williams-door-bolted-shut-prince-harry-plans-uk-return-meghan-markle-children-expert",
+        "publishedAt": "2026-06-24T10:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "#811 – Bad Moon Rising: From Famous Hills to Dark Fiction Trivia",
         "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from historical landmarks and southern states to impending apocalypses and cosmic terrors. Can you answer these? Famous Hills: The massive sign perched in the hills of Los Angeles is a…",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "President Trump Reiterates Support for 'National Right to Carry'",
-        "description": "President Trump noted the NRA's hard work for the Second Amendment and made clear his administration is working on \"national right to carry.\" \nThe post President Trump Reiterates Support for ‘National Right to Carry’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/23/president-trump-reiterates-support-national-right-carry/",
-        "publishedAt": "2026-06-23T22:26:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump signs landmark executive order investing in quantum computing and cryptography security",
-        "description": "President Donald Trump signed two executive orders on quantum computing, partnering with IBM and Google parent Alphabet to advance U.S. innovation.",
-        "url": "https://www.foxnews.com/politics/trump-signs-landmark-executive-order-investing-quantum-computing-cryptography-security",
-        "publishedAt": "2026-06-23T18:27:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
