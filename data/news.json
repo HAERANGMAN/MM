@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-25T05:55:52.218725+00:00",
+  "generated_at": "2026-06-25T09:21:46.954960+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trump rips NY Times as corrupt cowards – for reporting the same thing everyone else is about the Iran war",
+        "description": "President Trump escalates his battle with press, targeting The New York Times over its coverage of the Iran conflict and threatening legal action.",
+        "url": "https://www.foxnews.com/opinion/trump-rips-ny-times-corrupt-cowards-reporting-same-thing-everyone-else-about-iran-war",
+        "publishedAt": "2026-06-24T07:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dem Sen. Murphy: 'Glad' Iran's 'Price' to Open Strait Was Ending Israeli Operation in Lebanon",
+        "description": "On Tuesday’s broadcast of CNN’s “AC360,” Sen. Chris Murphy (D-CT) said that “the Lebanon-Israel war needed to stop, no matter what, and so I guess I’m glad that that was included in Iran’s price” to open the Strait of Hormuz.\nThe post Dem Sen. Murphy: ‘Glad’ …",
+        "url": "https://www.breitbart.com/clips/2026/06/23/dem-sen-murphy-glad-irans-price-to-open-strait-was-ending-israeli-operation-in-lebanon/",
+        "publishedAt": "2026-06-24T04:08:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "360"
+      },
+      {
+        "title": "Lander: Not Sure Fetterman 'in Our Party Any More', My Win Shows Dems Want 'Reset' on Israel",
+        "description": "On Tuesday’s broadcast of CNN’s “The Source,” Brad Lander discussed his primary win over Rep. Dan Goldman (D-NY), which he stated “says Democratic voters want to reset the U.S. relationship with Israel,” and said he’s unsure Sen. John Fetterman (D-PA)\nThe pos…",
+        "url": "https://www.breitbart.com/clips/2026/06/23/lander-not-sure-fetterman-in-our-party-any-more-my-win-shows-dems-want-reset-on-israel/",
+        "publishedAt": "2026-06-24T03:49:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Helmet-style cockpit vision system aims to change how pilots see in low visibility",
+        "description": "FAA-certified for Boeing 737 Next Generation aircraft, AerAware combines enhanced vision technology and wearable displays as airlines evaluate new tools to support operations in low-visibility conditions.",
+        "url": "https://www.foxnews.com/tech/aeraware-cockpit-vision-system-boeing-737",
+        "publishedAt": "2026-06-24T03:18:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "737"
+      },
+      {
+        "title": "GOP voters pick Trump-backed nominee in battle to flip crucial House seat",
+        "description": "Trump-backed state senator Peter Oberacker wins GOP primary in New York's 19th district, setting up a general election fight against Rep. Josh Riley.",
+        "url": "https://www.foxnews.com/politics/gop-voters-pick-trump-backed-nominee-battle-flip-crucial-house-seat",
+        "publishedAt": "2026-06-24T02:39:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "19"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "#811 – Bad Moon Rising: From Famous Hills to Dark Fiction Trivia",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from historical landmarks and southern states to impending apocalypses and cosmic terrors. Can you answer these? Famous Hills: The massive sign perched in the hills of Los Angeles is a…",
+        "url": "https://radio.foxnews.com/2026/06/24/811-bad-moon-rising-from-famous-hills-to-dark-fiction-trivia/",
+        "publishedAt": "2026-06-24T07:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "811"
+      },
+      {
+        "title": "Dem Sen. Murphy: 'Glad' Iran's 'Price' to Open Strait Was Ending Israeli Operation in Lebanon",
+        "description": "On Tuesday’s broadcast of CNN’s “AC360,” Sen. Chris Murphy (D-CT) said that “the Lebanon-Israel war needed to stop, no matter what, and so I guess I’m glad that that was included in Iran’s price” to open the Strait of Hormuz.\nThe post Dem Sen. Murphy: ‘Glad’ …",
+        "url": "https://www.breitbart.com/clips/2026/06/23/dem-sen-murphy-glad-irans-price-to-open-strait-was-ending-israeli-operation-in-lebanon/",
+        "publishedAt": "2026-06-24T04:08:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "360"
+      },
+      {
+        "title": "U.N. Secretary-General Demands $1.3 Trillion a Year to Fight 'Climate Chaos'",
+        "description": "United Nations Secretary-General António Guterres called for a massive increase in global climate spending, arguing that governments and financial institutions must devote significantly more resources to addressing climate-related challenges.\nThe post U.N. Se…",
+        "url": "https://www.breitbart.com/politics/2026/06/23/u-n-secretary-general-demands-1-3-trillion-a-year-to-fight-climate-chaos/",
+        "publishedAt": "2026-06-24T02:49:20Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "President Trump Reiterates Support for 'National Right to Carry'",
+        "description": "President Trump noted the NRA's hard work for the Second Amendment and made clear his administration is working on \"national right to carry.\" \nThe post President Trump Reiterates Support for ‘National Right to Carry’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/23/president-trump-reiterates-support-national-right-carry/",
+        "publishedAt": "2026-06-23T22:26:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump signs landmark executive order investing in quantum computing and cryptography security",
+        "description": "President Donald Trump signed two executive orders on quantum computing, partnering with IBM and Google parent Alphabet to advance U.S. innovation.",
+        "url": "https://www.foxnews.com/politics/trump-signs-landmark-executive-order-investing-quantum-computing-cryptography-security",
+        "publishedAt": "2026-06-23T18:27:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
