@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-25T11:59:29.698611+00:00",
+  "generated_at": "2026-06-25T14:49:37.589021+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Our Founders fought a Middle East war centuries ago. We could learn a lot from them",
+        "description": "George Washington, John Adams and Thomas Jefferson debated how to handle Barbary pirates, a historical parallel to today's Iran and Strait of Hormuz.",
+        "url": "https://www.foxnews.com/opinion/founders-fought-middle-east-war-centuries-ago-could-learn-lot",
+        "publishedAt": "2026-06-24T13:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader",
         "description": "Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "4"
-      },
-      {
-        "title": "UPS to Slash 500+ Jobs in Belgium, Local Union Says",
-        "description": "UPS is planning to cut 525 jobs in Belgium, more than half of its entire workforce in the country, the Christian trade Union ACV denounced to local outlets.\nThe post UPS to Slash 500+ Jobs in Belgium, Local Union Says appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/06/24/ups-to-cut-more-than-500-jobs-in-belgium-local-union-says/",
-        "publishedAt": "2026-06-24T09:50:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "500"
       }
     ],
     "news-korea-soc": [],
