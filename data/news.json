@@ -1,63 +1,93 @@
 {
-  "generated_at": "2026-06-25T14:49:37.589021+00:00",
+  "generated_at": "2026-06-25T17:01:54.988821+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Our Founders fought a Middle East war centuries ago. We could learn a lot from them",
-        "description": "George Washington, John Adams and Thomas Jefferson debated how to handle Barbary pirates, a historical parallel to today's Iran and Strait of Hormuz.",
-        "url": "https://www.foxnews.com/opinion/founders-fought-middle-east-war-centuries-ago-could-learn-lot",
-        "publishedAt": "2026-06-24T13:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader",
-        "description": "Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-23/meta-s-cox-sought-shah-s-whatsapp-advice-then-made-him-leader",
-        "publishedAt": "2026-06-24T11:46:55Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Statutory Grooming Gang Inquiry to Begin With Investigations into Bradford, Oldham, and London",
-        "description": "The government-established independent inquiry into Muslim child rape grooming gangs will begin its investigation with Bradford, Oldham, and London, despite long standing denials from Mayor Sadiq Khan that the British capital was impacted by the scandal.\nThe …",
-        "url": "https://www.breitbart.com/europe/2026/06/24/statutory-grooming-gang-inquiry-to-begin-with-investigations-into-bradford-oldham-and-london/",
-        "publishedAt": "2026-06-24T11:37:01Z",
+        "title": "Bessent: Our Strength Comes From What We Can Build",
+        "description": "Treasury Secretary Scott Bessent on Tuesday laid out a doctrine of “economic statecraft,” telling the Economic Club of New York that the United States would wield its economic power “in service of our sovereignty” and warning that a country unable\nThe post Be…",
+        "url": "https://www.breitbart.com/economy/2026/06/24/bessent-our-strength-comes-from-what-we-can-build/",
+        "publishedAt": "2026-06-24T16:35:53Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "One common type of fat may increase diabetes risk, while another helps fight it",
-        "description": "A new review suggests palmitic acid in saturated fats may impair insulin response, while oleic acid in olive oil may help protect against type 2 diabetes.",
-        "url": "https://www.foxnews.com/health/one-common-type-fat-may-increase-diabetes-risk-another-helps-fight",
-        "publishedAt": "2026-06-24T11:00:46Z",
+        "title": "Dianna Russini's reported salary at The Athletic stuns NFL fans as Times unleashes scathing story",
+        "description": "Dianna Russini reportedly earned close to $800,000 annually at The Athletic, making her one of the highest-paid journalists at the Times Company.",
+        "url": "https://www.foxnews.com/outkick-sports/dianna-russinis-reported-salary-athletic-stuns-nfl-fans-times-unleashes-scathing-story",
+        "publishedAt": "2026-06-24T15:55:35Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "2"
+        "numericHint": "$"
       },
       {
-        "title": "Popular July 4th deli food that shocked shoppers at $120 a pound is now even pricier",
-        "description": "Red Horse Market in East Hampton now charges $129.99 per pound for lobster salad, up nearly 8% from the $120 price that went viral in 2024.",
-        "url": "https://www.foxnews.com/food-drink/popular-july-4th-deli-food-shocked-shoppers-120-pound-now-even-pricier",
-        "publishedAt": "2026-06-24T10:00:50Z",
+        "title": "Sales of New Homes Unexpectedly Plunge",
+        "description": "Sales of new homes in the U.S. plunged in May, falling to the lowest level since the start of the year, as high prices and rising mortgage rates pushed away buyers. Single-family home sales fell by 7.3 percent to an\nThe post Sales of New Homes Unexpectedly Pl…",
+        "url": "https://www.breitbart.com/economy/2026/06/24/sales-of-new-homes-unexpectedly-plunge/",
+        "publishedAt": "2026-06-24T15:53:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "7.3"
+      },
+      {
+        "title": "CEO of eCommerce Giant Warns Robots Will Replace Humans in Food Delivery, Other Gig Economy Jobs",
+        "description": "The founder of one of China's largest ecommerce companies has issued a stark warning that its entire delivery workforce of 700,000 people will ultimately be displaced by robotic automation. This replacement of the gig economy with robots, if successful, will …",
+        "url": "https://www.breitbart.com/tech/2026/06/24/ceo-of-ecommerce-giant-warns-robots-will-replace-humans-in-food-delivery-other-gig-economy-jobs/",
+        "publishedAt": "2026-06-24T15:33:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "700"
+      },
+      {
+        "title": "Trump declares ‘national emergency,’ demands housing overhaul bill be scrapped in SAVE Act push",
+        "description": "President Donald Trump canceled a housing bill signing and declared a \"national emergency\" as he ramps up pressure on Congress to pass election legislation.",
+        "url": "https://www.foxnews.com/politics/trump-declares-national-emergency-demands-housing-overhaul-bill-scrapped-save-act-push",
+        "publishedAt": "2026-06-24T15:03:16Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "4"
+        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Exclusive — Senate Republicans Ask Trump Admin to Update Design for Global War on Terror Memorial",
+        "description": "Senate Republicans on Monday urged President Donald Trump to redesign the proposed Global War on Terror Memorial, believing that the current proposal falls \"far short\" of our \"obligation\" to those who made the \"ultimate sacrifice\" in service to America.\nThe p…",
+        "url": "https://www.breitbart.com/national-security/2026/06/24/exclusive-senate-republicans-ask-trump-admin-to-update-design-for-global-war-on-terror-memorial/",
+        "publishedAt": "2026-06-24T16:58:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bessent: Our Strength Comes From What We Can Build",
+        "description": "Treasury Secretary Scott Bessent on Tuesday laid out a doctrine of “economic statecraft,” telling the Economic Club of New York that the United States would wield its economic power “in service of our sovereignty” and warning that a country unable\nThe post Be…",
+        "url": "https://www.breitbart.com/economy/2026/06/24/bessent-our-strength-comes-from-what-we-can-build/",
+        "publishedAt": "2026-06-24T16:35:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FOX NATION TEAMS UP WITH JACK CARR FOR NEW INVESTIGATIVE DOCUSERIES ON CARLOS THE JACKAL",
+        "description": "Three-Part Series “Jack Carr Investigates: Carlos the Jackal” Premieres June 29 NEW YORK – June 24, 2026 – FOX Nation has tapped former Navy SEAL sniper and #1 New York Times bestselling author Jack Carr to host an all-new investigative docuseries, Jack Carr …",
+        "url": "https://press.foxnews.com/2026/06/fox-nation-teams-up-with-jack-carr-for-new-investigative-docuseries-on-carlos-the-jackal",
+        "publishedAt": "2026-06-24T15:33:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "29"
+      },
       {
         "title": "Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader",
         "description": "Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue",
@@ -77,36 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "#811 – Bad Moon Rising: From Famous Hills to Dark Fiction Trivia",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from historical landmarks and southern states to impending apocalypses and cosmic terrors. Can you answer these? Famous Hills: The massive sign perched in the hills of Los Angeles is a…",
-        "url": "https://radio.foxnews.com/2026/06/24/811-bad-moon-rising-from-famous-hills-to-dark-fiction-trivia/",
-        "publishedAt": "2026-06-24T07:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "811"
-      },
-      {
-        "title": "Dem Sen. Murphy: 'Glad' Iran's 'Price' to Open Strait Was Ending Israeli Operation in Lebanon",
-        "description": "On Tuesday’s broadcast of CNN’s “AC360,” Sen. Chris Murphy (D-CT) said that “the Lebanon-Israel war needed to stop, no matter what, and so I guess I’m glad that that was included in Iran’s price” to open the Strait of Hormuz.\nThe post Dem Sen. Murphy: ‘Glad’ …",
-        "url": "https://www.breitbart.com/clips/2026/06/23/dem-sen-murphy-glad-irans-price-to-open-strait-was-ending-israeli-operation-in-lebanon/",
-        "publishedAt": "2026-06-24T04:08:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "360"
-      },
-      {
-        "title": "U.N. Secretary-General Demands $1.3 Trillion a Year to Fight 'Climate Chaos'",
-        "description": "United Nations Secretary-General António Guterres called for a massive increase in global climate spending, arguing that governments and financial institutions must devote significantly more resources to addressing climate-related challenges.\nThe post U.N. Se…",
-        "url": "https://www.breitbart.com/politics/2026/06/23/u-n-secretary-general-demands-1-3-trillion-a-year-to-fight-climate-chaos/",
-        "publishedAt": "2026-06-24T02:49:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
       }
     ]
   },
