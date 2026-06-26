@@ -1,63 +1,73 @@
 {
-  "generated_at": "2026-06-26T19:16:37.052348+00:00",
+  "generated_at": "2026-06-26T20:56:12.512794+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Ford Hires Back Former Engineers to Fix Errors Caused by AI",
-        "description": "Ford is acknowledging the challenges it faced with AI production and design systems after the automaker recently claimed the top spot in JD Power's initial quality ranking for mainstream brands for the first time in 16 years. According to Ford, attempting to …",
-        "url": "https://www.breitbart.com/tech/2026/06/25/ford-hires-back-former-engineers-to-fix-errors-caused-by-ai/",
-        "publishedAt": "2026-06-25T18:31:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "16"
-      },
-      {
-        "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
-        "description": "A cargo ship traveling through the Strait of Hormuz on a United Nations-approved route was hit by a projectile Thursday, the British military said, as several tankers made their way out of the channel using the same path.\nThe post British Military Says Cargo …",
-        "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
-        "publishedAt": "2026-06-25T17:17:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "EV Loser: Ferrari Marketing Chief Steps Down After Electric Car Fiasco",
-        "description": "Ferrari's long-serving head of marketing has announced his departure from the luxury automaker just weeks after the unveiling of the company's first electric vehicle sparked widespread criticism.\nThe post EV Loser: Ferrari Marketing Chief Steps Down After Ele…",
-        "url": "https://www.breitbart.com/tech/2026/06/25/ev-loser-ferrari-marketing-chief-steps-down-after-electric-car-fiasco/",
-        "publishedAt": "2026-06-25T17:04:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Socialist wave causing voters to 'wake up' and leave Democratic Party in key swing state: GOP Senate candidate",
-        "description": "Mike Rogers says the Democratic Party has moved far to the left, claiming Michigan voters are waking up to socialist shift as primaries heat up.",
-        "url": "https://www.foxnews.com/politics/socialist-wave-causing-voters-wake-leave-democratic-party-key-swing-state-gop-senate-candidate",
-        "publishedAt": "2026-06-25T16:56:05Z",
+        "title": "Taylor Swift, Travis Kelce wedding betting frenzy reveals one overwhelming prediction",
+        "description": "Bettors wager millions on Taylor Swift and Travis Kelce wedding details, from the venue to the guest list and bridesmaid predictions.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swift-travis-kelce-wedding-betting-frenzy-reveals-one-overwhelming-prediction",
+        "publishedAt": "2026-06-25T20:51:57Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Supreme Court Approves Trump's Decision to End 'TPS' Amnesty for Haitians",
-        "description": "In a 6-3 vote, the U.S. Supreme Court has endorsed President Donald Trump's authority to end \"Temporary Protected Status\" for at least 450,000 Haitian migrants welcomed by President Joe Biden.\nThe post Supreme Court Approves Trump’s Decision to End ‘TPS’ Amne…",
-        "url": "https://www.breitbart.com/immigration/2026/06/25/supreme-court-approves-trumps-decision-to-end-tps-amnesty-for-haitians/",
-        "publishedAt": "2026-06-25T16:21:13Z",
+        "title": "Breitbart Business Digest: American Consumers Powered Through the Oil Shock",
+        "description": "An important test of economic policy is the ability of an economy to withstand a negative shock. This spring, the U.S. economy passed the test with honors.\nThe post Breitbart Business Digest: American Consumers Powered Through the Oil Shock appeared first on …",
+        "url": "https://www.breitbart.com/economy/2026/06/25/breitbart-business-digest-american-consumers-powered-through-the-oil-shock/",
+        "publishedAt": "2026-06-25T20:39:11Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "6"
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DHS Lawyers Praise SCOTUS Rulings as 'Victories for the Rule of Law, Common Sense'",
+        "description": "Officials at the Department of Homeland Security (DHS) are praising decisions issued by the Supreme Court of the United States (SCOTUS) on Thursday, all of which make it easier to enforce federal immigration law.  \nThe post DHS Lawyers Praise SCOTUS Rulings a…",
+        "url": "https://www.breitbart.com/politics/2026/06/25/dhs-lawyers-praise-scotus-rulings-as-victories-for-the-rule-of-law-common-sense/",
+        "publishedAt": "2026-06-25T20:27:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Detroit Tigers making big demands in Tarik Skubal trade, will historically bad AL keep him in town?",
+        "description": "Despite a 34-45 record, the Detroit Tigers hold leverage in Tarik Skubal trade negotiations thanks to a historically weak American League keeping them in contention.",
+        "url": "https://www.foxnews.com/outkick-sports/detroit-tigers-making-big-demands-tarik-skubal-trade-historically-bad-al-keep-town-",
+        "publishedAt": "2026-06-25T20:24:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "34"
+      },
+      {
+        "title": "Chinese drone monopoly put on notice amid concerns over CCP spying: 'Strategic mistake'",
+        "description": "Rep. Pat Harrigan leads a bill to phase out Chinese-made drones from U.S. law enforcement, with $1.5 billion to fund domestic manufacturing.",
+        "url": "https://www.foxnews.com/politics/chinese-drone-monopoly-put-notice-concerns-ccp-spying-strategic-mistake",
+        "publishedAt": "2026-06-25T19:39:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Chinese drone monopoly put on notice amid concerns over CCP spying: 'Strategic mistake'",
+        "description": "Rep. Pat Harrigan leads a bill to phase out Chinese-made drones from U.S. law enforcement, with $1.5 billion to fund domestic manufacturing.",
+        "url": "https://www.foxnews.com/politics/chinese-drone-monopoly-put-notice-concerns-ccp-spying-strategic-mistake",
+        "publishedAt": "2026-06-25T19:39:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Kerry: Trump 'Has Undone' His Presidency with Rush to Military Action in Iran",
         "description": "Wednesday on MS NOW's \"The Last Word,\" former Secretary of State John Kerry said President Donald Trump \"has undone his own\" presidency with a rush to military action in Iran.\nThe post Kerry: Trump ‘Has Undone’ His Presidency with Rush to Military Action in I…",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Another One Bites the Dust: SCOTUS Strikes Down Hawaii's Concealed Carry Gun Control",
-        "description": "The Supreme Court of the United States (SCOTUS) released its decision in Wolford v. Lopez Thursday and ruled that Hawaii's law regarding concealed carry on private property violates the 2nd and 14th Amendments.\nThe post Another One Bites the Dust: SCOTUS Stri…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/another-one-bites-the-dust-scotus-strikes-down-hawaiis-concealed-carry-gun-control/",
-        "publishedAt": "2026-06-25T15:11:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
       }
     ]
   },
