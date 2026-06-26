@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-06-26T20:56:12.512794+00:00",
+  "generated_at": "2026-06-26T22:12:41.078765+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Taylor Swift, Travis Kelce wedding betting frenzy reveals one overwhelming prediction",
-        "description": "Bettors wager millions on Taylor Swift and Travis Kelce wedding details, from the venue to the guest list and bridesmaid predictions.",
-        "url": "https://www.foxnews.com/entertainment/taylor-swift-travis-kelce-wedding-betting-frenzy-reveals-one-overwhelming-prediction",
-        "publishedAt": "2026-06-25T20:51:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: American Consumers Powered Through the Oil Shock",
-        "description": "An important test of economic policy is the ability of an economy to withstand a negative shock. This spring, the U.S. economy passed the test with honors.\nThe post Breitbart Business Digest: American Consumers Powered Through the Oil Shock appeared first on …",
-        "url": "https://www.breitbart.com/economy/2026/06/25/breitbart-business-digest-american-consumers-powered-through-the-oil-shock/",
-        "publishedAt": "2026-06-25T20:39:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DHS Lawyers Praise SCOTUS Rulings as 'Victories for the Rule of Law, Common Sense'",
-        "description": "Officials at the Department of Homeland Security (DHS) are praising decisions issued by the Supreme Court of the United States (SCOTUS) on Thursday, all of which make it easier to enforce federal immigration law.  \nThe post DHS Lawyers Praise SCOTUS Rulings a…",
-        "url": "https://www.breitbart.com/politics/2026/06/25/dhs-lawyers-praise-scotus-rulings-as-victories-for-the-rule-of-law-common-sense/",
-        "publishedAt": "2026-06-25T20:27:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Detroit Tigers making big demands in Tarik Skubal trade, will historically bad AL keep him in town?",
-        "description": "Despite a 34-45 record, the Detroit Tigers hold leverage in Tarik Skubal trade negotiations thanks to a historically weak American League keeping them in contention.",
-        "url": "https://www.foxnews.com/outkick-sports/detroit-tigers-making-big-demands-tarik-skubal-trade-historically-bad-al-keep-town-",
-        "publishedAt": "2026-06-25T20:24:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "34"
-      },
-      {
-        "title": "Chinese drone monopoly put on notice amid concerns over CCP spying: 'Strategic mistake'",
-        "description": "Rep. Pat Harrigan leads a bill to phase out Chinese-made drones from U.S. law enforcement, with $1.5 billion to fund domestic manufacturing.",
-        "url": "https://www.foxnews.com/politics/chinese-drone-monopoly-put-notice-concerns-ccp-spying-strategic-mistake",
-        "publishedAt": "2026-06-25T19:39:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Chinese drone monopoly put on notice amid concerns over CCP spying: 'Strategic mistake'",
-        "description": "Rep. Pat Harrigan leads a bill to phase out Chinese-made drones from U.S. law enforcement, with $1.5 billion to fund domestic manufacturing.",
-        "url": "https://www.foxnews.com/politics/chinese-drone-monopoly-put-notice-concerns-ccp-spying-strategic-mistake",
-        "publishedAt": "2026-06-25T19:39:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Kerry: Trump 'Has Undone' His Presidency with Rush to Military Action in Iran",
-        "description": "Wednesday on MS NOW's \"The Last Word,\" former Secretary of State John Kerry said President Donald Trump \"has undone his own\" presidency with a rush to military action in Iran.\nThe post Kerry: Trump ‘Has Undone’ His Presidency with Rush to Military Action in I…",
-        "url": "https://www.breitbart.com/clips/2026/06/25/kerry-trump-has-undone-his-presidency-with-rush-to-military-action-in-iran/",
-        "publishedAt": "2026-06-25T17:52:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
-        "description": "A cargo ship traveling through the Strait of Hormuz on a United Nations-approved route was hit by a projectile Thursday, the British military said, as several tankers made their way out of the channel using the same path.\nThe post British Military Says Cargo …",
-        "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
-        "publishedAt": "2026-06-25T17:17:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say",
-        "description": "A 12-year-old American boy is in stable condition after a shark attack while swimming off Staniel Cay in the Bahamas Exuma Cays, police reportedly said.",
-        "url": "https://www.foxnews.com/us/12-year-old-boy-rushed-hospital-shark-attacks-bahamas-police-say",
-        "publishedAt": "2026-06-25T16:44:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "Justices Barrett, Gorsuch, Thomas: Public Opinion Can't Block Constitutional Gun Rights",
-        "description": "In a concurring opinion to the Supreme Court's (SCOTUS) Wolford decision, Justices Amy Coney Barrett, Neil Gorsuch, and Clarence Thomas noted public opinion cannot block the exercise of a constitutional right.\nThe post Justices Barrett, Gorsuch, Thomas: Publi…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/justices-barrett-gorsuch-thomas-public-opinion-cant-block-constitutional-gun-rights/",
-        "publishedAt": "2026-06-25T15:48:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
