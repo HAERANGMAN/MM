@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-06-26T15:35:38.441133+00:00",
+  "generated_at": "2026-06-26T17:20:07.400833+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
+        "description": "A cargo ship traveling through the Strait of Hormuz on a United Nations-approved route was hit by a projectile Thursday, the British military said, as several tankers made their way out of the channel using the same path.\nThe post British Military Says Cargo …",
+        "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
+        "publishedAt": "2026-06-25T17:17:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "EV Loser: Ferrari Marketing Chief Steps Down After Electric Car Fiasco",
+        "description": "Ferrari's long-serving head of marketing has announced his departure from the luxury automaker just weeks after the unveiling of the company's first electric vehicle sparked widespread criticism.\nThe post EV Loser: Ferrari Marketing Chief Steps Down After Ele…",
+        "url": "https://www.breitbart.com/tech/2026/06/25/ev-loser-ferrari-marketing-chief-steps-down-after-electric-car-fiasco/",
+        "publishedAt": "2026-06-25T17:04:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Socialist wave causing voters to 'wake up' and leave Democratic Party in key swing state: GOP Senate candidate",
+        "description": "Mike Rogers says the Democratic Party has moved far to the left, claiming Michigan voters are waking up to socialist shift as primaries heat up.",
+        "url": "https://www.foxnews.com/politics/socialist-wave-causing-voters-wake-leave-democratic-party-key-swing-state-gop-senate-candidate",
+        "publishedAt": "2026-06-25T16:56:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Supreme Court Approves Trump's Decision to End 'TPS' Amnesty for Haitians",
+        "description": "In a 6-3 vote, the U.S. Supreme Court has endorsed President Donald Trump's authority to end \"Temporary Protected Status\" for at least 450,000 Haitian migrants welcomed by President Joe Biden.\nThe post Supreme Court Approves Trump’s Decision to End ‘TPS’ Amne…",
+        "url": "https://www.breitbart.com/immigration/2026/06/25/supreme-court-approves-trumps-decision-to-end-tps-amnesty-for-haitians/",
+        "publishedAt": "2026-06-25T16:21:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "6"
+      },
       {
         "title": "Core Capital Goods Orders Surge on Demand for Machinery and Computers",
         "description": "The American factory revival continues.\nThe post Core Capital Goods Orders Surge on Demand for Machinery and Computers appeared first on Breitbart.",
@@ -13,51 +53,41 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rep. Anna Paulina Luna says House floor will stay frozen until Senate passes SAVE America Act | Fox News Video",
-        "description": "The House floor remains effectively shut down after a group of conservatives vowed to block nearly all legislation until the Senate passes the SAVE America Act. (Credit: Nicholas Ballasy for Fox News Digital)",
-        "url": "https://www.foxnews.com/video/6399358718112",
-        "publishedAt": "2026-06-25T15:05:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SCOTUS Allows Border Curbs on Asylum Seekers",
-        "description": "The U.S. Supreme Court has declared that the President can regulate asylum requests at the U.S. border. \nThe post SCOTUS Allows Border Curbs on Asylum Seekers appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/immigration/2026/06/25/scotus-allows-border-curbs-on-asylum-seekers/",
-        "publishedAt": "2026-06-25T14:51:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Banks Protect More Than Money—They Safeguard American Prosperity and Security",
-        "description": "The next 250 years of American banking may look very different from today. But one thing will not change: American banks will continue to help finance the American dream.\nThe post Banks Protect More Than Money—They Safeguard American Prosperity and Security a…",
-        "url": "https://www.breitbart.com/america250/2026/06/25/banks-protect-more-than-money-they-safeguard-american-prosperity-and-security/",
-        "publishedAt": "2026-06-25T14:50:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Exclusive: Sen. Tom Cotton Proposes Bill to Counter Chinese Cyberthreats for Patients",
-        "description": "Sen. Tom Cotton (R-AR) on Wednesday proposed legislation that aims to protect American patients from Chinese-based cyberthreats lurking in Chinese-made networked medical devices.\nThe post Exclusive: Sen. Tom Cotton Proposes Bill to Counter Chinese Cyberthreat…",
-        "url": "https://www.breitbart.com/politics/2026/06/25/exclusive-sen-tom-cotton-proposes-bill-to-counter-chinese-cyberthreats-for-patients/",
-        "publishedAt": "2026-06-25T14:29:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
+        "description": "A cargo ship traveling through the Strait of Hormuz on a United Nations-approved route was hit by a projectile Thursday, the British military said, as several tankers made their way out of the channel using the same path.\nThe post British Military Says Cargo …",
+        "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
+        "publishedAt": "2026-06-25T17:17:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say",
+        "description": "A 12-year-old American boy is in stable condition after a shark attack while swimming off Staniel Cay in the Bahamas Exuma Cays, police reportedly said.",
+        "url": "https://www.foxnews.com/us/12-year-old-boy-rushed-hospital-shark-attacks-bahamas-police-say",
+        "publishedAt": "2026-06-25T16:44:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "12"
+      },
+      {
+        "title": "Justices Barrett, Gorsuch, Thomas: Public Opinion Can't Block Constitutional Gun Rights",
+        "description": "In a concurring opinion to the Supreme Court's (SCOTUS) Wolford decision, Justices Amy Coney Barrett, Neil Gorsuch, and Clarence Thomas noted public opinion cannot block the exercise of a constitutional right.\nThe post Justices Barrett, Gorsuch, Thomas: Publi…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/justices-barrett-gorsuch-thomas-public-opinion-cant-block-constitutional-gun-rights/",
+        "publishedAt": "2026-06-25T15:48:08Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Another One Bites the Dust: SCOTUS Strikes Down Hawaii's Concealed Carry Gun Control",
         "description": "The Supreme Court of the United States (SCOTUS) released its decision in Wolford v. Lopez Thursday and ruled that Hawaii's law regarding concealed carry on private property violates the 2nd and 14th Amendments.\nThe post Another One Bites the Dust: SCOTUS Stri…",
@@ -77,36 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rep. Comer Investigates Alleged Ties Between Biden ATF and Everytown",
-        "description": "Rep. James Comer (R-KY) is demanding documents from the ATF related to alleged Biden-era communications with Mike Bloomberg-affiliated Everytown for Gun Safety.\nThe post Rep. Comer Investigates Alleged Ties Between Biden ATF and Everytown appeared first on Br…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/rep-comer-investigates-alleged-ties-between-biden-atf-and-everytown/",
-        "publishedAt": "2026-06-25T13:54:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mamdani-backed socialist primary winner founded group whose goal is to ‘eradicate' Western civilization",
-        "description": "Darializa Avila Chevalier, NYC congressional primary winner, reportedly founded a Columbia group that called for total eradication of Western civilization.",
-        "url": "https://www.foxnews.com/politics/mamdani-backed-socialist-primary-winner-founded-group-whose-goal-eradicate-western-civilization",
-        "publishedAt": "2026-06-25T13:50:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: Critics Slam ‘Supergirl’ as ‘Rotten’ — We're All Sexists Now!",
-        "description": "With 141 reviews in, the critical consensus is that Supergirl is plain ole’ rotten, with just a 58 percent rating at Rotten Tomatoes.\nThe post Nolte: Critics Slam ‘Supergirl’ as ‘Rotten’ — We’re All Sexists Now! appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/06/25/nolte-critics-slam-supergirl-as-rotten-were-all-sexists-now/",
-        "publishedAt": "2026-06-25T13:23:05Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "141"
       }
     ]
   },
