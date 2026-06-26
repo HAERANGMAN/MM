@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-26T17:20:07.400833+00:00",
+  "generated_at": "2026-06-26T19:16:37.052348+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Ford Hires Back Former Engineers to Fix Errors Caused by AI",
+        "description": "Ford is acknowledging the challenges it faced with AI production and design systems after the automaker recently claimed the top spot in JD Power's initial quality ranking for mainstream brands for the first time in 16 years. According to Ford, attempting to …",
+        "url": "https://www.breitbart.com/tech/2026/06/25/ford-hires-back-former-engineers-to-fix-errors-caused-by-ai/",
+        "publishedAt": "2026-06-25T18:31:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "16"
+      },
       {
         "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
         "description": "A cargo ship traveling through the Strait of Hormuz on a United Nations-approved route was hit by a projectile Thursday, the British military said, as several tankers made their way out of the channel using the same path.\nThe post British Military Says Cargo …",
@@ -43,21 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "6"
-      },
-      {
-        "title": "Core Capital Goods Orders Surge on Demand for Machinery and Computers",
-        "description": "The American factory revival continues.\nThe post Core Capital Goods Orders Surge on Demand for Machinery and Computers appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/06/25/core-capital-goods-orders-surge-on-demand-for-machinery-and-computers/",
-        "publishedAt": "2026-06-25T15:22:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Kerry: Trump 'Has Undone' His Presidency with Rush to Military Action in Iran",
+        "description": "Wednesday on MS NOW's \"The Last Word,\" former Secretary of State John Kerry said President Donald Trump \"has undone his own\" presidency with a rush to military action in Iran.\nThe post Kerry: Trump ‘Has Undone’ His Presidency with Rush to Military Action in I…",
+        "url": "https://www.breitbart.com/clips/2026/06/25/kerry-trump-has-undone-his-presidency-with-rush-to-military-action-in-iran/",
+        "publishedAt": "2026-06-25T17:52:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
         "description": "A cargo ship traveling through the Strait of Hormuz on a United Nations-approved route was hit by a projectile Thursday, the British military said, as several tankers made their way out of the channel using the same path.\nThe post British Military Says Cargo …",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "2"
-      },
-      {
-        "title": "Executive Compensation Shows Gun Control Lobby's Deep Pockets",
-        "description": "Executive compensation records for Giffords, Everytown, and the Brady Campaign show that the gun control lobby's pockets are deep. \nThe post Executive Compensation Shows Gun Control Lobby’s Deep Pockets appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/executive-compensation-shows-gun-control-lobbys-deep-pockets/",
-        "publishedAt": "2026-06-25T14:12:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
