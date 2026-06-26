@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-06-26T13:21:29.996908+00:00",
+  "generated_at": "2026-06-26T15:35:38.441133+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Core Capital Goods Orders Surge on Demand for Machinery and Computers",
+        "description": "The American factory revival continues.\nThe post Core Capital Goods Orders Surge on Demand for Machinery and Computers appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/06/25/core-capital-goods-orders-surge-on-demand-for-machinery-and-computers/",
+        "publishedAt": "2026-06-25T15:22:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rep. Anna Paulina Luna says House floor will stay frozen until Senate passes SAVE America Act | Fox News Video",
+        "description": "The House floor remains effectively shut down after a group of conservatives vowed to block nearly all legislation until the Senate passes the SAVE America Act. (Credit: Nicholas Ballasy for Fox News Digital)",
+        "url": "https://www.foxnews.com/video/6399358718112",
+        "publishedAt": "2026-06-25T15:05:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "SCOTUS Allows Border Curbs on Asylum Seekers",
+        "description": "The U.S. Supreme Court has declared that the President can regulate asylum requests at the U.S. border. \nThe post SCOTUS Allows Border Curbs on Asylum Seekers appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/immigration/2026/06/25/scotus-allows-border-curbs-on-asylum-seekers/",
+        "publishedAt": "2026-06-25T14:51:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Banks Protect More Than Money—They Safeguard American Prosperity and Security",
+        "description": "The next 250 years of American banking may look very different from today. But one thing will not change: American banks will continue to help finance the American dream.\nThe post Banks Protect More Than Money—They Safeguard American Prosperity and Security a…",
+        "url": "https://www.breitbart.com/america250/2026/06/25/banks-protect-more-than-money-they-safeguard-american-prosperity-and-security/",
+        "publishedAt": "2026-06-25T14:50:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Exclusive: Sen. Tom Cotton Proposes Bill to Counter Chinese Cyberthreats for Patients",
+        "description": "Sen. Tom Cotton (R-AR) on Wednesday proposed legislation that aims to protect American patients from Chinese-based cyberthreats lurking in Chinese-made networked medical devices.\nThe post Exclusive: Sen. Tom Cotton Proposes Bill to Counter Chinese Cyberthreat…",
+        "url": "https://www.breitbart.com/politics/2026/06/25/exclusive-sen-tom-cotton-proposes-bill-to-counter-chinese-cyberthreats-for-patients/",
+        "publishedAt": "2026-06-25T14:29:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Another One Bites the Dust: SCOTUS Strikes Down Hawaii's Concealed Carry Gun Control",
+        "description": "The Supreme Court of the United States (SCOTUS) released its decision in Wolford v. Lopez Thursday and ruled that Hawaii's law regarding concealed carry on private property violates the 2nd and 14th Amendments.\nThe post Another One Bites the Dust: SCOTUS Stri…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/another-one-bites-the-dust-scotus-strikes-down-hawaiis-concealed-carry-gun-control/",
+        "publishedAt": "2026-06-25T15:11:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Executive Compensation Shows Gun Control Lobby's Deep Pockets",
+        "description": "Executive compensation records for Giffords, Everytown, and the Brady Campaign show that the gun control lobby's pockets are deep. \nThe post Executive Compensation Shows Gun Control Lobby’s Deep Pockets appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/executive-compensation-shows-gun-control-lobbys-deep-pockets/",
+        "publishedAt": "2026-06-25T14:12:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rep. Comer Investigates Alleged Ties Between Biden ATF and Everytown",
+        "description": "Rep. James Comer (R-KY) is demanding documents from the ATF related to alleged Biden-era communications with Mike Bloomberg-affiliated Everytown for Gun Safety.\nThe post Rep. Comer Investigates Alleged Ties Between Biden ATF and Everytown appeared first on Br…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/06/25/rep-comer-investigates-alleged-ties-between-biden-atf-and-everytown/",
+        "publishedAt": "2026-06-25T13:54:00Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mamdani-backed socialist primary winner founded group whose goal is to ‘eradicate' Western civilization",
+        "description": "Darializa Avila Chevalier, NYC congressional primary winner, reportedly founded a Columbia group that called for total eradication of Western civilization.",
+        "url": "https://www.foxnews.com/politics/mamdani-backed-socialist-primary-winner-founded-group-whose-goal-eradicate-western-civilization",
+        "publishedAt": "2026-06-25T13:50:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nolte: Critics Slam ‘Supergirl’ as ‘Rotten’ — We're All Sexists Now!",
+        "description": "With 141 reviews in, the critical consensus is that Supergirl is plain ole’ rotten, with just a 58 percent rating at Rotten Tomatoes.\nThe post Nolte: Critics Slam ‘Supergirl’ as ‘Rotten’ — We’re All Sexists Now! appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/06/25/nolte-critics-slam-supergirl-as-rotten-were-all-sexists-now/",
+        "publishedAt": "2026-06-25T13:23:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "141"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
