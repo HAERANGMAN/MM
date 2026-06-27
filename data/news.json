@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-27T19:56:26.026992+00:00",
+  "generated_at": "2026-06-27T21:04:31.996256+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Death of great-grandmother brutally killed on train triggers federal action",
+        "description": "Transportation Secretary Duffy says FTA is reviewing MARTA's safety plans and security spending after the alleged stabbing death of a great-grandmother.",
+        "url": "https://www.foxnews.com/politics/death-great-grandmother-brutally-killed-train-triggers-federal-action",
+        "publishedAt": "2026-06-26T20:42:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
         "description": "Ukraine launched a massive drone attack against Russia as the brutal, years-long war between the two European countries continues to drag on.",
@@ -41,16 +51,6 @@
         "publishedAt": "2026-06-26T17:47:20Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Analyst Suggests SpaceX Could Acquire T-Mobile as Part of Starlink Mobile Expansion",
-        "description": "Elon Musk's SpaceX may pursue an acquisition of T-Mobile if it cannot secure a wholesale network agreement to fuel its expansion of Starlink into the consumer mobile industry, according to an analyst.\nThe post Analyst Suggests SpaceX Could Acquire T-Mobile as…",
-        "url": "https://www.breitbart.com/tech/2026/06/26/analyst-suggests-spacex-could-acquire-t-mobile-as-part-of-starlink-mobile-expansion/",
-        "publishedAt": "2026-06-26T17:44:34Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
