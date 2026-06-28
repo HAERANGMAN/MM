@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-27T23:17:46.110989+00:00",
+  "generated_at": "2026-06-28T01:30:30.649618+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Warren tells Trump to 'sign the damn bill' as bipartisan housing package remains stalled in Washington",
+        "description": "Sen. Elizabeth Warren calls Trump a \"man-child\" throwing a \"tantrum\" over his refusal to sign the bipartisan 21st Century ROAD to Housing Act.",
+        "url": "https://www.foxnews.com/politics/warren-tells-trump-sign-damn-bill-bipartisan-housing-package-remains-stalled-washington",
+        "publishedAt": "2026-06-26T23:47:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "21"
+      },
       {
         "title": "Breitbart Business Digest: Is the Trash Can DEI Banker Living in a Mamdani Rent Freeze Apartment?",
         "description": "This week, a J.P. Morgan executive got canned for stealing a garbage can painted in the colors of the New York Knicks and New York City's rentocrat royalty got an even cushier deal from its socialist mayor.\nThe post Breitbart Business Digest: Is the Trash Can…",
@@ -39,16 +49,6 @@
         "description": "Transportation Secretary Duffy says FTA is reviewing MARTA's safety plans and security spending after the alleged stabbing death of a great-grandmother.",
         "url": "https://www.foxnews.com/politics/death-great-grandmother-brutally-killed-train-triggers-federal-action",
         "publishedAt": "2026-06-26T20:42:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
-        "description": "Ukraine launched a massive drone attack against Russia as the brutal, years-long war between the two European countries continues to drag on.",
-        "url": "https://www.foxnews.com/world/ukraine-launches-largest-drone-attacks-russia-report",
-        "publishedAt": "2026-06-26T18:24:47Z",
         "source": {
           "name": "Fox News"
         },
