@@ -1,20 +1,116 @@
 {
-  "generated_at": "2026-06-28T22:45:57.997759+00:00",
+  "generated_at": "2026-06-28T23:52:21.753200+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "South Korea's proposed platform law could cost U.S. states $525B over the next decade, model estimates",
+        "description": "A model estimates $525 billion in losses for U.S. states over the next decade if South Korea's trade commission adopts controversial regulations.",
+        "url": "https://www.foxnews.com/politics/south-koreas-proposed-platform-law-could-cost-us-states-525b-next-decade-model-estimates",
+        "publishedAt": "2026-06-27T15:17:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Dean Cain discusses stark contrast in patriotism among political parties | Fox News Video",
+        "description": "Actor Dean Cain joins 'Fox News Live' from the Great American State Fair in Washington, D.C., to share his take on patriotism and a tense border hearing with DHS Secretary Mullin.",
+        "url": "https://www.foxnews.com/video/6399567188112",
+        "publishedAt": "2026-06-27T22:48:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sophie Cunningham says players are 'targeting' Caitlin Clark, mocks DeWanna Bonner amid pointing meme",
+        "description": "Sophie Cunningham says players are targeting Caitlin Clark and rips the WNBA and refs for doing absolutely nothing to protect the Fever star.",
+        "url": "https://www.foxnews.com/sports/sophie-cunningham-says-players-targeting-caitlin-clark-mocks-dewanna-bonner-amid-pointing-meme",
+        "publishedAt": "2026-06-27T21:35:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Diane Keaton's former LA home hits the market at $22.9M months after her death",
+        "description": "Diane Keaton's former Brentwood home is listed for $22.9 million, featuring 9,206 square feet, five bedrooms, and a separate guest house on the property.",
+        "url": "https://www.foxnews.com/entertainment/diane-keatons-former-la-home-hits-market-22-9m-months-after-her-death",
+        "publishedAt": "2026-06-27T17:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "These leafy greens could help protect your lungs, study suggests",
+        "description": "Researchers found that higher vitamin K1 intake from leafy greens like spinach and kale was associated with a 16% lower likelihood of COPD over ten years.",
+        "url": "https://www.foxnews.com/health/leafy-greens-could-help-protect-lungs-study-suggests",
+        "publishedAt": "2026-06-27T15:49:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "South Korea's proposed platform law could cost U.S. states $525B over the next decade, model estimates",
+        "description": "A model estimates $525 billion in losses for U.S. states over the next decade if South Korea's trade commission adopts controversial regulations.",
+        "url": "https://www.foxnews.com/politics/south-koreas-proposed-platform-law-could-cost-us-states-525b-next-decade-model-estimates",
+        "publishedAt": "2026-06-27T15:17:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Breaking down the United States' path to the 2026 FIFA World Cup final as knockout play nears",
+        "description": "The USMNT faces Bosnia and Herzegovina first, but Belgium, Spain, and other global powers await in a knockout path that could make World Cup history.",
+        "url": "https://www.foxnews.com/outkick-sports/breaking-united-states-path-2026-fifa-world-cup-final-knockout-play-nears",
+        "publishedAt": "2026-06-27T22:40:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "AMERICAN SOUNDTRACK: Nashville Hitmaker Michael Farren, Trump Anthem ‘Fighter’ Singer Jon Kahn Team Up for ‘United Saints of America’",
+        "description": "It’s impossible to celebrate America’s 250th birthday without acknowledging the importance of the arts, culture and storytelling. As part of Breitbart’s special coverage for the 250, we reached out to some of Nashville’s most talented songwriters and artists …",
+        "url": "https://www.breitbart.com/america250/2026/06/27/american-soundtrack-nashville-hitmaker-michael-farren-trump-anthem-fighter-singer-jon-kahn-team-up-for-united-saints-of-america/",
+        "publishedAt": "2026-06-27T15:01:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Firefighter brother of 9/11 victim incensed by 'radical' Muslims winning key Dem primaries",
+        "description": "Air Force veteran and 9/11 advocate Don Arias slams Democratic nominees with alleged ties to radical Islamic terrorism winning primary elections.",
+        "url": "https://www.foxnews.com/politics/firefighter-brother-911-victim-incensed-radical-muslims-winning-key-dem-primaries",
+        "publishedAt": "2026-06-27T11:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "Mamdani-Backed Congress Hopeful Founded Group Fighting for 'Total Eradication of Western Civilization'",
+        "description": "The far-left Democrat nominee for New York's 13th congressional district is the co-founder of an organization that claims to fight for the \"total eradication of Western civilization.\"\nThe post Mamdani-Backed Congress Hopeful Founded Group Fighting for ‘Total …",
+        "url": "https://www.breitbart.com/politics/2026/06/26/mamdani-backed-congress-hopeful-founded-group-fighting-for-total-eradication-of-western-civilization/",
+        "publishedAt": "2026-06-27T01:49:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "13"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
