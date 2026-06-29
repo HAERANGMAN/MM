@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T07:13:57.879393+00:00",
+  "generated_at": "2026-06-29T12:11:53.873164+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,36 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Frustrated blue-collar union bosses rip socialist politicians, warn of labor exodus from Dem party",
+        "description": "New York City union leaders slam Democrats and DSA candidates as out of touch with the working class, saying the party is moving too far to the left.",
+        "url": "https://www.foxnews.com/politics/frustrated-blue-collar-union-bosses-rip-socialist-politicians-warn-labor-exodus-dem-party",
+        "publishedAt": "2026-06-28T12:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DOUG SCHOEN: Two years after Biden’s disastrous debate, Dems still dealing with fallout",
+        "description": "Joe Biden's debate disaster two years ago continues to haunt Democrats as progressive insurgents rise and the party struggles with internal division.",
+        "url": "https://www.foxnews.com/opinion/doug-schoen-two-years-bidens-disastrous-debate-dems-still-dealing-fallout",
+        "publishedAt": "2026-06-28T11:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "AOC puts major tech company on notice amid looming price increases: 'Far too big'",
+        "description": "Rep. Alexandria Ocasio-Cortez says Congress should break up companies like Apple amid rising tech prices linked to AI chip supply chain strain.",
+        "url": "https://www.foxnews.com/politics/aoc-major-tech-company-on-notice-amid-looming-price-increases-far-too-big",
+        "publishedAt": "2026-06-28T08:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Dean Cain discusses stark contrast in patriotism among political parties | Fox News Video",
         "description": "Actor Dean Cain joins 'Fox News Live' from the Great American State Fair in Washington, D.C., to share his take on patriotism and a tense border hearing with DHS Secretary Mullin.",
@@ -34,41 +64,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Diane Keaton's former LA home hits the market at $22.9M months after her death",
-        "description": "Diane Keaton's former Brentwood home is listed for $22.9 million, featuring 9,206 square feet, five bedrooms, and a separate guest house on the property.",
-        "url": "https://www.foxnews.com/entertainment/diane-keatons-former-la-home-hits-market-22-9m-months-after-her-death",
-        "publishedAt": "2026-06-27T17:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "These leafy greens could help protect your lungs, study suggests",
-        "description": "Researchers found that higher vitamin K1 intake from leafy greens like spinach and kale was associated with a 16% lower likelihood of COPD over ten years.",
-        "url": "https://www.foxnews.com/health/leafy-greens-could-help-protect-lungs-study-suggests",
-        "publishedAt": "2026-06-27T15:49:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "South Korea's proposed platform law could cost U.S. states $525B over the next decade, model estimates",
-        "description": "A model estimates $525 billion in losses for U.S. states over the next decade if South Korea's trade commission adopts controversial regulations.",
-        "url": "https://www.foxnews.com/politics/south-koreas-proposed-platform-law-could-cost-us-states-525b-next-decade-model-estimates",
-        "publishedAt": "2026-06-27T15:17:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "AOC puts major tech company on notice amid looming price increases: 'Far too big'",
+        "description": "Rep. Alexandria Ocasio-Cortez says Congress should break up companies like Apple amid rising tech prices linked to AI chip supply chain strain.",
+        "url": "https://www.foxnews.com/politics/aoc-major-tech-company-on-notice-amid-looming-price-increases-far-too-big",
+        "publishedAt": "2026-06-28T08:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Gun Owners of America Secures Injunction Against Virginia AR-15 Ban",
         "description": "On Thursday, Gun Owners of America secured an injunction that blocks the Virginia State Police from enforcing the ban on AR-15s and similar rifles in the state. The ban is set to take effect on July 1, 2026. The Courthouse\nThe post Gun Owners of America Secur…",
@@ -98,16 +108,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "250"
-      },
-      {
-        "title": "Firefighter brother of 9/11 victim incensed by 'radical' Muslims winning key Dem primaries",
-        "description": "Air Force veteran and 9/11 advocate Don Arias slams Democratic nominees with alleged ties to radical Islamic terrorism winning primary elections.",
-        "url": "https://www.foxnews.com/politics/firefighter-brother-911-victim-incensed-radical-muslims-winning-key-dem-primaries",
-        "publishedAt": "2026-06-27T11:00:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
       }
     ]
   },
