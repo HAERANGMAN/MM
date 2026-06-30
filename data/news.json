@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-06-30T05:57:40.312634+00:00",
+  "generated_at": "2026-06-30T09:48:40.190506+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "CHAD WOLF: America cannot ignore China’s economic attack on US industry",
+        "description": "President Trump fights Beijing's dumping strategy that floods U.S. markets with subsidized goods, threatening American steel, auto, and mineral industries.",
+        "url": "https://www.foxnews.com/opinion/chad-wolf-america-cannot-ignore-chinas-economic-attack-us-industry",
+        "publishedAt": "2026-06-29T09:00:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democratic socialism is sweeping the nation. Voters should be alarmed",
+        "description": "Democratic socialism gains momentum as far-left candidates win primaries in New York City and Washington, DC, raising concerns about policy impacts.",
+        "url": "https://www.foxnews.com/opinion/democratic-socialism-sweeping-nation-voters-alarmed",
+        "publishedAt": "2026-06-29T09:00:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mississippi law could create statewide registry of undocumented immigrants",
+        "description": "Mississippi's new immigration law allows state authorities to compile a list of all illegal immigrants, alarming advocates who fear targeting for deportation.",
+        "url": "https://www.foxnews.com/politics/mississippi-law-could-create-statewide-registry-undocumented-immigrants",
+        "publishedAt": "2026-06-29T07:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Banks to retire high-cost funds with diaspora money, says Axis Bank chief",
+        "description": "Infrastructure projects, data centres, real estate and large capital expenditure plans also among investment avenues, he said",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-29/axis-ceo-sees-banks-retiring-high-cost-funds-with-diaspora-money",
+        "publishedAt": "2026-06-29T05:14:24Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Shapoorji refinancing delays spur some bondholders to seek exit",
+        "description": "An investment unit of the infrastructure conglomerate has recently been asking creditors to allow it to delay the repayment of the notes with ₹8,343 crore ($884 million) outstanding that mature this month",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-29/shapoorji-refinancing-delays-spur-some-bondholders-to-seek-exit",
+        "publishedAt": "2026-06-29T04:15:33Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "8"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
+        "description": "Iran's decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump's nuclear deal, analysts say.",
+        "url": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
+        "publishedAt": "2026-06-28T20:37:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "CHAD WOLF: America cannot ignore China’s economic attack on US industry",
+        "description": "President Trump fights Beijing's dumping strategy that floods U.S. markets with subsidized goods, threatening American steel, auto, and mineral industries.",
+        "url": "https://www.foxnews.com/opinion/chad-wolf-america-cannot-ignore-chinas-economic-attack-us-industry",
+        "publishedAt": "2026-06-29T09:00:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "#816 – Fly Away: Global Measurements and Pub Favorites",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from chart-topping musical families and passport logistics to ultimate bar food and massive global scales. Can you answer these? Family Hits: This global superstar completely reshaped …",
+        "url": "https://radio.foxnews.com/2026/06/29/816-fly-away-global-measurements-and-pub-favorites/",
+        "publishedAt": "2026-06-29T07:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "816"
+      },
+      {
+        "title": "Shapoorji refinancing delays spur some bondholders to seek exit",
+        "description": "An investment unit of the infrastructure conglomerate has recently been asking creditors to allow it to delay the repayment of the notes with ₹8,343 crore ($884 million) outstanding that mature this month",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-29/shapoorji-refinancing-delays-spur-some-bondholders-to-seek-exit",
+        "publishedAt": "2026-06-29T04:15:33Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "India, China see top firms lose market dominance in AI lag",
+        "description": "India, China and Hong Kong have emerged as the only major stock markets worldwide where top companies account for a smaller share of market capitalization than a year ago, underscoring their lag in the global AI race.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-28/china-india-see-top-firms-lose-market-cap-share-in-ai-lag",
+        "publishedAt": "2026-06-29T02:48:52Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
+        "description": "Hapag-Lloyd warns of a \"new normal\" in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.",
+        "url": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
+        "publishedAt": "2026-06-28T21:47:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
