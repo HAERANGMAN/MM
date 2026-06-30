@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-30T09:48:40.190506+00:00",
+  "generated_at": "2026-06-30T12:02:51.023332+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "America's lifespan has doubled since 1776 — experts reveal what changed",
+        "description": "U.S. life expectancy has doubled since 1776 thanks to vaccines, antibiotics, sanitation and clean water that reduced infectious disease deaths.",
+        "url": "https://www.foxnews.com/health/americas-lifespan-doubled-since-1776-experts-reveal-what-changed",
+        "publishedAt": "2026-06-29T11:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1776"
+      },
+      {
+        "title": "Socialism is only a symptom. Republicans can’t risk ignoring the real problem",
+        "description": "Voters aren't embracing socialism out of ideology. Frustration with rent, healthcare costs and homeownership is pushing them to reject the status quo.",
+        "url": "https://www.foxnews.com/opinion/socialism-symptom-republicans-cant-risk-ignoring-real-problem",
+        "publishedAt": "2026-06-29T11:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DHS chief Mullin clashes with Tapper over Haiti deportations after Supreme Court TPS ruling",
+        "description": "Homeland Security Secretary Markwayne Mullin clashed with Jake Tapper over Haiti deportations after the Supreme Court ended Temporary Protected Status.",
+        "url": "https://www.foxnews.com/media/dhs-chief-mullin-clashes-tapper-haiti-deportations-supreme-court-tps-ruling",
+        "publishedAt": "2026-06-29T10:00:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "CHAD WOLF: America cannot ignore China’s economic attack on US industry",
         "description": "President Trump fights Beijing's dumping strategy that floods U.S. markets with subsidized goods, threatening American steel, auto, and mineral industries.",
@@ -23,36 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mississippi law could create statewide registry of undocumented immigrants",
-        "description": "Mississippi's new immigration law allows state authorities to compile a list of all illegal immigrants, alarming advocates who fear targeting for deportation.",
-        "url": "https://www.foxnews.com/politics/mississippi-law-could-create-statewide-registry-undocumented-immigrants",
-        "publishedAt": "2026-06-29T07:00:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Banks to retire high-cost funds with diaspora money, says Axis Bank chief",
-        "description": "Infrastructure projects, data centres, real estate and large capital expenditure plans also among investment avenues, he said",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-29/axis-ceo-sees-banks-retiring-high-cost-funds-with-diaspora-money",
-        "publishedAt": "2026-06-29T05:14:24Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Shapoorji refinancing delays spur some bondholders to seek exit",
-        "description": "An investment unit of the infrastructure conglomerate has recently been asking creditors to allow it to delay the repayment of the notes with ₹8,343 crore ($884 million) outstanding that mature this month",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-29/shapoorji-refinancing-delays-spur-some-bondholders-to-seek-exit",
-        "publishedAt": "2026-06-29T04:15:33Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "8"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,26 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "DOJ launches grand jury probe into Marxist mogul Neville Roy Singham's funding of leftist groups",
+        "description": "A federal grand jury in Manhattan has issued subpoenas in a DOJ probe into alleged financial crimes by Marxist tech tycoon Neville Roy Singham.",
+        "url": "https://www.foxnews.com/politics/doj-launches-grand-jury-probe-marxist-mogul-neville-roy-singhams-funding-leftist-groups",
+        "publishedAt": "2026-06-29T12:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "bp"
+      },
+      {
+        "title": "AC Feudalism: EU Headquarters Only Kept Air Conditioning on For Floors With Top Eurocrats",
+        "description": "The governing body of the European Union has been accused of holding a neo-feudalist mindset after it was reported that only certain areas of its building in Brussels kept air conditioning running during last week's record-breaking heatwave.\nThe post AC Feuda…",
+        "url": "https://www.breitbart.com/europe/2026/06/29/ac-feudalism-eu-headquarters-only-kept-air-conditioning-on-for-floors-with-top-eurocrats/",
+        "publishedAt": "2026-06-29T11:26:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "CHAD WOLF: America cannot ignore China’s economic attack on US industry",
         "description": "President Trump fights Beijing's dumping strategy that floods U.S. markets with subsidized goods, threatening American steel, auto, and mineral industries.",
@@ -98,26 +118,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "8"
-      },
-      {
-        "title": "India, China see top firms lose market dominance in AI lag",
-        "description": "India, China and Hong Kong have emerged as the only major stock markets worldwide where top companies account for a smaller share of market capitalization than a year ago, underscoring their lag in the global AI race.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-28/china-india-see-top-firms-lose-market-cap-share-in-ai-lag",
-        "publishedAt": "2026-06-29T02:48:52Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
-        "description": "Hapag-Lloyd warns of a \"new normal\" in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.",
-        "url": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
-        "publishedAt": "2026-06-28T21:47:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
       }
     ]
   },
