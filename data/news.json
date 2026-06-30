@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-06-30T12:02:51.023332+00:00",
+  "generated_at": "2026-06-30T14:38:58.470077+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "America's lifespan has doubled since 1776 — experts reveal what changed",
-        "description": "U.S. life expectancy has doubled since 1776 thanks to vaccines, antibiotics, sanitation and clean water that reduced infectious disease deaths.",
-        "url": "https://www.foxnews.com/health/americas-lifespan-doubled-since-1776-experts-reveal-what-changed",
-        "publishedAt": "2026-06-29T11:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1776"
-      },
-      {
-        "title": "Socialism is only a symptom. Republicans can’t risk ignoring the real problem",
-        "description": "Voters aren't embracing socialism out of ideology. Frustration with rent, healthcare costs and homeownership is pushing them to reject the status quo.",
-        "url": "https://www.foxnews.com/opinion/socialism-symptom-republicans-cant-risk-ignoring-real-problem",
-        "publishedAt": "2026-06-29T11:00:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DHS chief Mullin clashes with Tapper over Haiti deportations after Supreme Court TPS ruling",
-        "description": "Homeland Security Secretary Markwayne Mullin clashed with Jake Tapper over Haiti deportations after the Supreme Court ended Temporary Protected Status.",
-        "url": "https://www.foxnews.com/media/dhs-chief-mullin-clashes-tapper-haiti-deportations-supreme-court-tps-ruling",
-        "publishedAt": "2026-06-29T10:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "CHAD WOLF: America cannot ignore China’s economic attack on US industry",
-        "description": "President Trump fights Beijing's dumping strategy that floods U.S. markets with subsidized goods, threatening American steel, auto, and mineral industries.",
-        "url": "https://www.foxnews.com/opinion/chad-wolf-america-cannot-ignore-chinas-economic-attack-us-industry",
-        "publishedAt": "2026-06-29T09:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democratic socialism is sweeping the nation. Voters should be alarmed",
-        "description": "Democratic socialism gains momentum as far-left candidates win primaries in New York City and Washington, DC, raising concerns about policy impacts.",
-        "url": "https://www.foxnews.com/opinion/democratic-socialism-sweeping-nation-voters-alarmed",
-        "publishedAt": "2026-06-29T09:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
-        "description": "Iran's decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump's nuclear deal, analysts say.",
-        "url": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
-        "publishedAt": "2026-06-28T20:37:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "DOJ launches grand jury probe into Marxist mogul Neville Roy Singham's funding of leftist groups",
-        "description": "A federal grand jury in Manhattan has issued subpoenas in a DOJ probe into alleged financial crimes by Marxist tech tycoon Neville Roy Singham.",
-        "url": "https://www.foxnews.com/politics/doj-launches-grand-jury-probe-marxist-mogul-neville-roy-singhams-funding-leftist-groups",
-        "publishedAt": "2026-06-29T12:00:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "bp"
-      },
-      {
-        "title": "AC Feudalism: EU Headquarters Only Kept Air Conditioning on For Floors With Top Eurocrats",
-        "description": "The governing body of the European Union has been accused of holding a neo-feudalist mindset after it was reported that only certain areas of its building in Brussels kept air conditioning running during last week's record-breaking heatwave.\nThe post AC Feuda…",
-        "url": "https://www.breitbart.com/europe/2026/06/29/ac-feudalism-eu-headquarters-only-kept-air-conditioning-on-for-floors-with-top-eurocrats/",
-        "publishedAt": "2026-06-29T11:26:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "CHAD WOLF: America cannot ignore China’s economic attack on US industry",
-        "description": "President Trump fights Beijing's dumping strategy that floods U.S. markets with subsidized goods, threatening American steel, auto, and mineral industries.",
-        "url": "https://www.foxnews.com/opinion/chad-wolf-america-cannot-ignore-chinas-economic-attack-us-industry",
-        "publishedAt": "2026-06-29T09:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "#816 – Fly Away: Global Measurements and Pub Favorites",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from chart-topping musical families and passport logistics to ultimate bar food and massive global scales. Can you answer these? Family Hits: This global superstar completely reshaped …",
-        "url": "https://radio.foxnews.com/2026/06/29/816-fly-away-global-measurements-and-pub-favorites/",
-        "publishedAt": "2026-06-29T07:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "816"
-      },
-      {
-        "title": "Shapoorji refinancing delays spur some bondholders to seek exit",
-        "description": "An investment unit of the infrastructure conglomerate has recently been asking creditors to allow it to delay the repayment of the notes with ₹8,343 crore ($884 million) outstanding that mature this month",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-29/shapoorji-refinancing-delays-spur-some-bondholders-to-seek-exit",
-        "publishedAt": "2026-06-29T04:15:33Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "8"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
