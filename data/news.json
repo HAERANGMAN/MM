@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-07-01T17:40:15.021373+00:00",
+  "generated_at": "2026-07-01T19:22:40.807116+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Texas Rangers get the nod over Cleveland Guardians in tonight's MLB betting pick despite road struggles",
-        "description": "Jacob deGrom and the Texas Rangers face Tanner Bibee and the Cleveland Guardians in a matchup of solid starters with recent head-to-head history.",
-        "url": "https://www.foxnews.com/outkick-sports/texas-rangers-get-nod-cleveland-guardians-tonights-mlb-betting-pick-despite-road-struggles",
-        "publishedAt": "2026-06-30T17:27:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Amazon Prime Video NFL analyst defends streaming services broadcasting but understands fan frustration",
-        "description": "Andrew Whitworth said NFL streaming frustrations mirror the challenge of finding shows across multiple platforms in today's fragmented media landscape.",
-        "url": "https://www.foxnews.com/sports/amazon-prime-video-nfl-analyst-defends-streaming-services-broadcasting-understands-fan-frustration",
-        "publishedAt": "2026-06-30T17:07:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
-        "description": "Bolivia's pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters.",
-        "url": "https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation",
-        "publishedAt": "2026-06-30T16:45:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "Shock poll: Talarico ties Paxton in Texas Senate race, threatening GOP stronghold",
-        "description": "James Talarico and Ken Paxton are tied at 47% among likely voters in Texas, according to a new poll, as Democrats eye their first Senate win in decades.",
-        "url": "https://www.foxnews.com/politics/shock-poll-talarico-ties-paxton-texas-senate-race-threatening-gop-stronghold",
-        "publishedAt": "2026-06-30T15:49:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "47"
-      },
-      {
-        "title": "GOP congressman reveals mystery illness that sidelined him from Congress for nearly four months",
-        "description": "Rep. Tom Kean Jr. revealed the medical condition that kept him away from the House for nearly four months in an emotional speech on the floor.",
-        "url": "https://www.foxnews.com/politics/gop-congressman-reveals-mystery-illness-sidelined-him-from-congress-nearly-four-months",
-        "publishedAt": "2026-06-30T15:27:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Air Force reveals B-2's hidden ship killer capability as China threat grows",
-        "description": "The announcement comes as the Pentagon increasingly focuses on preparing for a potential conflict in the Indo-Pacific, where China's rapidly expanding navy would present one of the U.S. military's biggest challenges.",
-        "url": "https://www.foxnews.com/politics/air-force-reveals-b-2s-hidden-ship-killer-capability-china-threat-grows",
-        "publishedAt": "2026-06-30T17:28:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "SCOTUS to Weigh Whether AR-15s Protected by 2nd, 14th Amendments",
-        "description": "On Tuesday, SCOTUS agreed to hear Grant v. Higgins, a case centering on whether AR-15s are protected by the Second and Fourteenth Amendments. \nThe post SCOTUS to Weigh Whether AR-15s Protected by 2nd, 14th Amendments appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/06/30/scotus-to-weigh-whether-ar-15s-protected-2nd-14th-amendments/",
-        "publishedAt": "2026-06-30T16:50:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
-        "description": "Bolivia's pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters.",
-        "url": "https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation",
-        "publishedAt": "2026-06-30T16:45:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "ACC CEO Chris Jahn on Permitting Reform: America Permitted and Built Empire State Building in Two Years",
-        "description": "American Chemistry Council (ACC) President and CEO Chris Jahn said at the Council's first policy summit on Thursday that there is a dire need to enact permitting reform, noting that the Empire State Building was permitted and built in only two years.\nThe post…",
-        "url": "https://www.breitbart.com/politics/2026/06/30/acc-ceo-chris-jahn-on-permitting-reform-america-permitted-and-built-empire-state-building-in-two-years/",
-        "publishedAt": "2026-06-30T15:16:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Supreme Court financial disclosures reveal concert tickets from Bad Bunny's label, millions in book payments",
-        "description": "Justice Sonia Sotomayor reported receiving concert tickets worth $4,333 during a Puerto Rico trip, according to Supreme Court financial disclosures.",
-        "url": "https://www.foxnews.com/politics/supreme-court-financial-disclosures-reveal-concert-tickets-bad-bunny-label-millions-book-payments",
-        "publishedAt": "2026-06-30T15:13:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
