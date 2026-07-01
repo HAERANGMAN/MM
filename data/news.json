@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:11:44.713661+00:00",
+  "generated_at": "2026-07-01T12:47:55.509498+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,36 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Taylor Swift's empire tops $2 billion as wedding frenzy fuels global obsession",
+        "description": "Taylor Swift's estimated $2 billion empire makes her one of entertainment's most powerful businesses as wedding buzz adds a new dimension to her brand.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swifts-empire-tops-2-billion-wedding-frenzy-fuels-global-obsession",
+        "publishedAt": "2026-06-30T12:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Hot Air! Socialist Paris Deputy Mayor Blames U.S. For French Heat Wave",
+        "description": "A senior official in the Socialist-run government of Paris has blamed the United States and its abundance of air conditioners for the heat wave that has descended upon the French capital and throughout Western Europe.\nThe post Hot Air! Socialist Paris Deputy …",
+        "url": "https://www.breitbart.com/europe/2026/06/30/socialist-paris-deputy-mayor-blames-u-s-for-french-heat-wave/",
+        "publishedAt": "2026-06-30T11:39:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Supreme Court set to close term with landmark birthright citizenship ruling and more top headlines",
+        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+        "url": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines",
+        "publishedAt": "2026-06-30T11:27:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Trump’s massive GOP faith bloc raises red flag on Iran deal: Trust him, not his team",
         "description": "Evangelical leaders are divided over the Trump-Iran memorandum of understanding, with some praising military action and others warning Israel is betrayed.",
         "url": "https://www.foxnews.com/politics/trumps-massive-gop-faith-bloc-raises-red-flag-iran-deal-trust-him-not-his-team",
@@ -77,36 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "2003"
-      },
-      {
-        "title": "#817 – God Save the Queen: Franchise Owners and Diplomatic Roots",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from royal reigns and billionaire sports owners to rap royalty and ancient papal decrees. Can you answer these? Royal Legacies: She was a global fixture of leadership and stability for…",
-        "url": "https://radio.foxnews.com/2026/06/30/816-fly-away-global-measurements-and-pub-favorites-2/",
-        "publishedAt": "2026-06-30T07:00:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "817"
-      },
-      {
-        "title": "RBI funding curbs deal ‘body blow’ to trading firms in capital markets",
-        "description": "Starting July 1, the RBI will require bank guarantees issued to firms trading in capital markets to be fully backed by collateral, with at least half in cash",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "publishedAt": "2026-06-30T05:02:15Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Paris deputy mayor blames the United States' carbon emissions for deadly heat wave",
-        "description": "Paris Deputy Mayor Audrey Pulvar blamed American greenhouse gas emissions for the deadly heat wave over her city, criticizing their reliance on air conditioning.",
-        "url": "https://www.foxnews.com/media/paris-deputy-mayor-blames-united-states-carbon-emissions-deadly-heat-wave",
-        "publishedAt": "2026-06-29T23:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
