@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-07-02T20:11:42.429526+00:00",
+  "generated_at": "2026-07-02T21:32:24.217971+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Exclusive — EPA Delivers on Trump's 'Freedom to Fix' Affordability Policy for Vehicle, Equipment Repairs",
-        "description": "The Environmental Protection Agency (EPA) announced on Wednesday it is advancing the freedom to fix all vehicles and equipment to ensure that Americans do not have to pay higher costs for repairs.\nThe post Exclusive — EPA Delivers on Trump’s ‘Freedom to Fix’ …",
-        "url": "https://www.breitbart.com/politics/2026/07/01/exclusive-epa-delivers-on-trumps-freedom-to-fix-affordability-policy-for-vehicle-equipment-repairs/",
-        "publishedAt": "2026-07-01T19:30:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Airport business geniuses are doing whatever they can to ensure World Cup fans get their ranch fix",
-        "description": "Ranch dressing is now being sold alongside World Cup merch at John F. Kennedy International Airport so fans can buy it past TSA and fly home.",
-        "url": "https://www.foxnews.com/outkick-sports/airport-business-geniuses-ensure-world-cup-fans-get-ranch-fix",
-        "publishedAt": "2026-07-01T19:28:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FCC Working to Streamline Satellite, Earth Station Licensing for 'America's Growing Commercial Space Economy'",
-        "description": "The Federal Communications Commission (FCC) in July will vote on an order that would streamline satellite and earth station licensing processing to remove \"outdate regulations\" that hamper \"America's growing commercial space economy.\"\nThe post FCC Working to …",
-        "url": "https://www.breitbart.com/politics/2026/07/01/fcc-working-to-streamline-satellite-earth-station-licensing-for-americas-growing-commercial-space-economy/",
-        "publishedAt": "2026-07-01T18:00:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures",
-        "description": "New orders and factory production continued to expand in June as inflationary pressures eased.\nThe post U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/07/01/u-s-manufacturing-grows-amid-strong-demand-declining-inflationary-pressures/",
-        "publishedAt": "2026-07-01T17:41:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russian Intelligence Service Claims Mexican Cartels Moving into Europe, Working with Ukraine After U.S. Crackdown",
-        "description": "The Russian Foreign Intelligence Service (SVR) is reporting publicly that Ukraine is helping Mexican drug cartels move into the European market through its poorly guarded borders. The move is aimed at helping drug cartels move into new markets in response to …",
-        "url": "https://www.breitbart.com/border/2026/07/01/russian-intelligence-service-claims-mexican-cartels-moving-into-europe-working-with-ukraine-after-u-s-crackdown/",
-        "publishedAt": "2026-07-01T17:10:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "New Fox Nation show blows open the wild secrets inside the ‘impossible’ White House UFC fight",
-        "description": "Dana White and Donald Trump reveal how they built the Octagon on the White House South Lawn in a new Fox Nation documentary launching Thursday.",
-        "url": "https://www.foxnews.com/media/new-fox-nation-show-blows-open-wild-secrets-inside-impossible-white-house-ufc-fight",
-        "publishedAt": "2026-07-01T19:29:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rock star Sly Stone's 20,000-guest MSG wedding set the precedent for Taylor Swift, Travis Kelce nuptials",
-        "description": "Nearly 50 years before Taylor Swift and Travis Kelce's reported Madison Square Garden ceremony, Sly Stone wed Kathy Silva at MSG before a live concert.",
-        "url": "https://www.foxnews.com/entertainment/rock-star-sly-stones-20000-guest-msg-wedding-set-precedent-taylor-swift-travis-kelce-nuptials",
-        "publishedAt": "2026-07-01T19:00:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
-      },
-      {
-        "title": "U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures",
-        "description": "New orders and factory production continued to expand in June as inflationary pressures eased.\nThe post U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/07/01/u-s-manufacturing-grows-amid-strong-demand-declining-inflationary-pressures/",
-        "publishedAt": "2026-07-01T17:41:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Southern Poverty Law Center's leaders allegedly used major bank to fund pay-to-hate operation",
-        "description": "Federal case alleges SPLC secretly funneled millions to far-right extremists through shell accounts, with finance and intelligence chiefs accused.",
-        "url": "https://www.foxnews.com/politics/southern-poverty-law-centers-money-woman-allegedly-used-major-bank-fund-pay-to-hate-operation",
-        "publishedAt": "2026-07-01T17:32:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DAVID MARCUS: Calling 9/11 'inevitable' is same as justifying it, and it is disgraceful",
-        "description": "Milot Kiros, who defeated Rep. Diana DeGette in Denver, called 9/11 an inevitable consequence of American foreign policy in the Middle East.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-calling-911-inevitable-same-justifying-disgraceful",
-        "publishedAt": "2026-07-01T16:53:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
