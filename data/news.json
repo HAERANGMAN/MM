@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-02T15:31:35.279558+00:00",
+  "generated_at": "2026-07-02T17:13:29.565984+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Russian Intelligence Service Claims Mexican Cartels Moving into Europe, Working with Ukraine After U.S. Crackdown",
+        "description": "The Russian Foreign Intelligence Service (SVR) is reporting publicly that Ukraine is helping Mexican drug cartels move into the European market through its poorly guarded borders. The move is aimed at helping drug cartels move into new markets in response to …",
+        "url": "https://www.breitbart.com/border/2026/07/01/russian-intelligence-service-claims-mexican-cartels-moving-into-europe-working-with-ukraine-after-u-s-crackdown/",
+        "publishedAt": "2026-07-01T17:10:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Venezuela: Earthquake Victims Catch Police Looting Collapsed Buildings",
+        "description": "Venezuelan police officers attempted to steal a box of U.S. dollars from the ruins of a collapsed building in La Guaira.\nThe post Venezuela: Earthquake Victims Catch Police Looting Collapsed Buildings appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/latin-america/2026/07/01/venezuela-earthquake-victims-catch-police-looting-collapsed-buildings/",
+        "publishedAt": "2026-07-01T17:09:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FOX BUSINESS NETWORK SECURES SEVENTH STRAIGHT QUARTERLY WIN OUTPACING CNBC IN BUSINESS DAY AND TOTAL DAY DURING 2Q 2026",
+        "description": "FBN Delivers Double-Digit Year-Over-Year Growth In Business Day and Market Hours Viewers  ‘Varney & Co.’ and ‘Kudlow’ Notch 17th Consecutive Quarter as the Top Two Business Programs in Television   FBN Records Fourth Highest Rated Quarter Ever in Business Day…",
+        "url": "https://press.foxnews.com/2026/07/fox-business-network-secures-seventh-straight-quarterly-win-outpacing-cnbc-in-business-day-and-total-day-during-2q-2026",
+        "publishedAt": "2026-07-01T16:43:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Russian generals' assassinations expose growing rift inside Putin's security apparatus",
+        "description": "Internal frictions between the FSB and Russian military are growing as generals demand protection amid a wave of assassinations, sources say.",
+        "url": "https://www.foxnews.com/world/russian-generals-assassinations-expose-growing-rift-inside-putins-security-apparatus",
+        "publishedAt": "2026-07-01T16:22:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "RNC chair predicts first-ever midterm convention will turn Dallas into ‘Trumpapalooza’ for 2026 fight",
+        "description": "RNC chair Joe Gruters predicts Republicans will dominate at the party's first-ever midterm convention, calling the Dallas event a \"Trumpapalooza.\"",
+        "url": "https://www.foxnews.com/politics/rnc-chair-predicts-first-ever-midterm-convention-turn-dallas-trumpapalooza-2026-fight",
+        "publishedAt": "2026-07-01T16:14:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "DAVID MARCUS: Calling 9/11 'inevitable' is same as justifying it, and it is disgraceful",
+        "description": "Milot Kiros, who defeated Rep. Diana DeGette in Denver, called 9/11 an inevitable consequence of American foreign policy in the Middle East.",
+        "url": "https://www.foxnews.com/opinion/david-marcus-calling-911-inevitable-same-justifying-disgraceful",
+        "publishedAt": "2026-07-01T16:53:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "Trump Administration Lifts Export Controls on Anthropic's 'Fable' and 'Mythos' AI Models",
+        "description": "The U.S. Department of Commerce has lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 AI models, ending a two-week standoff between the artificial intelligence company and the Trump administration.\nThe post Trump Administration Lifts Export Co…",
+        "url": "https://www.breitbart.com/tech/2026/07/01/trump-administration-lifts-export-controls-on-anthropics-fable-and-mythos-ai-models/",
+        "publishedAt": "2026-07-01T16:09:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Trump DOJ Sues Virginia For 'Unconstitutional Weapons Bans'",
+        "description": "Assistant Attorney General for Civil Rights Harmeet Dhillon announced Wednesday a DOJ lawsuit against Virginia over that state's ban on AR-15s and other semiautomatic firearms.\nThe post Trump DOJ Sues Virginia For ‘Unconstitutional Weapons Bans’ appeared firs…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/01/trump-doj-sues-virginia-for-unconstitutional-weapons-bans/",
+        "publishedAt": "2026-07-01T15:57:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "As Promised: Trump DOJ Sues California over Glock Ban",
+        "description": "On Wednesday, Assistant Attorney General for Civil Rights Harmeet Dhillon announced a DOJ lawsuit against California over that state’s Glock ban. Dhillon had already signaled the suit the was coming, warning Gov. Gavin Newsom (D) and California Attorney Gener…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/01/as-promised-trump-doj-sues-california-glock-ban/",
+        "publishedAt": "2026-07-01T15:47:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "WATCH: Arguments, Fights Erupt in Russian Gasoline Lines Caused by Ukraine Strikes on Oil Facilities",
+        "description": "Gasoline shortages caused by the war with Ukraine have besieged Russians with endless gas stations lines, heated arguments and even a MMA worthy fistfight at one filling station captured on video.\nThe post WATCH: Arguments, Fights Erupt in Russian Gasoline Li…",
+        "url": "https://www.breitbart.com/europe/2026/07/01/33167667watch-arguments-fights-erupt-in-russian-gasoline-lines-caused-by-ukraine-strikes-on-oil-facilities/",
+        "publishedAt": "2026-07-01T14:44:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
