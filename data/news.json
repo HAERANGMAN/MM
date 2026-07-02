@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-02T17:13:29.565984+00:00",
+  "generated_at": "2026-07-02T18:49:02.929193+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "FCC Working to Streamline Satellite, Earth Station Licensing for 'America's Growing Commercial Space Economy'",
+        "description": "The Federal Communications Commission (FCC) in July will vote on an order that would streamline satellite and earth station licensing processing to remove \"outdate regulations\" that hamper \"America's growing commercial space economy.\"\nThe post FCC Working to …",
+        "url": "https://www.breitbart.com/politics/2026/07/01/fcc-working-to-streamline-satellite-earth-station-licensing-for-americas-growing-commercial-space-economy/",
+        "publishedAt": "2026-07-01T18:00:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures",
+        "description": "New orders and factory production continued to expand in June as inflationary pressures eased.\nThe post U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/07/01/u-s-manufacturing-grows-amid-strong-demand-declining-inflationary-pressures/",
+        "publishedAt": "2026-07-01T17:41:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Russian Intelligence Service Claims Mexican Cartels Moving into Europe, Working with Ukraine After U.S. Crackdown",
         "description": "The Russian Foreign Intelligence Service (SVR) is reporting publicly that Ukraine is helping Mexican drug cartels move into the European market through its poorly guarded borders. The move is aimed at helping drug cartels move into new markets in response to …",
@@ -33,31 +53,31 @@
           "name": "Fox News"
         },
         "numericHint": "2"
-      },
-      {
-        "title": "Russian generals' assassinations expose growing rift inside Putin's security apparatus",
-        "description": "Internal frictions between the FSB and Russian military are growing as generals demand protection amid a wave of assassinations, sources say.",
-        "url": "https://www.foxnews.com/world/russian-generals-assassinations-expose-growing-rift-inside-putins-security-apparatus",
-        "publishedAt": "2026-07-01T16:22:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "RNC chair predicts first-ever midterm convention will turn Dallas into ‘Trumpapalooza’ for 2026 fight",
-        "description": "RNC chair Joe Gruters predicts Republicans will dominate at the party's first-ever midterm convention, calling the Dallas event a \"Trumpapalooza.\"",
-        "url": "https://www.foxnews.com/politics/rnc-chair-predicts-first-ever-midterm-convention-turn-dallas-trumpapalooza-2026-fight",
-        "publishedAt": "2026-07-01T16:14:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures",
+        "description": "New orders and factory production continued to expand in June as inflationary pressures eased.\nThe post U.S. Manufacturing Grows Amid Strong Demand, Declining Inflationary Pressures appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/07/01/u-s-manufacturing-grows-amid-strong-demand-declining-inflationary-pressures/",
+        "publishedAt": "2026-07-01T17:41:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Southern Poverty Law Center's leaders allegedly used major bank to fund pay-to-hate operation",
+        "description": "Federal case alleges SPLC secretly funneled millions to far-right extremists through shell accounts, with finance and intelligence chiefs accused.",
+        "url": "https://www.foxnews.com/politics/southern-poverty-law-centers-money-woman-allegedly-used-major-bank-fund-pay-to-hate-operation",
+        "publishedAt": "2026-07-01T17:32:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "DAVID MARCUS: Calling 9/11 'inevitable' is same as justifying it, and it is disgraceful",
         "description": "Milot Kiros, who defeated Rep. Diana DeGette in Denver, called 9/11 an inevitable consequence of American foreign policy in the Middle East.",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "15"
-      },
-      {
-        "title": "As Promised: Trump DOJ Sues California over Glock Ban",
-        "description": "On Wednesday, Assistant Attorney General for Civil Rights Harmeet Dhillon announced a DOJ lawsuit against California over that state’s Glock ban. Dhillon had already signaled the suit the was coming, warning Gov. Gavin Newsom (D) and California Attorney Gener…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/01/as-promised-trump-doj-sues-california-glock-ban/",
-        "publishedAt": "2026-07-01T15:47:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "WATCH: Arguments, Fights Erupt in Russian Gasoline Lines Caused by Ukraine Strikes on Oil Facilities",
-        "description": "Gasoline shortages caused by the war with Ukraine have besieged Russians with endless gas stations lines, heated arguments and even a MMA worthy fistfight at one filling station captured on video.\nThe post WATCH: Arguments, Fights Erupt in Russian Gasoline Li…",
-        "url": "https://www.breitbart.com/europe/2026/07/01/33167667watch-arguments-fights-erupt-in-russian-gasoline-lines-caused-by-ukraine-strikes-on-oil-facilities/",
-        "publishedAt": "2026-07-01T14:44:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
