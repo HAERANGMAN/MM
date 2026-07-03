@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-03T19:45:03.073267+00:00",
+  "generated_at": "2026-07-03T20:45:40.562427+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Scott Dixon leaving Chip Ganassi Racing throws a huge wrench into IndyCar's silly season",
+        "description": "Scott Dixon is leaving Chip Ganassi Racing after 25 seasons, with reports pointing to Arrow McLaren alongside Pato O'Ward and Felix Rosenqvist.",
+        "url": "https://www.foxnews.com/outkick-sports/scott-dixon-leaving-chip-ganassi-racing-throws-huge-wrench-indycar-silly-season",
+        "publishedAt": "2026-07-02T20:33:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "25"
+      },
+      {
+        "title": "Google Loses Fight Against EU's $4.7 Billion Android Fine",
+        "description": "Google has lost its lengthy legal battle to overturn a $4.69 billion fine imposed by the EU over requirements the tech giant forces on device manufacturers deploying its Android operating system.\nThe post Google Loses Fight Against EU’s $4.7 Billion Android F…",
+        "url": "https://www.breitbart.com/tech/2026/07/02/google-loses-fight-against-eus-4-7-billion-android-fine/",
+        "publishedAt": "2026-07-02T19:59:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Reporter who exited CNN after being at center of costly defamation trial lands at Al Jazeera English",
         "description": "Alex Marquardt was famously at the center of a high-profile defamation case brought against him and CNN in 2025 by U.S. Navy veteran Zachary Young.",
@@ -33,26 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dallas mayor dismisses claims businesses are losing confidence in downtown as 'a bunch of bull'",
-        "description": "Dallas Mayor Eric Johnson calls claims of lost business confidence downtown \"a bunch of bull,\" citing Goldman Sachs, Morgan Stanley, and FIFA.",
-        "url": "https://www.foxnews.com/media/dallas-mayor-dismisses-claims-businesses-losing-confidence-downtown-bunch-bull",
-        "publishedAt": "2026-07-02T18:21:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News AI Newsletter: American manufacturer says AI is creating jobs, not replacing them",
-        "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-american-manufacturer-says-ai-creating-jobs-not-replacing-them",
-        "publishedAt": "2026-07-02T17:17:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "State Armor Report Alleges Environmental Law Institute Partnered with China at America’s Expense",
+        "description": "A State Armor report accuses the Environmental Law Institute of advancing Chinese strategic interests through decades of cooperation with China-linked institutions while supporting legal and regulatory efforts that restrict American energy production.\nThe pos…",
+        "url": "https://www.breitbart.com/national-security/2026/07/02/state-armor-report-alleges-environmental-law-institute-partnered-with-china-at-americas-expense/",
+        "publishedAt": "2026-07-02T19:52:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "New sodium-ion battery could reshape grid storage",
         "description": "CATL launches TENER, the first commercially ready sodium-ion battery energy storage system designed for grid storage and renewable energy support.",
@@ -119,16 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Alleged Intruder in Critical Condition After Home Occupant Opens Fire",
-        "description": "An alleged intruder is in critical condition after the occupant of a Huntsville, Alabama, home opened fire on him Wednesday around 3:00 a.m. \nThe post Alleged Intruder in Critical Condition After Home Occupant Opens Fire appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/02/alleged-intruder-critical-condition-after-home-occupant-opens-fire/",
-        "publishedAt": "2026-07-02T14:15:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
       }
     ]
   },
