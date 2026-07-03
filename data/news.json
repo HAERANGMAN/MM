@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-07-03T18:05:34.982601+00:00",
+  "generated_at": "2026-07-03T19:45:03.073267+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-econ": [
+      {
+        "title": "Reporter who exited CNN after being at center of costly defamation trial lands at Al Jazeera English",
+        "description": "Alex Marquardt was famously at the center of a high-profile defamation case brought against him and CNN in 2025 by U.S. Navy veteran Zachary Young.",
+        "url": "https://www.foxnews.com/media/reporter-who-exited-cnn-after-being-center-costly-defamation-trial-lands-al-jazeera-english",
+        "publishedAt": "2026-07-02T18:37:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2025"
+      },
+      {
+        "title": "Two Million Battlefield Casualties in Ukraine War Says Study",
+        "description": "Two million soldiers from both sides have been killed or wounded in Russia's invasion of Ukraine, a study of the state of the war claims. \nThe post Two Million Battlefield Casualties in Ukraine War Says Study appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/07/02/two-million-battlefield-casualties-in-ukraine-war-says-study/",
+        "publishedAt": "2026-07-02T18:22:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Report Details How Trump Admin Is Lowering Costs for Homebuyers",
+        "description": "Plymouth Union Public (PUP) Research detailed how the Trump administration is working to ensure more affordability for homebuyers.\nThe post Exclusive — Report Details How Trump Admin Is Lowering Costs for Homebuyers appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/07/02/exclusive-report-details-how-trump-admin-is-lowering-costs-for-homebuyers/",
+        "publishedAt": "2026-07-02T18:21:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dallas mayor dismisses claims businesses are losing confidence in downtown as 'a bunch of bull'",
+        "description": "Dallas Mayor Eric Johnson calls claims of lost business confidence downtown \"a bunch of bull,\" citing Goldman Sachs, Morgan Stanley, and FIFA.",
+        "url": "https://www.foxnews.com/media/dallas-mayor-dismisses-claims-businesses-losing-confidence-downtown-bunch-bull",
+        "publishedAt": "2026-07-02T18:21:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News AI Newsletter: American manufacturer says AI is creating jobs, not replacing them",
+        "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-american-manufacturer-says-ai-creating-jobs-not-replacing-them",
+        "publishedAt": "2026-07-02T17:17:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "‘Libelous’ NYT report tying Trump family to government-backed deal sparks legal demand",
+        "description": "The Trump Organization demands The New York Times retract a story allegedly linking Donald Trump Jr. and Eric Trump to a Kazakhstan tungsten deal.",
+        "url": "https://www.foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand",
+        "publishedAt": "2026-07-02T14:48:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-soc": [
+      {
+        "title": "DHS Chief Mullin Slams Walz's 'Horrific' Decision to Pardon Criminal Illegal Alien Convicted of Sexual Assault",
+        "description": "Department of Homeland Security (DHS) Secretary Markwayne Mullin criticized Minnesota Gov. Tim Walz (D) for his \"horrific\" decision to pardon a criminal illegal alien who was convicted of sexual assault.\nThe post DHS Chief Mullin Slams Walz’s ‘Horrific’ Decis…",
+        "url": "https://www.breitbart.com/immigration/2026/07/02/3317509/",
+        "publishedAt": "2026-07-02T14:18:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "New sodium-ion battery could reshape grid storage",
+        "description": "CATL launches TENER, the first commercially ready sodium-ion battery energy storage system designed for grid storage and renewable energy support.",
+        "url": "https://www.foxnews.com/tech/new-sodium-ion-battery-reshape-grid-storage",
+        "publishedAt": "2026-07-02T17:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "George Washington's remarkable prayer for America still resonates 250 years later",
+        "description": "The painting of George Washington deep in heartfelt prayer at Valley Forge headlines the Museum of the Bible's exhibit celebrating America's 250th anniversary.",
+        "url": "https://www.foxnews.com/travel/george-washingtons-prayer-america-still-resonates-250-years-later",
+        "publishedAt": "2026-07-02T16:42:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "How to Build America’s Energy Abundance",
+        "description": "For 250 years, every generation of Americans has found the next energy source and built an industry around it.\nThe post How to Build America’s Energy Abundance appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/america250/2026/07/02/how-to-build-americas-energy-abundance/",
+        "publishedAt": "2026-07-02T15:18:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Ninth Circuit Stays Challenge to CA 'Assault Weapons' Ban as It Waits to See What SCOTUS Decides",
+        "description": "The Ninth Circuit has stayed a lawsuit against California's \"assault weapons\" ban, waiting on what SCOTUS decides in related cases. \nThe post Ninth Circuit Stays Challenge to CA ‘Assault Weapons’ Ban as It Waits to See What SCOTUS Decides appeared first on Br…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/02/ninth-circuit-stays-challenge-ca-assault-weapons-ban-it-waits-see-what-scotus-does/",
+        "publishedAt": "2026-07-02T14:48:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Alleged Intruder in Critical Condition After Home Occupant Opens Fire",
+        "description": "An alleged intruder is in critical condition after the occupant of a Huntsville, Alabama, home opened fire on him Wednesday around 3:00 a.m. \nThe post Alleged Intruder in Critical Condition After Home Occupant Opens Fire appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/02/alleged-intruder-critical-condition-after-home-occupant-opens-fire/",
+        "publishedAt": "2026-07-02T14:15:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
