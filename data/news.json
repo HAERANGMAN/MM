@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-07-03T20:45:40.562427+00:00",
+  "generated_at": "2026-07-03T21:48:15.568208+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Scott Dixon leaving Chip Ganassi Racing throws a huge wrench into IndyCar's silly season",
-        "description": "Scott Dixon is leaving Chip Ganassi Racing after 25 seasons, with reports pointing to Arrow McLaren alongside Pato O'Ward and Felix Rosenqvist.",
-        "url": "https://www.foxnews.com/outkick-sports/scott-dixon-leaving-chip-ganassi-racing-throws-huge-wrench-indycar-silly-season",
-        "publishedAt": "2026-07-02T20:33:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "25"
-      },
-      {
-        "title": "Google Loses Fight Against EU's $4.7 Billion Android Fine",
-        "description": "Google has lost its lengthy legal battle to overturn a $4.69 billion fine imposed by the EU over requirements the tech giant forces on device manufacturers deploying its Android operating system.\nThe post Google Loses Fight Against EU’s $4.7 Billion Android F…",
-        "url": "https://www.breitbart.com/tech/2026/07/02/google-loses-fight-against-eus-4-7-billion-android-fine/",
-        "publishedAt": "2026-07-02T19:59:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Reporter who exited CNN after being at center of costly defamation trial lands at Al Jazeera English",
-        "description": "Alex Marquardt was famously at the center of a high-profile defamation case brought against him and CNN in 2025 by U.S. Navy veteran Zachary Young.",
-        "url": "https://www.foxnews.com/media/reporter-who-exited-cnn-after-being-center-costly-defamation-trial-lands-al-jazeera-english",
-        "publishedAt": "2026-07-02T18:37:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
-      },
-      {
-        "title": "Two Million Battlefield Casualties in Ukraine War Says Study",
-        "description": "Two million soldiers from both sides have been killed or wounded in Russia's invasion of Ukraine, a study of the state of the war claims. \nThe post Two Million Battlefield Casualties in Ukraine War Says Study appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/07/02/two-million-battlefield-casualties-in-ukraine-war-says-study/",
-        "publishedAt": "2026-07-02T18:22:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Report Details How Trump Admin Is Lowering Costs for Homebuyers",
-        "description": "Plymouth Union Public (PUP) Research detailed how the Trump administration is working to ensure more affordability for homebuyers.\nThe post Exclusive — Report Details How Trump Admin Is Lowering Costs for Homebuyers appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/07/02/exclusive-report-details-how-trump-admin-is-lowering-costs-for-homebuyers/",
-        "publishedAt": "2026-07-02T18:21:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "‘Libelous’ NYT report tying Trump family to government-backed deal sparks legal demand",
-        "description": "The Trump Organization demands The New York Times retract a story allegedly linking Donald Trump Jr. and Eric Trump to a Kazakhstan tungsten deal.",
-        "url": "https://www.foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand",
-        "publishedAt": "2026-07-02T14:48:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "DHS Chief Mullin Slams Walz's 'Horrific' Decision to Pardon Criminal Illegal Alien Convicted of Sexual Assault",
-        "description": "Department of Homeland Security (DHS) Secretary Markwayne Mullin criticized Minnesota Gov. Tim Walz (D) for his \"horrific\" decision to pardon a criminal illegal alien who was convicted of sexual assault.\nThe post DHS Chief Mullin Slams Walz’s ‘Horrific’ Decis…",
-        "url": "https://www.breitbart.com/immigration/2026/07/02/3317509/",
-        "publishedAt": "2026-07-02T14:18:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "State Armor Report Alleges Environmental Law Institute Partnered with China at America’s Expense",
-        "description": "A State Armor report accuses the Environmental Law Institute of advancing Chinese strategic interests through decades of cooperation with China-linked institutions while supporting legal and regulatory efforts that restrict American energy production.\nThe pos…",
-        "url": "https://www.breitbart.com/national-security/2026/07/02/state-armor-report-alleges-environmental-law-institute-partnered-with-china-at-americas-expense/",
-        "publishedAt": "2026-07-02T19:52:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New sodium-ion battery could reshape grid storage",
-        "description": "CATL launches TENER, the first commercially ready sodium-ion battery energy storage system designed for grid storage and renewable energy support.",
-        "url": "https://www.foxnews.com/tech/new-sodium-ion-battery-reshape-grid-storage",
-        "publishedAt": "2026-07-02T17:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "George Washington's remarkable prayer for America still resonates 250 years later",
-        "description": "The painting of George Washington deep in heartfelt prayer at Valley Forge headlines the Museum of the Bible's exhibit celebrating America's 250th anniversary.",
-        "url": "https://www.foxnews.com/travel/george-washingtons-prayer-america-still-resonates-250-years-later",
-        "publishedAt": "2026-07-02T16:42:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "How to Build America’s Energy Abundance",
-        "description": "For 250 years, every generation of Americans has found the next energy source and built an industry around it.\nThe post How to Build America’s Energy Abundance appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/america250/2026/07/02/how-to-build-americas-energy-abundance/",
-        "publishedAt": "2026-07-02T15:18:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Ninth Circuit Stays Challenge to CA 'Assault Weapons' Ban as It Waits to See What SCOTUS Decides",
-        "description": "The Ninth Circuit has stayed a lawsuit against California's \"assault weapons\" ban, waiting on what SCOTUS decides in related cases. \nThe post Ninth Circuit Stays Challenge to CA ‘Assault Weapons’ Ban as It Waits to See What SCOTUS Decides appeared first on Br…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/02/ninth-circuit-stays-challenge-ca-assault-weapons-ban-it-waits-see-what-scotus-does/",
-        "publishedAt": "2026-07-02T14:48:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
