@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-03T23:47:06.992427+00:00",
+  "generated_at": "2026-07-04T01:20:32.607588+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Donny Deutsch: 'Democrats Have Gone off the Rails'",
+        "description": "Thursday on MS NOW’s “Money, Power, Politics,” panelist Donny Deutsch said, “Democrats have gone off the rails” with anti-American socialism. Host Stephanie Ruhle said, “Even though voters are unhappy with Trump, they’re still leaning Republican. Do you think…",
+        "url": "https://www.breitbart.com/clips/2026/07/02/donny-deutsch-democrats-have-gone-off-the-rails/",
+        "publishedAt": "2026-07-03T00:57:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "ESPN must hold Stephen A. accountable after doubling down on racist remarks about White basketball players",
+        "description": "Stephen A. Smith doubles down on claims the Los Angeles Lakers cannot win with Luka Doncic, Walker Kessler, and Austin Reaves as their top three players.",
+        "url": "https://www.foxnews.com/outkick-sports/espn-hold-stephen-a-accountable-doubling-down-racist-remarks-white-basketball-players",
+        "publishedAt": "2026-07-02T23:51:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Breitbart Business Digest: The America First Economics of the Declaration of Independence",
         "description": "The economic causes that animated the Founders—control of taxes, control of immigration policy, control of trade policy, limiting the growth of government—echo through our politics today.\nThe post Breitbart Business Digest: The America First Economics of the …",
@@ -33,26 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "25"
-      },
-      {
-        "title": "Google Loses Fight Against EU's $4.7 Billion Android Fine",
-        "description": "Google has lost its lengthy legal battle to overturn a $4.69 billion fine imposed by the EU over requirements the tech giant forces on device manufacturers deploying its Android operating system.\nThe post Google Loses Fight Against EU’s $4.7 Billion Android F…",
-        "url": "https://www.breitbart.com/tech/2026/07/02/google-loses-fight-against-eus-4-7-billion-android-fine/",
-        "publishedAt": "2026-07-02T19:59:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Reporter who exited CNN after being at center of costly defamation trial lands at Al Jazeera English",
-        "description": "Alex Marquardt was famously at the center of a high-profile defamation case brought against him and CNN in 2025 by U.S. Navy veteran Zachary Young.",
-        "url": "https://www.foxnews.com/media/reporter-who-exited-cnn-after-being-center-costly-defamation-trial-lands-al-jazeera-english",
-        "publishedAt": "2026-07-02T18:37:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2025"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Dana White says Donald Trump wouldn't stop pushing to make the White House UFC event bigger",
+        "description": "Dana White reveals how Donald Trump pushed for a bigger stage at UFC Fight Night at the White House as a storm split around the Ellipse during the event.",
+        "url": "https://www.foxnews.com/outkick-sports/dana-white-donald-trump-wouldnt-stop-pushing-make-white-house-ufc-event-bigger",
+        "publishedAt": "2026-07-03T01:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "State Armor Report Alleges Environmental Law Institute Partnered with China at America’s Expense",
         "description": "A State Armor report accuses the Environmental Law Institute of advancing Chinese strategic interests through decades of cooperation with China-linked institutions while supporting legal and regulatory efforts that restrict American energy production.\nThe pos…",
@@ -119,16 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "250"
-      },
-      {
-        "title": "Ninth Circuit Stays Challenge to CA 'Assault Weapons' Ban as It Waits to See What SCOTUS Decides",
-        "description": "The Ninth Circuit has stayed a lawsuit against California's \"assault weapons\" ban, waiting on what SCOTUS decides in related cases. \nThe post Ninth Circuit Stays Challenge to CA ‘Assault Weapons’ Ban as It Waits to See What SCOTUS Decides appeared first on Br…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/02/ninth-circuit-stays-challenge-ca-assault-weapons-ban-it-waits-see-what-scotus-does/",
-        "publishedAt": "2026-07-02T14:48:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
