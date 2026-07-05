@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-05T01:25:58.783363+00:00",
+  "generated_at": "2026-07-05T05:37:43.886235+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
+        "description": "Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
+        "publishedAt": "2026-07-04T04:50:17Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Mariska Hargitay dines with Jalen Brunson’s parents ahead of Taylor Swift’s reported wedding | Fox News Video",
         "description": "Mariska Hargitay and husband Peter Hermann dined with New York Knicks player Jalen Brunson’s parents, Rick and Sandra Brunson, the night before Taylor Swift’s reported wedding. (Credit: Dario Alequin for Fox News Digital)",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Illegal Aliens from Romania Plead Guilty in Nearly $1M Food Stamp Fraud Scheme",
-        "description": "A pair of Romanian brothers, who are in the U.S. illegally, have pleaded guilty to a nearly $1 million scheme to defraud the Supplemental Nutrition Assistance Program (SNAP), which involved the theft of American identities.\nThe post Illegal Aliens from Romani…",
-        "url": "https://www.breitbart.com/immigration/2026/07/03/illegal-aliens-from-romania-plead-guilty-in-nearly-1m-food-stamp-fraud-scheme/",
-        "publishedAt": "2026-07-03T18:03:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
@@ -70,6 +70,36 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
+        "description": "Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
+        "publishedAt": "2026-07-04T04:50:17Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Davi: Mamdani, DSA, Marxists Part of Klaus Schwab's Global Infiltration",
+        "description": "Wednesday, on “The Alex Marlow Show,” actor, singer, and filmmaker Robert Davi talked about Marxism. Davi said, “This is a movement that’s worldwide. … There is a globalization, that whole Klaus Schwab, that whole post-money that’s infiltrated the world.” The…",
+        "url": "https://www.breitbart.com/clips/2026/07/03/davi-mamdani-dsa-marxists-part-of-klaus-schwabs-global-infiltration/",
+        "publishedAt": "2026-07-04T03:33:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "California Reacts to DOJ Lawsuit, Intimating Glocks Are 'Dangerous and Unusual'",
+        "description": "California reacted to the Department of Justice's (DOJ) lawsuit against the state's Glock ban by focusing on illegally altering the handguns' actions, then intimating that they are \"dangerous and unusual.\"\nThe post California Reacts to DOJ Lawsuit, Intimating…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/03/california-reacts-doj-lawsuit-intimating-glocks-dangerous-unusual/",
+        "publishedAt": "2026-07-04T01:52:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Report: 3 Shot in Mall After Argument Between Groups Leads to Gunfire",
         "description": "Three people were shot, two of them fatally, following an alleged argument early Friday afternoon at the Dearborn, Michigan, Fairlane Town Center mall.\nThe post Report: 3 Shot in Mall After Argument Between Groups Leads to Gunfire appeared first on Breitbart.",
         "url": "https://www.breitbart.com/2nd-amendment/2026/07/03/3-shot-mall-argument-between-groups-leads-gunfire/",
@@ -86,36 +116,6 @@
         "publishedAt": "2026-07-03T21:57:31Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Trump grants pardons to 'persecuted' mechanics in right-to-repair crackdown: 'I am setting them all free'",
-        "description": "Trump granted full pardons to six people, calling the prosecutions \"weaponization.\" The people granted clemency have not yet been identified.",
-        "url": "https://www.foxnews.com/politics/trump-grants-pardons-persecuted-mechanics-right-to-repair-crackdown-setting-them-all-free",
-        "publishedAt": "2026-07-03T21:04:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Cole Hauser says his family helped shape Montana as fans follow Taylor Sheridan from Treasure State to Texas",
-        "description": "\"Dutton Ranch\" star Cole Hauser says his family has deep roots in Montana dating back to 1886, long before \"Yellowstone\" brought millions of viewers to the state.",
-        "url": "https://www.foxnews.com/entertainment/cole-hauser-says-his-family-helped-shape-montana-fans-follow-taylor-sheridan-from-treasure-state-texas",
-        "publishedAt": "2026-07-03T17:00:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1886"
-      },
-      {
-        "title": "Red, White, and Boom: 250 Years of American Prosperity",
-        "description": "The American economy has grown faster than the UK and every country in continental Europe.\nThe post Red, White, and Boom: 250 Years of American Prosperity appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/07/03/red-white-and-boom-250-years-of-american-prosperity/",
-        "publishedAt": "2026-07-03T16:19:14Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "250"
       }
