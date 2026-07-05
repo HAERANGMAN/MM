@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-05T05:37:43.886235+00:00",
+  "generated_at": "2026-07-05T08:29:45.184403+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "House Dems dodge questions on SCOTUS trans athlete ruling, shift blame to 'culture wars'",
+        "description": "House Democrats mostly sidestepped questions on the Supreme Court transgender athletes ruling, pivoting to the economy and Washington dysfunction.",
+        "url": "https://www.foxnews.com/politics/house-dems-dodge-questions-scotus-trans-athlete-ruling-shift-blame-culture-wars",
+        "publishedAt": "2026-07-04T08:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
         "description": "Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
-      {
-        "title": "NYC rent board dissenter warns Mamdani-backed freeze could hurt affordable housing over time: 'Slow burn'",
-        "description": "Rental Guidelines Board member Arpit Gupta said he disagrees with the freeze and favors a targeted approach that focuses more on low-income tenants.",
-        "url": "https://www.foxnews.com/us/nyc-rent-board-dissenter-warns-mamdani-backed-freeze-could-hurt-affordable-housing-time-slow-burn",
-        "publishedAt": "2026-07-03T18:32:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
