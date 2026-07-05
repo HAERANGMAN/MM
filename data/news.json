@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-07-04T23:44:23.425987+00:00",
+  "generated_at": "2026-07-05T01:25:58.783363+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Mariska Hargitay dines with Jalen Brunson’s parents ahead of Taylor Swift’s reported wedding | Fox News Video",
+        "description": "Mariska Hargitay and husband Peter Hermann dined with New York Knicks player Jalen Brunson’s parents, Rick and Sandra Brunson, the night before Taylor Swift’s reported wedding. (Credit: Dario Alequin for Fox News Digital)",
+        "url": "https://www.foxnews.com/video/6400130252112",
+        "publishedAt": "2026-07-03T22:04:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Democrat Kristen McDonald Rivet Touts ‘Working Families Tax Credit’ After Voting Against Trump Tax Cuts",
+        "description": "Rep. Kristen McDonald Rivet (D-MI), who is running for reelection, voted against President Donald Trump’s Working Families Tax Cuts but is now airing taxpayer-funded advertisements saying she helps constituents claim a working-family tax credit that “we passe…",
+        "url": "https://www.breitbart.com/politics/2026/07/03/democrat-kristen-mcdonald-rivet-touts-working-families-tax-credit-after-voting-against-trump-tax-cuts/",
+        "publishedAt": "2026-07-03T21:22:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Glizzy Gambling: Best bets for the 2026 Nathan's Hot Dog Eating Contest in Coney Island, Brooklyn",
+        "description": "Extreme heat forecasted for Coney Island could shake up Nathan's Hot Dog Eating Contest odds as Joey Chestnut targets his 18th Mustard Belt win.",
+        "url": "https://www.foxnews.com/outkick-sports/glizzy-gambling-best-bets-2026-nathans-hot-dog-eating-contest-coney-island-brooklyn",
+        "publishedAt": "2026-07-03T19:50:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "NYC rent board dissenter warns Mamdani-backed freeze could hurt affordable housing over time: 'Slow burn'",
+        "description": "Rental Guidelines Board member Arpit Gupta said he disagrees with the freeze and favors a targeted approach that focuses more on low-income tenants.",
+        "url": "https://www.foxnews.com/us/nyc-rent-board-dissenter-warns-mamdani-backed-freeze-could-hurt-affordable-housing-time-slow-burn",
+        "publishedAt": "2026-07-03T18:32:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Illegal Aliens from Romania Plead Guilty in Nearly $1M Food Stamp Fraud Scheme",
+        "description": "A pair of Romanian brothers, who are in the U.S. illegally, have pleaded guilty to a nearly $1 million scheme to defraud the Supplemental Nutrition Assistance Program (SNAP), which involved the theft of American identities.\nThe post Illegal Aliens from Romani…",
+        "url": "https://www.breitbart.com/immigration/2026/07/03/illegal-aliens-from-romania-plead-guilty-in-nearly-1m-food-stamp-fraud-scheme/",
+        "publishedAt": "2026-07-03T18:03:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Experts say ‘deeply’ concerned over Iran’s work at underground nuclear site",
+        "description": "Pickaxe Mountain, a secret nuclear site in the Zagros Mountains, shows continued construction per satellite imagery. IAEA inspectors have not been allowed to visit the facility.",
+        "url": "https://www.foxnews.com/world/experts-say-deeply-concerned-over-irans-work-underground-nuclear-site",
+        "publishedAt": "2026-07-03T19:29:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Report: 3 Shot in Mall After Argument Between Groups Leads to Gunfire",
+        "description": "Three people were shot, two of them fatally, following an alleged argument early Friday afternoon at the Dearborn, Michigan, Fairlane Town Center mall.\nThe post Report: 3 Shot in Mall After Argument Between Groups Leads to Gunfire appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/03/3-shot-mall-argument-between-groups-leads-gunfire/",
+        "publishedAt": "2026-07-04T00:59:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Military allies, historic tall ships converge on New Jersey shores to launch America 250 celebrations",
+        "description": "Video captures roughly 20 nations' tall ships arriving at Sandy Hook as the Coast Guard Eagle prepares to lead a historic parade of ships Saturday.",
+        "url": "https://www.foxnews.com/us/military-allies-historic-tall-ships-converge-new-jersey-shores-launch-america-250-celebrations",
+        "publishedAt": "2026-07-03T21:57:31Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Trump grants pardons to 'persecuted' mechanics in right-to-repair crackdown: 'I am setting them all free'",
+        "description": "Trump granted full pardons to six people, calling the prosecutions \"weaponization.\" The people granted clemency have not yet been identified.",
+        "url": "https://www.foxnews.com/politics/trump-grants-pardons-persecuted-mechanics-right-to-repair-crackdown-setting-them-all-free",
+        "publishedAt": "2026-07-03T21:04:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Cole Hauser says his family helped shape Montana as fans follow Taylor Sheridan from Treasure State to Texas",
+        "description": "\"Dutton Ranch\" star Cole Hauser says his family has deep roots in Montana dating back to 1886, long before \"Yellowstone\" brought millions of viewers to the state.",
+        "url": "https://www.foxnews.com/entertainment/cole-hauser-says-his-family-helped-shape-montana-fans-follow-taylor-sheridan-from-treasure-state-texas",
+        "publishedAt": "2026-07-03T17:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1886"
+      },
+      {
+        "title": "Red, White, and Boom: 250 Years of American Prosperity",
+        "description": "The American economy has grown faster than the UK and every country in continental Europe.\nThe post Red, White, and Boom: 250 Years of American Prosperity appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/07/03/red-white-and-boom-250-years-of-american-prosperity/",
+        "publishedAt": "2026-07-03T16:19:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "250"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
