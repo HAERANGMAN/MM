@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-07-06T13:31:05.881709+00:00",
+  "generated_at": "2026-07-06T16:41:27.306863+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "As America marks 250 years, our greatest chapters are still ahead of us",
-        "description": "Founders fire — the bold vision and risk-taking spirit behind the Declaration of Independence — still drives American exceptionalism 250 years later.",
-        "url": "https://www.foxnews.com/opinion/america-marks-250-years-greatest-chapters-still-ahead",
-        "publishedAt": "2026-07-05T10:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Investors looking for shelter from AI storm are turning to India",
-        "description": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to the US, the NSE Nifty 50 Index is becoming a safe haven of sorts for global investors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
-        "publishedAt": "2026-07-05T03:46:11Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "New Jersey coastal city clashes over proposal to transform amusement park into luxury hotel",
-        "description": "A 5-2 council vote rezoned the former Gillian's Wonderland Pier site for rehabilitation, but a planned lawsuit challenges the boardwalk hotel proposal.",
-        "url": "https://www.foxnews.com/travel/new-jersey-coastal-city-clashes-proposal-transform-amusement-park-luxury-hotel",
-        "publishedAt": "2026-07-05T01:05:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "America's next 250 years begin in the classroom",
-        "description": "The Education Freedom Tax Credit launching in 2027 could reshape school choice by empowering charitable giving to fund scholarship organizations.",
-        "url": "https://www.foxnews.com/opinion/americas-next-250-years-begin-classroom",
-        "publishedAt": "2026-07-04T16:58:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Trump marks America's 250th birthday with Mount Rushmore speech celebrating freedom | Fox News Video",
-        "description": "President Donald Trump delivers remarks from Mount Rushmore as the nation celebrates the 250th anniversary of American independence.",
-        "url": "https://www.foxnews.com/video/6400202184112",
-        "publishedAt": "2026-07-04T14:58:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Manson murders allegedly tied to CIA mind control experiments: congressional testimony",
-        "description": "Newly discovered CIA records are being declassified as House Republicans probe alleged links between MKUltra mind control experiments and Charles Manson.",
-        "url": "https://www.foxnews.com/us/manson-murders-allegedly-tied-cia-mind-control-experiments-congressional-testimony",
-        "publishedAt": "2026-07-05T12:00:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Australian healing with 'beautiful messages' after losing arm to shark attack",
-        "description": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
-        "url": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
-        "publishedAt": "2026-07-05T13:13:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Investors looking for shelter from AI storm are turning to India",
-        "description": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to the US, the NSE Nifty 50 Index is becoming a safe haven of sorts for global investors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
-        "publishedAt": "2026-07-05T03:46:11Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "Trump: Netanyahu 'Knows Who the Boss Is’ as Leaders Plan White House Meeting",
-        "description": "President Donald Trump said Israeli Prime Minister Benjamin Netanyahu requested a White House meeting that could take place after the president returns from next week’s NATO summit, as the two leaders have differed over Iran diplomacy and Israel’s continued m…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/04/trump-netanyahu-knows-who-the-boss-is-as-leaders-plan-white-house-meeting/",
-        "publishedAt": "2026-07-04T19:09:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "World leaders, dignitaries pay tribute to America on historic 250th birthday",
-        "description": "King Charles, Pope Leo XIV are among dozens of world leaders sending messages to Trump on America's 250th Independence Day. From Jerusalem to the UAE and Japan congratulations were sent.",
-        "url": "https://www.foxnews.com/world/world-leaders-dignitaries-pay-tribute-america-historic-250th-birthday",
-        "publishedAt": "2026-07-04T16:15:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Pope Leo urges US to welcome immigrants in America 250 speech before visiting global migrant hotspot",
-        "description": "Pope Leo XIV accepted the 2026 Liberty Medal virtually from the Vatican before departing for Lampedusa to urge Europe to accept more migrants.",
-        "url": "https://www.foxnews.com/politics/pope-leo-urges-us-welcome-immigrants-america-250-speech-before-visiting-global-migrant-hotspot",
-        "publishedAt": "2026-07-04T15:47:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
