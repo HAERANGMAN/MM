@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-06T09:43:10.391649+00:00",
+  "generated_at": "2026-07-06T13:31:05.881709+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "As America marks 250 years, our greatest chapters are still ahead of us",
+        "description": "Founders fire — the bold vision and risk-taking spirit behind the Declaration of Independence — still drives American exceptionalism 250 years later.",
+        "url": "https://www.foxnews.com/opinion/america-marks-250-years-greatest-chapters-still-ahead",
+        "publishedAt": "2026-07-05T10:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
       {
         "title": "Investors looking for shelter from AI storm are turning to India",
         "description": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to the US, the NSE Nifty 50 Index is becoming a safe haven of sorts for global investors",
@@ -43,21 +53,32 @@
           "name": "Fox News"
         },
         "numericHint": "250"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Trump warns communism is a ‘mortal threat’ to American liberty | Fox News Video",
-        "description": "President Donald Trump warns of the ‘threat’ of communism while speaking at Mount Rushmore for the 250th anniversary of America on ‘Fox & Friends.’",
-        "url": "https://www.foxnews.com/video/6400192521112",
-        "publishedAt": "2026-07-04T13:14:50Z",
+        "title": "Manson murders allegedly tied to CIA mind control experiments: congressional testimony",
+        "description": "Newly discovered CIA records are being declassified as House Republicans probe alleged links between MKUltra mind control experiments and Charles Manson.",
+        "url": "https://www.foxnews.com/us/manson-murders-allegedly-tied-cia-mind-control-experiments-congressional-testimony",
+        "publishedAt": "2026-07-05T12:00:24Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "250"
+        "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Australian healing with 'beautiful messages' after losing arm to shark attack",
+        "description": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
+        "url": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
+        "publishedAt": "2026-07-05T13:13:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Investors looking for shelter from AI storm are turning to India",
         "description": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to the US, the NSE Nifty 50 Index is becoming a safe haven of sorts for global investors",
@@ -97,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "250"
-      },
-      {
-        "title": "Post Malone, Eva Marie Saint and other celebrities who share a birthday with the Fourth of July",
-        "description": "Post Malone turns 31 and headlines America's Salute 250 concert as he joins Mike Sorrentino, Malia Obama and others born on Independence Day.",
-        "url": "https://www.foxnews.com/entertainment/post-malone-eva-marie-saint-other-celebrities-who-share-birthday-fourth-july",
-        "publishedAt": "2026-07-04T14:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "31"
       }
     ]
   },
