@@ -1,63 +1,105 @@
 {
-  "generated_at": "2026-07-07T16:03:48.907620+00:00",
+  "generated_at": "2026-07-07T18:12:57.312744+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [
+    "news-korea-econ": [
       {
-        "title": "Nolte: Success of ‘Young Washington’ Launches Potential Franchise, Starting with ‘1776’",
-        "description": "\"Young Washington\" grossed $7.65 million in just 2,700 theaters on America’s 250th birthday, beating \"Toy Story 5.\"\nThe post Nolte: Success of ‘Young Washington’ Launches Potential Franchise, Starting with ‘1776’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/07/06/nolte-success-young-washington-launches-potential-franchise-starting-1776/",
-        "publishedAt": "2026-07-06T15:04:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1776"
-      },
-      {
-        "title": "Iran 'Supreme Leader' Skips His Dad Ayatollah Khamenei's Funeral",
-        "description": "The \"supreme leader\" of Iran, Mojtaba Khamenei, was notably absent from funeral events for his father and predecessor Ali Khamenei this weekend – an absence emphasized by the presence of three of his brothers.\nThe post Iran ‘Supreme Leader’ Skips His Dad Ayat…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/06/iran-supreme-leader-skips-his-dad-ayatollah-khameneis-funeral/",
-        "publishedAt": "2026-07-06T13:25:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sources corroborate whistleblower claims of corruption, quid pro quo culture inside powerful NYC union",
-        "description": "A whistleblower letter alleges Richard Maroko and New York Hotel Trades Council leaders accepted gifts from hotel executives in quid pro quo dealings.",
-        "url": "https://www.foxnews.com/politics/sources-corroborate-whistleblower-claims-corruption-quid-pro-quo-culture-inside-powerful-nyc-union",
-        "publishedAt": "2026-07-06T12:35:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Starship delivery robots leave campuses for cities",
-        "description": "Starship Technologies is redeploying 1,200 delivery robots from U.S. college campuses to grocery delivery, but crowded city sidewalks pose new challenges.",
-        "url": "https://www.foxnews.com/tech/starship-delivery-robots-leave-campuses-cities",
-        "publishedAt": "2026-07-06T12:09:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Accused Charlie Kirk assassin Tyler Robinson fights back against state's evidence and more top headlines",
-        "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "url": "https://www.foxnews.com/us/accused-charlie-kirk-assassin-tyler-robinson-fights-back-against-states-evidence-more-top-headlines",
-        "publishedAt": "2026-07-06T11:25:36Z",
+        "title": "Explosive House report reveals secret operation inside China at center of South Korea's fight with US company",
+        "description": "House Judiciary Committee report alleges South Korea's far-left government has systematically discriminated against American companies like Coupang.",
+        "url": "https://www.foxnews.com/politics/explosive-house-report-reveals-secret-operation-china-center-south-korea-fight-us-company",
+        "publishedAt": "2026-07-06T16:16:43Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
     ],
-    "news-korea-soc": [],
+    "news-thai-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Jasmine Crockett warns Democrats are too focused on White voters, ignoring Black voters",
+        "description": "Rep. Jasmine Crockett said the Democratic Party was too focused on winning over White voters while ignoring Black voters' concerns about representation.",
+        "url": "https://www.foxnews.com/media/jasmine-crockett-warns-democrats-too-focused-white-voters-ignoring-black-voters",
+        "publishedAt": "2026-07-06T17:48:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Accounts Will 'Teach Children to Be Entrepreneurial,' Oppose the 'Threat of Communism'",
+        "description": "Trump Accounts will help teach the next generation to oppose the \"threat of communism\" — seemingly embraced by members of the radical left — President Trump said on Monday as Democrats see a dramatic increase in socialist candidates rising to fame within thei…",
+        "url": "https://www.breitbart.com/politics/2026/07/06/trump-accounts-will-teach-children-to-be-entrepreneurial-oppose-the-threat-of-communism/",
+        "publishedAt": "2026-07-06T17:30:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Administration Officially Launches Trump Accounts for Children: 'The American Dream Starts Now'",
+        "description": "The Trump administration officially launched Trump Accounts for U.S. children over the Fourth of July weekend, and President Trump is encouraging parents and others to begin investing.\nThe post Trump Administration Officially Launches Trump Accounts for Child…",
+        "url": "https://www.breitbart.com/politics/2026/07/06/trump-administration-officially-launches-trump-accounts-for-children-the-american-dream-starts-now/",
+        "publishedAt": "2026-07-06T17:06:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Accounts Receive Highest Praise: 'The American Dream Belongs to Every Child'",
+        "description": "Trump Accounts are helping the next generation of Americans build wealth, said supporters of President Donald Trump's Trump Accounts program, which formally launched over the Fourth of July weekend.\nThe post Trump Accounts Receive Highest Praise: ‘The America…",
+        "url": "https://www.breitbart.com/economy/2026/07/06/trump-accounts-receive-highest-praise-the-american-dream-belongs-to-every-child/",
+        "publishedAt": "2026-07-06T16:48:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "America’s Energy Advantage Depends on Permitting Reform",
+        "description": "Infrastructure bottlenecks are preventing American energy from reaching American consumers when they need it most. It’s time for Washington to let America build again.\nThe post America’s Energy Advantage Depends on Permitting Reform appeared first on Breitbar…",
+        "url": "https://www.breitbart.com/america250/2026/07/06/americas-energy-advantage-depends-on-permitting-reform/",
+        "publishedAt": "2026-07-06T16:30:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Explosive House report reveals secret operation inside China at center of South Korea's fight with US company",
+        "description": "House Judiciary Committee report alleges South Korea's far-left government has systematically discriminated against American companies like Coupang.",
+        "url": "https://www.foxnews.com/politics/explosive-house-report-reveals-secret-operation-china-center-south-korea-fight-us-company",
+        "publishedAt": "2026-07-06T16:16:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Pastor freed from Chinese prison after Trump raised his case with Xi Jinping",
+        "description": "Ezra Jin arrived in Los Angeles after Chinese authorities said his release resulted from negotiations between President Trump and Xi Jinping, reports say.",
+        "url": "https://www.foxnews.com/media/pastor-freed-chinese-prison-trump-raised-case-xi-jinping",
+        "publishedAt": "2026-07-06T18:00:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "At Least 21 Shot and 3 Stabbed in Chicago During July 4th Weekend",
+        "description": "At least 21 people were shot and three stabbed during the Fourth of July weekend in Democrat-controlled Chicago, Illinois. \nThe post At Least 21 Shot and 3 Stabbed in Chicago During July 4th Weekend appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/crime/2026/07/06/at-least-21-shot-3-stabbed-chicago-during-july-4th-weekend/",
+        "publishedAt": "2026-07-06T16:28:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "21"
+      },
       {
         "title": "Fake Booking.com travel credit scam targets travelers",
         "description": "A fake Booking.com phishing email offers a $500 travel credit using your real name, a tight deadline and a dangerous \"Redeem Now\" button to steal logins.",
@@ -87,26 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "4"
-      },
-      {
-        "title": "Starship delivery robots leave campuses for cities",
-        "description": "Starship Technologies is redeploying 1,200 delivery robots from U.S. college campuses to grocery delivery, but crowded city sidewalks pose new challenges.",
-        "url": "https://www.foxnews.com/tech/starship-delivery-robots-leave-campuses-cities",
-        "publishedAt": "2026-07-06T12:09:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "ESPN writer hates Team USA getting Folarin Balogun back, says any World Cup success is now 'tainted'",
-        "description": "An ESPN senior writer argues that FIFA clearing Folarin Balogun to play actually hurts the USMNT ahead of the World Cup Round of 16 vs Belgium.",
-        "url": "https://www.foxnews.com/outkick-sports/espn-writer-hates-team-usa-getting-folarin-balogun-back-says-any-world-cup-success-now-tainted",
-        "publishedAt": "2026-07-06T11:19:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "16"
       }
     ]
   },
