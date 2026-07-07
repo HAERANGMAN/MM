@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-07T13:27:59.324889+00:00",
+  "generated_at": "2026-07-07T16:03:48.907620+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Nolte: Success of ‘Young Washington’ Launches Potential Franchise, Starting with ‘1776’",
+        "description": "\"Young Washington\" grossed $7.65 million in just 2,700 theaters on America’s 250th birthday, beating \"Toy Story 5.\"\nThe post Nolte: Success of ‘Young Washington’ Launches Potential Franchise, Starting with ‘1776’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/07/06/nolte-success-young-washington-launches-potential-franchise-starting-1776/",
+        "publishedAt": "2026-07-06T15:04:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1776"
+      },
       {
         "title": "Iran 'Supreme Leader' Skips His Dad Ayatollah Khamenei's Funeral",
         "description": "The \"supreme leader\" of Iran, Mojtaba Khamenei, was notably absent from funeral events for his father and predecessor Ali Khamenei this weekend – an absence emphasized by the presence of three of his brothers.\nThe post Iran ‘Supreme Leader’ Skips His Dad Ayat…",
@@ -43,21 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Doctors say 8 forgotten habits could help fight stress, obesity and chronic disease",
-        "description": "From walking everywhere to eating seasonal foods and sharing community meals, experts say these forgotten American health habits are worth reviving.",
-        "url": "https://www.foxnews.com/health/doctors-say-8-forgotten-habits-help-fight-stress-obesity-chronic-disease",
-        "publishedAt": "2026-07-06T11:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Fake Booking.com travel credit scam targets travelers",
+        "description": "A fake Booking.com phishing email offers a $500 travel credit using your real name, a tight deadline and a dangerous \"Redeem Now\" button to steal logins.",
+        "url": "https://www.foxnews.com/tech/fake-booking-com-travel-credit-scam-targets-travelers",
+        "publishedAt": "2026-07-06T16:00:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Nolte: Weekend Two of ‘Supergirl’ Goes into -74 Percent Superdive",
         "description": "Until Hollywood returns to making movies for Normal People, Supergirls will continue to happen. | Entertainment Until Hollywood returns to making movies for Normal People, Supergirls will continue to happen.",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "16"
-      },
-      {
-        "title": "Tennis great Raphael Nadal swears by breakfast with nutrient-packed tiny fish",
-        "description": "Rafael Nadal revealed his go-to breakfast is toast with anchovies, citing protein and nutrition benefits he learned from his career nutritionist.",
-        "url": "https://www.foxnews.com/food-drink/tennis-great-raphael-nadal-swears-breakfast-nutrient-packed-tiny-fish",
-        "publishedAt": "2026-07-06T10:00:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
