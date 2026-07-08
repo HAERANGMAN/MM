@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-07-08T21:19:48.131301+00:00",
+  "generated_at": "2026-07-08T22:28:18.840542+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
-        "description": "Mike Waltz fired back at the \"act of war\" claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
-        "url": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
-        "publishedAt": "2026-07-07T20:13:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dems uphill climb for Senate majority just got a lot steeper with latest Platner allegation",
-        "description": "Graham Platner faces calls to quit the Maine Senate race amid a rape allegation, complicating Democrats' narrow path to recapturing the majority.",
-        "url": "https://www.foxnews.com/politics/dems-uphill-climb-senate-majority-steeper-latest-platner-allegation",
-        "publishedAt": "2026-07-07T19:08:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Progressive Dems' full-throated Platner endorsements come back to haunt them after rape allegations",
-        "description": "Elizabeth Warren, Bernie Sanders, and \"Pod Save America\" hosts face scrutiny as their endorsements of Graham Platner resurface amid rape allegations.",
-        "url": "https://www.foxnews.com/politics/progressive-dems-full-throated-platner-endorsements-haunt-rape-allegations",
-        "publishedAt": "2026-07-07T16:15:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "World Cup Round of 16 betting guide with Argentina, Colombia and the corners market leading the way",
-        "description": "Sports betting preview for the final day of the Round of 16 in the World Cup as Argentina looks to take on Egypt and Switzerland battles Colombia",
-        "url": "https://www.foxnews.com/outkick-sports/world-cup-round-16-betting-guide-argentina-colombia-corners-market-leading-way",
-        "publishedAt": "2026-07-07T15:28:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "16"
-      },
-      {
-        "title": "Graham Platner's chances of dropping out skyrocket to 94% after party revolt: Kalshi",
-        "description": "Prediction market Kalshi shows 94% probability that Graham Platner will drop out of the Maine Senate race as rape allegation rocks his campaign.",
-        "url": "https://www.foxnews.com/politics/graham-platners-chances-dropping-out-skyrocket-94-after-party-revolt-kalshi",
-        "publishedAt": "2026-07-07T13:36:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "94"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "President Zelensky Opens NATO Summit With Plea For Missiles and Alliance Membership",
-        "description": "NATO would be wise to welcome Ukraine as a member of the alliance and should hurry to send more missiles to Kyiv, President Zelensky said.\nThe post President Zelensky Opens NATO Summit With Plea For Missiles and Alliance Membership appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/07/07/zelensky-opens-nato-summit-with-plea-for-missiles-and-membership/",
-        "publishedAt": "2026-07-07T21:18:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US claws back key concession to Iran after fresh attacks on commercial ships in Strait of Hormuz",
-        "description": "Iran struck commercial vessels in the Strait of Hormuz days after President Donald Trump said he gave Tehran \"a week off\" during Khamenei's funeral ceremonies.",
-        "url": "https://www.foxnews.com/politics/us-claws-back-key-concession-iran-after-fresh-attacks-commercial-ships-strait-hormuz",
-        "publishedAt": "2026-07-07T18:24:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran attacks ships in Strait of Hormuz days after Trump gave Tehran 'a week off' for Khamenei funeral",
-        "description": "Iran struck commercial vessels in the Strait of Hormuz days after President Donald Trump said he gave Tehran \"a week off\" during Khamenei's funeral ceremonies.",
-        "url": "https://www.foxnews.com/politics/iran-attacks-ships-strait-hormuz-days-after-trump-gave-tehran-a-week-off-khamenei-funeral",
-        "publishedAt": "2026-07-07T18:24:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "French court clears path for conservative presidential candidate, but house arrest threatens campaign",
-        "description": "Marine Le Pen's embezzlement ban was shortened to allow a 2027 presidential run, but she must wear an ankle monitor that could complicate campaigning.",
-        "url": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign",
-        "publishedAt": "2026-07-07T17:43:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2027"
-      },
-      {
-        "title": "Michael Rapaport owns up to getting Trump wrong after years of bashing him",
-        "description": "Michael Rapaport reveals how the Hamas hostage crisis shifted his views on Trump and why he's stopped insulting the president.",
-        "url": "https://www.foxnews.com/entertainment/michael-rapaport-owns-up-getting-trump-wrong-after-years-bashing-him",
-        "publishedAt": "2026-07-07T17:18:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
