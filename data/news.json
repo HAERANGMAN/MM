@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T17:02:23.585246+00:00",
+  "generated_at": "2026-07-08T18:25:28.606186+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -70,6 +70,46 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "US claws back key concession to Iran after fresh attacks on commercial ships in Strait of Hormuz",
+        "description": "Iran struck commercial vessels in the Strait of Hormuz days after President Donald Trump said he gave Tehran \"a week off\" during Khamenei's funeral ceremonies.",
+        "url": "https://www.foxnews.com/politics/us-claws-back-key-concession-iran-after-fresh-attacks-commercial-ships-strait-hormuz",
+        "publishedAt": "2026-07-07T18:24:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran attacks ships in Strait of Hormuz days after Trump gave Tehran 'a week off' for Khamenei funeral",
+        "description": "Iran struck commercial vessels in the Strait of Hormuz days after President Donald Trump said he gave Tehran \"a week off\" during Khamenei's funeral ceremonies.",
+        "url": "https://www.foxnews.com/politics/iran-attacks-ships-strait-hormuz-days-after-trump-gave-tehran-a-week-off-khamenei-funeral",
+        "publishedAt": "2026-07-07T18:24:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "French court clears path for conservative presidential candidate, but house arrest threatens campaign",
+        "description": "Marine Le Pen's embezzlement ban was shortened to allow a 2027 presidential run, but she must wear an ankle monitor that could complicate campaigning.",
+        "url": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign",
+        "publishedAt": "2026-07-07T17:43:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2027"
+      },
+      {
+        "title": "Michael Rapaport owns up to getting Trump wrong after years of bashing him",
+        "description": "Michael Rapaport reveals how the Hamas hostage crisis shifted his views on Trump and why he's stopped insulting the president.",
+        "url": "https://www.foxnews.com/entertainment/michael-rapaport-owns-up-getting-trump-wrong-after-years-bashing-him",
+        "publishedAt": "2026-07-07T17:18:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Paraguayan Senator Threatens Legal Action Against French Athlete Mbappe over Social Media 'Gender Violence'",
         "description": "Paraguayan Senator Celeste Amarilla threatened to file a legal action against French soccer superstar Kylian Mbappé on Tuesday night, accusing him of \"gender violence\" after the athlete described her on social media as a \"despicable woman unworthy of her post…",
         "url": "https://www.breitbart.com/sports/2026/07/07/paraguayan-senator-threatens-legal-action-against-french-athlete-mbappe-over-social-media-gender-violence/",
@@ -78,46 +118,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Taylor Swift and Travis Kelce's wedding leaks snowball as guests reveal inside details",
-        "description": "From the performances to the bouquet catch, guests keep spilling details from Taylor Swift and Travis Kelce's Madison Square Garden celebration.",
-        "url": "https://www.foxnews.com/entertainment/taylor-swift-travis-kelce-wedding-leaks-snowball-guests-reveal-inside-details",
-        "publishedAt": "2026-07-07T12:00:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEN DAVE McCORMICK: Trump Accounts give all Americans a stake in prosperity",
-        "description": "A $1,000 investment at birth plus $10 per week could grow to nearly $400,000 through tax-advantaged compounding.",
-        "url": "https://www.foxnews.com/opinion/sen-dave-mccormick-trump-accounts-give-all-americans-stake-prosperity",
-        "publishedAt": "2026-07-07T09:00:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Nvidia server delay report sends Asian tech stocks sliding",
-        "description": "The stock declines showed investors are wary of any potential negative developments after big run-ups in AI-related stocks",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
-        "publishedAt": "2026-07-07T04:22:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Film and Sound Recording Industries Lost 3,600 Jobs in June",
-        "description": "Roughly 3,600 jobs were lost in June for film and sound recording, according to a new report from the U.S. Bureau of Labor Statistics.\nThe post Film and Sound Recording Industries Lost 3,600 Jobs in June appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/07/06/film-and-sound-recording-industries-lost-3600-jobs-in-june/",
-        "publishedAt": "2026-07-07T02:25:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
       }
     ]
   },
