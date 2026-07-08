@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-08T20:03:02.481434+00:00",
+  "generated_at": "2026-07-08T21:19:48.131301+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
+        "description": "Mike Waltz fired back at the \"act of war\" claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
+        "url": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
+        "publishedAt": "2026-07-07T20:13:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Dems uphill climb for Senate majority just got a lot steeper with latest Platner allegation",
         "description": "Graham Platner faces calls to quit the Maine Senate race amid a rape allegation, complicating Democrats' narrow path to recapturing the majority.",
@@ -43,32 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "94"
-      },
+      }
+    ],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": [
       {
-        "title": "Walmart Cuts Prices on Thousands of Summer Items, Drawing Trump's Praise",
-        "description": "“Walmart is stepping up in a big and bold way, and other Retailers should follow the lead of these absolute Patriots,” Trump wrote on Truth Social.\nThe post Walmart Cuts Prices on Thousands of Summer Items, Drawing Trump’s Praise appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/07/07/walmart-cuts-prices-on-thousands-of-summer-items-drawing-trumps-praise/",
-        "publishedAt": "2026-07-07T13:34:12Z",
+        "title": "President Zelensky Opens NATO Summit With Plea For Missiles and Alliance Membership",
+        "description": "NATO would be wise to welcome Ukraine as a member of the alliance and should hurry to send more missiles to Kyiv, President Zelensky said.\nThe post President Zelensky Opens NATO Summit With Plea For Missiles and Alliance Membership appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/07/07/zelensky-opens-nato-summit-with-plea-for-missiles-and-membership/",
+        "publishedAt": "2026-07-07T21:18:07Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "China launches rare submarine ballistic missile as Pacific allies strengthen defense ties before NATO summit",
-        "description": "China's rare submarine-launched ballistic missile test into the Pacific Ocean drew sharp rebukes from Australia and Japan ahead of NATO's Ankara summit.",
-        "url": "https://www.foxnews.com/politics/china-launches-rare-submarine-ballistic-missile-pacific-allies-strengthen-defense-ties-nato-summit",
-        "publishedAt": "2026-07-06T20:35:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [],
-    "news-global-soc": [
+      },
       {
         "title": "US claws back key concession to Iran after fresh attacks on commercial ships in Strait of Hormuz",
         "description": "Iran struck commercial vessels in the Strait of Hormuz days after President Donald Trump said he gave Tehran \"a week off\" during Khamenei's funeral ceremonies.",
@@ -106,16 +105,6 @@
         "publishedAt": "2026-07-07T17:18:22Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Paraguayan Senator Threatens Legal Action Against French Athlete Mbappe over Social Media 'Gender Violence'",
-        "description": "Paraguayan Senator Celeste Amarilla threatened to file a legal action against French soccer superstar Kylian Mbappé on Tuesday night, accusing him of \"gender violence\" after the athlete described her on social media as a \"despicable woman unworthy of her post…",
-        "url": "https://www.breitbart.com/sports/2026/07/07/paraguayan-senator-threatens-legal-action-against-french-athlete-mbappe-over-social-media-gender-violence/",
-        "publishedAt": "2026-07-07T14:34:39Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
