@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-07-08T15:30:55.936174+00:00",
+  "generated_at": "2026-07-08T17:02:23.585246+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Progressive Dems' full-throated Platner endorsements come back to haunt them after rape allegations",
+        "description": "Elizabeth Warren, Bernie Sanders, and \"Pod Save America\" hosts face scrutiny as their endorsements of Graham Platner resurface amid rape allegations.",
+        "url": "https://www.foxnews.com/politics/progressive-dems-full-throated-platner-endorsements-haunt-rape-allegations",
+        "publishedAt": "2026-07-07T16:15:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "World Cup Round of 16 betting guide with Argentina, Colombia and the corners market leading the way",
+        "description": "Sports betting preview for the final day of the Round of 16 in the World Cup as Argentina looks to take on Egypt and Switzerland battles Colombia",
+        "url": "https://www.foxnews.com/outkick-sports/world-cup-round-16-betting-guide-argentina-colombia-corners-market-leading-way",
+        "publishedAt": "2026-07-07T15:28:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "16"
+      },
+      {
+        "title": "Graham Platner's chances of dropping out skyrocket to 94% after party revolt: Kalshi",
+        "description": "Prediction market Kalshi shows 94% probability that Graham Platner will drop out of the Maine Senate race as rape allegation rocks his campaign.",
+        "url": "https://www.foxnews.com/politics/graham-platners-chances-dropping-out-skyrocket-94-after-party-revolt-kalshi",
+        "publishedAt": "2026-07-07T13:36:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "94"
+      },
+      {
+        "title": "Walmart Cuts Prices on Thousands of Summer Items, Drawing Trump's Praise",
+        "description": "“Walmart is stepping up in a big and bold way, and other Retailers should follow the lead of these absolute Patriots,” Trump wrote on Truth Social.\nThe post Walmart Cuts Prices on Thousands of Summer Items, Drawing Trump’s Praise appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/07/07/walmart-cuts-prices-on-thousands-of-summer-items-drawing-trumps-praise/",
+        "publishedAt": "2026-07-07T13:34:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Four months to midterms: 12 races that will determine the Senate majority",
+        "description": "From North Carolina to Nebraska, a dozen competitive Senate seats could flip the balance of power in this year's high-stakes midterm elections.",
+        "url": "https://www.foxnews.com/politics/four-months-midterms-12-races-determine-senate-majority",
+        "publishedAt": "2026-07-07T10:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "12"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "China launches rare submarine ballistic missile as Pacific allies strengthen defense ties before NATO summit",
+        "description": "China's rare submarine-launched ballistic missile test into the Pacific Ocean drew sharp rebukes from Australia and Japan ahead of NATO's Ankara summit.",
+        "url": "https://www.foxnews.com/politics/china-launches-rare-submarine-ballistic-missile-pacific-allies-strengthen-defense-ties-nato-summit",
+        "publishedAt": "2026-07-06T20:35:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Paraguayan Senator Threatens Legal Action Against French Athlete Mbappe over Social Media 'Gender Violence'",
+        "description": "Paraguayan Senator Celeste Amarilla threatened to file a legal action against French soccer superstar Kylian Mbappé on Tuesday night, accusing him of \"gender violence\" after the athlete described her on social media as a \"despicable woman unworthy of her post…",
+        "url": "https://www.breitbart.com/sports/2026/07/07/paraguayan-senator-threatens-legal-action-against-french-athlete-mbappe-over-social-media-gender-violence/",
+        "publishedAt": "2026-07-07T14:34:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Taylor Swift and Travis Kelce's wedding leaks snowball as guests reveal inside details",
+        "description": "From the performances to the bouquet catch, guests keep spilling details from Taylor Swift and Travis Kelce's Madison Square Garden celebration.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swift-travis-kelce-wedding-leaks-snowball-guests-reveal-inside-details",
+        "publishedAt": "2026-07-07T12:00:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "SEN DAVE McCORMICK: Trump Accounts give all Americans a stake in prosperity",
+        "description": "A $1,000 investment at birth plus $10 per week could grow to nearly $400,000 through tax-advantaged compounding.",
+        "url": "https://www.foxnews.com/opinion/sen-dave-mccormick-trump-accounts-give-all-americans-stake-prosperity",
+        "publishedAt": "2026-07-07T09:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Nvidia server delay report sends Asian tech stocks sliding",
+        "description": "The stock declines showed investors are wary of any potential negative developments after big run-ups in AI-related stocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
+        "publishedAt": "2026-07-07T04:22:00Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Film and Sound Recording Industries Lost 3,600 Jobs in June",
+        "description": "Roughly 3,600 jobs were lost in June for film and sound recording, according to a new report from the U.S. Bureau of Labor Statistics.\nThe post Film and Sound Recording Industries Lost 3,600 Jobs in June appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/07/06/film-and-sound-recording-industries-lost-3600-jobs-in-june/",
+        "publishedAt": "2026-07-07T02:25:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
