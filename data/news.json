@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-08T18:25:28.606186+00:00",
+  "generated_at": "2026-07-08T20:03:02.481434+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Dems uphill climb for Senate majority just got a lot steeper with latest Platner allegation",
+        "description": "Graham Platner faces calls to quit the Maine Senate race amid a rape allegation, complicating Democrats' narrow path to recapturing the majority.",
+        "url": "https://www.foxnews.com/politics/dems-uphill-climb-senate-majority-steeper-latest-platner-allegation",
+        "publishedAt": "2026-07-07T19:08:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Progressive Dems' full-throated Platner endorsements come back to haunt them after rape allegations",
         "description": "Elizabeth Warren, Bernie Sanders, and \"Pod Save America\" hosts face scrutiny as their endorsements of Graham Platner resurface amid rape allegations.",
@@ -43,16 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Four months to midterms: 12 races that will determine the Senate majority",
-        "description": "From North Carolina to Nebraska, a dozen competitive Senate seats could flip the balance of power in this year's high-stakes midterm elections.",
-        "url": "https://www.foxnews.com/politics/four-months-midterms-12-races-determine-senate-majority",
-        "publishedAt": "2026-07-07T10:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "12"
       }
     ],
     "news-korea-soc": [
