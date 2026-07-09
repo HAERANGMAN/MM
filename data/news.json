@@ -1,20 +1,159 @@
 {
-  "generated_at": "2026-07-09T18:27:39.800213+00:00",
+  "generated_at": "2026-07-09T20:21:16.192627+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-korea-econ": [
+      {
+        "title": "ROBERT MAGINNIS: Trump’s Ankara remarks reveal a grand strategy hiding in plain sight",
+        "description": "Trump's Ankara remarks on Iran, Ukraine, NATO and China reveal a coherent grand strategy built on deterrence, industrial strength and alliance reciprocity.",
+        "url": "https://www.foxnews.com/opinion/robert-maginnis-trumps-ankara-remarks-reveal-grand-strategy-hiding-plain-sight",
+        "publishedAt": "2026-07-08T09:00:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-econ": [
+      {
+        "title": "Biden’s tariff holiday could leave China footing a massive bill in payback push",
+        "description": "Sen. Jon Husted claims Chinese solar companies owe $67 billion in unpaid tariffs after a Biden-era tariff moratorium was deemed illegal by a federal court.",
+        "url": "https://www.foxnews.com/politics/bidens-tariff-holiday-could-leave-china-footing-massive-bill-payback-push",
+        "publishedAt": "2026-07-08T18:03:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Far-left candidate's past anti-meat activism clashes with campaign pivot in cattle country",
+        "description": "The Democratic candidate's history of veganism and climate action clashes with Colorado 8th district, a leading beef cattle and dairy producer.",
+        "url": "https://www.foxnews.com/politics/far-left-candidates-past-anti-meat-activism-clashes-campaign-pivot-cattle-country",
+        "publishedAt": "2026-07-08T20:05:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "Democratic Maryland Gov Wes Moore praises Trump Accounts as ‘smart policy’",
+        "description": "Maryland Gov. Wes Moore praised Trump Accounts as a smart policy akin to baby bonds that could address child poverty and the racial wealth gap for children.",
+        "url": "https://www.foxnews.com/media/democratic-maryland-gov-wes-moore-praises-trump-accounts-smart-policy",
+        "publishedAt": "2026-07-08T19:02:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump envoy warns China's power move at sea is threat 'we cannot afford to ignore'",
+        "description": "US Ambassador to UK Warren Stephens warned that China is weaponizing port infrastructure and supply chains as tools of political coercion against nations.",
+        "url": "https://www.foxnews.com/politics/trump-envoy-warns-chinas-power-move-sea-threat-cannot-afford-ignore",
+        "publishedAt": "2026-07-08T18:55:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "JD Vance: Administration Stopping Flow of Illegal Immigrants Is Bringing Home Prices Down",
+        "description": "The Trump administration's top tier priority of bringing a halt to the flow of illegal immigration — which ran rampant throughout former President Joe Biden's single term — has brought U.S. home prices down, Vice President JD Vance pointed out this week.\nThe …",
+        "url": "https://www.breitbart.com/politics/2026/07/08/jd-vance-administration-stopping-flow-of-illegal-immigrants-is-bringing-home-prices-down/",
+        "publishedAt": "2026-07-08T18:41:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
+        "description": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
+        "url": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
+        "publishedAt": "2026-07-08T18:27:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "ROBERT MAGINNIS: Trump’s Ankara remarks reveal a grand strategy hiding in plain sight",
+        "description": "Trump's Ankara remarks on Iran, Ukraine, NATO and China reveal a coherent grand strategy built on deterrence, industrial strength and alliance reciprocity.",
+        "url": "https://www.foxnews.com/opinion/robert-maginnis-trumps-ankara-remarks-reveal-grand-strategy-hiding-plain-sight",
+        "publishedAt": "2026-07-08T09:00:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-soc": [
+      {
+        "title": "Biden’s tariff holiday could leave China footing a massive bill in payback push",
+        "description": "Sen. Jon Husted claims Chinese solar companies owe $67 billion in unpaid tariffs after a Biden-era tariff moratorium was deemed illegal by a federal court.",
+        "url": "https://www.foxnews.com/politics/bidens-tariff-holiday-could-leave-china-footing-massive-bill-payback-push",
+        "publishedAt": "2026-07-08T18:03:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Christopher Nolan’s Star-Studded Greek Epic ‘The Odyssey’ Press Tour Is Skipping Greece",
+        "description": "Christopher Nolan has made an epic film about the most famous Greek tales in literature, but his \"The Odyssey\" press tour is skipping Greece.\nThe post Christopher Nolan’s Star-Studded Greek Epic ‘The Odyssey’ Press Tour Is Skipping Greece appeared first on Br…",
+        "url": "https://www.breitbart.com/entertainment/2026/07/08/christopher-nolans-star-studded-greek-epic-the-odyssey-press-tour-is-skipping-greece/",
+        "publishedAt": "2026-07-08T20:08:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump envoy warns China's power move at sea is threat 'we cannot afford to ignore'",
+        "description": "US Ambassador to UK Warren Stephens warned that China is weaponizing port infrastructure and supply chains as tools of political coercion against nations.",
+        "url": "https://www.foxnews.com/politics/trump-envoy-warns-chinas-power-move-sea-threat-cannot-afford-ignore",
+        "publishedAt": "2026-07-08T18:55:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
+        "description": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
+        "url": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
+        "publishedAt": "2026-07-08T18:27:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Biden’s tariff holiday could leave China footing a massive bill in payback push",
+        "description": "Sen. Jon Husted claims Chinese solar companies owe $67 billion in unpaid tariffs after a Biden-era tariff moratorium was deemed illegal by a federal court.",
+        "url": "https://www.foxnews.com/politics/bidens-tariff-holiday-could-leave-china-footing-massive-bill-payback-push",
+        "publishedAt": "2026-07-08T18:03:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "EXCLUSIVE: $1.5 Million in Cocaine Seized by CBP in Special FIFA World Cup Shipping Operation",
+        "description": "U.S. Customs and Border Protection (CBP) officers in Miami, Florida intercepted 22 kilograms of cocaine hydrochloride at an air cargo warehouse near Miami International Airport. The officers are part of a special operation targeting narcotics smuggling activi…",
+        "url": "https://www.breitbart.com/border/2026/07/08/exclusive-1-5-million-in-cocaine-seized-by-cbp-in-special-fifa-world-cup-shipping-operation/",
+        "publishedAt": "2026-07-08T18:02:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
