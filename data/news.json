@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T20:21:16.192627+00:00",
+  "generated_at": "2026-07-09T21:52:51.140943+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -26,6 +26,16 @@
       }
     ],
     "news-global-econ": [
+      {
+        "title": "Federal and Local Cops Raid Sex Trafficking District in Los Angeles",
+        "description": "Ten people were arrested during a huge crackdown on the open-air sex trafficking market in Los Angeles's Figueroa Corridor.\nThe post Federal and Local Cops Raid Sex Trafficking District in Los Angeles appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/crime/2026/07/08/federal-local-cops-raid-sex-trafficking-district-los-angeles/",
+        "publishedAt": "2026-07-08T20:38:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Far-left candidate's past anti-meat activism clashes with campaign pivot in cattle country",
         "description": "The Democratic candidate's history of veganism and climate action clashes with Colorado 8th district, a leading beef cattle and dairy producer.",
@@ -65,16 +75,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
-        "description": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
-        "url": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
-        "publishedAt": "2026-07-08T18:27:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -102,6 +102,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "WATCH: Dana White drops 2028 hints while raving about his favorite Trump cabinet secretary",
+        "description": "Dana White says he has \"become really close\" to Marco Rubio, hinting at a possible 2028 presidential politics role after Trump leaves office.",
+        "url": "https://www.foxnews.com/politics/watch-dana-white-drops-2028-hints-raving-favorite-trump-cabinet-secretary",
+        "publishedAt": "2026-07-08T21:25:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
       {
         "title": "Christopher Nolan’s Star-Studded Greek Epic ‘The Odyssey’ Press Tour Is Skipping Greece",
         "description": "Christopher Nolan has made an epic film about the most famous Greek tales in literature, but his \"The Odyssey\" press tour is skipping Greece.\nThe post Christopher Nolan’s Star-Studded Greek Epic ‘The Odyssey’ Press Tour Is Skipping Greece appeared first on Br…",
@@ -139,16 +149,6 @@
         "publishedAt": "2026-07-08T18:03:16Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "EXCLUSIVE: $1.5 Million in Cocaine Seized by CBP in Special FIFA World Cup Shipping Operation",
-        "description": "U.S. Customs and Border Protection (CBP) officers in Miami, Florida intercepted 22 kilograms of cocaine hydrochloride at an air cargo warehouse near Miami International Airport. The officers are part of a special operation targeting narcotics smuggling activi…",
-        "url": "https://www.breitbart.com/border/2026/07/08/exclusive-1-5-million-in-cocaine-seized-by-cbp-in-special-fifa-world-cup-shipping-operation/",
-        "publishedAt": "2026-07-08T18:02:37Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "$"
       }
