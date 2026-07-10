@@ -1,159 +1,19 @@
 {
-  "generated_at": "2026-07-10T07:56:14.194405+00:00",
+  "generated_at": "2026-07-10T10:53:35.947649+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "ROBERT MAGINNIS: Trump’s Ankara remarks reveal a grand strategy hiding in plain sight",
-        "description": "Trump's Ankara remarks on Iran, Ukraine, NATO and China reveal a coherent grand strategy built on deterrence, industrial strength and alliance reciprocity.",
-        "url": "https://www.foxnews.com/opinion/robert-maginnis-trumps-ankara-remarks-reveal-grand-strategy-hiding-plain-sight",
-        "publishedAt": "2026-07-08T09:00:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-econ": [
-      {
-        "title": "Biden’s tariff holiday could leave China footing a massive bill in payback push",
-        "description": "Sen. Jon Husted claims Chinese solar companies owe $67 billion in unpaid tariffs after a Biden-era tariff moratorium was deemed illegal by a federal court.",
-        "url": "https://www.foxnews.com/politics/bidens-tariff-holiday-could-leave-china-footing-massive-bill-payback-push",
-        "publishedAt": "2026-07-08T18:03:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "JioStar taps AI for shopping, TV movie night ideas",
-        "description": "Turning JioHotstar app as a commerce platform may strengthen Reliance’s broader consumer ecosystem in India, where the e-commerce market is set to reach $250 billion by 2030",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-08/india-s-jiostar-taps-ai-for-shopping-tv-movie-night-ideas",
-        "publishedAt": "2026-07-09T03:00:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Federal and Local Cops Raid Sex Trafficking District in Los Angeles",
-        "description": "Ten people were arrested during a huge crackdown on the open-air sex trafficking market in Los Angeles's Figueroa Corridor.\nThe post Federal and Local Cops Raid Sex Trafficking District in Los Angeles appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/07/08/federal-local-cops-raid-sex-trafficking-district-los-angeles/",
-        "publishedAt": "2026-07-08T20:38:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Far-left candidate's past anti-meat activism clashes with campaign pivot in cattle country",
-        "description": "The Democratic candidate's history of veganism and climate action clashes with Colorado 8th district, a leading beef cattle and dairy producer.",
-        "url": "https://www.foxnews.com/politics/far-left-candidates-past-anti-meat-activism-clashes-campaign-pivot-cattle-country",
-        "publishedAt": "2026-07-08T20:05:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Democratic Maryland Gov Wes Moore praises Trump Accounts as ‘smart policy’",
-        "description": "Maryland Gov. Wes Moore praised Trump Accounts as a smart policy akin to baby bonds that could address child poverty and the racial wealth gap for children.",
-        "url": "https://www.foxnews.com/media/democratic-maryland-gov-wes-moore-praises-trump-accounts-smart-policy",
-        "publishedAt": "2026-07-08T19:02:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump envoy warns China's power move at sea is threat 'we cannot afford to ignore'",
-        "description": "US Ambassador to UK Warren Stephens warned that China is weaponizing port infrastructure and supply chains as tools of political coercion against nations.",
-        "url": "https://www.foxnews.com/politics/trump-envoy-warns-chinas-power-move-sea-threat-cannot-afford-ignore",
-        "publishedAt": "2026-07-08T18:55:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "ROBERT MAGINNIS: Trump’s Ankara remarks reveal a grand strategy hiding in plain sight",
-        "description": "Trump's Ankara remarks on Iran, Ukraine, NATO and China reveal a coherent grand strategy built on deterrence, industrial strength and alliance reciprocity.",
-        "url": "https://www.foxnews.com/opinion/robert-maginnis-trumps-ankara-remarks-reveal-grand-strategy-hiding-plain-sight",
-        "publishedAt": "2026-07-08T09:00:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Biden’s tariff holiday could leave China footing a massive bill in payback push",
-        "description": "Sen. Jon Husted claims Chinese solar companies owe $67 billion in unpaid tariffs after a Biden-era tariff moratorium was deemed illegal by a federal court.",
-        "url": "https://www.foxnews.com/politics/bidens-tariff-holiday-could-leave-china-footing-massive-bill-payback-push",
-        "publishedAt": "2026-07-08T18:03:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "WATCH: Dana White drops 2028 hints while raving about his favorite Trump cabinet secretary",
-        "description": "Dana White says he has \"become really close\" to Marco Rubio, hinting at a possible 2028 presidential politics role after Trump leaves office.",
-        "url": "https://www.foxnews.com/politics/watch-dana-white-drops-2028-hints-raving-favorite-trump-cabinet-secretary",
-        "publishedAt": "2026-07-08T21:25:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Christopher Nolan’s Star-Studded Greek Epic ‘The Odyssey’ Press Tour Is Skipping Greece",
-        "description": "Christopher Nolan has made an epic film about the most famous Greek tales in literature, but his \"The Odyssey\" press tour is skipping Greece.\nThe post Christopher Nolan’s Star-Studded Greek Epic ‘The Odyssey’ Press Tour Is Skipping Greece appeared first on Br…",
-        "url": "https://www.breitbart.com/entertainment/2026/07/08/christopher-nolans-star-studded-greek-epic-the-odyssey-press-tour-is-skipping-greece/",
-        "publishedAt": "2026-07-08T20:08:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump envoy warns China's power move at sea is threat 'we cannot afford to ignore'",
-        "description": "US Ambassador to UK Warren Stephens warned that China is weaponizing port infrastructure and supply chains as tools of political coercion against nations.",
-        "url": "https://www.foxnews.com/politics/trump-envoy-warns-chinas-power-move-sea-threat-cannot-afford-ignore",
-        "publishedAt": "2026-07-08T18:55:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
-        "description": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
-        "url": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
-        "publishedAt": "2026-07-08T18:27:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Biden’s tariff holiday could leave China footing a massive bill in payback push",
-        "description": "Sen. Jon Husted claims Chinese solar companies owe $67 billion in unpaid tariffs after a Biden-era tariff moratorium was deemed illegal by a federal court.",
-        "url": "https://www.foxnews.com/politics/bidens-tariff-holiday-could-leave-china-footing-massive-bill-payback-push",
-        "publishedAt": "2026-07-08T18:03:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-korea-econ": [],
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
