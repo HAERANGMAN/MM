@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T06:33:21.384535+00:00",
+  "generated_at": "2026-07-11T08:23:40.364807+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [
@@ -70,6 +70,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "#827 – Magic: Monthly Birthstones, & Stranger Things Stars",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from brilliant gemstone lore to the multi-talented stars of modern pop culture. Can you answer these? Literary History: Before it became a global phenomenon in the U.S. as Harry Potter…",
+        "url": "https://radio.foxnews.com/2026/07/10/827-magic-monthly-birthstones-stranger-things-stars/",
+        "publishedAt": "2026-07-10T07:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "827"
+      },
+      {
         "title": "'Super Typhoon' Threatens China and Taiwan",
         "description": "Super Typhoon Bavi intensified over the Pacific on Thursday and is bearing down on Taiwan and southern China, packing several feet of rain and winds of up to 124 miles per hour.\nThe post ‘Super Typhoon’ Threatens China and Taiwan appeared first on Breitbart.",
         "url": "https://www.breitbart.com/weather/2026/07/09/super-typhoon-threatens-china-and-taiwan/",
@@ -104,16 +114,6 @@
         "description": "UK operator once again pleads for extra electricity to cover margins as it faces extraordinary allegations in of a blackout risk coverup.\nThe post Net Zero-Obsessed Britain Faces Down Unspoken Energy Crisis Amid Accusations of Coverup appeared first on Breitb…",
         "url": "https://www.breitbart.com/europe/2026/07/09/net-zero-obsessed-britain-faces-down-unspoken-energy-crisis-amid-accusations-of-coverup/",
         "publishedAt": "2026-07-09T17:24:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China Demands Iran 'Follow Through' on U.S. Peace Deal, Signaling Frustration with Hormuz Situation",
-        "description": "The Chinese Foreign Ministry lamented the resurgence of violence between Iran and the United States on Wednesday, urging both countries to \"follow through on their memorandum of understanding\" and \"avoid resorting to force.\"\nThe post China Demands Iran ‘Follo…",
-        "url": "https://www.breitbart.com/asia/2026/07/09/china-demands-iran-follow-through-on-u-s-peace-deal-signaling-frustration-with-hormuz-situation/",
-        "publishedAt": "2026-07-09T16:44:01Z",
         "source": {
           "name": "Breitbart News"
         },
