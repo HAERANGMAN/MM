@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-11T04:24:22.085138+00:00",
+  "generated_at": "2026-07-11T06:33:21.384535+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [],
+    "news-thai-econ": [
+      {
+        "title": "AI could affect millions in Asean, though ILO data shows there have been no big job cuts",
+        "description": "Employment in jobs with the greatest potential for AI to automate or augment tasks has continued to grow since 2017, an ILO report said",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/ai-could-affect-millions-in-asean-as-ilo-sees-no-big-job-cuts",
+        "publishedAt": "2026-07-10T05:14:26Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2017"
+      }
+    ],
     "news-global-econ": [
+      {
+        "title": "AI could affect millions in Asean, though ILO data shows there have been no big job cuts",
+        "description": "Employment in jobs with the greatest potential for AI to automate or augment tasks has continued to grow since 2017, an ILO report said",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/ai-could-affect-millions-in-asean-as-ilo-sees-no-big-job-cuts",
+        "publishedAt": "2026-07-10T05:14:26Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2017"
+      },
       {
         "title": "AI, Iran war risks weigh on Indian IT firms’ earnings outlook",
         "description": "Earnings at Taiwan Semiconductor Manufacturing Co. will serve as a key reality check for Taiwan’s stock market, which remains in the grip of the AI boom",
@@ -43,16 +64,6 @@
           "name": "The Wall Street Journal"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Live-action remake of 'Moana' gets ravaged by critics in latest blow to Disney Studios",
-        "description": "The live-action \"Moana\" remake debuted at 38% on Rotten Tomatoes, with critics calling Dwayne Johnson's wig laughable and the film purposeless.",
-        "url": "https://www.foxnews.com/outkick-analysis/live-action-remake-moana-ravaged-critics-latest-blow-disney-studios",
-        "publishedAt": "2026-07-10T00:17:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "38"
       }
     ],
     "news-korea-soc": [],
