@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-11T01:05:38.418426+00:00",
+  "generated_at": "2026-07-11T04:24:22.085138+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "AI, Iran war risks weigh on Indian IT firms’ earnings outlook",
+        "description": "Earnings at Taiwan Semiconductor Manufacturing Co. will serve as a key reality check for Taiwan’s stock market, which remains in the grip of the AI boom",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/indian-it-firms-earnings-face-ai-middle-east-war-risks",
+        "publishedAt": "2026-07-10T03:51:03Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'They Have Not Been Effective': FNC's Kilmeade Says Trump Should Replace Kushner, Witkoff in Iran Talks",
+        "description": "Thursday on Fox News Channel's \"The Five,\" co-host Brian Kilmeade said Steve Witkoff and Jared Kushner \"have not been effective\" and called for their removal from the administration's negotiations with Iran.\nThe post ‘They Have Not Been Effective’: FNC’s Kilm…",
+        "url": "https://www.breitbart.com/clips/2026/07/09/they-have-not-been-effective-fncs-kilmeade-says-trump-should-replace-kushner-witkoff-in-iran-talks/",
+        "publishedAt": "2026-07-10T02:38:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Federal Appeals Court Ends Texas In-State Tuition for Illegal Aliens",
+        "description": "A federal appeals court ruled that Texas cannot give in-state tuition to undocumented students.\nThe post Federal Appeals Court Ends Texas In-State Tuition for Illegal Aliens appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/immigration/2026/07/09/federal-appeals-court-ends-texas-in-state-tuition-for-illegal-aliens/",
+        "publishedAt": "2026-07-10T02:30:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI",
+        "description": null,
+        "url": "https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe",
+        "publishedAt": "2026-07-10T00:35:59Z",
+        "source": {
+          "name": "The Wall Street Journal"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Live-action remake of 'Moana' gets ravaged by critics in latest blow to Disney Studios",
+        "description": "The live-action \"Moana\" remake debuted at 38% on Rotten Tomatoes, with critics calling Dwayne Johnson's wig laughable and the film purposeless.",
+        "url": "https://www.foxnews.com/outkick-analysis/live-action-remake-moana-ravaged-critics-latest-blow-disney-studios",
+        "publishedAt": "2026-07-10T00:17:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "38"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "'Super Typhoon' Threatens China and Taiwan",
+        "description": "Super Typhoon Bavi intensified over the Pacific on Thursday and is bearing down on Taiwan and southern China, packing several feet of rain and winds of up to 124 miles per hour.\nThe post ‘Super Typhoon’ Threatens China and Taiwan appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/weather/2026/07/09/super-typhoon-threatens-china-and-taiwan/",
+        "publishedAt": "2026-07-09T22:51:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "124"
+      },
+      {
+        "title": "Seventh Circuit Upholds Illinois 'Assault Weapons' Ban",
+        "description": "A three-judge panel for the Seventh Circuit upheld the \"assault weapons\" and magazine bans in Illinois on Thursday.\nThe post Seventh Circuit Upholds Illinois ‘Assault Weapons’ Ban appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/09/seventh-circuit-upholds-illinois-assault-weapons-ban/",
+        "publishedAt": "2026-07-09T21:01:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Judge: Injunction Against Virginia 'Assault Weapons' Ban Is Statewide",
+        "description": "Judge Jeffrey L. Campbell clarified his injunction against Virginia's \"assault weapons\" ban, making clear the injunction is statewide.\nThe post Judge: Injunction Against Virginia ‘Assault Weapons’ Ban Is Statewide appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/09/judge-injunction-against-virginia-assault-weapons-ban-is-statewide/",
+        "publishedAt": "2026-07-09T18:07:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Net Zero-Obsessed Britain Faces Down Unspoken Energy Crisis Amid Accusations of Coverup",
+        "description": "UK operator once again pleads for extra electricity to cover margins as it faces extraordinary allegations in of a blackout risk coverup.\nThe post Net Zero-Obsessed Britain Faces Down Unspoken Energy Crisis Amid Accusations of Coverup appeared first on Breitb…",
+        "url": "https://www.breitbart.com/europe/2026/07/09/net-zero-obsessed-britain-faces-down-unspoken-energy-crisis-amid-accusations-of-coverup/",
+        "publishedAt": "2026-07-09T17:24:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China Demands Iran 'Follow Through' on U.S. Peace Deal, Signaling Frustration with Hormuz Situation",
+        "description": "The Chinese Foreign Ministry lamented the resurgence of violence between Iran and the United States on Wednesday, urging both countries to \"follow through on their memorandum of understanding\" and \"avoid resorting to force.\"\nThe post China Demands Iran ‘Follo…",
+        "url": "https://www.breitbart.com/asia/2026/07/09/china-demands-iran-follow-through-on-u-s-peace-deal-signaling-frustration-with-hormuz-situation/",
+        "publishedAt": "2026-07-09T16:44:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
