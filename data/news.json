@@ -1,20 +1,158 @@
 {
-  "generated_at": "2026-07-12T04:02:04.292785+00:00",
+  "generated_at": "2026-07-12T06:42:50.017262+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Intel expert says Singham network is more than a nonprofit scandal—it's a security threat",
+        "description": "Intelligence expert Adam Sohn calls Neville Roy Singham's dark money network a national security threat as a grand jury probe targets his finances.",
+        "url": "https://www.foxnews.com/politics/intel-expert-says-singham-network-more-than-nonprofit-scandal-security-threat",
+        "publishedAt": "2026-07-10T19:26:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-econ": [
+      {
+        "title": "Trump takes unusual step, lets bipartisan housing bill become law unsigned amid SAVE pressure campaign",
+        "description": "Trump refused to sign the housing bill to pressure Congress on the SAVE America Act, but the measure became law without his signature at midnight.",
+        "url": "https://www.foxnews.com/politics/trump-takes-unusual-step-lets-bipartisan-housing-bill-become-law-unsigned-amid-save-pressure-campaign",
+        "publishedAt": "2026-07-11T04:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Indiana Fever star Sophie Cunningham reportedly set to release first signature sneaker",
+        "description": "Sophie Cunningham is reportedly getting her own Adidas signature shoe, set to drop July 24 for $120, underscoring her popularity beyond the box score.",
+        "url": "https://www.foxnews.com/outkick-sports/indiana-fever-star-sophie-cunningham-release-first-signature-sneaker",
+        "publishedAt": "2026-07-11T01:55:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "24"
+      },
+      {
+        "title": "Breitbart Business Digest: America’s Millionaire Cashiers Beat Europe’s Lumbering Zombie Elites",
+        "description": "According to the latest IMF updated projections for economic growth, the United States is lapping the Europeans. All their talk about international rules-based blah blah blah and openness to yadda-yadda-yadda puts them behind Trumpian Make America Great Again…",
+        "url": "https://www.breitbart.com/economy/2026/07/10/breitbart-business-digest-americas-millionaire-cashiers-beat-europes-lumbering-zombie-elites/",
+        "publishedAt": "2026-07-10T21:35:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Abdul El-Sayed Touts Medicare for All While Claiming Healthcare System Treats White Patients Better",
+        "description": "Far-left Muslim Michigan Senate candidate Abdul El-Sayed argued that black and Arab patients are routinely treated differently in the healthcare system because they are more likely to rely on government-funded insurance, which he said pays providers less than…",
+        "url": "https://www.breitbart.com/politics/2026/07/10/abdul-el-sayed-touts-medicare-for-all-while-claiming-healthcare-system-treats-white-patients-better/",
+        "publishedAt": "2026-07-10T21:32:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump refuses to sign bipartisan housing bill in protest over SAVE Act",
+        "description": "Trump refuses to sign the bipartisan housing bill, using it as leverage to pressure lawmakers into passing the SAVE America Act on noncitizen voting.",
+        "url": "https://www.foxnews.com/politics/trump-refuses-sign-bipartisan-housing-bill-protest-save-act",
+        "publishedAt": "2026-07-10T18:28:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Kim Jong-un Leads Meeting on Growing 'Quality and Quantity' of North Korea Nuclear Force",
+        "description": "North Korea's communist dictator Kim Jong-un presided over a military commission meeting on Thursday focused on how to improve the \"quality and quantity\" of the country's illicit nuclear weapons arsenal.\nThe post Kim Jong-un Leads Meeting on Growing ‘Quality …",
+        "url": "https://www.breitbart.com/asia/2026/07/10/kim-jong-un-leads-meeting-on-growing-quality-and-quantity-of-north-korea-nuclear-force/",
+        "publishedAt": "2026-07-10T19:50:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Intel expert says Singham network is more than a nonprofit scandal—it's a security threat",
+        "description": "Intelligence expert Adam Sohn calls Neville Roy Singham's dark money network a national security threat as a grand jury probe targets his finances.",
+        "url": "https://www.foxnews.com/politics/intel-expert-says-singham-network-more-than-nonprofit-scandal-security-threat",
+        "publishedAt": "2026-07-10T19:26:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-soc": [
+      {
+        "title": "Influencer Connor Murphy's rental discovered in shocking condition after his sudden drowning",
+        "description": "Video from Connor Murphy's Thai rental home reveals black tar-like substances, paint-streaked walls and overflowing trash inside the once-luxury home.",
+        "url": "https://www.foxnews.com/travel/influencer-connor-murphys-rental-discovered-shocking-condition-after-his-sudden-drowning",
+        "publishedAt": "2026-07-10T15:06:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Breitbart Business Digest: America’s Millionaire Cashiers Beat Europe’s Lumbering Zombie Elites",
+        "description": "According to the latest IMF updated projections for economic growth, the United States is lapping the Europeans. All their talk about international rules-based blah blah blah and openness to yadda-yadda-yadda puts them behind Trumpian Make America Great Again…",
+        "url": "https://www.breitbart.com/economy/2026/07/10/breitbart-business-digest-americas-millionaire-cashiers-beat-europes-lumbering-zombie-elites/",
+        "publishedAt": "2026-07-10T21:35:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kim Jong-un Leads Meeting on Growing 'Quality and Quantity' of North Korea Nuclear Force",
+        "description": "North Korea's communist dictator Kim Jong-un presided over a military commission meeting on Thursday focused on how to improve the \"quality and quantity\" of the country's illicit nuclear weapons arsenal.\nThe post Kim Jong-un Leads Meeting on Growing ‘Quality …",
+        "url": "https://www.breitbart.com/asia/2026/07/10/kim-jong-un-leads-meeting-on-growing-quality-and-quantity-of-north-korea-nuclear-force/",
+        "publishedAt": "2026-07-10T19:50:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Federal Judge Denies DOJ an Injunction Against CA Glock Ban",
+        "description": "U.S. District Judge Monica Ramirez Almadani has denied the DOJ's request for a Temporary Restraining Order against California's Glock ban.\nThe post Federal Judge Denies DOJ an Injunction Against CA Glock Ban appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/10/federal-judge-denies-doj-injunction-against-ca-glock-ban/",
+        "publishedAt": "2026-07-10T16:16:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News AI Newsletter: Microsoft cuts thousands of jobs",
+        "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-microsoft-cuts-thousands-jobs",
+        "publishedAt": "2026-07-10T14:35:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "WATCH: Trump's Energy chief reveals what escalating Iran tensions could mean for gas prices",
+        "description": "Chris Wright says the U.S. military, not good behavior from Iran, ensures oil still flows through the Strait of Hormuz amid escalating tensions.",
+        "url": "https://www.foxnews.com/politics/watch-trumps-energy-chief-reveals-escalating-iran-tensions-could-mean-gas-prices",
+        "publishedAt": "2026-07-10T14:13:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
