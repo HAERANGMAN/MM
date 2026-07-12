@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T12:32:18.421633+00:00",
+  "generated_at": "2026-07-12T14:09:06.041746+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,145 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
-        "description": "Retired Gen. Philip Breedlove says Ukrainian strikes on energy infrastructure force Putin to divert military assets as fuel shortages spread nationwide.",
-        "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-        "publishedAt": "2026-07-11T11:08:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "America's cheapest city to grab a cheeseburger, fries and soda isn't where you'd expect",
-        "description": "DoorDash's so-called Cheeseburger Index reveals a burger, fries and soda costs $12.94 in Austin but $28.28 in Anchorage, exposing stark local gaps for the same meal.",
-        "url": "https://www.foxnews.com/politics/americas-cheapest-city-grab-cheeseburger-fries-soda-isnt-where-youd-expect",
-        "publishedAt": "2026-07-11T10:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Trump takes unusual step, lets bipartisan housing bill become law unsigned amid SAVE pressure campaign",
-        "description": "Trump refused to sign the housing bill to pressure Congress on the SAVE America Act, but the measure became law without his signature at midnight.",
-        "url": "https://www.foxnews.com/politics/trump-takes-unusual-step-lets-bipartisan-housing-bill-become-law-unsigned-amid-save-pressure-campaign",
-        "publishedAt": "2026-07-11T04:00:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Indiana Fever star Sophie Cunningham reportedly set to release first signature sneaker",
-        "description": "Sophie Cunningham is reportedly getting her own Adidas signature shoe, set to drop July 24 for $120, underscoring her popularity beyond the box score.",
-        "url": "https://www.foxnews.com/outkick-sports/indiana-fever-star-sophie-cunningham-release-first-signature-sneaker",
-        "publishedAt": "2026-07-11T01:55:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "24"
-      },
-      {
-        "title": "Breitbart Business Digest: America’s Millionaire Cashiers Beat Europe’s Lumbering Zombie Elites",
-        "description": "According to the latest IMF updated projections for economic growth, the United States is lapping the Europeans. All their talk about international rules-based blah blah blah and openness to yadda-yadda-yadda puts them behind Trumpian Make America Great Again…",
-        "url": "https://www.breitbart.com/economy/2026/07/10/breitbart-business-digest-americas-millionaire-cashiers-beat-europes-lumbering-zombie-elites/",
-        "publishedAt": "2026-07-10T21:35:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Kim Jong-un Leads Meeting on Growing 'Quality and Quantity' of North Korea Nuclear Force",
-        "description": "North Korea's communist dictator Kim Jong-un presided over a military commission meeting on Thursday focused on how to improve the \"quality and quantity\" of the country's illicit nuclear weapons arsenal.\nThe post Kim Jong-un Leads Meeting on Growing ‘Quality …",
-        "url": "https://www.breitbart.com/asia/2026/07/10/kim-jong-un-leads-meeting-on-growing-quality-and-quantity-of-north-korea-nuclear-force/",
-        "publishedAt": "2026-07-10T19:50:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Intel expert says Singham network is more than a nonprofit scandal—it's a security threat",
-        "description": "Intelligence expert Adam Sohn calls Neville Roy Singham's dark money network a national security threat as a grand jury probe targets his finances.",
-        "url": "https://www.foxnews.com/politics/intel-expert-says-singham-network-more-than-nonprofit-scandal-security-threat",
-        "publishedAt": "2026-07-10T19:26:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Influencer Connor Murphy's rental discovered in shocking condition after his sudden drowning",
-        "description": "Video from Connor Murphy's Thai rental home reveals black tar-like substances, paint-streaked walls and overflowing trash inside the once-luxury home.",
-        "url": "https://www.foxnews.com/travel/influencer-connor-murphys-rental-discovered-shocking-condition-after-his-sudden-drowning",
-        "publishedAt": "2026-07-10T15:06:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
-        "description": "Retired Gen. Philip Breedlove says Ukrainian strikes on energy infrastructure force Putin to divert military assets as fuel shortages spread nationwide.",
-        "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-        "publishedAt": "2026-07-11T11:08:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DAN GAINOR: We got Twitter/X as a platform 20 years ago and global censors still hate and fear it",
-        "description": "From the Hunter Biden laptop suppression to Ofcom targeting U.S. companies, the global fight over online censorship and free speech is far from over.",
-        "url": "https://www.foxnews.com/opinion/dan-gainor-twitter-x-platform-20-years-ago-global-censors-still-hate-fear-it",
-        "publishedAt": "2026-07-11T11:00:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "20"
-      },
-      {
-        "title": "Breitbart Business Digest: America’s Millionaire Cashiers Beat Europe’s Lumbering Zombie Elites",
-        "description": "According to the latest IMF updated projections for economic growth, the United States is lapping the Europeans. All their talk about international rules-based blah blah blah and openness to yadda-yadda-yadda puts them behind Trumpian Make America Great Again…",
-        "url": "https://www.breitbart.com/economy/2026/07/10/breitbart-business-digest-americas-millionaire-cashiers-beat-europes-lumbering-zombie-elites/",
-        "publishedAt": "2026-07-10T21:35:32Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kim Jong-un Leads Meeting on Growing 'Quality and Quantity' of North Korea Nuclear Force",
-        "description": "North Korea's communist dictator Kim Jong-un presided over a military commission meeting on Thursday focused on how to improve the \"quality and quantity\" of the country's illicit nuclear weapons arsenal.\nThe post Kim Jong-un Leads Meeting on Growing ‘Quality …",
-        "url": "https://www.breitbart.com/asia/2026/07/10/kim-jong-un-leads-meeting-on-growing-quality-and-quantity-of-north-korea-nuclear-force/",
-        "publishedAt": "2026-07-10T19:50:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Federal Judge Denies DOJ an Injunction Against CA Glock Ban",
-        "description": "U.S. District Judge Monica Ramirez Almadani has denied the DOJ's request for a Temporary Restraining Order against California's Glock ban.\nThe post Federal Judge Denies DOJ an Injunction Against CA Glock Ban appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/10/federal-judge-denies-doj-injunction-against-ca-glock-ban/",
-        "publishedAt": "2026-07-10T16:16:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
