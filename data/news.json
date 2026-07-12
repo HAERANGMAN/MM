@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-12T14:09:06.041746+00:00",
+  "generated_at": "2026-07-12T15:14:17.646684+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Intel expert says Singham network is more than a nonprofit scandal—it's a security threat",
-        "description": "Intelligence expert Adam Sohn calls Neville Roy Singham's dark money network a national security threat as a grand jury probe targets his finances.",
-        "url": "https://www.foxnews.com/politics/intel-expert-says-singham-network-more-than-nonprofit-scandal-security-threat",
-        "publishedAt": "2026-07-10T19:26:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
