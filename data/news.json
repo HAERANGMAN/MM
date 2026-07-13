@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:48:35.338144+00:00",
+  "generated_at": "2026-07-13T17:46:00.956504+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Vintage photos reveal what grocery shopping looked like in the 1960s",
+        "description": "Vintage 1960s grocery ads show sirloin steak at 78 cents per pound, but adjusting for inflation reveals surprising truths about today's prices.",
+        "url": "https://www.foxnews.com/food-drink/vintage-photos-reveal-what-grocery-shopping-looked-like-1960s",
+        "publishedAt": "2026-07-12T16:31:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1960"
+      },
+      {
+        "title": "Katherine Heigl lists her Utah home for $10.6M as family prepares to downsize",
+        "description": "Katherine Heigl listed her 8,352-square-foot Utah Mountains home for $10.6 million as she and husband Josh Kelley look to downsize their estate.",
+        "url": "https://www.foxnews.com/entertainment/katherine-heigl-lists-her-utah-home-10-6m-family-prepares-downsize",
+        "publishedAt": "2026-07-12T16:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "New Germany sex-crime figures reignite migration fight as exploitation probe expands",
         "description": "Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.",
@@ -44,26 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sen Lindsey Graham dies unexpectedly | Fox News Video",
-        "description": "Fox News senior medical analyst Dr. Marc Siegel discusses the unexpected death of Sen. Lindsey Graham, R-S.C.",
-        "url": "https://www.foxnews.com/video/6400947593112",
-        "publishedAt": "2026-07-12T12:11:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Steve Forbes backs Trump's Mt. Rushmore warning on communism: 'He's right'",
-        "description": "Publisher and presidential candidate Steve Forbes discusses the American economy, the socialist turn in New York City, and the Trump 4th of July speech at Freedom Fest in Las Vegas.",
-        "url": "https://www.foxnews.com/politics/steve-forbes-backs-trumps-mt-rushmore-warning-communism-hes-right",
-        "publishedAt": "2026-07-12T10:00:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump Administration Officials Remember Lindsey Graham: 'Devoted Public Servant'",
+        "description": "Several officials within the Trump administration remembered Sen. Lindsey Graham (R-SC) after his office shared that he died at the age of 71 from a \"brief and sudden illness,\" describing Graham as a \"devoted public servant\" and \"great American and Patriot.\"\n…",
+        "url": "https://www.breitbart.com/politics/2026/07/12/trump-administration-officials-remember-lindsey-graham-devoted-public-servant/",
+        "publishedAt": "2026-07-12T16:57:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "71"
+      },
       {
         "title": "Trump's ambitious energy bet could be a winning hand as the world burns more oil, gas than ever",
         "description": "U.S. oil production hit a record 21.1 million barrels per day in 2025 as fossil fuels still supply 86% of global energy, a new report reveals.",
@@ -119,16 +129,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "10"
-      },
-      {
-        "title": "South Africa Soccer Star Jayden Adams Dead at 25 Mere Weeks After World Cup Appearance",
-        "description": "South African soccer star Jayden Adams has died, only weeks after he and his national team completed a successful World Cup performance in the United States.\nThe post South Africa Soccer Star Jayden Adams Dead at 25 Mere Weeks After World Cup Appearance appea…",
-        "url": "https://www.breitbart.com/sports/2026/07/11/south-africa-soccer-star-jayden-adams-dead-at-25-mere-weeks-after-world-cup-appearance/",
-        "publishedAt": "2026-07-11T17:28:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "25"
       }
     ]
   },
