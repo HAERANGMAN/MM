@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:03:28.417237+00:00",
+  "generated_at": "2026-07-13T15:48:35.338144+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,36 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "New Germany sex-crime figures reignite migration fight as exploitation probe expands",
+        "description": "Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.",
+        "url": "https://www.foxnews.com/world/new-germany-sex-crime-figures-reignite-migration-fight-exploitation-probe-expands",
+        "publishedAt": "2026-07-12T14:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "751"
+      },
+      {
+        "title": "Wimbledon final betting tips favor Jannik Sinner to sweep Alexander Zverev as top players meet on grass",
+        "description": "Jannik Sinner enters the Wimbledon final against Alexander Zverev on a dominant streak, having lost just one set the entire grass court tournament.",
+        "url": "https://www.foxnews.com/outkick-sports/wimbledon-final-betting-tips-favor-jannik-sinner-sweep-alexander-zverev-top-players-meet-grass",
+        "publishedAt": "2026-07-12T13:47:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Netanyahu details 'final' conversation with Lindsey Graham, says senator challenged his push to end Israel aid",
+        "description": "Benjamin Netanyahu reveals Lindsey Graham refused to let Israel phase out U.S. military aid during what became one of their final conversations.",
+        "url": "https://www.foxnews.com/media/netanyahu-details-final-conversation-lindsey-graham-senator-challenged-push-end-israel-aid",
+        "publishedAt": "2026-07-12T13:10:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Sen Lindsey Graham dies unexpectedly | Fox News Video",
         "description": "Fox News senior medical analyst Dr. Marc Siegel discusses the unexpected death of Sen. Lindsey Graham, R-S.C.",
@@ -34,36 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "4"
-      },
-      {
-        "title": "Trump's ambitious energy bet could be a winning hand as the world burns more oil, gas than ever",
-        "description": "U.S. oil production hit a record 21.1 million barrels per day in 2025 as fossil fuels still supply 86% of global energy, a new report reveals.",
-        "url": "https://www.foxnews.com/politics/trumps-ambitious-energy-bet-winning-hand-world-burns-more-oil-gas-than-ever",
-        "publishedAt": "2026-07-12T10:00:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21.1"
-      },
-      {
-        "title": "HDFC Bank workforce drops by over 3,300 as operations automated",
-        "description": "As of March 31, the bank’s staff decreased to 211,178, with new hires down by 3,811, according to its annual report released Saturday",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-12/hdfc-bank-workforce-drops-by-over-3-300-as-operations-automated",
-        "publishedAt": "2026-07-12T07:19:52Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "How Bangladesh’s first nuclear power plant could reshape its energy future",
-        "description": "Bangladesh expects its first nuclear power plant to supply up to 15% of national electricity, strengthening energy security and reducing dependence on imported fossil fuels",
-        "url": "https://www.bloomberg.com/news/features/2026-07-12/bangladesh-s-nuclear-debut-tests-developing-world-s-atomic-ambitions",
-        "publishedAt": "2026-07-12T01:32:47Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
       }
     ],
     "news-korea-soc": [
