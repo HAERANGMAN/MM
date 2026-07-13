@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-13T19:06:01.476058+00:00",
+  "generated_at": "2026-07-13T20:23:10.088405+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "How Bangladesh’s first nuclear power plant could reshape its energy future",
-        "description": "Bangladesh expects its first nuclear power plant to supply up to 15% of national electricity, strengthening energy security and reducing dependence on imported fossil fuels",
-        "url": "https://www.bloomberg.com/news/features/2026-07-12/bangladesh-s-nuclear-debut-tests-developing-world-s-atomic-ambitions",
-        "publishedAt": "2026-07-12T01:32:47Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
