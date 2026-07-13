@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:46:00.956504+00:00",
+  "generated_at": "2026-07-13T19:06:01.476058+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Vintage photos reveal what grocery shopping looked like in the 1960s",
-        "description": "Vintage 1960s grocery ads show sirloin steak at 78 cents per pound, but adjusting for inflation reveals surprising truths about today's prices.",
-        "url": "https://www.foxnews.com/food-drink/vintage-photos-reveal-what-grocery-shopping-looked-like-1960s",
-        "publishedAt": "2026-07-12T16:31:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1960"
-      },
-      {
-        "title": "Katherine Heigl lists her Utah home for $10.6M as family prepares to downsize",
-        "description": "Katherine Heigl listed her 8,352-square-foot Utah Mountains home for $10.6 million as she and husband Josh Kelley look to downsize their estate.",
-        "url": "https://www.foxnews.com/entertainment/katherine-heigl-lists-her-utah-home-10-6m-family-prepares-downsize",
-        "publishedAt": "2026-07-12T16:00:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "New Germany sex-crime figures reignite migration fight as exploitation probe expands",
-        "description": "Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.",
-        "url": "https://www.foxnews.com/world/new-germany-sex-crime-figures-reignite-migration-fight-exploitation-probe-expands",
-        "publishedAt": "2026-07-12T14:00:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "751"
-      },
-      {
-        "title": "Wimbledon final betting tips favor Jannik Sinner to sweep Alexander Zverev as top players meet on grass",
-        "description": "Jannik Sinner enters the Wimbledon final against Alexander Zverev on a dominant streak, having lost just one set the entire grass court tournament.",
-        "url": "https://www.foxnews.com/outkick-sports/wimbledon-final-betting-tips-favor-jannik-sinner-sweep-alexander-zverev-top-players-meet-grass",
-        "publishedAt": "2026-07-12T13:47:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Netanyahu details 'final' conversation with Lindsey Graham, says senator challenged his push to end Israel aid",
-        "description": "Benjamin Netanyahu reveals Lindsey Graham refused to let Israel phase out U.S. military aid during what became one of their final conversations.",
-        "url": "https://www.foxnews.com/media/netanyahu-details-final-conversation-lindsey-graham-senator-challenged-push-end-israel-aid",
-        "publishedAt": "2026-07-12T13:10:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "How Bangladesh’s first nuclear power plant could reshape its energy future",
-        "description": "Bangladesh expects its first nuclear power plant to supply up to 15% of national electricity, strengthening energy security and reducing dependence on imported fossil fuels",
-        "url": "https://www.bloomberg.com/news/features/2026-07-12/bangladesh-s-nuclear-debut-tests-developing-world-s-atomic-ambitions",
-        "publishedAt": "2026-07-12T01:32:47Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump Administration Officials Remember Lindsey Graham: 'Devoted Public Servant'",
-        "description": "Several officials within the Trump administration remembered Sen. Lindsey Graham (R-SC) after his office shared that he died at the age of 71 from a \"brief and sudden illness,\" describing Graham as a \"devoted public servant\" and \"great American and Patriot.\"\n…",
-        "url": "https://www.breitbart.com/politics/2026/07/12/trump-administration-officials-remember-lindsey-graham-devoted-public-servant/",
-        "publishedAt": "2026-07-12T16:57:38Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "71"
-      },
-      {
-        "title": "Trump's ambitious energy bet could be a winning hand as the world burns more oil, gas than ever",
-        "description": "U.S. oil production hit a record 21.1 million barrels per day in 2025 as fossil fuels still supply 86% of global energy, a new report reveals.",
-        "url": "https://www.foxnews.com/politics/trumps-ambitious-energy-bet-winning-hand-world-burns-more-oil-gas-than-ever",
-        "publishedAt": "2026-07-12T10:00:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21.1"
-      },
-      {
-        "title": "How Bangladesh’s first nuclear power plant could reshape its energy future",
-        "description": "Bangladesh expects its first nuclear power plant to supply up to 15% of national electricity, strengthening energy security and reducing dependence on imported fossil fuels",
-        "url": "https://www.bloomberg.com/news/features/2026-07-12/bangladesh-s-nuclear-debut-tests-developing-world-s-atomic-ambitions",
-        "publishedAt": "2026-07-12T01:32:47Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak",
-        "description": "A second U.S. citizen tested positive for Ebola while working for a humanitarian organization in the Democratic Republic of the Congo amid the outbreak.",
-        "url": "https://www.foxnews.com/us/another-us-citizen-tests-positive-ebola-virus-working-congo-amid-record-outbreak",
-        "publishedAt": "2026-07-11T23:20:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "One Player Killed, Two Crowd Members Injured in Shooting at Harlem Basketball Tourney",
-        "description": "One player was killed and two crowd members were injured during a shooting at the Kingdome Basketball Tournament in Harlem about 10:30 p.m. Friday.\nThe post One Player Killed, Two Crowd Members Injured in Shooting at Harlem Basketball Tourney appeared first o…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/11/one-player-killed-two-crowd-members-injured-in-shooting-at-harlem-basketball-tourney/",
-        "publishedAt": "2026-07-11T19:32:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
