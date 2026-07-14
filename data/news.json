@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-07-14T22:08:12.846218+00:00",
+  "generated_at": "2026-07-14T23:09:35.133491+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "MLB's female ump leaves both teams fuming with odd calls, NASCAR wife hits the beach & Aaron Rodgers emerges!",
-        "description": "MLB umpire Jen Pawol managed to anger both teams in a single inning Sunday with a sequence that left announcers perplexed during Blue Jays-Padres.",
-        "url": "https://www.foxnews.com/outkick-sports/mlb-female-ump-leaves-both-teams-fuming-odd-calls-nascar-wife-hits-beach-aaron-rodgers-emerges",
-        "publishedAt": "2026-07-13T19:28:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Family shattered after 3-time deported illegal immigrant allegedly blew through stop sign, roiling House race",
-        "description": "A three-time deported illegal immigrant allegedly ran a stop sign and killed 6-year-old Calli Toler, igniting the border fight in North Carolina.",
-        "url": "https://www.foxnews.com/politics/family-shattered-after-3-time-deported-illegal-immigrant-allegedly-blew-through-stop-sign-roiling-house-race",
-        "publishedAt": "2026-07-13T18:39:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Europe bankrolls Putin's war machine even as NATO races to bolster defenses",
-        "description": "An analysis found 136 of 140 Yamal LNG cargoes went to EU ports in early 2026, worth roughly $6.8 billion despite Europe's Russian gas phaseout pledge.",
-        "url": "https://www.foxnews.com/politics/europe-bankrolls-putins-war-machine-even-nato-races-bolster-defenses",
-        "publishedAt": "2026-07-13T18:21:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "136"
-      },
-      {
-        "title": "Rep. Riley Moore: Legalized Migration Is Worse than Illegal Migration",
-        "description": "\"Legal immigration... in many ways, is actually worse than illegal immigration\" for ordinary Americans, Rep. Riley Moore (R-WV) told Breitbart News Saturday.\nThe post Rep. Riley Moore: Legalized Migration Is Worse than Illegal Migration appeared first on Brei…",
-        "url": "https://www.breitbart.com/economy/2026/07/13/rep-riley-moore-legalized-migration-is-worse-than-illegal-migration/",
-        "publishedAt": "2026-07-13T17:45:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mamdani ripped over record-high NYC rents with critics pointing to policy they say is fueling crisis",
-        "description": "Manhattan and Brooklyn median rents hit all-time highs as critics suggest immigration is putting pressure on the housing supply in the city.",
-        "url": "https://www.foxnews.com/politics/mamdani-ripped-over-record-high-nyc-rents-critics-pointing-policy-say-fueling-crisis",
-        "publishedAt": "2026-07-13T17:14:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump has 3 choices to define victory if he wants to beat Iran. None of them are easy",
-        "description": "Retaliation is not strategy. As CENTCOM strikes Iranian targets near the Strait of Hormuz, the nuclear question and oil prices remain unresolved.",
-        "url": "https://www.foxnews.com/opinion/trump-3-choices-define-victory-beat-iran-none-easy",
-        "publishedAt": "2026-07-13T13:00:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Exposed docs reveal why Tim Walz board awarded repeat child rapist pardon: ‘No future’",
-        "description": "Marco Rubio terminated the legal status of a convicted child rapist who received a full pardon from Tim Walz's board over deportation concerns.",
-        "url": "https://www.foxnews.com/politics/exposed-docs-reveal-why-tim-walz-board-awarded-repeat-child-rapist-pardon-no-future",
-        "publishedAt": "2026-07-13T10:00:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "U.S. Joins Philippines, 12 Others Demanding Beijing Respect Ruling Rejecting its South China Sea Claims",
-        "description": "The administration of President Donald Trump was among 14 countries publishing a joint statement on Sunday to mark the tenth anniversary of a ruling by the Permanent Court of Arbitration at The Hague that found China's claims to nearly the entire South China …",
-        "url": "https://www.breitbart.com/asia/2026/07/13/u-s-joins-philippines-12-others-demanding-beijing-respect-ruling-rejecting-its-south-china-sea-claims/",
-        "publishedAt": "2026-07-13T19:41:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "Hormuz Traffic Falls to Two-Month Low as Iran Attacks Shipping",
-        "description": "Ship tracking services and insurance brokers said on Monday that traffic through the Strait of Hormuz has fallen to the lowest level in two months after Iran attacked several commercial vessels with missiles and drones and the U.S. responded with waves of air…",
-        "url": "https://www.breitbart.com/economy/2026/07/13/hormuz-traffic-falls-to-two-month-low-as-iran-attacks-shipping/",
-        "publishedAt": "2026-07-13T18:03:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump administration probes UNRWA over alleged employment of 1,500 terrorists",
-        "description": "A senior U.S. official says the USAID OIG investigation picked up where the U.N. failed, examining UNRWA staff links to terrorism beyond Oct. 7.",
-        "url": "https://www.foxnews.com/world/trump-administration-probes-unrwa-over-alleged-employment-1500-terrorists",
-        "publishedAt": "2026-07-13T17:09:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "NEWT GINGRICH: Lindsey Graham’s legacy is one of courage and relentless patriotism",
-        "description": "Newt Gingrich reflects on his 32-year friendship with Lindsey Graham, from the Contract with America campaign to their shared fight for Ukraine.",
-        "url": "https://www.foxnews.com/opinion/newt-gingrich-lindsey-grahams-legacy-courage-relentless-patriotism",
-        "publishedAt": "2026-07-13T16:35:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "32"
-      },
-      {
-        "title": "One Person Dead After ICE-Involved Shooting in Maine",
-        "description": "One person is dead and details are scant following a Monday morning shooting that involved U.S. Immigration and Customs Agents (ICE) in Biddeford, Maine. The Portland Press Herald reported the incident occurred “at the corner of Pool and Hill streets.”\nThe po…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/13/one-person-dead-after-ice-involved-shooting-in-maine/",
-        "publishedAt": "2026-07-13T15:49:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
