@@ -1,137 +1,19 @@
 {
-  "generated_at": "2026-07-14T17:32:30.504632+00:00",
+  "generated_at": "2026-07-14T18:43:23.315588+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Mamdani ripped over record-high NYC rents with critics pointing to policy they say is fueling crisis",
-        "description": "Manhattan and Brooklyn median rents hit all-time highs as critics suggest immigration is putting pressure on the housing supply in the city.",
-        "url": "https://www.foxnews.com/politics/mamdani-ripped-over-record-high-nyc-rents-critics-pointing-policy-say-fueling-crisis",
-        "publishedAt": "2026-07-13T17:14:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tesla Robotaxi Miami launch comes with limits",
-        "description": "Tesla Robotaxi launches in Miami with a limited geofence covering only West Miami, Doral and Sweetwater, leaving out most major destinations.",
-        "url": "https://www.foxnews.com/tech/tesla-robotaxi-miami-launch-comes-limits",
-        "publishedAt": "2026-07-13T16:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Administration Cracks Down on Banks Lending To Illegal Aliens",
-        "description": "The crackdown on illegal immigration by the Trump administration now extends to bank lending that drove up home prices and put ownership out of reach for many Americans.\nThe post Trump Administration Cracks Down on Banks Lending To Illegal Aliens appeared fir…",
-        "url": "https://www.breitbart.com/economy/2026/07/13/lending-to-illegal-aliens-occ-regs/",
-        "publishedAt": "2026-07-13T14:33:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New York business group campaigns to end 'Prohibition-era' alcohol restrictions statewide",
-        "description": "The \"Cheers for Change\" campaign launched Sunday, targeting New York's Prohibition-era alcohol beverage control laws that restrict liquor license approvals.",
-        "url": "https://www.foxnews.com/media/new-york-business-group-campaigns-end-prohibition-era-alcohol-restrictions-statewide",
-        "publishedAt": "2026-07-13T14:08:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ukrainian prime minister resigns in Zelenskyy shake-up",
-        "description": "Yulia Svyrydenko resigned as Ukraine's prime minister, with Zelenskyy saying he offered her a new role in relations with a key international partner.",
-        "url": "https://www.foxnews.com/world/ukrainian-prime-minister-resigns-zelenskyy-shake-up",
-        "publishedAt": "2026-07-13T12:57:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump has 3 choices to define victory if he wants to beat Iran. None of them are easy",
-        "description": "Retaliation is not strategy. As CENTCOM strikes Iranian targets near the Strait of Hormuz, the nuclear question and oil prices remain unresolved.",
-        "url": "https://www.foxnews.com/opinion/trump-3-choices-define-victory-beat-iran-none-easy",
-        "publishedAt": "2026-07-13T13:00:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Exposed docs reveal why Tim Walz board awarded repeat child rapist pardon: ‘No future’",
-        "description": "Marco Rubio terminated the legal status of a convicted child rapist who received a full pardon from Tim Walz's board over deportation concerns.",
-        "url": "https://www.foxnews.com/politics/exposed-docs-reveal-why-tim-walz-board-awarded-repeat-child-rapist-pardon-no-future",
-        "publishedAt": "2026-07-13T10:00:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Trump administration probes UNRWA over alleged employment of 1,500 terrorists",
-        "description": "A senior U.S. official says the USAID OIG investigation picked up where the U.N. failed, examining UNRWA staff links to terrorism beyond Oct. 7.",
-        "url": "https://www.foxnews.com/world/trump-administration-probes-unrwa-over-alleged-employment-1500-terrorists",
-        "publishedAt": "2026-07-13T17:09:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "NEWT GINGRICH: Lindsey Graham’s legacy is one of courage and relentless patriotism",
-        "description": "Newt Gingrich reflects on his 32-year friendship with Lindsey Graham, from the Contract with America campaign to their shared fight for Ukraine.",
-        "url": "https://www.foxnews.com/opinion/newt-gingrich-lindsey-grahams-legacy-courage-relentless-patriotism",
-        "publishedAt": "2026-07-13T16:35:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "32"
-      },
-      {
-        "title": "One Person Dead After ICE-Involved Shooting in Maine",
-        "description": "One person is dead and details are scant following a Monday morning shooting that involved U.S. Immigration and Customs Agents (ICE) in Biddeford, Maine. The Portland Press Herald reported the incident occurred “at the corner of Pool and Hill streets.”\nThe po…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/13/one-person-dead-after-ice-involved-shooting-in-maine/",
-        "publishedAt": "2026-07-13T15:49:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran's Missing 'Supreme Leader' Vows Revenge Against Trump in Written Statement",
-        "description": "Mojtaba Khamenei, the official \"supreme leader\" of Iran and son of late dictator Ali Khamenei, allegedly published a written statement this weekend read aloud on state television vowing \"revenge\" against the United States.\nThe post Iran’s Missing ‘Supreme Lea…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/13/irans-missing-supreme-leader-vows-revenge-against-trump-in-written-statement/",
-        "publishedAt": "2026-07-13T14:36:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump has 3 choices to define victory if he wants to beat Iran. None of them are easy",
-        "description": "Retaliation is not strategy. As CENTCOM strikes Iranian targets near the Strait of Hormuz, the nuclear question and oil prices remain unresolved.",
-        "url": "https://www.foxnews.com/opinion/trump-3-choices-define-victory-beat-iran-none-easy",
-        "publishedAt": "2026-07-13T13:00:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
