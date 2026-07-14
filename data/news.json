@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-14T16:05:43.763621+00:00",
+  "generated_at": "2026-07-14T17:32:30.504632+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Mamdani ripped over record-high NYC rents with critics pointing to policy they say is fueling crisis",
+        "description": "Manhattan and Brooklyn median rents hit all-time highs as critics suggest immigration is putting pressure on the housing supply in the city.",
+        "url": "https://www.foxnews.com/politics/mamdani-ripped-over-record-high-nyc-rents-critics-pointing-policy-say-fueling-crisis",
+        "publishedAt": "2026-07-13T17:14:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Tesla Robotaxi Miami launch comes with limits",
         "description": "Tesla Robotaxi launches in Miami with a limited geofence covering only West Miami, Doral and Sweetwater, leaving out most major destinations.",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Senate returns to packed agenda after Graham's death shrinks GOP margin",
-        "description": "The SAVE America Act, FISA reauthorization, renewed Iran strikes, and government funding all await the Senate as it returns for a July sprint.",
-        "url": "https://www.foxnews.com/politics/senate-returns-packed-agenda-grahams-death-shrinks-gop-margin",
-        "publishedAt": "2026-07-13T11:00:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -80,6 +80,26 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Trump administration probes UNRWA over alleged employment of 1,500 terrorists",
+        "description": "A senior U.S. official says the USAID OIG investigation picked up where the U.N. failed, examining UNRWA staff links to terrorism beyond Oct. 7.",
+        "url": "https://www.foxnews.com/world/trump-administration-probes-unrwa-over-alleged-employment-1500-terrorists",
+        "publishedAt": "2026-07-13T17:09:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "NEWT GINGRICH: Lindsey Graham’s legacy is one of courage and relentless patriotism",
+        "description": "Newt Gingrich reflects on his 32-year friendship with Lindsey Graham, from the Contract with America campaign to their shared fight for Ukraine.",
+        "url": "https://www.foxnews.com/opinion/newt-gingrich-lindsey-grahams-legacy-courage-relentless-patriotism",
+        "publishedAt": "2026-07-13T16:35:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "32"
+      },
       {
         "title": "One Person Dead After ICE-Involved Shooting in Maine",
         "description": "One person is dead and details are scant following a Monday morning shooting that involved U.S. Immigration and Customs Agents (ICE) in Biddeford, Maine. The Portland Press Herald reported the incident occurred “at the corner of Pool and Hill streets.”\nThe po…",
@@ -109,26 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "3"
-      },
-      {
-        "title": "Forget politics. This is what I found helping Venezuelan quake victims",
-        "description": "The leader of Operation Blessing expected suspicion in Venezuela during earthquake relief but instead found resilient communities and deep warmth.",
-        "url": "https://www.foxnews.com/opinion/forget-politics-what-i-found-helping-venezuelan-quake-victims",
-        "publishedAt": "2026-07-13T11:00:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dire Strait: Iran Hits Oman, Bahrain, Jordan and Kuwait as It Again Claims Sole Control of Hormuz Waterway",
-        "description": "Missile and drone strikes hit a host of Gulf states near the Strait of Hormuz early Monday morning as Iran again claimed sole and enduring of the essential waterway. Oman, Bahrain, Jordan and Kuwait were amongst those to be targeted by Tehran.\nThe post Dire S…",
-        "url": "https://www.breitbart.com/europe/2026/07/13/iran-hits-oman-bahrain-jordan-and-kuwait-as-it-again-claims-sole-control-of-strait-of-hormuz/",
-        "publishedAt": "2026-07-13T09:33:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
