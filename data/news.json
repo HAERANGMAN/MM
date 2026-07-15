@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-15T21:43:33.465372+00:00",
+  "generated_at": "2026-07-15T22:41:28.489219+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Massive T. rex fossil roars to $50 million sale, becoming one of the priciest ever auctioned",
+        "description": "The T. rex nicknamed \"Gus\" shattered auction records after a 10-minute bidding war among seven bidders, but the debate over its future rages on.",
+        "url": "https://www.foxnews.com/us/massive-t-rex-fossil-roars-50-million-sale-becoming-one-priciest-ever-auctioned",
+        "publishedAt": "2026-07-14T22:33:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Disneyland Ranks as America's Least Affordable Theme Park",
+        "description": "Disneyland has been ranked as America's least affordable theme park in a new review of the bang park goers can expect for their vacation bucks.\nThe post Disneyland Ranks as America’s Least Affordable Theme Park appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/07/14/disneyland-ranks-as-americas-least-affordable-theme-park/",
+        "publishedAt": "2026-07-14T21:55:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Former GOP Champion Bill Kristol: 'Abolish ICE Now'",
         "description": "William Kristol, the NeverTrump icon and supporter of President George Bush, wants to destroy the Immigration and Customs Enforcement agency that enforces the nation's migration laws. \nThe post Former GOP Champion Bill Kristol: ‘Abolish ICE Now’ appeared firs…",
@@ -33,26 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "75"
-      },
-      {
-        "title": "Iran-Backed Houthis Threaten More Attacks After Saudis Hit Yemeni Airport",
-        "description": "The Iran-backed Houthi terrorist insurgents of Yemen on Monday condemned Saudi Arabia for allegedly bombing the airport in Yemen’s occupied capital city of Sanaa and launched missiles against Saudi targets to retaliate for the act of “blatant aggression.”\nThe…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/14/iran-backed-houthis-threaten-more-attacks-after-saudis-hit-yemeni-airport/",
-        "publishedAt": "2026-07-14T20:14:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mexican Government Sends Lawyers to Block ICE Deportations",
-        "description": "The Mexican government is using lawyers to block ICE's repatriation of migrant Mexicans back to Mexico, according to Reuters.\nThe post Mexican Government Sends Lawyers to Block ICE Deportations appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/immigration/2026/07/14/mexican-government-sends-lawyers-to-block-ice-deportations/",
-        "publishedAt": "2026-07-14T20:01:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
