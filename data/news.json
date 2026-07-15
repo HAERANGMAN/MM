@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-07-15T22:41:28.489219+00:00",
+  "generated_at": "2026-07-15T23:41:28.484600+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Massive T. rex fossil roars to $50 million sale, becoming one of the priciest ever auctioned",
-        "description": "The T. rex nicknamed \"Gus\" shattered auction records after a 10-minute bidding war among seven bidders, but the debate over its future rages on.",
-        "url": "https://www.foxnews.com/us/massive-t-rex-fossil-roars-50-million-sale-becoming-one-priciest-ever-auctioned",
-        "publishedAt": "2026-07-14T22:33:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Disneyland Ranks as America's Least Affordable Theme Park",
-        "description": "Disneyland has been ranked as America's least affordable theme park in a new review of the bang park goers can expect for their vacation bucks.\nThe post Disneyland Ranks as America’s Least Affordable Theme Park appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/07/14/disneyland-ranks-as-americas-least-affordable-theme-park/",
-        "publishedAt": "2026-07-14T21:55:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Former GOP Champion Bill Kristol: 'Abolish ICE Now'",
-        "description": "William Kristol, the NeverTrump icon and supporter of President George Bush, wants to destroy the Immigration and Customs Enforcement agency that enforces the nation's migration laws. \nThe post Former GOP Champion Bill Kristol: ‘Abolish ICE Now’ appeared firs…",
-        "url": "https://www.breitbart.com/economy/2026/07/14/former-gop-champion-bill-kristol-abolish-ice-now/",
-        "publishedAt": "2026-07-14T21:22:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: The Best Inflation Report in Modern History",
-        "description": "The June inflation report was even better than it looks.\nThe post Breitbart Business Digest: The Best Inflation Report in Modern History appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/07/14/breitbart-business-digest-the-best-inflation-report-in-modern-history/",
-        "publishedAt": "2026-07-14T21:22:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
-        "description": "Ro Khanna claims violent Israeli settlers detained his delegation for 75 minutes in the West Bank, and U.S. Ambassador to Israel Mike Huckabee angrily fired back.",
-        "url": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
-        "publishedAt": "2026-07-14T20:45:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "75"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Breitbart Business Digest: The Best Inflation Report in Modern History",
-        "description": "The June inflation report was even better than it looks.\nThe post Breitbart Business Digest: The Best Inflation Report in Modern History appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/07/14/breitbart-business-digest-the-best-inflation-report-in-modern-history/",
-        "publishedAt": "2026-07-14T21:22:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: Wall Streeter Urges Disney to Drop Stagnant Disney+",
-        "description": "Wells Fargo’s Steven Cahall believes the Disney Grooming Syndicate’s streaming service is why Disney’s stock price is a disaster.\nThe post Nolte: Wall Streeter Urges Disney to Drop Stagnant Disney+ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/07/14/nolte-wall-streeter-urges-disney-to-drop-stagnant-disney/",
-        "publishedAt": "2026-07-14T21:15:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
-        "description": "Ro Khanna claims violent Israeli settlers detained his delegation for 75 minutes in the West Bank, and U.S. Ambassador to Israel Mike Huckabee angrily fired back.",
-        "url": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
-        "publishedAt": "2026-07-14T20:45:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "75"
-      },
-      {
-        "title": "DOJ charges 3 Russians in alleged $63M cybercrime scheme targeting Americans",
-        "description": "Three Russian nationals allegedly ran bulletproof hosting firms that powered ransomware, malware, and phishing attacks on U.S. critical infrastructure.",
-        "url": "https://www.foxnews.com/politics/doj-charges-3-russians-alleged-63m-cybercrime-scheme-targeting-americans",
-        "publishedAt": "2026-07-14T18:47:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Iran Launches Deadly Attacks on Civilian Ships, Killing Indian Crewman",
-        "description": "Iran launched cruise missiles at two oil tankers in the Strait of Hormuz on Tuesday, killing one crew member and wounding eight others.\nThe post Iran Launches Deadly Attacks on Civilian Ships, Killing Indian Crewman appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/07/14/iran-launches-deadly-attacks-on-civilian-ships-killing-indian-crewman/",
-        "publishedAt": "2026-07-14T17:28:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
