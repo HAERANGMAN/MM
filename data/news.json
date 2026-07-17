@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-17T11:58:16.852929+00:00",
+  "generated_at": "2026-07-17T13:50:37.744345+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Asian refiners may be the surprise winners of fresh fuels crunch",
-        "description": "The situation represents a reversal of conditions faced by Asia in the early days of the US-Iran war, when the initial closure of the Hormuz cut off crude supplies, jolting processors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/asian-refiners-may-be-the-surprise-winners-of-fresh-fuels-crunch",
-        "publishedAt": "2026-07-16T10:15:57Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
