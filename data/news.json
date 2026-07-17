@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-17T04:24:47.205032+00:00",
+  "generated_at": "2026-07-17T06:36:31.023908+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "India steps up import substitution as geopolitical tensions expose supply chain risks",
+        "description": "The Modi government is preparing an import substitution plan covering 100+ products to boost domestic manufacturing and reduce dependence on China",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/modi-pushes-to-cut-import-reliance-to-shield-india-from-shocks",
+        "publishedAt": "2026-07-16T05:48:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "AI frenzy fills Asian airlines’ cargo bays with semiconductors",
+        "description": "Asian airlines are the latest beneficiaries of growing demand for AI servers and computer chips, creating a windfall that’s helping mitigate the surge in jet fuel costs.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/ai-frenzy-fills-asian-airlines-cargo-bays-with-semiconductors",
+        "publishedAt": "2026-07-16T05:00:27Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Vance warns there will be a 'socialist president in this country' if GOP doesn't fix economy for young people",
         "description": "Vice President JD Vance warned on Joe Rogan's podcast that 40 years of offshoring businesses, outsourcing jobs and low-wage immigration have driven young Americans toward socialism.",
@@ -33,31 +53,31 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hochul confronted on study showing millionaire exodus in New York City",
-        "description": "Gov. Kathy Hochul was pressed by \"Good Day New York\" host Rosanna Scotto on Wednesday about the study that found wealthy residents have left NYC in droves.",
-        "url": "https://www.foxnews.com/media/hochul-confronted-study-showing-millionaire-exodus-new-york-city",
-        "publishedAt": "2026-07-15T20:33:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Brendan Carr — FCC to Vote on Eliminating ‘Outdated’ Ownership Cap to Help Boost Local News Stations",
-        "description": "The Federal Communications Commission (FCC) is expected to vote next month on eliminating a rule that caps how many television stations one entity may own — a move FCC Chairman Brendan Carr said would help local news outlets fight back against being swallowed…",
-        "url": "https://www.breitbart.com/politics/2026/07/15/exclusive-brendan-carr-fcc-to-vote-on-eliminating-outdated-ownership-cap-to-help-boost-local-news-stations/",
-        "publishedAt": "2026-07-15T20:11:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "India steps up import substitution as geopolitical tensions expose supply chain risks",
+        "description": "The Modi government is preparing an import substitution plan covering 100+ products to boost domestic manufacturing and reduce dependence on China",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/modi-pushes-to-cut-import-reliance-to-shield-india-from-shocks",
+        "publishedAt": "2026-07-16T05:48:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "AI frenzy fills Asian airlines’ cargo bays with semiconductors",
+        "description": "Asian airlines are the latest beneficiaries of growing demand for AI servers and computer chips, creating a windfall that’s helping mitigate the surge in jet fuel costs.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/ai-frenzy-fills-asian-airlines-cargo-bays-with-semiconductors",
+        "publishedAt": "2026-07-16T05:00:27Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "India hikes diesel, ATF export taxes amid renewed US-Iran tensions",
         "description": "India has raised export taxes on diesel and jet fuel while cutting the gasoline levy as renewed US-Iran tensions tighten global fuel markets.  35-word social media lead text options",
@@ -85,26 +105,6 @@
         "publishedAt": "2026-07-15T23:25:39Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "JD Vance warns Joe Rogan a full Iran war would flood West with refugees, terrorists",
-        "description": "Vice President JD Vance told Joe Rogan that a Republican faction is trying to derail the Iran deal, warning of a refugee crisis if regime change occurs.",
-        "url": "https://www.foxnews.com/media/jd-vance-warns-joe-rogan-full-iran-war-would-flood-west-refugees-terrorists",
-        "publishedAt": "2026-07-15T20:50:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Taxidermied raccoons are seeing unprecedented demand thanks to Norwegian soccer star Erling Haaland",
-        "description": "Erling Haaland's taxidermied raccoon souvenir from the World Cup sparked a global demand surge that has Dallas' Wild Bill's Western Store sold out.",
-        "url": "https://www.foxnews.com/outkick-sports/taxidermied-raccoons-unprecedented-demand-norwegian-soccer-star-erling-haaland",
-        "publishedAt": "2026-07-15T20:08:12Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
