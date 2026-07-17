@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:40:54.828880+00:00",
+  "generated_at": "2026-07-17T11:58:16.852929+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Red state governors blast CNBC's 'worst states to live' list, point to booming population growth",
-        "description": "Republican governors slammed CNBC's quality of life rankings as biased, pointing to Census data showing massive domestic migration into their states.",
-        "url": "https://www.foxnews.com/media/red-state-governors-blast-cnbc-worst-states-live-list-point-booming-population-growth",
-        "publishedAt": "2026-07-16T10:30:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Asian refiners may be the surprise winners of fresh fuels crunch",
-        "description": "The situation represents a reversal of conditions faced by Asia in the early days of the US-Iran war, when the initial closure of the Hormuz cut off crude supplies, jolting processors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/asian-refiners-may-be-the-surprise-winners-of-fresh-fuels-crunch",
-        "publishedAt": "2026-07-16T10:15:57Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US strikes Iranian-linked oil tanker deep within Persian Gulf",
-        "description": "The operation so deep within the gulf, far from the Strait of Hormuz, may signal the US is widening the scope from its first blockade",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-strikes-iranian-linked-oil-tanker-deep-within-persian-gulf",
-        "publishedAt": "2026-07-16T10:12:04Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Billions in taxpayer income are leaving two iconic states — as a new economic map emerges",
-        "description": "All 10 counties with the largest net taxpayer losses are in California and New York, as Sun Belt migration accelerates amid high tax concerns.",
-        "url": "https://www.foxnews.com/politics/billions-taxpayer-income-leaving-two-iconic-states-new-economic-map-emerges",
-        "publishedAt": "2026-07-16T10:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Citigroup’s Indian clients shift focus to Rupee volatility",
-        "description": "Citigroup reports Indian clients are adapting strategies to profit from ongoing rupee volatility amid significant depreciation against the dollar.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/citi-india-clients-shift-focus-gain-rupee-volatility",
-        "publishedAt": "2026-07-16T09:21:34Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Asian refiners may be the surprise winners of fresh fuels crunch",
-        "description": "The situation represents a reversal of conditions faced by Asia in the early days of the US-Iran war, when the initial closure of the Hormuz cut off crude supplies, jolting processors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/asian-refiners-may-be-the-surprise-winners-of-fresh-fuels-crunch",
-        "publishedAt": "2026-07-16T10:15:57Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US strikes Iranian-linked oil tanker deep within Persian Gulf",
-        "description": "The operation so deep within the gulf, far from the Strait of Hormuz, may signal the US is widening the scope from its first blockade",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-strikes-iranian-linked-oil-tanker-deep-within-persian-gulf",
-        "publishedAt": "2026-07-16T10:12:04Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Citigroup’s Indian clients shift focus to Rupee volatility",
-        "description": "Citigroup reports Indian clients are adapting strategies to profit from ongoing rupee volatility amid significant depreciation against the dollar.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/citi-india-clients-shift-focus-gain-rupee-volatility",
-        "publishedAt": "2026-07-16T09:21:34Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China’s biggest IPO in recent years has global investors getting creative",
-        "description": "Unable to buy directly into ChangXin Memory Technologies Inc’s planned $9.8 billion listing because of various regulatory restrictions on participation in mainland IPOs, investors are finding backdoors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
-        "publishedAt": "2026-07-16T06:51:10Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "India steps up import substitution as geopolitical tensions expose supply chain risks",
-        "description": "The Modi government is preparing an import substitution plan covering 100+ products to boost domestic manufacturing and reduce dependence on China",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/modi-pushes-to-cut-import-reliance-to-shield-india-from-shocks",
-        "publishedAt": "2026-07-16T05:48:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
