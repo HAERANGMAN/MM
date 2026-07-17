@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-17T06:36:31.023908+00:00",
+  "generated_at": "2026-07-17T08:53:47.741047+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "China’s biggest IPO in recent years has global investors getting creative",
+        "description": "Unable to buy directly into ChangXin Memory Technologies Inc’s planned $9.8 billion listing because of various regulatory restrictions on participation in mainland IPOs, investors are finding backdoors",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
+        "publishedAt": "2026-07-16T06:51:10Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Microsoft gives salespeople tips to knock down Anthropic, OpenAI",
+        "description": "The world’s largest software company is pitching itself as a platform for corporations to fine-tune, deploy and monitor AI in their businesses",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
+        "publishedAt": "2026-07-16T06:49:24Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "India steps up import substitution as geopolitical tensions expose supply chain risks",
         "description": "The Modi government is preparing an import substitution plan covering 100+ products to boost domestic manufacturing and reduce dependence on China",
@@ -33,31 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "40"
-      },
-      {
-        "title": "Nevada Lt Gov: Elon Musk could make space tourism state's next big industry",
-        "description": "Lt. Gov. Stavros Anthony praised the Silver State's business environment, touting a bright future for sports, entertainment and space tourism.",
-        "url": "https://www.foxnews.com/politics/nevada-lt-gov-elon-musk-could-make-space-tourism-states-next-big-industry",
-        "publishedAt": "2026-07-16T00:18:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DOJ threatens criminal prosecution if publisher proceeds with Zachary Young spy memoir",
-        "description": "Zachary Young says the DOJ threat is \"a blatant intimidation tactic\" after HarperCollins paused his CIA memoir over prepublication review disputes.",
-        "url": "https://www.foxnews.com/media/doj-threatens-criminal-prosecution-publisher-proceeds-zachary-young-spy-memoir",
-        "publishedAt": "2026-07-15T21:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "China’s biggest IPO in recent years has global investors getting creative",
+        "description": "Unable to buy directly into ChangXin Memory Technologies Inc’s planned $9.8 billion listing because of various regulatory restrictions on participation in mainland IPOs, investors are finding backdoors",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
+        "publishedAt": "2026-07-16T06:51:10Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "India steps up import substitution as geopolitical tensions expose supply chain risks",
         "description": "The Modi government is preparing an import substitution plan covering 100+ products to boost domestic manufacturing and reduce dependence on China",
@@ -95,16 +105,6 @@
         "publishedAt": "2026-07-16T01:00:46Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Secretary Bessent to Reveal Treasury’s Financial Crackdown Plans on ‘Transnational Political Terrorism’",
-        "description": "Treasury Secretary Scott Bessent will reveal the U.S. Treasury Department’s plans to crack down on the finances behind “transnational political terrorism” during an address to dignitaries gathered at the U.S. State Department on Thursday, Breitbart News has l…",
-        "url": "https://www.breitbart.com/politics/2026/07/15/exclusive-secretary-bessent-to-reveal-treasurys-financial-crackdown-plans-on-transnational-political-terrorism/",
-        "publishedAt": "2026-07-15T23:25:39Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
