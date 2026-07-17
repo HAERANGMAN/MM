@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-17T01:10:26.365929+00:00",
+  "generated_at": "2026-07-17T04:24:47.205032+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Vance warns there will be a 'socialist president in this country' if GOP doesn't fix economy for young people",
+        "description": "Vice President JD Vance warned on Joe Rogan's podcast that 40 years of offshoring businesses, outsourcing jobs and low-wage immigration have driven young Americans toward socialism.",
+        "url": "https://www.foxnews.com/media/vance-warns-socialist-president-country-gop-doesnt-fix-economy-young-people",
+        "publishedAt": "2026-07-16T01:25:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "Nevada Lt Gov: Elon Musk could make space tourism state's next big industry",
+        "description": "Lt. Gov. Stavros Anthony praised the Silver State's business environment, touting a bright future for sports, entertainment and space tourism.",
+        "url": "https://www.foxnews.com/politics/nevada-lt-gov-elon-musk-could-make-space-tourism-states-next-big-industry",
+        "publishedAt": "2026-07-16T00:18:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DOJ threatens criminal prosecution if publisher proceeds with Zachary Young spy memoir",
+        "description": "Zachary Young says the DOJ threat is \"a blatant intimidation tactic\" after HarperCollins paused his CIA memoir over prepublication review disputes.",
+        "url": "https://www.foxnews.com/media/doj-threatens-criminal-prosecution-publisher-proceeds-zachary-young-spy-memoir",
+        "publishedAt": "2026-07-15T21:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hochul confronted on study showing millionaire exodus in New York City",
+        "description": "Gov. Kathy Hochul was pressed by \"Good Day New York\" host Rosanna Scotto on Wednesday about the study that found wealthy residents have left NYC in droves.",
+        "url": "https://www.foxnews.com/media/hochul-confronted-study-showing-millionaire-exodus-new-york-city",
+        "publishedAt": "2026-07-15T20:33:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: Brendan Carr — FCC to Vote on Eliminating ‘Outdated’ Ownership Cap to Help Boost Local News Stations",
+        "description": "The Federal Communications Commission (FCC) is expected to vote next month on eliminating a rule that caps how many television stations one entity may own — a move FCC Chairman Brendan Carr said would help local news outlets fight back against being swallowed…",
+        "url": "https://www.breitbart.com/politics/2026/07/15/exclusive-brendan-carr-fcc-to-vote-on-eliminating-outdated-ownership-cap-to-help-boost-local-news-stations/",
+        "publishedAt": "2026-07-15T20:11:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "India hikes diesel, ATF export taxes amid renewed US-Iran tensions",
+        "description": "India has raised export taxes on diesel and jet fuel while cutting the gasoline levy as renewed US-Iran tensions tighten global fuel markets.  35-word social media lead text options",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/india-raises-export-levies-on-diesel-and-jet-fuel",
+        "publishedAt": "2026-07-16T02:55:16Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "35"
+      },
+      {
+        "title": "Maher skewers wealthy celebs who preached 'we're all in it together' during COVID as Americans struggled",
+        "description": "\"Club Random\" host Bill Maher called liberal celebrities \"posers\" for claiming \"we're all in it together\" while they stayed at home and had the other half of America deliver their food.",
+        "url": "https://www.foxnews.com/media/maher-skewers-wealthy-celebs-preached-together-during-covid-americans-struggled",
+        "publishedAt": "2026-07-16T01:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive — Secretary Bessent to Reveal Treasury’s Financial Crackdown Plans on ‘Transnational Political Terrorism’",
+        "description": "Treasury Secretary Scott Bessent will reveal the U.S. Treasury Department’s plans to crack down on the finances behind “transnational political terrorism” during an address to dignitaries gathered at the U.S. State Department on Thursday, Breitbart News has l…",
+        "url": "https://www.breitbart.com/politics/2026/07/15/exclusive-secretary-bessent-to-reveal-treasurys-financial-crackdown-plans-on-transnational-political-terrorism/",
+        "publishedAt": "2026-07-15T23:25:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "JD Vance warns Joe Rogan a full Iran war would flood West with refugees, terrorists",
+        "description": "Vice President JD Vance told Joe Rogan that a Republican faction is trying to derail the Iran deal, warning of a refugee crisis if regime change occurs.",
+        "url": "https://www.foxnews.com/media/jd-vance-warns-joe-rogan-full-iran-war-would-flood-west-refugees-terrorists",
+        "publishedAt": "2026-07-15T20:50:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Taxidermied raccoons are seeing unprecedented demand thanks to Norwegian soccer star Erling Haaland",
+        "description": "Erling Haaland's taxidermied raccoon souvenir from the World Cup sparked a global demand surge that has Dallas' Wild Bill's Western Store sold out.",
+        "url": "https://www.foxnews.com/outkick-sports/taxidermied-raccoons-unprecedented-demand-norwegian-soccer-star-erling-haaland",
+        "publishedAt": "2026-07-15T20:08:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
