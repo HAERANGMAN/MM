@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:10:40.496283+00:00",
+  "generated_at": "2026-07-18T10:40:08.310737+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -21,20 +21,30 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Asian refiners may be the surprise winners of fresh fuels crunch",
-        "description": "The situation represents a reversal of conditions faced by Asia in the early days of the US-Iran war, when the initial closure of the Hormuz cut off crude supplies, jolting processors",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/asian-refiners-may-be-the-surprise-winners-of-fresh-fuels-crunch",
-        "publishedAt": "2026-07-16T10:15:57Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Zepto is said to face sharply lower valuation for IPO",
+        "description": "Foreign investors value the company at around $4.5 billion, while some domestic institutional investors estimate it between $3 billion and $3.5 billion",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/zepto-is-said-to-face-sharply-lower-valuation-for-india-ipo",
+        "publishedAt": "2026-07-17T10:27:17Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Think your state is expensive? New data reveals where Americans face the highest cost-of-living",
+        "description": "Housing costs drive massive differences in state affordability, with Hawaii's housing index topping 300 while the South dominates the cheapest list.",
+        "url": "https://www.foxnews.com/politics/think-your-state-expensive-new-data-reveals-where-americans-face-highest-cost-of-living",
+        "publishedAt": "2026-07-17T10:00:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "300"
+      },
       {
         "title": "Socialism’s rise inside the Democratic Party now threatens the American Dream",
         "description": "Socialist candidates backed by Zohran Mamdani defeated incumbent Democrats in New York primaries and it didn't stop there",
@@ -60,26 +70,6 @@
         "description": "Technology stocks have come under pressure in recent weeks as investors increasingly question whether this year’s blistering AI-driven rally has run too far, too fast",
         "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
         "publishedAt": "2026-07-17T04:58:25Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bank earnings ahead: What should investors keep an eye out for amid margin boost hopes, leadership changes?",
-        "description": "Foreign currency deposits from non-residents should improve liquidity after the RBI said it would bear the cost of currency hedging, says Nomura",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-17/hdfc-bank-icici-bank-eye-fx-deposits-for-margin-boost",
-        "publishedAt": "2026-07-17T04:07:58Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gold is set for weekly fall amid West Asia tensions. What’s ahead?",
-        "description": "Gold prices face weekly losses amid rising Fed-hike bets, driven by renewed Middle East tensions and inflation concerns.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets",
-        "publishedAt": "2026-07-17T03:34:07Z",
         "source": {
           "name": "Bloomberg"
         },
