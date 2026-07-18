@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T10:40:08.310737+00:00",
+  "generated_at": "2026-07-18T11:36:33.466169+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,144 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Zepto is said to face sharply lower valuation for IPO",
-        "description": "Foreign investors value the company at around $4.5 billion, while some domestic institutional investors estimate it between $3 billion and $3.5 billion",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-17/zepto-is-said-to-face-sharply-lower-valuation-for-india-ipo",
-        "publishedAt": "2026-07-17T10:27:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Think your state is expensive? New data reveals where Americans face the highest cost-of-living",
-        "description": "Housing costs drive massive differences in state affordability, with Hawaii's housing index topping 300 while the South dominates the cheapest list.",
-        "url": "https://www.foxnews.com/politics/think-your-state-expensive-new-data-reveals-where-americans-face-highest-cost-of-living",
-        "publishedAt": "2026-07-17T10:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "300"
-      },
-      {
-        "title": "Socialism’s rise inside the Democratic Party now threatens the American Dream",
-        "description": "Socialist candidates backed by Zohran Mamdani defeated incumbent Democrats in New York primaries and it didn't stop there",
-        "url": "https://www.foxnews.com/opinion/socialisms-rise-inside-democratic-party-threatens-american-dream",
-        "publishedAt": "2026-07-17T09:00:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NSE stock draws rare ‘Sell’ call ahead of long-awaited IPO debut",
-        "description": "Analyst recommendations on unlisted companies are uncommon in India and globally, making the call stand out ahead of listing of its shares on rival bourse",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-17/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut",
-        "publishedAt": "2026-07-17T06:01:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stocks drop as chip selloff deepens, crude oil prices climb: Markets Wrap",
-        "description": "Technology stocks have come under pressure in recent weeks as investors increasingly question whether this year’s blistering AI-driven rally has run too far, too fast",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
-        "publishedAt": "2026-07-17T04:58:25Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump in White House Address: Classified Documents Show Election Interference from China, Major Election Vulnerabilities",
-        "description": "President Donald Trump on Thursday unveiled a bombshell tranche of files he emphasized detail China's interference in American elections, particularly in 2020, as well as major election vulnerabilities.\nThe post Trump in White House Address: Classified Docume…",
-        "url": "https://www.breitbart.com/politics/2026/07/16/trump-classified-documents-show-election-interference-china-major-election-vulnerabilities/",
-        "publishedAt": "2026-07-17T04:31:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2020"
-      },
-      {
-        "title": "Trump Calls on FBI to Investigate 'Significant Evidence of Fraud' in Michigan 2020 Election, Releases Declassified Files",
-        "description": "President Donald Trump has called on the Department of Justice (DOJ) to investigate alleged voter fraud in Michigan during the 2020 election, revealing during his Thursday night address that the FBI uncovered criminal activity in a probe that was \"killed\" by …",
-        "url": "https://www.breitbart.com/politics/2026/07/16/trump-calls-fbi-investigate-significant-evidence-fraud-michigan-2020-election/",
-        "publishedAt": "2026-07-17T04:15:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2020"
-      },
-      {
-        "title": "New York Times Praises Wikipedia Owner’s Obama Stooge CEO, Smears Site Critics",
-        "description": "The New York Times has published a piece about Bernadette Meehan, who this year became CEO of the Wikimedia Foundation, which owns Wikipedia. The article praised Meehan’s background in diplomacy, serving primarily during the Obama and Biden administrations, a…",
-        "url": "https://www.breitbart.com/tech/2026/07/16/new-york-times-praises-wikipedia-owners-obama-stooge-ceo-smears-site-critics/",
-        "publishedAt": "2026-07-16T13:16:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "India visa services disrupted in Australia, Singapore after tender dispute",
-        "description": "India's visa services face disruptions in Australia and Singapore after a court ordered fresh bidding due to evaluation flaws.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/india-court-voids-visa-services-tenders-in-australia-singapore",
-        "publishedAt": "2026-07-17T09:06:30Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "I've studied military strategy. Trump now faces Iran's oldest battlefield trick",
-        "description": "Iran's strategy targets the Strait of Hormuz and Bab el-Mandeb to widen the board, betting that each U.S. strike multiplies Washington's burdens.",
-        "url": "https://www.foxnews.com/opinion/studied-military-strategy-trump-faces-irans-oldest-battlefield-trick",
-        "publishedAt": "2026-07-17T09:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Manipal Hospitals said to cut valuation to $8.3 billion in IPO",
-        "description": "The Temasek Holdings-backed company is planning to raise as much as ₹11,000 crore through a share sale that’s likely to be launched in the week starting July 27",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-17/manipal-hospitals-said-to-cut-valuation-to-8-3-billion-in-ipo",
-        "publishedAt": "2026-07-17T08:03:03Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "NSE stock draws rare ‘Sell’ call ahead of long-awaited IPO debut",
-        "description": "Analyst recommendations on unlisted companies are uncommon in India and globally, making the call stand out ahead of listing of its shares on rival bourse",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-17/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut",
-        "publishedAt": "2026-07-17T06:01:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global interest in GIFT City is booming: JPMorgan says in talks with 100 multinationals",
-        "description": "JPMorgan engages over 100 multinationals exploring financial solutions in India's GIFT City, reflecting rising interest in the financial hub.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-17/jpmorgan-in-talks-with-100-multinationals-for-india-finance-hub",
-        "publishedAt": "2026-07-17T04:33:02Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
