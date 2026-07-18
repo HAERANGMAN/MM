@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:36:33.466169+00:00",
+  "generated_at": "2026-07-18T12:34:21.923388+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,17 +24,134 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "AI Executives Fear Rising Threat of Violence, Invest in Armed Security",
+        "description": "Violent threats and security incidents aimed at AI companies and their leadership have surged dramatically in recent months, prompting major investments in executive protection and armed security.\nThe post AI Executives Fear Rising Threat of Violence, Invest …",
+        "url": "https://www.breitbart.com/tech/2026/07/17/ai-executives-fear-rising-threat-of-violence-invest-in-armed-security/",
+        "publishedAt": "2026-07-17T12:20:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Elon Musk's SpaceX Scrubs Starship Test Flight Due to Engine Ignition Failure",
+        "description": "Elon Musk's SpaceX aborted a planned test flight of its Starship rocket Thursday when several of the Super Heavy booster's engines failed to ignite during the final countdown sequence at the company's South Texas launch facility.\nThe post Elon Musk’s SpaceX S…",
+        "url": "https://www.breitbart.com/tech/2026/07/17/elon-musks-spacex-scrubs-starship-test-flight-due-to-engine-ignition-failure/",
+        "publishedAt": "2026-07-17T12:05:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "1,740-year-old Roman coin bearing emperor's name found as England rail dig reveals clues",
+        "description": "A rare Roman coin bearing the name of Emperor Carausius was found alongside evidence of an ancient settlement during East West Rail excavations.",
+        "url": "https://www.foxnews.com/travel/1740-year-old-roman-coin-bearing-emperors-name-found-england-rail-dig-reveals-clues",
+        "publishedAt": "2026-07-17T12:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "California county approves reparations plan as neighboring school district 'Black Thriving' effort stalls",
+        "description": "Alameda County approved a sweeping reparations plan focused on housing and criminal justice reform as Oakland Unified faces criticism for stalled promises.",
+        "url": "https://www.foxnews.com/media/alameda-county-approves-reparations-plan-neighboring-oakland-school-district-effort-stalls",
+        "publishedAt": "2026-07-17T11:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Maine Democrats recycle Platner's far-left talking points in scramble to replace disgraced ex-nominee",
+        "description": "Four Democrats vying to replace Graham Platner in the Maine Senate race echoed his stances on abolishing ICE, Gaza genocide, and healthcare.",
+        "url": "https://www.foxnews.com/politics/maine-democrats-recycle-platners-far-left-talking-points-scramble-replace-disgraced-nominee",
+        "publishedAt": "2026-07-17T11:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Trump in White House Address: Classified Documents Show Election Interference from China, Major Election Vulnerabilities",
+        "description": "President Donald Trump on Thursday unveiled a bombshell tranche of files he emphasized detail China's interference in American elections, particularly in 2020, as well as major election vulnerabilities.\nThe post Trump in White House Address: Classified Docume…",
+        "url": "https://www.breitbart.com/politics/2026/07/16/trump-classified-documents-show-election-interference-china-major-election-vulnerabilities/",
+        "publishedAt": "2026-07-17T04:31:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2020"
+      },
+      {
+        "title": "Trump Calls on FBI to Investigate 'Significant Evidence of Fraud' in Michigan 2020 Election, Releases Declassified Files",
+        "description": "President Donald Trump has called on the Department of Justice (DOJ) to investigate alleged voter fraud in Michigan during the 2020 election, revealing during his Thursday night address that the FBI uncovered criminal activity in a probe that was \"killed\" by …",
+        "url": "https://www.breitbart.com/politics/2026/07/16/trump-calls-fbi-investigate-significant-evidence-fraud-michigan-2020-election/",
+        "publishedAt": "2026-07-17T04:15:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2020"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Every controversy surrounding Christopher Nolan's 'The Odyssey' from casting to costumes",
+        "description": "Christopher Nolan's \"The Odyssey\" faces casting debates, historical accuracy criticism, and dialogue backlash, but experts say buzz may boost box office.",
+        "url": "https://www.foxnews.com/entertainment/every-controversy-surrounding-christopher-nolans-odyssey-casting-costumes",
+        "publishedAt": "2026-07-17T12:00:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gas Prices Will Stay Higher for Longer, Even if Oil Falls",
+        "description": "Refining capacity is strained, and fuel markets don’t have much of a buffer.",
+        "url": "https://www.wsj.com/business/energy-oil/gas-prices-will-stay-higher-for-longer-even-if-oil-falls-93b61566",
+        "publishedAt": "2026-07-17T09:30:00Z",
+        "source": {
+          "name": "The Wall Street Journal"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India visa services disrupted in Australia, Singapore after tender dispute",
+        "description": "India's visa services face disruptions in Australia and Singapore after a court ordered fresh bidding due to evaluation flaws.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/india-court-voids-visa-services-tenders-in-australia-singapore",
+        "publishedAt": "2026-07-17T09:06:30Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "I've studied military strategy. Trump now faces Iran's oldest battlefield trick",
+        "description": "Iran's strategy targets the Strait of Hormuz and Bab el-Mandeb to widen the board, betting that each U.S. strike multiplies Washington's burdens.",
+        "url": "https://www.foxnews.com/opinion/studied-military-strategy-trump-faces-irans-oldest-battlefield-trick",
+        "publishedAt": "2026-07-17T09:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Manipal Hospitals said to cut valuation to $8.3 billion in IPO",
+        "description": "The Temasek Holdings-backed company is planning to raise as much as ₹11,000 crore through a share sale that’s likely to be launched in the week starting July 27",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/manipal-hospitals-said-to-cut-valuation-to-8-3-billion-in-ipo",
+        "publishedAt": "2026-07-17T08:03:03Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
