@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-18T15:08:43.579147+00:00",
+  "generated_at": "2026-07-18T16:09:19.208306+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump in White House Address: Classified Documents Show Election Interference from China, Major Election Vulnerabilities",
-        "description": "President Donald Trump on Thursday unveiled a bombshell tranche of files he emphasized detail China's interference in American elections, particularly in 2020, as well as major election vulnerabilities.\nThe post Trump in White House Address: Classified Docume…",
-        "url": "https://www.breitbart.com/politics/2026/07/16/trump-classified-documents-show-election-interference-china-major-election-vulnerabilities/",
-        "publishedAt": "2026-07-17T04:31:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2020"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
