@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-07-19T18:10:34.381263+00:00",
+  "generated_at": "2026-07-19T19:31:23.576219+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Dolly Parton's California retreat with wig room and Dollywood birdhouse lists for $1.95M",
-        "description": "Dolly Parton's former Solvang hideaway hits the market at $1.95 million, featuring a wig room, stained glass and three distinct homes on the property.",
-        "url": "https://www.foxnews.com/entertainment/dolly-partons-california-retreat-wig-room-dollywood-birdhouse-lists-1-95m",
-        "publishedAt": "2026-07-18T16:00:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "HalluSquatting AI attack could hijack your computer",
-        "description": "HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.",
-        "url": "https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer",
-        "publishedAt": "2026-07-18T16:00:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Polis: Socialism 'a Tool to Further Exploit People'",
-        "description": "On Friday’s broadcast of CNN’s “Laura Coates Live,” Colorado Gov. Jared Polis (D) stated that “socialism is a tool to further exploit people. By putting the government and the power of the economy together, you’re preventing that counterbalance that governmen…",
-        "url": "https://www.breitbart.com/clips/2026/07/18/polis-socialism-a-tool-to-further-exploit-people/",
-        "publishedAt": "2026-07-18T15:00:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Weight-loss drugs may improve job prospects and dating odds for one group",
-        "description": "A weight-loss specialist says GLP-1 results boost confidence in job interviews and dating, but the study found no clear improvement in well-being.",
-        "url": "https://www.foxnews.com/health/weight-loss-drugs-may-improve-job-prospects-dating-odds-one-group",
-        "publishedAt": "2026-07-18T13:00:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
-        "description": "Andy Burnham condemned Margaret Thatcher's legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
-        "url": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
-        "publishedAt": "2026-07-18T11:38:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Ousted Squad Dem stumps with radical activist who defended Hamas, promoted political violence",
-        "description": "Ex-Squad member seeking comeback bid campaigns with self-described Maoist activist who has praised flag burning, urged leftists not to disavow Hamas or Hezbollah and called to 'unmake' America.",
-        "url": "https://www.foxnews.com/politics/ousted-squad-dem-stumps-maoist-who-defended-terrorists-promoted-violence-wants-unmake-america",
-        "publishedAt": "2026-07-18T16:30:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Why KFC stopped calling itself Kentucky Fried Chicken — and the myths that still won't die",
-        "description": "The 1991 name change from Kentucky Fried Chicken to KFC sparked wild myths, but the real reason involved declining earnings and the word \"fried.\"",
-        "url": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die",
-        "publishedAt": "2026-07-18T16:14:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1991"
-      },
-      {
-        "title": "Martha Stewart Boasts of Her Luxury EV's Ability to Filter Canadian Wildfire Smoke While Sowing Fear About Global Warming",
-        "description": "Martha Stewart is getting mocked for her comments on Canadian wildfires polluting large swathes of the United States, as she spreads fear about \"global warming\" causing mass deaths -- while also boasting about the capabilities of her luxury vehicle.\nThe post …",
-        "url": "https://www.breitbart.com/entertainment/2026/07/18/martha-stewart-boasts-of-her-luxury-evs-ability-to-filter-canadian-wildfire-smoke-while-sowing-fear-about-global-warming/",
-        "publishedAt": "2026-07-18T13:19:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Federal employees can download TikTok on government devices after ByteDance's divestiture, DOJ says",
-        "description": "A DOJ memo reversed the 2022 ban after ByteDance transferred TikTok's U.S. operations and user data to a majority American-owned joint venture.",
-        "url": "https://www.foxnews.com/us/federal-employees-can-download-tiktok-government-devices-after-bytedances-divestiture-doj-says",
-        "publishedAt": "2026-07-18T12:55:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2022"
-      },
-      {
-        "title": "Mike Waltz, Tim Tebow launch effort to combat online child exploitation: 'It's happening in their backyard'",
-        "description": "Tim Tebow warns parents that online child predators are \"in their backyard\" as former football star and U.N. Ambassador Mike Waltz unveil a new global anti-exploitation effort.",
-        "url": "https://www.foxnews.com/politics/mike-waltz-tim-tebow-launch-effort-combat-online-child-exploitation-happening-their-backyard",
-        "publishedAt": "2026-07-18T10:30:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
