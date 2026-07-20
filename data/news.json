@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T18:24:29.865685+00:00",
+  "generated_at": "2026-07-20T20:05:28.427572+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Dems Blame Trump for Recalled Mexican Lettuce Causing Diarrhea",
+        "description": "A voluntary recall was issued for iceberg lettuce distributed to 27 states that has been linked to an “explosive diarrhea” parasite.",
+        "url": "https://www.breitbart.com/health/2026/07/19/democrats-blame-trump-for-recalled-mexican-lettuce-causing-explosive-diarrhea/",
+        "publishedAt": "2026-07-19T19:51:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "27"
+      },
+      {
         "title": "Two Dead in Ashville Shooting, 'Suspects Are Unaccounted For'",
         "description": "Two people are dead and numerous others injured following a Sunday morning Ashville, North Carolina, shooting in which the “suspects are unaccounted for,” according to FOX Carolina. The incident occurred around 2:20 a.m. and police were not able to apprehend\n…",
         "url": "https://www.breitbart.com/2nd-amendment/2026/07/19/two-dead-in-ashville-shooting-suspects-are-unaccounted-for/",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Would this survival pod make you feel safer?",
-        "description": "LifePods survival capsules from Momentum Technologies offer flood, ballistic and earthquake protection starting around $27,000 before shipping costs.",
-        "url": "https://www.foxnews.com/tech/survival-pod-make-feel-safer",
-        "publishedAt": "2026-07-19T11:48:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ]
   },
