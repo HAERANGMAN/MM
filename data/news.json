@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-20T16:17:32.622557+00:00",
+  "generated_at": "2026-07-20T18:24:29.865685+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "'Let's brew it in the United States': Teamsters target Modelo and Corona in push for Mexican beer tariffs",
+        "description": "The Teamsters are pushing Trump to impose tariffs as high as 75% on Mexican beer imports like Modelo and Corona to protect U.S. brewery jobs.",
+        "url": "https://www.foxnews.com/politics/lets-brew-united-states-teamsters-target-modelo-corona-push-mexican-beer-tariffs",
+        "publishedAt": "2026-07-19T17:28:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "75"
+      },
+      {
+        "title": "Anthropic Moves Closer to AI Mega-IPO as Bankers Line Up Investor Meetings",
+        "description": "AI startup Anthropic is scheduling investor meetings ahead of a possible IPO, advancing preparations for what could be one of the year's most significant technology listings after Elon Musk's blockbuster SpaceX public offering.\nThe post Anthropic Moves Closer…",
+        "url": "https://www.breitbart.com/tech/2026/07/19/anthropic-moves-closer-to-ai-mega-ipo-as-bankers-line-up-investor-meetings/",
+        "publishedAt": "2026-07-19T17:00:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Helen Mirren re-lists historic Hollywood Hills estate after $6.5M price slash",
+        "description": "Helen Mirren and Taylor Hackford's 6.5-acre compound, built in 1911 for a silent film star, carries over a century of Old Hollywood legacy.",
+        "url": "https://www.foxnews.com/entertainment/helen-mirren-relists-historic-hollywood-hills-estate-6-5m-price-slash",
+        "publishedAt": "2026-07-19T16:00:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Fetterman says he would 're-evaluate' affiliation with Dems over anti-Israel policy | Fox News Video",
+        "description": "Sen. John Fetterman, D-Pa., expresses concern over the Democratic Party's changing stance on Israel on 'Sunday Morning Futures.'",
+        "url": "https://www.foxnews.com/video/6401562336112",
+        "publishedAt": "2026-07-19T15:29:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Christian Pastors Are Using AI to Write Sermons Sparking Debate in Congregrations",
+        "description": "A growing number of Christian religious leaders are incorporating AI tools into their sermon writing process, sparking a contentious debate within religious communities about the appropriate boundaries for technology in spiritual leadership. AI's reach contin…",
+        "url": "https://www.breitbart.com/tech/2026/07/19/christian-pastors-are-using-ai-to-write-sermons-sparking-debate-in-congregrations/",
+        "publishedAt": "2026-07-19T14:40:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Two Dead in Ashville Shooting, 'Suspects Are Unaccounted For'",
+        "description": "Two people are dead and numerous others injured following a Sunday morning Ashville, North Carolina, shooting in which the “suspects are unaccounted for,” according to FOX Carolina. The incident occurred around 2:20 a.m. and police were not able to apprehend\n…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/19/two-dead-in-ashville-shooting-suspects-are-unaccounted-for/",
+        "publishedAt": "2026-07-19T17:57:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Chicago: At Least 11 Shot Friday into Saturday Afternoon",
+        "description": "At least 11 people were shot, two of them fatally, Friday into Saturday afternoon in Democrat-run Chicago, Illinois.\nThe post Chicago: At Least 11 Shot Friday into Saturday Afternoon appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/19/chicago-at-least-11-shot-friday-into-saturday-afternoon/",
+        "publishedAt": "2026-07-19T17:28:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "11"
+      },
+      {
+        "title": "Trump administration touts more than $1B in UN budget cuts as reform push gains momentum",
+        "description": "The Trump administration says it secured over $1 billion in U.N. budget cuts in six months, including a $550 million peacekeeping budget reduction.",
+        "url": "https://www.foxnews.com/world/trump-administration-touts-1-billion-un-budget-cuts-reform-push-gains-momentum",
+        "publishedAt": "2026-07-19T16:24:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Europe's fires reveal deadly mix of record heat, human error, arson and land mismanagement",
+        "description": "Record heat has fueled Europe's devastating wildfires, but experts say human error, suspected arson and land management have also played a major role in this summer's destruction.",
+        "url": "https://www.foxnews.com/world/europes-fires-reveal-deadly-mix-record-heat-human-error-arson-land-mismanagement",
+        "publishedAt": "2026-07-19T16:11:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Would this survival pod make you feel safer?",
+        "description": "LifePods survival capsules from Momentum Technologies offer flood, ballistic and earthquake protection starting around $27,000 before shipping costs.",
+        "url": "https://www.foxnews.com/tech/survival-pod-make-feel-safer",
+        "publishedAt": "2026-07-19T11:48:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
