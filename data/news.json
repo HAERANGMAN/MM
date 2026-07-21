@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-21T21:42:58.740076+00:00",
+  "generated_at": "2026-07-21T22:38:46.786922+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Unknown ‘Mediators’ Reportedly Float 10-Day Ceasefire for U.S. and Iran",
+        "description": "Unnamed mediators have reportedly shopped a proposal for a ten-day de-escalation ceasefire between the U.S. and Iran.\nThe post Unknown ‘Mediators’ Reportedly Float 10-Day Ceasefire for U.S. and Iran appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/07/20/unknown-mediators-reportedly-float-10-day-ceasefire-for-u-s-and-iran/",
+        "publishedAt": "2026-07-20T22:08:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Don Lemon claims Trump's MAGA movement is 'closest thing' to modern Nazi Party without Holocaust",
+        "description": "Don Lemon called MAGA the closest thing to a modern Nazi Party and said President Donald Trump's supporters are voting for White supremacy, not economic relief.",
+        "url": "https://www.foxnews.com/media/don-lemon-claims-trumps-maga-movement-closest-thing-modern-nazi-party-without-holocaust",
+        "publishedAt": "2026-07-20T22:01:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sophie Cunningham acted like an adult this weekend while Angel Reese pandered, red-hot Red Sox & Cubs SMACK!",
+        "description": "Angel Reese's \"protected species\" controversy drew a WNBA suspension while Sophie Cunningham spent her weekend acting like a normal adult person.",
+        "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-acted-like-adult-this-weekend-while-angel-reese-pandered-red-hot-red-sox-cubs-smack",
+        "publishedAt": "2026-07-20T19:30:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The American dream now comes with a ZIP code: Here's where starter homes are still within reach",
+        "description": "The income needed to afford a typical starter home has surged roughly $35,000 since 2019, but recovery varies sharply by region for first-time buyers.",
+        "url": "https://www.foxnews.com/politics/american-dream-zip-code-starter-homes-within-reach",
+        "publishedAt": "2026-07-20T18:32:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Europe's climate agenda risks crushing its industry, environment minister warns",
+        "description": "Czech Environment Minister Igor Červený warns Europe will \"crush\" its industrial base unless leaders retreat from aggressive climate policies.",
+        "url": "https://www.foxnews.com/world/europes-climate-agenda-risks-crushing-its-industry-environment-minister-warns",
+        "publishedAt": "2026-07-20T18:12:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "State Dept: Cuba Set 'Infiltrating American Universities as a Top Priority,' Fueling Campus Unrest",
+        "description": "The State Department published an extensive report on Monday detailing how the Communist Party of Cuba has invested over half a century in the infiltration and destruction of American politics, accusing the communists of setting the infiltration of campuses a…",
+        "url": "https://www.breitbart.com/latin-america/2026/07/20/state-dept-cuba-set-infiltrating-american-universities-as-a-top-priority-fueling-campus-unrest/",
+        "publishedAt": "2026-07-20T21:11:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Shooting Leaves 9 Wounded After Confrontation 'Between Two Groups' in Tucson",
+        "description": "A \"confrontation between two groups\" preceded a shooting in Tucson, Arizona, that left nine people wounded, according to FOX 10 Phoenix. \nThe post Shooting Leaves 9 Wounded After Confrontation ‘Between Two Groups’ in Tucson appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/20/shooting-leaves-9-wounded-after-confrontation-between-two-groups-tucson/",
+        "publishedAt": "2026-07-20T20:53:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "WATCH: Spanish World Cup Hero Ferran Torres Wears 'Make Spain Great Again' Hat in Victory Parade",
+        "description": "On Sunday, the cameras were on Spain's Ferran Torres, as he scored the goal that delivered \"La Roja\" their second World Cup championship. On Monday, the cameras were on him again, for a very different reason.\nThe post WATCH: Spanish World Cup Hero Ferran Torr…",
+        "url": "https://www.breitbart.com/sports/2026/07/20/watch-spanish-world-cup-hero-ferran-torres-wears-make-spain-great-again-hat-in-victory-parade/",
+        "publishedAt": "2026-07-20T20:36:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kansas Democrat Senate Frontrunner and Methodist Pastor: Bible Is Full of Errors",
+        "description": "Adam Hamilton, a frontrunner in the Kansas's Democrat primary race for Senate, is a Methodist pastor who believes that the Bible is full of errors.\nThe post Kansas Democrat Senate Frontrunner and Methodist Pastor: Bible Is Full of Errors appeared first on Bre…",
+        "url": "https://www.breitbart.com/politics/2026/07/20/kansas-democrat-senate-frontrunner-and-methodist-pastor-bible-is-full-of-errors/",
+        "publishedAt": "2026-07-20T19:59:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Alleged 26 Federal Plaza Attacker ID'ed as Andrew Arrabaca",
+        "description": "The alleged 26 Federal Plaza attacker has been identified as Andrew Arrabaca, according to law enforcement sources cited in a report.\nThe post Alleged 26 Federal Plaza Attacker ID’ed as Andrew Arrabaca appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/20/alleged-26-federal-plaza-attacker-id-ed-andrew-arrabaca/",
+        "publishedAt": "2026-07-20T19:24:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "26"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
