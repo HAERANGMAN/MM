@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-21T22:38:46.786922+00:00",
+  "generated_at": "2026-07-21T23:39:20.459174+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Retired Lt. Col. running for Congress backs Trump Iran strategy: 'He's ending a 47-year conflict'",
+        "description": "Retired Air Force Lt. Col. Dave Flippo discusses his campaign for Nevada's second district, Trump support, and the ongoing military engagement in Iran.",
+        "url": "https://www.foxnews.com/politics/retired-lt-col-running-congress-back-iran-trump-strategy-hes-ending-47-year-conflict",
+        "publishedAt": "2026-07-20T23:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "47"
+      },
       {
         "title": "Unknown ‘Mediators’ Reportedly Float 10-Day Ceasefire for U.S. and Iran",
         "description": "Unnamed mediators have reportedly shopped a proposal for a ten-day de-escalation ceasefire between the U.S. and Iran.\nThe post Unknown ‘Mediators’ Reportedly Float 10-Day Ceasefire for U.S. and Iran appeared first on Breitbart.",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Europe's climate agenda risks crushing its industry, environment minister warns",
-        "description": "Czech Environment Minister Igor Červený warns Europe will \"crush\" its industrial base unless leaders retreat from aggressive climate policies.",
-        "url": "https://www.foxnews.com/world/europes-climate-agenda-risks-crushing-its-industry-environment-minister-warns",
-        "publishedAt": "2026-07-20T18:12:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
