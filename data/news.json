@@ -1,19 +1,126 @@
 {
-  "generated_at": "2026-07-22T01:06:20.887802+00:00",
+  "generated_at": "2026-07-22T04:30:07.472141+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Goldman says Brent could top $120 if Hormuz disruptions persist",
+        "description": "Global energy markets have been jolted this month — with Brent surging back above $91 a barrel",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
+        "publishedAt": "2026-07-21T04:21:58Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "GOP Rep. McCormick: 'Should Have Finished' Iran War 'Long Time Ago', Not 'Let Up' During Talks",
+        "description": "During an interview aired on Monday’s broadcast of NewsNation’s “The Hill,” Rep. Rich McCormick (R-GA) discussed the war in Iran and said that “we should have finished this a long time ago. You don’t let up, you don’t do a\nThe post GOP Rep. McCormick: ‘Should…",
+        "url": "https://www.breitbart.com/clips/2026/07/20/gop-rep-mccormick-should-have-finished-iran-war-long-time-ago-not-let-up-during-talks/",
+        "publishedAt": "2026-07-21T03:48:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New York far-left group claims reparations 'owed' as Blacks' median wealth 'nearly 15 times less' than Whites",
+        "description": "The NYCLU says Black New Yorkers hold nearly 15 times less median wealth than White residents, citing redlining and slavery's legacy in a new report.",
+        "url": "https://www.foxnews.com/media/new-york-far-left-group-claims-reparations-owed-blacks-median-wealth-nearly-15-times-less-whites",
+        "publishedAt": "2026-07-21T01:30:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Retired Lt. Col. running for Congress backs Trump Iran strategy: 'He's ending a 47-year conflict'",
+        "description": "Retired Air Force Lt. Col. Dave Flippo discusses his campaign for Nevada's second district, Trump support, and the ongoing military engagement in Iran.",
+        "url": "https://www.foxnews.com/politics/retired-lt-col-running-congress-back-iran-trump-strategy-hes-ending-47-year-conflict",
+        "publishedAt": "2026-07-20T23:00:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "47"
+      },
+      {
+        "title": "Unknown ‘Mediators’ Reportedly Float 10-Day Ceasefire for U.S. and Iran",
+        "description": "Unnamed mediators have reportedly shopped a proposal for a ten-day de-escalation ceasefire between the U.S. and Iran.\nThe post Unknown ‘Mediators’ Reportedly Float 10-Day Ceasefire for U.S. and Iran appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/07/20/unknown-mediators-reportedly-float-10-day-ceasefire-for-u-s-and-iran/",
+        "publishedAt": "2026-07-20T22:08:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      }
+    ],
     "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-thai-soc": [
+      {
+        "title": "One cannabis mistake at airport could bring 10 years in prison and $15,000 fine",
+        "description": "Thailand's new cannabis penalties include up to 10 years in prison, and a cannabis attorney warns travelers that even a mistake is no excuse abroad. A travel expert weighs in as well.",
+        "url": "https://www.foxnews.com/travel/cannabis-mistake-airport-could-bring-10-years-prison-15000-fine",
+        "publishedAt": "2026-07-20T23:48:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "10"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Goldman says Brent could top $120 if Hormuz disruptions persist",
+        "description": "Global energy markets have been jolted this month — with Brent surging back above $91 a barrel",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
+        "publishedAt": "2026-07-21T04:21:58Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump says first call with new UK PM Burnham went 'very well,' pledges US support",
+        "description": "Trump pledged U.S. support for Britain's new prime minister after the pair discussed the U.S.-U.K. alliance, trade and Middle East security during their first call.",
+        "url": "https://www.foxnews.com/politics/trump-says-first-call-new-uk-pm-burnham-very-well-pledges-us-support",
+        "publishedAt": "2026-07-21T01:26:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Colorado's socialist candidate calls for 'more immigrants into office' to stop America's 'exploitative' nature",
+        "description": "Colorado congressional candidate Melat Kiros called for more immigrants to enter public office and challenge America's exploitative nature on the global stage.",
+        "url": "https://www.foxnews.com/media/colorados-socialist-candidate-calls-more-immigrants-office-stop-americas-exploitative-nature",
+        "publishedAt": "2026-07-21T00:09:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rand Paul releases docs that reveal FBI halted border inspection of virus researcher over Wuhan lab links",
+        "description": "CBP flagged Peter Daszak as a high person of interest over his gain-of-function research ties to the Wuhan Institute of Virology before the FBI intervened.",
+        "url": "https://www.foxnews.com/politics/rand-paul-releases-docs-reveal-fbi-halted-border-inspection-virus-researcher-wuhan-lab-links",
+        "publishedAt": "2026-07-21T00:07:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "BP"
+      },
+      {
+        "title": "State Dept: Cuba Set 'Infiltrating American Universities as a Top Priority,' Fueling Campus Unrest",
+        "description": "The State Department published an extensive report on Monday detailing how the Communist Party of Cuba has invested over half a century in the infiltration and destruction of American politics, accusing the communists of setting the infiltration of campuses a…",
+        "url": "https://www.breitbart.com/latin-america/2026/07/20/state-dept-cuba-set-infiltrating-american-universities-as-a-top-priority-fueling-campus-unrest/",
+        "publishedAt": "2026-07-20T21:11:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
