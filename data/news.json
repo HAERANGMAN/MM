@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-23T01:13:10.592426+00:00",
+  "generated_at": "2026-07-23T04:36:00.256275+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
+        "description": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
+        "url": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
+        "publishedAt": "2026-07-22T03:56:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "India weighs letting airport owners run airlines to curb duopoly",
+        "description": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/india-weighs-letting-airport-owners-run-airlines-to-curb-duopoly",
+        "publishedAt": "2026-07-22T03:44:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Vulnerable Republican wins GOP primary in Arizona toss-up district Dems aim to flip blue",
+        "description": "Rep. Juan Ciscomani will face Democrat JoAnna Mendoza in a toss-up Arizona House race that could determine which party controls Congress after midterms.",
+        "url": "https://www.foxnews.com/politics/vulnerable-republican-wins-gop-primary-arizona-toss-up-district-dems-aim-flip-blue",
+        "publishedAt": "2026-07-22T02:46:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Duckworth on Punishing Iran for Troops' Deaths: It's Trump's Fault",
+        "description": "On Tuesday’s broadcast of CNN’s “Situation Room,” Sen. Tammy Duckworth (D-IL) responded to a question on if Iran should be punished for the recent deaths of American troops by declaring that “the blame for those 18 servicemembers’ deaths lays at\nThe post Duck…",
+        "url": "https://www.breitbart.com/clips/2026/07/21/duckworth-on-punishing-iran-for-troops-deaths-its-trumps-fault/",
+        "publishedAt": "2026-07-22T02:31:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "Yen slides past 163 mark to fresh 40-year low against US dollar",
+        "description": "Japan’s currency fell as much as 0.5% to 163.24 per dollar overnight as the greenback strengthened alongside US Treasury yields after renewed tensions in the US-Iran conflict drove oil prices higher.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
+        "publishedAt": "2026-07-22T01:36:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "163"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "India weighs letting airport owners run airlines to curb duopoly",
+        "description": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/india-weighs-letting-airport-owners-run-airlines-to-curb-duopoly",
+        "publishedAt": "2026-07-22T03:44:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump wants FIFA President Gianni Infantino to become the next UN secretary-general: report",
+        "description": "Trump reportedly wants FIFA President Gianni Infantino to become the next UN secretary-general, citing his ability to bring people together.",
+        "url": "https://www.foxnews.com/sports/trump-wants-fifa-president-gianni-infantino-become-next-un-secretary-general-report",
+        "publishedAt": "2026-07-22T02:18:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "REPORT: Trump Wants FIFA Boss Gianni Infantino for UN Secretary-General",
+        "description": "After the recent success of the North American-hosted World Cup, President Trump wants FIFA boss Gianni Infantino as the next U.N. Secretary-General, the New York Post reports.\nThe post REPORT: Trump Wants FIFA Boss Gianni Infantino for UN Secretary-General a…",
+        "url": "https://www.breitbart.com/sports/2026/07/21/report-trump-wants-fifa-boss-gianni-infantino-for-un-secretary-general/",
+        "publishedAt": "2026-07-22T00:00:43Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Judge Urges SCOTUS to Give 'Benchslaps' for 9th Circuit's Gun Rulings",
+        "description": "Ninth Circuit Judge Lawrence VanDyke is urging SCOTUS to issue some \"benchslaps\" for his own court's gun rulings\nThe post Judge Urges SCOTUS to Give ‘Benchslaps’ for 9th Circuit’s Gun Rulings appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/21/judge-urges-scotus-give-benchslaps-9th-circuits-gun-rulings/",
+        "publishedAt": "2026-07-21T21:37:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "US counterintelligence ‘way behind,’ post-9/11 record ‘extraordinarily negligent’, fmr Trump WH official warns",
+        "description": "H.R. McMaster accused Washington of being \"extraordinarily negligent\" on counterintelligence while China and Russia exploited America's post-9/11 focus.",
+        "url": "https://www.foxnews.com/politics/us-counterintelligence-way-behind-post-9-11-record-extraordinarily-negligent-fmr-trump-wh-official-warns",
+        "publishedAt": "2026-07-21T18:31:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
