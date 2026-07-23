@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-23T04:36:00.256275+00:00",
+  "generated_at": "2026-07-23T07:14:46.721697+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
+        "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
+        "url": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
+        "publishedAt": "2026-07-22T07:11:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
         "description": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
@@ -43,21 +53,31 @@
           "name": "Breitbart News"
         },
         "numericHint": "18"
-      },
-      {
-        "title": "Yen slides past 163 mark to fresh 40-year low against US dollar",
-        "description": "Japan’s currency fell as much as 0.5% to 163.24 per dollar overnight as the greenback strengthened alongside US Treasury yields after renewed tensions in the US-Iran conflict drove oil prices higher.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
-        "publishedAt": "2026-07-22T01:36:39Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "163"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
+        "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
+        "url": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
+        "publishedAt": "2026-07-22T07:11:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
+        "description": "Trump downplays Iran talks amid escalating tensions and threats to Red Sea shipping, as military actions and oil prices rise.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
+        "publishedAt": "2026-07-22T06:17:40Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "India weighs letting airport owners run airlines to curb duopoly",
         "description": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India.",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Judge Urges SCOTUS to Give 'Benchslaps' for 9th Circuit's Gun Rulings",
-        "description": "Ninth Circuit Judge Lawrence VanDyke is urging SCOTUS to issue some \"benchslaps\" for his own court's gun rulings\nThe post Judge Urges SCOTUS to Give ‘Benchslaps’ for 9th Circuit’s Gun Rulings appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/21/judge-urges-scotus-give-benchslaps-9th-circuits-gun-rulings/",
-        "publishedAt": "2026-07-21T21:37:46Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "US counterintelligence ‘way behind,’ post-9/11 record ‘extraordinarily negligent’, fmr Trump WH official warns",
-        "description": "H.R. McMaster accused Washington of being \"extraordinarily negligent\" on counterintelligence while China and Russia exploited America's post-9/11 focus.",
-        "url": "https://www.foxnews.com/politics/us-counterintelligence-way-behind-post-9-11-record-extraordinarily-negligent-fmr-trump-wh-official-warns",
-        "publishedAt": "2026-07-21T18:31:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
       }
     ]
   },
