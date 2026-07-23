@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-07-23T09:39:28.613849+00:00",
+  "generated_at": "2026-07-23T11:31:49.613083+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Growing trend of hating men backfires as anti-marriage culture leaves single women losing out",
+        "description": "With U.S. marriage rates falling and hookup culture alienating young women, a columnist warns that the anti-marriage movement has real consequences.",
+        "url": "https://www.foxnews.com/media/growing-trend-hating-men-backfires-anti-marriage-culture-leaves-single-women-losing-out",
+        "publishedAt": "2026-07-22T11:00:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New FDA moves are boosting American jobs and protecting our medicine supply",
+        "description": "The FDA PreCheck Pilot Program aims to slash delays at new domestic pharmaceutical facilities, with seven major companies already breaking ground.",
+        "url": "https://www.foxnews.com/opinion/fda-moves-boosting-american-jobs-protecting-medicine-supply",
+        "publishedAt": "2026-07-22T11:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "TNA star Elayna Black shares why she joined company, how she wanted to be in The Beautiful People",
+        "description": "Elayna Black reveals she emailed TNA at age 12 to join The Beautiful People and grew up idolizing Angelina Love, Velvet Sky, and Madison Rayne.",
+        "url": "https://www.foxnews.com/sports/tna-star-elayna-black-shares-why-she-joined-company-how-she-wanted-be-beautiful-people",
+        "publishedAt": "2026-07-22T10:42:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "12"
+      },
       {
         "title": "Grammy-Winning Singer Julio Iglesias Sues Spain's Deputy PM Diaz over Sexual Abuse Allegations",
         "description": "Legendary Spanish singer Julio Iglesias sued Spain's Deputy Prime Minister Yolanda Díaz on Tuesday, accusing her of violating his \"right to honor\" over remarks she made about sexual abuse allegations against Iglesias brought by two former employees earlier th…",
@@ -19,36 +49,6 @@
         "description": "Kalshi's new Midterms Hub combines live prediction markets with polling, fundraising data and historical results to track House, Senate and governor races.",
         "url": "https://www.foxnews.com/politics/battle-congress-wall-street-style-scoreboard-powered-real-money-bets",
         "publishedAt": "2026-07-22T09:00:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China is building a massive ship that should scare Americans about the future",
-        "description": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
-        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
-        "publishedAt": "2026-07-22T09:00:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "STEVE FORBES, STEPHEN MOORE: America must free its airwaves before China pulls ahead",
-        "description": "The FCC's new \"super band\" auction could add $264 billion to gross domestic product and support 1.5 million jobs without imposing any new taxes.",
-        "url": "https://www.foxnews.com/opinion/steve-forbes-stephen-moore-america-must-free-airwaves-before-china-pulls-ahead",
-        "publishedAt": "2026-07-22T09:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
-        "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
-        "publishedAt": "2026-07-22T07:11:15Z",
         "source": {
           "name": "Fox News"
         },
@@ -70,6 +70,36 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "New report uncovers education groups' DEI push to shape how artificial intelligence is used in classrooms",
+        "description": "A report alleges top teachers unions are embedding DEI principles into AI guidance for classrooms through equity and algorithmic bias frameworks.",
+        "url": "https://www.foxnews.com/politics/report-uncovers-education-groups-dei-push-shape-artificial-intelligence-used-classrooms",
+        "publishedAt": "2026-07-22T11:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Prince William, Kate Middleton wrestled with major decision over Prince George's future: expert",
+        "description": "Prince George passed Eton College entrance exams with \"no special treatment,\" as Prince William and Kate Middleton reportedly debated the boarding school choice.",
+        "url": "https://www.foxnews.com/entertainment/prince-william-kate-middleton-wrestled-major-decision-prince-george-future-expert",
+        "publishedAt": "2026-07-22T10:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes",
+        "description": "Trump administration officials are reportedly debating whether to support Iran's downfall, even as Trump says Iran is desperately seeking talks.",
+        "url": "https://www.foxnews.com/world/iran-regime-change-talk-resurfaces-trump-says-tehran-wants-meet-amid-us-strikes",
+        "publishedAt": "2026-07-22T10:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "SENATOR TIM SHEEHY: Crazy conspiracy theories are undermining America’s defense",
         "description": "National Defense Authorization Act improves United States-Israel defense technology cooperation, which will help make American troops safer.",
         "url": "https://www.foxnews.com/opinion/senator-tim-sheehy-crazy-conspiracy-theories-undermining-americas-defense",
@@ -86,36 +116,6 @@
         "publishedAt": "2026-07-22T09:00:24Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
-        "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
-        "url": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
-        "publishedAt": "2026-07-22T07:11:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
-        "description": "Trump downplays Iran talks amid escalating tensions and threats to Red Sea shipping, as military actions and oil prices rise.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
-        "publishedAt": "2026-07-22T06:17:40Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India weighs letting airport owners run airlines to curb duopoly",
-        "description": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-22/india-weighs-letting-airport-owners-run-airlines-to-curb-duopoly",
-        "publishedAt": "2026-07-22T03:44:40Z",
-        "source": {
-          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       }
