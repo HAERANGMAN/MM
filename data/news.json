@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-07-23T11:31:49.613083+00:00",
+  "generated_at": "2026-07-23T13:07:15.447395+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Growing trend of hating men backfires as anti-marriage culture leaves single women losing out",
-        "description": "With U.S. marriage rates falling and hookup culture alienating young women, a columnist warns that the anti-marriage movement has real consequences.",
-        "url": "https://www.foxnews.com/media/growing-trend-hating-men-backfires-anti-marriage-culture-leaves-single-women-losing-out",
-        "publishedAt": "2026-07-22T11:00:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "New FDA moves are boosting American jobs and protecting our medicine supply",
-        "description": "The FDA PreCheck Pilot Program aims to slash delays at new domestic pharmaceutical facilities, with seven major companies already breaking ground.",
-        "url": "https://www.foxnews.com/opinion/fda-moves-boosting-american-jobs-protecting-medicine-supply",
-        "publishedAt": "2026-07-22T11:00:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "TNA star Elayna Black shares why she joined company, how she wanted to be in The Beautiful People",
-        "description": "Elayna Black reveals she emailed TNA at age 12 to join The Beautiful People and grew up idolizing Angelina Love, Velvet Sky, and Madison Rayne.",
-        "url": "https://www.foxnews.com/sports/tna-star-elayna-black-shares-why-she-joined-company-how-she-wanted-be-beautiful-people",
-        "publishedAt": "2026-07-22T10:42:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "Grammy-Winning Singer Julio Iglesias Sues Spain's Deputy PM Diaz over Sexual Abuse Allegations",
-        "description": "Legendary Spanish singer Julio Iglesias sued Spain's Deputy Prime Minister Yolanda Díaz on Tuesday, accusing her of violating his \"right to honor\" over remarks she made about sexual abuse allegations against Iglesias brought by two former employees earlier th…",
-        "url": "https://www.breitbart.com/entertainment/2026/07/22/spain-singer-julio-iglesias-sues-deputy-pm-diaz-over-sexual-abuse-allegations-remarks/",
-        "publishedAt": "2026-07-22T09:17:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The battle for Congress gets a Wall Street-style scoreboard powered by real-money bets",
-        "description": "Kalshi's new Midterms Hub combines live prediction markets with polling, fundraising data and historical results to track House, Senate and governor races.",
-        "url": "https://www.foxnews.com/politics/battle-congress-wall-street-style-scoreboard-powered-real-money-bets",
-        "publishedAt": "2026-07-22T09:00:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "China is building a massive ship that should scare Americans about the future",
-        "description": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
-        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
-        "publishedAt": "2026-07-22T09:00:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "New report uncovers education groups' DEI push to shape how artificial intelligence is used in classrooms",
-        "description": "A report alleges top teachers unions are embedding DEI principles into AI guidance for classrooms through equity and algorithmic bias frameworks.",
-        "url": "https://www.foxnews.com/politics/report-uncovers-education-groups-dei-push-shape-artificial-intelligence-used-classrooms",
-        "publishedAt": "2026-07-22T11:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Prince William, Kate Middleton wrestled with major decision over Prince George's future: expert",
-        "description": "Prince George passed Eton College entrance exams with \"no special treatment,\" as Prince William and Kate Middleton reportedly debated the boarding school choice.",
-        "url": "https://www.foxnews.com/entertainment/prince-william-kate-middleton-wrestled-major-decision-prince-george-future-expert",
-        "publishedAt": "2026-07-22T10:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes",
-        "description": "Trump administration officials are reportedly debating whether to support Iran's downfall, even as Trump says Iran is desperately seeking talks.",
-        "url": "https://www.foxnews.com/world/iran-regime-change-talk-resurfaces-trump-says-tehran-wants-meet-amid-us-strikes",
-        "publishedAt": "2026-07-22T10:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SENATOR TIM SHEEHY: Crazy conspiracy theories are undermining America’s defense",
-        "description": "National Defense Authorization Act improves United States-Israel defense technology cooperation, which will help make American troops safer.",
-        "url": "https://www.foxnews.com/opinion/senator-tim-sheehy-crazy-conspiracy-theories-undermining-americas-defense",
-        "publishedAt": "2026-07-22T09:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China is building a massive ship that should scare Americans about the future",
-        "description": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
-        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
-        "publishedAt": "2026-07-22T09:00:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
