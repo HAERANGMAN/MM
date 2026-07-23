@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-07-23T07:14:46.721697+00:00",
+  "generated_at": "2026-07-23T09:39:28.613849+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Grammy-Winning Singer Julio Iglesias Sues Spain's Deputy PM Diaz over Sexual Abuse Allegations",
+        "description": "Legendary Spanish singer Julio Iglesias sued Spain's Deputy Prime Minister Yolanda Díaz on Tuesday, accusing her of violating his \"right to honor\" over remarks she made about sexual abuse allegations against Iglesias brought by two former employees earlier th…",
+        "url": "https://www.breitbart.com/entertainment/2026/07/22/spain-singer-julio-iglesias-sues-deputy-pm-diaz-over-sexual-abuse-allegations-remarks/",
+        "publishedAt": "2026-07-22T09:17:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The battle for Congress gets a Wall Street-style scoreboard powered by real-money bets",
+        "description": "Kalshi's new Midterms Hub combines live prediction markets with polling, fundraising data and historical results to track House, Senate and governor races.",
+        "url": "https://www.foxnews.com/politics/battle-congress-wall-street-style-scoreboard-powered-real-money-bets",
+        "publishedAt": "2026-07-22T09:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China is building a massive ship that should scare Americans about the future",
+        "description": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
+        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
+        "publishedAt": "2026-07-22T09:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "STEVE FORBES, STEPHEN MOORE: America must free its airwaves before China pulls ahead",
+        "description": "The FCC's new \"super band\" auction could add $264 billion to gross domestic product and support 1.5 million jobs without imposing any new taxes.",
+        "url": "https://www.foxnews.com/opinion/steve-forbes-stephen-moore-america-must-free-airwaves-before-china-pulls-ahead",
+        "publishedAt": "2026-07-22T09:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
         "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
@@ -13,51 +53,42 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
-        "description": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
-        "url": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
-        "publishedAt": "2026-07-22T03:56:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "India weighs letting airport owners run airlines to curb duopoly",
-        "description": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-22/india-weighs-letting-airport-owners-run-airlines-to-curb-duopoly",
-        "publishedAt": "2026-07-22T03:44:40Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Vulnerable Republican wins GOP primary in Arizona toss-up district Dems aim to flip blue",
-        "description": "Rep. Juan Ciscomani will face Democrat JoAnna Mendoza in a toss-up Arizona House race that could determine which party controls Congress after midterms.",
-        "url": "https://www.foxnews.com/politics/vulnerable-republican-wins-gop-primary-arizona-toss-up-district-dems-aim-flip-blue",
-        "publishedAt": "2026-07-22T02:46:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Duckworth on Punishing Iran for Troops' Deaths: It's Trump's Fault",
-        "description": "On Tuesday’s broadcast of CNN’s “Situation Room,” Sen. Tammy Duckworth (D-IL) responded to a question on if Iran should be punished for the recent deaths of American troops by declaring that “the blame for those 18 servicemembers’ deaths lays at\nThe post Duck…",
-        "url": "https://www.breitbart.com/clips/2026/07/21/duckworth-on-punishing-iran-for-troops-deaths-its-trumps-fault/",
-        "publishedAt": "2026-07-22T02:31:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "18"
       }
     ],
-    "news-korea-soc": [],
+    "news-korea-soc": [
+      {
+        "title": "China is building a massive ship that should scare Americans about the future",
+        "description": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
+        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
+        "publishedAt": "2026-07-22T09:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "SENATOR TIM SHEEHY: Crazy conspiracy theories are undermining America’s defense",
+        "description": "National Defense Authorization Act improves United States-Israel defense technology cooperation, which will help make American troops safer.",
+        "url": "https://www.foxnews.com/opinion/senator-tim-sheehy-crazy-conspiracy-theories-undermining-americas-defense",
+        "publishedAt": "2026-07-22T09:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China is building a massive ship that should scare Americans about the future",
+        "description": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
+        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
+        "publishedAt": "2026-07-22T09:00:24Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
         "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
@@ -85,26 +116,6 @@
         "publishedAt": "2026-07-22T03:44:40Z",
         "source": {
           "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump wants FIFA President Gianni Infantino to become the next UN secretary-general: report",
-        "description": "Trump reportedly wants FIFA President Gianni Infantino to become the next UN secretary-general, citing his ability to bring people together.",
-        "url": "https://www.foxnews.com/sports/trump-wants-fifa-president-gianni-infantino-become-next-un-secretary-general-report",
-        "publishedAt": "2026-07-22T02:18:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "REPORT: Trump Wants FIFA Boss Gianni Infantino for UN Secretary-General",
-        "description": "After the recent success of the North American-hosted World Cup, President Trump wants FIFA boss Gianni Infantino as the next U.N. Secretary-General, the New York Post reports.\nThe post REPORT: Trump Wants FIFA Boss Gianni Infantino for UN Secretary-General a…",
-        "url": "https://www.breitbart.com/sports/2026/07/21/report-trump-wants-fifa-boss-gianni-infantino-for-un-secretary-general/",
-        "publishedAt": "2026-07-22T00:00:43Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
