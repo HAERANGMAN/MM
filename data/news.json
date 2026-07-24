@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-07-24T09:33:34.425418+00:00",
+  "generated_at": "2026-07-24T11:20:33.976422+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "SEN RAND PAUL: DC's Russia sanctions bill won't stop Putin — but it will hurt you",
+        "description": "This new Russia sanctions bill could impose 500% tariffs and cost Americans half a trillion dollars, targeting 40% of the world's population.",
+        "url": "https://www.foxnews.com/opinion/sen-rand-paul-dc-russia-sanctions-bill-wont-stop-putin-hurt-you",
+        "publishedAt": "2026-07-23T09:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "500"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "GIANNO CALDWELL: Four years after my brother’s murder, I’m marching for justice",
+        "description": "A march against Chicago violence begins at Morgan Park High School as Angel Families demand accountability from Mayor Johnson and Gov. Pritzker.",
+        "url": "https://www.foxnews.com/opinion/gianno-caldwell-four-years-after-my-brothers-murder-im-marching-justice",
+        "publishedAt": "2026-07-23T11:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FDA to review 7 popular peptides touted for weight loss, healing and longevity",
+        "description": "The FDA's Pharmacy Compounding Advisory Committee weighs peptides for obesity, insulin resistance, opioid withdrawal and insomnia this week.",
+        "url": "https://www.foxnews.com/health/fda-reviews-7-popular-peptides-touted-weight-loss-healing-longevity",
+        "publishedAt": "2026-07-23T11:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "7"
+      },
+      {
+        "title": "Populist AfD Surges to Record Lead over German Chancellor's Party",
+        "description": "The insurgent Alternative for Germany (AfD) party's lead over the governing party of Chancellor Friedrich Merz has grown to a record gap, as the Berlin establishment continues to suffer amid persistent economic woes.\nThe post Populist AfD Surges to Record Lea…",
+        "url": "https://www.breitbart.com/europe/2026/07/23/populist-afd-surges-to-record-lead-over-german-chancellors-party/",
+        "publishedAt": "2026-07-23T10:30:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Beloved gas station chain reveals managers can earn up to $275K without college degree",
+        "description": "A viral Buc-ee's pay scale sign shows general managers earning up to $275,000 without a college degree, igniting fierce debate over student debt.",
+        "url": "https://www.foxnews.com/food-drink/beloved-gas-station-chain-reveals-managers-can-earn-up-275k-without-college-degree",
+        "publishedAt": "2026-07-23T10:00:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "SEN RAND PAUL: DC's Russia sanctions bill won't stop Putin — but it will hurt you",
+        "description": "This new Russia sanctions bill could impose 500% tariffs and cost Americans half a trillion dollars, targeting 40% of the world's population.",
+        "url": "https://www.foxnews.com/opinion/sen-rand-paul-dc-russia-sanctions-bill-wont-stop-putin-hurt-you",
+        "publishedAt": "2026-07-23T09:00:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "500"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Caitlin Clark's Strange Image on Cover of NBA 2K27 Stirs Controversy",
+        "description": "Indiana Fever star Caitlin Clark will be featured on the cover of NBA 2K27 deluxe edition, albeit with a strange image.\nThe post Caitlin Clark’s Strange Image on Cover of NBA 2K27 Stirs Controversy appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/sports/2026/07/22/caitlin-clarks-strange-image-on-cover-of-nba-2k27-stirs-controversy/",
+        "publishedAt": "2026-07-23T03:33:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Silver imports slump as new licensing disrupts shipments",
+        "description": "In May, the country imposed silver import licensing requirements to preserve foreign-exchange reserves, causing shipments to drop from 747 tons in January to an estimated 29 tons in June, according to Metals Focus",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/india-silver-imports-slump-as-new-licensing-disrupts-shipments",
+        "publishedAt": "2026-07-23T03:32:10Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "747"
+      },
+      {
+        "title": "Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West",
+        "description": "WASHINGTON — The top energy official in the Cyprus government told Breitbart News exclusively that President Donald Trump’s engagement on “energy security” is “vital” to the future of the west.\nThe post Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Secu…",
+        "url": "https://www.breitbart.com/politics/2026/07/22/exclusive-cyprus-energy-minister-trumps-energy-security-engagement-vital-to-future-of-west/",
+        "publishedAt": "2026-07-22T21:25:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fortune Mag Analysis Claiming ‘The Odyssey Made Back Its $250 Million Budget in 3 Days’ Is Off By $100 Million",
+        "description": "The media continues to try and pump up Christopher Nolan's \"The Odyssey,\" with Fortune magazine jumping into the game with the false claim that the movie has already earned back its estimated $250 million production budget.\nThe post Fortune Mag Analysis Claim…",
+        "url": "https://www.breitbart.com/entertainment/2026/07/22/fortune-mag-analysis-claiming-the-odyssey-made-back-its-250-million-budget-in-3-days-is-off-by-100-million/",
+        "publishedAt": "2026-07-22T21:19:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Report: Pakistan Asks U.S. for $10 Billion ‘Stabilization Fund’",
+        "description": "Pakistan reportedly asked the U.S. for a $10 billion “bilateral exchange stabilization support facility” to cope with disruptions from the Iran crisis.\nThe post Report: Pakistan Asks U.S. for $10 Billion ‘Stabilization Fund’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/asia/2026/07/22/report-pakistan-asks-u-s-10-billion-stabilization-fund/",
+        "publishedAt": "2026-07-22T21:12:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
