@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:20:33.976422+00:00",
+  "generated_at": "2026-07-24T12:50:29.355603+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Obama Center subcontractor shuts down amid $4M fight, lays off 25",
+        "description": "A plumbing contractor claims the Obama Presidential Center project forced him to lay off 25 workers and suspend operations over disputed payments.",
+        "url": "https://www.foxnews.com/politics/final-death-blow-obama-center-subcontractor-shuts-down-amid-4m-fight-lays-off-25",
+        "publishedAt": "2026-07-23T12:40:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "GIANNO CALDWELL: Four years after my brother’s murder, I’m marching for justice",
         "description": "A march against Chicago violence begins at Morgan Park High School as Angel Families demand accountability from Mayor Johnson and Gov. Pritzker.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "SEN RAND PAUL: DC's Russia sanctions bill won't stop Putin — but it will hurt you",
-        "description": "This new Russia sanctions bill could impose 500% tariffs and cost Americans half a trillion dollars, targeting 40% of the world's population.",
-        "url": "https://www.foxnews.com/opinion/sen-rand-paul-dc-russia-sanctions-bill-wont-stop-putin-hurt-you",
-        "publishedAt": "2026-07-23T09:00:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "500"
       }
     ],
     "news-korea-soc": [],
