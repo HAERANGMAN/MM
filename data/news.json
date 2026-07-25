@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-25T12:43:20.786575+00:00",
+  "generated_at": "2026-07-25T14:19:44.609705+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Playboy's celebrity-driven relaunch faces credibility test in OnlyFans era, expert says",
+        "description": "Karol G and Cara Delevingne front Playboy's celebrity-driven relaunch as new editor Philip Picardi pivots to prestige storytelling.",
+        "url": "https://www.foxnews.com/entertainment/playboys-celebrity-driven-relaunch-faces-credibility-test-onlyfans-era-expert-says",
+        "publishedAt": "2026-07-24T14:00:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Urgent Yellowstone fishing closures hit 3 rivers as water turns deadly",
+        "description": "Dead trout are reported in the Firehole River as water temperatures hit 86 degrees, prompting Yellowstone National Park to shut down three major rivers.",
+        "url": "https://www.foxnews.com/travel/urgent-yellowstone-fishing-closures-hit-3-rivers-water-turns-deadly",
+        "publishedAt": "2026-07-24T13:46:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Charter Revenue Declines Again as Subscriber Slide Continues",
+        "description": "Competition from fixed wireless and fiber connection services has been eating into the company’s home-internet subscriber base.",
+        "url": "https://www.wsj.com/business/earnings/charter-revenue-declines-again-as-subscriber-slide-continues-4581559c",
+        "publishedAt": "2026-07-24T13:44:00Z",
+        "source": {
+          "name": "The Wall Street Journal"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Raiders TE Brock Bowers impresses women with his hidden camera engagement video, Royals fan arrested & 510 lbs",
+        "description": "Brock Bowers proposed to his girlfriend Cameron Newell in a hidden camera engagement video that has influencers gushing, but staging questions linger.",
+        "url": "https://www.foxnews.com/outkick-sports/raiders-te-brock-bowers-impresses-women-hidden-camera-engagement-video-royals-fan-arrested-510-lbs",
+        "publishedAt": "2026-07-24T13:39:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "510"
+      },
+      {
+        "title": "Americans are paying people to wait in line for TikTok-famous food",
+        "description": "Robert Samuel of Same Ole Line Dudes says TikTok fueled demand for professional line sitters, from cronuts to viral dot cakes in New York City.",
+        "url": "https://www.foxnews.com/food-drink/americans-paying-people-wait-line-tiktok-famous-food",
+        "publishedAt": "2026-07-24T10:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Raiders TE Brock Bowers impresses women with his hidden camera engagement video, Royals fan arrested & 510 lbs",
+        "description": "Brock Bowers proposed to his girlfriend Cameron Newell in a hidden camera engagement video that has influencers gushing, but staging questions linger.",
+        "url": "https://www.foxnews.com/outkick-sports/raiders-te-brock-bowers-impresses-women-hidden-camera-engagement-video-royals-fan-arrested-510-lbs",
+        "publishedAt": "2026-07-24T13:39:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "510"
+      },
+      {
+        "title": "Boasberg delivers fresh immigration setback to Trump in free-speech clash",
+        "description": "Judge James Boasberg found the Trump administration's visa policy may constitute viewpoint discrimination by targeting those favoring content moderation.",
+        "url": "https://www.foxnews.com/politics/boasberg-delivers-fresh-immigration-setback-trump-free-speech-clash",
+        "publishedAt": "2026-07-24T12:39:57Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Jennifer Sey reveals alleged communication with Sophie Cunningham amid recruitment pitch for XX-XY Athletics",
+        "description": "XX-XY Athletics CEO Jennifer Sey says she would \"give my right arm\" to sign Sophie Cunningham away from Adidas and make her the brand's face.",
+        "url": "https://www.foxnews.com/outkick-sports/jennifer-sey-reveals-alleged-communication-sophie-cunningham-recruitment-pitch-xx-xy-athletics",
+        "publishedAt": "2026-07-24T11:29:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The woke left captured the Smithsonian. America needs a patriot to take it back",
+        "description": "The Smithsonian Institution has been deeply infiltrated by DEI and woke ideology, and the fight to reclaim it demands an America First leader.",
+        "url": "https://www.foxnews.com/opinion/woke-left-captured-smithsonian-america-needs-patriot-take-back",
+        "publishedAt": "2026-07-24T10:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Is Israel really isolated? Polls and diplomacy point in opposite directions",
+        "description": "Trump says the Saudi Arabia nuclear deal hinges on joining the Abraham Accords, as experts debate whether Israel faces isolation or expanding ties.",
+        "url": "https://www.foxnews.com/world/israel-really-isolated-polls-diplomacy-point-opposite-directions",
+        "publishedAt": "2026-07-24T10:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
