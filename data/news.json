@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:32:09.697872+00:00",
+  "generated_at": "2026-07-25T19:48:31.556942+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -70,6 +70,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Trump's Science Report: Visa Migrants 'Sideline' Many American Scientists",
+        "description": "Federal spending on science should first benefit Americans and American scientists, says a new strategic plan by President Donald Trump's top science advisor.\nThe post Trump’s Science Report: Visa Migrants ‘Sideline’ Many American Scientists appeared first on…",
+        "url": "https://www.breitbart.com/economy/2026/07/24/trumps-science-report-says-visa-programs-sideline-american-scientists/",
+        "publishedAt": "2026-07-24T19:30:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Candidates Vying to Lead United Nations Face Off in Town Hall Debate",
+        "description": "The six candidates vying to become the next Secretary General of the United Nations on Thursday held a town hall-style debate in which they outlined their vision for the international body should they become elected.\nThe post Candidates Vying to Lead United N…",
+        "url": "https://www.breitbart.com/national-security/2026/07/24/candidates-vying-to-lead-united-nations-face-off-in-town-hall-debate/",
+        "publishedAt": "2026-07-24T18:45:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "‘McCarthy trials’: Hasan Piker, far-left figures erupt over subpoenas in $39M Singham probe",
         "description": "Hasan Piker and CodePink's Medea Benjamin rally behind BreakThrough News after congressional subpoenas target groups tied to communist tech tycoon.",
         "url": "https://www.foxnews.com/politics/mccarthy-trials-hasan-piker-far-left-figures-erupt-subpoenas-39m-singham-probe",
@@ -96,26 +116,6 @@
         "publishedAt": "2026-07-24T16:02:19Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Roger Goodell floats holding NFL draft in Charlotte and returning for something bigger later",
-        "description": "Roger Goodell told a Charlotte audience the city is \"built for a draft\" and didn't rule out a future Super Bowl, but hotel rooms remain a key hurdle.",
-        "url": "https://www.foxnews.com/outkick-sports/roger-goodell-floats-holding-nfl-draft-charlotte-returning-something-bigger-later",
-        "publishedAt": "2026-07-24T16:01:26Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Iran's Terrorist IRGC Flew into Yemen to Help Houthis Block Shipping",
-        "description": "The Reuters news agency, citing four sources, reported on Thursday that Iran's IRGC flew aid to the Houthis, including missile parts.\nThe post Report: Iran’s Terrorist IRGC Flew into Yemen to Help Houthis Block Shipping appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/07/24/report-irans-terrorist-irgc-flew-into-yemen-to-help-houthis-block-shipping/",
-        "publishedAt": "2026-07-24T15:18:26Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
