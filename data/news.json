@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-07-25T14:19:44.609705+00:00",
+  "generated_at": "2026-07-25T15:33:01.427139+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Newsom says film tax incentives are bringing Hollywood home but industry experts warn it may be 'too late'",
+        "description": "Hollywood experts tell Fox News Digital the Los Angeles film industry needs a \"major rescue\" after years of studios fleeing for cheaper production hubs despite new tax credits.",
+        "url": "https://www.foxnews.com/media/newsom-film-tax-incentives-bringing-hollywood-home-industry-experts-warn-may-be-too-late",
+        "publishedAt": "2026-07-24T15:04:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bill Ackman reveals why he's not a 'fan' of Mamdani, doesn't rule out mayoral run against him",
+        "description": "Billionaire Bill Ackman said Monday that Mayor Zohran Mamdani's policies were a disaster for New York City and discouraging development.",
+        "url": "https://www.foxnews.com/media/bill-ackman-reveals-why-hes-not-fan-mamdani-doesnt-rule-out-mayoral-run-against-him",
+        "publishedAt": "2026-07-24T14:24:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "WATCH: Trump DOJ vows to pursue ‘every single’ voting violation after NJ roll shocker",
+        "description": "Harmeet Dhillon says DOJ will prosecute every illegal vote found, citing a \"broken windows\" strategy after New Jersey's noncitizen voter rolls bombshell.",
+        "url": "https://www.foxnews.com/politics/watch-trump-doj-vows-pursue-every-single-voting-violation-after-nj-roll-shocker",
+        "publishedAt": "2026-07-24T14:21:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Playboy's celebrity-driven relaunch faces credibility test in OnlyFans era, expert says",
         "description": "Karol G and Cara Delevingne front Playboy's celebrity-driven relaunch as new editor Philip Picardi pivots to prestige storytelling.",
@@ -23,41 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "3"
-      },
-      {
-        "title": "Charter Revenue Declines Again as Subscriber Slide Continues",
-        "description": "Competition from fixed wireless and fiber connection services has been eating into the company’s home-internet subscriber base.",
-        "url": "https://www.wsj.com/business/earnings/charter-revenue-declines-again-as-subscriber-slide-continues-4581559c",
-        "publishedAt": "2026-07-24T13:44:00Z",
-        "source": {
-          "name": "The Wall Street Journal"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Raiders TE Brock Bowers impresses women with his hidden camera engagement video, Royals fan arrested & 510 lbs",
-        "description": "Brock Bowers proposed to his girlfriend Cameron Newell in a hidden camera engagement video that has influencers gushing, but staging questions linger.",
-        "url": "https://www.foxnews.com/outkick-sports/raiders-te-brock-bowers-impresses-women-hidden-camera-engagement-video-royals-fan-arrested-510-lbs",
-        "publishedAt": "2026-07-24T13:39:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "510"
-      },
-      {
-        "title": "Americans are paying people to wait in line for TikTok-famous food",
-        "description": "Robert Samuel of Same Ole Line Dudes says TikTok fueled demand for professional line sitters, from cronuts to viral dot cakes in New York City.",
-        "url": "https://www.foxnews.com/food-drink/americans-paying-people-wait-line-tiktok-famous-food",
-        "publishedAt": "2026-07-24T10:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Report: Iran's Terrorist IRGC Flew into Yemen to Help Houthis Block Shipping",
+        "description": "The Reuters news agency, citing four sources, reported on Thursday that Iran's IRGC flew aid to the Houthis, including missile parts.\nThe post Report: Iran’s Terrorist IRGC Flew into Yemen to Help Houthis Block Shipping appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2026/07/24/report-irans-terrorist-irgc-flew-into-yemen-to-help-houthis-block-shipping/",
+        "publishedAt": "2026-07-24T15:18:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Raiders TE Brock Bowers impresses women with his hidden camera engagement video, Royals fan arrested & 510 lbs",
         "description": "Brock Bowers proposed to his girlfriend Cameron Newell in a hidden camera engagement video that has influencers gushing, but staging questions linger.",
@@ -93,16 +103,6 @@
         "description": "The Smithsonian Institution has been deeply infiltrated by DEI and woke ideology, and the fight to reclaim it demands an America First leader.",
         "url": "https://www.foxnews.com/opinion/woke-left-captured-smithsonian-america-needs-patriot-take-back",
         "publishedAt": "2026-07-24T10:00:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Is Israel really isolated? Polls and diplomacy point in opposite directions",
-        "description": "Trump says the Saudi Arabia nuclear deal hinges on joining the Abraham Accords, as experts debate whether Israel faces isolation or expanding ties.",
-        "url": "https://www.foxnews.com/world/israel-really-isolated-polls-diplomacy-point-opposite-directions",
-        "publishedAt": "2026-07-24T10:00:33Z",
         "source": {
           "name": "Fox News"
         },
