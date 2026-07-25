@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:48:31.556942+00:00",
+  "generated_at": "2026-07-25T20:36:17.472887+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,113 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Another top Seattle mayoral aide exits as Katie Wilson administration faces continued staff turnover",
-        "description": "Seattle Mayor Katie Wilson's press secretary is leaving City Hall after less than seven months, adding to significant staffing turnover in her office.",
-        "url": "https://www.foxnews.com/media/another-top-seattle-mayoral-aide-exits-katie-wilson-administration-faces-continued-staff-turnover",
-        "publishedAt": "2026-07-24T17:12:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Abdul El-Sayed scores Sen Tina Smith's endorsement in Democratic primary that exposes party divide",
-        "description": "U.S. Sen. Tina Smith, a Democrat from Minnesota, has thrown her support behind Michigan Democratic U.S. Senate primary candidate Abdul El-Sayed.",
-        "url": "https://www.foxnews.com/politics/abdul-el-sayed-scores-sen-tina-smith-endorsement-democratic-primary-exposes-party-divide",
-        "publishedAt": "2026-07-24T16:28:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Tariffs 60 Trading Partners, Including Europe and China, for Slave Labor Product Imports",
-        "description": "USTR Jamieson Greer announced “tariffs on 60 economies for their failure to impose and effectively enforce a prohibition\" on forced labor.\nThe post U.S. Tariffs 60 Trading Partners, Including Europe and China, for Slave Labor Product Imports appeared first on…",
-        "url": "https://www.breitbart.com/economy/2026/07/24/u-s-tariffs-60-trading-partners-including-europe-and-china-for-slave-labor-product-imports/",
-        "publishedAt": "2026-07-24T16:15:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Elon Musk Claims He Got 'Carried Away' with Support for Donald Trump",
-        "description": "World's richest man Elon Musk now claims he became too consumed by politics during his alliance with President Donald Trump and his brief stint running DOGE.\nThe post Elon Musk Claims He Got ‘Carried Away’ with Support for Donald Trump appeared first on Breit…",
-        "url": "https://www.breitbart.com/tech/2026/07/24/elon-musk-claims-he-got-carried-away-with-support-for-donald-trump/",
-        "publishedAt": "2026-07-24T16:15:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump must close the back door China uses to exploit North American trade",
-        "description": "Steel imports from China, South Korea and Vietnam surged through Mexico and Canada, exploiting USMCA loopholes the Trump administration seeks to close.",
-        "url": "https://www.foxnews.com/opinion/trump-close-back-door-china-uses-exploit-north-american-trade",
-        "publishedAt": "2026-07-24T16:02:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump's Science Report: Visa Migrants 'Sideline' Many American Scientists",
-        "description": "Federal spending on science should first benefit Americans and American scientists, says a new strategic plan by President Donald Trump's top science advisor.\nThe post Trump’s Science Report: Visa Migrants ‘Sideline’ Many American Scientists appeared first on…",
-        "url": "https://www.breitbart.com/economy/2026/07/24/trumps-science-report-says-visa-programs-sideline-american-scientists/",
-        "publishedAt": "2026-07-24T19:30:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Candidates Vying to Lead United Nations Face Off in Town Hall Debate",
-        "description": "The six candidates vying to become the next Secretary General of the United Nations on Thursday held a town hall-style debate in which they outlined their vision for the international body should they become elected.\nThe post Candidates Vying to Lead United N…",
-        "url": "https://www.breitbart.com/national-security/2026/07/24/candidates-vying-to-lead-united-nations-face-off-in-town-hall-debate/",
-        "publishedAt": "2026-07-24T18:45:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "‘McCarthy trials’: Hasan Piker, far-left figures erupt over subpoenas in $39M Singham probe",
-        "description": "Hasan Piker and CodePink's Medea Benjamin rally behind BreakThrough News after congressional subpoenas target groups tied to communist tech tycoon.",
-        "url": "https://www.foxnews.com/politics/mccarthy-trials-hasan-piker-far-left-figures-erupt-subpoenas-39m-singham-probe",
-        "publishedAt": "2026-07-24T17:48:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "bp"
-      },
-      {
-        "title": "U.S. Tariffs 60 Trading Partners, Including Europe and China, for Slave Labor Product Imports",
-        "description": "USTR Jamieson Greer announced “tariffs on 60 economies for their failure to impose and effectively enforce a prohibition\" on forced labor.\nThe post U.S. Tariffs 60 Trading Partners, Including Europe and China, for Slave Labor Product Imports appeared first on…",
-        "url": "https://www.breitbart.com/economy/2026/07/24/u-s-tariffs-60-trading-partners-including-europe-and-china-for-slave-labor-product-imports/",
-        "publishedAt": "2026-07-24T16:15:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Trump must close the back door China uses to exploit North American trade",
-        "description": "Steel imports from China, South Korea and Vietnam surged through Mexico and Canada, exploiting USMCA loopholes the Trump administration seeks to close.",
-        "url": "https://www.foxnews.com/opinion/trump-close-back-door-china-uses-exploit-north-american-trade",
-        "publishedAt": "2026-07-24T16:02:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
