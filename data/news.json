@@ -1,115 +1,30 @@
 {
-  "generated_at": "2026-07-25T15:33:01.427139+00:00",
+  "generated_at": "2026-07-25T16:28:45.832413+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [
+    "news-korea-econ": [
       {
-        "title": "Newsom says film tax incentives are bringing Hollywood home but industry experts warn it may be 'too late'",
-        "description": "Hollywood experts tell Fox News Digital the Los Angeles film industry needs a \"major rescue\" after years of studios fleeing for cheaper production hubs despite new tax credits.",
-        "url": "https://www.foxnews.com/media/newsom-film-tax-incentives-bringing-hollywood-home-industry-experts-warn-may-be-too-late",
-        "publishedAt": "2026-07-24T15:04:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bill Ackman reveals why he's not a 'fan' of Mamdani, doesn't rule out mayoral run against him",
-        "description": "Billionaire Bill Ackman said Monday that Mayor Zohran Mamdani's policies were a disaster for New York City and discouraging development.",
-        "url": "https://www.foxnews.com/media/bill-ackman-reveals-why-hes-not-fan-mamdani-doesnt-rule-out-mayoral-run-against-him",
-        "publishedAt": "2026-07-24T14:24:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "WATCH: Trump DOJ vows to pursue ‘every single’ voting violation after NJ roll shocker",
-        "description": "Harmeet Dhillon says DOJ will prosecute every illegal vote found, citing a \"broken windows\" strategy after New Jersey's noncitizen voter rolls bombshell.",
-        "url": "https://www.foxnews.com/politics/watch-trump-doj-vows-pursue-every-single-voting-violation-after-nj-roll-shocker",
-        "publishedAt": "2026-07-24T14:21:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Playboy's celebrity-driven relaunch faces credibility test in OnlyFans era, expert says",
-        "description": "Karol G and Cara Delevingne front Playboy's celebrity-driven relaunch as new editor Philip Picardi pivots to prestige storytelling.",
-        "url": "https://www.foxnews.com/entertainment/playboys-celebrity-driven-relaunch-faces-credibility-test-onlyfans-era-expert-says",
-        "publishedAt": "2026-07-24T14:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Urgent Yellowstone fishing closures hit 3 rivers as water turns deadly",
-        "description": "Dead trout are reported in the Firehole River as water temperatures hit 86 degrees, prompting Yellowstone National Park to shut down three major rivers.",
-        "url": "https://www.foxnews.com/travel/urgent-yellowstone-fishing-closures-hit-3-rivers-water-turns-deadly",
-        "publishedAt": "2026-07-24T13:46:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      }
-    ],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Report: Iran's Terrorist IRGC Flew into Yemen to Help Houthis Block Shipping",
-        "description": "The Reuters news agency, citing four sources, reported on Thursday that Iran's IRGC flew aid to the Houthis, including missile parts.\nThe post Report: Iran’s Terrorist IRGC Flew into Yemen to Help Houthis Block Shipping appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/07/24/report-irans-terrorist-irgc-flew-into-yemen-to-help-houthis-block-shipping/",
-        "publishedAt": "2026-07-24T15:18:26Z",
+        "title": "U.S. Tariffs 60 Trading Partners, Including Europe and China, for Slave Labor Product Imports",
+        "description": "USTR Jamieson Greer announced “tariffs on 60 economies for their failure to impose and effectively enforce a prohibition\" on forced labor.\nThe post U.S. Tariffs 60 Trading Partners, Including Europe and China, for Slave Labor Product Imports appeared first on…",
+        "url": "https://www.breitbart.com/economy/2026/07/24/u-s-tariffs-60-trading-partners-including-europe-and-china-for-slave-labor-product-imports/",
+        "publishedAt": "2026-07-24T16:15:42Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Raiders TE Brock Bowers impresses women with his hidden camera engagement video, Royals fan arrested & 510 lbs",
-        "description": "Brock Bowers proposed to his girlfriend Cameron Newell in a hidden camera engagement video that has influencers gushing, but staging questions linger.",
-        "url": "https://www.foxnews.com/outkick-sports/raiders-te-brock-bowers-impresses-women-hidden-camera-engagement-video-royals-fan-arrested-510-lbs",
-        "publishedAt": "2026-07-24T13:39:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "510"
-      },
-      {
-        "title": "Boasberg delivers fresh immigration setback to Trump in free-speech clash",
-        "description": "Judge James Boasberg found the Trump administration's visa policy may constitute viewpoint discrimination by targeting those favoring content moderation.",
-        "url": "https://www.foxnews.com/politics/boasberg-delivers-fresh-immigration-setback-trump-free-speech-clash",
-        "publishedAt": "2026-07-24T12:39:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jennifer Sey reveals alleged communication with Sophie Cunningham amid recruitment pitch for XX-XY Athletics",
-        "description": "XX-XY Athletics CEO Jennifer Sey says she would \"give my right arm\" to sign Sophie Cunningham away from Adidas and make her the brand's face.",
-        "url": "https://www.foxnews.com/outkick-sports/jennifer-sey-reveals-alleged-communication-sophie-cunningham-recruitment-pitch-xx-xy-athletics",
-        "publishedAt": "2026-07-24T11:29:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The woke left captured the Smithsonian. America needs a patriot to take it back",
-        "description": "The Smithsonian Institution has been deeply infiltrated by DEI and woke ideology, and the fight to reclaim it demands an America First leader.",
-        "url": "https://www.foxnews.com/opinion/woke-left-captured-smithsonian-america-needs-patriot-take-back",
-        "publishedAt": "2026-07-24T10:00:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
+        "numericHint": "60"
       }
-    ]
+    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
