@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-26T22:36:13.491934+00:00",
+  "generated_at": "2026-07-26T23:37:52.603416+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Bargain buffet refuses to die while luxury dining takes over Vegas",
+        "description": "Las Vegas buffets are vanishing from the Strip, with only four remaining as the city shifts toward luxury dining and wealthier casino visitors.",
+        "url": "https://www.foxnews.com/travel/bargain-buffet-refuses-die-while-luxury-dining-takes-over-vegas",
+        "publishedAt": "2026-07-25T22:33:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Paramount Pauses Warner Bros. Merger Until Lawsuits Are Resolved",
+        "description": "Paramount has agreed to pause its merger with Warner Bros. Discovery until several big lawsuits come to a resolution, a report says.\nThe post Paramount Pauses Warner Bros. Merger Until Lawsuits Are Resolved appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/07/25/paramount-pauses-warner-bros-merger-until-lawsuits-are-resolved/",
+        "publishedAt": "2026-07-25T21:27:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Court checks Pritzker as Trump administration scores another immigration win",
+        "description": "A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.",
+        "url": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win",
+        "publishedAt": "2026-07-25T19:39:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sophie Cunningham and West Wilson split on transgender athletes in girls' sports despite podcast partnership",
+        "description": "West Wilson called the transgender athletes debate a \"borderline nonexistent issue\" pushed by right-wingers, putting him at odds with Sophie Cunningham.",
+        "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-west-wilson-split-transgender-athletes-girls-sports-podcast-partnership",
+        "publishedAt": "2026-07-25T18:23:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Elon Musk's Net Worth Plunges by $650 Billion as Tesla and SpaceX Shares Decline Sharply",
+        "description": "Approximately $650 billion to $700 billion of Elon Musk's net worth has evaporated over a five-week period as both Tesla and SpaceX stock prices experienced significant declines.\nThe post Elon Musk’s Net Worth Plunges by $650 Billion as Tesla and SpaceX Share…",
+        "url": "https://www.breitbart.com/tech/2026/07/25/elon-musks-net-worth-plunges-by-650-billion-as-tesla-and-spacex-shares-decline-sharply/",
+        "publishedAt": "2026-07-25T16:54:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Longer lives, worse health? Scientists uncover troubling trend across generations",
+        "description": "The morbidity gap between life expectancy and healthy life expectancy is widest in America, where people spend about 14 years in poor health.",
+        "url": "https://www.foxnews.com/health/longer-lives-worse-health-scientists-uncover-troubling-trend-across-generations",
+        "publishedAt": "2026-07-25T19:50:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "14"
+      },
+      {
+        "title": "Slate: 3rd Circuit Ruling Gives SCOTUS 'Cover' to Find Constitutional Protection for AR-15s",
+        "description": "Slate lamented the decision of the U.S. Court of Appeals for the Third Circuit striking down New Jersey's \"assault weapons\" ban.\nThe post Slate: 3rd Circuit Ruling Gives SCOTUS ‘Cover’ to Find Constitutional Protection for AR-15s appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/25/slate-3rd-circuit-ruling-gives-scotus-cover-find-constitutional-protection-ar-15s/",
+        "publishedAt": "2026-07-25T16:34:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "George Michael struggled with 'eternal conflict' over fame, Wham! bandmate Andrew Ridgeley says",
+        "description": "Andrew Ridgeley reveals George Michael's \"eternal conflict\" with fame, saying the Wham! singer created a character to fulfill his artistic destiny.",
+        "url": "https://www.foxnews.com/entertainment/george-michael-struggled-eternal-conflict-over-fame-wham-bandmate-andrew-ridgeley-says",
+        "publishedAt": "2026-07-25T16:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Atlanta: Interim CEO Asks Legislators to Ban Guns on Public Transit",
+        "description": "The interim CEO of the Metropolitan Atlanta Rapid Transit Authority (MARTA) is asking state lawmakers to ban guns on the transit system. \nThe post Atlanta: Interim CEO Asks Legislators to Ban Guns on Public Transit appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/25/atlanta-interim-ceo-asks-legislators-ban-guns-public-transit/",
+        "publishedAt": "2026-07-25T15:48:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Detroit developer cites 'substantial taxes' as reason big blue cities like NYC are in trouble",
+        "description": "Rodney Lockwood's bold plan to transform Detroit's Belle Isle into a tax-friendly \"Freedom City\" aims to attract $50 billion in private investment.",
+        "url": "https://www.foxnews.com/media/detroit-developer-bids-turn-area-low-tax-economic-zone-citing-substantial-taxes-reason-big-blue-cities-like-nyc-trouble",
+        "publishedAt": "2026-07-25T15:36:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
