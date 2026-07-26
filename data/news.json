@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-26T19:38:07.970630+00:00",
+  "generated_at": "2026-07-26T20:35:07.065950+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Court checks Pritzker as Trump administration scores another immigration win",
+        "description": "A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.",
+        "url": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win",
+        "publishedAt": "2026-07-25T19:39:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Sophie Cunningham and West Wilson split on transgender athletes in girls' sports despite podcast partnership",
         "description": "West Wilson called the transgender athletes debate a \"borderline nonexistent issue\" pushed by right-wingers, putting him at odds with Sophie Cunningham.",
@@ -43,21 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "'I Play Rocky' revives the gamble that made Sylvester Stallone a superstar",
-        "description": "The \"I Play Rocky\" trailer reveals how Sylvester Stallone refused massive paydays to star in his own screenplay, a gamble experts call unheard of.",
-        "url": "https://www.foxnews.com/entertainment/i-play-rocky-revives-gamble-made-sylvester-stallone-superstar",
-        "publishedAt": "2026-07-25T15:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Longer lives, worse health? Scientists uncover troubling trend across generations",
+        "description": "The morbidity gap between life expectancy and healthy life expectancy is widest in America, where people spend about 14 years in poor health.",
+        "url": "https://www.foxnews.com/health/longer-lives-worse-health-scientists-uncover-troubling-trend-across-generations",
+        "publishedAt": "2026-07-25T19:50:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "14"
+      },
       {
         "title": "Slate: 3rd Circuit Ruling Gives SCOTUS 'Cover' to Find Constitutional Protection for AR-15s",
         "description": "Slate lamented the decision of the U.S. Court of Appeals for the Third Circuit striking down New Jersey's \"assault weapons\" ban.\nThe post Slate: 3rd Circuit Ruling Gives SCOTUS ‘Cover’ to Find Constitutional Protection for AR-15s appeared first on Breitbart.",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Family of 8 Dead in Michigan House Fire; Some of the Victims Were Shot",
-        "description": "A family of eight was found deceased in a Grand Haven Township, Michigan, house fire, and some of the victims had been shot. \nThe post Family of 8 Dead in Michigan House Fire; Some of the Victims Were Shot appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/25/8-dead-michigan-house-fire-some-victims-were-shot/",
-        "publishedAt": "2026-07-25T15:23:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "8"
       }
     ]
   },
