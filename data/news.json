@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-07-26T18:15:05.183227+00:00",
+  "generated_at": "2026-07-26T19:38:07.970630+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Sophie Cunningham and West Wilson split on transgender athletes in girls' sports despite podcast partnership",
+        "description": "West Wilson called the transgender athletes debate a \"borderline nonexistent issue\" pushed by right-wingers, putting him at odds with Sophie Cunningham.",
+        "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-west-wilson-split-transgender-athletes-girls-sports-podcast-partnership",
+        "publishedAt": "2026-07-25T18:23:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Elon Musk's Net Worth Plunges by $650 Billion as Tesla and SpaceX Shares Decline Sharply",
+        "description": "Approximately $650 billion to $700 billion of Elon Musk's net worth has evaporated over a five-week period as both Tesla and SpaceX stock prices experienced significant declines.\nThe post Elon Musk’s Net Worth Plunges by $650 Billion as Tesla and SpaceX Share…",
+        "url": "https://www.breitbart.com/tech/2026/07/25/elon-musks-net-worth-plunges-by-650-billion-as-tesla-and-spacex-shares-decline-sharply/",
+        "publishedAt": "2026-07-25T16:54:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Detroit developer cites 'substantial taxes' as reason big blue cities like NYC are in trouble",
+        "description": "Rodney Lockwood's bold plan to transform Detroit's Belle Isle into a tax-friendly \"Freedom City\" aims to attract $50 billion in private investment.",
+        "url": "https://www.foxnews.com/media/detroit-developer-bids-turn-area-low-tax-economic-zone-citing-substantial-taxes-reason-big-blue-cities-like-nyc-trouble",
+        "publishedAt": "2026-07-25T15:36:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Maine Democrats crown Troy Jackson as Platner replacement as fresh scrutiny clouds Senate reset",
+        "description": "Troy Jackson, a fifth-generation logger and former state Senate president, now faces Susan Collins in Maine's Senate race ranked a toss-up.",
+        "url": "https://www.foxnews.com/politics/maine-democrats-crown-troy-jackson-platner-replacement-fresh-scrutiny-clouds-senate-reset",
+        "publishedAt": "2026-07-25T15:31:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'I Play Rocky' revives the gamble that made Sylvester Stallone a superstar",
+        "description": "The \"I Play Rocky\" trailer reveals how Sylvester Stallone refused massive paydays to star in his own screenplay, a gamble experts call unheard of.",
+        "url": "https://www.foxnews.com/entertainment/i-play-rocky-revives-gamble-made-sylvester-stallone-superstar",
+        "publishedAt": "2026-07-25T15:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Slate: 3rd Circuit Ruling Gives SCOTUS 'Cover' to Find Constitutional Protection for AR-15s",
+        "description": "Slate lamented the decision of the U.S. Court of Appeals for the Third Circuit striking down New Jersey's \"assault weapons\" ban.\nThe post Slate: 3rd Circuit Ruling Gives SCOTUS ‘Cover’ to Find Constitutional Protection for AR-15s appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/25/slate-3rd-circuit-ruling-gives-scotus-cover-find-constitutional-protection-ar-15s/",
+        "publishedAt": "2026-07-25T16:34:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "George Michael struggled with 'eternal conflict' over fame, Wham! bandmate Andrew Ridgeley says",
+        "description": "Andrew Ridgeley reveals George Michael's \"eternal conflict\" with fame, saying the Wham! singer created a character to fulfill his artistic destiny.",
+        "url": "https://www.foxnews.com/entertainment/george-michael-struggled-eternal-conflict-over-fame-wham-bandmate-andrew-ridgeley-says",
+        "publishedAt": "2026-07-25T16:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Atlanta: Interim CEO Asks Legislators to Ban Guns on Public Transit",
+        "description": "The interim CEO of the Metropolitan Atlanta Rapid Transit Authority (MARTA) is asking state lawmakers to ban guns on the transit system. \nThe post Atlanta: Interim CEO Asks Legislators to Ban Guns on Public Transit appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/25/atlanta-interim-ceo-asks-legislators-ban-guns-public-transit/",
+        "publishedAt": "2026-07-25T15:48:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Detroit developer cites 'substantial taxes' as reason big blue cities like NYC are in trouble",
+        "description": "Rodney Lockwood's bold plan to transform Detroit's Belle Isle into a tax-friendly \"Freedom City\" aims to attract $50 billion in private investment.",
+        "url": "https://www.foxnews.com/media/detroit-developer-bids-turn-area-low-tax-economic-zone-citing-substantial-taxes-reason-big-blue-cities-like-nyc-trouble",
+        "publishedAt": "2026-07-25T15:36:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Family of 8 Dead in Michigan House Fire; Some of the Victims Were Shot",
+        "description": "A family of eight was found deceased in a Grand Haven Township, Michigan, house fire, and some of the victims had been shot. \nThe post Family of 8 Dead in Michigan House Fire; Some of the Victims Were Shot appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/25/8-dead-michigan-house-fire-some-victims-were-shot/",
+        "publishedAt": "2026-07-25T15:23:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "8"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
