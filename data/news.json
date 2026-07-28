@@ -1,20 +1,148 @@
 {
-  "generated_at": "2026-07-27T23:28:55.321185+00:00",
+  "generated_at": "2026-07-28T00:56:46.694252+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-korea-econ": [
+      {
+        "title": "Oil near $100 puts fed and peers in interest-rate spotlight",
+        "description": "Crude oil’s brief foray above the $100 level it last exceeded two months ago is just one of the potential inflation risks confronting policymakers",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test",
+        "publishedAt": "2026-07-26T05:06:49Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-thai-econ": [
+      {
+        "title": "Oil near $100 puts fed and peers in interest-rate spotlight",
+        "description": "Crude oil’s brief foray above the $100 level it last exceeded two months ago is just one of the potential inflation risks confronting policymakers",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test",
+        "publishedAt": "2026-07-26T05:06:49Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Athletics' Shea Langeliers, top MLB trade deadline target, could be out for season after devastating injury",
+        "description": "Shea Langeliers' torn meniscus could end his 2026 season and shakes up the MLB trade deadline catcher market, as the Athletics' All-Star ponders surgery.",
+        "url": "https://www.foxnews.com/sports/athletics-shea-langeliers-top-mlb-trade-deadline-target-out-season-devastating-injury",
+        "publishedAt": "2026-07-27T00:49:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Victor Davis Hanson: Iran Is The Last Real Obstacle In The Middle East",
+        "description": "Hoover Institution senior fellow Victor Davis Hanson discusses the Trump administration's response to the challenge of Iran on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6402058627112",
+        "publishedAt": "2026-07-27T00:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nickelodeon child actor crashes out, reveals bleak reality of residual checks from sitcom",
+        "description": "Jennifer Hyatt Tedmori opened her stack of residual checks from \"Ned's Declassified School Survival Guide\" on video, revealing shockingly low payouts.",
+        "url": "https://www.foxnews.com/entertainment/nickelodeon-child-actor-crashes-out-reveals-bleak-reality-residual-checks-sitcom",
+        "publishedAt": "2026-07-26T23:24:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sanders: I Don't Regret Supporting Graham Platner in Maine Senate Race",
+        "description": "Sunday on CBS's “Face the Nation,\" Sen. Bernie Sanders (I-VT) said he did not regret supporting former Maine Senate candidate Graham Platner (D) after he dropped out when a former girlfriend made accusations of sexual assault.\nThe post Sanders: I Don’t Regret…",
+        "url": "https://www.breitbart.com/clips/2026/07/26/sanders-i-dont-regret-supporting-graham-platner-in-maine-senate-race/",
+        "publishedAt": "2026-07-26T20:16:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Disgraced coach Sherrone Moore puts Ann Arbor home on market for $1.7 million after Michigan affair",
+        "description": "Sherrone Moore listed his Ann Arbor home for $1.7 million as the fired Michigan Wolverines head coach and wife Kelli Moore look to leave town.",
+        "url": "https://www.foxnews.com/sports/disgraced-coach-sherrone-moore-puts-ann-arbor-home-market-1-7-million-michigan-affair",
+        "publishedAt": "2026-07-26T19:37:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "France's D-Day Beaches, Greece's Mount Olympus Added to UNESCO World Heritage List",
+        "description": "World War II's D-Day landing beaches in northern France and the iconic Mount Olympus in Greece were among the sites added to the World Heritage List on Sunday at a U.N. committee meeting in South Korea reviewing dozens of nominations.\nThe post France’s D-Day …",
+        "url": "https://www.breitbart.com/europe/2026/07/26/frances-d-day-beaches-greeces-mount-olympus-added-to-unesco-world-heritage-list/",
+        "publishedAt": "2026-07-26T12:12:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Mamdani's politics linked to Muslim Brotherhood ideology as New York violence escalates: report",
+        "description": "ISGAP research traces Zohran Mamdani's ties to Muslim Brotherhood-linked organizations as antisemitic violence escalates on Manhattan streets.",
+        "url": "https://www.foxnews.com/opinion/mamdanis-politics-linked-muslim-brotherhood-ideology-new-york-violence-escalates-report",
+        "publishedAt": "2026-07-26T17:36:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "12-Year-Old Son of Police Officer Shot, Killed in Gun-Controlled NYC",
+        "description": "The 12-year-old son of a police sergeant was killed and two other people wounded in a shooting outside a Bronx bodega Saturday around 5:30 p.m.\nThe post 12-Year-Old Son of Police Officer Shot, Killed in Gun-Controlled NYC appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/26/12-year-old-son-of-officer-shot-killed-in-gun-controlled-nyc/",
+        "publishedAt": "2026-07-26T17:27:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "12"
+      },
+      {
+        "title": "Fauci's newly released COVID diaries reveal bizarre fixation on fame as pandemic deaths mounted",
+        "description": "Anthony Fauci's private diary entries reveal he called himself the most famous person in the country while documenting rising COVID-19 death tolls.",
+        "url": "https://www.foxnews.com/politics/fauci-newly-released-covid-diaries-reveal-bizarre-fixation-fame-pandemic-deaths-mounted",
+        "publishedAt": "2026-07-26T15:36:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "19"
+      },
+      {
+        "title": "'Shark Tank' star Daymond John says 'you'll be screwed' if you do this when starting a business",
+        "description": "Daymond John reveals his top business advice at Fanatics Fest, explaining why Kevin O'Leary and other entrepreneurs never chase money first.",
+        "url": "https://www.foxnews.com/entertainment/shark-tank-star-daymond-john-says-youll-be-screwed-if-you-do-this-when-starting-business",
+        "publishedAt": "2026-07-26T15:00:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "France's D-Day Beaches, Greece's Mount Olympus Added to UNESCO World Heritage List",
+        "description": "World War II's D-Day landing beaches in northern France and the iconic Mount Olympus in Greece were among the sites added to the World Heritage List on Sunday at a U.N. committee meeting in South Korea reviewing dozens of nominations.\nThe post France’s D-Day …",
+        "url": "https://www.breitbart.com/europe/2026/07/26/frances-d-day-beaches-greeces-mount-olympus-added-to-unesco-world-heritage-list/",
+        "publishedAt": "2026-07-26T12:12:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
