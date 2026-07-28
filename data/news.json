@@ -1,31 +1,40 @@
 {
-  "generated_at": "2026-07-28T04:12:00.011624+00:00",
+  "generated_at": "2026-07-28T06:40:30.494464+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Oil near $100 puts fed and peers in interest-rate spotlight",
-        "description": "Crude oil’s brief foray above the $100 level it last exceeded two months ago is just one of the potential inflation risks confronting policymakers",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test",
-        "publishedAt": "2026-07-26T05:06:49Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [
       {
-        "title": "Oil near $100 puts fed and peers in interest-rate spotlight",
-        "description": "Crude oil’s brief foray above the $100 level it last exceeded two months ago is just one of the potential inflation risks confronting policymakers",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test",
-        "publishedAt": "2026-07-26T05:06:49Z",
+        "title": "Exclusive: Medical Glove Manufacturer Pleads with Trump to Avert Disaster by Ending Dependency on China",
+        "description": "A national security emergency is quickly approaching due to the U.S.'s dependency on China's supply of medical-grade nitrile butadiene rubber (NBR), with Blue Star NBR CEO Scott Maier making an urgent plea to the Trump administration before time runs out.\nThe…",
+        "url": "https://www.breitbart.com/asia/2026/07/26/exclusive-medical-glove-manufacturer-trump-avert-disaster-ending-dependency-china/",
+        "publishedAt": "2026-07-27T03:39:50Z",
         "source": {
-          "name": "Bloomberg"
+          "name": "Breitbart News"
         },
-        "numericHint": "$"
+        "numericHint": "데이터없음"
       }
     ],
     "news-global-econ": [
+      {
+        "title": "Bitcoin ETFs end inflow streak as Fed rate concerns mount",
+        "description": "Amid fluctuating investor sentiment over Fed rate hikes and legislative uncertainties, Bitcoin ETFs face significant withdrawals, highlighting the fragility of recent crypto gains",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount",
+        "publishedAt": "2026-07-27T05:34:41Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+        "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+        "publishedAt": "2026-07-27T05:02:07Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
         "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
@@ -55,26 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
-      {
-        "title": "Victor Davis Hanson: Iran Is The Last Real Obstacle In The Middle East",
-        "description": "Hoover Institution senior fellow Victor Davis Hanson discusses the Trump administration's response to the challenge of Iran on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6402058627112",
-        "publishedAt": "2026-07-27T00:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nickelodeon child actor crashes out, reveals bleak reality of residual checks from sitcom",
-        "description": "Jennifer Hyatt Tedmori opened her stack of residual checks from \"Ned's Declassified School Survival Guide\" on video, revealing shockingly low payouts.",
-        "url": "https://www.foxnews.com/entertainment/nickelodeon-child-actor-crashes-out-reveals-bleak-reality-residual-checks-sitcom",
-        "publishedAt": "2026-07-26T23:24:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -102,6 +91,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+        "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+        "publishedAt": "2026-07-27T05:02:07Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
         "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
@@ -141,16 +140,6 @@
           "name": "Fox News"
         },
         "numericHint": "19"
-      },
-      {
-        "title": "'Shark Tank' star Daymond John says 'you'll be screwed' if you do this when starting a business",
-        "description": "Daymond John reveals his top business advice at Fanatics Fest, explaining why Kevin O'Leary and other entrepreneurs never chase money first.",
-        "url": "https://www.foxnews.com/entertainment/shark-tank-star-daymond-john-says-youll-be-screwed-if-you-do-this-when-starting-business",
-        "publishedAt": "2026-07-26T15:00:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
