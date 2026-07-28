@@ -1,148 +1,19 @@
 {
-  "generated_at": "2026-07-28T06:40:30.494464+00:00",
+  "generated_at": "2026-07-28T09:23:57.930036+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [
-      {
-        "title": "Exclusive: Medical Glove Manufacturer Pleads with Trump to Avert Disaster by Ending Dependency on China",
-        "description": "A national security emergency is quickly approaching due to the U.S.'s dependency on China's supply of medical-grade nitrile butadiene rubber (NBR), with Blue Star NBR CEO Scott Maier making an urgent plea to the Trump administration before time runs out.\nThe…",
-        "url": "https://www.breitbart.com/asia/2026/07/26/exclusive-medical-glove-manufacturer-trump-avert-disaster-ending-dependency-china/",
-        "publishedAt": "2026-07-27T03:39:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Bitcoin ETFs end inflow streak as Fed rate concerns mount",
-        "description": "Amid fluctuating investor sentiment over Fed rate hikes and legislative uncertainties, Bitcoin ETFs face significant withdrawals, highlighting the fragility of recent crypto gains",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount",
-        "publishedAt": "2026-07-27T05:34:41Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
-        "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-        "publishedAt": "2026-07-27T05:02:07Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
-        "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
-        "publishedAt": "2026-07-27T03:44:21Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Medical Glove Manufacturer Pleads with Trump to Avert Disaster by Ending Dependency on China",
-        "description": "A national security emergency is quickly approaching due to the U.S.'s dependency on China's supply of medical-grade nitrile butadiene rubber (NBR), with Blue Star NBR CEO Scott Maier making an urgent plea to the Trump administration before time runs out.\nThe…",
-        "url": "https://www.breitbart.com/asia/2026/07/26/exclusive-medical-glove-manufacturer-trump-avert-disaster-ending-dependency-china/",
-        "publishedAt": "2026-07-27T03:39:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Athletics' Shea Langeliers, top MLB trade deadline target, could be out for season after devastating injury",
-        "description": "Shea Langeliers' torn meniscus could end his 2026 season and shakes up the MLB trade deadline catcher market, as the Athletics' All-Star ponders surgery.",
-        "url": "https://www.foxnews.com/sports/athletics-shea-langeliers-top-mlb-trade-deadline-target-out-season-devastating-injury",
-        "publishedAt": "2026-07-27T00:49:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "France's D-Day Beaches, Greece's Mount Olympus Added to UNESCO World Heritage List",
-        "description": "World War II's D-Day landing beaches in northern France and the iconic Mount Olympus in Greece were among the sites added to the World Heritage List on Sunday at a U.N. committee meeting in South Korea reviewing dozens of nominations.\nThe post France’s D-Day …",
-        "url": "https://www.breitbart.com/europe/2026/07/26/frances-d-day-beaches-greeces-mount-olympus-added-to-unesco-world-heritage-list/",
-        "publishedAt": "2026-07-26T12:12:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Exclusive: Medical Glove Manufacturer Pleads with Trump to Avert Disaster by Ending Dependency on China",
-        "description": "A national security emergency is quickly approaching due to the U.S.'s dependency on China's supply of medical-grade nitrile butadiene rubber (NBR), with Blue Star NBR CEO Scott Maier making an urgent plea to the Trump administration before time runs out.\nThe…",
-        "url": "https://www.breitbart.com/asia/2026/07/26/exclusive-medical-glove-manufacturer-trump-avert-disaster-ending-dependency-china/",
-        "publishedAt": "2026-07-27T03:39:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
-        "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-        "publishedAt": "2026-07-27T05:02:07Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
-        "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
-        "publishedAt": "2026-07-27T03:44:21Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mamdani's politics linked to Muslim Brotherhood ideology as New York violence escalates: report",
-        "description": "ISGAP research traces Zohran Mamdani's ties to Muslim Brotherhood-linked organizations as antisemitic violence escalates on Manhattan streets.",
-        "url": "https://www.foxnews.com/opinion/mamdanis-politics-linked-muslim-brotherhood-ideology-new-york-violence-escalates-report",
-        "publishedAt": "2026-07-26T17:36:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "12-Year-Old Son of Police Officer Shot, Killed in Gun-Controlled NYC",
-        "description": "The 12-year-old son of a police sergeant was killed and two other people wounded in a shooting outside a Bronx bodega Saturday around 5:30 p.m.\nThe post 12-Year-Old Son of Police Officer Shot, Killed in Gun-Controlled NYC appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/26/12-year-old-son-of-officer-shot-killed-in-gun-controlled-nyc/",
-        "publishedAt": "2026-07-26T17:27:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "Fauci's newly released COVID diaries reveal bizarre fixation on fame as pandemic deaths mounted",
-        "description": "Anthony Fauci's private diary entries reveal he called himself the most famous person in the country while documenting rising COVID-19 death tolls.",
-        "url": "https://www.foxnews.com/politics/fauci-newly-released-covid-diaries-reveal-bizarre-fixation-fame-pandemic-deaths-mounted",
-        "publishedAt": "2026-07-26T15:36:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "19"
-      }
-    ]
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
