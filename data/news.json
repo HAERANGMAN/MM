@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:56:46.694252+00:00",
+  "generated_at": "2026-07-28T04:12:00.011624+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -26,6 +26,26 @@
       }
     ],
     "news-global-econ": [
+      {
+        "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
+        "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
+        "publishedAt": "2026-07-27T03:44:21Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive: Medical Glove Manufacturer Pleads with Trump to Avert Disaster by Ending Dependency on China",
+        "description": "A national security emergency is quickly approaching due to the U.S.'s dependency on China's supply of medical-grade nitrile butadiene rubber (NBR), with Blue Star NBR CEO Scott Maier making an urgent plea to the Trump administration before time runs out.\nThe…",
+        "url": "https://www.breitbart.com/asia/2026/07/26/exclusive-medical-glove-manufacturer-trump-avert-disaster-ending-dependency-china/",
+        "publishedAt": "2026-07-27T03:39:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Athletics' Shea Langeliers, top MLB trade deadline target, could be out for season after devastating injury",
         "description": "Shea Langeliers' torn meniscus could end his 2026 season and shakes up the MLB trade deadline catcher market, as the Athletics' All-Star ponders surgery.",
@@ -55,26 +75,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sanders: I Don't Regret Supporting Graham Platner in Maine Senate Race",
-        "description": "Sunday on CBS's “Face the Nation,\" Sen. Bernie Sanders (I-VT) said he did not regret supporting former Maine Senate candidate Graham Platner (D) after he dropped out when a former girlfriend made accusations of sexual assault.\nThe post Sanders: I Don’t Regret…",
-        "url": "https://www.breitbart.com/clips/2026/07/26/sanders-i-dont-regret-supporting-graham-platner-in-maine-senate-race/",
-        "publishedAt": "2026-07-26T20:16:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Disgraced coach Sherrone Moore puts Ann Arbor home on market for $1.7 million after Michigan affair",
-        "description": "Sherrone Moore listed his Ann Arbor home for $1.7 million as the fired Michigan Wolverines head coach and wife Kelli Moore look to leave town.",
-        "url": "https://www.foxnews.com/sports/disgraced-coach-sherrone-moore-puts-ann-arbor-home-market-1-7-million-michigan-affair",
-        "publishedAt": "2026-07-26T19:37:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
@@ -89,8 +89,29 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-soc": [],
+    "news-thai-soc": [
+      {
+        "title": "Exclusive: Medical Glove Manufacturer Pleads with Trump to Avert Disaster by Ending Dependency on China",
+        "description": "A national security emergency is quickly approaching due to the U.S.'s dependency on China's supply of medical-grade nitrile butadiene rubber (NBR), with Blue Star NBR CEO Scott Maier making an urgent plea to the Trump administration before time runs out.\nThe…",
+        "url": "https://www.breitbart.com/asia/2026/07/26/exclusive-medical-glove-manufacturer-trump-avert-disaster-ending-dependency-china/",
+        "publishedAt": "2026-07-27T03:39:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-global-soc": [
+      {
+        "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
+        "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
+        "publishedAt": "2026-07-27T03:44:21Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Mamdani's politics linked to Muslim Brotherhood ideology as New York violence escalates: report",
         "description": "ISGAP research traces Zohran Mamdani's ties to Muslim Brotherhood-linked organizations as antisemitic violence escalates on Manhattan streets.",
@@ -128,16 +149,6 @@
         "publishedAt": "2026-07-26T15:00:28Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "France's D-Day Beaches, Greece's Mount Olympus Added to UNESCO World Heritage List",
-        "description": "World War II's D-Day landing beaches in northern France and the iconic Mount Olympus in Greece were among the sites added to the World Heritage List on Sunday at a U.N. committee meeting in South Korea reviewing dozens of nominations.\nThe post France’s D-Day …",
-        "url": "https://www.breitbart.com/europe/2026/07/26/frances-d-day-beaches-greeces-mount-olympus-added-to-unesco-world-heritage-list/",
-        "publishedAt": "2026-07-26T12:12:33Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
