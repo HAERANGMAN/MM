@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-07-29T07:13:21.204427+00:00",
+  "generated_at": "2026-07-29T09:57:59.032613+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "LIZ PEEK: Trump is starving the machine that creates America's socialist revolutionaries",
+        "description": "Trump's new student loan caps target graduate school borrowing as politicians like Zohran Mamdani rally debt-laden followers toward socialism.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-trump-starving-machine-creates-americas-socialist-revolutionaries",
+        "publishedAt": "2026-07-28T09:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mamdani sparks fears of violence after doxing wealthy NYC property owners: 'Outright dangerous'",
+        "description": "The searchable database names affluent property owners who could face the proposed pied-à-terre tax, raising new privacy and security concerns.",
+        "url": "https://www.foxnews.com/politics/mamdani-sparks-fears-violence-after-doxing-wealthy-nyc-property-owners-dangerous",
+        "publishedAt": "2026-07-28T09:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "America's No. 1 state is crowned again — find out who's on top and where your state ranks this year",
+        "description": "Utah ranks as America's best state for a fourth straight year while Texas claims the No. 1 economy and South Dakota surges to the No. 2 spot.",
+        "url": "https://www.foxnews.com/politics/americas-no-1-state-crowned-again-find-out-whos-top-where-your-state-ranks-year",
+        "publishedAt": "2026-07-28T09:00:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "‘The Odyssey’ Feminist Translator Emily Wilson Slams Christoper Nolan’s ‘Abysmal’ Screenplay: ‘I Would Be Ashamed to Have Written Any Part of This Script’",
+        "description": "British American classicist scholar Emily Wilson, whose 2017 translation of Homer’s The Odyssey inspired Christopher Nolan's blockbuster film interpretation of the nearly 2,800-year-old poem, is entirely underwhelmed by the end product. To say the least.\nThe …",
+        "url": "https://www.breitbart.com/entertainment/2026/07/28/the-odyssey-feminist-translator-emily-wilson-slams-christoper-nolans-abysmal-screenplay-i-would-be-ashamed-to-have-written-any-part-of-this-scrip/",
+        "publishedAt": "2026-07-28T07:51:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2017"
+      },
       {
         "title": "HSBC uses leverage to win $5.5 billion in India Forex deposits",
         "description": "HSBC leverages up to 19 times deposits, capturing $5.5 billion in Indian Forex, outpacing rivals like Standard Chartered.",
@@ -13,46 +53,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "McFarland: 'Best Solution' Is 'Slow-Rolling Regime Change' Through Economy in Iran, Trump, Bibi Disagree on Regime Change",
-        "description": "On Monday’s broadcast of the Fox Business Network’s “Varney & Co.,” former Trump Deputy National Security Adviser KT McFarland said that “The best solution” in Iran is “sort of a slow-rolling regime change, slow-rolling coup, where the IRGC loses control” and…",
-        "url": "https://www.breitbart.com/clips/2026/07/27/mcfarland-best-solution-is-slow-rolling-regime-change-in-iran-trump-bibi-disagree-on-that/",
-        "publishedAt": "2026-07-28T03:37:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Anthropic’s Dario Amodei rejects open model ban but calls for testing",
-        "description": "Dozens of tech companies — including Anthropic’s main competitor OpenAI — have banded together to urge Washington to shy away from curbs on open-source models",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
-        "publishedAt": "2026-07-28T03:18:52Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Meeks: We Only Saw People 'Going Crazy' Under Trump, 'Can Go On and On' on What Dems Accomplished",
-        "description": "On Monday’s broadcast of “CNN News Central,” Rep. Gregory Meeks (D-NY) said that he “can go on and on and on of what we’ve done” when Democrats ran things, “The time that we’ve seen the American public going crazy is\nThe post Meeks: We Only Saw People ‘Going …",
-        "url": "https://www.breitbart.com/clips/2026/07/27/meeks-we-only-saw-people-going-crazy-under-trump-can-go-on-and-on-on-what-dems-accomplished/",
-        "publishedAt": "2026-07-28T03:00:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fauci Admits in January 2020 Diary Entry That Scientists Believed Coronavirus Likely Stemmed from Lab Leak",
-        "description": "Former National Institute of Allergy and Infectious Diseases (NIAID) head Anthony Fauci privately admitted that scientists suspected the coronavirus likely stemmed from a lab leak as he publicly blasted it as a wild conspiracy theory, revelations from his dia…",
-        "url": "https://www.breitbart.com/politics/2026/07/27/fauci-admits-in-2020-diary-entry-that-scientists-believed-coronavirus-likely-stemmed-from-lab-leak/",
-        "publishedAt": "2026-07-28T00:12:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2020"
       }
     ],
     "news-korea-soc": [],
@@ -79,6 +79,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Mamdani sparks fears of violence after doxing wealthy NYC property owners: 'Outright dangerous'",
+        "description": "The searchable database names affluent property owners who could face the proposed pied-à-terre tax, raising new privacy and security concerns.",
+        "url": "https://www.foxnews.com/politics/mamdani-sparks-fears-violence-after-doxing-wealthy-nyc-property-owners-dangerous",
+        "publishedAt": "2026-07-28T09:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "HSBC uses leverage to win $5.5 billion in India Forex deposits",
         "description": "HSBC leverages up to 19 times deposits, capturing $5.5 billion in Indian Forex, outpacing rivals like Standard Chartered.",
@@ -118,16 +128,6 @@
           "name": "Fox News"
         },
         "numericHint": "40"
-      },
-      {
-        "title": "Son of Chiefs' Eric Bieniemy Arrested in Shooting of Mother",
-        "description": "The son of Chiefs' offensive coordinator Eric Bieniemy is under arrest in connection with the Sunday shooting of his mother, Mia Bieniemy. \nThe post Son of Chiefs’ Eric Bieniemy Arrested in Shooting of Mother appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/27/son-chiefs-eric-bieniemy-arrested-shooting-mother/",
-        "publishedAt": "2026-07-27T19:51:48Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
