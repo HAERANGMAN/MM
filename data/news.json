@@ -1,136 +1,19 @@
 {
-  "generated_at": "2026-07-29T12:04:55.716047+00:00",
+  "generated_at": "2026-07-29T14:28:16.434041+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Spain: 60% Reject Current Socialist Government While 30% Find It 'Disastrous'",
-        "description": "A new survey in Spain found six out of ten Spaniards hold a negative opinion of Spain's current legislative term and socialist Prime Minister Pedro Sánchez's government, with as many as a third strongly condemning the legislature as \"disastrous,\" \"nefarious,\"…",
-        "url": "https://www.breitbart.com/europe/2026/07/28/survey-60-reject-current-parliament-30-finds-it-disastrous/",
-        "publishedAt": "2026-07-28T10:22:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Soros network rebuilds progressive prosecutor push after string of election losses",
-        "description": "Soros family pumped more than $1 million into PACs backing progressive prosecutors for 2026 elections, despite recall elections and defeats that removed dozens of district attorneys.",
-        "url": "https://www.foxnews.com/politics/soros-network-rebuilds-progressive-prosecutor-push-after-string-election-losses",
-        "publishedAt": "2026-07-28T10:17:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Chili's revives iconic red booths and classic design in nationwide restaurant overhaul",
-        "description": "Iconic red booths, neon signage and baby back ribs jingle memorabilia return as Chili's rolls out a nostalgic restaurant redesign nationwide.",
-        "url": "https://www.foxnews.com/food-drink/chilis-revives-iconic-red-booths-classic-design-nationwide-restaurant-overhaul",
-        "publishedAt": "2026-07-28T10:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "LIZ PEEK: Trump is starving the machine that creates America's socialist revolutionaries",
-        "description": "Trump's new student loan caps target graduate school borrowing as politicians like Zohran Mamdani rally debt-laden followers toward socialism.",
-        "url": "https://www.foxnews.com/opinion/liz-peek-trump-starving-machine-creates-americas-socialist-revolutionaries",
-        "publishedAt": "2026-07-28T09:00:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mamdani sparks fears of violence after doxing wealthy NYC property owners: 'Outright dangerous'",
-        "description": "The searchable database names affluent property owners who could face the proposed pied-à-terre tax, raising new privacy and security concerns.",
-        "url": "https://www.foxnews.com/politics/mamdani-sparks-fears-violence-after-doxing-wealthy-nyc-property-owners-dangerous",
-        "publishedAt": "2026-07-28T09:00:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
-    "news-thai-soc": [
-      {
-        "title": "Global partners are joining the Trump administration and this FBI to take down scam empires for good",
-        "description": "FBI Director Kash Patel details how Operation Sand Dollar, Operation Zephyr Exodus, and global law enforcement partners are dismantling scam centers.",
-        "url": "https://www.foxnews.com/opinion/global-partners-joining-trump-administration-fbi-take-down-scam-empires-good",
-        "publishedAt": "2026-07-27T18:10:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "KASH PATEL: Global partners are joining Trump's FBI to take down scam empires for good",
-        "description": "FBI Director Kash Patel details how Operation Sand Dollar, Operation Zephyr Exodus, and global law enforcement partners are dismantling scam centers.",
-        "url": "https://www.foxnews.com/opinion/kash-patel-global-partners-joining-trumps-fbi-take-down-scam-empires-good",
-        "publishedAt": "2026-07-27T18:10:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
-        "description": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
-        "url": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
-        "publishedAt": "2026-07-28T10:00:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mamdani sparks fears of violence after doxing wealthy NYC property owners: 'Outright dangerous'",
-        "description": "The searchable database names affluent property owners who could face the proposed pied-à-terre tax, raising new privacy and security concerns.",
-        "url": "https://www.foxnews.com/politics/mamdani-sparks-fears-violence-after-doxing-wealthy-nyc-property-owners-dangerous",
-        "publishedAt": "2026-07-28T09:00:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "HSBC uses leverage to win $5.5 billion in India Forex deposits",
-        "description": "HSBC leverages up to 19 times deposits, capturing $5.5 billion in Indian Forex, outpacing rivals like Standard Chartered.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/hsbc-uses-leverage-to-win-5-5-billion-in-india-forex-deposits",
-        "publishedAt": "2026-07-28T03:54:58Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "NY Times reporter admits Trump's 'delusional' foes have wrongly written his political obituary many times",
-        "description": "New York Times reporter Jonathan Swan said President Donald Trump showed him a document comparing himself to Napoleon, Stalin, and Genghis Khan in terms of power.",
-        "url": "https://www.foxnews.com/media/ny-times-reporter-admits-trumps-delusional-foes-wrongly-written-political-obituary-many-times",
-        "publishedAt": "2026-07-28T01:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FIFA Boss Gianni Infantino Blasts World Cup Detractors: 'You Were Consumed by Hate'",
-        "description": "In his message celebrating the conclusion of the World Cup, FIFA president Gianni Infantino took a swipe at the tournament's critics, blasting them for spreading \"hate\" while the rest of the world came together.\nThe post FIFA Boss Gianni Infantino Blasts Worl…",
-        "url": "https://www.breitbart.com/sports/2026/07/27/fifa-boss-gianni-infantino-blasts-world-cup-detractors-you-were-consumed-by-hate/",
-        "publishedAt": "2026-07-27T22:54:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
