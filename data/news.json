@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-07-29T01:03:12.497910+00:00",
+  "generated_at": "2026-07-29T04:22:31.970145+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "HSBC uses leverage to win $5.5 billion in India Forex deposits",
+        "description": "HSBC leverages up to 19 times deposits, capturing $5.5 billion in Indian Forex, outpacing rivals like Standard Chartered.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/hsbc-uses-leverage-to-win-5-5-billion-in-india-forex-deposits",
+        "publishedAt": "2026-07-28T03:54:58Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "McFarland: 'Best Solution' Is 'Slow-Rolling Regime Change' Through Economy in Iran, Trump, Bibi Disagree on Regime Change",
+        "description": "On Monday’s broadcast of the Fox Business Network’s “Varney & Co.,” former Trump Deputy National Security Adviser KT McFarland said that “The best solution” in Iran is “sort of a slow-rolling regime change, slow-rolling coup, where the IRGC loses control” and…",
+        "url": "https://www.breitbart.com/clips/2026/07/27/mcfarland-best-solution-is-slow-rolling-regime-change-in-iran-trump-bibi-disagree-on-that/",
+        "publishedAt": "2026-07-28T03:37:07Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei rejects open model ban but calls for testing",
+        "description": "Dozens of tech companies — including Anthropic’s main competitor OpenAI — have banded together to urge Washington to shy away from curbs on open-source models",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+        "publishedAt": "2026-07-28T03:18:52Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Meeks: We Only Saw People 'Going Crazy' Under Trump, 'Can Go On and On' on What Dems Accomplished",
+        "description": "On Monday’s broadcast of “CNN News Central,” Rep. Gregory Meeks (D-NY) said that he “can go on and on and on of what we’ve done” when Democrats ran things, “The time that we’ve seen the American public going crazy is\nThe post Meeks: We Only Saw People ‘Going …",
+        "url": "https://www.breitbart.com/clips/2026/07/27/meeks-we-only-saw-people-going-crazy-under-trump-can-go-on-and-on-on-what-dems-accomplished/",
+        "publishedAt": "2026-07-28T03:00:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fauci Admits in January 2020 Diary Entry That Scientists Believed Coronavirus Likely Stemmed from Lab Leak",
+        "description": "Former National Institute of Allergy and Infectious Diseases (NIAID) head Anthony Fauci privately admitted that scientists suspected the coronavirus likely stemmed from a lab leak as he publicly blasted it as a wild conspiracy theory, revelations from his dia…",
+        "url": "https://www.breitbart.com/politics/2026/07/27/fauci-admits-in-2020-diary-entry-that-scientists-believed-coronavirus-likely-stemmed-from-lab-leak/",
+        "publishedAt": "2026-07-28T00:12:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2020"
+      }
+    ],
     "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-thai-soc": [
+      {
+        "title": "Global partners are joining the Trump administration and this FBI to take down scam empires for good",
+        "description": "FBI Director Kash Patel details how Operation Sand Dollar, Operation Zephyr Exodus, and global law enforcement partners are dismantling scam centers.",
+        "url": "https://www.foxnews.com/opinion/global-partners-joining-trump-administration-fbi-take-down-scam-empires-good",
+        "publishedAt": "2026-07-27T18:10:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "KASH PATEL: Global partners are joining Trump's FBI to take down scam empires for good",
+        "description": "FBI Director Kash Patel details how Operation Sand Dollar, Operation Zephyr Exodus, and global law enforcement partners are dismantling scam centers.",
+        "url": "https://www.foxnews.com/opinion/kash-patel-global-partners-joining-trumps-fbi-take-down-scam-empires-good",
+        "publishedAt": "2026-07-27T18:10:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "HSBC uses leverage to win $5.5 billion in India Forex deposits",
+        "description": "HSBC leverages up to 19 times deposits, capturing $5.5 billion in Indian Forex, outpacing rivals like Standard Chartered.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/hsbc-uses-leverage-to-win-5-5-billion-in-india-forex-deposits",
+        "publishedAt": "2026-07-28T03:54:58Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "NY Times reporter admits Trump's 'delusional' foes have wrongly written his political obituary many times",
+        "description": "New York Times reporter Jonathan Swan said President Donald Trump showed him a document comparing himself to Napoleon, Stalin, and Genghis Khan in terms of power.",
+        "url": "https://www.foxnews.com/media/ny-times-reporter-admits-trumps-delusional-foes-wrongly-written-political-obituary-many-times",
+        "publishedAt": "2026-07-28T01:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "FIFA Boss Gianni Infantino Blasts World Cup Detractors: 'You Were Consumed by Hate'",
+        "description": "In his message celebrating the conclusion of the World Cup, FIFA president Gianni Infantino took a swipe at the tournament's critics, blasting them for spreading \"hate\" while the rest of the world came together.\nThe post FIFA Boss Gianni Infantino Blasts Worl…",
+        "url": "https://www.breitbart.com/sports/2026/07/27/fifa-boss-gianni-infantino-blasts-world-cup-detractors-you-were-consumed-by-hate/",
+        "publishedAt": "2026-07-27T22:54:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News Poll: Cool your servers! Voters reject data centers",
+        "description": "A 40-point margin of voters oppose building data centers in their area, citing environmental concerns over energy use, water use, and pollution.",
+        "url": "https://www.foxnews.com/politics/fox-news-poll-cool-your-servers-voters-reject-data-centers",
+        "publishedAt": "2026-07-27T22:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "Son of Chiefs' Eric Bieniemy Arrested in Shooting of Mother",
+        "description": "The son of Chiefs' offensive coordinator Eric Bieniemy is under arrest in connection with the Sunday shooting of his mother, Mia Bieniemy. \nThe post Son of Chiefs’ Eric Bieniemy Arrested in Shooting of Mother appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/07/27/son-chiefs-eric-bieniemy-arrested-shooting-mother/",
+        "publishedAt": "2026-07-27T19:51:48Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
