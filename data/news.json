@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-07-29T09:57:59.032613+00:00",
+  "generated_at": "2026-07-29T12:04:55.716047+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Spain: 60% Reject Current Socialist Government While 30% Find It 'Disastrous'",
+        "description": "A new survey in Spain found six out of ten Spaniards hold a negative opinion of Spain's current legislative term and socialist Prime Minister Pedro Sánchez's government, with as many as a third strongly condemning the legislature as \"disastrous,\" \"nefarious,\"…",
+        "url": "https://www.breitbart.com/europe/2026/07/28/survey-60-reject-current-parliament-30-finds-it-disastrous/",
+        "publishedAt": "2026-07-28T10:22:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "Soros network rebuilds progressive prosecutor push after string of election losses",
+        "description": "Soros family pumped more than $1 million into PACs backing progressive prosecutors for 2026 elections, despite recall elections and defeats that removed dozens of district attorneys.",
+        "url": "https://www.foxnews.com/politics/soros-network-rebuilds-progressive-prosecutor-push-after-string-election-losses",
+        "publishedAt": "2026-07-28T10:17:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Chili's revives iconic red booths and classic design in nationwide restaurant overhaul",
+        "description": "Iconic red booths, neon signage and baby back ribs jingle memorabilia return as Chili's rolls out a nostalgic restaurant redesign nationwide.",
+        "url": "https://www.foxnews.com/food-drink/chilis-revives-iconic-red-booths-classic-design-nationwide-restaurant-overhaul",
+        "publishedAt": "2026-07-28T10:00:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "LIZ PEEK: Trump is starving the machine that creates America's socialist revolutionaries",
         "description": "Trump's new student loan caps target graduate school borrowing as politicians like Zohran Mamdani rally debt-laden followers toward socialism.",
@@ -23,36 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "America's No. 1 state is crowned again — find out who's on top and where your state ranks this year",
-        "description": "Utah ranks as America's best state for a fourth straight year while Texas claims the No. 1 economy and South Dakota surges to the No. 2 spot.",
-        "url": "https://www.foxnews.com/politics/americas-no-1-state-crowned-again-find-out-whos-top-where-your-state-ranks-year",
-        "publishedAt": "2026-07-28T09:00:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "‘The Odyssey’ Feminist Translator Emily Wilson Slams Christoper Nolan’s ‘Abysmal’ Screenplay: ‘I Would Be Ashamed to Have Written Any Part of This Script’",
-        "description": "British American classicist scholar Emily Wilson, whose 2017 translation of Homer’s The Odyssey inspired Christopher Nolan's blockbuster film interpretation of the nearly 2,800-year-old poem, is entirely underwhelmed by the end product. To say the least.\nThe …",
-        "url": "https://www.breitbart.com/entertainment/2026/07/28/the-odyssey-feminist-translator-emily-wilson-slams-christoper-nolans-abysmal-screenplay-i-would-be-ashamed-to-have-written-any-part-of-this-scrip/",
-        "publishedAt": "2026-07-28T07:51:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2017"
-      },
-      {
-        "title": "HSBC uses leverage to win $5.5 billion in India Forex deposits",
-        "description": "HSBC leverages up to 19 times deposits, capturing $5.5 billion in Indian Forex, outpacing rivals like Standard Chartered.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/hsbc-uses-leverage-to-win-5-5-billion-in-india-forex-deposits",
-        "publishedAt": "2026-07-28T03:54:58Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [],
@@ -79,6 +79,16 @@
       }
     ],
     "news-global-soc": [
+      {
+        "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
+        "description": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
+        "url": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
+        "publishedAt": "2026-07-28T10:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Mamdani sparks fears of violence after doxing wealthy NYC property owners: 'Outright dangerous'",
         "description": "The searchable database names affluent property owners who could face the proposed pied-à-terre tax, raising new privacy and security concerns.",
@@ -118,16 +128,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News Poll: Cool your servers! Voters reject data centers",
-        "description": "A 40-point margin of voters oppose building data centers in their area, citing environmental concerns over energy use, water use, and pollution.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-cool-your-servers-voters-reject-data-centers",
-        "publishedAt": "2026-07-27T22:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "40"
       }
     ]
   },
