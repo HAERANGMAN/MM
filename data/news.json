@@ -1,20 +1,147 @@
 {
-  "generated_at": "2026-07-30T09:18:45.772658+00:00",
+  "generated_at": "2026-07-30T11:24:33.025782+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "WATCH: US envoy defends walkout during France's 'condescending' remarks, vows boycott",
+        "description": "Dan Negrea accused France of \"disingenuous grandstanding\" and vowed American diplomats will keep walking out during French statements at the U.N.",
+        "url": "https://www.foxnews.com/world/watch-us-envoy-defends-walkout-during-frances-condescending-remarks-vows-boycott",
+        "publishedAt": "2026-07-28T17:19:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+        "description": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
+        "url": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+        "publishedAt": "2026-07-29T10:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "616"
+      },
+      {
+        "title": "Chicken wing prices are down — here's why your favorite restaurant may not cut prices",
+        "description": "Wholesale chicken wing prices plunged 66% from pandemic-era highs, and restaurants are passing savings to customers with specials ahead of football season.",
+        "url": "https://www.foxnews.com/food-drink/chicken-wing-prices-down-heres-why-your-favorite-restaurant-may-not-cut-prices",
+        "publishedAt": "2026-07-29T10:00:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "66"
+      },
+      {
+        "title": "The next American boom could be here — unless Washington regulates it to death",
+        "description": "A new study called \"Boomsday Not Doomsday\" argues AI will lower prices on food, housing, and healthcare while creating new jobs across the economy.",
+        "url": "https://www.foxnews.com/opinion/next-american-boom-could-here-unless-washington-regulates-death",
+        "publishedAt": "2026-07-29T09:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "‘We’ve Got Him’: Fauci Knew Wuhan Wet Market Wasn’t Origin of COVID-19 in January 2020",
+        "description": "Monday on “The Alex Marlow Show,” Breitbart Editor-in-Chief Alex Marlow talked about Fauci. Marlow said, “So, a remarkable moment that we’ve got him completely busted here that he said he didn’t recommend locking down everything even though he now we have\nThe…",
+        "url": "https://www.breitbart.com/clips/2026/07/29/weve-got-him-fauci-knew-wuhan-wet-market-wasnt-origin-of-covid-19-in-january-2020/",
+        "publishedAt": "2026-07-29T07:45:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "19"
+      },
+      {
+        "title": "Exclusive—Rick Scott Introduces Bill to Charge Employers $10k Fee for Sponsoring Foreign Worker Applications",
+        "description": "A bill that would charge employers a $10,000 fee for filing a claim to the Department of Labor (DOL) to sponsor a foreign worker for a green card has been introduced by Sen. Rick Scott (R-FL), who said his proposal would give American citizens a \"fair shot at…",
+        "url": "https://www.breitbart.com/immigration/2026/07/28/exclusive-rick-scott-introduces-bill-to-charge-employers-10k-fee-for-sponsoring-foreign-worker-applications/",
+        "publishedAt": "2026-07-28T22:35:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+        "description": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
+        "url": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+        "publishedAt": "2026-07-29T10:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "616"
+      },
+      {
+        "title": "WATCH: US envoy defends walkout during France's 'condescending' remarks, vows boycott",
+        "description": "Dan Negrea accused France of \"disingenuous grandstanding\" and vowed American diplomats will keep walking out during French statements at the U.N.",
+        "url": "https://www.foxnews.com/world/watch-us-envoy-defends-walkout-during-frances-condescending-remarks-vows-boycott",
+        "publishedAt": "2026-07-28T17:19:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Antisemitic violence reaches deadliest level since 1994, new global report finds",
+        "description": "The J7 report reveals 20 people were killed in antisemitic attacks in 2025, marking the deadliest year since 1994 with a 97% rise in violence.",
+        "url": "https://www.foxnews.com/world/antisemitic-violence-reaches-deadliest-level-since-1994-new-global-report-finds",
+        "publishedAt": "2026-07-29T10:20:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1994"
+      },
+      {
+        "title": "Anthony Fauci's Hollywood supporters: Julia Roberts, Katy Perry and Orlando Bloom among celebrity backers",
+        "description": "From Julia Roberts' \"personal hero\" to Katy Perry and Orlando Bloom's \"Fauci Gang,\" Hollywood's biggest stars rallied behind Dr. Anthony Fauci during COVID-19.",
+        "url": "https://www.foxnews.com/entertainment/anthony-fauci-hollywood-supporters-julia-roberts-katy-perry-orlando-bloom-celebrity-backers",
+        "publishedAt": "2026-07-29T10:00:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "19"
+      },
+      {
+        "title": "India wasted 11% of solar power during record summer demand",
+        "description": "India wasted 11% of solar power during peak summer, failing to absorb over 8 billion kilowatt-hours amid soaring demand.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/india-s-grid-curtailed-11-of-solar-power-during-heat-wave",
+        "publishedAt": "2026-07-29T08:58:19Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "11"
+      },
+      {
+        "title": "Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report",
+        "description": "Over 1,000 inmates at Ghezel Hesar Prison enter a third week of hunger strike against Iran's executions, with some sewing their lips shut in protest.",
+        "url": "https://www.foxnews.com/world/iran-inmates-sew-lips-shut-mass-hunger-strike-notorious-us-sanctioned-jail-report",
+        "publishedAt": "2026-07-29T02:08:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Bari Weiss poaches conservative NY Times columnist, others join '60 Minutes' in CBS program shakeup",
+        "description": "Ross Douthat leaves the New York Times after 17 years to join \"60 Minutes\" as a correspondent under new executive producer Nick Bilton's shakeup.",
+        "url": "https://www.foxnews.com/media/bari-weiss-poaches-conservative-ny-times-columnist-others-join-60-minutes-cbs-program-shakeup",
+        "publishedAt": "2026-07-29T01:30:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
