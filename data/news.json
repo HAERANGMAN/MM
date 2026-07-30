@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:24:33.025782+00:00",
+  "generated_at": "2026-07-30T13:05:57.095375+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "New York wants to govern Iowa and Missouri — we're suing to stop it cold",
+        "description": "Iowa and Missouri challenge New York's greenhouse gas reporting rule in federal court, saying it illegally targets out-of-state fuel suppliers.",
+        "url": "https://www.foxnews.com/opinion/new-york-wants-govern-iowa-missouri-suing-stop-cold",
+        "publishedAt": "2026-07-29T13:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Watch Live: Anthony Fauci Testifies Before the Senate",
+        "description": "Anthony Fauci testifies before the Senate Homeland Security and Governmental Affairs Committee on Wednesday, July 28.",
+        "url": "https://www.breitbart.com/health/2026/07/29/watch-live-anthony-fauci-testifies-before-the-senate/",
+        "publishedAt": "2026-07-29T12:37:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "28"
+      },
       {
         "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
         "description": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
@@ -44,26 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "‘We’ve Got Him’: Fauci Knew Wuhan Wet Market Wasn’t Origin of COVID-19 in January 2020",
-        "description": "Monday on “The Alex Marlow Show,” Breitbart Editor-in-Chief Alex Marlow talked about Fauci. Marlow said, “So, a remarkable moment that we’ve got him completely busted here that he said he didn’t recommend locking down everything even though he now we have\nThe…",
-        "url": "https://www.breitbart.com/clips/2026/07/29/weve-got-him-fauci-knew-wuhan-wet-market-wasnt-origin-of-covid-19-in-january-2020/",
-        "publishedAt": "2026-07-29T07:45:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "19"
-      },
-      {
-        "title": "Exclusive—Rick Scott Introduces Bill to Charge Employers $10k Fee for Sponsoring Foreign Worker Applications",
-        "description": "A bill that would charge employers a $10,000 fee for filing a claim to the Department of Labor (DOL) to sponsor a foreign worker for a green card has been introduced by Sen. Rick Scott (R-FL), who said his proposal would give American citizens a \"fair shot at…",
-        "url": "https://www.breitbart.com/immigration/2026/07/28/exclusive-rick-scott-introduces-bill-to-charge-employers-10k-fee-for-sponsoring-foreign-worker-applications/",
-        "publishedAt": "2026-07-28T22:35:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
