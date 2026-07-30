@@ -1,147 +1,19 @@
 {
-  "generated_at": "2026-07-30T16:55:02.923457+00:00",
+  "generated_at": "2026-07-30T18:13:24.165219+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "WATCH: US envoy defends walkout during France's 'condescending' remarks, vows boycott",
-        "description": "Dan Negrea accused France of \"disingenuous grandstanding\" and vowed American diplomats will keep walking out during French statements at the U.N.",
-        "url": "https://www.foxnews.com/world/watch-us-envoy-defends-walkout-during-frances-condescending-remarks-vows-boycott",
-        "publishedAt": "2026-07-28T17:19:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "MIT Polls Experts to Determine AI's 5 Greatest Risks to Humanity",
-        "description": "International experts estimate a 20 percent probability that AI systems could acquire dangerous weapons capabilities or inflict mass harm resulting in millions of deaths over the next five years, according to a recent study conducted by researchers at MIT and…",
-        "url": "https://www.breitbart.com/tech/2026/07/29/mit-polls-experts-to-determine-ais-5-greatest-risks-to-humanity/",
-        "publishedAt": "2026-07-29T16:26:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "DAVID MARCUS: DAVID MARCUS: Egomaniac Fauci couldn't lie or plead 5th to his diary",
-        "description": "Anthony Fauci pleaded the Fifth Amendment before Rand Paul's committee after his secret diary revealed doubts about COVID origins and mask mandates.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-david-marcus-egomaniac-fauci-couldnt-lie-plead-5th-his-diary",
-        "publishedAt": "2026-07-29T16:19:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "China Brings Back Masking for Vulnerable People as Summer Coronavirus Spike Sweeps South",
-        "description": "The Chinese Center for Disease Control and Prevention (CDC) began encouraging vulnerable residents – such as the elderly, pregnant women, and those with chronic diseases – to seek out Wuhan coronavirus vaccine products and use sanitary masks as the rate of co…",
-        "url": "https://www.breitbart.com/asia/2026/07/29/china-brings-back-masking-for-vulnerable-people-as-summer-coronavirus-spike-sweeps-south/",
-        "publishedAt": "2026-07-29T16:12:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FOX BUSINESS NETWORK DELIVERED YEAR-OVER-YEAR GROWTH ACROSS THE BOARD IN JULY",
-        "description": "FBN’s ‘Kudlow’ Surpassed CNBC’s ‘Closing Bell’ For The 58th Consecutive Month With Viewers NEW YORK – July 29, 2026 – FOX Business Network (FBN) delivered year-over-year growth across the board with business day, market hours and total day viewers in July, ac…",
-        "url": "https://press.foxnews.com/2026/07/fox-business-network-delivered-year-over-year-growth-across-the-board-in-july",
-        "publishedAt": "2026-07-29T16:06:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "58"
-      },
-      {
-        "title": "'Incredible Moment in History': Mark Zuckerberg Advocates for Widespread Access to AI Superintelligence",
-        "description": "Meta CEO Mark Zuckerberg has published an opinion piece arguing that AI capabilities should be distributed broadly rather than concentrated among a few powerful institutions. According to Zuckerberg, \"In the next few years, people will be able to use superint…",
-        "url": "https://www.breitbart.com/tech/2026/07/29/incredible-moment-in-history-mark-zuckerberg-advocates-for-widespread-access-to-ai-superintelligence/",
-        "publishedAt": "2026-07-29T15:53:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
-        "description": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
-        "url": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
-        "publishedAt": "2026-07-29T10:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "616"
-      },
-      {
-        "title": "WATCH: US envoy defends walkout during France's 'condescending' remarks, vows boycott",
-        "description": "Dan Negrea accused France of \"disingenuous grandstanding\" and vowed American diplomats will keep walking out during French statements at the U.N.",
-        "url": "https://www.foxnews.com/world/watch-us-envoy-defends-walkout-during-frances-condescending-remarks-vows-boycott",
-        "publishedAt": "2026-07-28T17:19:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Fauci's Fifth Amendment plea shows Biden autopen pardon on 'legally questionable' ground, Comer says",
-        "description": "James Comer says Anthony Fauci's autopen pardon is on legally questionable grounds after the former health official pleaded the Fifth over 100 times.",
-        "url": "https://www.foxnews.com/politics/faucis-fifth-amendment-plea-shows-biden-autopen-pardon-legally-questionable-ground-comer-says",
-        "publishedAt": "2026-07-29T16:50:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "MIT Polls Experts to Determine AI's 5 Greatest Risks to Humanity",
-        "description": "International experts estimate a 20 percent probability that AI systems could acquire dangerous weapons capabilities or inflict mass harm resulting in millions of deaths over the next five years, according to a recent study conducted by researchers at MIT and…",
-        "url": "https://www.breitbart.com/tech/2026/07/29/mit-polls-experts-to-determine-ais-5-greatest-risks-to-humanity/",
-        "publishedAt": "2026-07-29T16:26:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "President Trump Following Iran Attack on U.S. Forces: We're Going to 'Beat the F**king Sh*t Out of Them'",
-        "description": "President Donald Trump on Wednesday warned that the U.S. is going to \"beat the f*cking sh*t\" out of Iran following its attack on U.S. forces in Jordan.\nThe post President Trump Following Iran Attack on U.S. Forces: We’re Going to ‘Beat the F**king Sh*t Out of…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/29/president-trump-following-iran-attack-on-u-s-forces-were-going-to-beat-the-fking-sht-out-of-them/",
-        "publishedAt": "2026-07-29T16:25:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China Brings Back Masking for Vulnerable People as Summer Coronavirus Spike Sweeps South",
-        "description": "The Chinese Center for Disease Control and Prevention (CDC) began encouraging vulnerable residents – such as the elderly, pregnant women, and those with chronic diseases – to seek out Wuhan coronavirus vaccine products and use sanitary masks as the rate of co…",
-        "url": "https://www.breitbart.com/asia/2026/07/29/china-brings-back-masking-for-vulnerable-people-as-summer-coronavirus-spike-sweeps-south/",
-        "publishedAt": "2026-07-29T16:12:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rockefeller Institute Pushes Gun Control to Offset Constitutional Carry",
-        "description": "The Rockefeller Institute of Government published a column on constitutional carry and suggested a number of gun controls to offset it. \nThe post Rockefeller Institute Pushes Gun Control to Offset Constitutional Carry appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/07/29/rockefeller-institute-pushes-gun-control-offset-constitutional-carry/",
-        "publishedAt": "2026-07-29T15:47:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
