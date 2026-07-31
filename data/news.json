@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-07-31T19:40:32.070352+00:00",
+  "generated_at": "2026-07-31T20:49:27.235272+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Trump administration probes Minnesota over 'transgender dolls' in schools, but state disputes story",
+        "description": "The Trump administration launched a federal probe into Minnesota's use of \"MyGender Dolls\" in classrooms, but Tim Walz's office says no such program is being implemented.",
+        "url": "https://www.foxnews.com/media/trump-admin-probes-minnesota-over-transgender-dolls-schools-state-disputes-story",
+        "publishedAt": "2026-07-30T20:32:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Abdul El-Sayed Joined BLM Protests While Pushing Sweeping COVID Lockdowns",
+        "description": "Michigan Democrat Senate candidate Abdul El-Sayed participated in Black Lives Matter demonstrations in 2020 while arguing that the protests should not be subjected to the same public-health concerns used to justify restrictions on other mass gatherings.\nThe p…",
+        "url": "https://www.breitbart.com/politics/2026/07/30/abdul-el-sayed-joined-blm-protests-while-pushing-sweeping-covid-lockdowns/",
+        "publishedAt": "2026-07-30T20:30:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2020"
+      },
+      {
+        "title": "Trump promotes Freedom Haulers Initiative to fast-track military veterans into trucking jobs",
+        "description": "President Trump's Freedom Haulers Initiative streamlines CDL licensing for military veterans while removing over 24,000 non-English-speaking commercial drivers.",
+        "url": "https://www.foxnews.com/politics/trump-promotes-freedom-haulers-initiative-fast-track-military-veterans-trucking-jobs",
+        "publishedAt": "2026-07-30T20:09:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "24"
+      },
       {
         "title": "JONATHAN TURLEY: Fauci takes the Fifth 111 times – and the media still rush to defend him",
         "description": "Dr. Anthony Fauci invoked the Fifth Amendment 111 times as senators confronted him with diary entries contradicting his public COVID-19 statements. The liberal media still defended him.",
@@ -23,41 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fauci denies pushing lockdowns despite diary entry, families demand accountability | Fox News Video",
-        "description": "Co-founder of Voices for Seniors Vivian Zayas, whose mother died in a nursing home during COVID, reacts to Fauci denying he recommended lockdowns directly contradicting his 2020 diary entry.",
-        "url": "https://www.foxnews.com/video/6402479148112",
-        "publishedAt": "2026-07-30T18:53:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2020"
-      },
-      {
-        "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
-        "description": "Video captured thousands of migrants stampeding through Ceuta as Spain's government denies the enclave president's request for a national emergency.",
-        "url": "https://www.foxnews.com/world/white-house-blasts-spanish-government-thousands-migrants-surge-from-morocco-emergency-request-denied",
-        "publishedAt": "2026-07-30T18:19:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "License plate cameras are tracking drivers everywhere",
-        "description": "The DeFlock map displays about 119,000 license plate readers across the U.S., with Flock Safety cameras accounting for 83% of the mapped total.",
-        "url": "https://www.foxnews.com/tech/license-plate-cameras-tracking-drivers-everywhere",
-        "publishedAt": "2026-07-30T17:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "119"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "NBA will not travel to the Middle East this preseason due to war: report",
+        "description": "The NBA held preseason games in Abu Dhabi for four consecutive years, but the ongoing war overseas will reportedly halt the league's Middle East plans.",
+        "url": "https://www.foxnews.com/sports/nba-will-not-travel-middle-east-preseason-due-war-report",
+        "publishedAt": "2026-07-30T20:41:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "European soccer's governing body flips sport upside down with boycott of FIFA, future World Cups",
         "description": "UEFA accuses FIFA of selling football's soul through its FIFA Forward Enterprise plan, with reports of a European boycott of the 2030 World Cup.",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "48"
-      },
-      {
-        "title": "Melania Trump Facilitates Fifth Round of Family Reunifications Between Russia, Ukraine",
-        "description": "First Lady Melania Trump facilitated a fifth round of family reunifications between Russia and Ukraine in which five children returned to their families on Thursday.\nThe post Melania Trump Facilitates Fifth Round of Family Reunifications Between Russia, Ukrai…",
-        "url": "https://www.breitbart.com/politics/2026/07/30/melania-trump-facilitates-fifth-round-family-reunifications-between-russia-ukraine/",
-        "publishedAt": "2026-07-30T15:09:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
