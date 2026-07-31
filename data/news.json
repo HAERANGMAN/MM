@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-31T16:19:05.769234+00:00",
+  "generated_at": "2026-07-31T17:57:34.781798+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "License plate cameras are tracking drivers everywhere",
+        "description": "The DeFlock map displays about 119,000 license plate readers across the U.S., with Flock Safety cameras accounting for 83% of the mapped total.",
+        "url": "https://www.foxnews.com/tech/license-plate-cameras-tracking-drivers-everywhere",
+        "publishedAt": "2026-07-30T17:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "119"
+      },
+      {
+        "title": "Capital culture war heats up as GOP lawmaker targets DC schools over Old Glory snub",
+        "description": "Sen. Ashley Moody's PLEDGE Act would require American flags and daily Pledge of Allegiance recitation in every Washington, D.C., school classroom.",
+        "url": "https://www.foxnews.com/politics/capitol-culture-war-heats-gop-lawmaker-targets-dc-schools-old-glory-snub",
+        "publishedAt": "2026-07-30T16:41:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Ex-Dem operative details 'new donor establishment' behind Mamdani-era progressives: 'Not from the grassroots'",
         "description": "A former progressive fundraiser reveals how dark money super PACs and DSA candidates are reshaping the Democratic Party after its 2024 electoral loss.",
@@ -33,31 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "48"
-      },
-      {
-        "title": "Country star Tracy Lawrence slams California, reveals why he pulled the plug on acting in LA",
-        "description": "Tracy Lawrence calls California \"disheartening\" and reveals $10-a-gallon gas prices make touring the state as unprofitable as going into Canada.",
-        "url": "https://www.foxnews.com/entertainment/country-star-tracy-lawrence-slams-california-reveals-why-he-pulled-plug-acting-la",
-        "publishedAt": "2026-07-30T15:33:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Kate Middleton is the monarchy's 'greatest asset': expert | Fox News Video",
-        "description": "Katie Nicholl, Vanity Fair royal correspondent and co-host of \"The Royals Uncensored,\" says the Princess of Wales won public respect through duty and resilience after health challenges.",
-        "url": "https://www.foxnews.com/video/6402467146112",
-        "publishedAt": "2026-07-30T14:24:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "European soccer's governing body flips sport upside down with boycott of FIFA, future World Cups",
+        "description": "UEFA accuses FIFA of selling football's soul through its FIFA Forward Enterprise plan, with reports of a European boycott of the 2030 World Cup.",
+        "url": "https://www.foxnews.com/sports/european-soccer-governing-body-flips-sport-upside-down-boycott-fifa-future-world-cups",
+        "publishedAt": "2026-07-30T17:57:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2030"
+      },
       {
         "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Bibi stands up for New York's Jews",
         "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
@@ -93,16 +103,6 @@
         "description": "First Lady Melania Trump facilitated a fifth round of family reunifications between Russia and Ukraine in which five children returned to their families on Thursday.\nThe post Melania Trump Facilitates Fifth Round of Family Reunifications Between Russia, Ukrai…",
         "url": "https://www.breitbart.com/politics/2026/07/30/melania-trump-facilitates-fifth-round-family-reunifications-between-russia-ukraine/",
         "publishedAt": "2026-07-30T15:09:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Claims to Have Killed U.S. Troops to 'Liberate the Islamic Land of Jordan'",
-        "description": "Iran's terrorist Islamic Revolutionary Guard Corps (IRGC) claimed to have killed \"several\" Americans during a bombing of Jordan overnight into Thursday and destroyed three fighter jets — a report the Jordanian government appeared to deny, as it reported only …",
-        "url": "https://www.breitbart.com/middle-east/2026/07/30/iran-claims-to-have-killed-u-s-troops-to-liberate-the-islamic-land-of-jordan/",
-        "publishedAt": "2026-07-30T14:32:20Z",
         "source": {
           "name": "Breitbart News"
         },
