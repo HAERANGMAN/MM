@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-07-31T17:57:34.781798+00:00",
+  "generated_at": "2026-07-31T19:40:32.070352+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "JONATHAN TURLEY: Fauci takes the Fifth 111 times – and the media still rush to defend him",
+        "description": "Dr. Anthony Fauci invoked the Fifth Amendment 111 times as senators confronted him with diary entries contradicting his public COVID-19 statements. The liberal media still defended him.",
+        "url": "https://www.foxnews.com/opinion/jonathan-turley-fauci-takes-fifth-111-times-media-still-rush-defend-him",
+        "publishedAt": "2026-07-30T19:36:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "111"
+      },
+      {
+        "title": "Sending ace pitcher Tarik Skubal to the Los Angeles Dodgers would officially ruin baseball",
+        "description": "ESPN's Jeff Passan says MLB teams are resigned to the Dodgers landing Tarik Skubal before the trade deadline, creating a historically dominant rotation.",
+        "url": "https://www.foxnews.com/outkick-sports/sending-ace-pitcher-tarik-skubal-los-angeles-dodgers-would-officially-ruin-baseball",
+        "publishedAt": "2026-07-30T19:30:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fauci denies pushing lockdowns despite diary entry, families demand accountability | Fox News Video",
+        "description": "Co-founder of Voices for Seniors Vivian Zayas, whose mother died in a nursing home during COVID, reacts to Fauci denying he recommended lockdowns directly contradicting his 2020 diary entry.",
+        "url": "https://www.foxnews.com/video/6402479148112",
+        "publishedAt": "2026-07-30T18:53:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2020"
+      },
+      {
+        "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
+        "description": "Video captured thousands of migrants stampeding through Ceuta as Spain's government denies the enclave president's request for a national emergency.",
+        "url": "https://www.foxnews.com/world/white-house-blasts-spanish-government-thousands-migrants-surge-from-morocco-emergency-request-denied",
+        "publishedAt": "2026-07-30T18:19:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "License plate cameras are tracking drivers everywhere",
         "description": "The DeFlock map displays about 119,000 license plate readers across the U.S., with Flock Safety cameras accounting for 83% of the mapped total.",
@@ -13,46 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "119"
-      },
-      {
-        "title": "Capital culture war heats up as GOP lawmaker targets DC schools over Old Glory snub",
-        "description": "Sen. Ashley Moody's PLEDGE Act would require American flags and daily Pledge of Allegiance recitation in every Washington, D.C., school classroom.",
-        "url": "https://www.foxnews.com/politics/capitol-culture-war-heats-gop-lawmaker-targets-dc-schools-old-glory-snub",
-        "publishedAt": "2026-07-30T16:41:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ex-Dem operative details 'new donor establishment' behind Mamdani-era progressives: 'Not from the grassroots'",
-        "description": "A former progressive fundraiser reveals how dark money super PACs and DSA candidates are reshaping the Democratic Party after its 2024 electoral loss.",
-        "url": "https://www.foxnews.com/politics/ex-dem-operative-details-new-donor-establishment-behind-mamdani-era-progressives-not-grassroots",
-        "publishedAt": "2026-07-30T16:07:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2024"
-      },
-      {
-        "title": "Elon Musk's X Settles Lawsuit with Advertisers over Ads Boycott",
-        "description": "Elon Musk's social media platform X has reached a settlement with the World Federation of Advertisers, ending a contentious legal battle that began in 2024 over allegations of an advertising boycott.\nThe post Elon Musk’s X Settles Lawsuit with Advertisers ove…",
-        "url": "https://www.breitbart.com/tech/2026/07/30/elon-musks-x-settles-lawsuit-with-advertisers-over-ads-boycott/",
-        "publishedAt": "2026-07-30T16:01:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2024"
-      },
-      {
-        "title": "US Navy plans major torpedo stockpile overhaul as military shifts to two-war strategy",
-        "description": "The Navy's torpedo overhaul targets MK-48 and MK-54 production as lawmakers push a two-war strategy amid depleted missile stockpiles from the Iran war.",
-        "url": "https://www.foxnews.com/politics/us-navy-plans-major-torpedo-stockpile-overhaul-military-shifts-two-war-strategy",
-        "publishedAt": "2026-07-30T15:37:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "48"
       }
     ],
     "news-korea-soc": [],
