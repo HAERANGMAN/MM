@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-01T21:42:15.189823+00:00",
+  "generated_at": "2026-08-01T22:38:42.093025+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
-        "description": "People with self-described Democratic Socialists of America ties signed on to support a pro-China statement that extols \"Chinese socialism.\"",
-        "url": "https://www.foxnews.com/politics/democratic-socialists-america-activists-signed-pledge-support-defend-chinese-socialism",
-        "publishedAt": "2026-07-31T15:34:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Carville says one democratic socialist's 'lunacy of the highest level' policy could haunt swing state Dems",
-        "description": "James Carville warns that democratic socialist candidates in Michigan and Wisconsin primaries could taint the entire Democratic Party's image nationally.",
-        "url": "https://www.foxnews.com/media/carville-democratic-socialist-lunacy-highest-level-policy-haunt-swing-state-dems",
-        "publishedAt": "2026-07-30T23:15:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
