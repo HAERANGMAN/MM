@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:51:19.779189+00:00",
+  "generated_at": "2026-08-01T21:42:15.189823+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -23,125 +23,18 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [
-      {
-        "title": "Asian stocks post biggest gain in four months on AI optimism",
-        "description": "South Korea’s Kospi led the rally, surging as much as 17% thanks to heavyweights Samsung Electronics Co. and SK Hynix Inc., while Taiwanese stocks also gained more than 7%",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-31/asian-stocks-post-biggest-gain-in-four-months-on-ai-optimism",
-        "publishedAt": "2026-07-31T06:02:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "17"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Dr Fauci’s testimony was an insult to those who lost loved ones in the pandemic, Jonathan Turley says",
-        "description": "Fox News contributor Jonathan Turley says Dr. Anthony Fauci refused to give answers to his contradictions on ‘Life, Liberty & Levin.’",
-        "url": "https://www.foxnews.com/video/6402545783112",
-        "publishedAt": "2026-07-31T20:45:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The biggest threat in America's race with China isn't Beijing, tech executive warns",
-        "description": "Palantir CTO Shyam Sankar says power grid constraints and backlash against data centers threaten U.S. artificial intelligence progress more than China.",
-        "url": "https://www.foxnews.com/politics/biggest-threat-americas-race-china-isnt-beijing-tech-executive-warns",
-        "publishedAt": "2026-07-31T20:40:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Migrant crisis pushes Italy to restore border checks with Spain, testing Europe's open-border system",
-        "description": "Conservative leaders across Europe react as an estimated 60,000 migrants crossed into Ceuta from Morocco within 24 hours, threatening its open-border policies.",
-        "url": "https://www.foxnews.com/world/migrant-crisis-pushes-italy-restore-border-checks-spain-testing-europes-open-border-system",
-        "publishedAt": "2026-07-31T20:08:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Caitlin Clark, Indiana Fever are undervalued against the slumping Portland Fire on ‘Sophie Night’",
-        "description": "Indiana Fever are costly -7.5 favorites over Portland Fire, but key injury tags on Caitlin Clark and Aliyah Boston make the spread intriguing.",
-        "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-undervalued-against-slumping-portland-fire-sophie-night",
-        "publishedAt": "2026-07-31T19:17:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7.5"
-      },
-      {
-        "title": "Foreign robot ban targets China over security fears",
-        "description": "The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving U.S. authorization.",
-        "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
-        "publishedAt": "2026-07-31T19:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Foreign robot ban targets China over security fears",
-        "description": "The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving U.S. authorization.",
-        "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
-        "publishedAt": "2026-07-31T19:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Trump and Zelensky Sign Deal to Bring Ukrainian Drones to U.S.",
-        "description": "A top Ukrainian diplomat told NBC News in a report published Thursday that Kyiv had brokered an agreement with Washington to share its drone technology, potentially allowing for collaboration to improve drone models.\nThe post Report: Trump and Zelensky Sign D…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/31/report-trump-and-zelensky-sign-deal-to-bring-ukrainian-drones-to-u-s/",
-        "publishedAt": "2026-07-31T17:42:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fauci faces lifetime ban from federal government work under new bill following explosive hearing",
-        "description": "Rep. Rich McCormick's bill could ban Anthony Fauci from federal employment after he invoked the Fifth Amendment over 100 times before Rand Paul.",
-        "url": "https://www.foxnews.com/politics/fauci-faces-lifetime-ban-from-federal-government-work-under-new-bill-following-explosive-hearing",
-        "publishedAt": "2026-07-31T17:35:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "The Situation in Morocco: What Are Migrants ‘Fleeing’ From?",
-        "description": "The astonishing sight of thousands of Moroccan migrants overrunning the Spanish town of Ceuta raises questions about what they might be fleeing from. Are conditions in Morocco so horrific that 60,000 people felt it necessary to swim to Spain, leaving at least…",
-        "url": "https://www.breitbart.com/europe/2026/07/31/the-situation-in-morocco-what-are-migrants-fleeing-from/",
-        "publishedAt": "2026-07-31T16:41:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "Fox News AI Newsletter: AI models accessed systems of 3 real organizations, company reveals",
-        "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-models-accessed-systems-3-real-organizations-company-reveals",
-        "publishedAt": "2026-07-31T15:46:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
