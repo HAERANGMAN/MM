@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:55:37.287684+00:00",
+  "generated_at": "2026-08-01T20:51:19.779189+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -37,6 +37,36 @@
     ],
     "news-global-econ": [
       {
+        "title": "Dr Fauci’s testimony was an insult to those who lost loved ones in the pandemic, Jonathan Turley says",
+        "description": "Fox News contributor Jonathan Turley says Dr. Anthony Fauci refused to give answers to his contradictions on ‘Life, Liberty & Levin.’",
+        "url": "https://www.foxnews.com/video/6402545783112",
+        "publishedAt": "2026-07-31T20:45:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The biggest threat in America's race with China isn't Beijing, tech executive warns",
+        "description": "Palantir CTO Shyam Sankar says power grid constraints and backlash against data centers threaten U.S. artificial intelligence progress more than China.",
+        "url": "https://www.foxnews.com/politics/biggest-threat-americas-race-china-isnt-beijing-tech-executive-warns",
+        "publishedAt": "2026-07-31T20:40:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Migrant crisis pushes Italy to restore border checks with Spain, testing Europe's open-border system",
+        "description": "Conservative leaders across Europe react as an estimated 60,000 migrants crossed into Ceuta from Morocco within 24 hours, threatening its open-border policies.",
+        "url": "https://www.foxnews.com/world/migrant-crisis-pushes-italy-restore-border-checks-spain-testing-europes-open-border-system",
+        "publishedAt": "2026-07-31T20:08:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
         "title": "Caitlin Clark, Indiana Fever are undervalued against the slumping Portland Fire on ‘Sophie Night’",
         "description": "Indiana Fever are costly -7.5 favorites over Portland Fire, but key injury tags on Caitlin Clark and Aliyah Boston make the spread intriguing.",
         "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-undervalued-against-slumping-portland-fire-sophie-night",
@@ -53,36 +83,6 @@
         "publishedAt": "2026-07-31T19:00:45Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Scott Bessent: Trump Accounts Are the 'Most Successful Launch in Government History'",
-        "description": "Treasury Secretary Scott Bessent said seven million children have enrolled in Trump Accounts since the program launched July 4, describing the investment accounts as a way to expand financial literacy by giving young Americans real-time experience with saving…",
-        "url": "https://www.breitbart.com/economy/2026/07/31/scott-bessent-trump-accounts-are-the-most-successful-launch-in-government-history/",
-        "publishedAt": "2026-07-31T18:47:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "The Situation in Morocco: What Are Migrants ‘Fleeing’ From?",
-        "description": "The astonishing sight of thousands of Moroccan migrants overrunning the Spanish town of Ceuta raises questions about what they might be fleeing from. Are conditions in Morocco so horrific that 60,000 people felt it necessary to swim to Spain, leaving at least…",
-        "url": "https://www.breitbart.com/europe/2026/07/31/the-situation-in-morocco-what-are-migrants-fleeing-from/",
-        "publishedAt": "2026-07-31T16:41:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
-      },
-      {
-        "title": "WSJ Reports That Tesla Wants to Divest China Operations to Facilitate SpaceX Merger, Elon Musk Calls It 'Fake News'",
-        "description": "Tesla CEO Elon Musk has publicly rejected a media report suggesting the EV giant is preparing to divest its Chinese operations to facilitate a potential merger with SpaceX. The tech tycoon called the report \"fake news.\"\nThe post WSJ Reports That Tesla Wants t…",
-        "url": "https://www.breitbart.com/tech/2026/07/31/wsj-reports-that-tesla-wants-to-divest-china-operations-to-facilitate-spacex-merger-elon-musk-calls-it-fake-news/",
-        "publishedAt": "2026-07-31T16:40:46Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
