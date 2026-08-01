@@ -1,20 +1,147 @@
 {
-  "generated_at": "2026-08-01T18:41:41.057606+00:00",
+  "generated_at": "2026-08-01T19:55:37.287684+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
+        "description": "People with self-described Democratic Socialists of America ties signed on to support a pro-China statement that extols \"Chinese socialism.\"",
+        "url": "https://www.foxnews.com/politics/democratic-socialists-america-activists-signed-pledge-support-defend-chinese-socialism",
+        "publishedAt": "2026-07-31T15:34:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Carville says one democratic socialist's 'lunacy of the highest level' policy could haunt swing state Dems",
+        "description": "James Carville warns that democratic socialist candidates in Michigan and Wisconsin primaries could taint the entire Democratic Party's image nationally.",
+        "url": "https://www.foxnews.com/media/carville-democratic-socialist-lunacy-highest-level-policy-haunt-swing-state-dems",
+        "publishedAt": "2026-07-30T23:15:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-econ": [
+      {
+        "title": "Asian stocks post biggest gain in four months on AI optimism",
+        "description": "South Korea’s Kospi led the rally, surging as much as 17% thanks to heavyweights Samsung Electronics Co. and SK Hynix Inc., while Taiwanese stocks also gained more than 7%",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/asian-stocks-post-biggest-gain-in-four-months-on-ai-optimism",
+        "publishedAt": "2026-07-31T06:02:17Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "17"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Caitlin Clark, Indiana Fever are undervalued against the slumping Portland Fire on ‘Sophie Night’",
+        "description": "Indiana Fever are costly -7.5 favorites over Portland Fire, but key injury tags on Caitlin Clark and Aliyah Boston make the spread intriguing.",
+        "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-undervalued-against-slumping-portland-fire-sophie-night",
+        "publishedAt": "2026-07-31T19:17:13Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "7.5"
+      },
+      {
+        "title": "Foreign robot ban targets China over security fears",
+        "description": "The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving U.S. authorization.",
+        "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
+        "publishedAt": "2026-07-31T19:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Scott Bessent: Trump Accounts Are the 'Most Successful Launch in Government History'",
+        "description": "Treasury Secretary Scott Bessent said seven million children have enrolled in Trump Accounts since the program launched July 4, describing the investment accounts as a way to expand financial literacy by giving young Americans real-time experience with saving…",
+        "url": "https://www.breitbart.com/economy/2026/07/31/scott-bessent-trump-accounts-are-the-most-successful-launch-in-government-history/",
+        "publishedAt": "2026-07-31T18:47:21Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "The Situation in Morocco: What Are Migrants ‘Fleeing’ From?",
+        "description": "The astonishing sight of thousands of Moroccan migrants overrunning the Spanish town of Ceuta raises questions about what they might be fleeing from. Are conditions in Morocco so horrific that 60,000 people felt it necessary to swim to Spain, leaving at least…",
+        "url": "https://www.breitbart.com/europe/2026/07/31/the-situation-in-morocco-what-are-migrants-fleeing-from/",
+        "publishedAt": "2026-07-31T16:41:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "WSJ Reports That Tesla Wants to Divest China Operations to Facilitate SpaceX Merger, Elon Musk Calls It 'Fake News'",
+        "description": "Tesla CEO Elon Musk has publicly rejected a media report suggesting the EV giant is preparing to divest its Chinese operations to facilitate a potential merger with SpaceX. The tech tycoon called the report \"fake news.\"\nThe post WSJ Reports That Tesla Wants t…",
+        "url": "https://www.breitbart.com/tech/2026/07/31/wsj-reports-that-tesla-wants-to-divest-china-operations-to-facilitate-spacex-merger-elon-musk-calls-it-fake-news/",
+        "publishedAt": "2026-07-31T16:40:46Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Foreign robot ban targets China over security fears",
+        "description": "The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving U.S. authorization.",
+        "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
+        "publishedAt": "2026-07-31T19:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Trump and Zelensky Sign Deal to Bring Ukrainian Drones to U.S.",
+        "description": "A top Ukrainian diplomat told NBC News in a report published Thursday that Kyiv had brokered an agreement with Washington to share its drone technology, potentially allowing for collaboration to improve drone models.\nThe post Report: Trump and Zelensky Sign D…",
+        "url": "https://www.breitbart.com/middle-east/2026/07/31/report-trump-and-zelensky-sign-deal-to-bring-ukrainian-drones-to-u-s/",
+        "publishedAt": "2026-07-31T17:42:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fauci faces lifetime ban from federal government work under new bill following explosive hearing",
+        "description": "Rep. Rich McCormick's bill could ban Anthony Fauci from federal employment after he invoked the Fifth Amendment over 100 times before Rand Paul.",
+        "url": "https://www.foxnews.com/politics/fauci-faces-lifetime-ban-from-federal-government-work-under-new-bill-following-explosive-hearing",
+        "publishedAt": "2026-07-31T17:35:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "The Situation in Morocco: What Are Migrants ‘Fleeing’ From?",
+        "description": "The astonishing sight of thousands of Moroccan migrants overrunning the Spanish town of Ceuta raises questions about what they might be fleeing from. Are conditions in Morocco so horrific that 60,000 people felt it necessary to swim to Spain, leaving at least…",
+        "url": "https://www.breitbart.com/europe/2026/07/31/the-situation-in-morocco-what-are-migrants-fleeing-from/",
+        "publishedAt": "2026-07-31T16:41:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "Fox News AI Newsletter: AI models accessed systems of 3 real organizations, company reveals",
+        "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-models-accessed-systems-3-real-organizations-company-reveals",
+        "publishedAt": "2026-07-31T15:46:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
