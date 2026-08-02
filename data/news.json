@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:42:06.040061+00:00",
+  "generated_at": "2026-08-02T07:18:37.935508+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -13,125 +13,18 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [
-      {
-        "title": "Asian stocks post biggest gain in four months on AI optimism",
-        "description": "South Korea’s Kospi led the rally, surging as much as 17% thanks to heavyweights Samsung Electronics Co. and SK Hynix Inc., while Taiwanese stocks also gained more than 7%",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-31/asian-stocks-post-biggest-gain-in-four-months-on-ai-optimism",
-        "publishedAt": "2026-07-31T06:02:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "17"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Data centre boom fuels demand for workforce housing",
-        "description": "A typical 100-megawatt data centre employs hundreds of workers to build it, although it needs only dozens to eventually operate it, according to a University of Southern California Climate Centre report",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-31/data-center-boom-fueling-demand-for-workforce-housing",
-        "publishedAt": "2026-08-01T04:37:09Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Dollar logs its worst week in over 3 months amid Fed doubts",
-        "description": "Traders boosted their bullish dollar bets ahead of the Fed meeting, turning the most upbeat since 2014 as of Tuesday, according to Commodity Futures Trading Commission data released Friday",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-31/dollar-heads-for-worst-week-in-three-months-as-fed-doubts-grow",
-        "publishedAt": "2026-08-01T04:32:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Indian companies plan for fresh price hikes, testing inflation outlook",
-        "description": "Consumer prices rose above the Reserve Bank of India’s 4% target for the first time in nearly a year and a half in June as food and fuel costs climbed",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
-        "publishedAt": "2026-08-01T04:27:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "CNN's Bash to Francesca Hong: You're Not Giving Clear Answer on Defund the Police",
-        "description": "On Friday’s broadcast of CNN’s “Inside Politics,” host Dana Bash said that Democratic Wisconsin gubernatorial candidate Francesca Hong wouldn’t give a yes or a no on whether she still wants to defund the police. During a longer exchange on Hong’s past\nThe pos…",
-        "url": "https://www.breitbart.com/clips/2026/07/31/cnns-bash-to-francesca-hong-youre-not-giving-clear-answer-on-defund-the-police/",
-        "publishedAt": "2026-08-01T03:37:00Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Francesca Hong on if She Changed on Defunding Police: 'What My Values Are Are Where Some of My Beliefs Are As Well'",
-        "description": "On Friday’s broadcast of CNN’s “Inside Politics,” Democratic Wisconsin gubernatorial candidate Francesca Hong responded to a question on if she has changed her past view on defunding the police by saying that “I think that what my values are are where\nThe pos…",
-        "url": "https://www.breitbart.com/clips/2026/07/31/francesca-hong-on-if-she-changed-on-defunding-police-what-my-values-are-are-where-some-of-my-beliefs-are-as-well/",
-        "publishedAt": "2026-08-01T03:35:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Indian companies plan for fresh price hikes, testing inflation outlook",
-        "description": "Consumer prices rose above the Reserve Bank of India’s 4% target for the first time in nearly a year and a half in June as food and fuel costs climbed",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
-        "publishedAt": "2026-08-01T04:27:14Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Weapons stockpile shortages impacting military strategy in the Mideast",
-        "description": "U.S. missile interceptor stockpiles are shrinking, raising readiness concerns.",
-        "url": "https://www.foxnews.com/us/weapons-stockpile-shortages-impacting-military-strategy-mideast",
-        "publishedAt": "2026-07-31T21:01:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Foreign robot ban targets China over security fears",
-        "description": "The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving U.S. authorization.",
-        "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
-        "publishedAt": "2026-07-31T19:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Trump and Zelensky Sign Deal to Bring Ukrainian Drones to U.S.",
-        "description": "A top Ukrainian diplomat told NBC News in a report published Thursday that Kyiv had brokered an agreement with Washington to share its drone technology, potentially allowing for collaboration to improve drone models.\nThe post Report: Trump and Zelensky Sign D…",
-        "url": "https://www.breitbart.com/middle-east/2026/07/31/report-trump-and-zelensky-sign-deal-to-bring-ukrainian-drones-to-u-s/",
-        "publishedAt": "2026-07-31T17:42:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fauci faces lifetime ban from federal government work under new bill following explosive hearing",
-        "description": "Rep. Rich McCormick's bill could ban Anthony Fauci from federal employment after he invoked the Fifth Amendment over 100 times before Rand Paul.",
-        "url": "https://www.foxnews.com/politics/fauci-faces-lifetime-ban-from-federal-government-work-under-new-bill-following-explosive-hearing",
-        "publishedAt": "2026-07-31T17:35:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
