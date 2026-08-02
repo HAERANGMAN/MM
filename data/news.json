@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T01:15:14.217850+00:00",
+  "generated_at": "2026-08-02T04:42:06.040061+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -27,52 +27,52 @@
     ],
     "news-global-econ": [
       {
-        "title": "Breitbart Business Digest: America's First Patent and Our First Financial Bubble",
-        "description": "On on July 31 of 1790, the United States issued its first patent to a Maryland-born Philadelphia Quaker named Samuel Hopkins for a process of making potash and pearl ash.\nThe post Breitbart Business Digest: America’s First Patent and Our First Financial Bubbl…",
-        "url": "https://www.breitbart.com/politics/2026/07/31/breitbart-business-digest-americas-first-patent-and-our-first-financial-bubble/",
-        "publishedAt": "2026-08-01T00:10:37Z",
+        "title": "Data centre boom fuels demand for workforce housing",
+        "description": "A typical 100-megawatt data centre employs hundreds of workers to build it, although it needs only dozens to eventually operate it, according to a University of Southern California Climate Centre report",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/data-center-boom-fueling-demand-for-workforce-housing",
+        "publishedAt": "2026-08-01T04:37:09Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Bloomberg"
         },
-        "numericHint": "31"
+        "numericHint": "100"
       },
       {
-        "title": "Liberal podcaster says he was 'doxed' by Mamdani's 'wanted poster' of property owners",
-        "description": "Liberal podcaster Scott Galloway said New York City Mayor Zohran Mamdani's pied-a-terre tax database amounts to doxing property owners, turning a tax list into a \"wanted poster.\"",
-        "url": "https://www.foxnews.com/media/liberal-podcaster-says-he-doxed-mamdanis-wanted-poster-property-owners",
-        "publishedAt": "2026-07-31T23:55:42Z",
+        "title": "Dollar logs its worst week in over 3 months amid Fed doubts",
+        "description": "Traders boosted their bullish dollar bets ahead of the Fed meeting, turning the most upbeat since 2014 as of Tuesday, according to Commodity Futures Trading Commission data released Friday",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/dollar-heads-for-worst-week-in-three-months-as-fed-doubts-grow",
+        "publishedAt": "2026-08-01T04:32:54Z",
         "source": {
-          "name": "Fox News"
+          "name": "Bloomberg"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Indian companies plan for fresh price hikes, testing inflation outlook",
+        "description": "Consumer prices rose above the Reserve Bank of India’s 4% target for the first time in nearly a year and a half in June as food and fuel costs climbed",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
+        "publishedAt": "2026-08-01T04:27:14Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "CNN's Bash to Francesca Hong: You're Not Giving Clear Answer on Defund the Police",
+        "description": "On Friday’s broadcast of CNN’s “Inside Politics,” host Dana Bash said that Democratic Wisconsin gubernatorial candidate Francesca Hong wouldn’t give a yes or a no on whether she still wants to defund the police. During a longer exchange on Hong’s past\nThe pos…",
+        "url": "https://www.breitbart.com/clips/2026/07/31/cnns-bash-to-francesca-hong-youre-not-giving-clear-answer-on-defund-the-police/",
+        "publishedAt": "2026-08-01T03:37:00Z",
+        "source": {
+          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "ICE Deports Illegal Aliens Convicted of Kidnapping, Armed Assault, Cocaine Smuggling",
-        "description": "Immigration and Customs Enforcement (ICE) deported more illegal aliens from the United States this week, including those convicted of kidnapping, assault with a weapon, and cocaine smuggling, among other things.\nThe post ICE Deports Illegal Aliens Convicted o…",
-        "url": "https://www.breitbart.com/politics/2026/07/31/ice-deports-illegal-aliens-convicted-of-kidnapping-armed-assault-cocaine-smuggling/",
-        "publishedAt": "2026-07-31T21:19:10Z",
+        "title": "Francesca Hong on if She Changed on Defunding Police: 'What My Values Are Are Where Some of My Beliefs Are As Well'",
+        "description": "On Friday’s broadcast of CNN’s “Inside Politics,” Democratic Wisconsin gubernatorial candidate Francesca Hong responded to a question on if she has changed her past view on defunding the police by saying that “I think that what my values are are where\nThe pos…",
+        "url": "https://www.breitbart.com/clips/2026/07/31/francesca-hong-on-if-she-changed-on-defunding-police-what-my-values-are-are-where-some-of-my-beliefs-are-as-well/",
+        "publishedAt": "2026-08-01T03:35:33Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tony Romo's future with CBS is officially in question ahead of 2028 Super Bowl",
-        "description": "J.J. Watt replaces Tony Romo on the CBS No. 1 NFL broadcast team alongside Jim Nantz and Tracy Wolfson as Romo's long-term future is unclear.",
-        "url": "https://www.foxnews.com/outkick-sports/tony-romo-future-cbs-officially-question-ahead-2028-super-bowl",
-        "publishedAt": "2026-07-31T21:15:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "FIRST ON FOX: DHS points to ‘common sense’ reason for collapsing crime: ‘No surprise’",
-        "description": "DHS links deportation of violent criminal illegal immigrants to collapsing crime rates, sharing details of gang members and convicts removed.",
-        "url": "https://www.foxnews.com/politics/dhs-points-common-sense-reason-collapsing-crime-no-surprise",
-        "publishedAt": "2026-07-31T21:00:40Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
@@ -80,6 +80,16 @@
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Indian companies plan for fresh price hikes, testing inflation outlook",
+        "description": "Consumer prices rose above the Reserve Bank of India’s 4% target for the first time in nearly a year and a half in June as food and fuel costs climbed",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
+        "publishedAt": "2026-08-01T04:27:14Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "4"
+      },
       {
         "title": "Weapons stockpile shortages impacting military strategy in the Mideast",
         "description": "U.S. missile interceptor stockpiles are shrinking, raising readiness concerns.",
@@ -119,16 +129,6 @@
           "name": "Fox News"
         },
         "numericHint": "100"
-      },
-      {
-        "title": "The Situation in Morocco: What Are Migrants ‘Fleeing’ From?",
-        "description": "The astonishing sight of thousands of Moroccan migrants overrunning the Spanish town of Ceuta raises questions about what they might be fleeing from. Are conditions in Morocco so horrific that 60,000 people felt it necessary to swim to Spain, leaving at least…",
-        "url": "https://www.breitbart.com/europe/2026/07/31/the-situation-in-morocco-what-are-migrants-fleeing-from/",
-        "publishedAt": "2026-07-31T16:41:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "60"
       }
     ]
   },
