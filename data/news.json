@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-08-01T23:39:25.406024+00:00",
+  "generated_at": "2026-08-02T01:15:14.217850+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
+        "description": "People with self-described Democratic Socialists of America ties signed on to support a pro-China statement that extols \"Chinese socialism.\"",
+        "url": "https://www.foxnews.com/politics/democratic-socialists-america-activists-signed-pledge-support-defend-chinese-socialism",
+        "publishedAt": "2026-07-31T15:34:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-econ": [
+      {
+        "title": "Asian stocks post biggest gain in four months on AI optimism",
+        "description": "South Korea’s Kospi led the rally, surging as much as 17% thanks to heavyweights Samsung Electronics Co. and SK Hynix Inc., while Taiwanese stocks also gained more than 7%",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/asian-stocks-post-biggest-gain-in-four-months-on-ai-optimism",
+        "publishedAt": "2026-07-31T06:02:17Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "17"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Breitbart Business Digest: America's First Patent and Our First Financial Bubble",
+        "description": "On on July 31 of 1790, the United States issued its first patent to a Maryland-born Philadelphia Quaker named Samuel Hopkins for a process of making potash and pearl ash.\nThe post Breitbart Business Digest: America’s First Patent and Our First Financial Bubbl…",
+        "url": "https://www.breitbart.com/politics/2026/07/31/breitbart-business-digest-americas-first-patent-and-our-first-financial-bubble/",
+        "publishedAt": "2026-08-01T00:10:37Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "31"
+      },
+      {
+        "title": "Liberal podcaster says he was 'doxed' by Mamdani's 'wanted poster' of property owners",
+        "description": "Liberal podcaster Scott Galloway said New York City Mayor Zohran Mamdani's pied-a-terre tax database amounts to doxing property owners, turning a tax list into a \"wanted poster.\"",
+        "url": "https://www.foxnews.com/media/liberal-podcaster-says-he-doxed-mamdanis-wanted-poster-property-owners",
+        "publishedAt": "2026-07-31T23:55:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "ICE Deports Illegal Aliens Convicted of Kidnapping, Armed Assault, Cocaine Smuggling",
+        "description": "Immigration and Customs Enforcement (ICE) deported more illegal aliens from the United States this week, including those convicted of kidnapping, assault with a weapon, and cocaine smuggling, among other things.\nThe post ICE Deports Illegal Aliens Convicted o…",
+        "url": "https://www.breitbart.com/politics/2026/07/31/ice-deports-illegal-aliens-convicted-of-kidnapping-armed-assault-cocaine-smuggling/",
+        "publishedAt": "2026-07-31T21:19:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Tony Romo's future with CBS is officially in question ahead of 2028 Super Bowl",
+        "description": "J.J. Watt replaces Tony Romo on the CBS No. 1 NFL broadcast team alongside Jim Nantz and Tracy Wolfson as Romo's long-term future is unclear.",
+        "url": "https://www.foxnews.com/outkick-sports/tony-romo-future-cbs-officially-question-ahead-2028-super-bowl",
+        "publishedAt": "2026-07-31T21:15:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "FIRST ON FOX: DHS points to ‘common sense’ reason for collapsing crime: ‘No surprise’",
+        "description": "DHS links deportation of violent criminal illegal immigrants to collapsing crime rates, sharing details of gang members and convicts removed.",
+        "url": "https://www.foxnews.com/politics/dhs-points-common-sense-reason-collapsing-crime-no-surprise",
+        "publishedAt": "2026-07-31T21:00:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Weapons stockpile shortages impacting military strategy in the Mideast",
+        "description": "U.S. missile interceptor stockpiles are shrinking, raising readiness concerns.",
+        "url": "https://www.foxnews.com/us/weapons-stockpile-shortages-impacting-military-strategy-mideast",
+        "publishedAt": "2026-07-31T21:01:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Foreign robot ban targets China over security fears",
+        "description": "The FCC added foreign-produced humanoid robots and connected power inverters to its Covered List, blocking new models from receiving U.S. authorization.",
+        "url": "https://www.foxnews.com/tech/foreign-robot-ban-targets-china-security-fears",
+        "publishedAt": "2026-07-31T19:00:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Trump and Zelensky Sign Deal to Bring Ukrainian Drones to U.S.",
+        "description": "A top Ukrainian diplomat told NBC News in a report published Thursday that Kyiv had brokered an agreement with Washington to share its drone technology, potentially allowing for collaboration to improve drone models.\nThe post Report: Trump and Zelensky Sign D…",
+        "url": "https://www.breitbart.com/middle-east/2026/07/31/report-trump-and-zelensky-sign-deal-to-bring-ukrainian-drones-to-u-s/",
+        "publishedAt": "2026-07-31T17:42:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fauci faces lifetime ban from federal government work under new bill following explosive hearing",
+        "description": "Rep. Rich McCormick's bill could ban Anthony Fauci from federal employment after he invoked the Fifth Amendment over 100 times before Rand Paul.",
+        "url": "https://www.foxnews.com/politics/fauci-faces-lifetime-ban-from-federal-government-work-under-new-bill-following-explosive-hearing",
+        "publishedAt": "2026-07-31T17:35:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "The Situation in Morocco: What Are Migrants ‘Fleeing’ From?",
+        "description": "The astonishing sight of thousands of Moroccan migrants overrunning the Spanish town of Ceuta raises questions about what they might be fleeing from. Are conditions in Morocco so horrific that 60,000 people felt it necessary to swim to Spain, leaving at least…",
+        "url": "https://www.breitbart.com/europe/2026/07/31/the-situation-in-morocco-what-are-migrants-fleeing-from/",
+        "publishedAt": "2026-07-31T16:41:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "60"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
