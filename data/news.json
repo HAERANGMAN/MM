@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-03T10:44:33.256578+00:00",
+  "generated_at": "2026-08-03T13:30:46.596748+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "US companies win billions in African data center deals in direct competition with China",
-        "description": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
-        "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
-        "publishedAt": "2026-08-02T10:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Markwayne Mullin: Migrants Can Help 'Plug ... Holes' in the Economy",
-        "description": "Homeland Security chief Markwayne Mullin suggested Saturday the federal government could help employers by approving a greater inflow of visa-worker migrants.\nThe post Markwayne Mullin: Migrants Can Help ‘Plug … Holes’ in the Economy appeared first on Breitba…",
-        "url": "https://www.breitbart.com/politics/2026/08/02/markwayne-mullin-migrants-can-help-plug-holes-in-the-economy/",
-        "publishedAt": "2026-08-02T08:50:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mark Levin: The Iranian regime fears its own people more than anything else | Fox News Video",
-        "description": "Fox News host Mark Levin breaks down the Iranian regime's biggest fear and discusses the negative impact of Dr. Anthony Fauci on 'Life, Liberty & Levin.'",
-        "url": "https://www.foxnews.com/video/6402610405112",
-        "publishedAt": "2026-08-02T01:49:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sen Rand Paul says he will send a criminal referral on Dr Fauci to the DOJ | Fox News Video",
-        "description": "Fox News chief congressional correspondent Chad Pergram explains the process for contempt of Congress votes and how Sen. Rand Paul, R-Ky., plans to bypass it on ‘Fox Report.’",
-        "url": "https://www.foxnews.com/video/6402611654112",
-        "publishedAt": "2026-08-02T01:26:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mideast on Brink: Trump May Order Fresh Strikes on Iran, Tehran Warns ‘We Are Ready,’ U.S. Embassies Urge Departures",
-        "description": "President Donald Trump has reportedly ordered a new round of strikes against Iran that could begin as soon as this weekend as Tehran threatens sweeping retaliation.\nThe post Mideast on Brink: Trump May Order Fresh Strikes on Iran, Tehran Warns ‘We Are Ready,’…",
-        "url": "https://www.breitbart.com/politics/2026/08/01/mideast-brink-trump-may-order-fresh-strikes-iran-tehran-warns-we-are-ready-u-s-embassies-urge-departures/",
-        "publishedAt": "2026-08-01T23:07:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "US companies win billions in African data center deals in direct competition with China",
-        "description": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
-        "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
-        "publishedAt": "2026-08-02T10:00:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Markwayne Mullin: Migrants Can Help 'Plug ... Holes' in the Economy",
-        "description": "Homeland Security chief Markwayne Mullin suggested Saturday the federal government could help employers by approving a greater inflow of visa-worker migrants.\nThe post Markwayne Mullin: Migrants Can Help ‘Plug … Holes’ in the Economy appeared first on Breitba…",
-        "url": "https://www.breitbart.com/politics/2026/08/02/markwayne-mullin-migrants-can-help-plug-holes-in-the-economy/",
-        "publishedAt": "2026-08-02T08:50:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
-        "description": "Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.",
-        "url": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
-        "publishedAt": "2026-08-02T01:59:24Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "43"
-      },
-      {
-        "title": "Mamdani extends deadline for NYC homeowners to seek exemption from new pied-à-terre tax",
-        "description": "The pied-a-terre tax sparked confusion after 900,000 properties appeared on a supplemental roll, but only 17,000 homeowners received surcharge letters.",
-        "url": "https://www.foxnews.com/politics/mamdani-extends-deadline-nyc-homeowners-seek-exemption-from-new-pied-a-terre-tax",
-        "publishedAt": "2026-08-01T19:21:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "900"
-      },
-      {
-        "title": "13-Year-Old Wounded When Gunman Opens Fire in Maryland Mall",
-        "description": "A 13-year-old boy was wounded when a gunman opened fire in Montgomery County, Maryland's Wheaton Mall Friday around 6:00 p.m.\nThe post 13-Year-Old Wounded When Gunman Opens Fire in Maryland Mall appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/01/13-year-old-wounded-when-gunman-opens-fire-maryland-mall/",
-        "publishedAt": "2026-08-01T17:11:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "13"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
