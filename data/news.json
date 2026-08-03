@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-03T06:57:00.677787+00:00",
+  "generated_at": "2026-08-03T10:44:33.256578+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "US companies win billions in African data center deals in direct competition with China",
+        "description": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
+        "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+        "publishedAt": "2026-08-02T10:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Markwayne Mullin: Migrants Can Help 'Plug ... Holes' in the Economy",
+        "description": "Homeland Security chief Markwayne Mullin suggested Saturday the federal government could help employers by approving a greater inflow of visa-worker migrants.\nThe post Markwayne Mullin: Migrants Can Help ‘Plug … Holes’ in the Economy appeared first on Breitba…",
+        "url": "https://www.breitbart.com/politics/2026/08/02/markwayne-mullin-migrants-can-help-plug-holes-in-the-economy/",
+        "publishedAt": "2026-08-02T08:50:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Mark Levin: The Iranian regime fears its own people more than anything else | Fox News Video",
         "description": "Fox News host Mark Levin breaks down the Iranian regime's biggest fear and discusses the negative impact of Dr. Anthony Fauci on 'Life, Liberty & Levin.'",
@@ -33,31 +53,31 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bill Maher breaks with the left to hammer Anthony Fauci after explosive Senate hearing",
-        "description": "Bill Maher accused Anthony Fauci of telling \"actual lies\" about COVID-19 origins, saying the lab leak theory was silenced over racial politics.",
-        "url": "https://www.foxnews.com/media/bill-maher-breaks-left-hammer-anthony-fauci-explosive-senate-hearing",
-        "publishedAt": "2026-08-01T19:46:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "19"
-      },
-      {
-        "title": "Mamdani extends deadline for NYC homeowners to seek exemption from new pied-à-terre tax",
-        "description": "The pied-a-terre tax sparked confusion after 900,000 properties appeared on a supplemental roll, but only 17,000 homeowners received surcharge letters.",
-        "url": "https://www.foxnews.com/politics/mamdani-extends-deadline-nyc-homeowners-seek-exemption-from-new-pied-a-terre-tax",
-        "publishedAt": "2026-08-01T19:21:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "900"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "US companies win billions in African data center deals in direct competition with China",
+        "description": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
+        "url": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+        "publishedAt": "2026-08-02T10:00:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Markwayne Mullin: Migrants Can Help 'Plug ... Holes' in the Economy",
+        "description": "Homeland Security chief Markwayne Mullin suggested Saturday the federal government could help employers by approving a greater inflow of visa-worker migrants.\nThe post Markwayne Mullin: Migrants Can Help ‘Plug … Holes’ in the Economy appeared first on Breitba…",
+        "url": "https://www.breitbart.com/politics/2026/08/02/markwayne-mullin-migrants-can-help-plug-holes-in-the-economy/",
+        "publishedAt": "2026-08-02T08:50:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
         "description": "Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.",
@@ -87,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "13"
-      },
-      {
-        "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
-        "description": "Israel's president praised Trump's deep support for the Jewish state and addressed Gaza and the board of peace, Karim Khan's ICC dismissal, U.S.-Israel relations and Zohran Mamdani's rhetoric.",
-        "url": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
-        "publishedAt": "2026-08-01T14:57:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China Eyes Limits on Foreign AI Access as America Weighs Its Own Restrictions",
-        "description": "China is preparing new rules that would restrict foreign access to its most advanced AI models at the same time that America is moving to address foreign access to controlled American technology through cloud computing.\nThe post China Eyes Limits on Foreign A…",
-        "url": "https://www.breitbart.com/tech/2026/08/01/china-eyes-limits-on-foreign-ai-access-as-america-weighs-its-own-restrictions/",
-        "publishedAt": "2026-08-01T14:36:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
