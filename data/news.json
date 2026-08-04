@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-04T09:10:33.652007+00:00",
+  "generated_at": "2026-08-04T11:33:20.808238+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Exclusive: AFP Action Goes ‘All In’ as Mike Rogers Vows to Get Michigan ‘Working Again’",
+        "description": "Republican Michigan Senate candidate Mike Rogers and Americans for Prosperity Action senior adviser Tim Golding told Breitbart News they are emphasizing affordability, energy reform, education reform, manufacturing, and bipartisan problem-solving as Rogers ca…",
+        "url": "https://www.breitbart.com/politics/2026/08/03/exclusive-afp-action-allin-mike-rogers-vows-michigan-working-again/",
+        "publishedAt": "2026-08-03T11:00:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "JUAN WILLIAMS: My nephew returned from space with a message America needs",
+        "description": "NASA astronaut Chris Williams, nephew of Fox News contributor Juan Williams, returned to Earth after eight months on the ISS, completing spacewalks and 3,856 orbits.",
+        "url": "https://www.foxnews.com/opinion/juan-williams-nephew-returned-space-message-america-needs",
+        "publishedAt": "2026-08-03T10:45:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Trump Cites 'Signal of Friendship' as U.S. Joins Japan to Boost Struggling Yen",
+        "description": "The U.S. moved to support Japan on Friday in their first joint action in 28 years to boost the yen after the struggling currency plunged to a four-decade low.\nThe post Trump Cites ‘Signal of Friendship’ as U.S. Joins Japan to Boost Struggling Yen appeared fir…",
+        "url": "https://www.breitbart.com/politics/2026/08/03/trump-cites-signal-of-friendship-as-u-s-joins-japan-to-boost-struggling-yen/",
+        "publishedAt": "2026-08-03T10:40:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "28"
+      },
       {
         "title": "Our enemies found a weakness in essential technology. We must fix it … fast",
         "description": "Iran's Strait of Hormuz jamming exposed GPS vulnerability as over 1,100 vessels recorded interference in a single day, threatening critical infrastructure.",
@@ -23,36 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Caitlin Clark Declines to Back Sophie Cunningham on Protecting Women's Sports from Trans Athletes",
-        "description": "Last week, Fever guard Sophie Cunningham used her platform to defend women's sports from the infiltration of men claiming to be women. This week, Caitlin Clark was given a chance to do the same thing and passed.\nThe post Caitlin Clark Declines to Back Sophie …",
-        "url": "https://www.breitbart.com/sports/2026/08/02/caitlin-clark-declines-to-back-sophie-cunningham-on-protecting-womens-sports-from-trans-athletes/",
-        "publishedAt": "2026-08-03T03:47:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India’s IPO boom cools as weak markets force issuers to cut back",
-        "description": "Companies raised $5.78 billion through IPOs so far in 2026, compared with $7.32 billion in the year-earlier period. That follows record fundraising of $22.36 billion in 2025 and $20.65 billion in 2024.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-03/india-s-ipo-boom-cools-as-weak-markets-force-issuers-to-cut-back",
-        "publishedAt": "2026-08-03T03:04:17Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Box Office: 'Spider-Man: Brand New Day’ Swings to $927 Million Worldwide, Second Biggest Debut Ever",
-        "description": "“Spider-Man: Brand New Day” has made box office history in its first weekend, becoming the second-biggest North American opening ever with $355 million in ticket sales.\nThe post Box Office: ‘Spider-Man: Brand New Day’ Swings to $927 Million Worldwide, Second …",
-        "url": "https://www.breitbart.com/entertainment/2026/08/02/box-office-spider-man-brand-new-day-swings-to-927-million-worldwide-second-biggest-debut-ever/",
-        "publishedAt": "2026-08-03T02:44:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
@@ -79,6 +79,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump Cites 'Signal of Friendship' as U.S. Joins Japan to Boost Struggling Yen",
+        "description": "The U.S. moved to support Japan on Friday in their first joint action in 28 years to boost the yen after the struggling currency plunged to a four-decade low.\nThe post Trump Cites ‘Signal of Friendship’ as U.S. Joins Japan to Boost Struggling Yen appeared fir…",
+        "url": "https://www.breitbart.com/politics/2026/08/03/trump-cites-signal-of-friendship-as-u-s-joins-japan-to-boost-struggling-yen/",
+        "publishedAt": "2026-08-03T10:40:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "28"
+      },
       {
         "title": "JASON CHAFFETZ: Democrats desperately need Nancy Pelosi to take charge",
         "description": "With Nancy Pelosi retiring and DNC fundraising anemic, the Democratic Socialists of America's radical platform forces uncomfortable choices.",
@@ -116,16 +126,6 @@
         "publishedAt": "2026-08-03T03:54:52Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brooks Nader sizzles in iconic red swimsuit as she shares behind the scenes snaps from 'Baywatch' reboot set",
-        "description": "Brooks Nader shared behind-the-scenes photos in the iconic red swimsuit as filming wrapped on FOX's \"Baywatch\" reboot alongside Noah Beck and Livvy Dunne.",
-        "url": "https://www.foxnews.com/entertainment/brooks-nader-sizzles-iconic-red-swimsuit-behind-scenes-snaps-baywatch-reboot-set",
-        "publishedAt": "2026-08-03T02:53:13Z",
-        "source": {
-          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
