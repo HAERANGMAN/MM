@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-04T11:33:20.808238+00:00",
+  "generated_at": "2026-08-04T13:18:20.369499+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Mamdani’s city grocery plan could leave taxpayers paying for every banana",
+        "description": "Zohran Mamdani's government grocery stores promise 30% discounts, but critics warn taxpayers will cover massive losses in a razor-thin margin industry.",
+        "url": "https://www.foxnews.com/opinion/mamdanis-city-grocery-plan-could-leave-taxpayers-paying-every-banana",
+        "publishedAt": "2026-08-03T13:00:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "30"
+      },
+      {
+        "title": "Top Trump ally warns super PAC bankrolled by Dem billionaire is meddling in his GOP primary",
+        "description": "Rep. Andy Ogles says the $2 million clean energy PAC spending against him in Tennessee's Republican primary proves how much groups profit from subsidies.",
+        "url": "https://www.foxnews.com/politics/top-trump-ally-warns-super-pac-bankrolled-dem-billionaire-meddling-gop-primary",
+        "publishedAt": "2026-08-03T12:00:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "DBS Hires ex-Standard Chartered Banker to Lead India Wealth Team",
+        "description": "DBS Bank India announced that Chengappa has joined the firm as Managing Director and Head of Treasuries Business and Wealth Management",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-03/dbs-hires-ex-standard-chartered-banker-to-lead-india-wealth-team",
+        "publishedAt": "2026-08-03T11:33:25Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Exclusive: AFP Action Goes ‘All In’ as Mike Rogers Vows to Get Michigan ‘Working Again’",
         "description": "Republican Michigan Senate candidate Mike Rogers and Americans for Prosperity Action senior adviser Tim Golding told Breitbart News they are emphasizing affordability, energy reform, education reform, manufacturing, and bipartisan problem-solving as Rogers ca…",
@@ -23,36 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "3"
-      },
-      {
-        "title": "Trump Cites 'Signal of Friendship' as U.S. Joins Japan to Boost Struggling Yen",
-        "description": "The U.S. moved to support Japan on Friday in their first joint action in 28 years to boost the yen after the struggling currency plunged to a four-decade low.\nThe post Trump Cites ‘Signal of Friendship’ as U.S. Joins Japan to Boost Struggling Yen appeared fir…",
-        "url": "https://www.breitbart.com/politics/2026/08/03/trump-cites-signal-of-friendship-as-u-s-joins-japan-to-boost-struggling-yen/",
-        "publishedAt": "2026-08-03T10:40:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "28"
-      },
-      {
-        "title": "Our enemies found a weakness in essential technology. We must fix it … fast",
-        "description": "Iran's Strait of Hormuz jamming exposed GPS vulnerability as over 1,100 vessels recorded interference in a single day, threatening critical infrastructure.",
-        "url": "https://www.foxnews.com/opinion/enemies-found-weakness-essential-technology-must-fix-fast",
-        "publishedAt": "2026-08-03T09:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Trump is winning every battle in Iran—and risking the war that matters",
-        "description": "Trump faces a credibility test as Iran absorbs U.S. strikes while China, Russia, and allies assess America's strategic limits and endurance.",
-        "url": "https://www.foxnews.com/opinion/trump-winning-every-battle-iran-risking-war-matters",
-        "publishedAt": "2026-08-03T09:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -61,16 +61,6 @@
         "description": "Trump faces a credibility test as Iran absorbs U.S. strikes while China, Russia, and allies assess America's strategic limits and endurance.",
         "url": "https://www.foxnews.com/opinion/trump-winning-every-battle-iran-risking-war-matters",
         "publishedAt": "2026-08-03T09:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump is proving that the way to better our military is to secure our supply chains",
-        "description": "Trump's executive order bars defense contractors from buying critical minerals from China as part of a broader push to onshore manufacturing.",
-        "url": "https://www.foxnews.com/opinion/trump-proving-way-better-military-secure-supply-chains",
-        "publishedAt": "2026-08-02T12:00:11Z",
         "source": {
           "name": "Fox News"
         },
