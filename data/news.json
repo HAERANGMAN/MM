@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-05T13:03:33.578161+00:00",
+  "generated_at": "2026-08-05T15:23:25.467125+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "WATCH LIVE: Justice Department unveils major health care fraud crackdown | Fox News Video",
+        "description": "Trump administration officials announce new charges and an anti-fraud initiative designed to strengthen investigations and protect taxpayer-funded health care programs.",
+        "url": "https://www.foxnews.com/video/6402778272112",
+        "publishedAt": "2026-08-04T15:18:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gun Control Activist David Hogg — Time to Shake Up Democrat Party Establishment: We 'Want Fighters'",
+        "description": "Gun control activist David Hogg is pushing to remove Democrat National Committee (DNC) Chairman Ken Martin from his position and to broaden the party's leadership so younger constituents feel like they are part of something larger than just opposing Trump.\nTh…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/04/gun-control-activist-david-hogg-time-to-shake-up-democrat-party-establishment-we-want-fighters/",
+        "publishedAt": "2026-08-04T14:34:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Top media outlets fail to disclose who is bankrolling their AI reporters",
+        "description": "Major outlets like TIME and The Verge aren't disclosing that their AI reporters are funded by a nonprofit backed by an Anthropic investor.",
+        "url": "https://www.foxnews.com/politics/top-media-outlets-fail-disclose-bankrolling-ai-reporters",
+        "publishedAt": "2026-08-04T14:00:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "MARK PENN: Socialist Mamdani sold a tax on billionaires. Regulars homeowners could pay the price",
         "description": "The pied-a-terre tax targets far more than billionaires, potentially hitting nearly 1 million New York City homeowners and crashing condo prices.",
@@ -23,41 +53,51 @@
           "name": "Fox News"
         },
         "numericHint": "1"
-      },
-      {
-        "title": "WATCH: GOP senator unloads on 'creature of Washington' challenger in critical Senate showdown",
-        "description": "Jon Husted says Sherrod Brown's 32 years in Washington produced nothing but higher energy prices and liberal votes out of step with Ohio voters.",
-        "url": "https://www.foxnews.com/politics/gop-senator-unloads-creature-washington-challenger-critical-senate-showdown",
-        "publishedAt": "2026-08-04T11:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "32"
-      },
-      {
-        "title": "GOP party fissures exposed in battle for S.C. Senate seat to replace Graham: 'I don't like hearing that'",
-        "description": "Five GOP candidates clashed over the filibuster, the Iran war, and data centers in South Carolina's heated Senate debate to fill Lindsey Graham's seat.",
-        "url": "https://www.foxnews.com/politics/gop-party-fissures-exposed-battle-sc-senate-seat-replace-graham-i-dont-like-hearing-that",
-        "publishedAt": "2026-08-04T10:00:18Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SpaceX’s first earnings offer a chance to reverse stock’s plunge",
-        "description": "SpaceX's first earnings report could impact its stock's decline, offering investors a chance to reassess its speculative valuation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-04/spacex-s-first-earnings-offer-a-chance-to-reverse-stock-s-plunge",
-        "publishedAt": "2026-08-04T09:44:28Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Battlefield robots open new front in innovation war with major US adversary",
+        "description": "EdgeRunner AI's onboard neural network lets military robots continue missions after losing connectivity, eliminating reliance on Starlink or cloud.",
+        "url": "https://www.foxnews.com/politics/battlefield-robots-open-new-front-innovation-war-major-us-adversary",
+        "publishedAt": "2026-08-04T15:09:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Background Checks Surged in Colorado as Buyers Raced to Beat Democrat Gun Control",
+        "description": "Background checks in Colorado surged in July 2026 as residents raced to buy up all the AR-15s and other semiautomatic rifles before Democrats' new \"assault weapons\" gun control took effect.\nThe post Background Checks Surged in Colorado as Buyers Raced to Beat…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/04/background-checks-surged-in-colorado-as-buyers-raced-to-beat-democrat-gun-control/",
+        "publishedAt": "2026-08-04T14:56:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Gun Control Activist David Hogg — Time to Shake Up Democrat Party Establishment: We 'Want Fighters'",
+        "description": "Gun control activist David Hogg is pushing to remove Democrat National Committee (DNC) Chairman Ken Martin from his position and to broaden the party's leadership so younger constituents feel like they are part of something larger than just opposing Trump.\nTh…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/04/gun-control-activist-david-hogg-time-to-shake-up-democrat-party-establishment-we-want-fighters/",
+        "publishedAt": "2026-08-04T14:34:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "New '60 Minutes' producer hopes to crack down on 'rumors' leaked to press following dramatic shakeup",
+        "description": "Nick Bilton's staff memo pushes back on daily newsroom drama leaks, calling 95% of rumors about the \"60 Minutes\" overhaul blatantly incorrect.",
+        "url": "https://www.foxnews.com/media/new-60-minutes-producer-hopes-crack-down-rumors-leaked-press-following-dramatic-shakeup",
+        "publishedAt": "2026-08-04T13:40:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
       {
         "title": "Leonardo DiCaprio, Jeff Bezos Lead $200 Million Project to Save 100 Species ‘Threatened by Climate Change’",
         "description": "LOS ANGELES -- Foundations funded and co-founded by Leonardo DiCaprio and Jeff Bezos have launched an initiative committing $200 million to revive 100 of Earth’s most threatened species, including endangered lemurs, salamanders, pangolins, pigs and echidnas.\n…",
@@ -67,46 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Holy Land battle: Solomon's Pools become flashpoint in fight over Israel's biblical heritage",
-        "description": "Israeli officials say the ancient Solomon's Pools have fallen into disrepair under Palestinian Authority administration, raising concerns over preservation and biblical heritage.",
-        "url": "https://www.foxnews.com/world/holy-land-battle-solomons-pools-flashpoint-fight-israels-biblical-heritage",
-        "publishedAt": "2026-08-04T10:25:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "RBI seen holding rates as inflation risk stay in focus",
-        "description": "The committee is also likely to retain a neutral stance, with inflation remaining within the RBI’s 2%-6% tolerance band and Malhotra signalling policymakers would act only if price pressures become more broad-based",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-04/india-rbi-seen-holding-rates-as-inflation-risks-stay-in-focus",
-        "publishedAt": "2026-08-04T07:26:21Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "#852 – We’re All In This Together: Western Capitals & Disney Channel Hits",
-        "description": "In today’s episode of The Quiz, we’re putting your knowledge to the test on state capitals, pop culture phenomena, and historic American locomotives. Can you answer these? Teen Phenomena: In 2006, Disney Channel released a musical movie starring Zac Efron tha…",
-        "url": "https://radio.foxnews.com/2026/08/04/852-were-all-in-this-together-western-capitals-disney-channel-hits/",
-        "publishedAt": "2026-08-04T07:00:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "852"
-      },
-      {
-        "title": "Modi seeks sweeping tax cuts for global funds",
-        "description": "Lawmakers will seek to clear bills that formalise tax cuts for overseas investors buying Indian sovereign debt and insulate offshore funds from tax liability",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-04/modi-seeks-sweeping-tax-cuts-for-electronics-firms-global-funds",
-        "publishedAt": "2026-08-04T05:23:28Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
