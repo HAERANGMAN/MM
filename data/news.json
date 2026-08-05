@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-05T11:09:08.860213+00:00",
+  "generated_at": "2026-08-05T13:03:33.578161+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "MARK PENN: Socialist Mamdani sold a tax on billionaires. Regulars homeowners could pay the price",
+        "description": "The pied-a-terre tax targets far more than billionaires, potentially hitting nearly 1 million New York City homeowners and crashing condo prices.",
+        "url": "https://www.foxnews.com/opinion/mark-penn-socialist-mamdani-sold-tax-billionaires-regulars-homeowners-could-pay-price",
+        "publishedAt": "2026-08-04T11:00:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Popular weight-loss drugs may help protect against a deadly disease, doctor says",
+        "description": "A breast cancer surgeon explains how GLP-1 drugs like Ozempic and Wegovy may lower cancer recurrence risk by reducing BMI, estrogen and inflammation.",
+        "url": "https://www.foxnews.com/health/popular-weight-loss-drugs-help-protect-against-deadly-disease-doctor-says",
+        "publishedAt": "2026-08-04T11:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "WATCH: GOP senator unloads on 'creature of Washington' challenger in critical Senate showdown",
+        "description": "Jon Husted says Sherrod Brown's 32 years in Washington produced nothing but higher energy prices and liberal votes out of step with Ohio voters.",
+        "url": "https://www.foxnews.com/politics/gop-senator-unloads-creature-washington-challenger-critical-senate-showdown",
+        "publishedAt": "2026-08-04T11:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "32"
+      },
+      {
+        "title": "GOP party fissures exposed in battle for S.C. Senate seat to replace Graham: 'I don't like hearing that'",
+        "description": "Five GOP candidates clashed over the filibuster, the Iran war, and data centers in South Carolina's heated Senate debate to fill Lindsey Graham's seat.",
+        "url": "https://www.foxnews.com/politics/gop-party-fissures-exposed-battle-sc-senate-seat-replace-graham-i-dont-like-hearing-that",
+        "publishedAt": "2026-08-04T10:00:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "SpaceX’s first earnings offer a chance to reverse stock’s plunge",
+        "description": "SpaceX's first earnings report could impact its stock's decline, offering investors a chance to reassess its speculative valuation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-04/spacex-s-first-earnings-offer-a-chance-to-reverse-stock-s-plunge",
+        "publishedAt": "2026-08-04T09:44:28Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Leonardo DiCaprio, Jeff Bezos Lead $200 Million Project to Save 100 Species ‘Threatened by Climate Change’",
+        "description": "LOS ANGELES -- Foundations funded and co-founded by Leonardo DiCaprio and Jeff Bezos have launched an initiative committing $200 million to revive 100 of Earth’s most threatened species, including endangered lemurs, salamanders, pangolins, pigs and echidnas.\n…",
+        "url": "https://www.breitbart.com/entertainment/2026/08/04/leonardo-dicaprio-jeff-bezos-lead-200-million-project-to-save-100-species-threatened-by-climate-change/",
+        "publishedAt": "2026-08-04T11:39:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Holy Land battle: Solomon's Pools become flashpoint in fight over Israel's biblical heritage",
+        "description": "Israeli officials say the ancient Solomon's Pools have fallen into disrepair under Palestinian Authority administration, raising concerns over preservation and biblical heritage.",
+        "url": "https://www.foxnews.com/world/holy-land-battle-solomons-pools-flashpoint-fight-israels-biblical-heritage",
+        "publishedAt": "2026-08-04T10:25:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "RBI seen holding rates as inflation risk stay in focus",
+        "description": "The committee is also likely to retain a neutral stance, with inflation remaining within the RBI’s 2%-6% tolerance band and Malhotra signalling policymakers would act only if price pressures become more broad-based",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-04/india-rbi-seen-holding-rates-as-inflation-risks-stay-in-focus",
+        "publishedAt": "2026-08-04T07:26:21Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "#852 – We’re All In This Together: Western Capitals & Disney Channel Hits",
+        "description": "In today’s episode of The Quiz, we’re putting your knowledge to the test on state capitals, pop culture phenomena, and historic American locomotives. Can you answer these? Teen Phenomena: In 2006, Disney Channel released a musical movie starring Zac Efron tha…",
+        "url": "https://radio.foxnews.com/2026/08/04/852-were-all-in-this-together-western-capitals-disney-channel-hits/",
+        "publishedAt": "2026-08-04T07:00:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "852"
+      },
+      {
+        "title": "Modi seeks sweeping tax cuts for global funds",
+        "description": "Lawmakers will seek to clear bills that formalise tax cuts for overseas investors buying Indian sovereign debt and insulate offshore funds from tax liability",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-04/modi-seeks-sweeping-tax-cuts-for-electronics-firms-global-funds",
+        "publishedAt": "2026-08-04T05:23:28Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
