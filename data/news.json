@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:22:26.854116+00:00",
+  "generated_at": "2026-08-07T23:54:50.462576+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,144 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Iran Claims to Be in ‘Final Stages’ of Deal with Oman to Control Strait of Hormuz",
-        "description": "Iranian Foreign Ministry spokesman Esmail Baqaei said on Wednesday that Iran and Oman have reached the “final stages” of a deal for mutual control of the Strait of Hormuz after two months of negotiations.\nThe post Iran Claims to Be in ‘Final Stages’ of Deal w…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/06/iran-claims-to-be-in-final-stages-of-deal-with-oman-to-control-strait-of-hormuz/",
-        "publishedAt": "2026-08-06T22:05:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Inspector General Slams H-1B Program: 'Not Just Fraud... a Criminal Enterprise'",
-        "description": "Criminal networks are selling Americans' white-collar jobs via the huge and complex H-1B visa program, says Anthony D'Esposito, the Inspector General at the Department of Labor.\nThe post Inspector General Slams H-1B Program: ‘Not Just Fraud… a Criminal Enterp…",
-        "url": "https://www.breitbart.com/immigration/2026/08/06/inspector-general-slams-h-1b-program-not-just-fraud-a-criminal-enterprise/",
-        "publishedAt": "2026-08-06T19:54:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Nolte: ‘Supergirl’ Exits Theaters a ‘Howard the Duck’-sized Failure",
-        "description": "DC’s girlboss Supergirl movie has ended its theatrical run as a historic and epic failure.\nThe post Nolte: ‘Supergirl’ Exits Theaters a ‘Howard the Duck’-sized Failure appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/08/06/nolte-supergirl-exits-theaters-a-howard-the-duck-sized-failure/",
-        "publishedAt": "2026-08-06T18:13:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Woman sues Yankees for $10 million, claiming errant bat into stands caused severe injuries",
-        "description": "A $10 million lawsuit claims protective netting near the on-deck circle was significantly lower, leaving an unprotected opening where the bat struck.",
-        "url": "https://www.foxnews.com/sports/woman-sues-yankees-10-million-errant-bat-stands-caused-severe-injuries",
-        "publishedAt": "2026-08-06T18:00:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Burrito debate rips open GOP civil war on affordability: ‘We will lose, and deserve it’",
-        "description": "A college student's complaint about a $20 burrito sparked a fierce GOP debate on affordability, even drawing in JD Vance and Rep. Dan Crenshaw.",
-        "url": "https://www.foxnews.com/politics/burrito-debate-rips-open-gop-civil-war-affordability-we-lose-deserve-it",
-        "publishedAt": "2026-08-06T17:37:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Colombia: Police Intercept Bus Full of Bombs Hours Before Abelardo de la Espriella's Inauguration",
-        "description": "Colombian National Police officers on Wednesday found and neutralized a bus loaded with nearly half a ton of explosives a few kilometers away from Cali — the city that will soon host the inauguration of conservative President-elect Abelardo de la Espriella.\nT…",
-        "url": "https://www.breitbart.com/latin-america/2026/08/06/bus-full-of-bombs-intercepted-hours-before-abelardo-de-la-espriellas-inauguration/",
-        "publishedAt": "2026-08-06T17:34:08Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Pentagon Updates U.S. Nuclear Strategy to Address War with China and Russia",
-        "description": "The Department of War is reportedly drafting a revised nuclear strategy for regional conflicts with China and Russia, with more of an emphasis on limited deployments of short-range tactical nuclear weapons, instead of escalating immediately to all-out nuclear…",
-        "url": "https://www.breitbart.com/asia/2026/08/06/report-pentagon-updates-u-s-nuclear-strategy-to-address-war-with-china-and-russia/",
-        "publishedAt": "2026-08-06T17:04:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
-        "description": "U.S. Indo-Pacific Command said it is \"consulting closely with our allies and partners\" Thursday after North Korea test-fired a ballistic missile.",
-        "url": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
-        "publishedAt": "2026-08-06T16:25:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Texas Appeals Court Panel Upholds Gun Ban at State Fair",
-        "description": "A three-judge panel of the 15th Court of Appeals affirmed a lower court ruling Thursday, thereby upholding the Texas State Fair handgun ban. \nThe post Texas Appeals Court Panel Upholds Gun Ban at State Fair appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/06/texas-appeals-court-panel-upholds-gun-ban-state-fair/",
-        "publishedAt": "2026-08-06T20:58:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-        "description": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
-        "url": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
-        "publishedAt": "2026-08-06T20:22:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "46"
-      },
-      {
-        "title": "Nolte: ‘Supergirl’ Exits Theaters a ‘Howard the Duck’-sized Failure",
-        "description": "DC’s girlboss Supergirl movie has ended its theatrical run as a historic and epic failure.\nThe post Nolte: ‘Supergirl’ Exits Theaters a ‘Howard the Duck’-sized Failure appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/08/06/nolte-supergirl-exits-theaters-a-howard-the-duck-sized-failure/",
-        "publishedAt": "2026-08-06T18:13:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Afghan Migrant Jailed For Life Over Deadly 'Allahu Akbar' Car Ramming Attack on German Crowd",
-        "description": "German court has jailed an Afghan migrant for life over 2025 attack on a protest march that killed a mother and child and injured dozens more.\nThe post Afghan Migrant Jailed For Life Over Deadly ‘Allahu Akbar’ Car Ramming Attack on German Crowd appeared first…",
-        "url": "https://www.breitbart.com/europe/2026/08/06/afghan-migrant-jailed-over-deadly-allahu-akbar-car-ramming/",
-        "publishedAt": "2026-08-06T17:57:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2025"
-      },
-      {
-        "title": "Nolte: Desperate Disney Cuts TikTok Deal to Let People Use Marvel, Star Wars Characters",
-        "description": "The Disney Grooming Syndicate cut a deal with TikTok that allows content creators to use Disney characters in short videos.\nThe post Nolte: Desperate Disney Cuts TikTok Deal to Let People Use Marvel, Star Wars Characters appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/entertainment/2026/08/06/nolte-desperate-disney-cuts-tiktok-deal-to-let-people-use-marvel-star-wars-characters/",
-        "publishedAt": "2026-08-06T17:07:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
