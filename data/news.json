@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T22:30:27.830978+00:00",
+  "generated_at": "2026-08-07T01:36:23.692232+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -25,6 +25,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Trump Touts 40k New Jobs in Nevada, 100k Lifted off Food Stamps",
+        "description": "President Donald Trump touted the results of his economic policies in Las Vegas on Wednesday, including 40,000 new jobs for Nevadans since his second term began.\nThe post Trump Touts 40k New Jobs in Nevada, 100k Lifted off Food Stamps appeared first on Breitb…",
+        "url": "https://www.breitbart.com/politics/2026/08/05/trump-touts-40k-new-jobs-in-nevada-100k-lifted-off-food-stamps/",
+        "publishedAt": "2026-08-06T00:20:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "Breitbart Business Digest: Warsh Is Right About the Costs of Too Much Fed Talk",
+        "description": "The reaction function fundamentalists think Warsh is abandoning monetary theory. In reality, he appears to understand a part of it they have forgotten.\nThe post Breitbart Business Digest: Warsh Is Right About the Costs of Too Much Fed Talk appeared first on B…",
+        "url": "https://www.breitbart.com/economy/2026/08/05/breitbart-business-digest-warsh-is-right-about-the-costs-of-too-much-fed-talk/",
+        "publishedAt": "2026-08-05T23:14:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "JD Vance warns 'limousine socialists' will destroy Michigan auto jobs, depress American wages",
         "description": "JD Vance labels Abdul El-Sayed a \"limousine socialist,\" claiming the Michigan Senate candidate's policies on immigration and tariffs hurt auto workers.",
@@ -52,26 +72,6 @@
         "publishedAt": "2026-08-05T20:12:55Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "LEE CARTER: Election shocker: The winners had a slogan, the losers just had résumés",
-        "description": "Political candidates Abdul El-Sayed, Wesley Bell, and Trump's 2016 playbook reveal why Tuesday's primary winners had a sentence and the losers had a résumé to read.",
-        "url": "https://www.foxnews.com/opinion/lee-carter-election-shocker-winners-had-slogan-losers-just-had-resumes",
-        "publishedAt": "2026-08-05T19:27:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2016"
-      },
-      {
-        "title": "Trump Judges Turbocharge Deportation Orders",
-        "description": "President Donald Trump's deputies have tripled the monthly number of judicial deportation orders, enabling officials to exceed their recent deportation records during the next few months.\nThe post Trump Judges Turbocharge Deportation Orders appeared first on …",
-        "url": "https://www.breitbart.com/economy/2026/08/05/trump-deputies-triple-courtroom-deportation-orders/",
-        "publishedAt": "2026-08-05T19:25:45Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
