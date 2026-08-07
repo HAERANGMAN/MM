@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-07T04:13:45.702251+00:00",
+  "generated_at": "2026-08-07T05:52:05.115976+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Russia deploys North Korean missile unit to Ukraine; Moscow-Pyongyang axis deepens: report",
-        "description": "A Ukrainian intelligence official says Russia is deploying a North Korean unit with up to 120 ballistic missiles in its war against Ukraine.",
-        "url": "https://www.foxnews.com/world/russia-deploys-north-korean-missile-unit-ukraine-moscow-pyongyang-axis-deepens",
-        "publishedAt": "2026-08-05T21:20:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "120"
-      },
-      {
-        "title": "AMB GORDON SONDLAND: America's aid to Israel isn't charity — it's a bargain for US security",
-        "description": "A former U.S. ambassador argues the $3.8 billion in annual security assistance to Israel yields unmatched returns in intelligence and missile defense.",
-        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-americas-aid-israel-bargain-us-security",
-        "publishedAt": "2026-08-05T09:00:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
