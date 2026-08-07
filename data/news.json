@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:36:23.692232+00:00",
+  "generated_at": "2026-08-07T04:13:45.702251+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,124 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump Touts 40k New Jobs in Nevada, 100k Lifted off Food Stamps",
-        "description": "President Donald Trump touted the results of his economic policies in Las Vegas on Wednesday, including 40,000 new jobs for Nevadans since his second term began.\nThe post Trump Touts 40k New Jobs in Nevada, 100k Lifted off Food Stamps appeared first on Breitb…",
-        "url": "https://www.breitbart.com/politics/2026/08/05/trump-touts-40k-new-jobs-in-nevada-100k-lifted-off-food-stamps/",
-        "publishedAt": "2026-08-06T00:20:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "40"
-      },
-      {
-        "title": "Breitbart Business Digest: Warsh Is Right About the Costs of Too Much Fed Talk",
-        "description": "The reaction function fundamentalists think Warsh is abandoning monetary theory. In reality, he appears to understand a part of it they have forgotten.\nThe post Breitbart Business Digest: Warsh Is Right About the Costs of Too Much Fed Talk appeared first on B…",
-        "url": "https://www.breitbart.com/economy/2026/08/05/breitbart-business-digest-warsh-is-right-about-the-costs-of-too-much-fed-talk/",
-        "publishedAt": "2026-08-05T23:14:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "JD Vance warns 'limousine socialists' will destroy Michigan auto jobs, depress American wages",
-        "description": "JD Vance labels Abdul El-Sayed a \"limousine socialist,\" claiming the Michigan Senate candidate's policies on immigration and tariffs hurt auto workers.",
-        "url": "https://www.foxnews.com/media/jd-vance-warns-limousine-socialists-destroy-michigan-auto-jobs-depress-american-wages",
-        "publishedAt": "2026-08-05T21:00:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's antitrust point man could reshape Big Tech cases against Google and Apple if confirmed",
-        "description": "Adam Candeub's Senate confirmation hearing could reshape landmark antitrust cases against Google and Apple as he pushes for Section 230 reform.",
-        "url": "https://www.foxnews.com/politics/trumps-antitrust-pointman-could-reshape-big-tech-cases-against-google-apple-confirmed",
-        "publishedAt": "2026-08-05T20:44:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "230"
-      },
-      {
-        "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
-        "description": "Video shows a Russian drone stalking a vegetable vendor through a Kherson market before detonating near him, in what Zelenskyy calls a \"safari.\"",
-        "url": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
-        "publishedAt": "2026-08-05T20:12:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "AMB GORDON SONDLAND: America's aid to Israel isn't charity — it's a bargain for US security",
-        "description": "A former U.S. ambassador argues the $3.8 billion in annual security assistance to Israel yields unmatched returns in intelligence and missile defense.",
-        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-americas-aid-israel-bargain-us-security",
-        "publishedAt": "2026-08-05T09:00:15Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Struggling LIV Golf Announces $300M Investment to Avoid Shutdown",
-        "description": "LIV Golf CEO Scott O’Neil announced on Wednesday that the struggling league has received a $300 million infusion of much-needed cash\nThe post Struggling LIV Golf Announces $300M Investment to Avoid Shutdown appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/sports/2026/08/05/struggling-liv-golf-announces-300m-investment-to-avoid-shut-down/",
-        "publishedAt": "2026-08-05T20:59:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Two Family Members Dead in North Carolina Domestic Shooting",
-        "description": "Two family members are dead following a domestic shooting just prior to 8:00 a.m. Wednesday morning in Caswell County, North Carolina.\nThe post Two Family Members Dead in North Carolina Domestic Shooting appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/05/two-family-members-dead-north-carolina-domestic-shooting/",
-        "publishedAt": "2026-08-05T20:53:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Plaintiffs Secure Ruling that NFA Registration Is Unconstitutional",
-        "description": "Plaintiffs in Jensen v. ATF secured a ruling freeing them the NFA's registration requirements for suppressors and short-barrel rifles. \nThe post Plaintiffs Secure Ruling that NFA Registration Is Unconstitutional appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/05/plaintiffs-secure-ruling-nfa-registration-is-unconstitutional/",
-        "publishedAt": "2026-08-05T20:15:33Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive: Greer Blasts Democrat State Attorneys General For Choosing Foreign Sweatshops Over American Workers",
-        "description": "“It’s official: Twenty-five Democrat-run states, spanning from Michigan to California, have made their priorities clear: foreign sweatshops come before protecting hardworking Americans,” Greer said in a statement obtained exclusively by Breitbart News.\nThe po…",
-        "url": "https://www.breitbart.com/economy/2026/08/05/exclusive-greer-blasts-democrat-state-attorneys-general-for-choosing-foreign-sweatshops-over-american-workers/",
-        "publishedAt": "2026-08-05T19:44:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
-        "description": "Nuclear experts urged President Trump to keep Iran’s nuclear program at the center of talks, warning Tehran could seek sanctions relief before addressing its remaining nuclear capabilities.",
-        "url": "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
-        "publishedAt": "2026-08-05T19:32:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
