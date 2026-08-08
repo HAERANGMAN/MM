@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:18:17.038745+00:00",
+  "generated_at": "2026-08-08T03:01:19.929214+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,26 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Marsha Blackburn Wins Tennessee Republican Gubernatorial Nomination",
+        "description": "Tennessee Sen. Marsha Blackburn won Thursday's Republican primary to become the next governor of Tennessee, according to AP and Decision Desk. Blackburn defeated two challengers in the contest, Rep. John Rose and state Rep. Monty Fritts.\nThe post Marsha Black…",
+        "url": "https://www.breitbart.com/midterm-election/2026/08/06/marsha-blackburn-wins-tennessee-republican-gubernatorial-nomination/",
+        "publishedAt": "2026-08-07T02:22:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mamdani repeatedly sidesteps questions on reported plan to revive tax hikes on wealthy New Yorkers",
+        "description": "New York City Mayor Zohran Mamdani repeatedly declined to address reports of a fall campaign to build support for higher taxes on wealthy residents and corporations.",
+        "url": "https://www.foxnews.com/politics/mamdani-repeatedly-sidesteps-questions-reported-plan-revive-tax-hikes-wealthy-new-yorkers",
+        "publishedAt": "2026-08-07T01:53:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Sen. Alsobrooks: Republicans Attacking Fauci a 'Clown Show'",
         "description": "Thursday on CNN's \"The Lead,\" Sen. Angela Alsobrooks (D-MD) said Sen. Rand Paul (R-KY) asking the Justice Department to prosecute Dr. Anthony Fauci after a Senate committee voted to hold him in contempt of Congress was a \"clown show.\"\nThe post Sen. Alsobrooks…",
@@ -44,26 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "120"
-      },
-      {
-        "title": "Breitbart Business Digest: Boosted by Tariffs, U.S. Manufacturing Enters a Renaissance",
-        "description": "So much for the idea that tariffs would damage U.S. productivity and manufacturing.\nThe post Breitbart Business Digest: Boosted by Tariffs, U.S. Manufacturing Enters a Renaissance appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/08/06/breitbart-business-digest-boosted-by-tariffs-u-s-manufacturing-enters-a-renaissance/",
-        "publishedAt": "2026-08-06T23:38:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Claims to Be in ‘Final Stages’ of Deal with Oman to Control Strait of Hormuz",
-        "description": "Iranian Foreign Ministry spokesman Esmail Baqaei said on Wednesday that Iran and Oman have reached the “final stages” of a deal for mutual control of the Strait of Hormuz after two months of negotiations.\nThe post Iran Claims to Be in ‘Final Stages’ of Deal w…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/06/iran-claims-to-be-in-final-stages-of-deal-with-oman-to-control-strait-of-hormuz/",
-        "publishedAt": "2026-08-06T22:05:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
