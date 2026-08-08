@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-08T04:16:46.601738+00:00",
+  "generated_at": "2026-08-08T05:11:16.807232+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Report: Pentagon Updates U.S. Nuclear Strategy to Address War with China and Russia",
-        "description": "The Department of War is reportedly drafting a revised nuclear strategy for regional conflicts with China and Russia, with more of an emphasis on limited deployments of short-range tactical nuclear weapons, instead of escalating immediately to all-out nuclear…",
-        "url": "https://www.breitbart.com/asia/2026/08/06/report-pentagon-updates-u-s-nuclear-strategy-to-address-war-with-china-and-russia/",
-        "publishedAt": "2026-08-06T17:04:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
