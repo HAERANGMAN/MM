@@ -1,20 +1,147 @@
 {
-  "generated_at": "2026-08-09T00:35:20.196536+00:00",
+  "generated_at": "2026-08-09T02:38:35.792056+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Iran is moving its tanks. Decades as a military planner taught me what that means",
+        "description": "Iran's 92nd Armored Division reportedly moved T-72 tanks toward Abadan even as diplomacy over the Strait of Hormuz and nuclear program advances.",
+        "url": "https://www.foxnews.com/opinion/iran-moving-tanks-decades-military-planner-taught-what-means",
+        "publishedAt": "2026-08-07T13:05:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "92"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Trump Unveils Billions of Dollars in Mining-Tied Deals, Investments",
+        "description": "President Donald Trump on Friday announced billions of dollars in deals and investments in and around the mining industry, as well as more than $180 million in funding for mining schools.\nThe post Trump Unveils Billions of Dollars in Mining-Tied Deals, Invest…",
+        "url": "https://www.breitbart.com/politics/2026/08/07/trump-unveils-billions-of-dollars-in-mining-tied-deals-investments/",
+        "publishedAt": "2026-08-08T02:12:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Citing Thomas Jefferson, Conservative Abelardo de la Espriella Becomes President of Colombia",
+        "description": "Colombia's conservative President Abelardo de la Espriella took office as the nation's new head of state for the next four years on Friday afternoon.\nThe post Citing Thomas Jefferson, Conservative Abelardo de la Espriella Becomes President of Colombia appeare…",
+        "url": "https://www.breitbart.com/latin-america/2026/08/07/conservative-abelardo-de-la-espriella-inaugurated-president-colombia/",
+        "publishedAt": "2026-08-08T01:47:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+        "description": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a USD 34 billion financing gap as he vows to rebuild U.S. ties.",
+        "url": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+        "publishedAt": "2026-08-08T00:03:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "34"
+      },
+      {
+        "title": "Dem attorney backs GOP hopeful in Michigan race against El-Sayed, 'jumping ship' from his party's 'lunatics'",
+        "description": "Julian Epstein says Democrats have \"gone off the deep end\" with Abdul El-Sayed's nomination, declaring his support for Republican Mike Rogers.",
+        "url": "https://www.foxnews.com/media/dem-attorney-backs-gop-hopeful-michigan-race-against-el-sayed-jumping-ship-partys-lunatics",
+        "publishedAt": "2026-08-07T23:14:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "AP-NORC Poll Shows Stronger Support for Deporting Illegal Immigrants",
+        "description": "Support for deporting illegal immigrants residing in the United States unlawfully is growing, a recent AP-NORC survey revealed.\nThe post AP-NORC Poll Shows Stronger Support for Deporting Illegal Immigrants appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/08/07/ap-norc-poll-shows-stronger-support-for-deporting-illegal-immigrants/",
+        "publishedAt": "2026-08-07T23:04:14Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "China Punishes U.S. Companies After Being Called Out for Slavery",
+        "description": "The Chinese Communist government announced “countermeasures” on Wednesday against the U.S. designation of more Chinese entities under the Uyghur Forced Labor Prevention Act (UFLPA).\nThe post China Punishes U.S. Companies After Being Called Out for Slavery app…",
+        "url": "https://www.breitbart.com/asia/2026/08/07/china-punishes-u-s-companies-after-being-called-out-for-slavery/",
+        "publishedAt": "2026-08-07T19:18:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran is moving its tanks. Decades as a military planner taught me what that means",
+        "description": "Iran's 92nd Armored Division reportedly moved T-72 tanks toward Abadan even as diplomacy over the Strait of Hormuz and nuclear program advances.",
+        "url": "https://www.foxnews.com/opinion/iran-moving-tanks-decades-military-planner-taught-what-means",
+        "publishedAt": "2026-08-07T13:05:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "92"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Trump Unveils Billions of Dollars in Mining-Tied Deals, Investments",
+        "description": "President Donald Trump on Friday announced billions of dollars in deals and investments in and around the mining industry, as well as more than $180 million in funding for mining schools.\nThe post Trump Unveils Billions of Dollars in Mining-Tied Deals, Invest…",
+        "url": "https://www.breitbart.com/politics/2026/08/07/trump-unveils-billions-of-dollars-in-mining-tied-deals-investments/",
+        "publishedAt": "2026-08-08T02:12:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Iran Continues to Trash U.S., Claims No Peace Talks",
+        "description": "Iranian officials continued to make disparaging comments about the United States and tout their plans to take permanent control of the Strait of Hormuz on Friday, even as the White House remains optimistic about an imminent “deal” that would end the conflict …",
+        "url": "https://www.breitbart.com/middle-east/2026/08/07/iran-continues-to-trash-u-s-claims-no-peace-talks/",
+        "publishedAt": "2026-08-07T20:00:16Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sen. Tim Sheehy Introduces Bill Allowing National Concealed Carry for Special Forces",
+        "description": "Sen. Tim Sheehy (R-MT) is sponsoring the Special Operations Forces Concealed Carry Act, a bill which would allow former and current members of Special Forces to carry concealed nationwide.\nThe post Sen. Tim Sheehy Introduces Bill Allowing National Concealed C…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/07/sen-tim-sheehy-introduces-bill-allowing-national-concealed-carry-for-special-forces/",
+        "publishedAt": "2026-08-07T17:32:41Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Republican Lawmakers Threaten to Decrease Smithsonian's Taxpayer Funds to Ensure Museums 'Tell the Truth About the American Story'",
+        "description": "The Smithsonian Institution is under pressure as House Republicans demand its leaders steer the museum system away from leftist ideology.\nThe post Republican Lawmakers Threaten to Decrease Smithsonian’s Taxpayer Funds to Ensure Museums ‘Tell the Truth About t…",
+        "url": "https://www.breitbart.com/politics/2026/08/07/republican-lawmakers-threaten-decrease-smithsonians-taxpayer-funds-ensure-museums-tell-truth-about-american-story/",
+        "publishedAt": "2026-08-07T15:38:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Fox News AI Newsletter: AI company accused of favoring foreigners over American workers",
+        "description": "Fox News Artificial Intelligence newsletter covers OpenAI's $3.2 million DOJ settlement over allegations it favored foreign workers over Americans.",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-company-accused-favoring-foreigners-over-american-workers",
+        "publishedAt": "2026-08-07T15:09:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
