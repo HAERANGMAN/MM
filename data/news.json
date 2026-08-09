@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-09T07:59:36.877706+00:00",
+  "generated_at": "2026-08-09T08:54:01.714521+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Iran is moving its tanks. Decades as a military planner taught me what that means",
-        "description": "Iran's 92nd Armored Division reportedly moved T-72 tanks toward Abadan even as diplomacy over the Strait of Hormuz and nuclear program advances.",
-        "url": "https://www.foxnews.com/opinion/iran-moving-tanks-decades-military-planner-taught-what-means",
-        "publishedAt": "2026-08-07T13:05:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "92"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
