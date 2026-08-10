@@ -1,105 +1,19 @@
 {
-  "generated_at": "2026-08-10T08:09:27.383453+00:00",
+  "generated_at": "2026-08-10T09:46:10.599246+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Hawaii contractor nominated to construct GOP comeback after two-decade Democratic hold on governor's mansion",
-        "description": "Gary Cordery won the Republican nomination for Hawaii governor and now faces Democratic Gov. Josh Green despite a massive fundraising gap ahead.",
-        "url": "https://www.foxnews.com/politics/hawaii-contractor-nominated-construct-gop-comeback-two-decade-democratic-hold-governors-mansion",
-        "publishedAt": "2026-08-09T05:48:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hawaii Gov. Josh Green cruises to Democratic primary win, sets up fall matchup with GOP nominee",
-        "description": "Democratic Hawaii Gov. Josh Green's 56% approval rating and $3.5 million war chest left three underfunded challengers with no path in the primary.",
-        "url": "https://www.foxnews.com/politics/hawaii-gov-josh-green-cruises-democratic-primary-win-sets-fall-matchup-gop-nominee",
-        "publishedAt": "2026-08-09T05:41:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "56"
-      },
-      {
-        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-        "description": "Progressive Rep. Jill Tokuda cruised past three Democratic primary challengers in Hawaii's 2nd Congressional District to face Republican Brenton Awa.",
-        "url": "https://www.foxnews.com/politics/hawaii-rep-cruises-dem-primary-win-after-challenger-arrested-beach-brawl",
-        "publishedAt": "2026-08-09T05:39:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Krishnamoorthi: Birthright Citizenship, Birth Tourism Orders Seen As Going Against Not Just Those Groups, 'But Immigrants in General'",
-        "description": "On Friday’s broadcast of CNN’s “Situation Room,” Rep. Raja Krishnamoorthi (D-IL) said that the executive orders by President Donald Trump to limit birthright citizenship and birth tourism are perceived as “Kind of going against, not just these individual cate…",
-        "url": "https://www.breitbart.com/clips/2026/08/08/krishnamoorthi-birthright-citizenship-birth-tourism-orders-seen-as-going-against-not-just-those-groups-but-immigrants-in-general/",
-        "publishedAt": "2026-08-08T23:23:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Biden's battle with advancing cancer renews focus on prostate disease",
-        "description": "Hunter Biden revealed in a BBC interview that Joe Biden's prostate cancer has metastasized into his bones, calling it very painful and debilitating.",
-        "url": "https://www.foxnews.com/health/bidens-battle-advancing-cancer-renews-focus-prostate-disease",
-        "publishedAt": "2026-08-08T22:06:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump's 4th of July fireworks display on National Mall confirmed as largest in history",
-        "description": "Trump's Freedom 250 fireworks in Washington, D.C. have been officially confirmed as the largest display in history with 840,537 fireworks on the Fourth of July.",
-        "url": "https://www.foxnews.com/politics/trumps-4th-july-fireworks-display-national-mall-confirmed-largest-history",
-        "publishedAt": "2026-08-09T01:53:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Dulis: Climate Doomer Adam McKay Dismisses Questions About His 2nd Home in Ireland While Warning 'Billions Will Die' Because of Oil",
-        "description": "\"Anchorman\" director Adam McKay has finally addressed -- indirectly, at least -- the hypocrisy of campaigning to kill the oil industry while jetting between homes in L.A. and Ireland.\nThe post Dulis: Climate Doomer Adam McKay Dismisses Questions About His 2nd…",
-        "url": "https://www.breitbart.com/entertainment/2026/08/08/dulis-climate-doomer-adam-mckay-dismisses-questions-about-his-2nd-home-in-ireland-while-warning-billions-will-die-because-of-oil/",
-        "publishedAt": "2026-08-08T21:50:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "Carmen Electra says 'Baywatch' pushed boundaries without crossing the line: 'It wasn't porn'",
-        "description": "Carmen Electra reveals what made the original \"Baywatch\" a global phenomenon while promoting the new competition show, \"Nation's Dumbest\" on Fox.",
-        "url": "https://www.foxnews.com/entertainment/carmen-electra-says-baywatch-pushed-boundaries-without-crossing-line-it-wasnt-porn",
-        "publishedAt": "2026-08-08T14:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "FDA investigates nationwide foodborne outbreaks | Fox News Video",
-        "description": "Fox News senior correspondent Jonathan Serrie reports on the CDC’s efforts to secure a complex global supply chain on ‘Special Report.'",
-        "url": "https://www.foxnews.com/video/6403025830112",
-        "publishedAt": "2026-08-08T10:23:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
