@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-10T10:50:07.963320+00:00",
+  "generated_at": "2026-08-10T11:37:39.062297+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Socialists rising in Colorado? Send in the Marines, GOP nominee says",
+        "description": "Victor Marx and retired Marine Col. George Markert form an all-Marine ticket they say can combat what Marx calls the rise of communism in Colorado.",
+        "url": "https://www.foxnews.com/politics/socialists-rising-colorado-send-marines-nominee-says",
+        "publishedAt": "2026-08-09T11:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "MAX LUCADO: The world is changing fast, but your faith does not have to break under pressure",
+        "description": "Elijah faced 850-to-1 odds in the Old Testament, and his story offers a blueprint for unbreakable courage amid today's fear and uncertain times.",
+        "url": "https://www.foxnews.com/opinion/max-lucado-world-changing-fast-faith-does-not-have-break-under-pressure",
+        "publishedAt": "2026-08-09T11:00:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "850"
+      },
       {
         "title": "Hawaii contractor nominated to construct GOP comeback after two-decade Democratic hold on governor's mansion",
         "description": "Gary Cordery won the Republican nomination for Hawaii governor and now faces Democratic Gov. Josh Green despite a massive fundraising gap ahead.",
@@ -33,31 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "2"
-      },
-      {
-        "title": "Krishnamoorthi: Birthright Citizenship, Birth Tourism Orders Seen As Going Against Not Just Those Groups, 'But Immigrants in General'",
-        "description": "On Friday’s broadcast of CNN’s “Situation Room,” Rep. Raja Krishnamoorthi (D-IL) said that the executive orders by President Donald Trump to limit birthright citizenship and birth tourism are perceived as “Kind of going against, not just these individual cate…",
-        "url": "https://www.breitbart.com/clips/2026/08/08/krishnamoorthi-birthright-citizenship-birth-tourism-orders-seen-as-going-against-not-just-those-groups-but-immigrants-in-general/",
-        "publishedAt": "2026-08-08T23:23:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Biden's battle with advancing cancer renews focus on prostate disease",
-        "description": "Hunter Biden revealed in a BBC interview that Joe Biden's prostate cancer has metastasized into his bones, calling it very painful and debilitating.",
-        "url": "https://www.foxnews.com/health/bidens-battle-advancing-cancer-renews-focus-prostate-disease",
-        "publishedAt": "2026-08-08T22:06:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Islamic Charity in Britain Accused of Funnelling Money and Goods to Hamas Leaders: Report",
+        "description": "A top British Muslim charity has reportedly been accused by the American FBI of having acted as a front to funnel funding and other goods to Hamas terrorists in Palestine.\nThe post Islamic Charity in Britain Accused of Funnelling Money and Goods to Hamas Lead…",
+        "url": "https://www.breitbart.com/europe/2026/08/09/islamic-charity-in-britain-accused-of-funnelling-money-and-goods-to-hamas-leaders-report/",
+        "publishedAt": "2026-08-09T10:58:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Michigan military exercise preparing thousands of troops for changing battlefield",
         "description": "More than 9,000 service members are training in Michigan under the Northern Strike exercise, which adapts to changing warfare, emerging technology and lessons from global conflicts.",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "2"
-      },
-      {
-        "title": "Carmen Electra says 'Baywatch' pushed boundaries without crossing the line: 'It wasn't porn'",
-        "description": "Carmen Electra reveals what made the original \"Baywatch\" a global phenomenon while promoting the new competition show, \"Nation's Dumbest\" on Fox.",
-        "url": "https://www.foxnews.com/entertainment/carmen-electra-says-baywatch-pushed-boundaries-without-crossing-line-it-wasnt-porn",
-        "publishedAt": "2026-08-08T14:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
