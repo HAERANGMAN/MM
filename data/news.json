@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-10T11:37:39.062297+00:00",
+  "generated_at": "2026-08-10T12:29:36.878042+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Socialists rising in Colorado? Send in the Marines, GOP nominee says",
-        "description": "Victor Marx and retired Marine Col. George Markert form an all-Marine ticket they say can combat what Marx calls the rise of communism in Colorado.",
-        "url": "https://www.foxnews.com/politics/socialists-rising-colorado-send-marines-nominee-says",
-        "publishedAt": "2026-08-09T11:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "MAX LUCADO: The world is changing fast, but your faith does not have to break under pressure",
-        "description": "Elijah faced 850-to-1 odds in the Old Testament, and his story offers a blueprint for unbreakable courage amid today's fear and uncertain times.",
-        "url": "https://www.foxnews.com/opinion/max-lucado-world-changing-fast-faith-does-not-have-break-under-pressure",
-        "publishedAt": "2026-08-09T11:00:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "850"
-      },
-      {
-        "title": "Hawaii contractor nominated to construct GOP comeback after two-decade Democratic hold on governor's mansion",
-        "description": "Gary Cordery won the Republican nomination for Hawaii governor and now faces Democratic Gov. Josh Green despite a massive fundraising gap ahead.",
-        "url": "https://www.foxnews.com/politics/hawaii-contractor-nominated-construct-gop-comeback-two-decade-democratic-hold-governors-mansion",
-        "publishedAt": "2026-08-09T05:48:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Hawaii Gov. Josh Green cruises to Democratic primary win, sets up fall matchup with GOP nominee",
-        "description": "Democratic Hawaii Gov. Josh Green's 56% approval rating and $3.5 million war chest left three underfunded challengers with no path in the primary.",
-        "url": "https://www.foxnews.com/politics/hawaii-gov-josh-green-cruises-democratic-primary-win-sets-fall-matchup-gop-nominee",
-        "publishedAt": "2026-08-09T05:41:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "56"
-      },
-      {
-        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-        "description": "Progressive Rep. Jill Tokuda cruised past three Democratic primary challengers in Hawaii's 2nd Congressional District to face Republican Brenton Awa.",
-        "url": "https://www.foxnews.com/politics/hawaii-rep-cruises-dem-primary-win-after-challenger-arrested-beach-brawl",
-        "publishedAt": "2026-08-09T05:39:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Islamic Charity in Britain Accused of Funnelling Money and Goods to Hamas Leaders: Report",
-        "description": "A top British Muslim charity has reportedly been accused by the American FBI of having acted as a front to funnel funding and other goods to Hamas terrorists in Palestine.\nThe post Islamic Charity in Britain Accused of Funnelling Money and Goods to Hamas Lead…",
-        "url": "https://www.breitbart.com/europe/2026/08/09/islamic-charity-in-britain-accused-of-funnelling-money-and-goods-to-hamas-leaders-report/",
-        "publishedAt": "2026-08-09T10:58:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Michigan military exercise preparing thousands of troops for changing battlefield",
-        "description": "More than 9,000 service members are training in Michigan under the Northern Strike exercise, which adapts to changing warfare, emerging technology and lessons from global conflicts.",
-        "url": "https://www.foxnews.com/us/michigan-military-exercise-preparing-thousands-troops-changing-battlefield",
-        "publishedAt": "2026-08-09T09:40:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Azerbaijan’s Pres. Aliyev Marks One Year of Trump-Brokered Armenia Peace -- Says U.S. Ties at ‘Highest Point’ in 34 Years",
-        "description": "Azerbaijani President Ilham Aliyev marked the first anniversary of President Donald Trump’s historic peace breakthrough between Azerbaijan and Armenia on Saturday, crediting Trump with ending three decades of conflict while declaring that U.S.-Azerbaijani rel…",
-        "url": "https://www.breitbart.com/politics/2026/08/09/azerbaijans-pres-aliyev-marks-one-year-of-trump-brokered-armenia-peace-says-u-s-ties-at-highest-point-in-34-years/",
-        "publishedAt": "2026-08-09T08:38:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "34"
-      },
-      {
-        "title": "Trump's 4th of July fireworks display on National Mall confirmed as largest in history",
-        "description": "Trump's Freedom 250 fireworks in Washington, D.C. have been officially confirmed as the largest display in history with 840,537 fireworks on the Fourth of July.",
-        "url": "https://www.foxnews.com/politics/trumps-4th-july-fireworks-display-national-mall-confirmed-largest-history",
-        "publishedAt": "2026-08-09T01:53:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Dulis: Climate Doomer Adam McKay Dismisses Questions About His 2nd Home in Ireland While Warning 'Billions Will Die' Because of Oil",
-        "description": "\"Anchorman\" director Adam McKay has finally addressed -- indirectly, at least -- the hypocrisy of campaigning to kill the oil industry while jetting between homes in L.A. and Ireland.\nThe post Dulis: Climate Doomer Adam McKay Dismisses Questions About His 2nd…",
-        "url": "https://www.breitbart.com/entertainment/2026/08/08/dulis-climate-doomer-adam-mckay-dismisses-questions-about-his-2nd-home-in-ireland-while-warning-billions-will-die-because-of-oil/",
-        "publishedAt": "2026-08-08T21:50:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
