@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:34:55.307862+00:00",
+  "generated_at": "2026-08-11T17:34:02.340965+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,16 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC",
+        "description": "President Donald Trump won permission to amend his $10 billion defamation lawsuit against the BBC over its edited \"Panorama\" documentary about Jan. 6.",
+        "url": "https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
+        "publishedAt": "2026-08-10T17:18:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
         "title": "VIDEO: Sheriff K9 Leaves Veterinary Hospital on 3 Legs After Being Shot",
         "description": "Polk County Sheriff's K9 Ace was released from the veterinary hospital Sunday with his front left leg amputated due to a gunshot wound.\nThe post VIDEO: Sheriff K9 Leaves Veterinary Hospital on 3 Legs After Being Shot appeared first on Breitbart.",
         "url": "https://www.breitbart.com/2nd-amendment/2026/08/10/video-sheriff-k9-leaves-veterinary-hospital-on-3-legs-after-being-shot/",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
-      {
-        "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
-        "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
-        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
-        "publishedAt": "2026-08-10T10:00:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "45"
       }
     ]
   },
