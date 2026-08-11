@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-11T11:23:41.615385+00:00",
+  "generated_at": "2026-08-11T12:07:27.744316+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Archaeologists unearth secret church tied to Council of Nicaea, Christianity's defining moment",
+        "description": "Archaeologists in İznik, Turkey, uncovered a smaller church beneath the Church of the Holy Fathers that may have hosted the First Council of Nicaea.",
+        "url": "https://www.foxnews.com/travel/archaeologists-unearth-secret-church-tied-council-nicaea-christianitys-defining-moment",
+        "publishedAt": "2026-08-10T12:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "A Southern state just took the top spot in one of the world’s fastest-growing industries",
+        "description": "North Texas tops Cushman & Wakefield's 2026 global data center market ranking as AI demand drives massive development across the Dallas-Fort Worth region.",
+        "url": "https://www.foxnews.com/politics/southern-state-just-took-top-spot-one-worlds-fastest-growing-industries",
+        "publishedAt": "2026-08-10T12:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
       {
         "title": "Trouble sleeping? Your neighborhood could be partly to blame, experts say",
         "description": "A study of 200,000 Google Street View images reveals how neighborhood greenery, safety and enclosure levels may influence sleep duration and insomnia.",
@@ -33,31 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "45"
-      },
-      {
-        "title": "Capitalism is about incentives. Stopping the stupidity of socialism is a big incentive",
-        "description": "Friedrich Hayek's 'The Road to Serfdom' warns how central planning erodes individual freedom, and its lessons about incentives remain urgent today.",
-        "url": "https://www.foxnews.com/opinion/capitalism-incentives-stopping-stupidity-socialism-big-incentive",
-        "publishedAt": "2026-08-10T09:00:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global stock rally extends, oil advances on Iran: Markets Wrap",
-        "description": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-        "publishedAt": "2026-08-10T06:26:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "A Southern state just took the top spot in one of the world’s fastest-growing industries",
+        "description": "North Texas tops Cushman & Wakefield's 2026 global data center market ranking as AI demand drives massive development across the Dallas-Fort Worth region.",
+        "url": "https://www.foxnews.com/politics/southern-state-just-took-top-spot-one-worlds-fastest-growing-industries",
+        "publishedAt": "2026-08-10T12:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
       {
         "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
         "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
@@ -97,16 +107,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "15"
-      },
-      {
-        "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
-        "description": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
-        "url": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
-        "publishedAt": "2026-08-09T19:34:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ]
   },
