@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-11T10:29:28.824085+00:00",
+  "generated_at": "2026-08-11T11:23:41.615385+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Trouble sleeping? Your neighborhood could be partly to blame, experts say",
+        "description": "A study of 200,000 Google Street View images reveals how neighborhood greenery, safety and enclosure levels may influence sleep duration and insomnia.",
+        "url": "https://www.foxnews.com/health/trouble-sleeping-neighborhood-partly-blame-experts-say",
+        "publishedAt": "2026-08-10T11:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "200"
+      },
+      {
+        "title": "Vulnerable battleground Dem embraces 'no tax on tips' after voting against Trump bill",
+        "description": "Gabriel Vasquez voted against the big beautiful bill's no tax on tips provision, then called for a permanent version through his TIPS Act weeks later.",
+        "url": "https://www.foxnews.com/politics/battleground-democrat-embraces-no-tax-tips-voting-against-trump-bill",
+        "publishedAt": "2026-08-10T11:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
+        "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
+        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
+        "publishedAt": "2026-08-10T10:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "45"
+      },
+      {
+        "title": "Capitalism is about incentives. Stopping the stupidity of socialism is a big incentive",
+        "description": "Friedrich Hayek's 'The Road to Serfdom' warns how central planning erodes individual freedom, and its lessons about incentives remain urgent today.",
+        "url": "https://www.foxnews.com/opinion/capitalism-incentives-stopping-stupidity-socialism-big-incentive",
+        "publishedAt": "2026-08-10T09:00:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Global stock rally extends, oil advances on Iran: Markets Wrap",
+        "description": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
+        "publishedAt": "2026-08-10T06:26:27Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
+        "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
+        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
+        "publishedAt": "2026-08-10T10:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "45"
+      },
+      {
+        "title": "China slams India for naming sites in disputed border region",
+        "description": "India attempting to replace the names long used by China is illegal and invalid, and cannot change the fact that Zangnan belongs to China, the Chinese Foreign Ministry said",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-10/china-slams-india-for-naming-sites-in-disputed-border-region",
+        "publishedAt": "2026-08-10T09:44:50Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Global stock rally extends, oil advances on Iran: Markets Wrap",
+        "description": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
+        "publishedAt": "2026-08-10T06:26:27Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India’s NPCI targets 15-20 overseas markets to expand UPI globally",
+        "description": "NPCI plans to expand UPI across 15-20 overseas markets, targeting Indian diaspora payments while exploring Japan, Malaysia, Bahrain and AI-enabled transactions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-10/india-s-upi-payments-developer-targets-diaspora-for-growth",
+        "publishedAt": "2026-08-10T03:09:55Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
+        "description": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
+        "url": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
+        "publishedAt": "2026-08-09T19:34:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
