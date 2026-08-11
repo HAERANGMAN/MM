@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-11T12:07:27.744316+00:00",
+  "generated_at": "2026-08-11T13:36:25.486080+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Archaeologists unearth secret church tied to Council of Nicaea, Christianity's defining moment",
-        "description": "Archaeologists in İznik, Turkey, uncovered a smaller church beneath the Church of the Holy Fathers that may have hosted the First Council of Nicaea.",
-        "url": "https://www.foxnews.com/travel/archaeologists-unearth-secret-church-tied-council-nicaea-christianitys-defining-moment",
-        "publishedAt": "2026-08-10T12:00:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "A Southern state just took the top spot in one of the world’s fastest-growing industries",
-        "description": "North Texas tops Cushman & Wakefield's 2026 global data center market ranking as AI demand drives massive development across the Dallas-Fort Worth region.",
-        "url": "https://www.foxnews.com/politics/southern-state-just-took-top-spot-one-worlds-fastest-growing-industries",
-        "publishedAt": "2026-08-10T12:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Trouble sleeping? Your neighborhood could be partly to blame, experts say",
-        "description": "A study of 200,000 Google Street View images reveals how neighborhood greenery, safety and enclosure levels may influence sleep duration and insomnia.",
-        "url": "https://www.foxnews.com/health/trouble-sleeping-neighborhood-partly-blame-experts-say",
-        "publishedAt": "2026-08-10T11:00:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "200"
-      },
-      {
-        "title": "Vulnerable battleground Dem embraces 'no tax on tips' after voting against Trump bill",
-        "description": "Gabriel Vasquez voted against the big beautiful bill's no tax on tips provision, then called for a permanent version through his TIPS Act weeks later.",
-        "url": "https://www.foxnews.com/politics/battleground-democrat-embraces-no-tax-tips-voting-against-trump-bill",
-        "publishedAt": "2026-08-10T11:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
-        "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
-        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
-        "publishedAt": "2026-08-10T10:00:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "45"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "A Southern state just took the top spot in one of the world’s fastest-growing industries",
-        "description": "North Texas tops Cushman & Wakefield's 2026 global data center market ranking as AI demand drives massive development across the Dallas-Fort Worth region.",
-        "url": "https://www.foxnews.com/politics/southern-state-just-took-top-spot-one-worlds-fastest-growing-industries",
-        "publishedAt": "2026-08-10T12:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
-        "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
-        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
-        "publishedAt": "2026-08-10T10:00:11Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "45"
-      },
-      {
-        "title": "China slams India for naming sites in disputed border region",
-        "description": "India attempting to replace the names long used by China is illegal and invalid, and cannot change the fact that Zangnan belongs to China, the Chinese Foreign Ministry said",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-10/china-slams-india-for-naming-sites-in-disputed-border-region",
-        "publishedAt": "2026-08-10T09:44:50Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Global stock rally extends, oil advances on Iran: Markets Wrap",
-        "description": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-        "publishedAt": "2026-08-10T06:26:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India’s NPCI targets 15-20 overseas markets to expand UPI globally",
-        "description": "NPCI plans to expand UPI across 15-20 overseas markets, targeting Indian diaspora payments while exploring Japan, Malaysia, Bahrain and AI-enabled transactions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-10/india-s-upi-payments-developer-targets-diaspora-for-growth",
-        "publishedAt": "2026-08-10T03:09:55Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
