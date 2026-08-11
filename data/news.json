@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-11T15:38:21.914770+00:00",
+  "generated_at": "2026-08-11T16:34:55.307862+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Brinks Home data breach puts 1M customers on alert",
+        "description": "Brinks Home confirmed unauthorized access to its IT systems, and the ShinyHunters group claims it stole 4.9 million Salesforce records from it.",
+        "url": "https://www.foxnews.com/tech/brinks-home-data-breach-puts-1m-customers-alert",
+        "publishedAt": "2026-08-10T16:00:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Darline Graham details how she'd forge own path in Senate while carrying on brother Lindsey's legacy",
+        "description": "Darline Graham says she shares South Carolina families' struggles with gas, groceries and health care as she campaigns ahead of Tuesday's special election.",
+        "url": "https://www.foxnews.com/media/darline-graham-details-forge-own-path-senate-carrying-brother-lindsey-legacy",
+        "publishedAt": "2026-08-10T14:55:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Archaeologists unearth secret church tied to Council of Nicaea, Christianity's defining moment",
+        "description": "Archaeologists in İznik, Turkey, uncovered a smaller church beneath the Church of the Holy Fathers that may have hosted the First Council of Nicaea.",
+        "url": "https://www.foxnews.com/travel/archaeologists-unearth-secret-church-tied-council-nicaea-christianitys-defining-moment",
+        "publishedAt": "2026-08-10T12:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "A Southern state just took the top spot in one of the world’s fastest-growing industries",
+        "description": "North Texas tops Cushman & Wakefield's 2026 global data center market ranking as AI demand drives massive development across the Dallas-Fort Worth region.",
+        "url": "https://www.foxnews.com/politics/southern-state-just-took-top-spot-one-worlds-fastest-growing-industries",
+        "publishedAt": "2026-08-10T12:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Trouble sleeping? Your neighborhood could be partly to blame, experts say",
+        "description": "A study of 200,000 Google Street View images reveals how neighborhood greenery, safety and enclosure levels may influence sleep duration and insomnia.",
+        "url": "https://www.foxnews.com/health/trouble-sleeping-neighborhood-partly-blame-experts-say",
+        "publishedAt": "2026-08-10T11:00:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "200"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "VIDEO: Sheriff K9 Leaves Veterinary Hospital on 3 Legs After Being Shot",
+        "description": "Polk County Sheriff's K9 Ace was released from the veterinary hospital Sunday with his front left leg amputated due to a gunshot wound.\nThe post VIDEO: Sheriff K9 Leaves Veterinary Hospital on 3 Legs After Being Shot appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/10/video-sheriff-k9-leaves-veterinary-hospital-on-3-legs-after-being-shot/",
+        "publishedAt": "2026-08-10T15:45:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "Prosecutors: Arizona Shake Shack Worker Robbed Store at Gunpoint, Got Arrested Days Later During His Next Shift",
+        "description": "A Scottsdale, Arizona, Shake Shack employee was arrested when he arrived for work Wednesday after robbing his workplace at gunpoint two days earlier.\nThe post Prosecutors: Arizona Shake Shack Worker Robbed Store at Gunpoint, Got Arrested Days Later During His…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/10/prosecutors-arizona-shake-shack-worker-allegedly-robbed-store-at-gunpoint-got-arrested-days-later-during-his-next-shift/",
+        "publishedAt": "2026-08-10T12:45:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Hailey Bieber shows off toned figure in tiny yellow bikini while sharing summer snaps",
+        "description": "Hailey Bieber shared a yellow string bikini selfie on Instagram as part of her summer photo carousel. The Rhode founder also showed off her beauty routine with Rhode eye patches.",
+        "url": "https://www.foxnews.com/entertainment/hailey-bieber-shows-toned-figure-tiny-yellow-bikini-sharing-summer-snaps",
+        "publishedAt": "2026-08-10T12:08:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "A Southern state just took the top spot in one of the world’s fastest-growing industries",
+        "description": "North Texas tops Cushman & Wakefield's 2026 global data center market ranking as AI demand drives massive development across the Dallas-Fort Worth region.",
+        "url": "https://www.foxnews.com/politics/southern-state-just-took-top-spot-one-worlds-fastest-growing-industries",
+        "publishedAt": "2026-08-10T12:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it",
+        "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
+        "url": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
+        "publishedAt": "2026-08-10T10:00:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "45"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
