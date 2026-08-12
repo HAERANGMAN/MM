@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-08-12T17:36:58.559425+00:00",
+  "generated_at": "2026-08-12T18:34:13.914324+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Francesca Hong asked about lack of AOC endorsement and the House Dem's remark about the 'Woke 1' era",
-        "description": "Wisconsin state Rep. Francesca Hong, who is running in the Democratic gubernatorial primary, was asked about U.S. Rep. Alexandria Ocasio-Cortez's \"Woke 1\" comment.",
-        "url": "https://www.foxnews.com/politics/francesca-hong-asked-about-lack-aoc-endorsement-house-dems-remark-woke-1-era",
-        "publishedAt": "2026-08-11T17:34:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Iran Shuffles Military Leaders, Prepares for ‘Prolonged Confrontation’",
-        "description": "Iran’s elusive Supreme Leader Mojtaba Khamenei appointed six new military commanders on Monday, most notably replacing Supreme National Security Council (SNSC) secretary Mohammad Baqer Zolqard with Mohsen Rezaei, a veteran commander of the terrorist Islamic R…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/11/iran-shuffles-military-leaders-prepares-for-prolonged-confrontation/",
-        "publishedAt": "2026-08-11T17:23:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Appeals Court Allows Thousands of Social Media Addiction Lawsuits Against Meta, TikTok, Google to Continue",
-        "description": "A federal appeals court ruled Monday that more than 3,000 lawsuits accusing Meta, TikTok, Google, Snap and other tech companies of deliberately designing addictive platforms for young users can proceed.\nThe post Appeals Court Allows Thousands of Social Media …",
-        "url": "https://www.breitbart.com/tech/2026/08/11/appeals-court-allows-thousands-of-social-media-addiction-lawsuits-against-meta-tiktok-google-to-continue/",
-        "publishedAt": "2026-08-11T17:16:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Homan Urges U.S. Cities to Follow D.C.'s Example — 'One of the Safest Cities in the Nation'",
-        "description": "Monday on Fox News Channel's \"The Ingraham Angle,\" Trump border czar Tom Homan praised President Donald Trump's efforts to make Washington, D.C. a safer city.\nThe post Homan Urges U.S. Cities to Follow D.C.’s Example — ‘One of the Safest Cities in the Nation’…",
-        "url": "https://www.breitbart.com/clips/2026/08/11/homan-urges-u-s-cities-to-follow-d-c-s-example-one-of-the-safest-cities-in-the-nation/",
-        "publishedAt": "2026-08-11T17:06:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nolte: Ellison to Move Paramount out of California October 1 If Merger Block Continues",
-        "description": "If California does not stop blocking the Paramount-Warner Bros. Discovery merger, David Ellison will move out of California as early as October 1.",
-        "url": "https://www.breitbart.com/entertainment/2026/08/11/nolte-ellison-to-move-paramount-out-of-california-october-1-if-merger-block-continues/",
-        "publishedAt": "2026-08-11T16:32:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Zelensky Says Russia Now Using North Korean Missiles as Deadly Strike Hits",
-        "description": "Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said.\nThe post Zelensky Says Russia Now Using North Korean Missiles as Deadly Strike Hits appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/08/11/zelensky-says-russia-now-using-north-korean-missiles-as-deadly-strike-hits/",
-        "publishedAt": "2026-08-11T16:58:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "US Marine veteran released from Russian prison after 1,666 days of detention",
-        "description": "United States Marine veteran Robert Gilman spent 1,666 days in Russian custody and was in a catatonic state before his release in a prisoner exchange.",
-        "url": "https://www.foxnews.com/politics/us-marine-veteran-released-russian-prison-1666-days-detention",
-        "publishedAt": "2026-08-11T16:04:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Abdulrahman Mohamed El-Sayed Promoted Book Downplaying Leftist Violence: 'the U.S. Gov't Kills Millions'",
-        "description": "Abdulrahman Mohamed El-Sayed promoted a book downplaying leftist violence on his podcast America Dissected on more than one occasion, giving yet another glimpse into the far-left beliefs of the Michigan Senate candidate.\nThe post Abdulrahman Mohamed El-Sayed …",
-        "url": "https://www.breitbart.com/pre-viral/2026/08/11/abdulrahman-mohamed-el-sayed-promoted-book-downplaying-leftist-violence-the-u-s-govt-kills-millions/",
-        "publishedAt": "2026-08-11T15:31:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "GOP Coalition Urges DOJ to Use Rulemaking to Adopt Jensen v. ATF Ruling Nationwide",
-        "description": "A letter currently in the possession of Breitbart News shows Rep. Andrew Clyde (R) and a GOP coalition urging the Department of Justice to apply the Jensen v. ATF [Bureau of Alcohol, Tobacco, Firearms and Explosives] ruling nationwide, broadening its applicat…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/11/gop-coalition-urges-doj-to-use-rulemaking-to-adopt-jensen-v-atf-ruling-nationwide/",
-        "publishedAt": "2026-08-11T14:59:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Nigerian Lawyer Details Harrowing Christian Persecution: 'A Daily Occurrence'",
-        "description": "Christians in Nigeria face abductions, torture, rape, and murder on a \"daily\" basis at the hands of hordes of armed Fulani jihadists, a lawyer working in the country's Middle Belt told Breitbart News in an exclusive conversation on Monday.\nThe post Exclusive …",
-        "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
-        "publishedAt": "2026-08-11T14:06:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Actress Swell Ariel Or takes advocacy for Israeli women further in new film ‘Tankistas’",
-        "description": "Swell Ariel Or stars as an IDF unit captain in \"Tankistas,\" a war drama following the first all-female tank unit's 17-hour defense on Oct. 7, 2023, during the Hamas attacks on Israel.",
-        "url": "https://www.foxnews.com/media/actress-swell-ariel-takes-advocacy-israeli-women-further-new-film-tankistas",
-        "publishedAt": "2026-08-11T10:00:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "17"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
