@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-08-12T16:36:46.788467+00:00",
+  "generated_at": "2026-08-12T17:36:58.559425+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Francesca Hong asked about lack of AOC endorsement and the House Dem's remark about the 'Woke 1' era",
+        "description": "Wisconsin state Rep. Francesca Hong, who is running in the Democratic gubernatorial primary, was asked about U.S. Rep. Alexandria Ocasio-Cortez's \"Woke 1\" comment.",
+        "url": "https://www.foxnews.com/politics/francesca-hong-asked-about-lack-aoc-endorsement-house-dems-remark-woke-1-era",
+        "publishedAt": "2026-08-11T17:34:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Iran Shuffles Military Leaders, Prepares for ‘Prolonged Confrontation’",
+        "description": "Iran’s elusive Supreme Leader Mojtaba Khamenei appointed six new military commanders on Monday, most notably replacing Supreme National Security Council (SNSC) secretary Mohammad Baqer Zolqard with Mohsen Rezaei, a veteran commander of the terrorist Islamic R…",
+        "url": "https://www.breitbart.com/middle-east/2026/08/11/iran-shuffles-military-leaders-prepares-for-prolonged-confrontation/",
+        "publishedAt": "2026-08-11T17:23:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Appeals Court Allows Thousands of Social Media Addiction Lawsuits Against Meta, TikTok, Google to Continue",
+        "description": "A federal appeals court ruled Monday that more than 3,000 lawsuits accusing Meta, TikTok, Google, Snap and other tech companies of deliberately designing addictive platforms for young users can proceed.\nThe post Appeals Court Allows Thousands of Social Media …",
+        "url": "https://www.breitbart.com/tech/2026/08/11/appeals-court-allows-thousands-of-social-media-addiction-lawsuits-against-meta-tiktok-google-to-continue/",
+        "publishedAt": "2026-08-11T17:16:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Homan Urges U.S. Cities to Follow D.C.'s Example — 'One of the Safest Cities in the Nation'",
+        "description": "Monday on Fox News Channel's \"The Ingraham Angle,\" Trump border czar Tom Homan praised President Donald Trump's efforts to make Washington, D.C. a safer city.\nThe post Homan Urges U.S. Cities to Follow D.C.’s Example — ‘One of the Safest Cities in the Nation’…",
+        "url": "https://www.breitbart.com/clips/2026/08/11/homan-urges-u-s-cities-to-follow-d-c-s-example-one-of-the-safest-cities-in-the-nation/",
+        "publishedAt": "2026-08-11T17:06:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Nolte: Ellison to Move Paramount out of California October 1 If Merger Block Continues",
         "description": "If California does not stop blocking the Paramount-Warner Bros. Discovery merger, David Ellison will move out of California as early as October 1.",
@@ -13,49 +53,20 @@
           "name": "Breitbart News"
         },
         "numericHint": "1"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Abdulrahman Mohamed El-Sayed Promoted Book Downplaying Leftist Violence: 'the U.S. Gov't Kills Millions'",
-        "description": "Abdulrahman Mohamed El-Sayed promoted a book downplaying leftist violence on his podcast America Dissected on more than one occasion, giving yet another glimpse into the far-left beliefs of the Michigan Senate candidate.\nThe post Abdulrahman Mohamed El-Sayed …",
-        "url": "https://www.breitbart.com/pre-viral/2026/08/11/abdulrahman-mohamed-el-sayed-promoted-book-downplaying-leftist-violence-the-u-s-govt-kills-millions/",
-        "publishedAt": "2026-08-11T15:31:22Z",
+        "title": "Zelensky Says Russia Now Using North Korean Missiles as Deadly Strike Hits",
+        "description": "Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said.\nThe post Zelensky Says Russia Now Using North Korean Missiles as Deadly Strike Hits appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/08/11/zelensky-says-russia-now-using-north-korean-missiles-as-deadly-strike-hits/",
+        "publishedAt": "2026-08-11T16:58:02Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Palantir's Shyam Sankar says ‘every day we’re making progress’ as AI supercharges American workers",
-        "description": "Shyam Sankar says AI helped a submarine parts manufacturer cut production planning from two weeks to under an hour, adding a third shift.",
-        "url": "https://www.foxnews.com/media/palantirs-shyam-sankar-says-every-day-were-making-progress-ai-supercharges-american-workers",
-        "publishedAt": "2026-08-11T14:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "I watched Chicago promise food equity. Now my neighborhood has empty shelves",
-        "description": "Chicago's South Side grocery stores collapsed after a 26% drop in SNAP/EBT transactions, raising alarms about government-run food access models.",
-        "url": "https://www.foxnews.com/opinion/watched-chicago-promise-food-equity-neighborhood-empty-shelves",
-        "publishedAt": "2026-08-11T14:00:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "26"
-      },
-      {
-        "title": "Socialism moves into the mainstream — the warning signs are all here",
-        "description": "New York City Mayor Zohran Mamdani's pied-à-terre tax and property database fuel concerns about Democratic Socialists of America's national agenda.",
-        "url": "https://www.foxnews.com/opinion/socialism-moves-mainstream-warning-signs-here",
-        "publishedAt": "2026-08-11T13:00:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
+        "numericHint": "10"
       }
     ],
-    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
