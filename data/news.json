@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-08-12T22:02:15.348147+00:00",
+  "generated_at": "2026-08-12T22:54:02.364994+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "At every opportunity, Anthony Fauci hid the truth about COVID, masks, from the American public",
-        "description": "A newly released email shows Anthony Fauci knew about asymptomatic transmission months before he cited it as his reason to reverse mask guidance.",
-        "url": "https://www.foxnews.com/outkick-analysis/anthony-fauci-hid-truth-covid-masks-american-public",
-        "publishedAt": "2026-08-11T21:50:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's Justice Department sues New York, other blue states over tuition for illegal immigrants",
-        "description": "Trump's DOJ filed lawsuits against New York, Connecticut, and Vermont over laws it claims provide in-state tuition and financial assistance to illegal immigrants.",
-        "url": "https://www.foxnews.com/media/trumps-justice-department-sues-new-york-blue-states-tuition-illegal-immigrants",
-        "publishedAt": "2026-08-11T21:45:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "AOC Says ‘Woke 1 Was Crazy’ as She, Bernie Sanders Withhold Endorsements from Socialist Francesca Hong",
-        "description": "Rep. Alexandria Ocasio-Cortez (D-NY) is arguing that Democratic candidates should be judged by what they say today rather than rhetoric from the coronavirus era, even as her own political rise was closely tied to many of the policies and movements associated …",
-        "url": "https://www.breitbart.com/politics/2026/08/11/aoc-says-woke-1-was-crazy-as-she-bernie-sanders-withhold-endorsements-from-socialist-francesca-hong/",
-        "publishedAt": "2026-08-11T20:36:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Golfer Hailey Ostrom is Team Sophie, Hilary Duff compares herself to LeBron & pig squealing contests!",
-        "description": "Hilary Duff's viral LeBron James moment on her Lucky Me Tour, Sophie Cunningham's new golf ally, and France's pig-squealing contest are here.",
-        "url": "https://www.foxnews.com/outkick-sports/golfer-hailey-ostrom-team-sophie-hilary-duff-compares-herself-lebron-pig-squealing-contests",
-        "publishedAt": "2026-08-11T20:20:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Socialist Candidate Francesca Hong Sidesteps Answering Why AOC and Bernie Sanders Have Not Endorsed Her",
-        "description": "Wisconsin's socialist gubernatorial candidate Francesca Hong sidestepped questions on why socialist Sen. Bernie Sanders (I-VT) and Rep. Alexandria Ocasio-Cortez (D-NY) have yet to endorse her.\nThe post Socialist Candidate Francesca Hong Sidesteps Answering Wh…",
-        "url": "https://www.breitbart.com/politics/2026/08/11/socialist-candidate-francesca-hong-sidesteps-answering-why-aoc-and-bernie-sanders-have-not-endorsed-her/",
-        "publishedAt": "2026-08-11T19:25:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Zelensky Says Russia Now Using North Korean Missiles as Deadly Strike Hits",
-        "description": "Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said.\nThe post Zelensky Says Russia Now Using North Korean Missiles as Deadly Strike Hits appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/08/11/zelensky-says-russia-now-using-north-korean-missiles-as-deadly-strike-hits/",
-        "publishedAt": "2026-08-11T16:58:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "10"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "China Censors ‘Flood-Related Rumors’ as Typhoon Dolphin Pushes Inland",
-        "description": "Typhoon Dolphin made landfall in China on Sunday, held together better than meteorologists were expecting, and pushed inland, bringing heavy rains and flooding to central China and raising severe weather alerts in the national capital of Beijing. As the storm…",
-        "url": "https://www.breitbart.com/asia/2026/08/11/china-censors-flood-related-rumors-as-typhoon-dolphin-pushes-inland/",
-        "publishedAt": "2026-08-11T21:22:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Chicago Has More Murders in 2026 than All Major Cities in Pro-Gun Florida Combined",
-        "description": "A report from the Major Cities Chiefs Association shows that gun-controlled Chicago has more murders thus far this year than all major cities in pro-gun Florida combined.\nThe post Report: Chicago Has More Murders in 2026 than All Major Cities in Pro-Gun Flori…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/11/report-chicago-has-more-murders-in-2026-than-all-major-cities-in-pro-gun-florida-combined/",
-        "publishedAt": "2026-08-11T21:02:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Everything's Bigger in Texas: Elon Musk's SpaceX, Tesla Plan Chip Plant 5X the Size of World's Largest Building",
-        "description": "SpaceX and Tesla are building a 100-million-square-foot semiconductor facility in Grimes County, Texas, that would dwarf the current record holder for the world's largest building.\nThe post Everything’s Bigger in Texas: Elon Musk’s SpaceX, Tesla Plan Chip Pla…",
-        "url": "https://www.breitbart.com/tech/2026/08/11/everythings-bigger-in-texas-elon-musks-spacex-tesla-plan-chip-plant-5x-the-size-of-worlds-largest-building/",
-        "publishedAt": "2026-08-11T18:50:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "Taylor Swift to Become Youngest Woman Ever Inducted into the Nashville Songwriters Hall of Fame",
-        "description": "Global superstar Taylor Swift and country legend Lyle Lovett will be inducted into the Nashville Songwriters Hall of Fame, the organization announced Tuesday.\nThe post Taylor Swift to Become Youngest Woman Ever Inducted into the Nashville Songwriters Hall of …",
-        "url": "https://www.breitbart.com/entertainment/2026/08/11/taylor-swift-to-become-youngest-woman-ever-inducted-into-the-nashville-songwriters-hall-of-fame/",
-        "publishedAt": "2026-08-11T18:22:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NBA appears to prioritize European audience with announcement of unique 2026-27 season opener",
-        "description": "The 2026-27 NBA regular season tips off with the Detroit Pistons hosting Boston Celtics at 3 PM ET, a move likely aimed at European viewership growth.",
-        "url": "https://www.foxnews.com/sports/nba-prioritize-european-audience-announcement-unique-2026-27-season-opener",
-        "publishedAt": "2026-08-11T18:13:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
