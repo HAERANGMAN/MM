@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-12T21:10:58.720273+00:00",
+  "generated_at": "2026-08-12T22:02:15.348147+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "At every opportunity, Anthony Fauci hid the truth about COVID, masks, from the American public",
+        "description": "A newly released email shows Anthony Fauci knew about asymptomatic transmission months before he cited it as his reason to reverse mask guidance.",
+        "url": "https://www.foxnews.com/outkick-analysis/anthony-fauci-hid-truth-covid-masks-american-public",
+        "publishedAt": "2026-08-11T21:50:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's Justice Department sues New York, other blue states over tuition for illegal immigrants",
+        "description": "Trump's DOJ filed lawsuits against New York, Connecticut, and Vermont over laws it claims provide in-state tuition and financial assistance to illegal immigrants.",
+        "url": "https://www.foxnews.com/media/trumps-justice-department-sues-new-york-blue-states-tuition-illegal-immigrants",
+        "publishedAt": "2026-08-11T21:45:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "AOC Says ‘Woke 1 Was Crazy’ as She, Bernie Sanders Withhold Endorsements from Socialist Francesca Hong",
         "description": "Rep. Alexandria Ocasio-Cortez (D-NY) is arguing that Democratic candidates should be judged by what they say today rather than rhetoric from the coronavirus era, even as her own political rise was closely tied to many of the policies and movements associated …",
@@ -33,26 +53,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dangerous drug-resistant fungus spreads across US, reaching 27 states",
-        "description": "Thousands of Candida auris cases have been reported across 27 states in 2026, with the drug-resistant fungus posing deadly risks in healthcare settings.",
-        "url": "https://www.foxnews.com/health/dangerous-drug-resistant-fungus-spreads-across-us-reaching-27-states",
-        "publishedAt": "2026-08-11T18:23:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "27"
-      },
-      {
-        "title": "Francesca Hong asked about lack of AOC endorsement and the House Dem's remark about the 'Woke 1' era",
-        "description": "Wisconsin state Rep. Francesca Hong, who is running in the Democratic gubernatorial primary, was asked about U.S. Rep. Alexandria Ocasio-Cortez's \"Woke 1\" comment.",
-        "url": "https://www.foxnews.com/politics/francesca-hong-asked-about-lack-aoc-endorsement-house-dems-remark-woke-1-era",
-        "publishedAt": "2026-08-11T17:34:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "China Censors ‘Flood-Related Rumors’ as Typhoon Dolphin Pushes Inland",
+        "description": "Typhoon Dolphin made landfall in China on Sunday, held together better than meteorologists were expecting, and pushed inland, bringing heavy rains and flooding to central China and raising severe weather alerts in the national capital of Beijing. As the storm…",
+        "url": "https://www.breitbart.com/asia/2026/08/11/china-censors-flood-related-rumors-as-typhoon-dolphin-pushes-inland/",
+        "publishedAt": "2026-08-11T21:22:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Report: Chicago Has More Murders in 2026 than All Major Cities in Pro-Gun Florida Combined",
         "description": "A report from the Major Cities Chiefs Association shows that gun-controlled Chicago has more murders thus far this year than all major cities in pro-gun Florida combined.\nThe post Report: Chicago Has More Murders in 2026 than All Major Cities in Pro-Gun Flori…",
@@ -108,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "2026"
-      },
-      {
-        "title": "US Marine veteran released from Russian prison after 1,666 days of detention",
-        "description": "United States Marine veteran Robert Gilman spent 1,666 days in Russian custody and was in a catatonic state before his release in a prisoner exchange.",
-        "url": "https://www.foxnews.com/politics/us-marine-veteran-released-russian-prison-1666-days-detention",
-        "publishedAt": "2026-08-11T16:04:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
       }
     ]
   },
