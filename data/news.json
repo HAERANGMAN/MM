@@ -1,9 +1,40 @@
 {
-  "generated_at": "2026-08-13T22:00:54.714234+00:00",
+  "generated_at": "2026-08-13T22:54:13.760475+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Block Migrant Deportations",
+        "description": "Pro-migration activists have funded some 20,000 lawsuits to release roughly 17,300 illegal migrants -- including many criminals -- mostly with the aid of judges nominated by President Joe Biden. \nThe post Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Blo…",
+        "url": "https://www.breitbart.com/immigration/2026/08/12/pro-amnesty-groups-fund-wall-of-20000-lawsuits-to-block-migrant-deportations/",
+        "publishedAt": "2026-08-12T22:07:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "20"
+      }
+    ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Major League Baseball has a huge problem brewing for the 2026-2027 offseason",
+        "description": "Major League Baseball's \"Level the Playing Field\" campaign pushes for a salary cap, but the Milwaukee Brewers and Tampa Bay Rays dominate standings.",
+        "url": "https://www.foxnews.com/sports/major-league-baseball-huge-problem-brewing-2026-2027-offseason",
+        "publishedAt": "2026-08-12T22:15:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Breitbart Business Digest: July's Mild Inflation Report Should Keep the Fed on Hold",
+        "description": "Fed Hawk Down Someone go check on the health of the Fed hawks. The wind has been taken from beneath their wings. The benign inflation report released Wednesday confirms earlier data suggesting there is no need for a rate hike\nThe post Breitbart Business Diges…",
+        "url": "https://www.breitbart.com/economy/2026/08/12/breitbart-business-digest-julys-mild-inflation-report-should-keep-the-fed-on-hold/",
+        "publishedAt": "2026-08-12T22:09:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Fox News Poll: New matchup, same result — Maine Senate race stays locked",
         "description": "Troy Jackson leads Susan Collins by 2 points in the latest poll, as Maine voters worry more about her Trump ties than his progressive links.",
@@ -33,29 +64,19 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’",
-        "description": "President Donald Trump suggested Wednesday the United States has a military and economic stranglehold on Iran and declared, \"Praise be to Allah!\"\nThe post Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
-        "publishedAt": "2026-08-12T18:26:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "AI Boom: Nvidia Lines Up $500 Billion in Financing from Wall Street Partners",
-        "description": "Nvidia is partnering with six major Wall Street asset managers on a $500 billion financing push meant to turn AI chips into a new class of asset that can be borrowed against, similar to commercial real estate or toll roads.\nThe post AI Boom: Nvidia Lines Up $…",
-        "url": "https://www.breitbart.com/tech/2026/08/12/nvidia-lines-up-500-billion-in-financing-from-wall-street-partners/",
-        "publishedAt": "2026-08-12T17:38:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
+      {
+        "title": "Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Block Migrant Deportations",
+        "description": "Pro-migration activists have funded some 20,000 lawsuits to release roughly 17,300 illegal migrants -- including many criminals -- mostly with the aid of judges nominated by President Joe Biden. \nThe post Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Blo…",
+        "url": "https://www.breitbart.com/immigration/2026/08/12/pro-amnesty-groups-fund-wall-of-20000-lawsuits-to-block-migrant-deportations/",
+        "publishedAt": "2026-08-12T22:07:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "20"
+      },
       {
         "title": "Four ways to harden America's power grid before our global enemies strike",
         "description": "The U.S. must remove Chinese inverters from its power grid and harden critical infrastructure as Iran, China, and Russia target domestic energy supplies.",
