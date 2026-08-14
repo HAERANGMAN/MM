@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-13T23:35:04.923135+00:00",
+  "generated_at": "2026-08-14T00:41:13.950298+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Block Migrant Deportations",
-        "description": "Pro-migration activists have funded some 20,000 lawsuits to release roughly 17,300 illegal migrants -- including many criminals -- mostly with the aid of judges nominated by President Joe Biden. \nThe post Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Blo…",
-        "url": "https://www.breitbart.com/immigration/2026/08/12/pro-amnesty-groups-fund-wall-of-20000-lawsuits-to-block-migrant-deportations/",
-        "publishedAt": "2026-08-12T22:07:39Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
