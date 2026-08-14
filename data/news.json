@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:12:30.708094+00:00",
+  "generated_at": "2026-08-14T05:03:36.061971+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "SEBI mulls sweeping SME listing overhaul to increase investor participation",
+        "description": "SEBI proposes major changes to SME listing rules, aiming to enhance investor participation and broaden access for larger companies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-12/india-said-to-plan-easier-rules-to-boost-micro-cap-listings",
+        "publishedAt": "2026-08-13T04:01:52Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump — U.S. Vows to Keep ‘Wall of Steel’ Blockade",
         "description": "A top adviser to the commander of Iran’s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a “WALL OF STEEL” naval blockade that U.S. and Israeli officials …",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Major League Baseball has a huge problem brewing for the 2026-2027 offseason",
-        "description": "Major League Baseball's \"Level the Playing Field\" campaign pushes for a salary cap, but the Milwaukee Brewers and Tampa Bay Rays dominate standings.",
-        "url": "https://www.foxnews.com/sports/major-league-baseball-huge-problem-brewing-2026-2027-offseason",
-        "publishedAt": "2026-08-12T22:15:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
       }
     ],
     "news-korea-soc": [
@@ -90,6 +90,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "India said to seek 60 transport aircraft in $10-billion tender",
+        "description": "India launches a $10 billion tender for 60 multirole transport aircraft, promoting domestic production with foreign technology partnerships.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-12/india-said-to-seek-60-transport-aircraft-in-10-billion-tender",
+        "publishedAt": "2026-08-13T03:51:50Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "60"
+      },
       {
         "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump — U.S. Vows to Keep ‘Wall of Steel’ Blockade",
         "description": "A top adviser to the commander of Iran’s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a “WALL OF STEEL” naval blockade that U.S. and Israeli officials …",
@@ -125,16 +135,6 @@
         "description": "The Iran-backed Houthi insurgents of Yemen claimed responsibility for a murderous “double tap” strike on a ship in the Bab el-Mandeb Strait on Tuesday, using three ballistic missiles to set the ship on fire — and then launching another missile in a deliberate…",
         "url": "https://www.breitbart.com/middle-east/2026/08/12/iran-backed-houthi-terrorists-launch-missile-and-drone-attacks-in-red-sea/",
         "publishedAt": "2026-08-12T19:30:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Two Custodians Dead in Chicago Elementary School Apparent Murder-Suicide",
-        "description": "Two custodians were discovered with gunshot wounds Monday afternoon in an apparent murder-suicide in Chicago's Mark Twain Elementary School.\nThe post Two Custodians Dead in Chicago Elementary School Apparent Murder-Suicide appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/12/two-custodians-dead-chicago-elementary-school-apparent-murder-suicide/",
-        "publishedAt": "2026-08-12T18:53:47Z",
         "source": {
           "name": "Breitbart News"
         },
