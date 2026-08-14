@@ -1,20 +1,147 @@
 {
-  "generated_at": "2026-08-14T00:41:13.950298+00:00",
+  "generated_at": "2026-08-14T03:12:30.708094+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Block Migrant Deportations",
+        "description": "Pro-migration activists have funded some 20,000 lawsuits to release roughly 17,300 illegal migrants -- including many criminals -- mostly with the aid of judges nominated by President Joe Biden. \nThe post Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Blo…",
+        "url": "https://www.breitbart.com/immigration/2026/08/12/pro-amnesty-groups-fund-wall-of-20000-lawsuits-to-block-migrant-deportations/",
+        "publishedAt": "2026-08-12T22:07:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "20"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump — U.S. Vows to Keep ‘Wall of Steel’ Blockade",
+        "description": "A top adviser to the commander of Iran’s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a “WALL OF STEEL” naval blockade that U.S. and Israeli officials …",
+        "url": "https://www.breitbart.com/politics/2026/08/12/top-irgc-adviser-iran-could-prolong-war-outlast-trump/",
+        "publishedAt": "2026-08-13T02:34:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mike Collins Slams Jon Ossoff for Endorsing ‘Extremist’ Socialist El-Sayed in Michigan Senate Race",
+        "description": "Rep. Mike Collins (R-GA) condemned incumbent Sen. Jon Ossoff (D-GA) on Wednesday for his endorsement of \"extremist\" muslim socialist Michigan Democrat U.S. Senate candidate Abdulrahman Mohamed El-Sayed.\nThe post Mike Collins Slams Jon Ossoff for Endorsing ‘Ex…",
+        "url": "https://www.breitbart.com/politics/2026/08/12/collins-slams-ossoff-endorsing-extremist-socialist-el-sayed-michigan-senate/",
+        "publishedAt": "2026-08-13T00:29:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Birth order linked to 150 health conditions in study of 10 million American siblings",
+        "description": "First-born children showed higher rates of autism, ADHD and food allergies, while second-born siblings faced more substance use disorders and migraines.",
+        "url": "https://www.foxnews.com/health/birth-order-linked-150-health-conditions-study-10-million-american-siblings-two-decades",
+        "publishedAt": "2026-08-13T00:15:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "150"
+      },
+      {
+        "title": "Is Orlando destined to be one of the next MLB cities? The Orlando Dreamers are looking to make it happen",
+        "description": "The Orlando Dreamers are making their case for MLB expansion in Florida, citing tourism, media market size and a proposed stadium near SeaWorld.",
+        "url": "https://www.foxnews.com/outkick-sports/orlando-destined-next-mlb-cities-orlando-dreamers-looking-make-happen",
+        "publishedAt": "2026-08-12T23:48:11Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Major League Baseball has a huge problem brewing for the 2026-2027 offseason",
+        "description": "Major League Baseball's \"Level the Playing Field\" campaign pushes for a salary cap, but the Milwaukee Brewers and Tampa Bay Rays dominate standings.",
+        "url": "https://www.foxnews.com/sports/major-league-baseball-huge-problem-brewing-2026-2027-offseason",
+        "publishedAt": "2026-08-12T22:15:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Block Migrant Deportations",
+        "description": "Pro-migration activists have funded some 20,000 lawsuits to release roughly 17,300 illegal migrants -- including many criminals -- mostly with the aid of judges nominated by President Joe Biden. \nThe post Pro-Amnesty Groups Fund Wall of 20,000 Lawsuits to Blo…",
+        "url": "https://www.breitbart.com/immigration/2026/08/12/pro-amnesty-groups-fund-wall-of-20000-lawsuits-to-block-migrant-deportations/",
+        "publishedAt": "2026-08-12T22:07:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "20"
+      },
+      {
+        "title": "Four ways to harden America's power grid before our global enemies strike",
+        "description": "The U.S. must remove Chinese inverters from its power grid and harden critical infrastructure as Iran, China, and Russia target domestic energy supplies.",
+        "url": "https://www.foxnews.com/opinion/four-ways-harden-americas-power-grid-global-enemies-strike",
+        "publishedAt": "2026-08-12T09:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump — U.S. Vows to Keep ‘Wall of Steel’ Blockade",
+        "description": "A top adviser to the commander of Iran’s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a “WALL OF STEEL” naval blockade that U.S. and Israeli officials …",
+        "url": "https://www.breitbart.com/politics/2026/08/12/top-irgc-adviser-iran-could-prolong-war-outlast-trump/",
+        "publishedAt": "2026-08-13T02:34:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Clueless WNBA attacks 'bad-faith' fans who don't want biological men ruining women's sports",
+        "description": "The WNBA task force on transgender athletes offered another update with no eligibility definition, scheduling more meetings while scolding critics.",
+        "url": "https://www.foxnews.com/outkick-sports/clueless-wnba-criticizes-bad-faith-actors-dont-want-see-biological-men-ruin-womens-basketball",
+        "publishedAt": "2026-08-13T02:03:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bob Iger, Josh Kushner to Purchase Los Angeles Lakers for $12.5 Billion",
+        "description": "Former Disney CEO Bob Iger and Josh Kushner will reportedly purchase the Los Angeles Lakers for the record-breaking price of $12.5 billion. \nThe post Bob Iger, Josh Kushner to Purchase Los Angeles Lakers for $12.5 Billion appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/sports/2026/08/12/bob-iger-josh-kushner-to-purchase-los-angeles-lakers-for-12-5-billion/",
+        "publishedAt": "2026-08-13T01:24:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Iran-Backed Houthi Terrorists Launch Missile and Drone Attacks in Red Sea",
+        "description": "The Iran-backed Houthi insurgents of Yemen claimed responsibility for a murderous “double tap” strike on a ship in the Bab el-Mandeb Strait on Tuesday, using three ballistic missiles to set the ship on fire — and then launching another missile in a deliberate…",
+        "url": "https://www.breitbart.com/middle-east/2026/08/12/iran-backed-houthi-terrorists-launch-missile-and-drone-attacks-in-red-sea/",
+        "publishedAt": "2026-08-12T19:30:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Two Custodians Dead in Chicago Elementary School Apparent Murder-Suicide",
+        "description": "Two custodians were discovered with gunshot wounds Monday afternoon in an apparent murder-suicide in Chicago's Mark Twain Elementary School.\nThe post Two Custodians Dead in Chicago Elementary School Apparent Murder-Suicide appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/12/two-custodians-dead-chicago-elementary-school-apparent-murder-suicide/",
+        "publishedAt": "2026-08-12T18:53:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
