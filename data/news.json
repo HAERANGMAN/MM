@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-15T07:14:31.665511+00:00",
+  "generated_at": "2026-08-15T07:45:47.702056+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Quest Global said to pick banks for $1 billion India IPO",
+        "description": "The Singapore-based engineering services firm has appointed Axis Capital Ltd., Kotak Mahindra Capital Co., JM Financial Ltd., Morgan Stanley and Citigroup Inc. to advise on the share sale",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-14/quest-global-said-to-pick-banks-for-1-billion-india-ipo",
+        "publishedAt": "2026-08-14T07:35:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "India less exposed to AI job risks than others, Goldman says",
         "description": "Construction and retail trade account for about 40% of India’s workforce, and ‘it’s not really getting impacted by AI currently’, Goldman Sachs economist says",
@@ -43,21 +53,21 @@
           "name": "Bloomberg"
         },
         "numericHint": "0.5"
-      },
-      {
-        "title": "Police Report: Maine Democrat Troy Jackson Punched Man, Allegedly Pushed Partner Who Is His Second Cousin",
-        "description": "Maine Democrat U.S. Senate nominee Troy Jackson was charged with assault after punching a man in 1988, while a police report says his longtime partner, Lana Pelletier, who is also reportedly his second cousin and the mother of his two children, told an office…",
-        "url": "https://www.breitbart.com/politics/2026/08/13/police-report-maine-democrat-troy-jackson-punched-man-allegedly-pushed-partner/",
-        "publishedAt": "2026-08-14T03:04:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1988"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Quest Global said to pick banks for $1 billion India IPO",
+        "description": "The Singapore-based engineering services firm has appointed Axis Capital Ltd., Kotak Mahindra Capital Co., JM Financial Ltd., Morgan Stanley and Citigroup Inc. to advise on the share sale",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-14/quest-global-said-to-pick-banks-for-1-billion-india-ipo",
+        "publishedAt": "2026-08-14T07:35:39Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
         "description": "The White House report identifies over 40 countries posing elevated transshipment risk as China routes goods through third nations to dodge tariffs.",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "83"
-      },
-      {
-        "title": "China Sends Science Team to Iran for ‘Exploration and Processing’ of Rare Earths",
-        "description": "The National Natural Science Foundation of China (NSFC) on Monday announced a collaboration with Iran on the “exploration and processing of rare earth elements,” presented as a series of workshops that will be mostly funded by China.\nThe post China Sends Scie…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/13/china-sends-science-team-to-iran-for-exploration-and-processing-of-rare-earths/",
-        "publishedAt": "2026-08-13T20:17:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
