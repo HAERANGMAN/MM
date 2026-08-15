@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-15T03:59:56.615976+00:00",
+  "generated_at": "2026-08-15T04:39:13.223151+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Police Report: Maine Democrat Troy Jackson Punched Man, Allegedly Pushed Partner Who Is His Second Cousin",
-        "description": "Maine Democrat U.S. Senate nominee Troy Jackson was charged with assault after punching a man in 1988, while a police report says his longtime partner, Lana Pelletier, who is also reportedly his second cousin and the mother of his two children, told an office…",
-        "url": "https://www.breitbart.com/politics/2026/08/13/police-report-maine-democrat-troy-jackson-punched-man-allegedly-pushed-partner/",
-        "publishedAt": "2026-08-14T03:04:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1988"
-      },
-      {
-        "title": "Report: Ecuador Seizes 1,034 Pounds of Cocaine Stamped with Erling Haaland's Face",
-        "description": "Ecuadorian police seized 469 kilograms of cocaine stamped with the face of Norway soccer star Erling Haaland from a truck near the Colombian border on Wednesday, according to reports. The stash weighed roughly 1,034 pounds and was packed into green\nThe post R…",
-        "url": "https://www.breitbart.com/sports/2026/08/13/ecuador-seizes-cocaine-stamped-erling-haalands-face/",
-        "publishedAt": "2026-08-14T02:31:16Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "India’s urea import prices fall 12% as global fertilizer market tightness eases",
-        "description": "India receives urea offers 12% below June prices, signalling easing global fertilizer supply pressures as demand weakens and trade disruptions persist.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-13/india-urea-offers-decline-12-as-war-supply-squeeze-eases",
-        "publishedAt": "2026-08-14T01:01:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "JD Vance warns Republicans not to blame young Americans for the appeal of socialism",
-        "description": "Vice President JD Vance warns Republicans not to blame young Americans for embracing socialism, saying the GOP must address surging housing prices and economic anxiety.",
-        "url": "https://www.foxnews.com/media/jd-vance-warns-republicans-not-blame-young-americans-appeal-socialism",
-        "publishedAt": "2026-08-13T22:52:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fox News Poll: A Senate battle looms in Michigan",
-        "description": "Abdul El-Sayed trails Mike Rogers 47%-51% in the Wolverine State Senate race, but Democrats show higher enthusiasm and engagement ahead of the fall.",
-        "url": "https://www.foxnews.com/politics/fox-news-poll-senate-battle-looms-michigan",
-        "publishedAt": "2026-08-13T22:00:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "47"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
-        "description": "The White House report identifies over 40 countries posing elevated transshipment risk as China routes goods through third nations to dodge tariffs.",
-        "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
-        "publishedAt": "2026-08-14T01:51:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "India’s urea import prices fall 12% as global fertilizer market tightness eases",
-        "description": "India receives urea offers 12% below June prices, signalling easing global fertilizer supply pressures as demand weakens and trade disruptions persist.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-13/india-urea-offers-decline-12-as-war-supply-squeeze-eases",
-        "publishedAt": "2026-08-14T01:01:18Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "Could Shohei Ohtani leave the Los Angeles Dodgers if Mark Walter sells the team after Lakers deal?",
-        "description": "Mark Walter's federal investigation for alleged loan fraud fuels speculation about whether the Los Angeles Dodgers could be sold after the Lakers deal.",
-        "url": "https://www.foxnews.com/outkick-sports/shohei-ohtani-leave-los-angeles-dodgers-mark-walter-sells-team-lakers-deal",
-        "publishedAt": "2026-08-13T22:35:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Scope of CCP-backed Chinese exchange program inside American schools uncovered in sweeping report",
-        "description": "A Defending Education report reveals 83 universities and 26 K-12 schools joined Xi Jinping's exchange program run by a Marxism-Leninism agency.",
-        "url": "https://www.foxnews.com/politics/scope-ccp-backed-chinese-exchange-program-inside-american-schools-uncovered-sweeping-report",
-        "publishedAt": "2026-08-13T20:21:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "83"
-      },
-      {
-        "title": "China Sends Science Team to Iran for ‘Exploration and Processing’ of Rare Earths",
-        "description": "The National Natural Science Foundation of China (NSFC) on Monday announced a collaboration with Iran on the “exploration and processing of rare earth elements,” presented as a series of workshops that will be mostly funded by China.\nThe post China Sends Scie…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/13/china-sends-science-team-to-iran-for-exploration-and-processing-of-rare-earths/",
-        "publishedAt": "2026-08-13T20:17:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
