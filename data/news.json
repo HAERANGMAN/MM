@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-15T06:37:06.372854+00:00",
+  "generated_at": "2026-08-15T07:14:31.665511+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "India less exposed to AI job risks than others, Goldman says",
+        "description": "Construction and retail trade account for about 40% of India’s workforce, and ‘it’s not really getting impacted by AI currently’, Goldman Sachs economist says",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+        "publishedAt": "2026-08-14T06:44:47Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "ICICI joins Indian banks chasing dollar loans, swelling demand",
+        "description": "ICICI Bank has launched a syndicated offshore loan of about $1.45 billion, with a margin of 110 basis points over the US benchmark Secured Overnight Financing Rate",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-14/icici-joins-indian-banks-chasing-dollar-loans-swelling-demand",
+        "publishedAt": "2026-08-14T05:37:31Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "'How Does This End?: Vance Says Keeping Oil, Gas Cheap and Ensuring Iran Never Gets Nukes Focus of Iran Conflict",
+        "description": "Thursday, during an appearance on FNC's \"The Will Cain Show,\" Vice President J.D. Vance was asked how the conflict with Iran would end and what it could look like once it is over.\nThe post ‘How Does This End?: Vance Says Keeping Oil, Gas Cheap and Ensuring Ir…",
+        "url": "https://www.breitbart.com/clips/2026/08/13/how-does-this-end-vance-says-keeping-oil-gas-cheap-and-ensuring-iran-never-gets-nukes-focus-of-iran-conflict/",
+        "publishedAt": "2026-08-14T05:08:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Asian stocks rise as US inflation, tech spur gains",
+        "description": "Asian stocks rise 0.5% as US inflation eases, boosting tech shares and extending gains for a fourth consecutive week.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "publishedAt": "2026-08-14T04:32:24Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.5"
+      },
+      {
+        "title": "Police Report: Maine Democrat Troy Jackson Punched Man, Allegedly Pushed Partner Who Is His Second Cousin",
+        "description": "Maine Democrat U.S. Senate nominee Troy Jackson was charged with assault after punching a man in 1988, while a police report says his longtime partner, Lana Pelletier, who is also reportedly his second cousin and the mother of his two children, told an office…",
+        "url": "https://www.breitbart.com/politics/2026/08/13/police-report-maine-democrat-troy-jackson-punched-man-allegedly-pushed-partner/",
+        "publishedAt": "2026-08-14T03:04:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1988"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
+        "description": "The White House report identifies over 40 countries posing elevated transshipment risk as China routes goods through third nations to dodge tariffs.",
+        "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
+        "publishedAt": "2026-08-14T01:51:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "India’s urea import prices fall 12% as global fertilizer market tightness eases",
+        "description": "India receives urea offers 12% below June prices, signalling easing global fertilizer supply pressures as demand weakens and trade disruptions persist.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-13/india-urea-offers-decline-12-as-war-supply-squeeze-eases",
+        "publishedAt": "2026-08-14T01:01:18Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "12"
+      },
+      {
+        "title": "Could Shohei Ohtani leave the Los Angeles Dodgers if Mark Walter sells the team after Lakers deal?",
+        "description": "Mark Walter's federal investigation for alleged loan fraud fuels speculation about whether the Los Angeles Dodgers could be sold after the Lakers deal.",
+        "url": "https://www.foxnews.com/outkick-sports/shohei-ohtani-leave-los-angeles-dodgers-mark-walter-sells-team-lakers-deal",
+        "publishedAt": "2026-08-13T22:35:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Scope of CCP-backed Chinese exchange program inside American schools uncovered in sweeping report",
+        "description": "A Defending Education report reveals 83 universities and 26 K-12 schools joined Xi Jinping's exchange program run by a Marxism-Leninism agency.",
+        "url": "https://www.foxnews.com/politics/scope-ccp-backed-chinese-exchange-program-inside-american-schools-uncovered-sweeping-report",
+        "publishedAt": "2026-08-13T20:21:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "83"
+      },
+      {
+        "title": "China Sends Science Team to Iran for ‘Exploration and Processing’ of Rare Earths",
+        "description": "The National Natural Science Foundation of China (NSFC) on Monday announced a collaboration with Iran on the “exploration and processing of rare earth elements,” presented as a series of workshops that will be mostly funded by China.\nThe post China Sends Scie…",
+        "url": "https://www.breitbart.com/middle-east/2026/08/13/china-sends-science-team-to-iran-for-exploration-and-processing-of-rare-earths/",
+        "publishedAt": "2026-08-13T20:17:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
