@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-17T11:43:10.434503+00:00",
+  "generated_at": "2026-08-17T12:02:11.907926+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Newsom's far-left mob play echoes Danton's fatal French Revolution gamble",
+        "description": "Gavin Newsom's bid to lead the far left draws a chilling parallel to French Revolution figure Danton, who lost control of the mob he unleashed.",
+        "url": "https://www.foxnews.com/opinion/jonathan-turley-newsom-thinks-he-can-control-far-left-mob-history-disagrees",
+        "publishedAt": "2026-08-16T11:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mark Levin: The Democratic Party gave birth to the DSA | Fox News Video",
+        "description": "Fox News host Mark Levin details overlap between the Democratic Party and Democratic socialists, noting how the left has historically 'lied' about the Constitution, on 'Life, Liberty & Levin.'",
+        "url": "https://www.foxnews.com/video/6403490030112",
+        "publishedAt": "2026-08-16T02:02:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dem Rep. Moore: Democratic Socialists Just Believe in Regulations, Safety Net But 'Believe in Capitalism'",
+        "description": "On Friday’s broadcast of Bloomberg’s “Balance of Power,” Rep. Gwen Moore (D-WI) argued that “democratic socialists are people who believe in a market economy, they believe in capitalism, but they believe in regulations as well.” And “we’re not going to\nThe po…",
+        "url": "https://www.breitbart.com/clips/2026/08/15/dem-rep-moore-democratic-socialists-just-believe-in-regulations-safety-net-but-believe-in-capitalism/",
+        "publishedAt": "2026-08-15T21:52:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "JJ McCarthy considered 'unpredictable' as Vikings hand starting QB role to Kyler Murray: report",
+        "description": "A source told CBS Sports that J.J. McCarthy was seen as \"unpredictable\" within the Minnesota Vikings, factoring into the quick decision to name Kyler Murray starter.",
+        "url": "https://www.foxnews.com/sports/jj-mccarthy-considered-unpredictable-vikings-hand-starting-qb-role-kyler-murray-report",
+        "publishedAt": "2026-08-15T21:05:37Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump backs Republican challenger to oust Letitia James amid ongoing mortgage fraud feud",
+        "description": "President Donald Trump endorsed Saritha Komatireddy to challenge Letitia James, calling the New York attorney general the \"WORST\" in the country.",
+        "url": "https://www.foxnews.com/politics/trump-backs-republican-challenger-oust-letitia-james-amid-ongoing-mortgage-fraud-feud",
+        "publishedAt": "2026-08-15T20:49:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Advocate tells freed Marine vet's physical, psychological torment in Russian prison as 5 Americans remain held",
+        "description": "Global Reach's Kieran Ramsey reveals the beatings and psychological torment Robert Gilman endured during 1,666 days in Russian prison and pleads for remaining detainees.",
+        "url": "https://www.foxnews.com/politics/advocate-tells-freed-marine-vet-physical-psychological-torment-russian-prison-5-americans-remain-held",
+        "publishedAt": "2026-08-15T19:10:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "FREEDOM: Scottsdale Gun Club Sells Suppressor for $17.76, No Registration",
+        "description": "Scottsdale Gun Club celebrated crumbling NFA requirements by selling suppressors to Sheriffs Jerry Sheridan and Mark Lamb for $17.76 each.\nThe post FREEDOM: Scottsdale Gun Club Sells Suppressor for $17.76, No Registration appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/freedom-scottsdale-gun-club-sells-suppressor-for-17-76-no-registration/",
+        "publishedAt": "2026-08-15T18:50:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Store Employee Shoots Alleged Armed Robber Dead",
+        "description": "An employee at a Florence County, South Carolina, Smokers Town shop shot and killed an alleged armed robber around 10:15 p.m. Wednesday. \nThe post Store Employee Shoots Alleged Armed Robber Dead appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/store-employee-shoots-alleged-armed-robber-dead/",
+        "publishedAt": "2026-08-15T16:09:38Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "10"
+      },
+      {
+        "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
+        "description": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. \nThe post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
+        "publishedAt": "2026-08-15T15:39:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Five People Dead in String of Shootings in Michigan",
+        "description": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan.\nThe post Five People Dead in String of Shootings in Michigan appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
+        "publishedAt": "2026-08-15T15:20:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
