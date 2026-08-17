@@ -1,105 +1,19 @@
 {
-  "generated_at": "2026-08-17T17:31:45.224629+00:00",
+  "generated_at": "2026-08-17T17:57:43.161233+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Democratic Socialist Candidate Rabb: U.S. 'Is Not a Purely Capitalistic Society'",
-        "description": "Sunday on CBS’s “Face the Nation,” Pennsylvania state Rep. Chris Rabb (D) said the United States is “not a purely capitalistic society.” Partial transcript as follows: ED O’KEEFE: Part of the reason why we wanted to have someone like you here,\nThe post Democr…",
-        "url": "https://www.breitbart.com/clips/2026/08/16/democratic-socialist-candidate-rabb-u-s-is-not-a-purely-capitalistic-society/",
-        "publishedAt": "2026-08-16T17:25:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sam's Club meal kit feeds a family for under $16 as shoppers seek affordable dinners",
-        "description": "Sam's Club's $16 Member's Mark Chicken Shawarma Kit aims to solve the busy family dinner dilemma, but shoppers have raised concerns about portions.",
-        "url": "https://www.foxnews.com/food-drink/sams-club-meal-kit-feeds-family-under-16-shoppers-seek-affordable-dinners",
-        "publishedAt": "2026-08-16T16:45:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "WATCH — NYC: Socialist Lawmaker Claims Stealing for 'Biological Need' Should Not Be Illegal",
-        "description": "A socialist lawmaker in New York City has claimed \"biological need\" gives shoplifters the right to steal from store shelves. \nThe post WATCH — NYC: Socialist Lawmaker Claims Stealing for ‘Biological Need’ Should Not Be Illegal appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/crime/2026/08/16/watch-nyc-socialist-lawmaker-claims-stealing-for-biological-need-should-not-be-illegal/",
-        "publishedAt": "2026-08-16T16:20:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. State Department Trolls Mexico’s Ruling Party's Acting Offended After Visa Revocation of Former President’s Son",
-        "description": "As Mexico’s political elite are acting offended after the U.S. revoked the visa of the son of former Mexican President Andres Manuel Lopez Obrador (AMLO), a top diplomat from the U.S. Department of State took to social media to troll them, claiming that more …",
-        "url": "https://www.breitbart.com/border/2026/08/16/u-s-dos-trolls-mexicos-ruling-party-acting-offended-after-visa-revocation-of-former-presidents-son/",
-        "publishedAt": "2026-08-16T16:11:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Winning: Americans' Tax Refunds Increased by $43 Billion This Year",
-        "description": "Americans experienced a major increase in their tax returns this year which the U.S. Government Accountability Office attributed in part to President Donald Trump's tax law. \nThe post Winning: Americans’ Tax Refunds Increased by $43 Billion This Year appeared…",
-        "url": "https://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increased-by-43-billion-this-year/",
-        "publishedAt": "2026-08-16T15:01:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Four Wounded, One Dead After Gunfire Erupts at Kentucky Concert",
-        "description": "Four people were wounded and one killed after gunfire erupted at a concert in Lexington, Kentucky, on Saturday night.\nThe post Four Wounded, One Dead After Gunfire Erupts at Kentucky Concert appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/16/four-wounded-one-dead-after-gunfire-erupts-at-kentucky-concert/",
-        "publishedAt": "2026-08-16T14:11:14Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz",
-        "description": "Iran-backed Houthis exploit Yemen's fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz choke point.",
-        "url": "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz",
-        "publishedAt": "2026-08-16T13:53:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Advocate tells freed Marine vet's physical, psychological torment in Russian prison as 5 Americans remain held",
-        "description": "Global Reach's Kieran Ramsey reveals the beatings and psychological torment Robert Gilman endured during 1,666 days in Russian prison and pleads for remaining detainees.",
-        "url": "https://www.foxnews.com/politics/advocate-tells-freed-marine-vet-physical-psychological-torment-russian-prison-5-americans-remain-held",
-        "publishedAt": "2026-08-15T19:10:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "FREEDOM: Scottsdale Gun Club Sells Suppressor for $17.76, No Registration",
-        "description": "Scottsdale Gun Club celebrated crumbling NFA requirements by selling suppressors to Sheriffs Jerry Sheridan and Mark Lamb for $17.76 each.\nThe post FREEDOM: Scottsdale Gun Club Sells Suppressor for $17.76, No Registration appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/freedom-scottsdale-gun-club-sells-suppressor-for-17-76-no-registration/",
-        "publishedAt": "2026-08-15T18:50:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
