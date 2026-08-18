@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-18T17:46:01.850155+00:00",
+  "generated_at": "2026-08-18T18:13:40.705029+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Report: Iranians Facing 400 Percent Food Price Increases as U.S. Blockade Crushes Economy",
-        "description": "Iranian citizens are telling foreign media outlets that survival is growing difficult as the price of food and other basic commodities soars by 400% under pressure from the U.S. blockade, even as the regime in Tehran insists the food situation is under contro…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/17/report-iranians-facing-400-percent-food-price-increases-as-u-s-blockade-crushes-economy/",
-        "publishedAt": "2026-08-17T17:25:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "400"
-      },
-      {
-        "title": "Russia Hypes 'Nuclear War' Threat After British Drones Launched By Ukraine For First Time",
-        "description": "British-made drones have been used for the first time, prompting Moscow to make one of its periodic allusions to the threat of nuclear war. \nThe post Russia Hypes ‘Nuclear War’ Threat After British Drones Launched By Ukraine For First Time appeared first on B…",
-        "url": "https://www.breitbart.com/europe/2026/08/17/russia-hypes-nuclear-war-threat-after-british-drones-launched-by-ukraine-for-first-time/",
-        "publishedAt": "2026-08-17T17:02:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Report: Trump Threatens to Bomb Oman If It ‘Gets In the Way’ of Iran War",
-        "description": "President Donald Trump reportedly told Fox News chief foreign correspondent Trey Yingst on Monday that he was prepared to order airstrikes against Oman if it interferes with resolution of the Iran conflict.\nThe post Report: Trump Threatens to Bomb Oman If It …",
-        "url": "https://www.breitbart.com/middle-east/2026/08/17/report-trump-threatens-to-bomb-oman-if-it-gets-in-the-way-of-iran-war/",
-        "publishedAt": "2026-08-17T16:08:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Xi Jinping Celebrates Tiananmen Square Massacre at Event Honoring Butcher Jiang Zemin",
-        "description": "Chinese dictator Xi Jinping celebrated the life of communist predecessor Jiang Zemin at a ceremony marking the latter's would-be 100th birthday on Monday, noting that Jiang, as the leader who took over China following the Tiananmen Square massacre, \"implement…",
-        "url": "https://www.breitbart.com/asia/2026/08/17/xi-jinping-celebrates-tiananmen-square-massacre-at-event-honoring-butcher-jiang-zemin/",
-        "publishedAt": "2026-08-17T15:49:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "GIANNO CALDWELL: Florida needs Byron Donalds to protect the DeSantis legacy",
-        "description": "A public safety advocate who fled Los Angeles lockdowns for Miami explains why Byron Donalds should carry forward Ron DeSantis' Florida legacy.",
-        "url": "https://www.foxnews.com/opinion/gianno-caldwell-florida-needs-byron-donalds-protect-desantis-legacy",
-        "publishedAt": "2026-08-17T15:49:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Lindsay Clancy’s parents get massive global donor support as fundraiser surpasses $830K",
-        "description": "A GoFundMe for Lindsay Clancy's parents has surpassed $830,000 with a $2 million goal as the Massachusetts mother's murder trial enters week four.",
-        "url": "https://www.foxnews.com/us/lindsay-clancys-parents-get-massive-global-donor-support-fundraiser-surpasses-830k",
-        "publishedAt": "2026-08-17T17:21:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for Non-Violent Felons",
-        "description": "Attorney General Todd Blanche finalized a regulation Monday that creates a pathway for non-violent felons to pursue the restoration of their federal gun rights.\nThe post EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for No…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/17/exclusive-ag-todd-blanche-finalizes-regulation-allowing-restoration-of-gun-rights-for-non-violent-felons/",
-        "publishedAt": "2026-08-17T15:00:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "GOP freshman firebrand targets global consulting giant over 'plainly illegal' DEI practices",
-        "description": "House GOP Rep. Brandon Gill accuses McKinsey & Company of pushing DEI reports that promoted illegal race and gender hiring, costing the U.S. economy $94 billion in a year.",
-        "url": "https://www.foxnews.com/politics/gop-freshman-firebrand-targets-global-consulting-giant-over-plainly-illegal-dei-practices",
-        "publishedAt": "2026-08-17T15:00:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "US awards Raytheon $22.9B Tomahawk deal as Trump dismisses weapons stockpile concerns",
-        "description": "The Department of War awarded Raytheon a $22.9 billion contract to accelerate Tomahawk missile production as Trump dismisses weapons stockpile concerns.",
-        "url": "https://www.foxnews.com/politics/us-awards-raytheon-22-9b-tomahawk-deal-trump-dismisses-weapons-stockpile-concerns",
-        "publishedAt": "2026-08-17T13:36:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War",
-        "description": "First Lady Melania Trump has reunited yet another child with their family after being displaced during the Russia-Ukraine war, marking the sixth such round of reunifications she has facilitated, Breitbart News has exclusively learned.\nThe post Exclusive: Firs…",
-        "url": "https://www.breitbart.com/politics/2026/08/17/exclusive-first-lady-melania-trump-facilitates-34th-family-reunification/",
-        "publishedAt": "2026-08-17T12:30:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "34"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
