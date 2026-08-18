@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-18T17:14:24.754505+00:00",
+  "generated_at": "2026-08-18T17:46:01.850155+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Report: Iranians Facing 400 Percent Food Price Increases as U.S. Blockade Crushes Economy",
+        "description": "Iranian citizens are telling foreign media outlets that survival is growing difficult as the price of food and other basic commodities soars by 400% under pressure from the U.S. blockade, even as the regime in Tehran insists the food situation is under contro…",
+        "url": "https://www.breitbart.com/middle-east/2026/08/17/report-iranians-facing-400-percent-food-price-increases-as-u-s-blockade-crushes-economy/",
+        "publishedAt": "2026-08-17T17:25:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "400"
+      },
       {
         "title": "Russia Hypes 'Nuclear War' Threat After British Drones Launched By Ukraine For First Time",
         "description": "British-made drones have been used for the first time, prompting Moscow to make one of its periodic allusions to the threat of nuclear war. \nThe post Russia Hypes ‘Nuclear War’ Threat After British Drones Launched By Ukraine For First Time appeared first on B…",
@@ -43,21 +53,21 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Russian state economist fired after stark warning about Moscow’s economic future",
-        "description": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
-        "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
-        "publishedAt": "2026-08-17T15:43:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Lindsay Clancy’s parents get massive global donor support as fundraiser surpasses $830K",
+        "description": "A GoFundMe for Lindsay Clancy's parents has surpassed $830,000 with a $2 million goal as the Massachusetts mother's murder trial enters week four.",
+        "url": "https://www.foxnews.com/us/lindsay-clancys-parents-get-massive-global-donor-support-fundraiser-surpasses-830k",
+        "publishedAt": "2026-08-17T17:21:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for Non-Violent Felons",
         "description": "Attorney General Todd Blanche finalized a regulation Monday that creates a pathway for non-violent felons to pursue the restoration of their federal gun rights.\nThe post EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for No…",
@@ -97,16 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "34"
-      },
-      {
-        "title": "UK Prime Minister Andy Burnham Duped by Hoax White House Messages",
-        "description": "UK Prime Minister Andy Burnham has been left red faced and embarrassed by a hoaxer posing as the chief of staff to U.S. President Donald Trump who tricked him into exchanging messages in a major security breach.\nThe post UK Prime Minister Andy Burnham Duped b…",
-        "url": "https://www.breitbart.com/europe/2026/08/17/uk-prime-minister-andy-burnham-duped-by-hoax-white-house-messages/",
-        "publishedAt": "2026-08-17T10:22:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
