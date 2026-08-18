@@ -1,20 +1,148 @@
 {
-  "generated_at": "2026-08-18T21:31:02.499811+00:00",
+  "generated_at": "2026-08-18T21:51:33.105512+00:00",
   "sections": {
     "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-thai-econ": [
+      {
+        "title": "Man busted after customs uncovers bizarre cargo hidden inside 22 pairs of socks",
+        "description": "Customs officials at Haneda Airport found around 200 lizards stuffed inside 22 pairs of socks in a Mexican man's suitcase, including endangered species.",
+        "url": "https://www.foxnews.com/travel/man-busted-after-customs-uncovers-bizarre-cargo-hidden-22-pairs-socks",
+        "publishedAt": "2026-08-17T20:16:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "22"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "Man busted after customs uncovers bizarre cargo hidden inside 22 pairs of socks",
+        "description": "Customs officials at Haneda Airport found around 200 lizards stuffed inside 22 pairs of socks in a Mexican man's suitcase, including endangered species.",
+        "url": "https://www.foxnews.com/travel/man-busted-after-customs-uncovers-bizarre-cargo-hidden-22-pairs-socks",
+        "publishedAt": "2026-08-17T20:16:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "22"
+      },
+      {
+        "title": "Homebuilder Sentiment Unexpectedly Improves But Remains Subdued",
+        "description": "A key measure of homebuilder confidence unexpectedly improved in August but remains at a subdued level as elevated interest rates and construction costs weigh on the market.\nThe post Homebuilder Sentiment Unexpectedly Improves But Remains Subdued appeared fir…",
+        "url": "https://www.breitbart.com/economy/2026/08/17/home-builder-sentiment/",
+        "publishedAt": "2026-08-17T19:26:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NYC drivers shell out $9 congestion toll. City admits it failed to improve air quality",
+        "description": "New York City's own Health Department report found no statistically significant air quality improvement after a year of the $9 congestion toll.",
+        "url": "https://www.foxnews.com/politics/nyc-drivers-shell-out-9-congestion-toll-city-admits-failed-improve-air-quality",
+        "publishedAt": "2026-08-17T18:33:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Fauci's Phone Reveals Official at NIAID's Vaccine Research Center Warned 'Avoid Vaccination in First Trimester' in 2021",
+        "description": "Another text message found on Anthony Fauci's government-issued cellphone provides greater context into concerns of the coronavirus vaccine possibly being associated with higher rates of miscarriage in the first trimester.\nThe post Fauci’s Phone Reveals Offic…",
+        "url": "https://www.breitbart.com/politics/2026/08/17/faucis-phone-reveals-official-at-niaids-vaccine-research-center-warned-avoid-vaccination-in-first-trimester-in-2021/",
+        "publishedAt": "2026-08-17T18:13:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2021"
+      },
+      {
+        "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
+        "description": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
+        "url": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
+        "publishedAt": "2026-08-17T17:59:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Man busted after customs uncovers bizarre cargo hidden inside 22 pairs of socks",
+        "description": "Customs officials at Haneda Airport found around 200 lizards stuffed inside 22 pairs of socks in a Mexican man's suitcase, including endangered species.",
+        "url": "https://www.foxnews.com/travel/man-busted-after-customs-uncovers-bizarre-cargo-hidden-22-pairs-socks",
+        "publishedAt": "2026-08-17T20:16:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "22"
+      }
+    ],
+    "news-thai-soc": [
+      {
+        "title": "Man busted after customs uncovers bizarre cargo hidden inside 22 pairs of socks",
+        "description": "Customs officials at Haneda Airport found around 200 lizards stuffed inside 22 pairs of socks in a Mexican man's suitcase, including endangered species.",
+        "url": "https://www.foxnews.com/travel/man-busted-after-customs-uncovers-bizarre-cargo-hidden-22-pairs-socks",
+        "publishedAt": "2026-08-17T20:16:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "22"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "LIV Golf Team Championship set for Indianapolis as Michigan tournament is canceled amid league's murky future",
+        "description": "Scott O'Neil says a new lead investor will keep LIV Golf alive past 2027, but the $40 million Team Championship has now been officially re-scheduled.",
+        "url": "https://www.foxnews.com/outkick-sports/liv-golf-team-championship-set-indianapolis-michigan-tournament-canceled-amid-league-murky-future",
+        "publishedAt": "2026-08-17T19:24:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2027"
+      },
+      {
+        "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
+        "description": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
+        "url": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
+        "publishedAt": "2026-08-17T17:59:50Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      },
+      {
+        "title": "Lindsay Clancy’s parents get massive global donor support as fundraiser surpasses $830K",
+        "description": "A GoFundMe for Lindsay Clancy's parents has surpassed $830,000 with a $2 million goal as the Massachusetts mother's murder trial enters week four.",
+        "url": "https://www.foxnews.com/us/lindsay-clancys-parents-get-massive-global-donor-support-fundraiser-surpasses-830k",
+        "publishedAt": "2026-08-17T17:21:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for Non-Violent Felons",
+        "description": "Attorney General Todd Blanche finalized a regulation Monday that creates a pathway for non-violent felons to pursue the restoration of their federal gun rights.\nThe post EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for No…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/17/exclusive-ag-todd-blanche-finalizes-regulation-allowing-restoration-of-gun-rights-for-non-violent-felons/",
+        "publishedAt": "2026-08-17T15:00:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP freshman firebrand targets global consulting giant over 'plainly illegal' DEI practices",
+        "description": "House GOP Rep. Brandon Gill accuses McKinsey & Company of pushing DEI reports that promoted illegal race and gender hiring, costing the U.S. economy $94 billion in a year.",
+        "url": "https://www.foxnews.com/politics/gop-freshman-firebrand-targets-global-consulting-giant-over-plainly-illegal-dei-practices",
+        "publishedAt": "2026-08-17T15:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
