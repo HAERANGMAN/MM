@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-18T16:50:50.706674+00:00",
+  "generated_at": "2026-08-18T17:14:24.754505+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Russia Hypes 'Nuclear War' Threat After British Drones Launched By Ukraine For First Time",
+        "description": "British-made drones have been used for the first time, prompting Moscow to make one of its periodic allusions to the threat of nuclear war. \nThe post Russia Hypes ‘Nuclear War’ Threat After British Drones Launched By Ukraine For First Time appeared first on B…",
+        "url": "https://www.breitbart.com/europe/2026/08/17/russia-hypes-nuclear-war-threat-after-british-drones-launched-by-ukraine-for-first-time/",
+        "publishedAt": "2026-08-17T17:02:04Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Report: Trump Threatens to Bomb Oman If It ‘Gets In the Way’ of Iran War",
+        "description": "President Donald Trump reportedly told Fox News chief foreign correspondent Trey Yingst on Monday that he was prepared to order airstrikes against Oman if it interferes with resolution of the Iran conflict.\nThe post Report: Trump Threatens to Bomb Oman If It …",
+        "url": "https://www.breitbart.com/middle-east/2026/08/17/report-trump-threatens-to-bomb-oman-if-it-gets-in-the-way-of-iran-war/",
+        "publishedAt": "2026-08-17T16:08:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Xi Jinping Celebrates Tiananmen Square Massacre at Event Honoring Butcher Jiang Zemin",
+        "description": "Chinese dictator Xi Jinping celebrated the life of communist predecessor Jiang Zemin at a ceremony marking the latter's would-be 100th birthday on Monday, noting that Jiang, as the leader who took over China following the Tiananmen Square massacre, \"implement…",
+        "url": "https://www.breitbart.com/asia/2026/08/17/xi-jinping-celebrates-tiananmen-square-massacre-at-event-honoring-butcher-jiang-zemin/",
+        "publishedAt": "2026-08-17T15:49:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "100"
+      },
+      {
+        "title": "GIANNO CALDWELL: Florida needs Byron Donalds to protect the DeSantis legacy",
+        "description": "A public safety advocate who fled Los Angeles lockdowns for Miami explains why Byron Donalds should carry forward Ron DeSantis' Florida legacy.",
+        "url": "https://www.foxnews.com/opinion/gianno-caldwell-florida-needs-byron-donalds-protect-desantis-legacy",
+        "publishedAt": "2026-08-17T15:49:36Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Russian state economist fired after stark warning about Moscow’s economic future",
+        "description": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
+        "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
+        "publishedAt": "2026-08-17T15:43:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for Non-Violent Felons",
+        "description": "Attorney General Todd Blanche finalized a regulation Monday that creates a pathway for non-violent felons to pursue the restoration of their federal gun rights.\nThe post EXCLUSIVE: AG Todd Blanche Finalizes Regulation Allowing Restoration of Gun Rights for No…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/17/exclusive-ag-todd-blanche-finalizes-regulation-allowing-restoration-of-gun-rights-for-non-violent-felons/",
+        "publishedAt": "2026-08-17T15:00:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP freshman firebrand targets global consulting giant over 'plainly illegal' DEI practices",
+        "description": "House GOP Rep. Brandon Gill accuses McKinsey & Company of pushing DEI reports that promoted illegal race and gender hiring, costing the U.S. economy $94 billion in a year.",
+        "url": "https://www.foxnews.com/politics/gop-freshman-firebrand-targets-global-consulting-giant-over-plainly-illegal-dei-practices",
+        "publishedAt": "2026-08-17T15:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "US awards Raytheon $22.9B Tomahawk deal as Trump dismisses weapons stockpile concerns",
+        "description": "The Department of War awarded Raytheon a $22.9 billion contract to accelerate Tomahawk missile production as Trump dismisses weapons stockpile concerns.",
+        "url": "https://www.foxnews.com/politics/us-awards-raytheon-22-9b-tomahawk-deal-trump-dismisses-weapons-stockpile-concerns",
+        "publishedAt": "2026-08-17T13:36:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War",
+        "description": "First Lady Melania Trump has reunited yet another child with their family after being displaced during the Russia-Ukraine war, marking the sixth such round of reunifications she has facilitated, Breitbart News has exclusively learned.\nThe post Exclusive: Firs…",
+        "url": "https://www.breitbart.com/politics/2026/08/17/exclusive-first-lady-melania-trump-facilitates-34th-family-reunification/",
+        "publishedAt": "2026-08-17T12:30:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "34"
+      },
+      {
+        "title": "UK Prime Minister Andy Burnham Duped by Hoax White House Messages",
+        "description": "UK Prime Minister Andy Burnham has been left red faced and embarrassed by a hoaxer posing as the chief of staff to U.S. President Donald Trump who tricked him into exchanging messages in a major security breach.\nThe post UK Prime Minister Andy Burnham Duped b…",
+        "url": "https://www.breitbart.com/europe/2026/08/17/uk-prime-minister-andy-burnham-duped-by-hoax-white-house-messages/",
+        "publishedAt": "2026-08-17T10:22:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
