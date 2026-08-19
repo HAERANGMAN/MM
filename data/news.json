@@ -1,20 +1,146 @@
 {
-  "generated_at": "2026-08-19T21:32:49.825654+00:00",
+  "generated_at": "2026-08-19T21:55:14.431001+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Cancer risk may be higher for people with one particular type of job",
+        "description": "A Harvard study finds U.S. pilots and flight attendants face the highest radiation-related cancer mortality risk out of more than 500 occupations.",
+        "url": "https://www.foxnews.com/health/cancer-risk-higher-people-particular-type-job",
+        "publishedAt": "2026-08-18T21:30:14Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "500"
+      },
+      {
+        "title": "Anti-socialism push can flip battlegrounds, Republican leader bets as party fights to hold House",
+        "description": "House Speaker Mike Johnson says he's \"absolutely convinced\" Republicans will defy historic midterm trends and grow the House majority this fall.",
+        "url": "https://www.foxnews.com/politics/anti-socialism-push-flip-battlegrounds-republican-leader-bets-party-fights-hold-house",
+        "publishedAt": "2026-08-18T19:57:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: The Trump-Bessent CapEx Boom Is Fueling a U.S. Manufacturing Renaissance",
+        "description": "Treasury Secretary Scott Bessent spent much of last year predicting that the Trump administration’s policies would set off a boom in capital spending.\nThe post Breitbart Business Digest: The Trump-Bessent CapEx Boom Is Fueling a U.S. Manufacturing Renaissance…",
+        "url": "https://www.breitbart.com/economy/2026/08/18/breitbart-business-digest-the-trump-bessent-capex-boom-is-fueling-a-u-s-manufacturing-renaissance/",
+        "publishedAt": "2026-08-18T19:55:51Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "White House Lambastes ‘Theater Kid’ Sen. Jon Ossoff",
+        "description": "Several White House officials verbally pummeled Sen. Jon Ossoff (D-GA) Monday after the far-left lawmaker criticized Trump's priorities.\nThe post White House Lambastes ‘Theater Kid’ Sen. Jon Ossoff appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/08/18/white-house-lambastes-theater-kid-sen-jon-ossoff/",
+        "publishedAt": "2026-08-18T18:49:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Corporation targeted by Brandon Gill digs in on 'diverse workforce' after firebrand opens DEI probe",
+        "description": "House Republicans accuse McKinsey & Company of peddling misleading DEI claims, but the consulting firm says it stands by its diversity research.",
+        "url": "https://www.foxnews.com/politics/corporation-targeted-brandon-gill-digs-diverse-workforce-after-firebrand-opens-dei-probe",
+        "publishedAt": "2026-08-18T16:41:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Chinese Foreign Minister Heads to South Korea After Trump Scales Back Military Exercise",
+        "description": "The South Korean Foreign Ministry announced on Tuesday that Chinese Foreign Minister Wang Yi will visit Seoul on Wednesday and Thursday — only a few days after President Donald Trump ordered a substantial reduction of joint military exercises with South Korea…",
+        "url": "https://www.breitbart.com/asia/2026/08/18/chinese-foreign-minister-heads-to-south-korea-after-trump-scales-back-military-exercise/",
+        "publishedAt": "2026-08-18T21:47:22Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz",
+        "description": "China’s state-run Global Times on Tuesday boasted of “soaring demand” for the “Ice Silk Road” trade route China has established through the Arctic, and castigated Western media for expressing “sour grapes” concerns about the environment, Chinese territorial a…",
+        "url": "https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/",
+        "publishedAt": "2026-08-18T21:19:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "South Korean president jumps to invest in military after Trump cuts joint exercises",
+        "description": "Lee Jae Myung urged stronger independent South Korean military capabilities after Trump ordered cuts to U.S.-South Korean Ulchi Freedom Shield drills.",
+        "url": "https://www.foxnews.com/world/south-korean-president-jumps-invest-military-trump-cuts-joint-exercises",
+        "publishedAt": "2026-08-18T15:13:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz",
+        "description": "China’s state-run Global Times on Tuesday boasted of “soaring demand” for the “Ice Silk Road” trade route China has established through the Arctic, and castigated Western media for expressing “sour grapes” concerns about the environment, Chinese territorial a…",
+        "url": "https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/",
+        "publishedAt": "2026-08-18T21:19:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Corporation targeted by Brandon Gill digs in on 'diverse workforce' after firebrand opens DEI probe",
+        "description": "House Republicans accuse McKinsey & Company of peddling misleading DEI claims, but the consulting firm says it stands by its diversity research.",
+        "url": "https://www.foxnews.com/politics/corporation-targeted-brandon-gill-digs-diverse-workforce-after-firebrand-opens-dei-probe",
+        "publishedAt": "2026-08-18T16:41:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Shakira Visits Colombia Earthquake Epicenter, Pledging to Rebuild Schools",
+        "description": "Colombian superstar Shakira on Monday announced a $1.25 million pledge to help rebuild ten schools and a university in one of the regions most affected by last week's devastating earthquake.\nThe post Shakira Visits Colombia Earthquake Epicenter, Pledging to R…",
+        "url": "https://www.breitbart.com/entertainment/2026/08/18/shakira-pledges-to-help-rebuild-colombian-schools-damaged-by-deadly-earthquake/",
+        "publishedAt": "2026-08-18T16:36:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
+        "description": "Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders.",
+        "url": "https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem",
+        "publishedAt": "2026-08-18T16:22:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Jon Ossoff dodges on why he invoked Trump aide's name during Georgia campaign rally",
+        "description": "Jon Ossoff dodged on why he invoked Natalie Harp's name specifically during a campaign rally, as viral video of his remarks sparks debate on both sides.",
+        "url": "https://www.foxnews.com/media/jon-ossoff-dodges-why-invoked-trump-aides-name-georgia-campaign-rally",
+        "publishedAt": "2026-08-18T15:36:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
