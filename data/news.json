@@ -1,146 +1,19 @@
 {
-  "generated_at": "2026-08-20T03:57:46.809332+00:00",
+  "generated_at": "2026-08-20T04:40:39.126809+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump-Endorsed Harriet Hageman Wins Wyoming Republican Senate Primary",
-        "description": "Rep. Harriet Hageman (R-WY) is one step closer to becoming Wyoming's next senator after handily winning Tuesday's Republican primary.\nThe post Trump-Endorsed Harriet Hageman Wins Wyoming Republican Senate Primary appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/08/18/harriet-hageman-wins-wyoming-republican-senate-primary/",
-        "publishedAt": "2026-08-19T03:24:55Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Democrats pick their fighter for uphill bid to flip deep-red Senate seat",
-        "description": "James Byrd defeated Billy Benavidez in Wyoming's Democratic primary for the open Senate seat after Cynthia Lummis announced she won't seek reelection.",
-        "url": "https://www.foxnews.com/politics/democrats-pick-fighter-uphill-bid-flip-deep-red-senate-seat",
-        "publishedAt": "2026-08-19T03:07:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight",
-        "description": "President Donald Trump's 50% tariff threat on Canadian spirits could devastate U.S. bars and restaurants while pressuring Canada to restock bourbon.",
-        "url": "https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight",
-        "publishedAt": "2026-08-19T01:59:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "Trump-Backed Byron Donalds Wins Florida GOP Gubernatorial Primary",
-        "description": "Rep. Byron Donalds (R-FL) won Florida’s Republican gubernatorial primary Tuesday, putting the Trump-backed congressman one step closer to succeeding Gov. Ron DeSantis.\nThe post Trump-Backed Byron Donalds Wins Florida GOP Gubernatorial Primary appeared first o…",
-        "url": "https://www.breitbart.com/politics/2026/08/18/trump-backed-byron-donalds-wins-florida-gop-gubernatorial-primary/",
-        "publishedAt": "2026-08-19T00:52:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rubio’s GOP successor clears key hurdle to finish his six-year Senate term",
-        "description": "Trump-backed Sen. Ashley Moody, R-Fla., defeated her challengers in Florida's GOP Senate primary to keep Marco Rubio's former seat through 2029.",
-        "url": "https://www.foxnews.com/politics/rubios-gop-successor-clears-key-hurdle-finish-his-six-year-senate-term",
-        "publishedAt": "2026-08-19T00:09:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2029"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Chinese Foreign Minister Heads to South Korea After Trump Scales Back Military Exercise",
-        "description": "The South Korean Foreign Ministry announced on Tuesday that Chinese Foreign Minister Wang Yi will visit Seoul on Wednesday and Thursday — only a few days after President Donald Trump ordered a substantial reduction of joint military exercises with South Korea…",
-        "url": "https://www.breitbart.com/asia/2026/08/18/chinese-foreign-minister-heads-to-south-korea-after-trump-scales-back-military-exercise/",
-        "publishedAt": "2026-08-18T21:47:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz",
-        "description": "China’s state-run Global Times on Tuesday boasted of “soaring demand” for the “Ice Silk Road” trade route China has established through the Arctic, and castigated Western media for expressing “sour grapes” concerns about the environment, Chinese territorial a…",
-        "url": "https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/",
-        "publishedAt": "2026-08-18T21:19:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "South Korean president jumps to invest in military after Trump cuts joint exercises",
-        "description": "Lee Jae Myung urged stronger independent South Korean military capabilities after Trump ordered cuts to U.S.-South Korean Ulchi Freedom Shield drills.",
-        "url": "https://www.foxnews.com/world/south-korean-president-jumps-invest-military-trump-cuts-joint-exercises",
-        "publishedAt": "2026-08-18T15:13:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight",
-        "description": "President Donald Trump's 50% tariff threat on Canadian spirits could devastate U.S. bars and restaurants while pressuring Canada to restock bourbon.",
-        "url": "https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight",
-        "publishedAt": "2026-08-19T01:59:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "China Touts Success of Arctic ‘Ice Silk Road’ to Bypass Strait of Hormuz",
-        "description": "China’s state-run Global Times on Tuesday boasted of “soaring demand” for the “Ice Silk Road” trade route China has established through the Arctic, and castigated Western media for expressing “sour grapes” concerns about the environment, Chinese territorial a…",
-        "url": "https://www.breitbart.com/asia/2026/08/18/china-touts-success-of-arctic-ice-silk-road-to-bypass-strait-of-hormuz/",
-        "publishedAt": "2026-08-18T21:19:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Corporation targeted by Brandon Gill digs in on 'diverse workforce' after firebrand opens DEI probe",
-        "description": "House Republicans accuse McKinsey & Company of peddling misleading DEI claims, but the consulting firm says it stands by its diversity research.",
-        "url": "https://www.foxnews.com/politics/corporation-targeted-brandon-gill-digs-diverse-workforce-after-firebrand-opens-dei-probe",
-        "publishedAt": "2026-08-18T16:41:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Shakira Visits Colombia Earthquake Epicenter, Pledging to Rebuild Schools",
-        "description": "Colombian superstar Shakira on Monday announced a $1.25 million pledge to help rebuild ten schools and a university in one of the regions most affected by last week's devastating earthquake.\nThe post Shakira Visits Colombia Earthquake Epicenter, Pledging to R…",
-        "url": "https://www.breitbart.com/entertainment/2026/08/18/shakira-pledges-to-help-rebuild-colombian-schools-damaged-by-deadly-earthquake/",
-        "publishedAt": "2026-08-18T16:36:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
-        "description": "Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders.",
-        "url": "https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem",
-        "publishedAt": "2026-08-18T16:22:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
