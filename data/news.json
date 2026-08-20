@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-20T03:09:34.931118+00:00",
+  "generated_at": "2026-08-20T03:57:46.809332+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Trump-Endorsed Harriet Hageman Wins Wyoming Republican Senate Primary",
+        "description": "Rep. Harriet Hageman (R-WY) is one step closer to becoming Wyoming's next senator after handily winning Tuesday's Republican primary.\nThe post Trump-Endorsed Harriet Hageman Wins Wyoming Republican Senate Primary appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/08/18/harriet-hageman-wins-wyoming-republican-senate-primary/",
+        "publishedAt": "2026-08-19T03:24:55Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Democrats pick their fighter for uphill bid to flip deep-red Senate seat",
         "description": "James Byrd defeated Billy Benavidez in Wyoming's Democratic primary for the open Senate seat after Cynthia Lummis announced she won't seek reelection.",
@@ -43,16 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "2029"
-      },
-      {
-        "title": "Poll Shows Far-Left Sen. Jon Ossoff Leading Rep. Mike Collins in Georgia Senate Race",
-        "description": "Far-left incumbent Sen. Jon Ossoff (D-GA) is leading Rep. Mike Collins (R-GA) in the Georgia U.S. Senate race, new polling shows.\nThe post Poll Shows Far-Left Sen. Jon Ossoff Leading Rep. Mike Collins in Georgia Senate Race appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/08/18/poll-shows-far-left-sen-jon-ossoff-leading-rep-mike-collins-in-georgia-senate-race/",
-        "publishedAt": "2026-08-19T00:04:53Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
