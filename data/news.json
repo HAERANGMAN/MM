@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-21T09:50:15.219797+00:00",
+  "generated_at": "2026-08-21T10:15:31.724852+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Trump reveals exact number of North Korea's nuclear weapons",
+        "description": "Trump cited 57 nuclear weapons in North Korea's arsenal, marking the first time a U.S. official has publicly put an exact number on Pyongyang's stockpile.",
+        "url": "https://www.foxnews.com/politics/trump-reveals-exact-number-north-koreas-nuclear-weapons",
+        "publishedAt": "2026-08-20T10:00:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "57"
+      }
+    ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Luxury travel, shopping, six-figure income: Battleground Dems ripped for 'phony' working-class narrative",
+        "description": "Dems running in battleground districts criticized over middle-class bios they are presenting to voters as financial records and other materials paint a picture of wealth others don't often have.",
+        "url": "https://www.foxnews.com/politics/luxury-travel-shopping-six-figure-salary-battleground-dems-ripped-phony-working-class-narrative",
+        "publishedAt": "2026-08-20T10:00:44Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "MORNING GLORY: Alaska’s 'real' Senator Dan Sullivan stood up over challenger",
         "description": "Alaska U.S. Sen. Dan Sullivan advances past a suspected confusion candidate in the primary, but both will appear on the ranked-choice ballot.",
@@ -43,16 +64,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "37"
-      },
-      {
-        "title": "Harvard agrees to $53M settlement with families after donated body parts were stolen, sold on black market",
-        "description": "Harvard University agreed to pay $53 million to settle lawsuits after former morgue manager Cedric Lodge stole and sold donated human remains.",
-        "url": "https://www.foxnews.com/us/harvard-agrees-53m-settlement-families-donated-body-parts-stolen-sold-black-market",
-        "publishedAt": "2026-08-20T00:41:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
