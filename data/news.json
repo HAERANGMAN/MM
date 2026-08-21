@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-08-21T08:25:33.290797+00:00",
+  "generated_at": "2026-08-21T09:07:01.521466+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary",
-        "description": "Alina Habba publicly dismissed speculation she would replace Karoline Leavitt as White House press secretary, shifting Kalshi odds dramatically.",
-        "url": "https://www.foxnews.com/politics/alina-habba-shuts-down-speculation-replace-karoline-leavitt-white-house-press-secretary",
-        "publishedAt": "2026-08-20T06:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India bars JPMorgan unit for alleged market manipulation",
-        "description": "SEBI impounded 37 million rupees ($386,000), which it described as wrongful gains made by JPMorgan unit Copthall Mauritius Investment Ltd. and local firm Mansi Share and Stock Broking Ltd",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
-        "publishedAt": "2026-08-20T04:31:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "37"
-      },
-      {
-        "title": "Harvard agrees to $53M settlement with families after donated body parts were stolen, sold on black market",
-        "description": "Harvard University agreed to pay $53 million to settle lawsuits after former morgue manager Cedric Lodge stole and sold donated human remains.",
-        "url": "https://www.foxnews.com/us/harvard-agrees-53m-settlement-families-donated-body-parts-stolen-sold-black-market",
-        "publishedAt": "2026-08-20T00:41:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Byron Donalds: David Jolly 'Is a Trojan Horse for the Democrat Socialists'",
-        "description": "Wednesday, during an appearance on Fox Business Network's \"Mornings with Maria,\" Rep. Byron Donalds (R-FL), the Republican nominee in Florida's gubernatorial election, challenged his Democrat opponent, David Jolly, to three debates.\nThe post Byron Donalds: Da…",
-        "url": "https://www.breitbart.com/clips/2026/08/19/byron-donalds-david-jolly-is-a-trojan-horse-for-the-democrat-socialists/",
-        "publishedAt": "2026-08-19T23:04:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DSA Co-Chair: People, 'Especially Younger' People, See Cuba Was Unequal Pre-Castro, Castro Expanded Healthcare",
-        "description": "On Wednesday’s broadcast of “CNN News Central,” Democratic Socialists of America Co-Chair Ashik Siddique defended the organization praising Fidel Castro by saying that “Many people, especially younger Americans, now, are looking at the history of what happene…",
-        "url": "https://www.breitbart.com/clips/2026/08/19/dsa-co-chair-people-especially-younger-people-see-cuba-was-unequal-pre-castro-castro-expanded-healthcare/",
-        "publishedAt": "2026-08-19T22:57:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
-        "description": "Iran is deepening ties with Russia and China through BRICS and the Shanghai Cooperation Organization to blunt U.S. sanctions, analysts warn.",
-        "url": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
-        "publishedAt": "2026-08-20T01:09:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "India bars JPMorgan unit for alleged market manipulation",
-        "description": "SEBI impounded 37 million rupees ($386,000), which it described as wrongful gains made by JPMorgan unit Copthall Mauritius Investment Ltd. and local firm Mansi Share and Stock Broking Ltd",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
-        "publishedAt": "2026-08-20T04:31:54Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "37"
-      },
-      {
-        "title": "RNC warns Democrats face 'political suicide' after DSA praises Fidel Castro, demands Rubio's prosecution",
-        "description": "The Democratic Socialists of America praised late Cuban Fidel Castro as an anti-imperialist symbol and demanded Secretary of State Marco Rubio's prosecution for crimes against humanity.",
-        "url": "https://www.foxnews.com/media/rnc-warns-democrats-face-political-suicide-after-dsa-praises-fidel-castro-demands-rubios-prosecution",
-        "publishedAt": "2026-08-20T01:14:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
-        "description": "Iran is deepening ties with Russia and China through BRICS and the Shanghai Cooperation Organization to blunt U.S. sanctions, analysts warn.",
-        "url": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
-        "publishedAt": "2026-08-20T01:09:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bronx man accused of attacking Shabbat worshippers admitted motive in recorded interview, feds say",
-        "description": "The Justice Department charged Larry Montes with federal hate crimes after he allegedly attacked congregants during a Shabbat service in Manhattan.",
-        "url": "https://www.foxnews.com/us/bronx-man-accused-attacking-shabbat-worshippers-admitted-motive-recorded-interview-feds-say",
-        "publishedAt": "2026-08-19T22:30:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iranian Envoy Joins Ceremony in Mexico to Honor Communist Mass Murderer Fidel Castro",
-        "description": "Iran's ambassador to Mexico City, Abolfazl Pasandideh, attended an event to mark the would-be 100th birthday of Fidel Castro.\nThe post Iranian Envoy Joins Ceremony in Mexico to Honor Communist Mass Murderer Fidel Castro appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/latin-america/2026/08/19/iranian-envoy-joins-ceremony-mexico-honor-communist-mass-murderer-fidel-castro/",
-        "publishedAt": "2026-08-19T22:29:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "100"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
