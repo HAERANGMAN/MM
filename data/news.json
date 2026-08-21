@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-21T10:50:44.756109+00:00",
+  "generated_at": "2026-08-21T11:13:28.787809+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump reveals exact number of North Korea's nuclear weapons",
-        "description": "Trump cited 57 nuclear weapons in North Korea's arsenal, marking the first time a U.S. official has publicly put an exact number on Pyongyang's stockpile.",
-        "url": "https://www.foxnews.com/politics/trump-reveals-exact-number-north-koreas-nuclear-weapons",
-        "publishedAt": "2026-08-20T10:00:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "57"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
