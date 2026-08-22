@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:43:30.456229+00:00",
+  "generated_at": "2026-08-22T13:19:56.911653+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -26,6 +26,36 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
+        "title": "Socialism surges among Democrats as party leaders reject DSA agenda: ‘Pack of fools’",
+        "description": "Hakeem Jeffries rejects the Democratic Socialists of America agenda, but polls show most Democrats now view socialism more favorably than capitalism.",
+        "url": "https://www.foxnews.com/politics/socialism-surges-among-democrats-party-leaders-reject-dsa-agenda-pack-fools",
+        "publishedAt": "2026-08-21T13:16:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "As a US attorney, I see fentanyl's horrifying toll up close. Congress must act now",
+        "description": "A U.S. attorney argues fentanyl kills more Americans aged 18-45 than anything else, calling for lengthier mandatory minimum sentences to deter dealers.",
+        "url": "https://www.foxnews.com/opinion/us-attorney-fentanyl-horrifying-toll-congress-must-act-now",
+        "publishedAt": "2026-08-21T13:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "Navarro: Growing Out of Debt Best Case, But 'Difficult to Unwind' Biden Spending",
+        "description": "On Thursday’s broadcast of Newsmax TV’s “Rob Schmitt Tonight,” White House Senior Counselor for Trade and Manufacturing Peter Navarro discussed dealing with the debt and said that “the way you do this is you grow your way out of this.”\nThe post Navarro: Growi…",
+        "url": "https://www.breitbart.com/clips/2026/08/21/navarro-growing-out-of-debt-best-case-but-difficult-to-unwind-biden-spending/",
+        "publishedAt": "2026-08-21T12:54:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Tea Party founder launches nationwide 'Data Center Revolt' against AI data center expansion",
         "description": "Tea Party founder's Humans First group kicks off a \"Data Center Revolt\" bus tour, arguing residents are subsidizing wealthy corporations without a voice.",
         "url": "https://www.foxnews.com/media/tea-party-founder-launches-nationwide-data-center-revolt-against-ai-data-center-expansion",
@@ -44,36 +74,6 @@
           "name": "Fox News"
         },
         "numericHint": "35"
-      },
-      {
-        "title": "EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis",
-        "description": "The Trump White House says synthetic opioid deaths fell from 48,913 to 38,084 in one year, crediting its border crackdown and ICE fentanyl arrests.",
-        "url": "https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
-        "publishedAt": "2026-08-21T11:00:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "22"
-      },
-      {
-        "title": "India banks’ funding costs rise as RBI ends deposit window early",
-        "description": "The Reserve Bank of India surprised markets last week by announcing it would close a special dollar deposit window for overseas residents on Aug. 31, after the facility drew more than $50 billion",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-21/india-banks-funding-costs-rise-as-rbi-ends-deposit-window-early",
-        "publishedAt": "2026-08-21T10:47:02Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "31"
-      },
-      {
-        "title": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
-        "description": "The all-share bids for Banco BPM and Banca Generali comes as Monte dei Paschi fights off a takeover offer from Intesa Sanpaolo.",
-        "url": "https://www.wsj.com/business/deals/monte-dei-paschi-makes-40-billion-move-to-buy-italian-peers-banco-bpm-banca-generali-711620fd",
-        "publishedAt": "2026-08-21T10:29:00Z",
-        "source": {
-          "name": "The Wall Street Journal"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
