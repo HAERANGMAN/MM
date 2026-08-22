@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-22T10:54:38.076140+00:00",
+  "generated_at": "2026-08-22T11:16:58.851876+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "North Korea Launches Missile Barrage After Trump’s Peace Overtures",
-        "description": "According to South Korean intelligence, North Korea responded to President Donald Trump’s peace overtures on Thursday by launching about a dozen short-range ballistic missiles (SRBMs) into the Sea of Japan just hours after Trump scaled back U.S.-South Korean …",
-        "url": "https://www.breitbart.com/asia/2026/08/20/north-korea-launches-missile-barrage-after-trumps-peace-overtures/",
-        "publishedAt": "2026-08-20T18:02:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kim Jong-un's Sister Mocks South Korea, Confirms Brother's Relationship with Trump Is 'Excellent'",
-        "description": "Communist dictator Kim Jong-un's sister, the powerful North Korean official Kim Yo-jong, published one of her signature tirades on Thursday mocking South Korea in the context of President Donald Trump ordering a reduction of the scale of annual military exerc…",
-        "url": "https://www.breitbart.com/asia/2026/08/20/kim-jong-uns-sister-mocks-south-korea-confirms-brothers-relationship-with-trump-is-excellent/",
-        "publishedAt": "2026-08-20T15:02:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
