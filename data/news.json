@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:01:51.878428+00:00",
+  "generated_at": "2026-08-22T10:33:40.470180+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -25,6 +25,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "No Cheers as Americans' Drinking Habits Remain at Record Low",
+        "description": "The portion of Americans who say they drink alcohol remains at a record-low 54 percent for the second consecutive year, Gallup polling reveals. This remains the lowest reading in Gallup’s trend dating back to 1939 in grim news for the liquor industry.\nThe pos…",
+        "url": "https://www.breitbart.com/health/2026/08/21/no-cheers-as-americans-drinking-habits-remain-at-record-low/",
+        "publishedAt": "2026-08-21T10:20:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "54"
+      },
       {
         "title": "The 24-hour American diner is vanishing — here's what's driving the decline",
         "description": "Red Arrow Diner keeps its griddles running 24/7 as Yelp data shows all-night restaurants fell 11 percent nationwide since 2020.",
@@ -64,16 +74,6 @@
           "name": "Fox News"
         },
         "numericHint": "3"
-      },
-      {
-        "title": "Economic growth may beat RBI’s 6.7% forecast, Gupta says",
-        "description": "Gupta’s optimistic outlook highlights strong economic resilience, with forecasts of 7.5% growth driven by favorable external accounts and rising foreign investment",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-21/india-economic-growth-may-beat-rbi-s-6-7-forecast-gupta-says",
-        "publishedAt": "2026-08-21T07:19:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "6.7"
       }
     ],
     "news-korea-soc": [
