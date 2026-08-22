@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:19:56.911653+00:00",
+  "generated_at": "2026-08-22T13:47:50.960416+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,144 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Socialism surges among Democrats as party leaders reject DSA agenda: ‘Pack of fools’",
-        "description": "Hakeem Jeffries rejects the Democratic Socialists of America agenda, but polls show most Democrats now view socialism more favorably than capitalism.",
-        "url": "https://www.foxnews.com/politics/socialism-surges-among-democrats-party-leaders-reject-dsa-agenda-pack-fools",
-        "publishedAt": "2026-08-21T13:16:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "As a US attorney, I see fentanyl's horrifying toll up close. Congress must act now",
-        "description": "A U.S. attorney argues fentanyl kills more Americans aged 18-45 than anything else, calling for lengthier mandatory minimum sentences to deter dealers.",
-        "url": "https://www.foxnews.com/opinion/us-attorney-fentanyl-horrifying-toll-congress-must-act-now",
-        "publishedAt": "2026-08-21T13:00:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "Navarro: Growing Out of Debt Best Case, But 'Difficult to Unwind' Biden Spending",
-        "description": "On Thursday’s broadcast of Newsmax TV’s “Rob Schmitt Tonight,” White House Senior Counselor for Trade and Manufacturing Peter Navarro discussed dealing with the debt and said that “the way you do this is you grow your way out of this.”\nThe post Navarro: Growi…",
-        "url": "https://www.breitbart.com/clips/2026/08/21/navarro-growing-out-of-debt-best-case-but-difficult-to-unwind-biden-spending/",
-        "publishedAt": "2026-08-21T12:54:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tea Party founder launches nationwide 'Data Center Revolt' against AI data center expansion",
-        "description": "Tea Party founder's Humans First group kicks off a \"Data Center Revolt\" bus tour, arguing residents are subsidizing wealthy corporations without a voice.",
-        "url": "https://www.foxnews.com/media/tea-party-founder-launches-nationwide-data-center-revolt-against-ai-data-center-expansion",
-        "publishedAt": "2026-08-21T12:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Conservatives can fight the rise of socialism by defending the American family",
-        "description": "The Young American Family Act would eliminate federal income tax for married couples under 35 with children, answering young Americans' economic fears.",
-        "url": "https://www.foxnews.com/opinion/conservatives-fight-rise-socialism-defending-american-family",
-        "publishedAt": "2026-08-21T11:00:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "35"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
-        "description": "China launched seasonal container service to Europe via Russia's Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
-        "url": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
-        "publishedAt": "2026-08-20T18:22:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "North Korea Launches Missile Barrage After Trump’s Peace Overtures",
-        "description": "According to South Korean intelligence, North Korea responded to President Donald Trump’s peace overtures on Thursday by launching about a dozen short-range ballistic missiles (SRBMs) into the Sea of Japan just hours after Trump scaled back U.S.-South Korean …",
-        "url": "https://www.breitbart.com/asia/2026/08/20/north-korea-launches-missile-barrage-after-trumps-peace-overtures/",
-        "publishedAt": "2026-08-20T18:02:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kim Jong-un's Sister Mocks South Korea, Confirms Brother's Relationship with Trump Is 'Excellent'",
-        "description": "Communist dictator Kim Jong-un's sister, the powerful North Korean official Kim Yo-jong, published one of her signature tirades on Thursday mocking South Korea in the context of President Donald Trump ordering a reduction of the scale of annual military exerc…",
-        "url": "https://www.breitbart.com/asia/2026/08/20/kim-jong-uns-sister-mocks-south-korea-confirms-brothers-relationship-with-trump-is-excellent/",
-        "publishedAt": "2026-08-20T15:02:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Tea Party founder launches nationwide 'Data Center Revolt' against AI data center expansion",
-        "description": "Tea Party founder's Humans First group kicks off a \"Data Center Revolt\" bus tour, arguing residents are subsidizing wealthy corporations without a voice.",
-        "url": "https://www.foxnews.com/media/tea-party-founder-launches-nationwide-data-center-revolt-against-ai-data-center-expansion",
-        "publishedAt": "2026-08-21T12:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle's UK return signals ‘spectacular defeat’ as royal experts warn of William showdown",
-        "description": "Royal experts say Prince Harry and Meghan Markle's reported UK return exposes cracks in their post-Megxit life and could clash with William and Kate.",
-        "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-uk-return-signals-spectacular-defeat-royal-experts-warn-william-showdown",
-        "publishedAt": "2026-08-21T10:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Apple spyware warning hits iPhones in 110 countries",
-        "description": "Apple confirmed to CyberGuy that mercenary spyware alerts were sent to targeted users in 110 countries, now appearing directly on iPhone Lock Screens.",
-        "url": "https://www.foxnews.com/science/apple-spyware-warning-hits-iphones-110-countries",
-        "publishedAt": "2026-08-21T09:49:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "110"
-      },
-      {
-        "title": "Foreign students applying to US colleges fell 10% this year",
-        "description": "Nearly 16,000 fewer foreign students applied to US colleges this year compared to 2025, due to the Trump administration’s restrictions on overseas student visas",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-20/foreign-students-seeking-spots-at-us-colleges-fell-10-this-year",
-        "publishedAt": "2026-08-21T06:36:22Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "Bitcoin leaps past $75,000 as crypto rally continues in Asia",
-        "description": "Bitcoin surges past $75,000 in Asia as market optimism grows following US Treasury bond yield plans and Trump’s crypto discussions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia",
-        "publishedAt": "2026-08-21T03:48:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
