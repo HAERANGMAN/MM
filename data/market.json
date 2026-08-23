@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-23T05:18:44.237288+00:00",
+  "generated_at": "2026-08-23T05:50:12.298764+00:00",
   "insight": "Raw data summary: NASDAQ +0.43%, S&P 500 +0.43%, KOSPI +0.88%, USD/KRW -0.87%",
-  "errors": [],
+  "errors": [
+    "SET Index: insufficient raw points (1)"
+  ],
   "items": [
     {
       "key": "NASDAQ",
@@ -42,28 +44,28 @@
     {
       "key": "SET Index",
       "label": "SET Index",
-      "price": 1639.0400390625,
-      "dod": 0.22931711870206511,
-      "mom": 3.2745937187554732,
-      "yoy": 36.80213495437608,
-      "raw_points": 1186
+      "price": 1613.780029296875,
+      "dod": null,
+      "mom": null,
+      "yoy": null,
+      "raw_points": 1
     },
     {
       "key": "BTC/USD",
       "label": "BTC/USD",
-      "price": 75909.9609375,
-      "dod": -3.0959606275277,
-      "mom": 18.427054554407388,
-      "yoy": -34.20550119671607,
+      "price": 76172.046875,
+      "dod": -2.761390754314592,
+      "mom": 18.835934564816174,
+      "yoy": -33.97833979802428,
       "raw_points": 1826
     },
     {
       "key": "BTC/KRW",
       "label": "BTC/KRW",
-      "price": 105370136.0,
-      "dod": -2.949648976047816,
-      "mom": 12.664379437657814,
-      "yoy": -34.02042835608349,
+      "price": 105594952.0,
+      "dod": -2.7425839332941386,
+      "mom": 12.90475831623928,
+      "yoy": -33.87965542039421,
       "raw_points": 1826
     },
     {
