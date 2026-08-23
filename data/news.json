@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:44:46.719131+00:00",
+  "generated_at": "2026-08-23T14:02:25.149136+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,155 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump’s welfare reforms are a major victory. Bureaucrats could still wreck them",
-        "description": "Trump's welfare reform could move 10 million people from welfare to work, but states are already exploiting Medicaid and food stamp loopholes.",
-        "url": "https://www.foxnews.com/opinion/trumps-welfare-reforms-major-victory-bureaucrats-could-still-wreck-them",
-        "publishedAt": "2026-08-22T12:00:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "10"
-      },
-      {
-        "title": "‘Reagan’ film set to release director’s cut amid alleged online censorship",
-        "description": "The team behind the \"Reagan\" movie alleged online censorship over film’s September re-release, saying YouTube labeled podcast episodes about the film as election ads.",
-        "url": "https://www.foxnews.com/media/reagan-film-set-release-directors-cut-amid-alleged-online-censorship",
-        "publishedAt": "2026-08-22T12:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Secret Gun Cache Found Near Berlin May Have Been For Russian Intelligence-Directed Assassination Plot",
-        "description": "German intelligence sabotaged the firearms cache and fitted a GPS tracking device in hopes of tracking its intended recipient.\nThe post Secret Gun Cache Found Near Berlin May Have Been For Russian Intelligence-Directed Assassination Plot appeared first on Bre…",
-        "url": "https://www.breitbart.com/europe/2026/08/22/secret-gun-cache-found-near-berlin-may-be-linked-to-russian-intel/",
-        "publishedAt": "2026-08-22T11:54:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "AMB GORDON SONDLAND: Our allies enjoyed a free ride trading with Iran. Trump is shutting that down",
-        "description": "Donald Trump's \"Economic D-Day\" forces allies to choose between U.S. market access and financing Iran through trade, banks, oil and shipping.",
-        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-allies-enjoyed-free-ride-trading-iran-trump-shutting-down",
-        "publishedAt": "2026-08-22T10:00:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Senator launches assault on illegal immigration gaps as GOP races midterm clock to lock in key wins",
-        "description": "Sen. Jim Banks warns Donald Trump's immigration executive orders face erasure without Congress locking seven bills into law before midterms arrive.",
-        "url": "https://www.foxnews.com/politics/senator-launches-assault-illegal-immigration-gaps-gop-races-midterm-clock-lock-key-wins",
-        "publishedAt": "2026-08-22T09:00:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz",
-        "description": "Russian President Vladimir Putin on Friday held a special meeting of the Russian Security Council to discuss securing and developing Russia’s assets in the Arctic Circle.\nThe post Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to St…",
-        "url": "https://www.breitbart.com/asia/2026/08/21/putin-holds-arctic-security-meeting-as-china-promotes-northern-workaround-to-strait-of-hormuz/",
-        "publishedAt": "2026-08-21T20:02:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "South Korea Urges Direct Trump-Kim Talks as War Games End Early",
-        "description": "An unnamed South Korean official told reporters on Friday that the government supports \"direct\" talks between Trump and Kim Jong-un.\nThe post South Korea Urges Direct Trump-Kim Talks as War Games End Early appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/asia/2026/08/21/south-korea-urges-direct-trump-kim-talks-war-games-end-early/",
-        "publishedAt": "2026-08-21T16:16:37Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese Man Sentenced to 20 Years in Prison for Hacking Scheme Targeting BTS Band Member",
-        "description": "A South Korean court sentenced a Chinese citizen identified in reports as 37-year-old Jeon Mo to 20 years in prison on Wednesday for engaging in a hacking theft scheme targeting prominent wealthy South Koreans, including a member of the superstar boy band BTS…",
-        "url": "https://www.breitbart.com/asia/2026/08/21/chinese-man-sentenced-to-20-years-in-prison-for-hacking-scheme-targeting-bts-band-member/",
-        "publishedAt": "2026-08-21T13:55:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      }
-    ],
-    "news-thai-soc": [
-      {
-        "title": "Chinese Man Sentenced to 20 Years in Prison for Hacking Scheme Targeting BTS Band Member",
-        "description": "A South Korean court sentenced a Chinese citizen identified in reports as 37-year-old Jeon Mo to 20 years in prison on Wednesday for engaging in a hacking theft scheme targeting prominent wealthy South Koreans, including a member of the superstar boy band BTS…",
-        "url": "https://www.breitbart.com/asia/2026/08/21/chinese-man-sentenced-to-20-years-in-prison-for-hacking-scheme-targeting-bts-band-member/",
-        "publishedAt": "2026-08-21T13:55:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      }
-    ],
-    "news-global-soc": [
-      {
-        "title": "EAM Jaishankar to visit Russia amid Trump’s tariff threat",
-        "description": "Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
-        "publishedAt": "2026-08-22T11:35:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "AMB GORDON SONDLAND: Our allies enjoyed a free ride trading with Iran. Trump is shutting that down",
-        "description": "Donald Trump's \"Economic D-Day\" forces allies to choose between U.S. market access and financing Iran through trade, banks, oil and shipping.",
-        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-allies-enjoyed-free-ride-trading-iran-trump-shutting-down",
-        "publishedAt": "2026-08-22T10:00:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran Vows ‘Devastating’ Military Response: U.S. Readies to Unleash Toughest Sanctions to ‘Collapse’ Regime",
-        "description": "Iran vowed a “devastating” military response Friday as the United States enters a new phase of economic warfare against Tehran, with the Trump administration preparing the “toughest sanctions in history” as part of an escalating campaign Treasury Secretary Sc…",
-        "url": "https://www.breitbart.com/politics/2026/08/21/iran-vows-devastating-military-response-u-s-unleash-toughest-sanctions/",
-        "publishedAt": "2026-08-22T02:54:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Here are 5 drivers to keep an eye on as IndyCar hits the streets of Washington for Freedom 250 Grand Prix",
-        "description": "Alex Palou leads the NTT IndyCar Series standings by 133 points heading into the Freedom 250 Grand Prix on the Washington D.C. street circuit.",
-        "url": "https://www.foxnews.com/outkick-sports/5-drivers-keep-eye-indycar-hits-streets-washington-freedom-250-grand-prix",
-        "publishedAt": "2026-08-21T23:33:14Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "'Halo' composer, GOP candidate says venue canceled his event for political reasons, he will host it elsewhere",
-        "description": "Marty O'Donnell says HyperX Arena in Las Vegas canceled his \"Halo\" tournament over political affiliations, but the composer vows to host it anyway.",
-        "url": "https://www.foxnews.com/media/halo-composer-gop-candidate-says-venue-canceled-event-political-reasons-host-elsewhere",
-        "publishedAt": "2026-08-21T20:29:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-econ": [],
+    "news-korea-soc": [],
+    "news-thai-soc": [],
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
