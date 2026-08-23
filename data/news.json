@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-08-23T18:29:20.780360+00:00",
+  "generated_at": "2026-08-23T18:59:06.116846+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump trade chief warns Canada walked away from 'the best deal' to trigger 50% U.S. tariffs",
-        "description": "Jamieson Greer says Canada walked away from \"the best deal\" as 50% tariffs on $20 billion in Canadian imports take effect with no new talks planned.",
-        "url": "https://www.foxnews.com/media/trump-trade-chief-warns-canada-walked-away-best-deal-trigger-50-percent-us-tariffs",
-        "publishedAt": "2026-08-22T17:37:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "U.S. Official: Trade Deal's Failure Is a 'Missed Opportunity for Canada'",
-        "description": "A trade deal between the United States and Canada failed in what is being called a \"missed opportunity\" on behalf of America's northern neighbor.\nThe post U.S. Official: Trade Deal’s Failure Is a ‘Missed Opportunity for Canada’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/08/22/u-s-official-trade-deals-failure-is-a-missed-opportunity-for-canada/",
-        "publishedAt": "2026-08-22T16:29:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia",
-        "description": "Allspring's Ann Miletti warns that Jackson Hole poses a greater risk to investors than Nvidia's earnings.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-21/allspring-s-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia",
-        "publishedAt": "2026-08-22T16:07:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Blackburn Says the DSA Is Calling the Shots — 'It Took Chuck Schumer Less than Hours to Go Endorse El-Sayed'",
-        "description": "Friday on FNC's \"Hannity,\" Sen. Marsha Blackburn (R-TN), her state's Republican gubernatorial nominee, declared that the so-called Democratic Socialists of America were calling the shots in the Democratic Party.\nThe post Blackburn Says the DSA Is Calling the …",
-        "url": "https://www.breitbart.com/clips/2026/08/22/blackburn-says-the-dsa-is-calling-the-shots-it-took-chuck-schumer-less-than-hours-to-go-endorse-el-sayed/",
-        "publishedAt": "2026-08-22T15:41:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "TikTok Agrees to $400 Million Settlement over Child Privacy Violations",
-        "description": "The DOJ announced Friday that TikTok and its parent company ByteDance will pay $400 million to settle allegations related to violations of federal children's privacy laws.\nThe post TikTok Agrees to $400 Million Settlement over Child Privacy Violations appeare…",
-        "url": "https://www.breitbart.com/tech/2026/08/22/tiktok-agrees-to-400-million-settlement-over-child-privacy-violations/",
-        "publishedAt": "2026-08-22T14:46:22Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz",
-        "description": "Russian President Vladimir Putin on Friday held a special meeting of the Russian Security Council to discuss securing and developing Russia’s assets in the Arctic Circle.\nThe post Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to St…",
-        "url": "https://www.breitbart.com/asia/2026/08/21/putin-holds-arctic-security-meeting-as-china-promotes-northern-workaround-to-strait-of-hormuz/",
-        "publishedAt": "2026-08-21T20:02:51Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia",
-        "description": "Allspring's Ann Miletti warns that Jackson Hole poses a greater risk to investors than Nvidia's earnings.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-21/allspring-s-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia",
-        "publishedAt": "2026-08-22T16:07:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Skillet’s John Cooper says Christians who call rock music ‘demonic’ are ‘getting the gospel wrong’",
-        "description": "John Cooper says Christians calling rock music \"demonic\" are \"getting the gospel wrong\" as Skillet becomes first Christian rock band with 1 billion Spotify streams.",
-        "url": "https://www.foxnews.com/entertainment/skillets-john-cooper-says-christians-call-rock-music-demonic-getting-gospel-wrong",
-        "publishedAt": "2026-08-22T14:00:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "AOC's 'Woke 1' comment conceals a dangerous pivot to socialist class war, media chief warns",
-        "description": "Rep. Alexandria Ocasio-Cortez's 'Woke 1 was crazy' comment masks a shift from identity politics to class war, warns Pirate Wires editor Mike Solana.",
-        "url": "https://www.foxnews.com/media/aoc-woke-1-comment-conceals-dangerous-pivot-socialist-class-war-media-chief-warns",
-        "publishedAt": "2026-08-22T14:00:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "EAM Jaishankar to visit Russia amid Trump’s tariff threat",
-        "description": "Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
-        "publishedAt": "2026-08-22T11:35:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "AMB GORDON SONDLAND: Our allies enjoyed a free ride trading with Iran. Trump is shutting that down",
-        "description": "Donald Trump's \"Economic D-Day\" forces allies to choose between U.S. market access and financing Iran through trade, banks, oil and shipping.",
-        "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-allies-enjoyed-free-ride-trading-iran-trump-shutting-down",
-        "publishedAt": "2026-08-22T10:00:30Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
