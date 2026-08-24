@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:09:03.237109+00:00",
+  "generated_at": "2026-08-24T19:43:14.699553+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -14,124 +14,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Pence: ‘Last Thing’ Our Economy Needs Is a Trade War with Canada",
-        "description": "Sunday on CNN’s “State of the Union,” former Vice President Mike Pence said “the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada.” Host Dana Bash said, “I\nThe post Pence: ‘Last Thing’ Our Economy Needs Is a…",
-        "url": "https://www.breitbart.com/clips/2026/08/23/pence-last-thing-our-economy-needs-is-a-trade-war-with-canada/",
-        "publishedAt": "2026-08-23T17:14:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chris Van Hollen: I'm 'Kicking the Tires' on 2028 Presidential Run",
-        "description": "Sunday on NBC’s “Meet the Press,” Sen. Chris Van Hollen (D-MD) said he was “kicking the tires” on a 2028 presidential run. Van Hollen said, “Look, what happened in 2024 is that voters were so upset with the status quo that\nThe post Chris Van Hollen: I’m ‘Kick…",
-        "url": "https://www.breitbart.com/clips/2026/08/23/chris-van-hollen-im-kicking-the-tires-on-2028-presidential-run/",
-        "publishedAt": "2026-08-23T15:08:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "Tom Hanks put 'Band of Brothers' stars in their place during boot camp 'mutiny', Neal McDonough reveals",
-        "description": "Neal McDonough reveals how Tom Hanks arrived by helicopter to deliver a powerful speech that ended a cast mutiny during \"Band of Brothers\" boot camp.",
-        "url": "https://www.foxnews.com/entertainment/tom-hanks-band-of-brothers-stars-boot-camp-mutiny-neal-mcdonough-reveals",
-        "publishedAt": "2026-08-23T14:00:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "STEPHEN MOORE: Don't let the FTC tarnish Trump's golden age of capitalism",
-        "description": "The Covetrus and MWI Animal Health merger faces FTC review as advocates argue it could lower veterinary prices amid Amazon and Chewy competition.",
-        "url": "https://www.foxnews.com/opinion/stephen-moore-dont-let-ftc-tarnish-trumps-golden-age-capitalism",
-        "publishedAt": "2026-08-23T13:00:57Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NYC taxpayers could pay twice under Mamdani's city-owned grocery store plan",
-        "description": "Taxpayers may pay twice under Zohran Mamdani's city-owned grocery plan as NYC explores grants for independent grocers alongside the subsidized stores.",
-        "url": "https://www.foxnews.com/politics/nyc-taxpayers-pay-twice-mamdanis-city-owned-grocery-store-plan",
-        "publishedAt": "2026-08-23T12:58:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
-        "description": "Trump faces a stronger North Korea with 50-70 nuclear weapons and a powerful new partner in Russia, leaving denuclearization increasingly out of reach.",
-        "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
-        "publishedAt": "2026-08-23T09:00:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Macron Welcomes Saudis' Mohammed bin Salman to France For Two-Day Visit",
-        "description": "President to welcome Saudi crown prince for a two-day visit, criticised as a \"provocation\" by journalist groups.\nThe post Macron Welcomes Saudis’ Mohammed bin Salman to France For Two-Day Visit appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/08/23/macron-welcomes-saudis-mohammed-bin-salman-to-france-for-two-day-visit/",
-        "publishedAt": "2026-08-23T15:27:49Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Several drivers hit with penalties ahead of IndyCar Freedom 250 Grand Prix in Washington, DC",
-        "description": "Nolan Siegel, Marcus Ericsson, and Mick Schumacher face six-place grid penalties for engine changes ahead of the IndyCar Freedom 250 Grand Prix.",
-        "url": "https://www.foxnews.com/outkick-sports/drivers-hit-penalties-indycar-freedom-250-grand-prix-washington-dc",
-        "publishedAt": "2026-08-23T14:40:47Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "250"
-      },
-      {
-        "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
-        "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
-        "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
-        "publishedAt": "2026-08-23T10:00:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Alibaba seeks $10 billion from share sale for AI expansion",
-        "description": "The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-        "publishedAt": "2026-08-23T09:17:12Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "#871 – Glory Days: Gridiron MVPs and Iconic Branding",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from gridiron superstars to the origins of iconic sports branding. Can you answer these? Gridiron Greats: Baltimore’s powerhouse signal-caller has claimed two NFL MVP awards. Do you kn…",
-        "url": "https://radio.foxnews.com/2026/08/23/871-glory-days-gridiron-mvps-and-iconic-branding/",
-        "publishedAt": "2026-08-23T07:00:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "871"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
