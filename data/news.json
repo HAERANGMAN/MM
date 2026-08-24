@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-08-24T22:37:58.741165+00:00",
+  "generated_at": "2026-08-24T22:59:33.135652+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
+        "description": "Trump faces a stronger North Korea with 50-70 nuclear weapons and a powerful new partner in Russia, leaving denuclearization increasingly out of reach.",
+        "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
+        "publishedAt": "2026-08-23T09:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Box Office: ‘Spider-Man’ #1 for 4th Weekend, 'Odyssey’ Now Nolan’s Highest-Grossing Film",
+        "description": "“Spider-Man: Brand New Day” fought off a slew of newcomers, including a comedy, a horror franchise, a Jason Statham action movie and a family pic, to maintain its first-place spot at the box office in its fourth weekend in theaters. “The Odyssey” also became …",
+        "url": "https://www.breitbart.com/entertainment/2026/08/23/box-office-spider-man-1-for-4th-weekend-odyssey-now-nolans-highest-grossing-film/",
+        "publishedAt": "2026-08-23T22:48:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "Los Angeles Dodgers ownership group shoots back at suggestions team is funded by fraud",
+        "description": "Stan Kasten says the Los Angeles Dodgers are not for sale despite the investigation into owner Mark Walter's handling of insurance company investments.",
+        "url": "https://www.foxnews.com/outkick-sports/los-angeles-dodgers-ownership-group-shoots-back-suggestions-team-funded-fraud",
+        "publishedAt": "2026-08-23T19:51:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pence: ‘Last Thing’ Our Economy Needs Is a Trade War with Canada",
+        "description": "Sunday on CNN’s “State of the Union,” former Vice President Mike Pence said “the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada.” Host Dana Bash said, “I\nThe post Pence: ‘Last Thing’ Our Economy Needs Is a…",
+        "url": "https://www.breitbart.com/clips/2026/08/23/pence-last-thing-our-economy-needs-is-a-trade-war-with-canada/",
+        "publishedAt": "2026-08-23T17:14:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chris Van Hollen: I'm 'Kicking the Tires' on 2028 Presidential Run",
+        "description": "Sunday on NBC’s “Meet the Press,” Sen. Chris Van Hollen (D-MD) said he was “kicking the tires” on a 2028 presidential run. Van Hollen said, “Look, what happened in 2024 is that voters were so upset with the status quo that\nThe post Chris Van Hollen: I’m ‘Kick…",
+        "url": "https://www.breitbart.com/clips/2026/08/23/chris-van-hollen-im-kicking-the-tires-on-2028-presidential-run/",
+        "publishedAt": "2026-08-23T15:08:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2028"
+      },
+      {
+        "title": "Tom Hanks put 'Band of Brothers' stars in their place during boot camp 'mutiny', Neal McDonough reveals",
+        "description": "Neal McDonough reveals how Tom Hanks arrived by helicopter to deliver a powerful speech that ended a cast mutiny during \"Band of Brothers\" boot camp.",
+        "url": "https://www.foxnews.com/entertainment/tom-hanks-band-of-brothers-stars-boot-camp-mutiny-neal-mcdonough-reveals",
+        "publishedAt": "2026-08-23T14:00:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
+        "description": "Trump faces a stronger North Korea with 50-70 nuclear weapons and a powerful new partner in Russia, leaving denuclearization increasingly out of reach.",
+        "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
+        "publishedAt": "2026-08-23T09:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Freedom 250 Grand Prix attendees talk about American pride in the midst of historic event",
+        "description": "Fans at the IndyCar Freedom 250 Grand Prix in Washington, D.C., describe an overwhelming sense of pride and unity absent from other American sports.",
+        "url": "https://www.foxnews.com/outkick-sports/freedom-250-grand-prix-attendees-talk-american-pride-midst-historic-event",
+        "publishedAt": "2026-08-23T20:30:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Macron Welcomes Saudis' Mohammed bin Salman to France For Two-Day Visit",
+        "description": "President to welcome Saudi crown prince for a two-day visit, criticised as a \"provocation\" by journalist groups.\nThe post Macron Welcomes Saudis’ Mohammed bin Salman to France For Two-Day Visit appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/08/23/macron-welcomes-saudis-mohammed-bin-salman-to-france-for-two-day-visit/",
+        "publishedAt": "2026-08-23T15:27:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Several drivers hit with penalties ahead of IndyCar Freedom 250 Grand Prix in Washington, DC",
+        "description": "Nolan Siegel, Marcus Ericsson, and Mick Schumacher face six-place grid penalties for engine changes ahead of the IndyCar Freedom 250 Grand Prix.",
+        "url": "https://www.foxnews.com/outkick-sports/drivers-hit-penalties-indycar-freedom-250-grand-prix-washington-dc",
+        "publishedAt": "2026-08-23T14:40:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "250"
+      },
+      {
+        "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
+        "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+        "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+        "publishedAt": "2026-08-23T10:00:56Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "Alibaba seeks $10 billion from share sale for AI expansion",
+        "description": "The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+        "publishedAt": "2026-08-23T09:17:12Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
