@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-25T09:25:54.079467+00:00",
+  "generated_at": "2026-08-25T10:00:57.780138+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Trump's Bedminster turf could make or break his last two years in the White House",
-        "description": "Mike Johnson rallied supporters in New Jersey for Tom Kean's re-election, calling the 7th Congressional District a top-three race for House control.",
-        "url": "https://www.foxnews.com/politics/trumps-bedminster-turf-could-make-break-his-last-two-years-white-house",
-        "publishedAt": "2026-08-24T08:00:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
-      },
-      {
-        "title": "JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative",
-        "description": "A JPMorgan Chase & Co unit facing allegations of non-compliance from market regulator SEBI is likely to contend that the issue was technical in nature rather than manipulative, people familiar with the matter said.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/jpmorgan-unit-to-argue-any-india-regulatory-breach-was-technical",
-        "publishedAt": "2026-08-24T07:35:30Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Citi, Axis Bank team up on leveraged India dollar deposit boom",
-        "description": "Citigroup and Axis Bank partner to leverage NRI dollar deposits, enhancing cross-border financing amidst RBI's push for foreign inflows.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/citi-axis-bank-team-up-on-leveraged-india-dollar-deposit-boom",
-        "publishedAt": "2026-08-24T03:43:16Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India’s $10 billion equity rush puts August on track for record",
-        "description": "Almost $10 billion of deals have been priced in August, led by the government’s blockbuster $3.2 billion sale of shares in LIC",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "publishedAt": "2026-08-24T03:29:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Box Office: ‘Spider-Man’ #1 for 4th Weekend, 'Odyssey’ Now Nolan’s Highest-Grossing Film",
-        "description": "“Spider-Man: Brand New Day” fought off a slew of newcomers, including a comedy, a horror franchise, a Jason Statham action movie and a family pic, to maintain its first-place spot at the box office in its fourth weekend in theaters. “The Odyssey” also became …",
-        "url": "https://www.breitbart.com/entertainment/2026/08/23/box-office-spider-man-1-for-4th-weekend-odyssey-now-nolans-highest-grossing-film/",
-        "publishedAt": "2026-08-23T22:48:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative",
-        "description": "A JPMorgan Chase & Co unit facing allegations of non-compliance from market regulator SEBI is likely to contend that the issue was technical in nature rather than manipulative, people familiar with the matter said.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/jpmorgan-unit-to-argue-any-india-regulatory-breach-was-technical",
-        "publishedAt": "2026-08-24T07:35:30Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Lindsay Clancy's three child victims forgotten amid crowds of support: mother of six",
-        "description": "Bethany Mandel says Lindsay Clancy's three child victims have been forgotten as crowds rally outside Plymouth Superior Court for the accused mother.",
-        "url": "https://www.foxnews.com/us/lindsay-clancy-three-child-victims-forgotten-amid-crowds-support-mother-six",
-        "publishedAt": "2026-08-24T04:00:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "SEBI rejects settlement bids by Adani-linked funds",
-        "description": "13 overseas portfolio investors sought to resolve a 2020 investigation into their status as genuine public shareholders or agents for Adani Group founders",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/india-rejects-settlement-bids-by-adani-linked-funds-et-reports",
-        "publishedAt": "2026-08-24T03:51:15Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "13"
-      },
-      {
-        "title": "Citi, Axis Bank team up on leveraged India dollar deposit boom",
-        "description": "Citigroup and Axis Bank partner to leverage NRI dollar deposits, enhancing cross-border financing amidst RBI's push for foreign inflows.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/citi-axis-bank-team-up-on-leveraged-india-dollar-deposit-boom",
-        "publishedAt": "2026-08-24T03:43:16Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India’s $10 billion equity rush puts August on track for record",
-        "description": "Almost $10 billion of deals have been priced in August, led by the government’s blockbuster $3.2 billion sale of shares in LIC",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "publishedAt": "2026-08-24T03:29:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
