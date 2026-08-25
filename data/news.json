@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-25T08:53:16.977519+00:00",
+  "generated_at": "2026-08-25T09:25:54.079467+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
-        "description": "Trump faces a stronger North Korea with 50-70 nuclear weapons and a powerful new partner in Russia, leaving denuclearization increasingly out of reach.",
-        "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
-        "publishedAt": "2026-08-23T09:00:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
@@ -66,18 +55,7 @@
         "numericHint": "1"
       }
     ],
-    "news-korea-soc": [
-      {
-        "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
-        "description": "Trump faces a stronger North Korea with 50-70 nuclear weapons and a powerful new partner in Russia, leaving denuclearization increasingly out of reach.",
-        "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
-        "publishedAt": "2026-08-23T09:00:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      }
-    ],
+    "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
