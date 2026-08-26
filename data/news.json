@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-26T10:49:00.980765+00:00",
+  "generated_at": "2026-08-26T11:15:42.907460+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Leftist South Korean President Hits Lowest-Ever Approval After Trump Iran Dispute",
-        "description": "A poll published on Monday found leftist South Korean President Lee Jae-myung marking an approval rating of only 40.2 percent, the lowest documented since he came to power in a special election in 2025.\nThe post Leftist South Korean President Hits Lowest-Ever…",
-        "url": "https://www.breitbart.com/asia/2026/08/24/leftist-south-korean-president-hits-lowest-ever-approval-after-trump-iran-dispute/",
-        "publishedAt": "2026-08-24T17:30:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "40.2"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
