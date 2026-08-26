@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:24:19.970621+00:00",
+  "generated_at": "2026-08-26T10:04:52.948442+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Blue state's water failures could threaten food supplies across US, lawmaker warns",
+        "description": "A key House Republican accuses Gavin Newsom of stressing the Colorado River supply by failing to build new dams and water infrastructure in California.",
+        "url": "https://www.foxnews.com/politics/blue-states-water-failures-could-threaten-food-supplies-across-us-lawmaker-warns",
+        "publishedAt": "2026-08-25T10:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "LIZ PEEK: China is cheering as the Left blocks America’s AI infrastructure",
         "description": "America's AI dominance faces a complex threat as China-linked networks have reportedly delayed $24 billion in data center construction projects.",
@@ -54,16 +64,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "10"
-      },
-      {
-        "title": "Bitcoin tops $80,000 on debasement trade, sets three-month high",
-        "description": "Bitcoin reaches $81,257, marking a three-month high as optimism returns amid renewed interest in the debasement trade.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns",
-        "publishedAt": "2026-08-25T04:23:02Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
