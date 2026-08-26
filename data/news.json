@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-08-26T12:19:26.645170+00:00",
+  "generated_at": "2026-08-26T13:28:34.813578+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Leftist South Korean President Hits Lowest-Ever Approval After Trump Iran Dispute",
+        "description": "A poll published on Monday found leftist South Korean President Lee Jae-myung marking an approval rating of only 40.2 percent, the lowest documented since he came to power in a special election in 2025.\nThe post Leftist South Korean President Hits Lowest-Ever…",
+        "url": "https://www.breitbart.com/asia/2026/08/24/leftist-south-korean-president-hits-lowest-ever-approval-after-trump-iran-dispute/",
+        "publishedAt": "2026-08-24T17:30:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "40.2"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "3 things Democrats don’t want you to know about AI and data centers",
+        "description": "AI data centers are reviving small towns like Ellendale, N.D., bringing jobs, tax revenue and lower electricity bills to communities left behind.",
+        "url": "https://www.foxnews.com/opinion/3-things-democrats-dont-want-you-know-about-ai-data-centers",
+        "publishedAt": "2026-08-25T13:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
+        "description": "Scott Bessent's \"Economic D-Day\" against Iran sent the rial to an all-time low as experts debate whether maximum pressure can trigger regime change.",
+        "url": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
+        "publishedAt": "2026-08-25T12:09:47Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive -- NC Senate Candidate Michael Whatley: We Cannot Have Data Centers Raising Water or Electricity Rates on Consumers",
+        "description": "Data centers should not be raising water or electricity rates on consumers, North Carolina Senate candidate Michael Whatley agreed during an appearance on Breitbart News Daily.\nThe post Exclusive — NC Senate Candidate Michael Whatley: We Cannot Have Data Cent…",
+        "url": "https://www.breitbart.com/radio/2026/08/25/exclusive-nc-senate-candidate-michael-whatley-we-cannot-have-data-centers-raising-water-or-electricity-rates-on-consumers/",
+        "publishedAt": "2026-08-25T12:08:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Blue state's water failures could threaten food supplies across US, lawmaker warns",
+        "description": "A key House Republican accuses Gavin Newsom of stressing the Colorado River supply by failing to build new dams and water infrastructure in California.",
+        "url": "https://www.foxnews.com/politics/blue-states-water-failures-could-threaten-food-supplies-across-us-lawmaker-warns",
+        "publishedAt": "2026-08-25T10:00:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LIZ PEEK: China is cheering as the Left blocks America’s AI infrastructure",
+        "description": "America's AI dominance faces a complex threat as China-linked networks have reportedly delayed $24 billion in data center construction projects.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-china-cheering-left-blocks-americas-ai-infrastructure",
+        "publishedAt": "2026-08-25T09:00:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Leftist South Korean President Hits Lowest-Ever Approval After Trump Iran Dispute",
+        "description": "A poll published on Monday found leftist South Korean President Lee Jae-myung marking an approval rating of only 40.2 percent, the lowest documented since he came to power in a special election in 2025.\nThe post Leftist South Korean President Hits Lowest-Ever…",
+        "url": "https://www.breitbart.com/asia/2026/08/24/leftist-south-korean-president-hits-lowest-ever-approval-after-trump-iran-dispute/",
+        "publishedAt": "2026-08-24T17:30:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "40.2"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Surging Dem with DSA ties is 'either a bona-fide socialist, or she's not very smart': GOP rep",
+        "description": "Rep. Carlos Gimenez, who fled Fidel Castro's Cuba, warns that Angie Nixon's DSA membership mirrors how socialists deny their ideology until power.",
+        "url": "https://www.foxnews.com/politics/surging-dem-dsa-ties-bona-fide-socialist-not-very-smart-gop-rep",
+        "publishedAt": "2026-08-25T09:00:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mamdani's Office Denounces Antisemitic Statement from Brooklyn Democrat Leader, Does Not Call for Resignation",
+        "description": "The office of New York City Mayor Zohran Mamdani denounced antisemitic statements from Brooklyn Democrat leader Carmella Charrington on Monday but stopped short of calling for a resignation.\nThe post Mamdani’s Office Denounces Antisemitic Statement from Brook…",
+        "url": "https://www.breitbart.com/politics/2026/08/24/mamdanis-office-denounces-antisemitic-statement-brooklyn-democrat-leader/",
+        "publishedAt": "2026-08-25T03:19:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India’s new stock auction system faces first monthly expiry test",
+        "description": "India's new auction-based stock system faces its first monthly expiry, testing its stability amid trader concerns and regulatory scrutiny.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-25/india-s-new-stock-auction-system-faces-first-monthly-expiry-test",
+        "publishedAt": "2026-08-25T03:11:13Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "CDC: Upwards of 2.5 Million Defensive Gun Uses Per Year",
+        "description": "The Centers for Disease Control and Prevention (CDC) put defensive gun use figures back on their website, and that data shows upwards of 2.5 million such uses a year.\nThe post CDC: Upwards of 2.5 Million Defensive Gun Uses Per Year appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/24/cdc-upwards-of-2-5-million-defensive-gun-uses-per-year/",
+        "publishedAt": "2026-08-25T02:00:49Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2.5"
+      },
+      {
+        "title": "Syria off US terror blacklist after nearly 50 years as Trump admin clears investment hurdle",
+        "description": "The United States formally removed Syria from its state sponsors of terrorism list after Marco Rubio authorized the rescission and delisted HTS.",
+        "url": "https://www.foxnews.com/world/syria-off-us-terror-blacklist-after-nearly-50-years-trump-admin-clears-investment-hurdle",
+        "publishedAt": "2026-08-25T00:34:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
