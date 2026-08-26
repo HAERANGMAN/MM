@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:28:34.813578+00:00",
+  "generated_at": "2026-08-26T14:20:24.960774+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "I feared AI would leave my community behind. Now I see a path to prosperity",
+        "description": "The AI boom demands 130,000 additional skilled trades workers by 2030, creating massive opportunities for electricians, plumbers and HVAC technicians.",
+        "url": "https://www.foxnews.com/opinion/feared-ai-would-leave-community-behind-now-see-path-prosperity",
+        "publishedAt": "2026-08-25T14:00:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "130"
+      },
       {
         "title": "3 things Democrats don’t want you to know about AI and data centers",
         "description": "AI data centers are reviving small towns like Ellendale, N.D., bringing jobs, tax revenue and lower electricity bills to communities left behind.",
@@ -54,16 +64,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "LIZ PEEK: China is cheering as the Left blocks America’s AI infrastructure",
-        "description": "America's AI dominance faces a complex threat as China-linked networks have reportedly delayed $24 billion in data center construction projects.",
-        "url": "https://www.foxnews.com/opinion/liz-peek-china-cheering-left-blocks-americas-ai-infrastructure",
-        "publishedAt": "2026-08-25T09:00:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
       }
     ],
     "news-korea-soc": [
