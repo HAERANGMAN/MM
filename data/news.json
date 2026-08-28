@@ -1,108 +1,108 @@
 {
-  "generated_at": "2026-08-27T19:59:05.139594+00:00",
+  "generated_at": "2026-08-28T04:20:27.068103+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "JONATHAN TURLEY: Social media addiction will easily outlast Meta's massive multibillion dollar settlement",
-        "description": "Meta's proposed $17 billion social media settlement may actually benefit the company, given potential penalties that were estimated at $1.4 trillion.",
-        "url": "https://www.foxnews.com/opinion/jonathan-turley-social-media-addiction-outlast-metas-massive-multibillion-dollar-settlement",
-        "publishedAt": "2026-08-26T19:33:31Z",
+        "title": "Iran, Oman agree to share Strait of Hormuz revenue",
+        "description": "“Agreements have been reached regarding each country’s share of the strait’s waters and Iran and Oman’s revenue share,” IRGC spokesman said",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says",
+        "publishedAt": "2026-08-27T03:58:30Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NYC business owners revolt over Mamdani’s government-run grocery stores: ‘Doomed for disaster'",
+        "description": "Bodega owners rallied in Harlem to oppose Zohran Mamdani's city-run grocery stores, filing two lawsuits that allege civil rights violations.",
+        "url": "https://www.foxnews.com/media/nyc-business-owners-revolt-mamdani-government-run-grocery-stores-doomed-disaster",
+        "publishedAt": "2026-08-27T02:10:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "RBI ramps up rupee support as rise in forex reserves gives comfort",
+        "description": "The extra money strengthens the RBI’s hand just as pressure starts to mount again on Asia’s worst-performing currency this quarter",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-27/rbi-is-showing-up-whenever-rupee-weakens-in-intervention-shift",
+        "publishedAt": "2026-08-27T01:57:03Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Options turnover on NSE plunges to lowest this year",
+        "description": "India's largest stock exchange sees a significant drop in options turnover, reflecting stricter trading rules and market adjustments.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/options-turnover-sinks-at-india-s-top-exchange-preparing-for-ipo",
+        "publishedAt": "2026-08-27T01:43:34Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's lawyers put Dem AG on notice for targeting his family in NY fraud fight: 'Cannot stand'",
+        "description": "Trump filed an appeal against New York Attorney General Letita James, arguing the $450 million penalty is unconstitutional and the case lacked authority.",
+        "url": "https://www.foxnews.com/politics/trumps-lawyers-put-dem-ag-notice-targeting-his-family-ny-fraud-fight",
+        "publishedAt": "2026-08-26T23:33:56Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Businesses Expect Strong Sales Growth, Atlanta Fed Survey Shows",
-        "description": "U.S. businesses expect sales to grow at the fastest pace in more than four years.\nThe post Businesses Expect Strong Sales Growth, Atlanta Fed Survey Shows appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/08/26/businesses-expect-strong-sales-growth-atlanta-fed-survey-shows/",
-        "publishedAt": "2026-08-26T19:23:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bessent's Treasury Buybacks Show Signs of Improving Long-Bond Market Liquidity",
-        "description": "The Treasury Department’s plan to expand purchases of long-dated government debt is beginning to show signs of improving liquidity in the bond market without preventing yields from responding to economic conditions—even though the actual purchases will not be…",
-        "url": "https://www.breitbart.com/economy/2026/08/26/bessents-treasury-buybacks-show-signs-of-improving-long-bond-market-liquidity/",
-        "publishedAt": "2026-08-26T18:32:04Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Millions of barrels of Iranian oil sit beyond Trump blockade as he vows ‘zero leakage’",
-        "description": "Nearly 40 million barrels of Iranian crude sit on tankers near Malaysia, posing a test for Trump's \"zero-leakage\" sanctions campaign against Tehran.",
-        "url": "https://www.foxnews.com/politics/millions-barrels-iranian-oil-sit-beyond-trump-blockade-vows-zero-leakage",
-        "publishedAt": "2026-08-26T18:23:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "40"
-      },
-      {
-        "title": "Dolly Parton’s private cancer battle highlights why some patients don’t share their diagnoses",
-        "description": "Dolly Parton kept her cancer diagnosis private before her death, raising questions about why patients hide their battles and the stigma involved.",
-        "url": "https://www.foxnews.com/health/dolly-parton-private-cancer-battle-highlights-why-some-patients-dont-share-diagnoses",
-        "publishedAt": "2026-08-26T18:21:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "China Accelerates Island Building in Disputed South China Sea",
-        "description": "Satellite photographs have revealed new construction on Yagong Island in the Paracels archipelago, leading analysts to believe China is constructing a major military base that will consolidate its grip on the disputed South China Sea islands.\nThe post China A…",
-        "url": "https://www.breitbart.com/asia/2026/08/26/china-accelerates-island-building-in-disputed-south-china-sea/",
-        "publishedAt": "2026-08-26T19:53:17Z",
+        "title": "Iran, Oman agree to share Strait of Hormuz revenue",
+        "description": "“Agreements have been reached regarding each country’s share of the strait’s waters and Iran and Oman’s revenue share,” IRGC spokesman said",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says",
+        "publishedAt": "2026-08-27T03:58:30Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Rasmussen: Gun Control Support Falls Among Likely U.S. Voters",
-        "description": "A Rasmussen Reports survey published August 25, 2026, shows gun control support has fallen among likely U.S. voters since October 2024.\nThe post Rasmussen: Gun Control Support Falls Among Likely U.S. Voters appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/26/rasmussen-gun-control-support-falls-among-likely-u-s-voters/",
-        "publishedAt": "2026-08-26T18:59:51Z",
+        "title": "RBI ramps up rupee support as rise in forex reserves gives comfort",
+        "description": "The extra money strengthens the RBI’s hand just as pressure starts to mount again on Asia’s worst-performing currency this quarter",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-27/rbi-is-showing-up-whenever-rupee-weakens-in-intervention-shift",
+        "publishedAt": "2026-08-27T01:57:03Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Bloomberg"
         },
-        "numericHint": "25"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Millions of barrels of Iranian oil sit beyond Trump blockade as he vows ‘zero leakage’",
-        "description": "Nearly 40 million barrels of Iranian crude sit on tankers near Malaysia, posing a test for Trump's \"zero-leakage\" sanctions campaign against Tehran.",
-        "url": "https://www.foxnews.com/politics/millions-barrels-iranian-oil-sit-beyond-trump-blockade-vows-zero-leakage",
-        "publishedAt": "2026-08-26T18:23:44Z",
+        "title": "ATF investigates ‘major’ cybersecurity incident as ransomware group claims attack",
+        "description": "The ATF is investigating a cybersecurity incident designated a \"major incident\" by Justice Department officials as Qilin ransomware claims credit.",
+        "url": "https://www.foxnews.com/us/atf-investigates-major-cybersecurity-incident-ransomware-group-claims-attack",
+        "publishedAt": "2026-08-27T01:26:10Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "40"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Nolte: Trump Pauses Immigrant Visas Globally for Training to Avoid Deadbeats, Troublemakers",
-        "description": "No one who comes to this country legally should be on the public dole, committing crimes, or ginning up anti-Jewish and anti-American hate at our universities or anywhere else.\nThe post Nolte: Trump Pauses Immigrant Visas Globally for Training to Avoid Deadbe…",
-        "url": "https://www.breitbart.com/immigration/2026/08/26/nolte-trump-pauses-immigrant-visas-globally-for-training-to-avoid-deadbeats-troublemakers/",
-        "publishedAt": "2026-08-26T17:46:36Z",
+        "title": "Breitbart Business Digest: What Kevin Warsh Is Likely to Do at Jackson Hole",
+        "description": "At his July press conference, Federal Reserve Chair Kevin Warsh said that he wants to use his Jackson Hole speech to “frame the big questions.”\nThe post Breitbart Business Digest: What Kevin Warsh Is Likely to Do at Jackson Hole appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/08/26/breitbart-business-digest-what-kevin-warsh-is-likely-to-do-at-jackson-hole/",
+        "publishedAt": "2026-08-26T22:30:05Z",
         "source": {
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Cuban Dissidents Tell EU: Stop Bankrolling Castros and Give That Money to Ukraine",
-        "description": "The Assembly of the Cuban Resistance (ARC) called upon the E.U. to stop financing the communist Castro regime and help Ukraine instead.\nThe post Cuban Dissidents Tell EU: Stop Bankrolling Castros and Give That Money to Ukraine appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/latin-america/2026/08/26/cuban-dissidents-tell-eu-stop-bankrolling-castros-give-that-money-ukraine/",
-        "publishedAt": "2026-08-26T17:45:19Z",
+        "title": "Chinese Nationals Express 'Frustration and Disbelief' Online After U.S. Green Card Freeze",
+        "description": "The South China Morning Post (SCMP) on Wednesday reported “frustration and disbelief” in China after “American consulates around the world began cancelling immigrant visa interviews.”\nThe post Chinese Nationals Express ‘Frustration and Disbelief’ Online After…",
+        "url": "https://www.breitbart.com/national-security/2026/08/26/chinese-nationals-express-frustration-and-disbelief-online-after-u-s-green-card-freeze/",
+        "publishedAt": "2026-08-26T22:25:23Z",
         "source": {
           "name": "Breitbart News"
         },
