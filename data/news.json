@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-28T04:20:27.068103+00:00",
+  "generated_at": "2026-08-28T16:45:02.986600+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Iran, Oman agree to share Strait of Hormuz revenue",
-        "description": "“Agreements have been reached regarding each country’s share of the strait’s waters and Iran and Oman’s revenue share,” IRGC spokesman said",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says",
-        "publishedAt": "2026-08-27T03:58:30Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NYC business owners revolt over Mamdani’s government-run grocery stores: ‘Doomed for disaster'",
-        "description": "Bodega owners rallied in Harlem to oppose Zohran Mamdani's city-run grocery stores, filing two lawsuits that allege civil rights violations.",
-        "url": "https://www.foxnews.com/media/nyc-business-owners-revolt-mamdani-government-run-grocery-stores-doomed-disaster",
-        "publishedAt": "2026-08-27T02:10:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "RBI ramps up rupee support as rise in forex reserves gives comfort",
-        "description": "The extra money strengthens the RBI’s hand just as pressure starts to mount again on Asia’s worst-performing currency this quarter",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-27/rbi-is-showing-up-whenever-rupee-weakens-in-intervention-shift",
-        "publishedAt": "2026-08-27T01:57:03Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Options turnover on NSE plunges to lowest this year",
-        "description": "India's largest stock exchange sees a significant drop in options turnover, reflecting stricter trading rules and market adjustments.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/options-turnover-sinks-at-india-s-top-exchange-preparing-for-ipo",
-        "publishedAt": "2026-08-27T01:43:34Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump's lawyers put Dem AG on notice for targeting his family in NY fraud fight: 'Cannot stand'",
-        "description": "Trump filed an appeal against New York Attorney General Letita James, arguing the $450 million penalty is unconstitutional and the case lacked authority.",
-        "url": "https://www.foxnews.com/politics/trumps-lawyers-put-dem-ag-notice-targeting-his-family-ny-fraud-fight",
-        "publishedAt": "2026-08-26T23:33:56Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Iran, Oman agree to share Strait of Hormuz revenue",
-        "description": "“Agreements have been reached regarding each country’s share of the strait’s waters and Iran and Oman’s revenue share,” IRGC spokesman said",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says",
-        "publishedAt": "2026-08-27T03:58:30Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "RBI ramps up rupee support as rise in forex reserves gives comfort",
-        "description": "The extra money strengthens the RBI’s hand just as pressure starts to mount again on Asia’s worst-performing currency this quarter",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-27/rbi-is-showing-up-whenever-rupee-weakens-in-intervention-shift",
-        "publishedAt": "2026-08-27T01:57:03Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "ATF investigates ‘major’ cybersecurity incident as ransomware group claims attack",
-        "description": "The ATF is investigating a cybersecurity incident designated a \"major incident\" by Justice Department officials as Qilin ransomware claims credit.",
-        "url": "https://www.foxnews.com/us/atf-investigates-major-cybersecurity-incident-ransomware-group-claims-attack",
-        "publishedAt": "2026-08-27T01:26:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: What Kevin Warsh Is Likely to Do at Jackson Hole",
-        "description": "At his July press conference, Federal Reserve Chair Kevin Warsh said that he wants to use his Jackson Hole speech to “frame the big questions.”\nThe post Breitbart Business Digest: What Kevin Warsh Is Likely to Do at Jackson Hole appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/08/26/breitbart-business-digest-what-kevin-warsh-is-likely-to-do-at-jackson-hole/",
-        "publishedAt": "2026-08-26T22:30:05Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese Nationals Express 'Frustration and Disbelief' Online After U.S. Green Card Freeze",
-        "description": "The South China Morning Post (SCMP) on Wednesday reported “frustration and disbelief” in China after “American consulates around the world began cancelling immigrant visa interviews.”\nThe post Chinese Nationals Express ‘Frustration and Disbelief’ Online After…",
-        "url": "https://www.breitbart.com/national-security/2026/08/26/chinese-nationals-express-frustration-and-disbelief-online-after-u-s-green-card-freeze/",
-        "publishedAt": "2026-08-26T22:25:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
