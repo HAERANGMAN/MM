@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-29T07:26:07.600559+00:00",
+  "generated_at": "2026-08-29T13:17:55.823607+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Raghuram Rajan urges Fed to raise rates, says rupee is not in panic zone",
-        "description": "Raghuram Rajan says the Fed should raise rates to contain inflation, while noting strong US investment, fiscal deficit and consumer spending are supporting growth.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/ex-rbi-chief-rajan-says-fed-should-raise-rates-to-curb-inflation",
-        "publishedAt": "2026-08-28T06:32:56Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nepal flash floods: Reconstruction costs could run into billions, says finance minister",
-        "description": "Nepal expects flash flood losses to reach billions of dollars as it seeks international funding to rebuild bridges, roads and settlements devastated by floods.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/nepal-will-need-billions-in-funding-to-rebuild-flood-hit-economy",
-        "publishedAt": "2026-08-28T06:21:29Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "4,000% options surge in 15 minutes shows wild side of new CAS system",
-        "description": "During the first monthly expiry at BSE, a ₹64,000-put option tied to a bank index was trading at just ₹1.70 at the start of the auction. Within minutes, it shot up to ₹68.55, before crashing back to zero, all in just 15 minutes.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/4-000-options-surge-in-15-minutes-shows-wild-india-auction",
-        "publishedAt": "2026-08-28T05:26:33Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Closing auction scrutiny deepens as wild Sensex swing worries traders",
-        "description": "A sudden 3% plunge in the BSE Sensex during a closing auction raises concerns over liquidity and potential market manipulation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-27/india-s-sensex-hit-by-flash-crash-during-unpopular-closing-auction",
-        "publishedAt": "2026-08-28T04:48:26Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Bill Gates Claims Jeffrey Epstein Exploited His Philanthropic ‘Weak Point’",
-        "description": "Bill Gates again defended his past meetings with convicted sex offender Jeffrey Epstein, saying Epstein took advantage of his interest in philanthropy.\nThe post Bill Gates Claims Jeffrey Epstein Exploited His Philanthropic ‘Weak Point’ appeared first on Breit…",
-        "url": "https://www.breitbart.com/politics/2026/08/27/bill-gates-claims-jeffrey-epstein-exploited-philanthropic-weak-point/",
-        "publishedAt": "2026-08-28T03:13:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Raghuram Rajan urges Fed to raise rates, says rupee is not in panic zone",
-        "description": "Raghuram Rajan says the Fed should raise rates to contain inflation, while noting strong US investment, fiscal deficit and consumer spending are supporting growth.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/ex-rbi-chief-rajan-says-fed-should-raise-rates-to-curb-inflation",
-        "publishedAt": "2026-08-28T06:32:56Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Noel Tata, Shapoorji discuss share swap for Tata Sons stake sale",
-        "description": "Representatives of Noel Tata are exploring a deal where SP Group could receive shares in Tata Power Co. in exchange for part or all of its 18.4% stake in Tata Sons Pvt",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/noel-tata-shapoorji-discuss-share-swap-for-tata-sons-stake-sale",
-        "publishedAt": "2026-08-28T05:18:53Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "18.4"
-      },
-      {
-        "title": "Closing auction scrutiny deepens as wild Sensex swing worries traders",
-        "description": "A sudden 3% plunge in the BSE Sensex during a closing auction raises concerns over liquidity and potential market manipulation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-27/india-s-sensex-hit-by-flash-crash-during-unpopular-closing-auction",
-        "publishedAt": "2026-08-28T04:48:26Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Bill Gates Claims Jeffrey Epstein Exploited His Philanthropic ‘Weak Point’",
-        "description": "Bill Gates again defended his past meetings with convicted sex offender Jeffrey Epstein, saying Epstein took advantage of his interest in philanthropy.\nThe post Bill Gates Claims Jeffrey Epstein Exploited His Philanthropic ‘Weak Point’ appeared first on Breit…",
-        "url": "https://www.breitbart.com/politics/2026/08/27/bill-gates-claims-jeffrey-epstein-exploited-philanthropic-weak-point/",
-        "publishedAt": "2026-08-28T03:13:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dodgers owner Mark Walter denies reports, says team payroll is supported by revenue: 'There has been no fraud'",
-        "description": "TWG Global denies fraud allegations in a new statement, saying no one has been harmed and that the Los Angeles Dodgers have top revenue in baseball.",
-        "url": "https://www.foxnews.com/outkick-sports/dodgers-owner-mark-walter-denies-reports-says-team-payroll-supported-revenue-no-fraud",
-        "publishedAt": "2026-08-28T01:25:41Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
