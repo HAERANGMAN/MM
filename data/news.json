@@ -1,136 +1,19 @@
 {
-  "generated_at": "2026-08-30T10:32:49.960380+00:00",
+  "generated_at": "2026-08-30T14:57:34.997162+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Comedian finds the secret to surviving boomer parents: Put them in your act",
-        "description": "Jared Freid's Netflix special \"Family Plan\" explores the chaotic dynamic between millennials and their boomer parents, starting with one question asked on vacation.",
-        "url": "https://www.foxnews.com/media/comedian-finds-secret-surviving-boomer-parents-put-them-your-act",
-        "publishedAt": "2026-08-29T10:00:17Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Crackdown on critical tech could open Americans to a new national security threat",
-        "description": "Brittany Kaiser warns that data center moratoriums could force American companies to process sensitive data overseas, raising national security concerns.",
-        "url": "https://www.foxnews.com/politics/crackdown-critical-tech-could-open-americans-new-national-security-threat",
-        "publishedAt": "2026-08-29T10:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "‘Goods Are Not Coming In’: Tehran Braces for Unrest as Trump Intensifies Economic Offensive",
-        "description": "Iranian President Masoud Pezeshkian acknowledged Friday that the U.S. blockade has slashed Iran’s trade and left critical imports — including gasoline — unable to enter the country, as the Trump administration intensifies an economic offensive aimed at isolat…",
-        "url": "https://www.breitbart.com/politics/2026/08/28/goods-not-coming-tehran-braces-unrest-trump-intensifies-economic-offensive/",
-        "publishedAt": "2026-08-29T02:54:43Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dem Rep. Dingell: Trump's Tariffs on Canada Are 'Insanity'",
-        "description": "Friday on MS NOW’s “The Last Word,” Rep. Debbie Dingell (D-MI) said President Donald Trump’s tariffs on Canada are “insanity.” Dingell said, “I’ve been home for more than a month, Jonathan, and people are hurting. Every place that I go.\nThe post Dem Rep. Ding…",
-        "url": "https://www.breitbart.com/clips/2026/08/28/dem-rep-dingell-trumps-tariffs-on-canada-are-insanity/",
-        "publishedAt": "2026-08-29T02:43:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Reliance Industries firm buys Lutyens Delhi bungalow for ₹350 crore",
-        "description": "A Reliance Industries firm has bought a Prithviraj Road bungalow in Lutyens Delhi for ₹3.5 billion, excluding taxes, as demand for luxury homes rises.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/reliance-owned-firm-buys-lutyens-bungalow-for-37-million",
-        "publishedAt": "2026-08-29T02:28:51Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "350"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Nepal Refuses Foreign Rescue Teams for Help with Devastating Floods",
-        "description": "The Foreign Ministry of Nepal said on Thursday that it would not accept international rescue teams seeking to help emergency operations following a devastating series of landslides and floods in the country and neighboring Tibet.\nThe post Nepal Refuses Foreig…",
-        "url": "https://www.breitbart.com/asia/2026/08/28/nepal-refuses-foreign-rescue-teams-for-help-with-devastating-floods/",
-        "publishedAt": "2026-08-28T19:15:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese hackers target NASA and key US agencies, DOJ alleges",
-        "description": "The FBI and Justice Department seized domains tied to QScan and QTRouter, tools allegedly used by China-linked hackers to breach NASA and other agencies.",
-        "url": "https://www.foxnews.com/tech/chinese-hackers-target-nasa-key-us-agencies-doj-alleges",
-        "publishedAt": "2026-08-28T18:15:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Crackdown on critical tech could open Americans to a new national security threat",
-        "description": "Brittany Kaiser warns that data center moratoriums could force American companies to process sensitive data overseas, raising national security concerns.",
-        "url": "https://www.foxnews.com/politics/crackdown-critical-tech-could-open-americans-new-national-security-threat",
-        "publishedAt": "2026-08-29T10:00:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tennessee moves to rename Nashville airport for Dolly Parton days after beloved icon's death",
-        "description": "Tennessee Gov. Bill Lee announced plans to rename Nashville International Airport after Dolly Parton following a petition with over 155,000 signatures.",
-        "url": "https://www.foxnews.com/travel/tennessee-moves-rename-nashville-airport-dolly-parton-days-after-beloved-icon-death",
-        "publishedAt": "2026-08-28T22:52:43Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "155"
-      },
-      {
-        "title": "Jewish educators face rampant antisemitism in teachers unions, new report finds",
-        "description": "The ADL surveyed 307 Jewish union members and found 73.6% self-censor in union spaces, revealing what the group calls institutionalized antisemitism.",
-        "url": "https://www.foxnews.com/media/jewish-educators-face-rampant-antisemitism-teachers-unions-new-report-finds",
-        "publishedAt": "2026-08-28T22:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "307"
-      },
-      {
-        "title": "Treasury Department Focused on Economic Growth, Not Climate at G20 Meeting",
-        "description": "The U.S. Department of Treasury is focused on economic growth at the upcoming G20 Finance Ministerial meeting, in contrast to the Biden administration's preoccupation with carbon and climate change.\nThe post Treasury Department Focused on Economic Growth, Not…",
-        "url": "https://www.breitbart.com/politics/2026/08/28/treasury-department-focused-on-economic-growth-not-climate-at-g20-meeting/",
-        "publishedAt": "2026-08-28T21:02:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      },
-      {
-        "title": "FTW-Arms OG Suppressor: More Fun than You Can Imagine for Under $100",
-        "description": "The FTW Arms OG 22LR suppressor is a 3D printed polymer device that delivers more fun than you can imagine for less than $100.\nThe post FTW-Arms OG Suppressor: More Fun than You Can Imagine for Under $100 appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/28/ftw-og-suppressor-more-fun-than-you-can-imagine-under-100/",
-        "publishedAt": "2026-08-28T20:50:52Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
