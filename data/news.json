@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-30T05:20:58.856070+00:00",
+  "generated_at": "2026-08-30T10:32:49.960380+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Comedian finds the secret to surviving boomer parents: Put them in your act",
+        "description": "Jared Freid's Netflix special \"Family Plan\" explores the chaotic dynamic between millennials and their boomer parents, starting with one question asked on vacation.",
+        "url": "https://www.foxnews.com/media/comedian-finds-secret-surviving-boomer-parents-put-them-your-act",
+        "publishedAt": "2026-08-29T10:00:17Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Crackdown on critical tech could open Americans to a new national security threat",
+        "description": "Brittany Kaiser warns that data center moratoriums could force American companies to process sensitive data overseas, raising national security concerns.",
+        "url": "https://www.foxnews.com/politics/crackdown-critical-tech-could-open-americans-new-national-security-threat",
+        "publishedAt": "2026-08-29T10:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "‘Goods Are Not Coming In’: Tehran Braces for Unrest as Trump Intensifies Economic Offensive",
         "description": "Iranian President Masoud Pezeshkian acknowledged Friday that the U.S. blockade has slashed Iran’s trade and left critical imports — including gasoline — unable to enter the country, as the Trump administration intensifies an economic offensive aimed at isolat…",
@@ -33,26 +53,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "350"
-      },
-      {
-        "title": "Indian bank stocks see sharp NSE-BSE closing price gaps under new auction system",
-        "description": "The divergence has intensified scrutiny of a mechanism introduced on August 3, with traders warning that unusual volatility could erode market confidence.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
-        "publishedAt": "2026-08-29T02:13:12Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Exclusive – Republican GA Senate Candidate Mike Collins: Ossoff Is Next DSA Candidate for President",
-        "description": "Georgia Sen. Jon Ossoff (D-GA) is the next Democratic Socialists of America (DSA) candidate for president, Republican Mike Collins, running for Georgia's Senate seat, warned during an appearance on Breitbart News Daily.\nThe post Exclusive – Republican GA Sena…",
-        "url": "https://www.breitbart.com/politics/2026/08/28/republican-ga-senate-candidate-mike-collins-ossoff-next-dsa-candidate-president/",
-        "publishedAt": "2026-08-29T00:33:41Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -79,6 +79,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Crackdown on critical tech could open Americans to a new national security threat",
+        "description": "Brittany Kaiser warns that data center moratoriums could force American companies to process sensitive data overseas, raising national security concerns.",
+        "url": "https://www.foxnews.com/politics/crackdown-critical-tech-could-open-americans-new-national-security-threat",
+        "publishedAt": "2026-08-29T10:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Tennessee moves to rename Nashville airport for Dolly Parton days after beloved icon's death",
         "description": "Tennessee Gov. Bill Lee announced plans to rename Nashville International Airport after Dolly Parton following a petition with over 155,000 signatures.",
@@ -118,16 +128,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Antifa-linked sites go dark after State Department terror designation of tech collective",
-        "description": "The Rose City Antifa and Jane's Revenge websites went dark after the State Department designated their tech provider, A/I Collective, a global terrorist.",
-        "url": "https://www.foxnews.com/politics/antifa-linked-sites-dark-state-department-terror-designation-tech-collective",
-        "publishedAt": "2026-08-28T19:22:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
