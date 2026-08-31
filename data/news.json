@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-31T15:27:38.299745+00:00",
+  "generated_at": "2026-08-31T20:59:11.495736+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "DC public schools face special grand jury probe into attendance, truancy and graduation records",
+        "description": "A special grand jury is probing D.C. public schools over truancy, graduation rates and how attendance records are documented across campuses.",
+        "url": "https://www.foxnews.com/politics/dc-public-schools-face-special-grand-jury-probe-attendance-truancy-graduation-records",
+        "publishedAt": "2026-08-30T19:11:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Kofi and Austin Creed debut in AEW, join Swerve Strickland as trios champions at All In",
+        "description": "Kofi and Austin Creed debuted as The New Level at AEW All In, teaming with Swerve Strickland to capture the Trios Championship title.",
+        "url": "https://www.foxnews.com/outkick-sports/kofi-austin-creed-debut-aew-join-swerve-strickland-trios-champions-all-in",
+        "publishedAt": "2026-08-30T17:41:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump just brokered a deal with the country sitting atop the world’s largest oil reserves",
+        "description": "President Donald Trump's Venezuela oil deal targets 65 billion barrels across 17 fields, but major infrastructure hurdles stand before pump relief.",
+        "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
+        "publishedAt": "2026-08-30T16:09:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "65"
+      },
       {
         "title": "Ontario Premier Ford: Trump Renaming Lake Ontario 'Something Out of Saturday Night Live'",
         "description": "Sunday on ABC’s “This Week,” Ontario Premier Doug Ford said that President Donald Trump’s executive order renaming Lake Ontario to Lake America is something out of  “Saturday Night Live.” Ford said, “There’s countries all over the world that want our\nThe post…",
@@ -23,41 +53,51 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Unexpected ancient complex emerges near biblical city linked to Jonah and St Peter",
-        "description": "A 1,300-year-old industrial complex with pottery kilns, warehouses and shops was unearthed in Ramat Gan near a route linking Jaffa and Jerusalem.",
-        "url": "https://www.foxnews.com/travel/unexpected-ancient-complex-emerges-near-biblical-city-linked-jonah-st-peter",
-        "publishedAt": "2026-08-30T14:00:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Dem Senate hopeful pivots on data centers as rising power costs collide with campaign",
-        "description": "Roy Cooper celebrated data center growth as North Carolina governor, but his Senate campaign now targets their energy use as a rate hike driver.",
-        "url": "https://www.foxnews.com/politics/roy-cooper-changes-tune-data-centers-rising-power-costs-collide-senate-campaign",
-        "publishedAt": "2026-08-30T13:00:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Silicon Valley exec ignites firestorm after accusing JD Vance of bringing DEI back",
-        "description": "Silicon Valley exec Ankit Gupta’s X post describing JD Vance’s push to hire and train Americans as a return of 'DEI' drew sharp rebukes from Trump officials and conservative voices.",
-        "url": "https://www.foxnews.com/politics/silicon-valley-exec-ignites-firestorm-after-accusing-jd-vance-bringing-dei-back",
-        "publishedAt": "2026-08-30T12:00:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Former Iraqi Official Honored by Biden Admin Placed on Terror Watch List, Has Visa Revoked",
+        "description": "A former Iraqi official, who was honored and received an award under the Biden administration, has been placed on the United States government's \"Terror Watchlist\" and had her visa revoked, according to multiple reports.\nThe post Former Iraqi Official Honored…",
+        "url": "https://www.breitbart.com/politics/2026/08/30/former-iraqi-official-honored-by-biden-admin-placed-on-terror-watch-list-has-visa-revoked/",
+        "publishedAt": "2026-08-30T19:44:18Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dolly Parton laid to rest as niece shares emotional tribute to ‘Granny’",
+        "description": "Lainey Mae Parton shared an emotional tribute to her \"Granny\" Dolly Parton, recalling 4 AM calls and singing together on the \"Smoky Mountain DNA\" album.",
+        "url": "https://www.foxnews.com/entertainment/dolly-parton-laid-rest-niece-shares-emotional-tribute-granny",
+        "publishedAt": "2026-08-30T16:57:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "Trump indicates support for Christian-backed plan to help Canadian Jews escape antisemitism",
+        "description": "Trump amplified a plan for expedited legal pathways for Jewish Canadians fleeing antisemitic persecution as Christian lawmakers press his administration.",
+        "url": "https://www.foxnews.com/politics/trump-indicates-support-christian-backed-plan-help-canadian-jews-escape-antisemitism",
+        "publishedAt": "2026-08-30T16:45:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump just brokered a deal with the country sitting atop the world’s largest oil reserves",
+        "description": "President Donald Trump's Venezuela oil deal targets 65 billion barrels across 17 fields, but major infrastructure hurdles stand before pump relief.",
+        "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
+        "publishedAt": "2026-08-30T16:09:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "65"
+      },
       {
         "title": "Alleged Intruder Dead After Being Shot Multiple Times by Homeowner",
         "description": "An alleged intruder is dead after being shot multiple times by a Spartanburg County, South Carolina, homeowner around 2 a.m. Sunday morning.\nThe post Alleged Intruder Dead After Being Shot Multiple Times by Homeowner appeared first on Breitbart.",
@@ -67,46 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "2"
-      },
-      {
-        "title": "Trenton: 11 People Shot at 'Large, Unauthorized Adult Gathering'",
-        "description": "Eleven people were shot Sunday morning during what Trenton, New Jersey, Mayor Reed Gusciora (D) described as a \"large, unauthorized, adult gathering.\"\nThe post Trenton: 11 People Shot at ‘Large, Unauthorized Adult Gathering’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/30/trenton-11-people-shot-at-large-unauthorized-adult-gathering/",
-        "publishedAt": "2026-08-30T14:27:27Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "11"
-      },
-      {
-        "title": "Say His Name: Officer Christopher Delong Killed in Line of Duty",
-        "description": "Columbia, South Carolina, 29-year-old police officer Christopher Delong was shot and killed in the line of duty after responding to a domestic issue Saturday morning around 9:40 a.m.\nThe post Say His Name: Officer Christopher Delong Killed in Line of Duty app…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/30/say-his-name-officer-christopher-delong-killed-in-line-of-duty/",
-        "publishedAt": "2026-08-30T10:09:21Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "29"
-      },
-      {
-        "title": "Modi’s developed-nation dream strains against India’s growth gap",
-        "description": "Viksit Bharat is central to Modi’s third term, but several economists warn that India’s economy may not meet his vision at the current growth rate",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap",
-        "publishedAt": "2026-08-30T03:40:08Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "High School Football Game Stops After Shot Fired",
-        "description": "A high school football game in McKeesport, Pennsylvania, was stopped abruptly after a gunshot rang out Friday night during the fourth quarter.\nThe post High School Football Game Stops After Shot Fired appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/29/high-school-football-game-stops-after-shot-fired/",
-        "publishedAt": "2026-08-30T01:48:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
