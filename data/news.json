@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-08-31T01:38:33.744378+00:00",
+  "generated_at": "2026-08-31T07:38:49.984768+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "HDFC Bank CEO search tests investor confidence, governance",
+        "description": "The new CEO will have to assure investors that the bank’s governance systems are robust, with the focus squarely on growing the business at a time when peers are eager to gain ground",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-29/hdfc-bank-ceo-jagdishan-to-step-down-in-october-in-surprise-move",
+        "publishedAt": "2026-08-30T06:51:24Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Modi’s developed-nation dream strains against India’s growth gap",
+        "description": "Viksit Bharat is central to Modi’s third term, but several economists warn that India’s economy may not meet his vision at the current growth rate",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap",
+        "publishedAt": "2026-08-30T03:40:08Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Top Democrat: Migrant Crime Is a 'Fake Problem'",
+        "description": "Migrant crime is a \"fake problem,\" says Connecticut Democrat Sen. Chris Murphy, a pro-migration leader in the Democrat Party.\nThe post Top Democrat: Migrant Crime Is a ‘Fake Problem’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/08/29/top-democrat-migrant-crime-is-a-fake-problem/",
+        "publishedAt": "2026-08-29T21:03:52Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "How guaranteed income advocates strive to turn cash assistance into policy after COVID-relief funds dried up",
+        "description": "Economic Security Project urges lawmakers to embed guaranteed income into existing TANF, child welfare, and workforce budgets as ARPA funds expire.",
+        "url": "https://www.foxnews.com/media/guaranteed-income-advocates-strive-turn-cash-assistance-policy-covid-relief-funds-dried",
+        "publishedAt": "2026-08-29T21:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump touts access to 65 billion barrels of Venezuelan oil in deal he says will slash gas prices",
+        "description": "The Trump administration is touting the oil deal with Venezuela as a way to lower gasoline prices, which have been elevated since the Iran war broke out.",
+        "url": "https://www.foxnews.com/politics/trump-touts-access-65-billion-barrels-venezuelan-oil-deal-he-says-slash-gas-prices",
+        "publishedAt": "2026-08-29T18:01:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "65"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Modi’s developed-nation dream strains against India’s growth gap",
+        "description": "Viksit Bharat is central to Modi’s third term, but several economists warn that India’s economy may not meet his vision at the current growth rate",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap",
+        "publishedAt": "2026-08-30T03:40:08Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "High School Football Game Stops After Shot Fired",
+        "description": "A high school football game in McKeesport, Pennsylvania, was stopped abruptly after a gunshot rang out Friday night during the fourth quarter.\nThe post High School Football Game Stops After Shot Fired appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/29/high-school-football-game-stops-after-shot-fired/",
+        "publishedAt": "2026-08-30T01:48:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "WATCH: U.S. Military Sinks Boat Allegedly Used as 'Floating Refueling Station' for Drug Traffickers",
+        "description": "The United States military sank a vessel Friday in the Eastern Pacific that was a refueling station for drug traffickers, authorities said.\nThe post WATCH: U.S. Military Sinks Boat Allegedly Used as ‘Floating Refueling Station’ for Drug Traffickers appeared f…",
+        "url": "https://www.breitbart.com/crime/2026/08/29/watch-u-s-military-sinks-boat-allegedly-used-floating-refueling-station-drug-traffickers/",
+        "publishedAt": "2026-08-29T18:59:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump touts access to 65 billion barrels of Venezuelan oil in deal he says will slash gas prices",
+        "description": "The Trump administration is touting the oil deal with Venezuela as a way to lower gasoline prices, which have been elevated since the Iran war broke out.",
+        "url": "https://www.foxnews.com/politics/trump-touts-access-65-billion-barrels-venezuelan-oil-deal-he-says-slash-gas-prices",
+        "publishedAt": "2026-08-29T18:01:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "65"
+      },
+      {
+        "title": "DAVID MARCUS: Woke Virginia tears down statue of Geneva Convention pioneer",
+        "description": "Hunter Holmes McGuire's statue was removed from Richmond capitol grounds despite his role in creating the Winchester Accord.",
+        "url": "https://www.foxnews.com/opinion/david-marcus-woke-virginia-tears-down-statue-geneva-convention-pioneer",
+        "publishedAt": "2026-08-29T16:24:15Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
