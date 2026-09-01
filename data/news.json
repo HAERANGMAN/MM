@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-09-01T21:11:36.436524+00:00",
+  "generated_at": "2026-09-01T23:18:34.654302+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "NIIF eyes Japan, Europe to reach $3.2 billion goal",
-        "description": "NIIF targets $3.2 billion by attracting investors from Japan and Europe, having secured $2 billion in its latest infrastructure fund.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-niif-eyes-japan-europe-capital-for-3-2-billion-fund",
-        "publishedAt": "2026-08-31T09:52:53Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "My family fled the ‘butchers’ in Iran 50 years ago. We can’t give them what they want",
-        "description": "On Tuesday, Aug. 25, Trump announced the U.S. Navy cleared every Iranian mine from the Strait of Hormuz, but the regime's attrition strategy looms.",
-        "url": "https://www.foxnews.com/opinion/family-fled-butchers-iran-50-years-ago-cant-give-them-what-they-want",
-        "publishedAt": "2026-08-31T09:00:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "50"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -30,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
