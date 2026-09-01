@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-09-01T10:24:55.891265+00:00",
+  "generated_at": "2026-09-01T15:03:53.344110+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "NIIF eyes Japan, Europe to reach $3.2 billion goal",
+        "description": "NIIF targets $3.2 billion by attracting investors from Japan and Europe, having secured $2 billion in its latest infrastructure fund.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-niif-eyes-japan-europe-capital-for-3-2-billion-fund",
+        "publishedAt": "2026-08-31T09:52:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "My family fled the ‘butchers’ in Iran 50 years ago. We can’t give them what they want",
+        "description": "On Tuesday, Aug. 25, Trump announced the U.S. Navy cleared every Iranian mine from the Strait of Hormuz, but the regime's attrition strategy looms.",
+        "url": "https://www.foxnews.com/opinion/family-fled-butchers-iran-50-years-ago-cant-give-them-what-they-want",
+        "publishedAt": "2026-08-31T09:00:33Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "50"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Delcy Rodriguez Thanks Trump for U.S. Oil Deal: Venezuela Will Become 'an Oil-Producing Power'",
+        "description": "\"Acting President\" of Venezuela Delcy Rodríguez on Sunday thanked President Donald Trump and U.S. Secretary of State Marco Rubio for facilitating a new historic oil deal between the countries.\nThe post Delcy Rodriguez Thanks Trump for U.S. Oil Deal: Venezuela…",
+        "url": "https://www.breitbart.com/latin-america/2026/08/31/delcy-rodriguez-thanks-trump-for-u-s-oil-deal-venezuela-will-become-an-oil-producing-power/",
+        "publishedAt": "2026-08-31T14:50:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "WATCH LIVE: White House anti-fraud task force announces crackdown on trucking industry | Fox News Video",
+        "description": "Transportation Secretary Sean Duffy, DHS Secretary Markwayne Mullin, and anti-fraud task force vice chair Andrew Ferguson hold a news conference in Detroit.",
+        "url": "https://www.foxnews.com/video/6404364599112",
+        "publishedAt": "2026-08-31T14:33:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The Scottie vs Tiger comparison, Michael Block's party gets shut down, and a final word on YouTube golf drama",
+        "description": "Scottie Scheffler's Tour Championship win gives him 18 victories in three seasons, matching Tiger Woods at the same age in a striking comparison.",
+        "url": "https://www.foxnews.com/outkick-sports/scottie-vs-tiger-comparison-michael-block-party-shut-down-final-word-youtube-golf-drama",
+        "publishedAt": "2026-08-31T14:27:04Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "Scott Bessent Emphasizes Back to Basics, Iran Sanctions at G20 Finance Opening",
+        "description": "U.S. Treasury Secretary Scott Bessent told reporters the G20 was getting back to basics ahead of a full day of meetings at the G20 Finance Minsters meeting in Asheville, NC taking place Monday and Tuesday.\nThe post Scott Bessent Emphasizes Back to Basics, Ira…",
+        "url": "https://www.breitbart.com/politics/2026/08/31/scott-bessent-emphasizes-back-to-basics-iran-sanctions-at-g20-finance-opening/",
+        "publishedAt": "2026-08-31T14:19:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "20"
+      },
+      {
+        "title": "Trump Declares Iran a 'Failed Nation': 'Leadership Is In Total Disarray'",
+        "description": "President Donald Trump declared Iran to be a \"Failed Nation\" and continued to criticize Iranian leadership for being \"in total disarray\" and being \"incapable\" of representing Iranian citizens.\nThe post Trump Declares Iran a ‘Failed Nation’: ‘Leadership Is In …",
+        "url": "https://www.breitbart.com/politics/2026/08/31/trump-declares-iran-a-failed-nation-leadership-is-in-total-disarray/",
+        "publishedAt": "2026-08-31T13:56:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "NRA Secures Ruling Against New Mexico's Gun Purchase Waiting Period",
+        "description": "The National Rifle Association (NRA) secured a victory Thursday when U.S. District Court Judge James O. Browning handed down a ruling against New Mexico's seven-day waiting period for gun purchases.\nThe post NRA Secures Ruling Against New Mexico’s Gun Purchas…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/08/31/nra-secures-ruling-against-new-mexicos-gun-purchase-waiting-period/",
+        "publishedAt": "2026-08-31T14:27:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Scott Bessent Emphasizes Back to Basics, Iran Sanctions at G20 Finance Opening",
+        "description": "U.S. Treasury Secretary Scott Bessent told reporters the G20 was getting back to basics ahead of a full day of meetings at the G20 Finance Minsters meeting in Asheville, NC taking place Monday and Tuesday.\nThe post Scott Bessent Emphasizes Back to Basics, Ira…",
+        "url": "https://www.breitbart.com/politics/2026/08/31/scott-bessent-emphasizes-back-to-basics-iran-sanctions-at-g20-finance-opening/",
+        "publishedAt": "2026-08-31T14:19:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "20"
+      },
+      {
+        "title": "Dawn Buckingham: The 'Texas Engine' -- Fueling, Feeding, and Fortifying America",
+        "description": "Every American depends on three things that are so fundamental they often go unnoticed until they are threatened: dependable energy, a secure food supply, and a safe nation.\nThe post Dawn Buckingham: The ‘Texas Engine’ — Fueling, Feeding, and Fortifying Ameri…",
+        "url": "https://www.breitbart.com/border/2026/08/31/op-ed-dawn-buckingham-the-texas-engine-fueling-feeding-and-fortifying-america/",
+        "publishedAt": "2026-08-31T12:24:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "NIIF eyes Japan, Europe to reach $3.2 billion goal",
+        "description": "NIIF targets $3.2 billion by attracting investors from Japan and Europe, having secured $2 billion in its latest infrastructure fund.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-niif-eyes-japan-europe-capital-for-3-2-billion-fund",
+        "publishedAt": "2026-08-31T09:52:53Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "The data center fight could decide the next president and cost America the AI race",
+        "description": "Rising electric bills and data center construction spark bipartisan pushback from governors, but restricting AI infrastructure could cost America its lead.",
+        "url": "https://www.foxnews.com/opinion/data-center-fight-could-decide-next-president-cost-america-ai-race",
+        "publishedAt": "2026-08-31T09:00:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
