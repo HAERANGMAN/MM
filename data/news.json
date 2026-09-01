@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:24:49.264197+00:00",
+  "generated_at": "2026-09-01T21:11:36.436524+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -24,113 +24,17 @@
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "‘Backwards and poor’: Trump issues dire warning to communities blocking critical technology",
-        "description": "President Donald Trump warned communities rejecting data centers risk becoming \"backwards and poor\" as states battle over AI boom energy and water costs.",
-        "url": "https://www.foxnews.com/politics/backwards-poor-trump-issues-dire-warning-communities-blocking-critical-technology",
-        "publishedAt": "2026-08-31T18:21:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Tennessee Football to Honor Dolly Parton with Helmet Sticker in 2026",
-        "description": "The Tennessee Volunteers will honor the late, great country music and native Tennessean Dolly Parton with a special helmet decal throughout the 2026 season.\nThe post Tennessee Football to Honor Dolly Parton with Helmet Sticker in 2026 appeared first on Breitb…",
-        "url": "https://www.breitbart.com/sports/2026/08/31/tennessee-football-to-honor-dolly-parton-with-helmet-sticker-in-2026/",
-        "publishedAt": "2026-08-31T17:46:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Fed Chair Warsh Declares Secular Stagnation Dead",
-        "description": "Fed chairman Kevin Warsh on Monday said the world had entered into an era of secular growth and was witnessing a global investment surge. Speaking at the opening session of a meeting of finance ministers of leading economies from around\nThe post Fed Chair War…",
-        "url": "https://www.breitbart.com/economy/2026/08/31/warsh-death-of-secular-history/",
-        "publishedAt": "2026-08-31T17:19:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "EXCLUSIVE: Land Commissioner Buckingham Unveils ‘Texas Engine’ Plan to Secure State’s Energy, Water, Border",
-        "description": "On Monday, Texas General Land Office Commissioner Dawn Buckingham unveiled a sweeping, multi-front initiative aimed at cementing the state’s economic independence, fortifying its energy grid against growing demands, and expanding state-led border security ope…",
-        "url": "https://www.breitbart.com/border/2026/08/31/exclusive-land-commissioner-buckingham-unveils-texas-engine-plan-to-secure-states-energy-water-border/",
-        "publishedAt": "2026-08-31T16:08:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China’s factory rebound masks growth risks for domestic economy",
-        "description": "The official manufacturing purchasing managers’ index rose to 49.8, the second straight month it’s been below the 50 threshold separating growth from contraction",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
-        "publishedAt": "2026-08-31T15:27:58Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "49.8"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "‘Backwards and poor’: Trump issues dire warning to communities blocking critical technology",
-        "description": "President Donald Trump warned communities rejecting data centers risk becoming \"backwards and poor\" as states battle over AI boom energy and water costs.",
-        "url": "https://www.foxnews.com/politics/backwards-poor-trump-issues-dire-warning-communities-blocking-critical-technology",
-        "publishedAt": "2026-08-31T18:21:31Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Modi calls on Putin to end Russia-Ukraine war at SCO summit",
-        "description": "Prime Minister Narendra Modi met Vladimir Putin in Bishkek, while India continued to balance its longstanding ties with Russia, Iran and the US",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-31/modi-meets-iran-s-president-with-putin-talks-to-follow-at-sco",
-        "publishedAt": "2026-08-31T17:53:11Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Over 100 Girls Under 12 Identified as Likely Forced Marriage Victims in Britain",
-        "description": "British government data has revealed that at least 100 children under the age of twelve have been identified over five years as likely to have been subjected to a forced marriage, which opponents have tied to mass migration.\nThe post Over 100 Girls Under 12 I…",
-        "url": "https://www.breitbart.com/europe/2026/08/31/over-100-girls-under-12-identified-as-likely-forced-marriage-victims-in-britain/",
-        "publishedAt": "2026-08-31T17:46:35Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "100"
-      },
-      {
-        "title": "Fed Chair Warsh Declares Secular Stagnation Dead",
-        "description": "Fed chairman Kevin Warsh on Monday said the world had entered into an era of secular growth and was witnessing a global investment surge. Speaking at the opening session of a meeting of finance ministers of leading economies from around\nThe post Fed Chair War…",
-        "url": "https://www.breitbart.com/economy/2026/08/31/warsh-death-of-secular-history/",
-        "publishedAt": "2026-08-31T17:19:15Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Xi Jinping, Putin, and Modi Show Support for Iran in Meetings with President Masoud Pezeshkian",
-        "description": "Iranian President Masoud Pezeshkian, who is subordinate to missing \"supreme leader\" Mojtaba Khamenei, left Tehran on Monday to participate in a regional summit in which he is expected to meet with the dictators of allied China and Russia, as well as Prime Min…",
-        "url": "https://www.breitbart.com/middle-east/2026/08/31/xi-jinping-putin-and-modi-show-support-for-iran-in-meetings-with-president-masoud-pezeshkian/",
-        "publishedAt": "2026-08-31T16:23:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
