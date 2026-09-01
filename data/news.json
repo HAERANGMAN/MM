@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-08-31T20:59:11.495736+00:00",
+  "generated_at": "2026-09-01T00:32:09.813175+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "DC public schools face special grand jury probe into attendance, truancy and graduation records",
-        "description": "A special grand jury is probing D.C. public schools over truancy, graduation rates and how attendance records are documented across campuses.",
-        "url": "https://www.foxnews.com/politics/dc-public-schools-face-special-grand-jury-probe-attendance-truancy-graduation-records",
-        "publishedAt": "2026-08-30T19:11:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kofi and Austin Creed debut in AEW, join Swerve Strickland as trios champions at All In",
-        "description": "Kofi and Austin Creed debuted as The New Level at AEW All In, teaming with Swerve Strickland to capture the Trios Championship title.",
-        "url": "https://www.foxnews.com/outkick-sports/kofi-austin-creed-debut-aew-join-swerve-strickland-trios-champions-all-in",
-        "publishedAt": "2026-08-30T17:41:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump just brokered a deal with the country sitting atop the world’s largest oil reserves",
-        "description": "President Donald Trump's Venezuela oil deal targets 65 billion barrels across 17 fields, but major infrastructure hurdles stand before pump relief.",
-        "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
-        "publishedAt": "2026-08-30T16:09:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "65"
-      },
-      {
-        "title": "Ontario Premier Ford: Trump Renaming Lake Ontario 'Something Out of Saturday Night Live'",
-        "description": "Sunday on ABC’s “This Week,” Ontario Premier Doug Ford said that President Donald Trump’s executive order renaming Lake Ontario to Lake America is something out of  “Saturday Night Live.” Ford said, “There’s countries all over the world that want our\nThe post…",
-        "url": "https://www.breitbart.com/clips/2026/08/30/ontario-premier-ford-trump-renaming-lake-ontario-something-out-of-saturday-night-live/",
-        "publishedAt": "2026-08-30T15:14:26Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Horrifying Food Safety Violations by Illegal Street Vendors in L.A.",
-        "description": "The widespread proliferation of unregulated street food vendors -- largely run by illegal migrants -- is not only hitting parts of Los Angeles with third-world-like blight, city and county leaders have officially decided to do nothing.",
-        "url": "https://www.breitbart.com/health/2026/08/30/33585072report-officials-fielded-thousands-of-food-safety-violations-by-illegal-street-vendors-but-now-do-nothing/",
-        "publishedAt": "2026-08-30T14:40:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Former Iraqi Official Honored by Biden Admin Placed on Terror Watch List, Has Visa Revoked",
-        "description": "A former Iraqi official, who was honored and received an award under the Biden administration, has been placed on the United States government's \"Terror Watchlist\" and had her visa revoked, according to multiple reports.\nThe post Former Iraqi Official Honored…",
-        "url": "https://www.breitbart.com/politics/2026/08/30/former-iraqi-official-honored-by-biden-admin-placed-on-terror-watch-list-has-visa-revoked/",
-        "publishedAt": "2026-08-30T19:44:18Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Dolly Parton laid to rest as niece shares emotional tribute to ‘Granny’",
-        "description": "Lainey Mae Parton shared an emotional tribute to her \"Granny\" Dolly Parton, recalling 4 AM calls and singing together on the \"Smoky Mountain DNA\" album.",
-        "url": "https://www.foxnews.com/entertainment/dolly-parton-laid-rest-niece-shares-emotional-tribute-granny",
-        "publishedAt": "2026-08-30T16:57:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Trump indicates support for Christian-backed plan to help Canadian Jews escape antisemitism",
-        "description": "Trump amplified a plan for expedited legal pathways for Jewish Canadians fleeing antisemitic persecution as Christian lawmakers press his administration.",
-        "url": "https://www.foxnews.com/politics/trump-indicates-support-christian-backed-plan-help-canadian-jews-escape-antisemitism",
-        "publishedAt": "2026-08-30T16:45:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump just brokered a deal with the country sitting atop the world’s largest oil reserves",
-        "description": "President Donald Trump's Venezuela oil deal targets 65 billion barrels across 17 fields, but major infrastructure hurdles stand before pump relief.",
-        "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
-        "publishedAt": "2026-08-30T16:09:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "65"
-      },
-      {
-        "title": "Alleged Intruder Dead After Being Shot Multiple Times by Homeowner",
-        "description": "An alleged intruder is dead after being shot multiple times by a Spartanburg County, South Carolina, homeowner around 2 a.m. Sunday morning.\nThe post Alleged Intruder Dead After Being Shot Multiple Times by Homeowner appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/08/30/alleged-intruder-dead-after-being-shot-multiple-times-by-homeowner/",
-        "publishedAt": "2026-08-30T15:08:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
