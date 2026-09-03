@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-09-02T22:48:10.319933+00:00",
+  "generated_at": "2026-09-03T00:45:33.851634+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Breitbart Business Digest: Wendell Berry and the Roots of Economic Nationalism",
-        "description": "President Trump is not the sort of political leader who goes in for poets laureate. But if the movement to make America great again had one, it would be Wendell Berry, the sage of Port Royal, Kentucky.\nThe post Breitbart Business Digest: Wendell Berry and the…",
-        "url": "https://www.breitbart.com/economy/2026/09/01/breitbart-business-digest-wendell-berry-and-the-roots-of-economic-nationalism/",
-        "publishedAt": "2026-09-01T22:29:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Expert Memo Details ‘Socialist Threat’ to American Energy Dominance",
-        "description": "The policies of the Democratic Socialists of America (DSA) pose a threat to the United States' energy dominance, warns an expert memo provided to Breitbart News by the Republican lobbying and public affairs firm CGCN Group.\nThe post Exclusive — Expert Memo De…",
-        "url": "https://www.breitbart.com/politics/2026/09/01/exclusive-expert-memo-details-socialist-threat-to-american-energy-dominance/",
-        "publishedAt": "2026-09-01T21:46:07Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Houston mayor says his city is a better location than Austin for an NHL expansion franchise",
-        "description": "Mayor John Whitmire says Houston beats Austin for NHL expansion after the league added the Vegas Golden Knights, Seattle Kraken and Utah Mammoth.",
-        "url": "https://www.foxnews.com/outkick-sports/houston-mayor-says-city-better-location-austin-nhl-expansion-franchise",
-        "publishedAt": "2026-09-01T21:08:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive – OH GOP Candidate Eric Conroy: MAGA Has Helped Ohio 'Tremendously'",
-        "description": "The Make America Great Again movement has helped Ohio \"tremendously,\" Republican congressional candidate Eric Conroy said during an appearance on Breitbart News Daily.\nThe post Exclusive – OH GOP Candidate Eric Conroy: MAGA Has Helped Ohio ‘Tremendously’ appe…",
-        "url": "https://www.breitbart.com/radio/2026/09/01/exclusive-oh-gop-candidate-eric-conroy-maga-has-helped-ohio-tremendously/",
-        "publishedAt": "2026-09-01T20:36:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jamie Dimon Backs Treasury Push Including Private Sector at G20",
-        "description": "JP Morgan Chase CEO Jamie Dimon touted the inclusion of private sector leaders at the G20 Finance Ministers meeting in Asheville, North Carolina, supporting the focus of economic growth by Treasury Secretary Scott Bessent at the event.\nThe post Jamie Dimon Ba…",
-        "url": "https://www.breitbart.com/economy/2026/09/01/jamie-dimon-backs-treasury-push-including-private-sector-at-g20/",
-        "publishedAt": "2026-09-01T20:22:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Breitbart Business Digest: Wendell Berry and the Roots of Economic Nationalism",
-        "description": "President Trump is not the sort of political leader who goes in for poets laureate. But if the movement to make America great again had one, it would be Wendell Berry, the sage of Port Royal, Kentucky.\nThe post Breitbart Business Digest: Wendell Berry and the…",
-        "url": "https://www.breitbart.com/economy/2026/09/01/breitbart-business-digest-wendell-berry-and-the-roots-of-economic-nationalism/",
-        "publishedAt": "2026-09-01T22:29:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Armed Customer Fatally Shoots Alleged Bank Robber",
-        "description": "An armed customer in Cedar Hill, Texas, shot and killed an alleged bank robber Monday morning in a Chase branch around 9:00 a.m.\nThe post Armed Customer Fatally Shoots Alleged Bank Robber appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/01/armed-customer-fatally-shoots-alleged-bank-robber/",
-        "publishedAt": "2026-09-01T21:49:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Two Oil Tankers Simultaneously Attacked in Strait of Hormuz",
-        "description": "Ship tracking firms reported that two supertankers carrying crude oil from Saudi Arabia were attacked in the Strait of Hormuz on Monday night.\nThe post Two Oil Tankers Simultaneously Attacked in Strait of Hormuz appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/middle-east/2026/09/01/two-oil-tankers-simultaneously-attacked-in-strait-of-hormuz/",
-        "publishedAt": "2026-09-01T19:38:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Xi Jinping Gives Iran President Cold Reception at Shanghai Cooperation Org Summit",
-        "description": "Iranian President Masoud Pezeshkian, who is subservient to missing \"supreme leader\" Mojtaba Khamenei, held an expected, but apparently brief, meeting with Chinese dictator Xi Jinping on Tuesday, one that state media coverage suggests Xi had little interest in…",
-        "url": "https://www.breitbart.com/asia/2026/09/01/xi-jinping-gives-iran-president-cold-reception-at-shanghai-cooperation-org-summit/",
-        "publishedAt": "2026-09-01T17:57:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Larry Kudlow and Scott Bessent: We Are in An Economic Boom Not Seen in Decades",
-        "description": "Fox Business host Larry Kudlow hosted a fireside chat with Treasury Secretary Scott Bessent on day two of the G20 Finance Ministers meeting in Asheville, North Carolina on Tuesday. Kudlow led off with an extended riff about how the main story should be econom…",
-        "url": "https://www.breitbart.com/politics/2026/09/01/larry-kudlow-and-scott-bessent-we-are-in-an-economic-boom-not-seen-in-decades/",
-        "publishedAt": "2026-09-01T17:19:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
