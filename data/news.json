@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:44:59.044846+00:00",
+  "generated_at": "2026-09-04T09:06:04.809330+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -36,52 +36,52 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Rory McIlroy admits he's not interested in playing most PGA Tour events moving forward",
-        "description": "Rory McIlroy admitted at the Tour Championship that his playing schedule is shrinking, saying his fuse is shorter after 18 years as a professional.",
-        "url": "https://www.foxnews.com/outkick-sports/rory-mcilroy-admits-not-interested-playing-most-pga-tour-events-moving-forward",
-        "publishedAt": "2026-09-03T02:05:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "18"
-      },
-      {
-        "title": "Trump: Iran Regime ‘Getting Weaker and Weaker by the Day’ — ‘I Don’t Know How Much More They Can Take’",
-        "description": "President Donald Trump said Wednesday that Iran’s regime is “getting weaker and weaker by the day” and suggested Tehran may be nearing the limits of what it can withstand under mounting U.S. pressure, one day after calling on Iranians to “rise up and fight.”\n…",
-        "url": "https://www.breitbart.com/politics/2026/09/02/trump-iran-regime-getting-weaker-weaker-bythe-day/",
-        "publishedAt": "2026-09-03T01:07:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "GOP Rep. Pfluger: 'A Lot of Questions' Still Remain on Venezuelan Oil Deal",
-        "description": "On Wednesday’s broadcast of the Fox Business Network’s “Mornings with Maria,” Rep. August Pfluger (R-TX) said that he has questions about the security logistics with the Venezuelan oil deal, he doesn’t want to see domestic energy producers undercut by the\nThe…",
-        "url": "https://www.breitbart.com/clips/2026/09/02/gop-rep-pfluger-a-lot-of-questions-still-remain-on-venezuelan-oil-deal/",
-        "publishedAt": "2026-09-03T00:45:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The primary is over now come the primetime mistakes",
-        "description": "Not every candidate is Deion Sanders at Primetime — Abdul El-Sayed and Darline Graham face questions about whether they're ready for the Senate.",
-        "url": "https://www.foxnews.com/politics/primary-over-now-come-primetime-mistakes",
-        "publishedAt": "2026-09-03T00:39:05Z",
+        "title": "Johnson downplays GOP's midterm woes as Democrats eye House takeover: 'I am very bullish'",
+        "description": "With Election Day two months away, Democrats eye Senate and House majorities as inflation, gas prices, and Trump's approval ratings batter the GOP.",
+        "url": "https://www.foxnews.com/politics/johnson-downplays-gops-midterm-woes-democrats-eye-house-takeover",
+        "publishedAt": "2026-09-03T09:00:45Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Victor Davis Hanson: President Trump Is A Counterrevolutionary",
-        "description": "Hoover Institution senior fellow Victor Davis Hanson reflects on how President Donald Trump was able to return to the political spotlight on ‘Life, Liberty & Levin.’",
-        "url": "https://www.foxnews.com/video/6404515530112",
-        "publishedAt": "2026-09-03T00:00:00Z",
+        "title": "MORNING GLORY: 'Blue Blight' is spreading fast and only voters can stop it",
+        "description": "Manufacturing jobs, gas prices, and college enrollment are declining in blue states as \"blue blight\" spreads, reshaping where students choose to live.",
+        "url": "https://www.foxnews.com/opinion/morning-glory-blue-blight-spreading-fast-only-voters-can-stop-it",
+        "publishedAt": "2026-09-03T09:00:38Z",
         "source": {
           "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The cure for socialism is giving more Americans a stake in capitalism",
+        "description": "Socialism is gaining ground because fewer Americans are homeowners and stockholders, creating a perfect opening for DSA leaders like Zohran Mamdani.",
+        "url": "https://www.foxnews.com/opinion/cure-socialism-giving-more-americans-stake-capitalism",
+        "publishedAt": "2026-09-03T09:00:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pessimists say the economy is weak. The good news is, they are wrong",
+        "description": "Trump tax reforms sparked $296 billion in IRS refunds along with new deductions for qualified tips and overtime pay rewarding working Americans.",
+        "url": "https://www.foxnews.com/opinion/pessimists-say-economy-weak-good-news-wrong",
+        "publishedAt": "2026-09-03T09:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "HDFC Bank is losing ground as Nifty’s top stock while ICICI Bank gains",
+        "description": "HDFC Bank risks losing its top Nifty position to ICICI as share value declines amid leadership uncertainty and governance issues.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/hdfc-bank-is-at-risk-of-losing-its-top-nifty-spot-to-rival-icici",
+        "publishedAt": "2026-09-03T04:55:36Z",
+        "source": {
+          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       }
