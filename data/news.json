@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:06:04.809330+00:00",
+  "generated_at": "2026-09-04T13:28:27.923085+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -11,157 +11,20 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "China has found a new illicit drug market. America must shut it down",
-        "description": "Chinese chemical manufacturers linked to fentanyl precursors are now shipping unapproved retatrutide peptides into U.S. homes via customs fraud.",
-        "url": "https://www.foxnews.com/opinion/china-found-new-illicit-drug-market-america-must-shut-down",
-        "publishedAt": "2026-09-02T11:59:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "EU's Top Diplomat Accuses Russia of 'State Sponsored Terrorism'",
-        "description": "The European Union's top diplomat said Wednesday that an attempted attack on a German airport blamed on Russia appears to be \"state sponsored terrorism,\" as EU countries weighed their response.\nThe post EU’s Top Diplomat Accuses Russia of ‘State Sponsored Ter…",
-        "url": "https://www.breitbart.com/europe/2026/09/02/eus-top-diplomat-accuses-russia-of-state-sponsored-terrorism/",
-        "publishedAt": "2026-09-02T10:30:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Johnson downplays GOP's midterm woes as Democrats eye House takeover: 'I am very bullish'",
-        "description": "With Election Day two months away, Democrats eye Senate and House majorities as inflation, gas prices, and Trump's approval ratings batter the GOP.",
-        "url": "https://www.foxnews.com/politics/johnson-downplays-gops-midterm-woes-democrats-eye-house-takeover",
-        "publishedAt": "2026-09-03T09:00:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "MORNING GLORY: 'Blue Blight' is spreading fast and only voters can stop it",
-        "description": "Manufacturing jobs, gas prices, and college enrollment are declining in blue states as \"blue blight\" spreads, reshaping where students choose to live.",
-        "url": "https://www.foxnews.com/opinion/morning-glory-blue-blight-spreading-fast-only-voters-can-stop-it",
-        "publishedAt": "2026-09-03T09:00:38Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "The cure for socialism is giving more Americans a stake in capitalism",
-        "description": "Socialism is gaining ground because fewer Americans are homeowners and stockholders, creating a perfect opening for DSA leaders like Zohran Mamdani.",
-        "url": "https://www.foxnews.com/opinion/cure-socialism-giving-more-americans-stake-capitalism",
-        "publishedAt": "2026-09-03T09:00:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pessimists say the economy is weak. The good news is, they are wrong",
-        "description": "Trump tax reforms sparked $296 billion in IRS refunds along with new deductions for qualified tips and overtime pay rewarding working Americans.",
-        "url": "https://www.foxnews.com/opinion/pessimists-say-economy-weak-good-news-wrong",
-        "publishedAt": "2026-09-03T09:00:16Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "HDFC Bank is losing ground as Nifty’s top stock while ICICI Bank gains",
-        "description": "HDFC Bank risks losing its top Nifty position to ICICI as share value declines amid leadership uncertainty and governance issues.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-03/hdfc-bank-is-at-risk-of-losing-its-top-nifty-spot-to-rival-icici",
-        "publishedAt": "2026-09-03T04:55:36Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime",
-        "description": "Vladimir Putin declared full solidarity with Iran as an expert said both nations \"need each other desperately\" during the escalating U.S.-Iran conflict.",
-        "url": "https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime",
-        "publishedAt": "2026-09-02T17:44:53Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "China has found a new illicit drug market. America must shut it down",
-        "description": "Chinese chemical manufacturers linked to fentanyl precursors are now shipping unapproved retatrutide peptides into U.S. homes via customs fraud.",
-        "url": "https://www.foxnews.com/opinion/china-found-new-illicit-drug-market-america-must-shut-down",
-        "publishedAt": "2026-09-02T11:59:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Trump: Iran Regime ‘Getting Weaker and Weaker by the Day’ — ‘I Don’t Know How Much More They Can Take’",
-        "description": "President Donald Trump said Wednesday that Iran’s regime is “getting weaker and weaker by the day” and suggested Tehran may be nearing the limits of what it can withstand under mounting U.S. pressure, one day after calling on Iranians to “rise up and fight.”\n…",
-        "url": "https://www.breitbart.com/politics/2026/09/02/trump-iran-regime-getting-weaker-weaker-bythe-day/",
-        "publishedAt": "2026-09-03T01:07:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Minneapolis: At Least Six People Shot, Including Two Officers",
-        "description": "At least six people, including two police officers, were shot in downtown Minneapolis Wednesday around 4:50 p.m. local time.\nThe post Minneapolis: At Least Six People Shot, Including Two Officers appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/02/minneapolis-at-least-six-people-shot-including-two-officers/",
-        "publishedAt": "2026-09-02T23:34:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Rogan shreds supporters of Lindsay Clancy, says they wouldn't rally if a father were on trial for same crime",
-        "description": "Joe Rogan blasted Lindsay Clancy's supporters on social media, questioning why women rallied behind a mother on trial for triple murder of her kids.",
-        "url": "https://www.foxnews.com/media/rogan-shreds-supporters-lindsay-clancy-says-they-wouldnt-rally-father-trial-same-crime",
-        "publishedAt": "2026-09-02T22:32:37Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Elon Musk's G20 Prediction: 1 Billion Humanoid Robots Will Outproduce All of Humanity in 10 Years",
-        "description": "Elon Musk addressed a virtual session of the G20 yesterday, laying out predictions on AI, humanoid robots and regulation. According to Musk, within 10 years, 1 billion humanoid robots will outproduce all of humanity.\nThe post Elon Musk’s G20 Prediction: 1 Bil…",
-        "url": "https://www.breitbart.com/tech/2026/09/02/elon-musk-predicts-1-billion-humanoid-robots-will-outproduce-all-of-humanity-in-10-years/",
-        "publishedAt": "2026-09-02T17:47:58Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "20"
-      },
-      {
-        "title": "Bill Clinton Parties with Alex Soros and Fundraises Off 80th Birthday",
-        "description": "Former President Bill Clinton spent his eightieth birthday weekend at the estate of Alex Soros and Huma Abedin.\nThe post Bill Clinton Parties with Alex Soros and Fundraises Off 80th Birthday appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/09/02/bill-clinton-parties-alex-soros-fundraises-off-80th-birthday/",
-        "publishedAt": "2026-09-02T16:40:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "80"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
