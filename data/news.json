@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:19:30.207066+00:00",
+  "generated_at": "2026-09-04T04:44:59.044846+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -36,52 +36,52 @@
     "news-thai-econ": [],
     "news-global-econ": [
       {
+        "title": "Rory McIlroy admits he's not interested in playing most PGA Tour events moving forward",
+        "description": "Rory McIlroy admitted at the Tour Championship that his playing schedule is shrinking, saying his fuse is shorter after 18 years as a professional.",
+        "url": "https://www.foxnews.com/outkick-sports/rory-mcilroy-admits-not-interested-playing-most-pga-tour-events-moving-forward",
+        "publishedAt": "2026-09-03T02:05:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "18"
+      },
+      {
+        "title": "Trump: Iran Regime ‘Getting Weaker and Weaker by the Day’ — ‘I Don’t Know How Much More They Can Take’",
+        "description": "President Donald Trump said Wednesday that Iran’s regime is “getting weaker and weaker by the day” and suggested Tehran may be nearing the limits of what it can withstand under mounting U.S. pressure, one day after calling on Iranians to “rise up and fight.”\n…",
+        "url": "https://www.breitbart.com/politics/2026/09/02/trump-iran-regime-getting-weaker-weaker-bythe-day/",
+        "publishedAt": "2026-09-03T01:07:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP Rep. Pfluger: 'A Lot of Questions' Still Remain on Venezuelan Oil Deal",
+        "description": "On Wednesday’s broadcast of the Fox Business Network’s “Mornings with Maria,” Rep. August Pfluger (R-TX) said that he has questions about the security logistics with the Venezuelan oil deal, he doesn’t want to see domestic energy producers undercut by the\nThe…",
+        "url": "https://www.breitbart.com/clips/2026/09/02/gop-rep-pfluger-a-lot-of-questions-still-remain-on-venezuelan-oil-deal/",
+        "publishedAt": "2026-09-03T00:45:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The primary is over now come the primetime mistakes",
+        "description": "Not every candidate is Deion Sanders at Primetime — Abdul El-Sayed and Darline Graham face questions about whether they're ready for the Senate.",
+        "url": "https://www.foxnews.com/politics/primary-over-now-come-primetime-mistakes",
+        "publishedAt": "2026-09-03T00:39:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Victor Davis Hanson: President Trump Is A Counterrevolutionary",
         "description": "Hoover Institution senior fellow Victor Davis Hanson reflects on how President Donald Trump was able to return to the political spotlight on ‘Life, Liberty & Levin.’",
         "url": "https://www.foxnews.com/video/6404515530112",
         "publishedAt": "2026-09-03T00:00:00Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive – Rep. Gabe Evans: Denver Stands as Example of what Democrat Policies Will Do to a City",
-        "description": "Denver, Colorado, is an example of what Democrat policies will do to a city, Rep. Gabe Evans (R-CO) in Colorado's 8th Congressional District explained during an appearance on Breitbart News Daily.\nThe post Exclusive – Rep. Gabe Evans: Denver Stands as Example…",
-        "url": "https://www.breitbart.com/radio/2026/09/02/exclusive-rep-gabe-evans-denver-stands-as-example-of-what-democrat-policies-will-do-to-a-city/",
-        "publishedAt": "2026-09-02T23:39:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Breitbart Business Digest: The Trump Manufacturing Boom Gets Even Stronger",
-        "description": "Manufacturing is surging thanks to the Trump administration's potent economic cocktail of expansionary tax cuts, regulatory rollbacks, and a pro-manufacturing trade policy enabled by tariffs.\nThe post Breitbart Business Digest: The Trump Manufacturing Boom Ge…",
-        "url": "https://www.breitbart.com/economy/2026/09/02/breitbart-business-digest-the-trump-manufacturing-boom-gets-even-stronger/",
-        "publishedAt": "2026-09-02T23:29:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stan Kroenke's record-setting LA Angels purchase should make longterm MLB lockout less likely",
-        "description": "Stan Kroenke's record $4 billion purchase of the Los Angeles Angels undermines Major League Baseball owners' claims about struggling businesses.",
-        "url": "https://www.foxnews.com/outkick-sports/stan-kroenke-record-setting-la-angels-purchase-should-make-longterm-mlb-lockout-less-likely",
-        "publishedAt": "2026-09-02T22:15:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Fetterman: Trump's Right on Data Centers, Gov. Shapiro 'Scared by the Polls'",
-        "description": "On Wednesday’s broadcast of CNN’s “The Arena,” Sen. John Fetterman (D-PA) said that he sides with President Doanld Trump’s stance on data centers over Pennsylvania Gov. Josh Shapiro’s (D) and Shapiro is “actually scared by the polls.” Host Kasie Hunt\nThe post…",
-        "url": "https://www.breitbart.com/clips/2026/09/02/fetterman-trumps-right-on-data-centers-gov-shapiro-scared-by-the-polls/",
-        "publishedAt": "2026-09-02T21:49:40Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
@@ -110,6 +110,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump: Iran Regime ‘Getting Weaker and Weaker by the Day’ — ‘I Don’t Know How Much More They Can Take’",
+        "description": "President Donald Trump said Wednesday that Iran’s regime is “getting weaker and weaker by the day” and suggested Tehran may be nearing the limits of what it can withstand under mounting U.S. pressure, one day after calling on Iranians to “rise up and fight.”\n…",
+        "url": "https://www.breitbart.com/politics/2026/09/02/trump-iran-regime-getting-weaker-weaker-bythe-day/",
+        "publishedAt": "2026-09-03T01:07:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Minneapolis: At Least Six People Shot, Including Two Officers",
         "description": "At least six people, including two police officers, were shot in downtown Minneapolis Wednesday around 4:50 p.m. local time.\nThe post Minneapolis: At Least Six People Shot, Including Two Officers appeared first on Breitbart.",
@@ -149,16 +159,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "80"
-      },
-      {
-        "title": "Report: Alabama Man Claims Self-Defense in Shooting of 18-Year-Old Cheerleader",
-        "description": "Steven Tyler Whitehead is claiming self-defense in the October 19, 2025, shooting death of 18-year-old Kimber Mills at a bonfire party in Alabama.\nThe post Report: Alabama Man Claims Self-Defense in Shooting of 18-Year-Old Cheerleader appeared first on Breitb…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/02/man-claims-self-defense-in-shooting-of-18-year-old-cheerleader/",
-        "publishedAt": "2026-09-02T16:24:31Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "18"
       }
     ]
   },
