@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-05T05:41:40.148329+00:00",
+  "generated_at": "2026-09-05T09:23:36.939438+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "I'm Gen Z: If the GOP wants my vote, stop the speeches and fix the housing crisis",
+        "description": "Republicans must use the Dallas midterm political convention next week to address housing, cost of living, and free speech to win over Gen-Z voters.",
+        "url": "https://www.foxnews.com/opinion/gen-z-gop-wants-vote-stop-speeches-fix-housing-crisis",
+        "publishedAt": "2026-09-04T09:00:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Gun control activists demanded better data. What they got surprised the heck out of them",
+        "description": "William English's redesigned 2026 National Firearms Survey estimates 2.2 million annual defensive gun uses and 26.4 million AR-15 owners nationwide.",
+        "url": "https://www.foxnews.com/opinion/gun-control-activists-demanded-better-data-what-they-got-surprised-heck-out-them",
+        "publishedAt": "2026-09-04T09:00:12Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "JONATHAN TURLEY: Talarico brings a touch of Trotsky to the Texas Senate race",
+        "description": "Video shows James Talarico at a climate forum calling capitalism an \"oppressive system\" linked to White supremacy that must be \"dismantled.\"",
+        "url": "https://www.foxnews.com/opinion/jonathan-turley-talarico-brings-touch-trotsky-texas-senate-race",
+        "publishedAt": "2026-09-04T09:00:08Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nepal floods ruin merchants, traders ahead of crucial festival season",
+        "description": "Nepal's floods devastate traders and merchants, threatening the crucial festival season and impacting the economy ahead of major celebrations.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-04/nepal-floods-ruin-merchants-traders-ahead-of-crucial-festival-season",
+        "publishedAt": "2026-09-04T06:31:31Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Sugar slides from 17-month high as Indian import prospects ease",
         "description": "The rally was underpinned by India’s move to allow up to 1 million tons of duty-free raw sugar imports, but weakening domestic prices have since tempered expectations for overseas purchases",
@@ -13,46 +53,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "17"
-      },
-      {
-        "title": "Iran prefers conflict with US over peace to suppress internal uprising, human rights activist warns",
-        "description": "A human rights activist says Iran's regime fears its own population more than U.S. airstrikes, using Strait of Hormuz friction for survival.",
-        "url": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
-        "publishedAt": "2026-09-03T22:30:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Welcome to the Hard-Hat Goldilocks Economy",
-        "description": "America appears to be building its way to disinflation.\nThe post Breitbart Business Digest: Welcome to the Hard-Hat Goldilocks Economy appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/09/03/breitbart-business-digest-welcome-to-the-hard-hat-goldilocks-economy/",
-        "publishedAt": "2026-09-03T22:00:20Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nvidia’s $22 billion Hugging Face deal is a bargain hedge",
-        "description": "The deal risks alienating Hugging Face users who value its independence.",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-09-03/nvidia-s-13-billion-hugging-face-deal-is-a-bargain-hedge",
-        "publishedAt": "2026-09-03T20:57:01Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Vance reveals who's behind his recent weight loss in first White House press briefing since July",
-        "description": "Vice president says Robert F. Kennedy Jr. diet of high protein and sauerkraut behind his recent weight loss during his first press briefing since the departure of former press secretary Karoline Leavitt last month.",
-        "url": "https://www.foxnews.com/politics/vance-reveals-whos-behind-his-recent-weight-loss-first-white-house-press-briefing-since-july",
-        "publishedAt": "2026-09-03T20:26:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
