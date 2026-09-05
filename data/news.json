@@ -1,115 +1,30 @@
 {
-  "generated_at": "2026-09-05T09:23:36.939438+00:00",
+  "generated_at": "2026-09-05T12:53:39.776411+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [
+    "news-korea-econ": [
       {
-        "title": "I'm Gen Z: If the GOP wants my vote, stop the speeches and fix the housing crisis",
-        "description": "Republicans must use the Dallas midterm political convention next week to address housing, cost of living, and free speech to win over Gen-Z voters.",
-        "url": "https://www.foxnews.com/opinion/gen-z-gop-wants-vote-stop-speeches-fix-housing-crisis",
-        "publishedAt": "2026-09-04T09:00:32Z",
+        "title": "Korean Society for the Study of Obesity (KSSO): \"Annual Socioeconomic Cost of Obesity Reaches 23.4 Trillion Won\"... Obesity Rate Among 19",
+        "description": "The Korean Society for the Study of Obesity (KSSO; Chairperson Kim Min-sun) held a special policy session titled \"Policy Discussion on Seeking National Obesity…",
+        "url": "https://www.sportschosun.com/en/culture/2026-09-04/202609040100031370001928",
+        "publishedAt": "2026-09-04T11:47:19Z",
         "source": {
-          "name": "Fox News"
+          "name": "Sportschosun.com"
         },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Gun control activists demanded better data. What they got surprised the heck out of them",
-        "description": "William English's redesigned 2026 National Firearms Survey estimates 2.2 million annual defensive gun uses and 26.4 million AR-15 owners nationwide.",
-        "url": "https://www.foxnews.com/opinion/gun-control-activists-demanded-better-data-what-they-got-surprised-heck-out-them",
-        "publishedAt": "2026-09-04T09:00:12Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "JONATHAN TURLEY: Talarico brings a touch of Trotsky to the Texas Senate race",
-        "description": "Video shows James Talarico at a climate forum calling capitalism an \"oppressive system\" linked to White supremacy that must be \"dismantled.\"",
-        "url": "https://www.foxnews.com/opinion/jonathan-turley-talarico-brings-touch-trotsky-texas-senate-race",
-        "publishedAt": "2026-09-04T09:00:08Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nepal floods ruin merchants, traders ahead of crucial festival season",
-        "description": "Nepal's floods devastate traders and merchants, threatening the crucial festival season and impacting the economy ahead of major celebrations.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-04/nepal-floods-ruin-merchants-traders-ahead-of-crucial-festival-season",
-        "publishedAt": "2026-09-04T06:31:31Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sugar slides from 17-month high as Indian import prospects ease",
-        "description": "The rally was underpinned by India’s move to allow up to 1 million tons of duty-free raw sugar imports, but weakening domestic prices have since tempered expectations for overseas purchases",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-03/sugar-slides-from-17-month-high-as-indian-import-prospects-ease",
-        "publishedAt": "2026-09-04T02:02:13Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "17"
+        "numericHint": "23.4"
       }
     ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Tata Chemicals expelled from century-old Kenya soda-ash operation by President Ruto",
-        "description": "Kenyan President William Ruto says Tata Chemicals has been exporting soda ash instead of processing the mineral locally to make glass and chemicals",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-03/kenya-s-ruto-seeks-new-investors-after-ousting-tata-from-magadi",
-        "publishedAt": "2026-09-04T04:21:22Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sugar slides from 17-month high as Indian import prospects ease",
-        "description": "The rally was underpinned by India’s move to allow up to 1 million tons of duty-free raw sugar imports, but weakening domestic prices have since tempered expectations for overseas purchases",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-03/sugar-slides-from-17-month-high-as-indian-import-prospects-ease",
-        "publishedAt": "2026-09-04T02:02:13Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "17"
-      },
-      {
-        "title": "Volkswagen board approves 50,000 additional job cuts and major restructuring",
-        "description": "The restructuring gives CEO Oliver Blume stronger backing as Volkswagen confronts high costs, weak demand and intensifying competition from Chinese automakers",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker",
-        "publishedAt": "2026-09-03T23:58:10Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "50"
-      },
-      {
-        "title": "Report: Canada Gave Millions in Contracts to Son of Iran’s Former Vice President",
-        "description": "Global News reported on Wednesday that the Canadian government awarded over $2 million in contracts, including law enforcement and defense contracts, to Mohammad Reza Ghafouri Fard, an Iranian immigrant linked to the terrorist Islamic Revolutionary Guard Corp…",
-        "url": "https://www.breitbart.com/middle-east/2026/09/03/report-canada-gave-millions-in-contracts-to-son-of-irans-former-vice-president/",
-        "publishedAt": "2026-09-03T23:35:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "EXCLUSIVE: FBI extraditions soar as Patel ramps up foreign outreach, vows 'no sanctuary'",
-        "description": "FBI Director Kash Patel says FBI extraditions of international fugitives to the United States are up 65%, with 157 executed amid a sweeping manhunt push.",
-        "url": "https://www.foxnews.com/us/exclusive-fbi-extraditions-soar-patel-ramps-up-foreign-outreach-vows-no-sanctuary",
-        "publishedAt": "2026-09-03T22:22:13Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "65"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
