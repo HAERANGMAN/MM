@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:53:39.776411+00:00",
+  "generated_at": "2026-09-05T15:44:31.977923+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Korean Society for the Study of Obesity (KSSO): \"Annual Socioeconomic Cost of Obesity Reaches 23.4 Trillion Won\"... Obesity Rate Among 19",
-        "description": "The Korean Society for the Study of Obesity (KSSO; Chairperson Kim Min-sun) held a special policy session titled \"Policy Discussion on Seeking National Obesity…",
-        "url": "https://www.sportschosun.com/en/culture/2026-09-04/202609040100031370001928",
-        "publishedAt": "2026-09-04T11:47:19Z",
-        "source": {
-          "name": "Sportschosun.com"
-        },
-        "numericHint": "23.4"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
