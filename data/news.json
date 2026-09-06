@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-06T13:12:09.985523+00:00",
+  "generated_at": "2026-09-06T16:18:06.169035+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "World’s biggest money managers are rebuilding gold positions",
+        "description": "Major money managers are increasing gold holdings, anticipating long-term value despite Fed's inflation measures and rising interest rates.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions",
+        "publishedAt": "2026-09-05T16:16:02Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Farage's Reform UK Party Vows Tax Cuts for 40 Million Britons Within 100 Days If Elected",
+        "description": "Reform UK has announced plans to provide thousands of pounds in much-needed tax relief for around 40 million Britons within 100 days in office.\nThe post Farage’s Reform UK Party Vows Tax Cuts for 40 Million Britons Within 100 Days If Elected appeared first on…",
+        "url": "https://www.breitbart.com/europe/2026/09/05/farages-reform-uk-party-vows-tax-cuts-for-40-million-britons-within-100-days-if-elected/",
+        "publishedAt": "2026-09-05T15:28:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit",
+        "description": "Trump's Justice Department backed OpenAI's fair use argument for AI training on copyrighted works, a move critics say lets Big Tech steal from creators.",
+        "url": "https://www.foxnews.com/opinion/mike-davis-trump-doj-withdraw-statement-interest-openai-lawsuit",
+        "publishedAt": "2026-09-05T14:19:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Wisconsin businesses say they 'dodged a bullet,' rejecting high taxes as democratic socialist lost primary",
+        "description": "WMC's Kurt Bauer says Wisconsin businesses \"dodged a bullet\" after Francesca Hong lost to David Crowley, but warns concerns remain on taxes.",
+        "url": "https://www.foxnews.com/media/wisconsin-businesses-say-dodged-bullet-rejecting-high-taxes-democratic-socialist-lost-primary",
+        "publishedAt": "2026-09-05T13:31:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Putin Orders Pause on Kyiv Strikes as Kushner and Witkoff Land in Moscow for Peace Talks",
         "description": "Russian President Vladimir Putin has ordered a 72-hour pause in strikes on Kyiv, Kremlin spokesperson Dmitry Peskov told Russia's Tass news agency Saturday.\nThe post Putin Orders Pause on Kyiv Strikes as Kushner and Witkoff Land in Moscow for Peace Talks appe…",
@@ -13,100 +53,60 @@
           "name": "Breitbart News"
         },
         "numericHint": "72"
-      },
-      {
-        "title": "The freakout over data centers is just another fracking backlash we need to ignore",
-        "description": "America's important fracking victory offers a blueprint for AI data center builders facing 70% public opposition and major Chinese competition.",
-        "url": "https://www.foxnews.com/opinion/freakout-data-centers-just-another-fracking-backlash-we-need-ignore",
-        "publishedAt": "2026-09-05T12:00:25Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "70"
-      },
-      {
-        "title": "MARK HALPERIN: Social media damaged a generation. Are we about to let AI do the same?",
-        "description": "The social media crisis offers a cautionary lesson as AI companies build chatbot products that could intimately interact with children unchecked.",
-        "url": "https://www.foxnews.com/opinion/mark-halperin-social-media-damaged-generation-let-ai-same",
-        "publishedAt": "2026-09-05T10:50:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Harmeet Dhillon: 'Main Focus' Is Corporate Discrimination Against Americans",
-        "description": "The Justice Department's civil rights section is investigating numerous allegations of anti-American discrimination by hiring managers and their companies, says Harmeet Dhillon, the U.S. assistant attorney general for civil rights.\nThe post Harmeet Dhillon: ‘…",
-        "url": "https://www.breitbart.com/immigration/2026/09/05/harmeet-dhillon-main-focus-discrimination-americans/",
-        "publishedAt": "2026-09-05T10:00:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
-        "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
-        "publishedAt": "2026-09-05T08:51:36Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "52"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "Trump’s Pentagon shake-up revives a presidential power play with a long history",
-        "description": "Dan Driscoll's exit as Army secretary intensifies debate over whether Trump's Pentagon overhaul strengthens or destabilizes military leadership.",
-        "url": "https://www.foxnews.com/politics/trumps-pentagon-shake-up-revives-presidential-power-play-long-history",
-        "publishedAt": "2026-09-05T11:00:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "How Dolly Parton used her authentic country wit to beat Hollywood critics to the punchline",
-        "description": "Dolly Parton's self-deprecating wit and comedic genius helped her shatter country music stereotypes and conquer Hollywood, colleagues recall.",
-        "url": "https://www.foxnews.com/media/how-dolly-parton-used-authentic-country-wit-beat-hollywood-critics-punchline",
-        "publishedAt": "2026-09-05T10:00:06Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
-        "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
-        "publishedAt": "2026-09-05T08:51:36Z",
+        "title": "World’s biggest money managers are rebuilding gold positions",
+        "description": "Major money managers are increasing gold holdings, anticipating long-term value despite Fed's inflation measures and rising interest rates.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions",
+        "publishedAt": "2026-09-05T16:16:02Z",
         "source": {
           "name": "Bloomberg"
         },
-        "numericHint": "52"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "‘Jaws of Death’: Iran Down to 2 Months of Fuel as U.S. Blockade Chokes Off Export Lifeline",
-        "description": "Iran is down to roughly two months of gasoline as the U.S. blockade and President Donald Trump’s escalating economic offensive choke off the regime’s oil exports and remaining financial lifelines — a rapidly worsening crisis that Treasury Secretary Scott Bess…",
-        "url": "https://www.breitbart.com/politics/2026/09/04/iran-down-two-months-fuel-u-s-blockade-chokes-export-lifeline/",
-        "publishedAt": "2026-09-05T03:54:06Z",
+        "title": "GOP Rep. Harrigan: Admin. Hasn't Communicated Way Iran War's Going to End",
+        "description": "On Friday’s broadcast of C-SPAN’s “Ceasefire,” Rep. Pat Harrigan (R-NC) said that the longer the war in Iran drags on, the worse things get, and “we need to end this conflict, but the administration needs to communicate the way that\nThe post GOP Rep. Harrigan…",
+        "url": "https://www.breitbart.com/clips/2026/09/05/gop-rep-harrigan-admin-hasnt-communicated-way-iran-wars-going-to-end/",
+        "publishedAt": "2026-09-05T15:40:24Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "2"
+        "numericHint": "데이터없음"
       },
       {
-        "title": "Man Fatally Shoots Cousin During Argument over Enchiladas",
-        "description": "A 22-year-old man is under arrest after allegedly fatally shooting his cousin during an argument over who had the spiciest enchiladas.\nThe post Man Fatally Shoots Cousin During Argument over Enchiladas appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/04/man-fatally-shoots-cousin-argument-enchiladas/",
-        "publishedAt": "2026-09-04T20:01:05Z",
+        "title": "'Pod Save America' hosts mock JD Vance over ‘blood libel’ definition before botching it themselves",
+        "description": "Jon Favreau and Jon Lovett mocked JD Vance's use of \"blood libel\" but stumbled through wrong definitions of the antisemitic accusation.",
+        "url": "https://www.foxnews.com/media/pod-save-america-hosts-mock-jd-vance-blood-libel-definition-botching",
+        "publishedAt": "2026-09-05T15:24:51Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Fox News"
         },
-        "numericHint": "22"
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit",
+        "description": "Trump's Justice Department backed OpenAI's fair use argument for AI training on copyrighted works, a move critics say lets Big Tech steal from creators.",
+        "url": "https://www.foxnews.com/opinion/mike-davis-trump-doj-withdraw-statement-interest-openai-lawsuit",
+        "publishedAt": "2026-09-05T14:19:18Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Box Office Comeback: How Summer 2026 offers a glimmer of hope for Hollywood in the post-COVID era",
+        "description": "The summer box office has generated over $4.5 billion, with \"Spider-Man: Brand New Day\" and \"The Odyssey\" shattering records at movie theaters.",
+        "url": "https://www.foxnews.com/media/box-office-comeback-summer-2026-offers-glimmer-hope-hollywood-post-covid-era",
+        "publishedAt": "2026-09-05T14:00:09Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
       }
     ]
   },
