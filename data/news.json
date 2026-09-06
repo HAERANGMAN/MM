@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-09-06T01:04:15.716151+00:00",
+  "generated_at": "2026-09-06T05:51:59.804737+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "Korean Society for the Study of Obesity (KSSO): \"Annual Socioeconomic Cost of Obesity Reaches 23.4 Trillion Won\"... Obesity Rate Among 19",
+        "description": "The Korean Society for the Study of Obesity (KSSO; Chairperson Kim Min-sun) held a special policy session titled \"Policy Discussion on Seeking National Obesity…",
+        "url": "https://www.sportschosun.com/en/culture/2026-09-04/202609040100031370001928",
+        "publishedAt": "2026-09-04T11:47:19Z",
+        "source": {
+          "name": "Sportschosun.com"
+        },
+        "numericHint": "23.4"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "‘Jaws of Death’: Iran Down to 2 Months of Fuel as U.S. Blockade Chokes Off Export Lifeline",
+        "description": "Iran is down to roughly two months of gasoline as the U.S. blockade and President Donald Trump’s escalating economic offensive choke off the regime’s oil exports and remaining financial lifelines — a rapidly worsening crisis that Treasury Secretary Scott Bess…",
+        "url": "https://www.breitbart.com/politics/2026/09/04/iran-down-two-months-fuel-u-s-blockade-chokes-export-lifeline/",
+        "publishedAt": "2026-09-05T03:54:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "White House on if There Are More Anti-Inflation Policies Coming: Leave It to Fed",
+        "description": "On Friday’s broadcast of Bloomberg’s “Open Interest,” White House Council of Economic Advisers Chairman Christopher Phelan responded to a question on whether the White House has any further policies lined up to deal with inflation by pointing to Fed Chairman\n…",
+        "url": "https://www.breitbart.com/clips/2026/09/04/white-house-on-if-there-are-more-anti-inflation-policies-coming-leave-it-to-fed/",
+        "publishedAt": "2026-09-05T01:47:09Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "White House on Inflation Outpacing Hourly Earnings: Hours Have Gone Up, So Total Earnings Beating Inflation",
+        "description": "On Friday’s broadcast of Bloomberg’s “Open Interest,” White House Council of Economic Advisers Chairman Christopher Phelan responded to a question on hourly earnings not keeping up with inflation by saying that “Part of the booming economy that we’re having i…",
+        "url": "https://www.breitbart.com/clips/2026/09/04/white-house-on-inflation-outpacing-hourly-earnings-hours-have-gone-up-so-total-earnings-beating-inflation/",
+        "publishedAt": "2026-09-05T01:46:44Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump Signs Order Allowing Ranchers to Process Their Own Meat, Sell It Across State Lines",
+        "description": "President Donald Trump signed two executive orders on Friday to empower American ranchers, including allowing them to process their own meat and sell it to consumers across state lines. \nThe post Trump Signs Order Allowing Ranchers to Process Their Own Meat, …",
+        "url": "https://www.breitbart.com/politics/2026/09/04/trump-signs-order-allowing-ranchers-to-process-their-own-meat-sell-it-across-state-lines/",
+        "publishedAt": "2026-09-04T22:31:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Breitbart Business Digest: Blue Collar Boom Labor Day Special Edition",
+        "description": "This will be a special edition of our weekly wrap focused on the employment situation in America.\nThe post Breitbart Business Digest: Blue Collar Boom Labor Day Special Edition appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/09/04/breitbart-business-digest-blue-collar-boom-labor-day-special-edition/",
+        "publishedAt": "2026-09-04T22:30:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "‘Jaws of Death’: Iran Down to 2 Months of Fuel as U.S. Blockade Chokes Off Export Lifeline",
+        "description": "Iran is down to roughly two months of gasoline as the U.S. blockade and President Donald Trump’s escalating economic offensive choke off the regime’s oil exports and remaining financial lifelines — a rapidly worsening crisis that Treasury Secretary Scott Bess…",
+        "url": "https://www.breitbart.com/politics/2026/09/04/iran-down-two-months-fuel-u-s-blockade-chokes-export-lifeline/",
+        "publishedAt": "2026-09-05T03:54:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "Man Fatally Shoots Cousin During Argument over Enchiladas",
+        "description": "A 22-year-old man is under arrest after allegedly fatally shooting his cousin during an argument over who had the spiciest enchiladas.\nThe post Man Fatally Shoots Cousin During Argument over Enchiladas appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/09/04/man-fatally-shoots-cousin-argument-enchiladas/",
+        "publishedAt": "2026-09-04T20:01:05Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "22"
+      },
+      {
+        "title": "International Criminal Court Rejects Request to Probe Jihadist Kidnappings in Nigeria",
+        "description": "The International Criminal Court (ICC) dismissed a request to open an investigation into \"systemic kidnappings in Nigeria\" this week, media in the country report, on the grounds that the petition lacked \"any legal basis.\"\nThe post International Criminal Court…",
+        "url": "https://www.breitbart.com/africa/2026/09/04/international-criminal-court-rejects-request-to-probe-jihadist-kidnappings-in-nigeria/",
+        "publishedAt": "2026-09-04T19:05:57Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Jane Fonda Rants about 'Tech Bros' Making Sex Robots and turning Women into 'Tradwives'",
+        "description": "Radical left-wing actress Jane Fonda is attacking \"tech bros\" for seeking longevity while trying to turn women into \"tradwives.\"",
+        "url": "https://www.breitbart.com/entertainment/2026/09/04/jane-fonda-rants-about-tech-bros-oppressing-women-they-cant-have-babies-so-theyll-make-robots-and-force-us-to-be-tradwives/",
+        "publishedAt": "2026-09-04T19:03:40Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Chinese 'Fast Fashion' Giant Shein Gets Crushed in Market IPO",
+        "description": "Chinese “fast fashion” giant Shein went public on the Hong Kong Stock Exchange on Tuesday and the results have not been encouraging.\nThe post Chinese ‘Fast Fashion’ Giant Shein Gets Crushed in Market IPO appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/09/04/chinese-fast-fashion-giant-shein-gets-crushed-in-market-ipo/",
+        "publishedAt": "2026-09-04T18:38:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
