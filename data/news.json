@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:51:59.804737+00:00",
+  "generated_at": "2026-09-06T09:49:38.252422+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -15,6 +15,16 @@
     ],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
+        "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+        "publishedAt": "2026-09-05T08:51:36Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "52"
+      },
       {
         "title": "‘Jaws of Death’: Iran Down to 2 Months of Fuel as U.S. Blockade Chokes Off Export Lifeline",
         "description": "Iran is down to roughly two months of gasoline as the U.S. blockade and President Donald Trump’s escalating economic offensive choke off the regime’s oil exports and remaining financial lifelines — a rapidly worsening crisis that Treasury Secretary Scott Bess…",
@@ -54,21 +64,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breitbart Business Digest: Blue Collar Boom Labor Day Special Edition",
-        "description": "This will be a special edition of our weekly wrap focused on the employment situation in America.\nThe post Breitbart Business Digest: Blue Collar Boom Labor Day Special Edition appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/09/04/breitbart-business-digest-blue-collar-boom-labor-day-special-edition/",
-        "publishedAt": "2026-09-04T22:30:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
+        "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+        "publishedAt": "2026-09-05T08:51:36Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "52"
+      },
       {
         "title": "‘Jaws of Death’: Iran Down to 2 Months of Fuel as U.S. Blockade Chokes Off Export Lifeline",
         "description": "Iran is down to roughly two months of gasoline as the U.S. blockade and President Donald Trump’s escalating economic offensive choke off the regime’s oil exports and remaining financial lifelines — a rapidly worsening crisis that Treasury Secretary Scott Bess…",
@@ -104,16 +114,6 @@
         "description": "Radical left-wing actress Jane Fonda is attacking \"tech bros\" for seeking longevity while trying to turn women into \"tradwives.\"",
         "url": "https://www.breitbart.com/entertainment/2026/09/04/jane-fonda-rants-about-tech-bros-oppressing-women-they-cant-have-babies-so-theyll-make-robots-and-force-us-to-be-tradwives/",
         "publishedAt": "2026-09-04T19:03:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Chinese 'Fast Fashion' Giant Shein Gets Crushed in Market IPO",
-        "description": "Chinese “fast fashion” giant Shein went public on the Hong Kong Stock Exchange on Tuesday and the results have not been encouraging.\nThe post Chinese ‘Fast Fashion’ Giant Shein Gets Crushed in Market IPO appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/09/04/chinese-fast-fashion-giant-shein-gets-crushed-in-market-ipo/",
-        "publishedAt": "2026-09-04T18:38:19Z",
         "source": {
           "name": "Breitbart News"
         },
