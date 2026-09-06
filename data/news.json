@@ -1,20 +1,49 @@
 {
-  "generated_at": "2026-09-06T09:49:38.252422+00:00",
+  "generated_at": "2026-09-06T13:12:09.985523+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "Korean Society for the Study of Obesity (KSSO): \"Annual Socioeconomic Cost of Obesity Reaches 23.4 Trillion Won\"... Obesity Rate Among 19",
-        "description": "The Korean Society for the Study of Obesity (KSSO; Chairperson Kim Min-sun) held a special policy session titled \"Policy Discussion on Seeking National Obesity…",
-        "url": "https://www.sportschosun.com/en/culture/2026-09-04/202609040100031370001928",
-        "publishedAt": "2026-09-04T11:47:19Z",
-        "source": {
-          "name": "Sportschosun.com"
-        },
-        "numericHint": "23.4"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Putin Orders Pause on Kyiv Strikes as Kushner and Witkoff Land in Moscow for Peace Talks",
+        "description": "Russian President Vladimir Putin has ordered a 72-hour pause in strikes on Kyiv, Kremlin spokesperson Dmitry Peskov told Russia's Tass news agency Saturday.\nThe post Putin Orders Pause on Kyiv Strikes as Kushner and Witkoff Land in Moscow for Peace Talks appe…",
+        "url": "https://www.breitbart.com/europe/2026/09/05/putin-orders-pause-on-kyiv-strikes-as-kushner-and-witkoff-land-in-moscow-for-peace-talks/",
+        "publishedAt": "2026-09-05T12:35:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "72"
+      },
+      {
+        "title": "The freakout over data centers is just another fracking backlash we need to ignore",
+        "description": "America's important fracking victory offers a blueprint for AI data center builders facing 70% public opposition and major Chinese competition.",
+        "url": "https://www.foxnews.com/opinion/freakout-data-centers-just-another-fracking-backlash-we-need-ignore",
+        "publishedAt": "2026-09-05T12:00:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "70"
+      },
+      {
+        "title": "MARK HALPERIN: Social media damaged a generation. Are we about to let AI do the same?",
+        "description": "The social media crisis offers a cautionary lesson as AI companies build chatbot products that could intimately interact with children unchecked.",
+        "url": "https://www.foxnews.com/opinion/mark-halperin-social-media-damaged-generation-let-ai-same",
+        "publishedAt": "2026-09-05T10:50:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Harmeet Dhillon: 'Main Focus' Is Corporate Discrimination Against Americans",
+        "description": "The Justice Department's civil rights section is investigating numerous allegations of anti-American discrimination by hiring managers and their companies, says Harmeet Dhillon, the U.S. assistant attorney general for civil rights.\nThe post Harmeet Dhillon: ‘…",
+        "url": "https://www.breitbart.com/immigration/2026/09/05/harmeet-dhillon-main-focus-discrimination-americans/",
+        "publishedAt": "2026-09-05T10:00:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
         "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
@@ -24,51 +53,31 @@
           "name": "Bloomberg"
         },
         "numericHint": "52"
-      },
-      {
-        "title": "‘Jaws of Death’: Iran Down to 2 Months of Fuel as U.S. Blockade Chokes Off Export Lifeline",
-        "description": "Iran is down to roughly two months of gasoline as the U.S. blockade and President Donald Trump’s escalating economic offensive choke off the regime’s oil exports and remaining financial lifelines — a rapidly worsening crisis that Treasury Secretary Scott Bess…",
-        "url": "https://www.breitbart.com/politics/2026/09/04/iran-down-two-months-fuel-u-s-blockade-chokes-export-lifeline/",
-        "publishedAt": "2026-09-05T03:54:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2"
-      },
-      {
-        "title": "White House on if There Are More Anti-Inflation Policies Coming: Leave It to Fed",
-        "description": "On Friday’s broadcast of Bloomberg’s “Open Interest,” White House Council of Economic Advisers Chairman Christopher Phelan responded to a question on whether the White House has any further policies lined up to deal with inflation by pointing to Fed Chairman\n…",
-        "url": "https://www.breitbart.com/clips/2026/09/04/white-house-on-if-there-are-more-anti-inflation-policies-coming-leave-it-to-fed/",
-        "publishedAt": "2026-09-05T01:47:09Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "White House on Inflation Outpacing Hourly Earnings: Hours Have Gone Up, So Total Earnings Beating Inflation",
-        "description": "On Friday’s broadcast of Bloomberg’s “Open Interest,” White House Council of Economic Advisers Chairman Christopher Phelan responded to a question on hourly earnings not keeping up with inflation by saying that “Part of the booming economy that we’re having i…",
-        "url": "https://www.breitbart.com/clips/2026/09/04/white-house-on-inflation-outpacing-hourly-earnings-hours-have-gone-up-so-total-earnings-beating-inflation/",
-        "publishedAt": "2026-09-05T01:46:44Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump Signs Order Allowing Ranchers to Process Their Own Meat, Sell It Across State Lines",
-        "description": "President Donald Trump signed two executive orders on Friday to empower American ranchers, including allowing them to process their own meat and sell it to consumers across state lines. \nThe post Trump Signs Order Allowing Ranchers to Process Their Own Meat, …",
-        "url": "https://www.breitbart.com/politics/2026/09/04/trump-signs-order-allowing-ranchers-to-process-their-own-meat-sell-it-across-state-lines/",
-        "publishedAt": "2026-09-04T22:31:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Trump’s Pentagon shake-up revives a presidential power play with a long history",
+        "description": "Dan Driscoll's exit as Army secretary intensifies debate over whether Trump's Pentagon overhaul strengthens or destabilizes military leadership.",
+        "url": "https://www.foxnews.com/politics/trumps-pentagon-shake-up-revives-presidential-power-play-long-history",
+        "publishedAt": "2026-09-05T11:00:48Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "How Dolly Parton used her authentic country wit to beat Hollywood critics to the punchline",
+        "description": "Dolly Parton's self-deprecating wit and comedic genius helped her shatter country music stereotypes and conquer Hollywood, colleagues recall.",
+        "url": "https://www.foxnews.com/media/how-dolly-parton-used-authentic-country-wit-beat-hollywood-critics-punchline",
+        "publishedAt": "2026-09-05T10:00:06Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
         "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
@@ -98,26 +107,6 @@
           "name": "Breitbart News"
         },
         "numericHint": "22"
-      },
-      {
-        "title": "International Criminal Court Rejects Request to Probe Jihadist Kidnappings in Nigeria",
-        "description": "The International Criminal Court (ICC) dismissed a request to open an investigation into \"systemic kidnappings in Nigeria\" this week, media in the country report, on the grounds that the petition lacked \"any legal basis.\"\nThe post International Criminal Court…",
-        "url": "https://www.breitbart.com/africa/2026/09/04/international-criminal-court-rejects-request-to-probe-jihadist-kidnappings-in-nigeria/",
-        "publishedAt": "2026-09-04T19:05:57Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jane Fonda Rants about 'Tech Bros' Making Sex Robots and turning Women into 'Tradwives'",
-        "description": "Radical left-wing actress Jane Fonda is attacking \"tech bros\" for seeking longevity while trying to turn women into \"tradwives.\"",
-        "url": "https://www.breitbart.com/entertainment/2026/09/04/jane-fonda-rants-about-tech-bros-oppressing-women-they-cant-have-babies-so-theyll-make-robots-and-force-us-to-be-tradwives/",
-        "publishedAt": "2026-09-04T19:03:40Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
