@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-09-07T09:36:41.047402+00:00",
+  "generated_at": "2026-09-07T15:13:32.638739+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "8 everyday things that would quit working without data centers",
+        "description": "Data centers power everything from streaming and gaming to AI chatbots and fraud detection. Here's how they quietly run the apps you use daily.",
+        "url": "https://www.foxnews.com/politics/8-everyday-things-would-quit-working-without-data-centers",
+        "publishedAt": "2026-09-06T14:17:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
+        "title": "America's biggest beer-loving states revealed — see where yours ranks",
+        "description": "America's beer capital runs through Wisconsin for the second straight year, with the Midwest dubbed the nation's \"beer belt.\" Regional loyalty remains strong, experts say.",
+        "url": "https://www.foxnews.com/food-drink/americas-biggest-beer-loving-states-revealed-see-where-yours-ranks",
+        "publishedAt": "2026-09-06T12:00:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "California pizza joint allegedly used as meth distribution hub as illegal immigrant charged",
+        "description": "Kawal Preet Singh allegedly used a Round Table Pizza in Dinuba to distribute over 40 pounds of methamphetamine as part of an organized crime network.",
+        "url": "https://www.foxnews.com/us/california-pizza-joint-meth-den-illegal-immigrant",
+        "publishedAt": "2026-09-06T03:14:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "40"
+      },
+      {
+        "title": "Trump’s ‘Tanker‑for‑Tanker’ Policy Escalates: U.S. Strikes 3 IRGC Oil Tankers After Iran Targets 2 Warships",
+        "description": "President Donald Trump’s “tanker-for-tanker” retaliation policy escalated Saturday as U.S. forces struck 3 Iranian oil tankers after the Islamic Revolutionary Guard Corps launched ballistic missiles toward 2 U.S. Navy warships.\nThe post Trump’s ‘Tanker‑for‑Ta…",
+        "url": "https://www.breitbart.com/politics/2026/09/05/trumps-tanker-for-tanker-policy-escalates-u-s-strikes-3-irgc-oil-tankers-after-iran-targets-2-warships/",
+        "publishedAt": "2026-09-05T21:23:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "3"
+      },
+      {
+        "title": "Baking legend’s 1960s home hits market with original details and a very unusual kitchen",
+        "description": "Marjorie Johnson's Robbinsdale lakefront home on Crystal Lake hits the market at $665,000, with its original 1968 fixtures and custom kitchen intact.",
+        "url": "https://www.foxnews.com/food-drink/baking-legend-1960s-home-hits-market-original-details-unusual-kitchen",
+        "publishedAt": "2026-09-05T18:56:39Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "1960"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "My father taught me the dignity of labor: We ‘get to’ live, work and love",
+        "description": "After her father’s death, Asra Nomani revisits the quiet acts of service that shaped her life and finally understands the true meaning of the dignity of labor.",
+        "url": "https://www.foxnews.com/opinion/father-taught-me-dignity-labor-get-live-work-love",
+        "publishedAt": "2026-09-06T13:03:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Your daily coffee habit could be taking a toll on your bones, new study suggests",
+        "description": "A Flinders University study links high coffee consumption to lower bone density in postmenopausal women, while tea's catechins may promote bone health.",
+        "url": "https://www.foxnews.com/health/daily-coffee-habit-taking-toll-bones-new-study-suggests",
+        "publishedAt": "2026-09-05T20:32:27Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rick Moranis, Cameron Diaz and Lindsay Lohan among stars who left fame behind before returning to Hollywood",
+        "description": "From Rick Moranis to Cameron Diaz and Lindsay Lohan, these Hollywood stars walked away from fame and made remarkable comebacks years later on screen.",
+        "url": "https://www.foxnews.com/entertainment/rick-moranis-cameron-diaz-lindsay-lohan-among-stars-who-left-fame-behind-before-returning-hollywood",
+        "publishedAt": "2026-09-05T17:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "World’s biggest money managers are rebuilding gold positions",
+        "description": "Major money managers are increasing gold holdings, anticipating long-term value despite Fed's inflation measures and rising interest rates.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions",
+        "publishedAt": "2026-09-05T16:16:02Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "GOP Rep. Harrigan: Admin. Hasn't Communicated Way Iran War's Going to End",
+        "description": "On Friday’s broadcast of C-SPAN’s “Ceasefire,” Rep. Pat Harrigan (R-NC) said that the longer the war in Iran drags on, the worse things get, and “we need to end this conflict, but the administration needs to communicate the way that\nThe post GOP Rep. Harrigan…",
+        "url": "https://www.breitbart.com/clips/2026/09/05/gop-rep-harrigan-admin-hasnt-communicated-way-iran-wars-going-to-end/",
+        "publishedAt": "2026-09-05T15:40:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
