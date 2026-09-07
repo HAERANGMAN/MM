@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-07T19:11:50.944497+00:00",
+  "generated_at": "2026-09-07T22:02:22.654447+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Report: Trump Administration May Open Funds to Married Couples Who Choose to Raise Their Children at Home",
+        "description": "President Donald Trump's administration is reportedly working toward opening federal funds to help married couples who lost income due to one parent staying at home to care for their children.\nThe post Report: Trump Administration May Open Funds to Married Co…",
+        "url": "https://www.breitbart.com/economy/2026/09/06/report-trump-administration-may-open-childcare-funds-to-stay-at-home-parents/",
+        "publishedAt": "2026-09-06T20:44:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "How a booming coastal escape learned to coexist with the ocean’s top predator",
+        "description": "Cape Cod's tourism economy surged to nearly $2.8 billion as great white sharks fuel a booming ecotourism industry with charter trips and citizen science.",
+        "url": "https://www.foxnews.com/travel/booming-coastal-escape-learned-coexist-oceans-top-predator",
+        "publishedAt": "2026-09-06T20:36:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "DAVID MARCUS: Congress set to protect AM radio and American discourse",
+        "description": "WFMD in Frederick, Maryland, marks 90 years on AM radio as Congress prepares to vote on a bill requiring AM antennas in every new car sold.",
+        "url": "https://www.foxnews.com/opinion/david-marcus-congress-set-protect-am-radio-american-discourse",
+        "publishedAt": "2026-09-06T20:15:58Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "90"
+      },
+      {
+        "title": "GOP Rep. Gill: Dems Can Call It Democratic Socialism, Leftism — It Is 'Essentially Communism'",
+        "description": "On this week's broadcast of FNC's \"Sunday Morning Futures,\" Rep. Brandon Gill (R-TX) previewed this week's upcoming Republican National Convention meant to bolster the GOP's midterm prospects.\nThe post GOP Rep. Gill: Dems Can Call It Democratic Socialism, Lef…",
+        "url": "https://www.breitbart.com/clips/2026/09/06/gop-rep-gill-dems-can-call-it-democratic-socialism-leftism-it-is-essentially-communism/",
+        "publishedAt": "2026-09-06T19:51:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Sen. John Kennedy: Inflation 'Gutting the Middle Class like a Fish'",
         "description": "Sunday on NBC’s “Meet the Press,” Sen. John Kennedy (R-LA) said inflation is “gutting the middle class like a fish.” Kennedy said, “Inflation is a big if, and it’s gutting people like a fish. Inflation is pernicious. And we’ve had\nThe post Sen. John Kennedy: …",
@@ -13,51 +53,21 @@
           "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market",
-        "description": "Treasury Secretary Scott Bessent predicted oil prices could drop to between $40 and $50 after the Iran conflict ends, citing massive supply ready to hit the market.",
-        "url": "https://www.foxnews.com/media/bessent-predicts-oil-prices-drop-low-40-iran-conflict-ends-supply-floods-market",
-        "publishedAt": "2026-09-06T15:18:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "8 everyday things that would quit working without data centers",
-        "description": "Data centers power everything from streaming and gaming to AI chatbots and fraud detection. Here's how they quietly run the apps you use daily.",
-        "url": "https://www.foxnews.com/politics/8-everyday-things-would-quit-working-without-data-centers",
-        "publishedAt": "2026-09-06T14:17:07Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "America's biggest beer-loving states revealed — see where yours ranks",
-        "description": "America's beer capital runs through Wisconsin for the second straight year, with the Midwest dubbed the nation's \"beer belt.\" Regional loyalty remains strong, experts say.",
-        "url": "https://www.foxnews.com/food-drink/americas-biggest-beer-loving-states-revealed-see-where-yours-ranks",
-        "publishedAt": "2026-09-06T12:00:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "California pizza joint allegedly used as meth distribution hub as illegal immigrant charged",
-        "description": "Kawal Preet Singh allegedly used a Round Table Pizza in Dinuba to distribute over 40 pounds of methamphetamine as part of an organized crime network.",
-        "url": "https://www.foxnews.com/us/california-pizza-joint-meth-den-illegal-immigrant",
-        "publishedAt": "2026-09-06T03:14:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "40"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "WWE star Cody Rhodes, others hunt for John Cena in Clash of Clans, recalls why legend was booted from group",
+        "description": "Cody Rhodes and the Clash of Clans community are hunting John Cena's base in a new crossover event featuring WWE legends as playable hero characters.",
+        "url": "https://www.foxnews.com/outkick-sports/wwe-star-cody-rhodes-others-hunt-john-cena-clash-clans-recalls-why-legend-booted-group",
+        "publishedAt": "2026-09-06T19:46:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "US-backed effort to disarm Iraq’s Iran-linked militias hits setback, experts say",
         "description": "Iraqi Prime Minister Ali al-Zaidi vowed to restrict weapons to state control, but militias like Asaib Ahl al-Haq show no credible disarmament evidence.",
@@ -97,16 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "My father taught me the dignity of labor: We ‘get to’ live, work and love",
-        "description": "After her father’s death, Asra Nomani revisits the quiet acts of service that shaped her life and finally understands the true meaning of the dignity of labor.",
-        "url": "https://www.foxnews.com/opinion/father-taught-me-dignity-labor-get-live-work-love",
-        "publishedAt": "2026-09-06T13:03:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
