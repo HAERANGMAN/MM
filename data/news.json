@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-07T15:13:32.638739+00:00",
+  "generated_at": "2026-09-07T19:11:50.944497+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Sen. John Kennedy: Inflation 'Gutting the Middle Class like a Fish'",
+        "description": "Sunday on NBC’s “Meet the Press,” Sen. John Kennedy (R-LA) said inflation is “gutting the middle class like a fish.” Kennedy said, “Inflation is a big if, and it’s gutting people like a fish. Inflation is pernicious. And we’ve had\nThe post Sen. John Kennedy: …",
+        "url": "https://www.breitbart.com/clips/2026/09/06/sen-john-kennedy-inflation-gutting-the-middle-class-like-a-fish/",
+        "publishedAt": "2026-09-06T16:52:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market",
+        "description": "Treasury Secretary Scott Bessent predicted oil prices could drop to between $40 and $50 after the Iran conflict ends, citing massive supply ready to hit the market.",
+        "url": "https://www.foxnews.com/media/bessent-predicts-oil-prices-drop-low-40-iran-conflict-ends-supply-floods-market",
+        "publishedAt": "2026-09-06T15:18:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "8 everyday things that would quit working without data centers",
         "description": "Data centers power everything from streaming and gaming to AI chatbots and fraud detection. Here's how they quietly run the apps you use daily.",
@@ -33,31 +53,51 @@
           "name": "Fox News"
         },
         "numericHint": "40"
-      },
-      {
-        "title": "Trump’s ‘Tanker‑for‑Tanker’ Policy Escalates: U.S. Strikes 3 IRGC Oil Tankers After Iran Targets 2 Warships",
-        "description": "President Donald Trump’s “tanker-for-tanker” retaliation policy escalated Saturday as U.S. forces struck 3 Iranian oil tankers after the Islamic Revolutionary Guard Corps launched ballistic missiles toward 2 U.S. Navy warships.\nThe post Trump’s ‘Tanker‑for‑Ta…",
-        "url": "https://www.breitbart.com/politics/2026/09/05/trumps-tanker-for-tanker-policy-escalates-u-s-strikes-3-irgc-oil-tankers-after-iran-targets-2-warships/",
-        "publishedAt": "2026-09-05T21:23:01Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "Baking legend’s 1960s home hits market with original details and a very unusual kitchen",
-        "description": "Marjorie Johnson's Robbinsdale lakefront home on Crystal Lake hits the market at $665,000, with its original 1968 fixtures and custom kitchen intact.",
-        "url": "https://www.foxnews.com/food-drink/baking-legend-1960s-home-hits-market-original-details-unusual-kitchen",
-        "publishedAt": "2026-09-05T18:56:39Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1960"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "US-backed effort to disarm Iraq’s Iran-linked militias hits setback, experts say",
+        "description": "Iraqi Prime Minister Ali al-Zaidi vowed to restrict weapons to state control, but militias like Asaib Ahl al-Haq show no credible disarmament evidence.",
+        "url": "https://www.foxnews.com/world/us-backed-effort-disarm-iraqs-iran-linked-militias-hits-setback-experts-say",
+        "publishedAt": "2026-09-06T18:10:28Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Video: ‘F**k America’ Rapper Macklemore Sparks Refund Calls Over His Anti-Israel Tirade at Ed Sheeran Concert",
+        "description": "Left-wing rapper Macklemore took on immediate backlash from audience members and fans who wanted a refund of their ticket after the rapper launched into an anti-American, pro Hamas rant on stage during Friday's Ed Sheeran concert in New Jersey.\nThe post Video…",
+        "url": "https://www.breitbart.com/entertainment/2026/09/06/video-fk-america-rapper-macklemore-sparks-refund-calls-over-his-anti-israel-tirade-at-ed-sheeran-concert/",
+        "publishedAt": "2026-09-06T16:59:30Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries",
+        "description": "Progressives on Capitol Hill are pushing a proposal to ban artificial superintelligence, but critics warn the move could hand global tech dominance over to China and Russia.",
+        "url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries",
+        "publishedAt": "2026-09-06T16:37:21Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market",
+        "description": "Treasury Secretary Scott Bessent predicted oil prices could drop to between $40 and $50 after the Iran conflict ends, citing massive supply ready to hit the market.",
+        "url": "https://www.foxnews.com/media/bessent-predicts-oil-prices-drop-low-40-iran-conflict-ends-supply-floods-market",
+        "publishedAt": "2026-09-06T15:18:54Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
       {
         "title": "My father taught me the dignity of labor: We ‘get to’ live, work and love",
         "description": "After her father’s death, Asra Nomani revisits the quiet acts of service that shaped her life and finally understands the true meaning of the dignity of labor.",
@@ -65,46 +105,6 @@
         "publishedAt": "2026-09-06T13:03:32Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Your daily coffee habit could be taking a toll on your bones, new study suggests",
-        "description": "A Flinders University study links high coffee consumption to lower bone density in postmenopausal women, while tea's catechins may promote bone health.",
-        "url": "https://www.foxnews.com/health/daily-coffee-habit-taking-toll-bones-new-study-suggests",
-        "publishedAt": "2026-09-05T20:32:27Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rick Moranis, Cameron Diaz and Lindsay Lohan among stars who left fame behind before returning to Hollywood",
-        "description": "From Rick Moranis to Cameron Diaz and Lindsay Lohan, these Hollywood stars walked away from fame and made remarkable comebacks years later on screen.",
-        "url": "https://www.foxnews.com/entertainment/rick-moranis-cameron-diaz-lindsay-lohan-among-stars-who-left-fame-behind-before-returning-hollywood",
-        "publishedAt": "2026-09-05T17:00:51Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "World’s biggest money managers are rebuilding gold positions",
-        "description": "Major money managers are increasing gold holdings, anticipating long-term value despite Fed's inflation measures and rising interest rates.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions",
-        "publishedAt": "2026-09-05T16:16:02Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "GOP Rep. Harrigan: Admin. Hasn't Communicated Way Iran War's Going to End",
-        "description": "On Friday’s broadcast of C-SPAN’s “Ceasefire,” Rep. Pat Harrigan (R-NC) said that the longer the war in Iran drags on, the worse things get, and “we need to end this conflict, but the administration needs to communicate the way that\nThe post GOP Rep. Harrigan…",
-        "url": "https://www.breitbart.com/clips/2026/09/05/gop-rep-harrigan-admin-hasnt-communicated-way-iran-wars-going-to-end/",
-        "publishedAt": "2026-09-05T15:40:24Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
