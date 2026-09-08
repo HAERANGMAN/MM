@@ -1,20 +1,126 @@
 {
-  "generated_at": "2026-09-08T17:27:10.706703+00:00",
+  "generated_at": "2026-09-08T20:07:53.307813+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Iran to Declare New ‘Restricted Area’ in Persian Gulf",
+        "description": "Iran said it will announce a new “restricted area” in the Persian Gulf that ships will only be allowed to pass through with permission from Tehran.\nThe post Iran to Declare New ‘Restricted Area’ in Persian Gulf appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/09/07/iran-to-declare-new-restricted-area-persian-gulf/",
+        "publishedAt": "2026-09-07T19:49:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "'Happy Days' star Linda Purl steps out in Los Angeles during 71st birthday week",
+        "description": "Linda Purl celebrated her 71st birthday last week while juggling a new album, an off-Broadway play directed by former \"Happy Days\" costar Anson Williams and much more.",
+        "url": "https://www.foxnews.com/entertainment/happy-days-star-linda-purl-steps-out-los-angeles-during-71st-birthday-week",
+        "publishedAt": "2026-09-07T17:00:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "71"
+      },
+      {
+        "title": "Security Experts: AI Data Centers Contain Hidden Risks from China",
+        "description": "The Trump administration is tightening scrutiny of Chinese-made equipment that powers America's data centers, citing national security risks as demand for electricity to run AI systems surges.\nThe post Security Experts: AI Data Centers Contain Hidden Risks fr…",
+        "url": "https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/",
+        "publishedAt": "2026-09-07T16:57:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Labor Day Celebrations: Spirit of American Worker Keeps America Running",
+        "description": "Political figures offered tributes to the American worker on Labor Day, recognizing that the spirit of those workers keeps America running.\nThe post Labor Day Celebrations: Spirit of American Worker Keeps America Running appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/09/07/labor-day-celebrations-spirit-american-worker-keeps-america-running/",
+        "publishedAt": "2026-09-07T15:54:10Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Scott Bessent on Labor Day: We Celebrate the American Worker and the Policies that Put Them First",
+        "description": "On Labor Day, the Trump administration is celebrating the American worker and the policies that put them first, Treasury Secretary Scott Bessent said on Monday, warning that the radical left wants to repeal the tax cuts families are now enjoying.\nThe post Sco…",
+        "url": "https://www.breitbart.com/politics/2026/09/07/scott-bessent-on-labor-day-we-celebrate-the-american-worker-and-the-policies-that-put-them-first/",
+        "publishedAt": "2026-09-07T15:07:26Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "DHS chief announces changes to its seal to reflect that department is 'at war every single day'",
+        "description": "Homeland Security Secretary Markwayne Mullin says DHS is changing its seal so the eagle faces arrows of war amid terrorism and cartel threats.",
+        "url": "https://www.foxnews.com/media/dhs-chief-announces-changes-seal-reflect-department-war-every-single-day",
+        "publishedAt": "2026-09-07T14:43:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Indiana farm vows to ‘absolutely’ do Charlie Kirk corn maze again despite wave of backlash",
+        "description": "Global Farms says critics flooded its Google reviews with one-star ratings after unveiling the Charlie Kirk corn maze, but worldwide support followed.",
+        "url": "https://www.foxnews.com/media/indiana-farm-vows-absolutely-charlie-kirk-corn-maze-despite-wave-backlash",
+        "publishedAt": "2026-09-07T20:00:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Security Experts: AI Data Centers Contain Hidden Risks from China",
+        "description": "The Trump administration is tightening scrutiny of Chinese-made equipment that powers America's data centers, citing national security risks as demand for electricity to run AI systems surges.\nThe post Security Experts: AI Data Centers Contain Hidden Risks fr…",
+        "url": "https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/",
+        "publishedAt": "2026-09-07T16:57:50Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DHS chief announces changes to its seal to reflect that department is 'at war every single day'",
+        "description": "Homeland Security Secretary Markwayne Mullin says DHS is changing its seal so the eagle faces arrows of war amid terrorism and cartel threats.",
+        "url": "https://www.foxnews.com/media/dhs-chief-announces-changes-seal-reflect-department-war-every-single-day",
+        "publishedAt": "2026-09-07T14:43:41Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
+        "description": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions.",
+        "url": "https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft",
+        "publishedAt": "2026-09-07T14:27:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Sam Altman's OpenAI Hires Chuck Schumer's Daughter to Influence State-Level AI Policies",
+        "description": "OpenAI is growing its global affairs team with three new hires focused on state-level AI policy, including Democrat Senator Chuck Schumer's daughter.\nThe post Sam Altman’s OpenAI Hires Chuck Schumer’s Daughter to Influence State-Level AI Policies appeared fir…",
+        "url": "https://www.breitbart.com/tech/2026/09/07/sam-altmans-openai-hires-chuck-schumers-daughter-to-influence-state-level-ai-policies/",
+        "publishedAt": "2026-09-07T14:01:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
