@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-09-07T22:02:22.654447+00:00",
+  "generated_at": "2026-09-08T00:13:15.324330+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Report: Trump Administration May Open Funds to Married Couples Who Choose to Raise Their Children at Home",
-        "description": "President Donald Trump's administration is reportedly working toward opening federal funds to help married couples who lost income due to one parent staying at home to care for their children.\nThe post Report: Trump Administration May Open Funds to Married Co…",
-        "url": "https://www.breitbart.com/economy/2026/09/06/report-trump-administration-may-open-childcare-funds-to-stay-at-home-parents/",
-        "publishedAt": "2026-09-06T20:44:11Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "How a booming coastal escape learned to coexist with the ocean’s top predator",
-        "description": "Cape Cod's tourism economy surged to nearly $2.8 billion as great white sharks fuel a booming ecotourism industry with charter trips and citizen science.",
-        "url": "https://www.foxnews.com/travel/booming-coastal-escape-learned-coexist-oceans-top-predator",
-        "publishedAt": "2026-09-06T20:36:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "DAVID MARCUS: Congress set to protect AM radio and American discourse",
-        "description": "WFMD in Frederick, Maryland, marks 90 years on AM radio as Congress prepares to vote on a bill requiring AM antennas in every new car sold.",
-        "url": "https://www.foxnews.com/opinion/david-marcus-congress-set-protect-am-radio-american-discourse",
-        "publishedAt": "2026-09-06T20:15:58Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "90"
-      },
-      {
-        "title": "GOP Rep. Gill: Dems Can Call It Democratic Socialism, Leftism — It Is 'Essentially Communism'",
-        "description": "On this week's broadcast of FNC's \"Sunday Morning Futures,\" Rep. Brandon Gill (R-TX) previewed this week's upcoming Republican National Convention meant to bolster the GOP's midterm prospects.\nThe post GOP Rep. Gill: Dems Can Call It Democratic Socialism, Lef…",
-        "url": "https://www.breitbart.com/clips/2026/09/06/gop-rep-gill-dems-can-call-it-democratic-socialism-leftism-it-is-essentially-communism/",
-        "publishedAt": "2026-09-06T19:51:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sen. John Kennedy: Inflation 'Gutting the Middle Class like a Fish'",
-        "description": "Sunday on NBC’s “Meet the Press,” Sen. John Kennedy (R-LA) said inflation is “gutting the middle class like a fish.” Kennedy said, “Inflation is a big if, and it’s gutting people like a fish. Inflation is pernicious. And we’ve had\nThe post Sen. John Kennedy: …",
-        "url": "https://www.breitbart.com/clips/2026/09/06/sen-john-kennedy-inflation-gutting-the-middle-class-like-a-fish/",
-        "publishedAt": "2026-09-06T16:52:47Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "WWE star Cody Rhodes, others hunt for John Cena in Clash of Clans, recalls why legend was booted from group",
-        "description": "Cody Rhodes and the Clash of Clans community are hunting John Cena's base in a new crossover event featuring WWE legends as playable hero characters.",
-        "url": "https://www.foxnews.com/outkick-sports/wwe-star-cody-rhodes-others-hunt-john-cena-clash-clans-recalls-why-legend-booted-group",
-        "publishedAt": "2026-09-06T19:46:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "US-backed effort to disarm Iraq’s Iran-linked militias hits setback, experts say",
-        "description": "Iraqi Prime Minister Ali al-Zaidi vowed to restrict weapons to state control, but militias like Asaib Ahl al-Haq show no credible disarmament evidence.",
-        "url": "https://www.foxnews.com/world/us-backed-effort-disarm-iraqs-iran-linked-militias-hits-setback-experts-say",
-        "publishedAt": "2026-09-06T18:10:28Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Video: ‘F**k America’ Rapper Macklemore Sparks Refund Calls Over His Anti-Israel Tirade at Ed Sheeran Concert",
-        "description": "Left-wing rapper Macklemore took on immediate backlash from audience members and fans who wanted a refund of their ticket after the rapper launched into an anti-American, pro Hamas rant on stage during Friday's Ed Sheeran concert in New Jersey.\nThe post Video…",
-        "url": "https://www.breitbart.com/entertainment/2026/09/06/video-fk-america-rapper-macklemore-sparks-refund-calls-over-his-anti-israel-tirade-at-ed-sheeran-concert/",
-        "publishedAt": "2026-09-06T16:59:30Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries",
-        "description": "Progressives on Capitol Hill are pushing a proposal to ban artificial superintelligence, but critics warn the move could hand global tech dominance over to China and Russia.",
-        "url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries",
-        "publishedAt": "2026-09-06T16:37:21Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market",
-        "description": "Treasury Secretary Scott Bessent predicted oil prices could drop to between $40 and $50 after the Iran conflict ends, citing massive supply ready to hit the market.",
-        "url": "https://www.foxnews.com/media/bessent-predicts-oil-prices-drop-low-40-iran-conflict-ends-supply-floods-market",
-        "publishedAt": "2026-09-06T15:18:54Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
