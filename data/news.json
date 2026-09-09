@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-08T22:36:56.975940+00:00",
+  "generated_at": "2026-09-09T00:36:03.388577+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "U.S.: Strait of Hormuz ‘Fully Open, Under U.S. Navy Control’ as Iran Threatens 'New Maritime Exclusion Zone'",
+        "description": "A senior U.S. official said Monday that the Strait of Hormuz is “fully open and under U.S. Navy control,” directly challenging Iran’s threat to impose a new maritime exclusion zone across the Persian Gulf as Tehran seeks to reassert leverage over the strategi…",
+        "url": "https://www.breitbart.com/politics/2026/09/07/u-s-strait-of-hormuz-fully-open-under-u-s-navy-control-as-iran-threatens-new-maritime-exclusion-zone/",
+        "publishedAt": "2026-09-08T00:03:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mike Kuiken: Data Center Race: US-China Commission Vice Chair Warns Beijing Is Moving Fast",
+        "description": "US-China Economic and Security Review Commission Vice Chairman Mike Kuiken discusses what he saw during a recent fact-finding trip to China, Beijing’s push to build AI infrastructure at speed and where the US still holds key advantages.",
+        "url": "https://www.foxnews.com/video/6404557745112",
+        "publishedAt": "2026-09-08T00:00:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Tim Scott Predicts Dems Will Impeach Trump and Cabinet, Pack SCOTUS if Successful in Midterms",
         "description": "During an appearance on FNC's \"My View,\" Sen. Tim Scott (R-SC) urged Republican voters to engage in the midterm elections.\nThe post Tim Scott Predicts Dems Will Impeach Trump and Cabinet, Pack SCOTUS if Successful in Midterms appeared first on Breitbart.",
@@ -33,26 +53,6 @@
           "name": "Fox News"
         },
         "numericHint": "71"
-      },
-      {
-        "title": "Security Experts: AI Data Centers Contain Hidden Risks from China",
-        "description": "The Trump administration is tightening scrutiny of Chinese-made equipment that powers America's data centers, citing national security risks as demand for electricity to run AI systems surges.\nThe post Security Experts: AI Data Centers Contain Hidden Risks fr…",
-        "url": "https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/",
-        "publishedAt": "2026-09-07T16:57:50Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Labor Day Celebrations: Spirit of American Worker Keeps America Running",
-        "description": "Political figures offered tributes to the American worker on Labor Day, recognizing that the spirit of those workers keeps America running.\nThe post Labor Day Celebrations: Spirit of American Worker Keeps America Running appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/09/07/labor-day-celebrations-spirit-american-worker-keeps-america-running/",
-        "publishedAt": "2026-09-07T15:54:10Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [
@@ -69,6 +69,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "U.S.: Strait of Hormuz ‘Fully Open, Under U.S. Navy Control’ as Iran Threatens 'New Maritime Exclusion Zone'",
+        "description": "A senior U.S. official said Monday that the Strait of Hormuz is “fully open and under U.S. Navy control,” directly challenging Iran’s threat to impose a new maritime exclusion zone across the Persian Gulf as Tehran seeks to reassert leverage over the strategi…",
+        "url": "https://www.breitbart.com/politics/2026/09/07/u-s-strait-of-hormuz-fully-open-under-u-s-navy-control-as-iran-threatens-new-maritime-exclusion-zone/",
+        "publishedAt": "2026-09-08T00:03:31Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Indiana farm vows to ‘absolutely’ do Charlie Kirk corn maze again despite wave of backlash",
         "description": "Global Farms says critics flooded its Google reviews with one-star ratings after unveiling the Charlie Kirk corn maze, but worldwide support followed.",
@@ -108,16 +118,6 @@
           "name": "Fox News"
         },
         "numericHint": "$"
-      },
-      {
-        "title": "Sam Altman's OpenAI Hires Chuck Schumer's Daughter to Influence State-Level AI Policies",
-        "description": "OpenAI is growing its global affairs team with three new hires focused on state-level AI policy, including Democrat Senator Chuck Schumer's daughter.\nThe post Sam Altman’s OpenAI Hires Chuck Schumer’s Daughter to Influence State-Level AI Policies appeared fir…",
-        "url": "https://www.breitbart.com/tech/2026/09/07/sam-altmans-openai-hires-chuck-schumers-daughter-to-influence-state-level-ai-policies/",
-        "publishedAt": "2026-09-07T14:01:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
