@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-09-09T22:28:02.583146+00:00",
+  "generated_at": "2026-09-10T00:28:02.795091+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Rep. Bacon: Trump's Tariffs Will Hurt GOP in Midterms",
+        "description": "Tuesday on CNN’s “The Lead,” Rep. Don Bacon (R-NE) said President Donald Trump’s tariffs will hurt Republican candidates, especially in the Midwest where they are “not popular.” Anchor Jake Tapper said, “So Congressman Bacon, let’s talk about beef, because bo…",
+        "url": "https://www.breitbart.com/clips/2026/09/08/rep-bacon-trumps-tariffs-will-hurt-gop-in-midterms/",
+        "publishedAt": "2026-09-09T00:13:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ex-GOP senator clears hurdle in crucial comeback bid as Republicans try to flip key Senate seat",
+        "description": "John E. Sununu defeated Scott Brown for the GOP Senate nomination in New Hampshire, a key race that could determine Republican majority control.",
+        "url": "https://www.foxnews.com/politics/ex-gop-senator-clears-hurdle-crucial-comeback-bid-republicans-try-flip-key-senate-seat",
+        "publishedAt": "2026-09-09T00:08:03Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Destroys 5 IRGC ‘Shadow Tankers’ After Iran Targets Navy Warship — Tehran: Gulf Ships ‘Will Be Targeted’",
+        "description": "U.S. forces destroyed five IRGC-linked oil tankers Tuesday after Iran twice targeted an American warship with ballistic missiles, carrying out Washington’s warning that continued attacks on the U.S. Navy would exact an increasingly steep price on Tehran’s oil…",
+        "url": "https://www.breitbart.com/politics/2026/09/08/u-s-destroys-5-irgc-shadow-tankers-after-iran-targets-navy-warship-tehran-gulf-ships-will-be-targeted/",
+        "publishedAt": "2026-09-08T23:53:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "Exclusive – Alliance for a Better Future CEO Janet Kelly on Geopolitical Significance of AI Dominance: China ‘Will Cheat and Steal and Lie' to Beat Us",
+        "description": "China will \"cheat and steal and lie\" in order to beat the United States, Alliance for a Better Future CEO Janet Kelly said during the Breitbart News “State of the Economy” policy event Tuesday.\nThe post Exclusive – Alliance for a Better Future CEO Janet Kelly…",
+        "url": "https://www.breitbart.com/politics/2026/09/08/exclusive-alliance-for-a-better-future-ceo-janet-kelly-on-geopolitical-significance-of-ai-dominance-china-will-cheat-and-steal-and-lie-to-beat-us/",
+        "publishedAt": "2026-09-08T23:20:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Former '60 Minutes' honcho says CBS News leaders wanted staff to 'compromise our principles'",
+        "description": "Guy Campanile claimed he and his colleagues were fired from \"60 Minutes\" for refusing to compromise their journalism principles under new CBS leadership.",
+        "url": "https://www.foxnews.com/media/former-60-minutes-honcho-says-cbs-news-leaders-wanted-staff-compromise-our-principles",
+        "publishedAt": "2026-09-08T23:17:05Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "60"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Rep. Bacon: Trump's Tariffs Will Hurt GOP in Midterms",
+        "description": "Tuesday on CNN’s “The Lead,” Rep. Don Bacon (R-NE) said President Donald Trump’s tariffs will hurt Republican candidates, especially in the Midwest where they are “not popular.” Anchor Jake Tapper said, “So Congressman Bacon, let’s talk about beef, because bo…",
+        "url": "https://www.breitbart.com/clips/2026/09/08/rep-bacon-trumps-tariffs-will-hurt-gop-in-midterms/",
+        "publishedAt": "2026-09-09T00:13:36Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Exclusive – Secretary Scott Bessent: U.S. Bond Market Under Trump ‘Best Performing in the World,’ ‘Inflation Expectations are Flat to Down’",
+        "description": "The U.S. bond market under President Donald Trump is the \"best performing in the world\" and inflation expectations are \"flat to down,\" Treasury Secretary Scott Bessent said during the Breitbart News \"State of the Economy\" policy event Tuesday.\nThe post Exclus…",
+        "url": "https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-u-s-bond-market-under-trump-best-performing-in-the-world-inflation-expectations-are-flat-to-down/",
+        "publishedAt": "2026-09-08T22:39:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Third Circuit Allows Lawsuit Against NJ's Gun Industry Liability Law to Continue",
+        "description": "On Tuesday the U.S. Court of Appeals for the Third Circuit ruled that the National Shooting Sports Foundation's (NSSF) lawsuit against New Jersey's gun industry liability law can continue.\nThe post Third Circuit Allows Lawsuit Against NJ’s Gun Industry Liabil…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/09/08/third-circuit-allows-lawsuit-against-njs-gun-industry-liability-law-to-continue/",
+        "publishedAt": "2026-09-08T22:03:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "South Park creators mock Trump's Lake Ontario rename and company compliance in mock statement",
+        "description": "Trey Parker and Matt Stone announced \"South Park\" will be renamed \"South America\" Tuesday in a jab at Apple Maps and Google Maps over the Lake Ontario name change.",
+        "url": "https://www.foxnews.com/media/south-park-creators-mock-trump-lake-ontario-rename-company-compliance-mock-statement",
+        "publishedAt": "2026-09-08T22:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Folk Singer Art Garfunkel Considering Leaving U.S. Over Trump",
+        "description": "Singer and actor Art Garfunkel says he is considering leaving the United States over President Donald Trump being in the White House.\nThe post Folk Singer Art Garfunkel Considering Leaving U.S. Over Trump appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/entertainment/2026/09/08/folk-singer-art-garfunkel-considering-leaving-u-s-over-trump/",
+        "publishedAt": "2026-09-08T18:15:27Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
