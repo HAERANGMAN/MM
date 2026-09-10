@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-09-10T09:38:35.894261+00:00",
+  "generated_at": "2026-09-10T13:49:49.119655+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Can the 'best showman in politics' deliver again? GOP bets on Trump at historic midterm convention",
-        "description": "Donald Trump headlines the first-ever GOP midterm convention in Dallas, aiming to energize low-propensity MAGA voters ahead of key 2026 races.",
-        "url": "https://www.foxnews.com/politics/best-showman-politics-deliver-gop-bets-trump-historic-midterm-convention",
-        "publishedAt": "2026-09-09T09:00:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
-        "description": "Democratic Gov. Dan McKee could become the first elected governor in 12 years to lose renomination as Rhode Island's primary centers on a bridge crisis.",
-        "url": "https://www.foxnews.com/politics/traffic-drama-threatens-end-dem-governor-tenure-voters-head-polls-rhode-island",
-        "publishedAt": "2026-09-09T09:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "12"
-      },
-      {
-        "title": "JPMorgan probe shows India scrutinising Wall Street",
-        "description": "SEBI has signaled internally that it is getting more proactive in examining transactions by domestic and international traders as part of an effort to protect retail investors",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street",
-        "publishedAt": "2026-09-09T05:07:35Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "India takes muted approach to BRICS summit as geopolitical tensions rise",
-        "description": "India is keeping its BRICS summit low-key amid strained US ties, tensions with China and a more challenging geopolitical environment.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/india-shuns-pomp-in-favor-of-restraint-at-subdued-brics-summit",
-        "publishedAt": "2026-09-09T02:47:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kenya withdraws Tata Group’s century-old soda ash mining concession",
-        "description": "Kenya President William Ruto has withdrawn Tata Group’s century-old soda ash mining concession, citing lack of local processing and economic value addition.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-08/fight-over-tata-soda-ash-mine-divides-impoverished-kenya-region",
-        "publishedAt": "2026-09-09T02:30:49Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "LIZ PEEK: We cannot let the left rewrite what happened on 9/11",
-        "description": "As the United States marks 25 years since 9/11, Ilhan Omar's dismissive remarks and leftist curricula threaten to erase the truth about Ground Zero.",
-        "url": "https://www.foxnews.com/opinion/liz-peek-cannot-let-left-rewrite-happened-911",
-        "publishedAt": "2026-09-09T08:50:52Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "JPMorgan probe shows India scrutinising Wall Street",
-        "description": "SEBI has signaled internally that it is getting more proactive in examining transactions by domestic and international traders as part of an effort to protect retail investors",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street",
-        "publishedAt": "2026-09-09T05:07:35Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Meta ran over 300 ads with suspected AI child abuse, NGO says",
-        "description": "TTP says that the ads collectively reached more than 29,000 people and typically used artificial intelligence to depict young children being molested",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-08/meta-ran-hundreds-of-ads-showing-ai-child-sexual-abuse-ngo-says",
-        "publishedAt": "2026-09-09T04:39:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "300"
-      },
-      {
-        "title": "India takes muted approach to BRICS summit as geopolitical tensions rise",
-        "description": "India is keeping its BRICS summit low-key amid strained US ties, tensions with China and a more challenging geopolitical environment.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/india-shuns-pomp-in-favor-of-restraint-at-subdued-brics-summit",
-        "publishedAt": "2026-09-09T02:47:27Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Kenya withdraws Tata Group’s century-old soda ash mining concession",
-        "description": "Kenya President William Ruto has withdrawn Tata Group’s century-old soda ash mining concession, citing lack of local processing and economic value addition.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-08/fight-over-tata-soda-ash-mine-divides-impoverished-kenya-region",
-        "publishedAt": "2026-09-09T02:30:49Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
