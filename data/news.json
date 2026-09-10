@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-10T05:05:43.171299+00:00",
+  "generated_at": "2026-09-10T09:38:35.894261+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Can the 'best showman in politics' deliver again? GOP bets on Trump at historic midterm convention",
+        "description": "Donald Trump headlines the first-ever GOP midterm convention in Dallas, aiming to energize low-propensity MAGA voters ahead of key 2026 races.",
+        "url": "https://www.foxnews.com/politics/best-showman-politics-deliver-gop-bets-trump-historic-midterm-convention",
+        "publishedAt": "2026-09-09T09:00:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
+        "description": "Democratic Gov. Dan McKee could become the first elected governor in 12 years to lose renomination as Rhode Island's primary centers on a bridge crisis.",
+        "url": "https://www.foxnews.com/politics/traffic-drama-threatens-end-dem-governor-tenure-voters-head-polls-rhode-island",
+        "publishedAt": "2026-09-09T09:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "12"
+      },
+      {
+        "title": "JPMorgan probe shows India scrutinising Wall Street",
+        "description": "SEBI has signaled internally that it is getting more proactive in examining transactions by domestic and international traders as part of an effort to protect retail investors",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street",
+        "publishedAt": "2026-09-09T05:07:35Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "India takes muted approach to BRICS summit as geopolitical tensions rise",
         "description": "India is keeping its BRICS summit low-key amid strained US ties, tensions with China and a more challenging geopolitical environment.",
@@ -23,41 +53,31 @@
           "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "Paytm expands into agentic AI with new enterprise service Pi",
-        "description": "Paytm is entering enterprise AI with Paytm Intelligence, offering AI agents for sales, customer service and operations to financial institutions in India and UAE.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
-        "publishedAt": "2026-09-09T01:35:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump-backed candidate wins high-stakes GOP primary for New Hampshire battleground district",
-        "description": "Donald Trump endorsed Anthony DiLorenzo defeated Novel Iron Works owner Hollie Noveletsky and state Rep. Brian Cole to clinch the GOP nomination for the Granite State's 1st Congressional District.",
-        "url": "https://www.foxnews.com/politics/trump-backed-candidate-wins-high-stakes-gop-primary-new-hampshire-battleground-district",
-        "publishedAt": "2026-09-09T00:30:09Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "Rep. Bacon: Trump's Tariffs Will Hurt GOP in Midterms",
-        "description": "Tuesday on CNN’s “The Lead,” Rep. Don Bacon (R-NE) said President Donald Trump’s tariffs will hurt Republican candidates, especially in the Midwest where they are “not popular.” Anchor Jake Tapper said, “So Congressman Bacon, let’s talk about beef, because bo…",
-        "url": "https://www.breitbart.com/clips/2026/09/08/rep-bacon-trumps-tariffs-will-hurt-gop-in-midterms/",
-        "publishedAt": "2026-09-09T00:13:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "LIZ PEEK: We cannot let the left rewrite what happened on 9/11",
+        "description": "As the United States marks 25 years since 9/11, Ilhan Omar's dismissive remarks and leftist curricula threaten to erase the truth about Ground Zero.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-cannot-let-left-rewrite-happened-911",
+        "publishedAt": "2026-09-09T08:50:52Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "JPMorgan probe shows India scrutinising Wall Street",
+        "description": "SEBI has signaled internally that it is getting more proactive in examining transactions by domestic and international traders as part of an effort to protect retail investors",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street",
+        "publishedAt": "2026-09-09T05:07:35Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Meta ran over 300 ads with suspected AI child abuse, NGO says",
         "description": "TTP says that the ads collectively reached more than 29,000 people and typically used artificial intelligence to depict young children being molested",
@@ -85,26 +105,6 @@
         "publishedAt": "2026-09-09T02:30:49Z",
         "source": {
           "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rep. Bacon: Trump's Tariffs Will Hurt GOP in Midterms",
-        "description": "Tuesday on CNN’s “The Lead,” Rep. Don Bacon (R-NE) said President Donald Trump’s tariffs will hurt Republican candidates, especially in the Midwest where they are “not popular.” Anchor Jake Tapper said, “So Congressman Bacon, let’s talk about beef, because bo…",
-        "url": "https://www.breitbart.com/clips/2026/09/08/rep-bacon-trumps-tariffs-will-hurt-gop-in-midterms/",
-        "publishedAt": "2026-09-09T00:13:36Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive – Secretary Scott Bessent: U.S. Bond Market Under Trump ‘Best Performing in the World,’ ‘Inflation Expectations are Flat to Down’",
-        "description": "The U.S. bond market under President Donald Trump is the \"best performing in the world\" and inflation expectations are \"flat to down,\" Treasury Secretary Scott Bessent said during the Breitbart News \"State of the Economy\" policy event Tuesday.\nThe post Exclus…",
-        "url": "https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-u-s-bond-market-under-trump-best-performing-in-the-world-inflation-expectations-are-flat-to-down/",
-        "publishedAt": "2026-09-08T22:39:28Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       }
