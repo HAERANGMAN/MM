@@ -1,20 +1,136 @@
 {
-  "generated_at": "2026-09-11T04:15:49.898528+00:00",
+  "generated_at": "2026-09-11T08:57:56.284877+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "India launches trade portal to help exporters reach US buyers",
+        "description": "India launches an online platform to connect exporters with US buyers as New Delhi steps up efforts to boost bilateral trade to $500 billion by 2030.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/india-links-exporters-with-us-buyers-in-500-billion-trade-push",
+        "publishedAt": "2026-09-10T07:27:01Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Trump Lays Out 2 Paths for America in Midterms: Prosperity with Republicans or Regression with Democrats",
+        "description": "DALLAS—President Donald laid out two paths he sees that lie ahead for America during his keynote address at the Republican National Convention (RNC) on Wednesday: prosperity if Republicans hold majorities in Congress or regression if Democrats take power.\nThe…",
+        "url": "https://www.breitbart.com/politics/2026/09/09/trump-lays-out-2-paths-for-america-in-midterms-prosperity-with-republicans-or-regression-with-democrats/",
+        "publishedAt": "2026-09-10T03:56:15Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2"
+      },
+      {
+        "title": "NSE slashes IPO ambitions as world’s biggest options boom fades",
+        "description": "Investor pressure led NSE executives to reduce their IPO valuation by about 15% ahead of next week’s launch, according to anonymous sources",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/nse-slashes-ipo-ambitions-as-world-s-biggest-options-boom-fades",
+        "publishedAt": "2026-09-10T03:32:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
+        "description": "President Donald Trump promised a $5,000 \"Trump dividend\" to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
+        "url": "https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention",
+        "publishedAt": "2026-09-10T03:20:25Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Talarico says he 'missed the mark' as he backtracks on controversial woke statements",
+        "description": "James Talarico now backs banning transgender surgeries for minors and opposing trans athletes in girls' sports as the Texas Senate race heats up.",
+        "url": "https://www.foxnews.com/politics/talarico-missed-mark-backtracks-controversial-woke-statements",
+        "publishedAt": "2026-09-10T02:12:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "China-Philippine Feud over South China Sea Escalates",
+        "description": "Philippine Defense Secretary Gilberto Teodoro was in the middle of his remarks to a defense forum in South Korea on Tuesday when China tried to intimidate him by having a note hand-delivered to his seat on the stage. \nThe post China-Philippine Feud over South…",
+        "url": "https://www.breitbart.com/national-security/2026/09/09/china-philippine-feud-over-south-china-sea-escalates/",
+        "publishedAt": "2026-09-09T20:30:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "From intelligence sharing to missile defense, how Israel's partnership protects American security",
+        "description": "Joint strikes on Iran, intelligence sharing and missile defense reveal why vilifying Israel in 2026 could prove self-defeating for the U.S.",
+        "url": "https://www.foxnews.com/opinion/from-intelligence-sharing-missile-defense-how-israels-partnership-protects-american-security",
+        "publishedAt": "2026-09-09T11:30:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "NSE slashes IPO ambitions as world’s biggest options boom fades",
+        "description": "Investor pressure led NSE executives to reduce their IPO valuation by about 15% ahead of next week’s launch, according to anonymous sources",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/nse-slashes-ipo-ambitions-as-world-s-biggest-options-boom-fades",
+        "publishedAt": "2026-09-10T03:32:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "15"
+      },
+      {
+        "title": "Researcher who departed AI role over fears of racing into extinction says people are 'begging' for regulation",
+        "description": "Jacob Coxon, the Anthropic researcher who left the company over fears the technology could take over the human race, shared his experience with Fox News.",
+        "url": "https://www.foxnews.com/media/researcher-departed-ai-role-fears-racing-extinction-says-people-begging-regulation",
+        "publishedAt": "2026-09-10T02:30:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Mike Davis Urges Trump DOJ to Withdraw 'Ill-Advised' Support of OpenAI in Copyright Lawsuit",
+        "description": "Prominent conservative lawyer Mike Davis is urging the DOJ to \"withdraw its statement of interest in the OpenAI lawsuit.\" The DOJ's support of OpenAI in a copyright lawsuit filed by the New York Times seems to contradict the White House AI framework.\nThe post…",
+        "url": "https://www.breitbart.com/tech/2026/09/09/mike-davis-urges-trump-doj-to-withdraw-ill-advised-support-of-openai-in-copyright-lawsuit/",
+        "publishedAt": "2026-09-09T20:48:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Rubio designates Ecuadorian gang linked to drug trafficking as terrorist group",
+        "description": "Secretary of State Marco Rubio announced the designation during a visit to Quito, accusing Los Tiguerones of aiding cartels and attacking civilians, police and journalists.",
+        "url": "https://www.foxnews.com/politics/rubio-designates-ecuadorian-gang-linked-drug-trafficking-terrorist-group",
+        "publishedAt": "2026-09-09T19:58:19Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Missouri AG Catherine Hanaway Sues ATF over Suppressor Registration",
+        "description": "Missouri Attorney General Catherine L. Hanaway filed a lawsuit against the ATF (Bureau of Alcohol, Tobacco, Firearms and Explosives) Tuesday, seeking to end the requirement that law-abiding Americans must register suppressors and short barrel rifles and shotg…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/09/09/missouri-ag-catherine-hanaway-sues-atf-over-suppressor-registration/",
+        "publishedAt": "2026-09-09T17:25:11Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
