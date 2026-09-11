@@ -1,126 +1,19 @@
 {
-  "generated_at": "2026-09-11T13:24:32.520941+00:00",
+  "generated_at": "2026-09-11T17:04:18.765316+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Kim Kardashian's baseball mom reality show looks absolutely full of fireworks, Collinsworth shines & $1 beers",
-        "description": "Roger Goodell's Wednesday NFL kickoff sets the stage, but Kim Kardashian's \"Team Moms: Baseball\" trailer is stealing the travel ball spotlight.",
-        "url": "https://www.foxnews.com/outkick-sports/kim-kardashian-baseball-mom-reality-show-looks-absolutely-full-fireworks-collinsworth-shines-1-beers",
-        "publishedAt": "2026-09-10T13:13:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "Core Producer Prices Rise Less Than Expected",
-        "description": "The producer price index, excluding food and energy, rose 0.2 percent last month, a slowdown from the previous month's revised 0.3 percent increase and lower than the 0.3 percent forecast by economists.\nThe post Core Producer Prices Rise Less Than Expected ap…",
-        "url": "https://www.breitbart.com/economy/2026/09/10/core-producer-prices-rise-less-than-expected/",
-        "publishedAt": "2026-09-10T13:00:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "0.2"
-      },
-      {
-        "title": "Floating solar panels could save cities millions. Is your town next?",
-        "description": "Lima, Ohio, has installed 3,120 floating solar panels on its Twin Lakes Reservoir, projecting nearly $10 million in electricity cost savings.",
-        "url": "https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next",
-        "publishedAt": "2026-09-10T12:41:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "3"
-      },
-      {
-        "title": "House panel to probe foreign ‘Trojan horses’ as Singham scrutiny widens",
-        "description": "House lawmakers will examine alleged foreign malign influence operations, including campaigns tied to China, Cuba and U.S. data centers.",
-        "url": "https://www.foxnews.com/politics/house-panel-probe-foreign-trojan-horses-singham-scrutiny-widens",
-        "publishedAt": "2026-09-10T11:45:03Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Let socialists rob from the rich 100% and you still won’t be able to pay the bills",
-        "description": "Tax the rich sounds simple, but Cato Institute estimates show seizing all top 400 billionaires' wealth covers just 9% of the DSA's $71 trillion platform.",
-        "url": "https://www.foxnews.com/opinion/let-socialists-rob-rich-100-percent-still-wont-able-pay-bills",
-        "publishedAt": "2026-09-10T11:00:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "100"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "China-Philippine Feud over South China Sea Escalates",
-        "description": "Philippine Defense Secretary Gilberto Teodoro was in the middle of his remarks to a defense forum in South Korea on Tuesday when China tried to intimidate him by having a note hand-delivered to his seat on the stage. \nThe post China-Philippine Feud over South…",
-        "url": "https://www.breitbart.com/national-security/2026/09/09/china-philippine-feud-over-south-china-sea-escalates/",
-        "publishedAt": "2026-09-09T20:30:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Kim Kardashian's baseball mom reality show looks absolutely full of fireworks, Collinsworth shines & $1 beers",
-        "description": "Roger Goodell's Wednesday NFL kickoff sets the stage, but Kim Kardashian's \"Team Moms: Baseball\" trailer is stealing the travel ball spotlight.",
-        "url": "https://www.foxnews.com/outkick-sports/kim-kardashian-baseball-mom-reality-show-looks-absolutely-full-fireworks-collinsworth-shines-1-beers",
-        "publishedAt": "2026-09-10T13:13:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "$"
-      },
-      {
-        "title": "NSE slashes IPO ambitions as world’s biggest options boom fades",
-        "description": "Investor pressure led NSE executives to reduce their IPO valuation by about 15% ahead of next week’s launch, according to anonymous sources",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-10/nse-slashes-ipo-ambitions-as-world-s-biggest-options-boom-fades",
-        "publishedAt": "2026-09-10T03:32:20Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Researcher who departed AI role over fears of racing into extinction says people are 'begging' for regulation",
-        "description": "Jacob Coxon, the Anthropic researcher who left the company over fears the technology could take over the human race, shared his experience with Fox News.",
-        "url": "https://www.foxnews.com/media/researcher-departed-ai-role-fears-racing-extinction-says-people-begging-regulation",
-        "publishedAt": "2026-09-10T02:30:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Mike Davis Urges Trump DOJ to Withdraw 'Ill-Advised' Support of OpenAI in Copyright Lawsuit",
-        "description": "Prominent conservative lawyer Mike Davis is urging the DOJ to \"withdraw its statement of interest in the OpenAI lawsuit.\" The DOJ's support of OpenAI in a copyright lawsuit filed by the New York Times seems to contradict the White House AI framework.\nThe post…",
-        "url": "https://www.breitbart.com/tech/2026/09/09/mike-davis-urges-trump-doj-to-withdraw-ill-advised-support-of-openai-in-copyright-lawsuit/",
-        "publishedAt": "2026-09-09T20:48:54Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Rubio designates Ecuadorian gang linked to drug trafficking as terrorist group",
-        "description": "Secretary of State Marco Rubio announced the designation during a visit to Quito, accusing Los Tiguerones of aiding cartels and attacking civilians, police and journalists.",
-        "url": "https://www.foxnews.com/politics/rubio-designates-ecuadorian-gang-linked-drug-trafficking-terrorist-group",
-        "publishedAt": "2026-09-09T19:58:19Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
