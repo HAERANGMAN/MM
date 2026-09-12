@@ -1,20 +1,148 @@
 {
-  "generated_at": "2026-09-12T06:30:08.621442+00:00",
+  "generated_at": "2026-09-12T11:12:44.187755+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-korea-econ": [
+      {
+        "title": "Fatwas, holy wars and socialism: Inside the Islamic conference where El-Sayed drew a hero’s welcome",
+        "description": "Michigan Democratic Senate candidate Abdul El-Sayed headlined an ISNA conference where an attendee called for a fatwa against members of Congress.",
+        "url": "https://www.foxnews.com/politics/fatwas-holy-wars-socialism-inside-islamic-conference-el-sayed-drew-heros-welcome",
+        "publishedAt": "2026-09-10T22:15:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-econ": [
+      {
+        "title": "Exclusive — Acting U.S. Labor Secretary Keith Sonderling: A 4-Year Degree Leads to Debt, Not Practical Job Skills",
+        "description": "With many Americans struggling under crippling student loan debt after chasing the empty promises of a four-year college degree, the Trump administration is trying to create opportunities for young people to access high-paying, high-skill jobs out of high sch…",
+        "url": "https://www.breitbart.com/politics/2026/09/10/exclusive-acting-u-s-labor-secretary-keith-sonderling-a-4-year-degree-leads-to-debt-not-practical-job-skills/",
+        "publishedAt": "2026-09-10T23:35:03Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4"
+      }
+    ],
+    "news-global-econ": [
+      {
+        "title": "West Faces More Threat Today Than in 9/11 Era, Says British Spy Boss",
+        "description": "The director general of Britain's domestic spy agency warned the overall threat picture is now worse than in 2001.\nThe post West Faces More Threat Today Than in 9/11 Era, Says British Spy Boss appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/europe/2026/09/11/west-faces-more-threat-today-than-in-9-11-era-says-british-spy-boss/",
+        "publishedAt": "2026-09-11T10:35:24Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "The Hispanic vote is up for grabs in 2026. Candidates who ignore it will lose",
+        "description": "Hispanic voters in battleground districts remain persuadable heading into 2026, with over half undecided and cost of living topping their concerns.",
+        "url": "https://www.foxnews.com/opinion/hispanic-vote-grabs-2026-candidates-ignore-lose",
+        "publishedAt": "2026-09-11T09:00:51Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Trump issues blunt midterm warning, Vance greeted with ‘48’ chants: Top takeaways from GOP convention",
+        "description": "President Donald Trump led the Dallas crowd in a voting pledge and warned supporters they'd \"go to hell\" if they skip the midterm elections this November.",
+        "url": "https://www.foxnews.com/politics/trump-issues-blunt-midterm-warning-vance-greeted-48-chants-top-takeaways-gop-convention",
+        "publishedAt": "2026-09-11T09:00:10Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "48"
+      },
+      {
+        "title": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing",
+        "description": "A capacity crowd at the Republicans' midterm convention in Dallas, Texas, is leaving energized after closing remarks from a powerhouse duo: Vice President JD Vance and President Donald Trump, making the case for the necessity of Republican victories in Novemb…",
+        "url": "https://www.breitbart.com/politics/2026/09/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/",
+        "publishedAt": "2026-09-11T03:49:35Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Sensex options swing sharply as 74,800 call jumps 340% during auction",
+        "description": "Sharp price swings in expiring contracts have renewed concerns over India’s derivatives settlement system and the mismatch between cash and options markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/sensex-options-whipsaw-in-india-closing-auction-as-changes-loom",
+        "publishedAt": "2026-09-11T02:27:43Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "74"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Fatwas, holy wars and socialism: Inside the Islamic conference where El-Sayed drew a hero’s welcome",
+        "description": "Michigan Democratic Senate candidate Abdul El-Sayed headlined an ISNA conference where an attendee called for a fatwa against members of Congress.",
+        "url": "https://www.foxnews.com/politics/fatwas-holy-wars-socialism-inside-islamic-conference-el-sayed-drew-heros-welcome",
+        "publishedAt": "2026-09-10T22:15:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "JOHN ONDRASIK: What 9/11 taught us about courage, unity and the price of freedom",
+        "description": "The song \"Tuesday\" honors September 11 victims as its creator asks whether America could still unite if another 9/11-scale attack struck today.",
+        "url": "https://www.foxnews.com/opinion/john-ondrasik-what-911-taught-us-about-courage-unity-price-freedom",
+        "publishedAt": "2026-09-11T09:00:55Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      },
+      {
+        "title": "Trump admin's list of US-designated 'foreign terrorist' groups in Latin America expands to 21",
+        "description": "Secretary of State Marco Rubio announced the foreign terrorist designation of Los Tiguerones during his diplomatic tour through Latin America.",
+        "url": "https://www.foxnews.com/politics/trumps-list-us-designated-foreign-terrorist-groups-latin-america-expands-21",
+        "publishedAt": "2026-09-11T07:48:00Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "21"
+      },
+      {
+        "title": "Rams' disaster in Australia raises the question: Should the team have followed the 49ers there earlier?",
+        "description": "Matthew Stafford and the Los Angeles Rams looked gassed in a 27-7 loss to the San Francisco 49ers in Melbourne as their travel strategy faces scrutiny.",
+        "url": "https://www.foxnews.com/outkick-sports/rams-disaster-australia-raises-question-should-team-followed-49ers-earlier",
+        "publishedAt": "2026-09-11T04:05:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "49"
+      },
+      {
+        "title": "Sensex options swing sharply as 74,800 call jumps 340% during auction",
+        "description": "Sharp price swings in expiring contracts have renewed concerns over India’s derivatives settlement system and the mismatch between cash and options markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/sensex-options-whipsaw-in-india-closing-auction-as-changes-loom",
+        "publishedAt": "2026-09-11T02:27:43Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "74"
+      },
+      {
+        "title": "U.S. District Court: Delaware Ban on Making, Possessing 'Ghost Guns' Unconstitutional",
+        "description": "The U.S. District Court for the District of Delaware on Thursday ruled that Delaware's ban on making and possessing \"ghost guns\" is unconstitutional.\nThe post U.S. District Court: Delaware Ban on Making, Possessing ‘Ghost Guns’ Unconstitutional appeared first…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/09/10/u-s-district-court-delaware-ban-making-possessing-ghost-guns-unconstitutional/",
+        "publishedAt": "2026-09-11T02:17:25Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
