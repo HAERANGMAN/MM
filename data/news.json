@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:07:38.501053+00:00",
+  "generated_at": "2026-09-12T19:17:07.915403+00:00",
   "sections": {
     "news-korea-econ": [
       {
@@ -33,156 +33,18 @@
         "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [
-      {
-        "title": "Exclusive — Acting U.S. Labor Secretary Keith Sonderling: A 4-Year Degree Leads to Debt, Not Practical Job Skills",
-        "description": "With many Americans struggling under crippling student loan debt after chasing the empty promises of a four-year college degree, the Trump administration is trying to create opportunities for young people to access high-paying, high-skill jobs out of high sch…",
-        "url": "https://www.breitbart.com/politics/2026/09/10/exclusive-acting-u-s-labor-secretary-keith-sonderling-a-4-year-degree-leads-to-debt-not-practical-job-skills/",
-        "publishedAt": "2026-09-10T23:35:03Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4"
-      }
-    ],
-    "news-global-econ": [
-      {
-        "title": "Jim Jordan: 'We Did What We Said We Were Going to Do in 2024'",
-        "description": "During an interview with Fox Business Network's \"The Evening Edit,\" Rep. Jim Jordan (R-OH), the chairman of the House Judiciary Committee, discussed the perceived uptick in the American economy, particularly in the manufacturing sector.\nThe post Jim Jordan: ‘…",
-        "url": "https://www.breitbart.com/clips/2026/09/11/jim-jordan-we-did-what-we-said-we-were-going-to-do-in-2024/",
-        "publishedAt": "2026-09-11T16:21:56Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "2024"
-      },
-      {
-        "title": "Iran-Backed Houthis Capture Strategic Red Sea Island",
-        "description": "The Iran-backed Houthi insurgents of Yemen on Friday declared they have taken control of Perim, a small volcanic island in the Bab el-Mandeb Strait, a vital shipping chokepoint that connects the Red Sea to the Gulf of Aden. The capture came one day after the …",
-        "url": "https://www.breitbart.com/national-security/2026/09/11/iran-backed-houthis-capture-strategic-red-sea-island/",
-        "publishedAt": "2026-09-11T15:47:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "8 biggest things we learned from Apple's 2026 event",
-        "description": "iPhone Duo opens to a 7.6-inch foldable display starting at $1,999, but Siri Recap's ambient listening on Apple Watch may spark privacy concerns.",
-        "url": "https://www.foxnews.com/tech/8-biggest-things-we-learned-apple-2026-event",
-        "publishedAt": "2026-09-11T14:30:20Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "8"
-      },
-      {
-        "title": "Oakland schools in hotseat over 'students of color' program while taking millions in federal funding",
-        "description": "Parents Defending Education filed a Title VI complaint alleging Oakland Unified School District's Latinx mentoring program excludes White students.",
-        "url": "https://www.foxnews.com/media/oakland-schools-hotseat-over-students-color-program-while-taking-millions-federal-funding",
-        "publishedAt": "2026-09-11T14:00:50Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "NFL fans react to Netflix host Elle Duncan's gloves, NFL Big Js were wrong & Michael Irvin's insane hair",
-        "description": "Welles Crowther was just 24 when he chose to save others in the South Tower on 9/11, telling survivors to stand up and help those around them.",
-        "url": "https://www.foxnews.com/outkick-sports/nfl-fans-react-netflix-host-elle-duncans-gloves-nfl-big-js-wrong-michael-irvins-insane-hair",
-        "publishedAt": "2026-09-11T13:38:48Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "24"
-      }
-    ],
-    "news-korea-soc": [
-      {
-        "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
-        "description": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda's complex plots as the greatest terrorism threat to the homeland.",
-        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
-        "publishedAt": "2026-09-11T17:04:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
-        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
-        "publishedAt": "2026-09-11T12:25:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fatwas, holy wars and socialism: Inside the Islamic conference where El-Sayed drew a hero’s welcome",
-        "description": "Michigan Democratic Senate candidate Abdul El-Sayed headlined an ISNA conference where an attendee called for a fatwa against members of Congress.",
-        "url": "https://www.foxnews.com/politics/fatwas-holy-wars-socialism-inside-islamic-conference-el-sayed-drew-heros-welcome",
-        "publishedAt": "2026-09-10T22:15:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
+    "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Sebastian Gorka: Have We Defeated the Jihadists?",
-        "description": "What were the goals of the 9/11 jihadists, beyond the mayhem and destruction of that one day? Have they achieved any of their goals since 9/11?\nThe post Sebastian Gorka: Have We Defeated the Jihadists? appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/09/11/sebastian-gorka-have-we-defeated-the-jihadists/",
-        "publishedAt": "2026-09-11T17:07:17Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
-        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
-        "publishedAt": "2026-09-11T12:25:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "JOHN ONDRASIK: What 9/11 taught us about courage, unity and the price of freedom",
-        "description": "The song \"Tuesday\" honors September 11 victims as its creator asks whether America could still unite if another 9/11-scale attack struck today.",
-        "url": "https://www.foxnews.com/opinion/john-ondrasik-what-911-taught-us-about-courage-unity-price-freedom",
-        "publishedAt": "2026-09-11T09:00:55Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Trump admin's list of US-designated 'foreign terrorist' groups in Latin America expands to 21",
-        "description": "Secretary of State Marco Rubio announced the foreign terrorist designation of Los Tiguerones during his diplomatic tour through Latin America.",
-        "url": "https://www.foxnews.com/politics/trumps-list-us-designated-foreign-terrorist-groups-latin-america-expands-21",
-        "publishedAt": "2026-09-11T07:48:00Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "21"
-      },
-      {
-        "title": "Rams' disaster in Australia raises the question: Should the team have followed the 49ers there earlier?",
-        "description": "Matthew Stafford and the Los Angeles Rams looked gassed in a 27-7 loss to the San Francisco 49ers in Melbourne as their travel strategy faces scrutiny.",
-        "url": "https://www.foxnews.com/outkick-sports/rams-disaster-australia-raises-question-should-team-followed-49ers-earlier",
-        "publishedAt": "2026-09-11T04:05:23Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "49"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
