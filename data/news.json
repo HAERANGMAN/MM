@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-12T14:09:14.726057+00:00",
+  "generated_at": "2026-09-12T17:07:38.501053+00:00",
   "sections": {
     "news-korea-econ": [
+      {
+        "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+        "description": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda's complex plots as the greatest terrorism threat to the homeland.",
+        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+        "publishedAt": "2026-09-11T17:04:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      },
       {
         "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
         "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
@@ -37,6 +47,36 @@
     ],
     "news-global-econ": [
       {
+        "title": "Jim Jordan: 'We Did What We Said We Were Going to Do in 2024'",
+        "description": "During an interview with Fox Business Network's \"The Evening Edit,\" Rep. Jim Jordan (R-OH), the chairman of the House Judiciary Committee, discussed the perceived uptick in the American economy, particularly in the manufacturing sector.\nThe post Jim Jordan: ‘…",
+        "url": "https://www.breitbart.com/clips/2026/09/11/jim-jordan-we-did-what-we-said-we-were-going-to-do-in-2024/",
+        "publishedAt": "2026-09-11T16:21:56Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "2024"
+      },
+      {
+        "title": "Iran-Backed Houthis Capture Strategic Red Sea Island",
+        "description": "The Iran-backed Houthi insurgents of Yemen on Friday declared they have taken control of Perim, a small volcanic island in the Bab el-Mandeb Strait, a vital shipping chokepoint that connects the Red Sea to the Gulf of Aden. The capture came one day after the …",
+        "url": "https://www.breitbart.com/national-security/2026/09/11/iran-backed-houthis-capture-strategic-red-sea-island/",
+        "publishedAt": "2026-09-11T15:47:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "8 biggest things we learned from Apple's 2026 event",
+        "description": "iPhone Duo opens to a 7.6-inch foldable display starting at $1,999, but Siri Recap's ambient listening on Apple Watch may spark privacy concerns.",
+        "url": "https://www.foxnews.com/tech/8-biggest-things-we-learned-apple-2026-event",
+        "publishedAt": "2026-09-11T14:30:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "8"
+      },
+      {
         "title": "Oakland schools in hotseat over 'students of color' program while taking millions in federal funding",
         "description": "Parents Defending Education filed a Title VI complaint alleging Oakland Unified School District's Latinx mentoring program excludes White students.",
         "url": "https://www.foxnews.com/media/oakland-schools-hotseat-over-students-color-program-while-taking-millions-federal-funding",
@@ -55,39 +95,19 @@
           "name": "Fox News"
         },
         "numericHint": "24"
-      },
+      }
+    ],
+    "news-korea-soc": [
       {
-        "title": "Core Prices Rise More Than Expected, Raising Odds of Fed Hike",
-        "description": "The consumer price index rose 0.4 percent compared with July, driven higher by rising gasoline prices, the Labor Department reported Friday. Over the year, the consumer price index is up 3.4 percent.\nThe post Core Prices Rise More Than Expected, Raising Odds …",
-        "url": "https://www.breitbart.com/economy/2026/09/11/consumer-prices-up-3-4-in-august/",
-        "publishedAt": "2026-09-11T12:36:39Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "0.4"
-      },
-      {
-        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
-        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
-        "publishedAt": "2026-09-11T12:25:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "DR MARC SIEGEL: Twenty-five years after 9/11, the deadly health crisis is still claiming lives",
-        "description": "A physician who helped empty Bellevue Hospital on 9/11 details how World Trade Center cancer cases have jumped 75% between 2023 and 2025 alone.",
-        "url": "https://www.foxnews.com/opinion/dr-marc-siegel-twenty-five-years-after-911-deadly-health-crisis-still-claiming-lives",
-        "publishedAt": "2026-09-11T11:50:38Z",
+        "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+        "description": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda's complex plots as the greatest terrorism threat to the homeland.",
+        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+        "publishedAt": "2026-09-11T17:04:34Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "9"
-      }
-    ],
-    "news-korea-soc": [
+      },
       {
         "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
         "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
@@ -111,6 +131,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Sebastian Gorka: Have We Defeated the Jihadists?",
+        "description": "What were the goals of the 9/11 jihadists, beyond the mayhem and destruction of that one day? Have they achieved any of their goals since 9/11?\nThe post Sebastian Gorka: Have We Defeated the Jihadists? appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/09/11/sebastian-gorka-have-we-defeated-the-jihadists/",
+        "publishedAt": "2026-09-11T17:07:17Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "9"
+      },
       {
         "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
         "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
@@ -150,16 +180,6 @@
           "name": "Fox News"
         },
         "numericHint": "49"
-      },
-      {
-        "title": "Sensex options swing sharply as 74,800 call jumps 340% during auction",
-        "description": "Sharp price swings in expiring contracts have renewed concerns over India’s derivatives settlement system and the mismatch between cash and options markets",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-10/sensex-options-whipsaw-in-india-closing-auction-as-changes-loom",
-        "publishedAt": "2026-09-11T02:27:43Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "74"
       }
     ]
   },
