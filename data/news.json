@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-09-12T19:17:07.915403+00:00",
+  "generated_at": "2026-09-12T21:29:06.416921+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
-        "description": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda's complex plots as the greatest terrorism threat to the homeland.",
-        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
-        "publishedAt": "2026-09-11T17:04:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
-        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
-        "publishedAt": "2026-09-11T12:25:59Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Fatwas, holy wars and socialism: Inside the Islamic conference where El-Sayed drew a hero’s welcome",
-        "description": "Michigan Democratic Senate candidate Abdul El-Sayed headlined an ISNA conference where an attendee called for a fatwa against members of Congress.",
-        "url": "https://www.foxnews.com/politics/fatwas-holy-wars-socialism-inside-islamic-conference-el-sayed-drew-heros-welcome",
-        "publishedAt": "2026-09-10T22:15:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -40,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
