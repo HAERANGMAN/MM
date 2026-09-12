@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-12T11:12:44.187755+00:00",
+  "generated_at": "2026-09-12T14:09:14.726057+00:00",
   "sections": {
     "news-korea-econ": [
+      {
+        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
+        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+        "publishedAt": "2026-09-11T12:25:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Fatwas, holy wars and socialism: Inside the Islamic conference where El-Sayed drew a hero’s welcome",
         "description": "Michigan Democratic Senate candidate Abdul El-Sayed headlined an ISNA conference where an attendee called for a fatwa against members of Congress.",
@@ -27,57 +37,67 @@
     ],
     "news-global-econ": [
       {
-        "title": "West Faces More Threat Today Than in 9/11 Era, Says British Spy Boss",
-        "description": "The director general of Britain's domestic spy agency warned the overall threat picture is now worse than in 2001.\nThe post West Faces More Threat Today Than in 9/11 Era, Says British Spy Boss appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/europe/2026/09/11/west-faces-more-threat-today-than-in-9-11-era-says-british-spy-boss/",
-        "publishedAt": "2026-09-11T10:35:24Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "9"
-      },
-      {
-        "title": "The Hispanic vote is up for grabs in 2026. Candidates who ignore it will lose",
-        "description": "Hispanic voters in battleground districts remain persuadable heading into 2026, with over half undecided and cost of living topping their concerns.",
-        "url": "https://www.foxnews.com/opinion/hispanic-vote-grabs-2026-candidates-ignore-lose",
-        "publishedAt": "2026-09-11T09:00:51Z",
+        "title": "Oakland schools in hotseat over 'students of color' program while taking millions in federal funding",
+        "description": "Parents Defending Education filed a Title VI complaint alleging Oakland Unified School District's Latinx mentoring program excludes White students.",
+        "url": "https://www.foxnews.com/media/oakland-schools-hotseat-over-students-color-program-while-taking-millions-federal-funding",
+        "publishedAt": "2026-09-11T14:00:50Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "2026"
-      },
-      {
-        "title": "Trump issues blunt midterm warning, Vance greeted with ‘48’ chants: Top takeaways from GOP convention",
-        "description": "President Donald Trump led the Dallas crowd in a voting pledge and warned supporters they'd \"go to hell\" if they skip the midterm elections this November.",
-        "url": "https://www.foxnews.com/politics/trump-issues-blunt-midterm-warning-vance-greeted-48-chants-top-takeaways-gop-convention",
-        "publishedAt": "2026-09-11T09:00:10Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "48"
-      },
-      {
-        "title": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing",
-        "description": "A capacity crowd at the Republicans' midterm convention in Dallas, Texas, is leaving energized after closing remarks from a powerhouse duo: Vice President JD Vance and President Donald Trump, making the case for the necessity of Republican victories in Novemb…",
-        "url": "https://www.breitbart.com/politics/2026/09/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/",
-        "publishedAt": "2026-09-11T03:49:35Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Sensex options swing sharply as 74,800 call jumps 340% during auction",
-        "description": "Sharp price swings in expiring contracts have renewed concerns over India’s derivatives settlement system and the mismatch between cash and options markets",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-10/sensex-options-whipsaw-in-india-closing-auction-as-changes-loom",
-        "publishedAt": "2026-09-11T02:27:43Z",
+        "title": "NFL fans react to Netflix host Elle Duncan's gloves, NFL Big Js were wrong & Michael Irvin's insane hair",
+        "description": "Welles Crowther was just 24 when he chose to save others in the South Tower on 9/11, telling survivors to stand up and help those around them.",
+        "url": "https://www.foxnews.com/outkick-sports/nfl-fans-react-netflix-host-elle-duncans-gloves-nfl-big-js-wrong-michael-irvins-insane-hair",
+        "publishedAt": "2026-09-11T13:38:48Z",
         "source": {
-          "name": "Bloomberg"
+          "name": "Fox News"
         },
-        "numericHint": "74"
+        "numericHint": "24"
+      },
+      {
+        "title": "Core Prices Rise More Than Expected, Raising Odds of Fed Hike",
+        "description": "The consumer price index rose 0.4 percent compared with July, driven higher by rising gasoline prices, the Labor Department reported Friday. Over the year, the consumer price index is up 3.4 percent.\nThe post Core Prices Rise More Than Expected, Raising Odds …",
+        "url": "https://www.breitbart.com/economy/2026/09/11/consumer-prices-up-3-4-in-august/",
+        "publishedAt": "2026-09-11T12:36:39Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "0.4"
+      },
+      {
+        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
+        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+        "publishedAt": "2026-09-11T12:25:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "DR MARC SIEGEL: Twenty-five years after 9/11, the deadly health crisis is still claiming lives",
+        "description": "A physician who helped empty Bellevue Hospital on 9/11 details how World Trade Center cancer cases have jumped 75% between 2023 and 2025 alone.",
+        "url": "https://www.foxnews.com/opinion/dr-marc-siegel-twenty-five-years-after-911-deadly-health-crisis-still-claiming-lives",
+        "publishedAt": "2026-09-11T11:50:38Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
       }
     ],
     "news-korea-soc": [
+      {
+        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
+        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+        "publishedAt": "2026-09-11T12:25:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Fatwas, holy wars and socialism: Inside the Islamic conference where El-Sayed drew a hero’s welcome",
         "description": "Michigan Democratic Senate candidate Abdul El-Sayed headlined an ISNA conference where an attendee called for a fatwa against members of Congress.",
@@ -91,6 +111,16 @@
     ],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+        "description": "Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
+        "url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+        "publishedAt": "2026-09-11T12:25:59Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "JOHN ONDRASIK: What 9/11 taught us about courage, unity and the price of freedom",
         "description": "The song \"Tuesday\" honors September 11 victims as its creator asks whether America could still unite if another 9/11-scale attack struck today.",
@@ -130,16 +160,6 @@
           "name": "Bloomberg"
         },
         "numericHint": "74"
-      },
-      {
-        "title": "U.S. District Court: Delaware Ban on Making, Possessing 'Ghost Guns' Unconstitutional",
-        "description": "The U.S. District Court for the District of Delaware on Thursday ruled that Delaware's ban on making and possessing \"ghost guns\" is unconstitutional.\nThe post U.S. District Court: Delaware Ban on Making, Possessing ‘Ghost Guns’ Unconstitutional appeared first…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/10/u-s-district-court-delaware-ban-making-possessing-ghost-guns-unconstitutional/",
-        "publishedAt": "2026-09-11T02:17:25Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ]
   },
