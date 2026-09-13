@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-09-13T11:40:23.710220+00:00",
+  "generated_at": "2026-09-13T15:03:22.099412+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+        "description": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda's complex plots as the greatest terrorism threat to the homeland.",
+        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+        "publishedAt": "2026-09-11T17:04:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania'",
+        "description": "Pennsylvania state Rep. David Maloney wants President Donald Trump to rename Lake Erie to \"Lake Pennsylvania,\" following recent name changes to other bodies of water.",
+        "url": "https://www.foxnews.com/politics/pennsylvania-lawmaker-suggests-trump-should-rename-lake-erie-lake-pennsylvania",
+        "publishedAt": "2026-09-12T10:03:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Indian stock markets are losing their sheen as global funds exit. Here’s why",
+        "description": "Global funds are increasingly exiting Indian stocks, citing lackluster growth and high valuations amid a shift towards AI-focused markets.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero",
+        "publishedAt": "2026-09-12T05:09:00Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Iran takes defiant stance as US war deepens its isolation",
+        "description": "Iran, facing heavy US sanctions and ongoing attacks, is keen to position BRICS as a counterweight to the US-led economic and political order",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-11/iran-turns-to-brics-summit-as-us-war-deepens-its-isolation",
+        "publishedAt": "2026-09-12T04:20:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Dabble Promo Code FOXNEWS: Pay $5 get $50",
+        "description": "Claim the Dabble promo code FOXNEWS for September 2026. Get $50 when you play $5 with Dabble Fantasy, see how to sign up, the full terms, and whether the offer is worth it.",
+        "url": "https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-pay-5-get-50",
+        "publishedAt": "2026-09-12T02:32:16Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Underdog Promo Code FOXNEWS: Deposit match up to $1,000",
+        "description": "Claim the Underdog promo code FOXNEWS for September 2026. Get Deposit match up to $1,000, see how to sign up, the full terms, and whether the offer is worth it.",
+        "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-deposit-match-up-1000",
+        "publishedAt": "2026-09-12T00:26:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "$"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+        "description": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda's complex plots as the greatest terrorism threat to the homeland.",
+        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+        "publishedAt": "2026-09-11T17:04:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "9"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "'Matrix' Director Lilly Wachowski Accuses 'Harry Potter' Fans of 'Supporting Trans Genocide,' Praises 'Ally' Christopher Nolan",
+        "description": "Transgender filmmaker Lilly Wachowski called SpaceX CEO Elon Musk and author J.K. Rowling \"literal Nazis\" and accused Harry Potter fans of \"supporting trans genocide.\"\nThe post ‘Matrix’ Director Lilly Wachowski Accuses ‘Harry Potter’ Fans of ‘Supporting Trans…",
+        "url": "https://www.breitbart.com/entertainment/2026/09/12/matrix-director-lilly-wachowski-accuses-harry-potter-fans-of-supporting-trans-genocide-praises-ally-christopher-nolan/",
+        "publishedAt": "2026-09-12T13:48:28Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ecuador's Noboa Praises Trump-Rubio Cartel Crackdown Strategy",
+        "description": "QUITO, Ecuador — Ecuadorian President Daniel Noboa fully aligned his administration with Washington’s aggressive strategy to dismantle transnational criminal organizations. This week, Noboa welcomed high-level U.S. support and reinforced warnings from the Uni…",
+        "url": "https://www.breitbart.com/border/2026/09/11/ecuadors-noboa-praises-trump-rubio-cartel-crackdown-strategy/",
+        "publishedAt": "2026-09-12T05:25:58Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Oracle to spend an additional $700 million on more job cuts",
+        "description": "Oracle’s “2026 Restructuring Plan” job cuts are now estimated to cost about $2.8 billion, primarily in severance payments to laid-off employees",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+        "publishedAt": "2026-09-12T05:12:43Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      },
+      {
+        "title": "Indian stock markets are losing their sheen as global funds exit. Here’s why",
+        "description": "Global funds are increasingly exiting Indian stocks, citing lackluster growth and high valuations amid a shift towards AI-focused markets.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero",
+        "publishedAt": "2026-09-12T05:09:00Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Inside Trump’s intimate meeting with nation’s bravest soldiers during whirlwind Texas trip",
+        "description": "Trump toured the new National Medal of Honor Museum in Arlington, Texas, then signed legislation for a new monument near the Lincoln Memorial.",
+        "url": "https://www.foxnews.com/politics/inside-trumps-intimate-meeting-nations-bravest-soldiers-whirlwind-texas-trip",
+        "publishedAt": "2026-09-11T20:21:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
