@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-09-13T20:45:09.863484+00:00",
+  "generated_at": "2026-09-13T22:39:52.243301+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "World-record bluefin tuna caught off the coast of San Diego on rod and reel by sport fisherman",
-        "description": "A record 446-pound giant bluefin tuna was reeled in off San Diego on a rod and reel, and the massive catch is now being served as local sashimi.",
-        "url": "https://www.foxnews.com/outkick-culture/world-record-bluefin-tuna-caught-coast-san-diego-rod-reel-sport-fisherman",
-        "publishedAt": "2026-09-12T20:25:22Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "446"
-      },
-      {
-        "title": "As Americans are crushed by affordability, growing trend of mayors pushing cash handouts as the answer",
-        "description": "The Economic Securities Project argues cash assistance works best during life transitions as mayors scramble to replace expiring ARPA pandemic aid.",
-        "url": "https://www.foxnews.com/media/americans-crushed-affordability-organization-claims-cash-handouts-answer",
-        "publishedAt": "2026-09-12T20:00:29Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Henry Winkler's wife says the actor tends to exaggerate about the size of his ... fish",
-        "description": "Henry Winkler's wife Stacey claims the \"Happy Days\" star pads his fly-fishing numbers and becomes a \"7-year-old\" the moment he picks up a fly rod.",
-        "url": "https://www.foxnews.com/outkick-culture/henry-winkler-wife-says-actor-tends-exaggerate-size-fish",
-        "publishedAt": "2026-09-12T19:50:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "7"
-      },
-      {
-        "title": "bet365 Bonus Code: Bet $10, Get $365 on Connor Benn vs Ryan Garcia, Whether Your Bet Wins or Loses",
-        "description": "Use the bet365 bonus code to bet $10 on Conor Benn vs. Ryan Garcia and get $365 in bonus bets whether your wager wins or loses.",
-        "url": "https://www.foxnews.com/outkick-sports/bet365-bonus-code-bet-10-get-365-connor-benn-vs-ryan-garcia-whether-your-bet-wins-loses",
-        "publishedAt": "2026-09-12T17:13:32Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "365"
-      },
-      {
-        "title": "State Lawmaker Wants Trump to Rename Lake Erie as 'Lake Pennsylvania'",
-        "description": "A state representative is asking President Donald Trump to rename Lake Erie to “Lake Pennsylvania.”\nThe post State Lawmaker Wants Trump to Rename Lake Erie as ‘Lake Pennsylvania’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/environment/2026/09/12/state-lawmaker-wants-trump-to-rename-lake-erie-as-lake-pennsylvania/",
-        "publishedAt": "2026-09-12T15:24:13Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Intel chief warns of 'evolving' threats as terror groups now 'recruit their agents online'",
-        "description": "Director of National Intelligence Jay Clayton warns terrorists now recruit online, citing an alleged ISIS bomb plot near New York City's Gracie Mansion.",
-        "url": "https://www.foxnews.com/media/intel-chief-warns-evolving-threats-terror-groups-recruit-agents-online",
-        "publishedAt": "2026-09-12T17:55:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Exclusive — Sebastian Gorka: Under President Trump's Leadership 'Global Jihadi Movement Is on the Back Foot'",
-        "description": "Deputy Assistant to President Donald Trump and Senior Director for Counterterrorism on the National Security Council Dr. Sebastian Gorka shared that under Trump's leadership \"the global jihadi movement is on the back foot.\"\nThe post Exclusive — Sebastian Gork…",
-        "url": "https://www.breitbart.com/national-security/2026/09/12/exclusive-sebastian-gorka-under-president-trumps-leadership-global-jihadi-movement-is-on-the-back-foot/",
-        "publishedAt": "2026-09-12T17:31:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Colombian President Abelardo de la Espriella Loosens Restrictions on Being Armed for Self-Defense",
-        "description": "Colombian President Abelardo de la Espriella issued a decree loosening a decades old restriction on carrying firearms in public for self-defense.\nThe post Colombian President Abelardo de la Espriella Loosens Restrictions on Being Armed for Self-Defense appear…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/12/colombian-president-abelardo-de-la-espriella-loosens-restrictions-on-being-armed-for-self-defense/",
-        "publishedAt": "2026-09-12T16:37:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bill Maher rips Macklemore's Gaza stance, says celebrity 'moral confusion' is fueling antisemitism",
-        "description": "Bill Maher targeted Macklemore on Rosh Hashanah for calling the Gaza war a genocide, arguing that the claim fuels a global rise in antisemitism.",
-        "url": "https://www.foxnews.com/media/bill-maher-rips-macklemore-gaza-stance-says-celebrity-moral-confusion-fueling-antisemitism",
-        "publishedAt": "2026-09-12T15:48:04Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "'Matrix' Director Lilly Wachowski Accuses 'Harry Potter' Fans of 'Supporting Trans Genocide,' Praises 'Ally' Christopher Nolan",
-        "description": "Transgender filmmaker Lilly Wachowski called SpaceX CEO Elon Musk and author J.K. Rowling \"literal Nazis\" and accused Harry Potter fans of \"supporting trans genocide.\"\nThe post ‘Matrix’ Director Lilly Wachowski Accuses ‘Harry Potter’ Fans of ‘Supporting Trans…",
-        "url": "https://www.breitbart.com/entertainment/2026/09/12/matrix-director-lilly-wachowski-accuses-harry-potter-fans-of-supporting-trans-genocide-praises-ally-christopher-nolan/",
-        "publishedAt": "2026-09-12T13:48:28Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
