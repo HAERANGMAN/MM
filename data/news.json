@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-13T18:06:34.942499+00:00",
+  "generated_at": "2026-09-13T20:45:09.863484+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "World-record bluefin tuna caught off the coast of San Diego on rod and reel by sport fisherman",
+        "description": "A record 446-pound giant bluefin tuna was reeled in off San Diego on a rod and reel, and the massive catch is now being served as local sashimi.",
+        "url": "https://www.foxnews.com/outkick-culture/world-record-bluefin-tuna-caught-coast-san-diego-rod-reel-sport-fisherman",
+        "publishedAt": "2026-09-12T20:25:22Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "446"
+      },
+      {
+        "title": "As Americans are crushed by affordability, growing trend of mayors pushing cash handouts as the answer",
+        "description": "The Economic Securities Project argues cash assistance works best during life transitions as mayors scramble to replace expiring ARPA pandemic aid.",
+        "url": "https://www.foxnews.com/media/americans-crushed-affordability-organization-claims-cash-handouts-answer",
+        "publishedAt": "2026-09-12T20:00:29Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Henry Winkler's wife says the actor tends to exaggerate about the size of his ... fish",
+        "description": "Henry Winkler's wife Stacey claims the \"Happy Days\" star pads his fly-fishing numbers and becomes a \"7-year-old\" the moment he picks up a fly rod.",
+        "url": "https://www.foxnews.com/outkick-culture/henry-winkler-wife-says-actor-tends-exaggerate-size-fish",
+        "publishedAt": "2026-09-12T19:50:49Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "7"
+      },
       {
         "title": "bet365 Bonus Code: Bet $10, Get $365 on Connor Benn vs Ryan Garcia, Whether Your Bet Wins or Loses",
         "description": "Use the bet365 bonus code to bet $10 on Conor Benn vs. Ryan Garcia and get $365 in bonus bets whether your wager wins or loses.",
@@ -21,36 +51,6 @@
         "publishedAt": "2026-09-12T15:24:13Z",
         "source": {
           "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania'",
-        "description": "Pennsylvania state Rep. David Maloney wants President Donald Trump to rename Lake Erie to \"Lake Pennsylvania,\" following recent name changes to other bodies of water.",
-        "url": "https://www.foxnews.com/politics/pennsylvania-lawmaker-suggests-trump-should-rename-lake-erie-lake-pennsylvania",
-        "publishedAt": "2026-09-12T10:03:49Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Indian stock markets are losing their sheen as global funds exit. Here’s why",
-        "description": "Global funds are increasingly exiting Indian stocks, citing lackluster growth and high valuations amid a shift towards AI-focused markets.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-12/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero",
-        "publishedAt": "2026-09-12T05:09:00Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Iran takes defiant stance as US war deepens its isolation",
-        "description": "Iran, facing heavy US sanctions and ongoing attacks, is keen to position BRICS as a counterweight to the US-led economic and political order",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-11/iran-turns-to-brics-summit-as-us-war-deepens-its-isolation",
-        "publishedAt": "2026-09-12T04:20:20Z",
-        "source": {
-          "name": "Bloomberg"
         },
         "numericHint": "데이터없음"
       }
