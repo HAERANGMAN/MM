@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:33:51.918637+00:00",
+  "generated_at": "2026-09-14T23:24:41.186996+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
@@ -59,6 +59,26 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
+        "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
+        "description": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they've entered a vulnerable U.S. Navy kill box.",
+        "url": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+        "publishedAt": "2026-09-13T22:52:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Ms. Rachel claims celebrities silent on Gaza would ‘probably’ speak if children ‘were White’",
+        "description": "Children's YouTuber Ms. Rachel accused silent celebrities of racism over Palestinian children killed in Gaza, claiming a racial double standard.",
+        "url": "https://www.foxnews.com/media/ms-rachel-claims-celebrities-silent-gaza-would-probably-speak-children-were-white",
+        "publishedAt": "2026-09-13T20:39:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
         "title": "Breanna Stewart's double-double, Caitlin Clark's emergence off bench help US to World Cup win over France",
         "description": "Team USA won its fifth consecutive FIBA Women's Basketball World Cup tournament on Sunday with a dominating victory against France in Germany.",
         "url": "https://www.foxnews.com/outkick-sports/breanna-stewarts-double-double-caitlin-clarks-emergence-off-bench-help-us-world-cup-win-over-france",
@@ -87,26 +107,6 @@
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
-      },
-      {
-        "title": "FIBA Secretary General Andreas Zagklis speaks out on Caitlin Clark's impact on growth of World Cup",
-        "description": "FIBA's secretary general says Caitlin Clark and women's basketball stars could surpass male players in popularity at the 2028 Los Angeles Olympics.",
-        "url": "https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup",
-        "publishedAt": "2026-09-13T16:27:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "2028"
-      },
-      {
-        "title": "WATCH: Packed Indonesia Ferry Capsizes, Rescue Underway But Death Toll Could Hit 100+",
-        "description": "The death toll could be daunting following a ferry carrying 243 passengers capsized in severe weather in the Java Sea on Sunday, with 115 rescued but 125 still missing, according to officials and latest news reports coming out of the\nThe post WATCH: Packed In…",
-        "url": "https://www.breitbart.com/asia/2026/09/13/watch-packed-indonesia-ferry-capsizes-rescue-underway-but-death-toll-could-hit-100/",
-        "publishedAt": "2026-09-13T15:15:06Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "100"
       }
     ]
   },
