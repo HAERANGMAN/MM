@@ -1,115 +1,19 @@
 {
-  "generated_at": "2026-09-15T01:41:08.641135+00:00",
+  "generated_at": "2026-09-15T06:43:55.609171+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [
-      {
-        "title": "Joanna Gaines reveals why she and Chip walked away from 'Fixer Upper' at the height of its success",
-        "description": "Joanna Gaines described a deep \"soul weariness\" that led her and Chip Gaines to walk away from \"Fixer Upper\" despite pressure to keep going.",
-        "url": "https://www.foxnews.com/entertainment/joanna-gaines-reveals-why-she-chip-walked-away-fixer-upper-height-success",
-        "publishedAt": "2026-09-13T19:55:05Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Brandon Johnson Will Seek Second Term as Mayor of Homicide-Plagued Chicago",
-        "description": "Chicago Mayor Brandon Johnson (D) has all but made it official, telling the New York Times on Sunday that he will seek a second term as the mayor of the city that repeatedly logs the nation's highest number of homicides.\nThe post Brandon Johnson Will Seek Sec…",
-        "url": "https://www.breitbart.com/politics/2026/09/13/brandon-johnson-will-seek-another-term-as-mayor-of-homicide-plagued-chicago/",
-        "publishedAt": "2026-09-13T18:51:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Obama privately sounds alarm on ‘dangerous’ AI, urges Democrats to put issue at center of agenda",
-        "description": "Barack Obama warned AI could become dangerous without greater oversight and urged Hakeem Jeffries to launch a very public conversation on it.",
-        "url": "https://www.foxnews.com/media/obama-privately-sounds-alarm-dangerous-ai-urges-democrats-put-issue-center-agenda",
-        "publishedAt": "2026-09-13T16:15:33Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Golf crowd cheers Trump as he walks out at Irish Open | Fox News Video",
-        "description": "The Irish Open crowd at the Trump International Golf Club in Doonbeg cheered as President Donald Trump walked out Sunday.",
-        "url": "https://www.foxnews.com/video/6405006637112",
-        "publishedAt": "2026-09-13T14:37:36Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Trump downplays AI concerns as CEOs call for slowing technology",
-        "description": "Trump minimizes AI risks as industry leaders advocate for a slower development pace amid growing safety concerns.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-        "publishedAt": "2026-09-13T14:33:52Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
-        "description": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they've entered a vulnerable U.S. Navy kill box.",
-        "url": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
-        "publishedAt": "2026-09-13T22:52:42Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Ms. Rachel claims celebrities silent on Gaza would ‘probably’ speak if children ‘were White’",
-        "description": "Children's YouTuber Ms. Rachel accused silent celebrities of racism over Palestinian children killed in Gaza, claiming a racial double standard.",
-        "url": "https://www.foxnews.com/media/ms-rachel-claims-celebrities-silent-gaza-would-probably-speak-children-were-white",
-        "publishedAt": "2026-09-13T20:39:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Breanna Stewart's double-double, Caitlin Clark's emergence off bench help US to World Cup win over France",
-        "description": "Team USA won its fifth consecutive FIBA Women's Basketball World Cup tournament on Sunday with a dominating victory against France in Germany.",
-        "url": "https://www.foxnews.com/outkick-sports/breanna-stewarts-double-double-caitlin-clarks-emergence-off-bench-help-us-world-cup-win-over-france",
-        "publishedAt": "2026-09-13T19:49:35Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Arrest rips apart media narrative on death of Black woman found hanging from Mississippi tree",
-        "description": "Jarques Ratliff faces a murder charge in the death of Tasia Fortune, a 29-year-old mother found hanging from a tree behind a Jackson, Mississippi home.",
-        "url": "https://www.foxnews.com/us/arrest-rips-apart-media-narrative-death-black-woman-found-hanging-mississippi-tree",
-        "publishedAt": "2026-09-13T17:24:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "29"
-      },
-      {
-        "title": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
-        "description": "President Donald Trump told reporters he wants Volodymyr Zelensky to stop hitting Russian diesel refineries, saying the strikes are causing a global fuel shortage.",
-        "url": "https://www.foxnews.com/politics/trump-tells-zelenskyy-stop-doing-one-thing-during-attacks-russia",
-        "publishedAt": "2026-09-13T17:14:44Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
