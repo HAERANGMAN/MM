@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-09-16T05:32:57.657257+00:00",
+  "generated_at": "2026-09-16T10:15:52.642944+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "Indian bonds sink as RBI plans ₹1 lakh crore sales to drain liquidity",
-        "description": "2031 yield jumps 16 bps; Citi sees 50-75 bps of rate hikes starting in October amid oil and inflation risks",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures",
-        "publishedAt": "2026-09-15T04:47:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "NSE IPO threatens to hollow out India’s unlisted shadow market",
-        "description": "The landmark listing of National Stock Exchange of India Ltd. is set to deliver a major boost to the country’s primary market, but it will be a significant blow to the booming trade in unlisted shares.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/landmark-nse-ipo-threatens-to-hollow-out-india-shadow-market",
-        "publishedAt": "2026-09-15T03:01:07Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Study: Paramount Leaving California Could Cost State 57,980 Jobs, $21.2 Billion",
-        "description": "Projections indicate that a Paramount exodus would severely hurt California's economy to the tune of billions of dollars and tens of thousands of jobs if movie studio head David Ellison made good on his threat to relocate AG Bonta's lawsuit halts the Warner B…",
-        "url": "https://www.breitbart.com/entertainment/2026/09/14/paramount-exodus-would-devastate-california-economy-projections-say/",
-        "publishedAt": "2026-09-15T00:09:42Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "57"
-      },
-      {
-        "title": "Breitbart Business Digest: The Fed Might Be Hiking at the Wrong Moment",
-        "description": "It's almost a certainty that the Federal Reserve will raise interest rates on Wednesday. But the Fed could afford to wait—and probably should.\nThe post Breitbart Business Digest: The Fed Might Be Hiking at the Wrong Moment appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/economy/2026/09/14/breitbart-business-digest-the-fed-might-be-hiking-at-the-wrong-moment/",
-        "publishedAt": "2026-09-14T21:17:29Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bet365 Bonus Code: Bet $10, Get $365 Ahead of Broncos-Chiefs on Monday Night Football",
-        "description": "The Kansas City Chiefs take on the Denver Broncos on \"Monday Night Football.\" Sign up for Bet365 and bet $10 to get $365 in bonus bets.",
-        "url": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-365-ahead-broncos-chiefs-monday-night-football",
-        "publishedAt": "2026-09-14T20:28:32Z",
+        "title": "Trump’s data center push fractures Congress as local anger explodes: 'Grasping at straws'",
+        "description": "Democratic lawmakers push to restrict data centers over water use and electricity bills while Republicans highlight AI race benefits and local control.",
+        "url": "https://www.foxnews.com/politics/trumps-data-center-push-fractures-congress-local-anger-explodes-grasping-straws",
+        "publishedAt": "2026-09-15T10:00:58Z",
         "source": {
           "name": "Fox News"
         },
-        "numericHint": "365"
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "LIZ PEEK: AI alarm bells are ringing and Trump needs to take them seriously",
+        "description": "Trump dismisses AI safety alarms as negative forces, but Anthropic and Google DeepMind leaders are publicly calling for a significant slowdown.",
+        "url": "https://www.foxnews.com/opinion/liz-peek-ai-alarm-bells-ringing-trump-needs-take-seriously",
+        "publishedAt": "2026-09-15T09:00:40Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Forget paying your ‘fair share’ of taxes. Here are 5 ways politicians want even more",
+        "description": "Five ways Washington wants even more from top earners, from capital gains tax hikes and wealth taxes to estate tax changes and sneaky surtaxes.",
+        "url": "https://www.foxnews.com/opinion/forget-paying-fair-share-taxes-5-ways-politicians-want-even-more",
+        "publishedAt": "2026-09-15T09:00:01Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "5"
+      },
+      {
+        "title": "MORNING GLORY: Spare us the AI apocalypse rhetoric. Let Congress decide what comes next",
+        "description": "Congress and the free market should lead the debate about the future of AI not the other way around",
+        "url": "https://www.foxnews.com/opinion/morning-glory-spare-us-ai-apocalypse-rhetoric-let-congress-decide-what-comes-next",
+        "publishedAt": "2026-09-15T08:50:02Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "#894 – Afraid of Heights: West Coast Rap & Aviation History",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from groundbreaking aviation milestones to classic hip-hop lyrics. Can you answer these? Aviation History: Early pioneers spent years experimenting with mechanics before successfully a…",
+        "url": "https://radio.foxnews.com/2026/09/15/894-afraid-of-heights-west-coast-rap-aviation-history/",
+        "publishedAt": "2026-09-15T07:00:46Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "894"
       }
     ],
     "news-korea-soc": [],
