@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-16T00:53:42.289669+00:00",
+  "generated_at": "2026-09-16T05:32:57.657257+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [
+      {
+        "title": "Indian bonds sink as RBI plans ₹1 lakh crore sales to drain liquidity",
+        "description": "2031 yield jumps 16 bps; Citi sees 50-75 bps of rate hikes starting in October amid oil and inflation risks",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures",
+        "publishedAt": "2026-09-15T04:47:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "NSE IPO threatens to hollow out India’s unlisted shadow market",
+        "description": "The landmark listing of National Stock Exchange of India Ltd. is set to deliver a major boost to the country’s primary market, but it will be a significant blow to the booming trade in unlisted shares.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/landmark-nse-ipo-threatens-to-hollow-out-india-shadow-market",
+        "publishedAt": "2026-09-15T03:01:07Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
       {
         "title": "Study: Paramount Leaving California Could Cost State 57,980 Jobs, $21.2 Billion",
         "description": "Projections indicate that a Paramount exodus would severely hurt California's economy to the tune of billions of dollars and tens of thousands of jobs if movie studio head David Ellison made good on his threat to relocate AG Bonta's lawsuit halts the Warner B…",
@@ -33,31 +53,41 @@
           "name": "Fox News"
         },
         "numericHint": "365"
-      },
-      {
-        "title": "Georgia Gov. Brian Kemp Endorses Rep. Mike Collins in High-Stakes U.S. Senate Race",
-        "description": "Georgia Gov. Brian Kemp (R) endorsed Rep. Mike Collins (R-GA) on Monday in the fight to unseat vulnerable far-left Sen. Jon Ossoff (D-GA).\nThe post Georgia Gov. Brian Kemp Endorses Rep. Mike Collins in High-Stakes U.S. Senate Race appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/09/14/georgia-gov-brian-kemp-endorses-rep-mike-collins-in-high-stakes-u-s-senate-race/",
-        "publishedAt": "2026-09-14T20:24:59Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "U.S. Treasury Sanctions Russian Bank in Latest Operation Economic Outcast Action",
-        "description": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has sanctioned Russian financial institution VTB Bank for its continued involvement in assisting Iranian sanctions evasion. VTB is known to have over one thousand branches worldwide.\nThe p…",
-        "url": "https://www.breitbart.com/economy/2026/09/14/u-s-treasury-sanctions-russian-bank-in-latest-operation-economic-outcast-action/",
-        "publishedAt": "2026-09-14T20:00:45Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
       }
     ],
     "news-korea-soc": [],
     "news-thai-soc": [],
     "news-global-soc": [
+      {
+        "title": "Indian bonds sink as RBI plans ₹1 lakh crore sales to drain liquidity",
+        "description": "2031 yield jumps 16 bps; Citi sees 50-75 bps of rate hikes starting in October amid oil and inflation risks",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures",
+        "publishedAt": "2026-09-15T04:47:32Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "1"
+      },
+      {
+        "title": "AI restraint debate boosts outlook for Indian tech stocks",
+        "description": "Shares of companies seen as vulnerable to AI disruption rose globally on Monday, with US-listed shares of Infosys and Wipro Ltd. advancing more than 4.5% each",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/ai-restraint-debate-lifts-outlook-for-india-tech-services-stocks",
+        "publishedAt": "2026-09-15T03:26:56Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "4.5"
+      },
+      {
+        "title": "EU aims to restrict social media, chatbots for kids under 15",
+        "description": "The proposed rules would require parental supervision for younger children and impose restrictions, time limits and controls on mainstream platforms for 13- and 14-year-olds.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-14/eu-looking-to-restrict-social-media-chatbots-for-kids-under-15",
+        "publishedAt": "2026-09-15T03:18:34Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "15"
+      },
       {
         "title": "Waymo Self-Driving Car Pulls over and Calls Police on Passengers over 'Ghost Gun'",
         "description": "A Waymo vehicle pulled over around 4 a.m. on September 3 and police were contacted after the company detected a “violation of ... terms of service involving a firearm,” according to the Los Angeles Times.\nThe post Waymo Self-Driving Car Pulls over and Calls P…",
@@ -73,36 +103,6 @@
         "description": "President Donald Trump on Monday dismissed warnings about artificial intelligence (AI) destroying humanity as a “hoax” and argued that strict regulations would put American companies at a disadvantage against China.\nThe post Trump Calls AI Fears a ‘Hoax,’ Say…",
         "url": "https://www.breitbart.com/politics/2026/09/14/trump-calls-ai-fears-hoax-regulations-bankrupt-u-s-companies/",
         "publishedAt": "2026-09-15T00:14:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "‘Trojan horses’ in America: Congress probes influence networks tied to China, Iran and Cuba",
-        "description": "Lawmakers will examine alleged foreign malign influence operations tied to China, Iran and Cuba after Fox News Digital traced pro-communist network operating inside the U.S.",
-        "url": "https://www.foxnews.com/politics/trojan-horses-america-congress-probes-influence-networks-tied-china-iran-cuba",
-        "publishedAt": "2026-09-15T00:12:45Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Jewish Security Organization Runs Firearms Summer Camp for Rabbis",
-        "description": "Magen Am USA held a five-day summer camp focused on firearms training for rabbis from around the country, according to the New York Post.\nThe post Jewish Security Organization Runs Firearms Summer Camp for Rabbis appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/14/jewish-security-organization-runs-firearms-summer-camp-rabbis/",
-        "publishedAt": "2026-09-14T21:33:19Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "State Department Warns U.S. Companies to Avoid Doing Business with the Taliban",
-        "description": "The U.S. State Department is telling American companies to tread carefully when doing business in Afghanistan.\nThe post State Department Warns U.S. Companies to Avoid Doing Business with the Taliban appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/national-security/2026/09/14/state-department-warns-u-s-companies-avoid-doing-business-taliban/",
-        "publishedAt": "2026-09-14T20:34:01Z",
         "source": {
           "name": "Breitbart News"
         },
