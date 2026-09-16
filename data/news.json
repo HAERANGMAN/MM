@@ -1,20 +1,115 @@
 {
-  "generated_at": "2026-09-15T22:52:21.027551+00:00",
+  "generated_at": "2026-09-16T00:53:42.289669+00:00",
   "sections": {
     "news-korea-econ": [],
     "news-thai-econ": [],
-    "news-global-econ": [],
+    "news-global-econ": [
+      {
+        "title": "Study: Paramount Leaving California Could Cost State 57,980 Jobs, $21.2 Billion",
+        "description": "Projections indicate that a Paramount exodus would severely hurt California's economy to the tune of billions of dollars and tens of thousands of jobs if movie studio head David Ellison made good on his threat to relocate AG Bonta's lawsuit halts the Warner B…",
+        "url": "https://www.breitbart.com/entertainment/2026/09/14/paramount-exodus-would-devastate-california-economy-projections-say/",
+        "publishedAt": "2026-09-15T00:09:42Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "57"
+      },
+      {
+        "title": "Breitbart Business Digest: The Fed Might Be Hiking at the Wrong Moment",
+        "description": "It's almost a certainty that the Federal Reserve will raise interest rates on Wednesday. But the Fed could afford to wait—and probably should.\nThe post Breitbart Business Digest: The Fed Might Be Hiking at the Wrong Moment appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/economy/2026/09/14/breitbart-business-digest-the-fed-might-be-hiking-at-the-wrong-moment/",
+        "publishedAt": "2026-09-14T21:17:29Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bet365 Bonus Code: Bet $10, Get $365 Ahead of Broncos-Chiefs on Monday Night Football",
+        "description": "The Kansas City Chiefs take on the Denver Broncos on \"Monday Night Football.\" Sign up for Bet365 and bet $10 to get $365 in bonus bets.",
+        "url": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-365-ahead-broncos-chiefs-monday-night-football",
+        "publishedAt": "2026-09-14T20:28:32Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "365"
+      },
+      {
+        "title": "Georgia Gov. Brian Kemp Endorses Rep. Mike Collins in High-Stakes U.S. Senate Race",
+        "description": "Georgia Gov. Brian Kemp (R) endorsed Rep. Mike Collins (R-GA) on Monday in the fight to unseat vulnerable far-left Sen. Jon Ossoff (D-GA).\nThe post Georgia Gov. Brian Kemp Endorses Rep. Mike Collins in High-Stakes U.S. Senate Race appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/09/14/georgia-gov-brian-kemp-endorses-rep-mike-collins-in-high-stakes-u-s-senate-race/",
+        "publishedAt": "2026-09-14T20:24:59Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "U.S. Treasury Sanctions Russian Bank in Latest Operation Economic Outcast Action",
+        "description": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has sanctioned Russian financial institution VTB Bank for its continued involvement in assisting Iranian sanctions evasion. VTB is known to have over one thousand branches worldwide.\nThe p…",
+        "url": "https://www.breitbart.com/economy/2026/09/14/u-s-treasury-sanctions-russian-bank-in-latest-operation-economic-outcast-action/",
+        "publishedAt": "2026-09-14T20:00:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "Waymo Self-Driving Car Pulls over and Calls Police on Passengers over 'Ghost Gun'",
+        "description": "A Waymo vehicle pulled over around 4 a.m. on September 3 and police were contacted after the company detected a “violation of ... terms of service involving a firearm,” according to the Los Angeles Times.\nThe post Waymo Self-Driving Car Pulls over and Calls P…",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/09/14/waymo-vehicle-pulls-calls-police-passengers-ghost-gun/",
+        "publishedAt": "2026-09-15T00:37:23Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "4"
+      },
+      {
+        "title": "Trump Calls AI Fears a ‘Hoax,’ Says Regulations Could Bankrupt U.S. Companies",
+        "description": "President Donald Trump on Monday dismissed warnings about artificial intelligence (AI) destroying humanity as a “hoax” and argued that strict regulations would put American companies at a disadvantage against China.\nThe post Trump Calls AI Fears a ‘Hoax,’ Say…",
+        "url": "https://www.breitbart.com/politics/2026/09/14/trump-calls-ai-fears-hoax-regulations-bankrupt-u-s-companies/",
+        "publishedAt": "2026-09-15T00:14:12Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "‘Trojan horses’ in America: Congress probes influence networks tied to China, Iran and Cuba",
+        "description": "Lawmakers will examine alleged foreign malign influence operations tied to China, Iran and Cuba after Fox News Digital traced pro-communist network operating inside the U.S.",
+        "url": "https://www.foxnews.com/politics/trojan-horses-america-congress-probes-influence-networks-tied-china-iran-cuba",
+        "publishedAt": "2026-09-15T00:12:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Jewish Security Organization Runs Firearms Summer Camp for Rabbis",
+        "description": "Magen Am USA held a five-day summer camp focused on firearms training for rabbis from around the country, according to the New York Post.\nThe post Jewish Security Organization Runs Firearms Summer Camp for Rabbis appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2nd-amendment/2026/09/14/jewish-security-organization-runs-firearms-summer-camp-rabbis/",
+        "publishedAt": "2026-09-14T21:33:19Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "State Department Warns U.S. Companies to Avoid Doing Business with the Taliban",
+        "description": "The U.S. State Department is telling American companies to tread carefully when doing business in Afghanistan.\nThe post State Department Warns U.S. Companies to Avoid Doing Business with the Taliban appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/national-security/2026/09/14/state-department-warns-u-s-companies-avoid-doing-business-taliban/",
+        "publishedAt": "2026-09-14T20:34:01Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
