@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-16T15:01:19.909093+00:00",
+  "generated_at": "2026-09-16T18:49:45.300705+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "King Coal Defies Doomers to Rule the Energy Industry with Record Sales",
-        "description": "Coal continues to defy climate doomers who demand its replacement for power generation sooner rather than later. The latest sales figures affirm that dominance with global coal demand forecast to rise by ​1.2 percent in 2026 to a record 8.94 billion ‌tonnes d…",
-        "url": "https://www.breitbart.com/europe/2026/09/15/king-coal-defies-doomers-to-rule-the-energy-industry-with-record-sales/",
-        "publishedAt": "2026-09-15T11:34:02Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "1.2"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
