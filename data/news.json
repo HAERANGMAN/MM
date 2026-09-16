@@ -1,115 +1,30 @@
 {
-  "generated_at": "2026-09-16T10:15:52.642944+00:00",
+  "generated_at": "2026-09-16T15:01:19.909093+00:00",
   "sections": {
-    "news-korea-econ": [],
-    "news-thai-econ": [],
-    "news-global-econ": [
+    "news-korea-econ": [
       {
-        "title": "Trump’s data center push fractures Congress as local anger explodes: 'Grasping at straws'",
-        "description": "Democratic lawmakers push to restrict data centers over water use and electricity bills while Republicans highlight AI race benefits and local control.",
-        "url": "https://www.foxnews.com/politics/trumps-data-center-push-fractures-congress-local-anger-explodes-grasping-straws",
-        "publishedAt": "2026-09-15T10:00:58Z",
+        "title": "King Coal Defies Doomers to Rule the Energy Industry with Record Sales",
+        "description": "Coal continues to defy climate doomers who demand its replacement for power generation sooner rather than later. The latest sales figures affirm that dominance with global coal demand forecast to rise by ​1.2 percent in 2026 to a record 8.94 billion ‌tonnes d…",
+        "url": "https://www.breitbart.com/europe/2026/09/15/king-coal-defies-doomers-to-rule-the-energy-industry-with-record-sales/",
+        "publishedAt": "2026-09-15T11:34:02Z",
         "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "LIZ PEEK: AI alarm bells are ringing and Trump needs to take them seriously",
-        "description": "Trump dismisses AI safety alarms as negative forces, but Anthropic and Google DeepMind leaders are publicly calling for a significant slowdown.",
-        "url": "https://www.foxnews.com/opinion/liz-peek-ai-alarm-bells-ringing-trump-needs-take-seriously",
-        "publishedAt": "2026-09-15T09:00:40Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Forget paying your ‘fair share’ of taxes. Here are 5 ways politicians want even more",
-        "description": "Five ways Washington wants even more from top earners, from capital gains tax hikes and wealth taxes to estate tax changes and sneaky surtaxes.",
-        "url": "https://www.foxnews.com/opinion/forget-paying-fair-share-taxes-5-ways-politicians-want-even-more",
-        "publishedAt": "2026-09-15T09:00:01Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "5"
-      },
-      {
-        "title": "MORNING GLORY: Spare us the AI apocalypse rhetoric. Let Congress decide what comes next",
-        "description": "Congress and the free market should lead the debate about the future of AI not the other way around",
-        "url": "https://www.foxnews.com/opinion/morning-glory-spare-us-ai-apocalypse-rhetoric-let-congress-decide-what-comes-next",
-        "publishedAt": "2026-09-15T08:50:02Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "#894 – Afraid of Heights: West Coast Rap & Aviation History",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from groundbreaking aviation milestones to classic hip-hop lyrics. Can you answer these? Aviation History: Early pioneers spent years experimenting with mechanics before successfully a…",
-        "url": "https://radio.foxnews.com/2026/09/15/894-afraid-of-heights-west-coast-rap-aviation-history/",
-        "publishedAt": "2026-09-15T07:00:46Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "894"
+        "numericHint": "1.2"
       }
     ],
+    "news-thai-econ": [],
+    "news-global-econ": [],
     "news-korea-soc": [],
     "news-thai-soc": [],
-    "news-global-soc": [
-      {
-        "title": "Indian bonds sink as RBI plans ₹1 lakh crore sales to drain liquidity",
-        "description": "2031 yield jumps 16 bps; Citi sees 50-75 bps of rate hikes starting in October amid oil and inflation risks",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures",
-        "publishedAt": "2026-09-15T04:47:32Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "1"
-      },
-      {
-        "title": "AI restraint debate boosts outlook for Indian tech stocks",
-        "description": "Shares of companies seen as vulnerable to AI disruption rose globally on Monday, with US-listed shares of Infosys and Wipro Ltd. advancing more than 4.5% each",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/ai-restraint-debate-lifts-outlook-for-india-tech-services-stocks",
-        "publishedAt": "2026-09-15T03:26:56Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "4.5"
-      },
-      {
-        "title": "EU aims to restrict social media, chatbots for kids under 15",
-        "description": "The proposed rules would require parental supervision for younger children and impose restrictions, time limits and controls on mainstream platforms for 13- and 14-year-olds.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-14/eu-looking-to-restrict-social-media-chatbots-for-kids-under-15",
-        "publishedAt": "2026-09-15T03:18:34Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "15"
-      },
-      {
-        "title": "Waymo Self-Driving Car Pulls over and Calls Police on Passengers over 'Ghost Gun'",
-        "description": "A Waymo vehicle pulled over around 4 a.m. on September 3 and police were contacted after the company detected a “violation of ... terms of service involving a firearm,” according to the Los Angeles Times.\nThe post Waymo Self-Driving Car Pulls over and Calls P…",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/09/14/waymo-vehicle-pulls-calls-police-passengers-ghost-gun/",
-        "publishedAt": "2026-09-15T00:37:23Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "4"
-      },
-      {
-        "title": "Trump Calls AI Fears a ‘Hoax,’ Says Regulations Could Bankrupt U.S. Companies",
-        "description": "President Donald Trump on Monday dismissed warnings about artificial intelligence (AI) destroying humanity as a “hoax” and argued that strict regulations would put American companies at a disadvantage against China.\nThe post Trump Calls AI Fears a ‘Hoax,’ Say…",
-        "url": "https://www.breitbart.com/politics/2026/09/14/trump-calls-ai-fears-hoax-regulations-bankrupt-u-s-companies/",
-        "publishedAt": "2026-09-15T00:14:12Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ]
+    "news-global-soc": []
   },
-  "errors": {},
+  "errors": {
+    "news-thai-econ": "HTTP Error 429: Too Many Requests",
+    "news-global-econ": "HTTP Error 429: Too Many Requests",
+    "news-korea-soc": "HTTP Error 429: Too Many Requests",
+    "news-thai-soc": "HTTP Error 429: Too Many Requests",
+    "news-global-soc": "HTTP Error 429: Too Many Requests"
+  },
   "key_configured": true
 }
