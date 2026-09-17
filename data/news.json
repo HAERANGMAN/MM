@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-17T08:18:58.898160+00:00",
+  "generated_at": "2026-09-17T13:36:06.118724+00:00",
   "sections": {
-    "news-korea-econ": [
+    "news-korea-econ": [],
+    "news-thai-econ": [
       {
-        "title": "King Coal Defies Doomers to Rule the Energy Industry with Record Sales",
-        "description": "Coal continues to defy climate doomers who demand its replacement for power generation sooner rather than later. The latest sales figures affirm that dominance with global coal demand forecast to rise by ​1.2 percent in 2026 to a record 8.94 billion ‌tonnes d…",
-        "url": "https://www.breitbart.com/europe/2026/09/15/king-coal-defies-doomers-to-rule-the-energy-industry-with-record-sales/",
-        "publishedAt": "2026-09-15T11:34:02Z",
+        "title": "Farage Threatens to Cut Off Labour Party's Union Funding if Gov't Targets Reform Donations",
+        "description": "Turnabout is fair play according to Reform UK leader Nigel Farage, who has warned the left-wing Labour Party that he will look to ban political donations from trade unions should the government seek to retroactively ban two large donations from his supporters…",
+        "url": "https://www.breitbart.com/europe/2026/09/16/farage-threatens-to-cut-off-labour-partys-union-funding-if-govt-targets-reform-donations/",
+        "publishedAt": "2026-09-16T08:20:37Z",
         "source": {
           "name": "Breitbart News"
         },
-        "numericHint": "1.2"
+        "numericHint": "데이터없음"
       }
     ],
-    "news-thai-econ": [],
     "news-global-econ": [
       {
-        "title": "SEBI is said to ease arbitrage fund rules to aid auction",
-        "description": "Under the previous system, price swings in the final 30 minutes could create temporary gaps between cash shares and futures, giving arbitrage desks time to step in and close them",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-16/india-s-sebi-is-said-to-ease-arbitrage-fund-rules-to-aid-auction",
-        "publishedAt": "2026-09-16T07:48:23Z",
+        "title": "Trump’s beef import scheme wreaks havoc on fed-up red state cattle ranchers",
+        "description": "Cattle ranchers in red states say Trump's 300,000 metric ton beef import plan has caused market volatility and cost them significant money per head.",
+        "url": "https://www.foxnews.com/politics/trumps-beef-import-scheme-wreaks-havoc-fed-up-red-state-cattle-ranchers",
+        "publishedAt": "2026-09-16T13:15:11Z",
         "source": {
-          "name": "Bloomberg"
+          "name": "Fox News"
         },
-        "numericHint": "30"
+        "numericHint": "300"
       },
       {
-        "title": "Report: Trump Pollster Gives GOP Playbook to Counter Democrat Attacks on AI Data Centers",
-        "description": "President Donald Trump’s longtime pollster Tony Fabrizio sent Republican candidates a memo Monday laying out how to counter Democrat attacks over artificial intelligence data centers.\nThe post Report: Trump Pollster Gives GOP Playbook to Counter Democrat Atta…",
-        "url": "https://www.breitbart.com/politics/2026/09/15/report-trump-pollster-gop-playbook-counter-democrat-attacks-ai-data-centers/",
-        "publishedAt": "2026-09-16T05:53:34Z",
-        "source": {
-          "name": "Breitbart News"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Bitcoin comes under renewed pressure as looming Fed hike adds to woes",
-        "description": "Clarity Act, a crypto regulatory bill in the US, fails to progress in the Senate, disappointing investors who were banking on it to give the market direction",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes",
-        "publishedAt": "2026-09-16T05:04:09Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "데이터없음"
-      },
-      {
-        "title": "Stocks, bonds hold ground before Fed; oil slips: Markets wrap",
-        "description": "Some relief came as Brent dropped 0.6% to about $108.10 a barrel as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
-        "publishedAt": "2026-09-16T03:52:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "0.6"
-      },
-      {
-        "title": "Republican upsets party-backed rival to challenge first openly trans member of Congress",
-        "description": "Delaware Republicans picked a nominee from a three-way primary to challenge Sarah McBride, the first transgender member of Congress, this November.",
-        "url": "https://www.foxnews.com/politics/republican-upsets-party-backed-rival-challenge-openly-trans-congress",
-        "publishedAt": "2026-09-16T00:59:20Z",
+        "title": "Trump is fighting Iran with strategic clarity — and America is winning",
+        "description": "Operation Epic Fury targets Iran's nuclear weapon sites, ballistic missiles, and proxy networks as unprecedented sanctions choke oil exports.",
+        "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
+        "publishedAt": "2026-09-16T13:00:33Z",
         "source": {
           "name": "Fox News"
         },
         "numericHint": "데이터없음"
+      },
+      {
+        "title": "Retail Sales Explode Higher Showing Unexpected Consumer Strength",
+        "description": "Retail sales soared in August, defying predictions that slumping consumer sentiment and rising gasoline prices would trigger a pullback in spending. Sales at retail shops and online rose 1.2 percent, the Commerce Department said Wednesday. Excluding gas stati…",
+        "url": "https://www.breitbart.com/economy/2026/09/16/retail-sales-explode-higher-showing-unexpected-consumer-strength/",
+        "publishedAt": "2026-09-16T12:51:13Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1.2"
+      },
+      {
+        "title": "Saudi Arabia Announces Major Rare Earth and Uranium Discovery in Islamic Holy City of Medina",
+        "description": "The energy minister of Saudi Arabia announced this week that his government had discovered a 110-million-ton cache of rare-earth minerals and uranium in Medina, the second-holiest city in Islam, that the country is expected to develop to diversify its energy …",
+        "url": "https://www.breitbart.com/middle-east/2026/09/16/saudi-arabia-announces-major-rare-earth-and-uranium-discovery-in-islamic-holy-city-of-medina/",
+        "publishedAt": "2026-09-16T12:34:53Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "110"
+      },
+      {
+        "title": "'American Idol' Ditches Gavin Newsom's California for Atlanta in Latest Blow to Hollywood Production",
+        "description": "The long-running competition series American Idol will be shipping production from Los Angeles to Atlanta for its 25th season.\nThe post ‘American Idol’ Ditches Gavin Newsom’s California for Atlanta in Latest Blow to Hollywood Production appeared first on Brei…",
+        "url": "https://www.breitbart.com/entertainment/2026/09/16/american-idol-will-ship-production-from-los-angeles-to-atlanta/",
+        "publishedAt": "2026-09-16T12:21:54Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "25"
       }
     ],
     "news-korea-soc": [
@@ -101,52 +101,52 @@
     "news-thai-soc": [],
     "news-global-soc": [
       {
-        "title": "#895 – Viva La Vida: Olympic Flag Mix-Ups & National Cuisine",
-        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from Olympic flag mix-ups to historic statehood milestones. Can you answer these? Global Cuisine: Rice, saffron, and savory ingredients define one famous pan-cooked dish widely celebra…",
-        "url": "https://radio.foxnews.com/2026/09/16/895-viva-la-vida-olympic-flag-mix-ups-national-cuisine/",
-        "publishedAt": "2026-09-16T07:00:53Z",
+        "title": "Trump is fighting Iran with strategic clarity — and America is winning",
+        "description": "Operation Epic Fury targets Iran's nuclear weapon sites, ballistic missiles, and proxy networks as unprecedented sanctions choke oil exports.",
+        "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
+        "publishedAt": "2026-09-16T13:00:33Z",
         "source": {
           "name": "Fox News"
-        },
-        "numericHint": "895"
-      },
-      {
-        "title": "Stocks, bonds hold ground before Fed; oil slips: Markets wrap",
-        "description": "Some relief came as Brent dropped 0.6% to about $108.10 a barrel as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
-        "publishedAt": "2026-09-16T03:52:48Z",
-        "source": {
-          "name": "Bloomberg"
-        },
-        "numericHint": "0.6"
-      },
-      {
-        "title": "Vance: ‘First Phase’ of U.S.-Iran Conflict Is Over — ‘Much Different Phase’ Coming Within Months",
-        "description": "Vice President JD Vance said the U.S.-Iran conflict will enter a “much different phase” within months, declaring the first stage of the campaign complete as Washington moves to prevent Tehran from rebuilding its nuclear and military capabilities.\nThe post Van…",
-        "url": "https://www.breitbart.com/politics/2026/09/15/vance-first-phase-u-s-iran-conflict-over-different-phase-coming-months/",
-        "publishedAt": "2026-09-16T00:43:47Z",
-        "source": {
-          "name": "Breitbart News"
         },
         "numericHint": "데이터없음"
       },
       {
-        "title": "Common antibiotic linked to higher risk of death in adults, major study finds",
-        "description": "A study of 110 clinical trials links the antibiotic cefepime to a 94.4% higher probability of all-cause mortality compared to other beta-lactam drugs.",
-        "url": "https://www.foxnews.com/health/common-antibiotic-linked-higher-risk-death-adults-major-study-finds",
-        "publishedAt": "2026-09-15T23:47:30Z",
+        "title": "Saudi Arabia Announces Major Rare Earth and Uranium Discovery in Islamic Holy City of Medina",
+        "description": "The energy minister of Saudi Arabia announced this week that his government had discovered a 110-million-ton cache of rare-earth minerals and uranium in Medina, the second-holiest city in Islam, that the country is expected to develop to diversify its energy …",
+        "url": "https://www.breitbart.com/middle-east/2026/09/16/saudi-arabia-announces-major-rare-earth-and-uranium-discovery-in-islamic-holy-city-of-medina/",
+        "publishedAt": "2026-09-16T12:34:53Z",
         "source": {
-          "name": "Fox News"
+          "name": "Breitbart News"
         },
         "numericHint": "110"
       },
       {
-        "title": "Far-Left Georgia Sen. Jon Ossoff Calls for International ‘AI Treaty’",
-        "description": "Far-left Sen. Jon Ossoff (D-GA) is calling for the globalist governance of artificial intelligence.\nThe post Far-Left Georgia Sen. Jon Ossoff Calls for International ‘AI Treaty’ appeared first on Breitbart.",
-        "url": "https://www.breitbart.com/politics/2026/09/15/far-left-georgia-sen-jon-ossoff-calls-for-international-ai-treaty/",
-        "publishedAt": "2026-09-15T21:29:33Z",
+        "title": "India, Pakistan warships collide at sea, adding to tensions",
+        "description": "Indian and Pakistani warships collide in the Arabian Sea, escalating tensions between the nuclear-armed neighbors amid ongoing conflicts.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/india-pakistan-warships-collide-at-sea-adding-to-tensions",
+        "publishedAt": "2026-09-16T11:52:00Z",
         "source": {
-          "name": "Breitbart News"
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Trump's AI race with China could become the biggest mistake of our time",
+        "description": "AI leaders like Dario Amodei, Sam Altman and Elon Musk urge slowing development, but Trump insists America can't pause with China closing in.",
+        "url": "https://www.foxnews.com/opinion/trumps-ai-race-china-could-become-biggest-mistake-our-time",
+        "publishedAt": "2026-09-16T11:00:42Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business",
+        "description": "Critics say Norway's proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist.",
+        "url": "https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business",
+        "publishedAt": "2026-09-16T10:00:19Z",
+        "source": {
+          "name": "Fox News"
         },
         "numericHint": "데이터없음"
       }
