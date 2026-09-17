@@ -1,20 +1,157 @@
 {
-  "generated_at": "2026-09-17T02:54:09.893002+00:00",
+  "generated_at": "2026-09-17T08:18:58.898160+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "King Coal Defies Doomers to Rule the Energy Industry with Record Sales",
+        "description": "Coal continues to defy climate doomers who demand its replacement for power generation sooner rather than later. The latest sales figures affirm that dominance with global coal demand forecast to rise by ​1.2 percent in 2026 to a record 8.94 billion ‌tonnes d…",
+        "url": "https://www.breitbart.com/europe/2026/09/15/king-coal-defies-doomers-to-rule-the-energy-industry-with-record-sales/",
+        "publishedAt": "2026-09-15T11:34:02Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "1.2"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
+    "news-global-econ": [
+      {
+        "title": "SEBI is said to ease arbitrage fund rules to aid auction",
+        "description": "Under the previous system, price swings in the final 30 minutes could create temporary gaps between cash shares and futures, giving arbitrage desks time to step in and close them",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/india-s-sebi-is-said-to-ease-arbitrage-fund-rules-to-aid-auction",
+        "publishedAt": "2026-09-16T07:48:23Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "30"
+      },
+      {
+        "title": "Report: Trump Pollster Gives GOP Playbook to Counter Democrat Attacks on AI Data Centers",
+        "description": "President Donald Trump’s longtime pollster Tony Fabrizio sent Republican candidates a memo Monday laying out how to counter Democrat attacks over artificial intelligence data centers.\nThe post Report: Trump Pollster Gives GOP Playbook to Counter Democrat Atta…",
+        "url": "https://www.breitbart.com/politics/2026/09/15/report-trump-pollster-gop-playbook-counter-democrat-attacks-ai-data-centers/",
+        "publishedAt": "2026-09-16T05:53:34Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Bitcoin comes under renewed pressure as looming Fed hike adds to woes",
+        "description": "Clarity Act, a crypto regulatory bill in the US, fails to progress in the Senate, disappointing investors who were banking on it to give the market direction",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes",
+        "publishedAt": "2026-09-16T05:04:09Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Stocks, bonds hold ground before Fed; oil slips: Markets wrap",
+        "description": "Some relief came as Brent dropped 0.6% to about $108.10 a barrel as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
+        "publishedAt": "2026-09-16T03:52:48Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.6"
+      },
+      {
+        "title": "Republican upsets party-backed rival to challenge first openly trans member of Congress",
+        "description": "Delaware Republicans picked a nominee from a three-way primary to challenge Sarah McBride, the first transgender member of Congress, this November.",
+        "url": "https://www.foxnews.com/politics/republican-upsets-party-backed-rival-challenge-openly-trans-congress",
+        "publishedAt": "2026-09-16T00:59:20Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "South Korea Plans Security Guidelines for AI Agents",
+        "description": "The Korea Internet and Security Agency (KISA), South Korea’s principal internet security agency, said on Tuesday it is developing safety guidelines for agentic AI — that is, artificial intelligence programs that can operate without direct human supervision.\nT…",
+        "url": "https://www.breitbart.com/tech/2026/09/15/south-korea-plans-security-guidelines-for-ai-agents/",
+        "publishedAt": "2026-09-15T22:24:32Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Pentagon reveals secret space weapons are already in orbit — but won't say what they do",
+        "description": "Air Force Secretary Troy Meink revealed the Space Force has on-orbit space control weapons, but the Pentagon won't say what they are or how they work.",
+        "url": "https://www.foxnews.com/politics/pentagon-reveals-secret-space-weapons-already-orbit-wont-say-what-they-do",
+        "publishedAt": "2026-09-15T20:13:43Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "North Korea Tests 'New Combat Systems,' Including Advanced Drones, in Strike Drill",
+        "description": "The communist government of North Korea announced on Monday that it had conducted a “firepower attack drill” featuring missiles, drones, rocket launchers, and artillery.\nThe post North Korea Tests ‘New Combat Systems,’ Including Advanced Drones, in Strike Dri…",
+        "url": "https://www.breitbart.com/asia/2026/09/15/north-korea-tests-new-combat-systems-including-advanced-drones-in-strike-drill/",
+        "publishedAt": "2026-09-15T17:22:06Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-soc": [
+      {
+        "title": "#895 – Viva La Vida: Olympic Flag Mix-Ups & National Cuisine",
+        "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from Olympic flag mix-ups to historic statehood milestones. Can you answer these? Global Cuisine: Rice, saffron, and savory ingredients define one famous pan-cooked dish widely celebra…",
+        "url": "https://radio.foxnews.com/2026/09/16/895-viva-la-vida-olympic-flag-mix-ups-national-cuisine/",
+        "publishedAt": "2026-09-16T07:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "895"
+      },
+      {
+        "title": "Stocks, bonds hold ground before Fed; oil slips: Markets wrap",
+        "description": "Some relief came as Brent dropped 0.6% to about $108.10 a barrel as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
+        "publishedAt": "2026-09-16T03:52:48Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "0.6"
+      },
+      {
+        "title": "Vance: ‘First Phase’ of U.S.-Iran Conflict Is Over — ‘Much Different Phase’ Coming Within Months",
+        "description": "Vice President JD Vance said the U.S.-Iran conflict will enter a “much different phase” within months, declaring the first stage of the campaign complete as Washington moves to prevent Tehran from rebuilding its nuclear and military capabilities.\nThe post Van…",
+        "url": "https://www.breitbart.com/politics/2026/09/15/vance-first-phase-u-s-iran-conflict-over-different-phase-coming-months/",
+        "publishedAt": "2026-09-16T00:43:47Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Common antibiotic linked to higher risk of death in adults, major study finds",
+        "description": "A study of 110 clinical trials links the antibiotic cefepime to a 94.4% higher probability of all-cause mortality compared to other beta-lactam drugs.",
+        "url": "https://www.foxnews.com/health/common-antibiotic-linked-higher-risk-death-adults-major-study-finds",
+        "publishedAt": "2026-09-15T23:47:30Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "110"
+      },
+      {
+        "title": "Far-Left Georgia Sen. Jon Ossoff Calls for International ‘AI Treaty’",
+        "description": "Far-left Sen. Jon Ossoff (D-GA) is calling for the globalist governance of artificial intelligence.\nThe post Far-Left Georgia Sen. Jon Ossoff Calls for International ‘AI Treaty’ appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2026/09/15/far-left-georgia-sen-jon-ossoff-calls-for-international-ai-treaty/",
+        "publishedAt": "2026-09-15T21:29:33Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
