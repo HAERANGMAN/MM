@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-17T17:44:21.522931+00:00",
+  "generated_at": "2026-09-17T20:35:27.693913+00:00",
   "sections": {
-    "news-korea-econ": [
-      {
-        "title": "War crimes court turns 'blind eye' to top world threats while targeting Americans, Trump admin accuses",
-        "description": "The State Department accused the International Criminal Court of targeting Americans while ignoring atrocities by Iran, North Korea and Syria.",
-        "url": "https://www.foxnews.com/politics/war-crimes-court-turns-blind-eye-top-world-threats-targeting-americans-trump-admin-accuses",
-        "publishedAt": "2026-09-16T16:37:34Z",
-        "source": {
-          "name": "Fox News"
-        },
-        "numericHint": "데이터없음"
-      }
-    ],
+    "news-korea-econ": [],
     "news-thai-econ": [],
     "news-global-econ": [],
     "news-korea-soc": [],
@@ -20,6 +9,7 @@
     "news-global-soc": []
   },
   "errors": {
+    "news-korea-econ": "HTTP Error 429: Too Many Requests",
     "news-thai-econ": "HTTP Error 429: Too Many Requests",
     "news-global-econ": "HTTP Error 429: Too Many Requests",
     "news-korea-soc": "HTTP Error 429: Too Many Requests",
