@@ -1,20 +1,158 @@
 {
-  "generated_at": "2026-09-18T05:59:06.005367+00:00",
+  "generated_at": "2026-09-18T11:02:53.121595+00:00",
   "sections": {
-    "news-korea-econ": [],
+    "news-korea-econ": [
+      {
+        "title": "War crimes court turns 'blind eye' to top world threats while targeting Americans, Trump admin accuses",
+        "description": "The State Department accused the International Criminal Court of targeting Americans while ignoring atrocities by Iran, North Korea and Syria.",
+        "url": "https://www.foxnews.com/politics/war-crimes-court-turns-blind-eye-top-world-threats-targeting-americans-trump-admin-accuses",
+        "publishedAt": "2026-09-16T16:37:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
     "news-thai-econ": [],
-    "news-global-econ": [],
-    "news-korea-soc": [],
-    "news-thai-soc": [],
-    "news-global-soc": []
+    "news-global-econ": [
+      {
+        "title": "Ridiculous USA Today column proves that the demand for misogyny in sports far exceeds the supply",
+        "description": "A USA Today columnist cited Sydney Sweeney's betting ad, an Arch Manning joke and an arena rendering as proof sports don't want women around.",
+        "url": "https://www.foxnews.com/outkick-sports/ridiculous-usa-today-column-proves-demand-misogyny-sports-exceeds-supply",
+        "publishedAt": "2026-09-17T10:48:23Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "India’s municipal bond market gets SEBI push as urban funding needs rise",
+        "description": "India is seeking to expand its municipal debt market as cities face substantial funding requirements for infrastructure development through fiscal year 2031",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/india-s-900-billion-infrastructure-push-may-spur-muni-bonds",
+        "publishedAt": "2026-09-17T10:32:36Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "2031"
+      },
+      {
+        "title": "Fed rate hike, falling oil prices spur stock market rally: What’s ahead?",
+        "description": "Stocks and Treasuries rise as oil prices drop, boosting hopes for controlled inflation after the Fed's recent rate hike.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
+        "publishedAt": "2026-09-17T10:23:04Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "Nobody Panic: U.N. Chief Guterres Ready to Claim Bureaucratic Primacy in Global AI Governance",
+        "description": "Nobody panic. The U.N. and its vast globalist elite bureaucracy is ready to claim central oversight, control, and administration of future artificial intelligence (AI) development to ease worries about the fast-developing science.\nThe post Nobody Panic: U.N. …",
+        "url": "https://www.breitbart.com/tech/2026/09/17/nobody-panic-u-n-chief-guterres-ready-to-claim-bureaucratic-primacy-in-global-ai-governance/",
+        "publishedAt": "2026-09-17T10:03:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "The Fed just threw a wrench in Trump's midterm economic message",
+        "description": "Kevin Warsh's first rate hike as Fed chair defies President Donald Trump's repeated push for lower borrowing costs ahead of midterm elections.",
+        "url": "https://www.foxnews.com/politics/fed-threw-wrench-trumps-midterm-economic-message",
+        "publishedAt": "2026-09-17T10:00:26Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-korea-soc": [
+      {
+        "title": "Fraud expert exposes how hidden networks drove Minnesota fraud, other major scams: 'Criminal enterprise'",
+        "description": "Haywood Talcove reveals how criminals use LLCs and stolen identities to bill Medicaid for fake claims, fueling human trafficking and cybercrime.",
+        "url": "https://www.foxnews.com/politics/fraud-expert-exposes-hidden-networks-drove-minnesota-fraud-major-scams-criminal-enterprise",
+        "publishedAt": "2026-09-16T18:18:07Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "War crimes court turns 'blind eye' to top world threats while targeting Americans, Trump admin accuses",
+        "description": "The State Department accused the International Criminal Court of targeting Americans while ignoring atrocities by Iran, North Korea and Syria.",
+        "url": "https://www.foxnews.com/politics/war-crimes-court-turns-blind-eye-top-world-threats-targeting-americans-trump-admin-accuses",
+        "publishedAt": "2026-09-16T16:37:34Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "데이터없음"
+      }
+    ],
+    "news-thai-soc": [
+      {
+        "title": "‘Do not physically resist’: US issues chilling robbery warning for Americans overseas",
+        "description": "The State Department's Cambodia travel advisory flags crime, unrest and unexploded ordnance, with some border areas elevated to Level 4 warnings.",
+        "url": "https://www.foxnews.com/travel/do-not-physically-resist-us-issues-chilling-robbery-warning-americans-overseas",
+        "publishedAt": "2026-09-16T19:36:35Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "4"
+      }
+    ],
+    "news-global-soc": [
+      {
+        "title": "Champion athlete soils herself mid-race and keeps going, prompting fitness competition to change rules",
+        "description": "HYROX Beijing 2026 winner Joanna Wietrzyk faced online backlash after an incontinence incident during the race, prompting new competition rule changes.",
+        "url": "https://www.foxnews.com/health/champion-athlete-soils-herself-mid-race-keeps-going-prompting-fitness-competition-change-rules",
+        "publishedAt": "2026-09-17T11:00:53Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "2026"
+      },
+      {
+        "title": "Pope Leo XIV receives 'symbolic’ sphere in charity's push for AI to 'protect human dignity'",
+        "description": "Photos show Pope Leo XIV receiving the \"Sphere of Humanity\" glass sculpture as 70 leaders prepare to draft the Codex Humanitatis on AI ethics.",
+        "url": "https://www.foxnews.com/us/pope-leo-xiv-receives-symbolic-sphere-charity-push-ai-protect-human-dignity",
+        "publishedAt": "2026-09-17T10:47:45Z",
+        "source": {
+          "name": "Fox News"
+        },
+        "numericHint": "70"
+      },
+      {
+        "title": "Nobody Panic: U.N. Chief Guterres Ready to Claim Bureaucratic Primacy in Global AI Governance",
+        "description": "Nobody panic. The U.N. and its vast globalist elite bureaucracy is ready to claim central oversight, control, and administration of future artificial intelligence (AI) development to ease worries about the fast-developing science.\nThe post Nobody Panic: U.N. …",
+        "url": "https://www.breitbart.com/tech/2026/09/17/nobody-panic-u-n-chief-guterres-ready-to-claim-bureaucratic-primacy-in-global-ai-governance/",
+        "publishedAt": "2026-09-17T10:03:45Z",
+        "source": {
+          "name": "Breitbart News"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "King Charles calls on Nvidia, OpenAI chiefs to control AI",
+        "description": "King Charles urges AI leaders to ensure technology remains beneficial and safe, addressing global concerns about its impact on humanity.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+        "publishedAt": "2026-09-17T08:55:20Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "데이터없음"
+      },
+      {
+        "title": "EQT plans $50 billion India investment, including Adani Connex",
+        "description": "The bulk of the buyout firm’s investments — around $30 billion — will be in data centers, with another $5 billion devoted to renewable energy to power them, according to Jean Salata, chair of Stockholm-based EQT.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/eqt-plans-50-billion-india-investment-including-adani-connex",
+        "publishedAt": "2026-09-17T07:00:46Z",
+        "source": {
+          "name": "Bloomberg"
+        },
+        "numericHint": "$"
+      }
+    ]
   },
-  "errors": {
-    "news-korea-econ": "HTTP Error 429: Too Many Requests",
-    "news-thai-econ": "HTTP Error 429: Too Many Requests",
-    "news-global-econ": "HTTP Error 429: Too Many Requests",
-    "news-korea-soc": "HTTP Error 429: Too Many Requests",
-    "news-thai-soc": "HTTP Error 429: Too Many Requests",
-    "news-global-soc": "HTTP Error 429: Too Many Requests"
-  },
+  "errors": {},
   "key_configured": true
 }
